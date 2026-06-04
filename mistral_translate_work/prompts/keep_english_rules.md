@@ -1,0 +1,117 @@
+# Quy Tắc Giữ Nguyên Tiếng Anh (Keep English Rules)
+
+Tài liệu này định nghĩa các nhóm dòng văn bản không cần gửi đi dịch qua LLM. Khi hệ thống phát hiện các dòng thỏa mãn các điều kiện dưới đây, hệ thống sẽ tự động gán thẳng giá trị:
+
+```json
+"translation_vi": "source_en"
+```
+
+Điều này giúp tiết kiệm chi phí dịch thuật API và đảm bảo tính đồng bộ của các tên riêng trong game.
+
+---
+
+## 1. Tên Vũ Khí (Weapon Names)
+
+* **Tệp tin áp dụng**: `lang_weapon.json`
+* **Điều kiện lọc**:
+  - Tên bảng: `table = "WeaponConf"`
+  - Định dạng: Dòng ngắn, dạng tên riêng của vũ khí.
+  - Loại trừ: Không chứa các ký tự đặc biệt `{ }`, thẻ định dạng (tag HTML/game), các chỉ số số học, hoặc câu mô tả hiệu ứng.
+
+> [!TIP]
+> **Ví dụ giữ nguyên:**
+> - `Primordial Broadblade`
+> - `Training Broadblade`
+> - `Broadblade of night`
+> - `Ultrasonic Matrix`
+
+> [!WARNING]
+> **Không áp dụng quy tắc này cho:**
+> - Từ đơn lẻ `Weapon` -> Vẫn có thể dịch là `Vũ khí`.
+> - Các câu mô tả cốt truyện (lore) dài của vũ khí.
+> - Các dòng mô tả hiệu ứng chứa các chỉ số như `ATK`, `DMG`, `HP`.
+
+---
+
+## 2. Tên Thú Cưng / Echo / Boss / Quái Vật (Echo, Boss & Monster Names)
+
+* **Tệp tin áp dụng**: `lang_phantom.json`, `lang_monster_Info.json`, `lang_condition.json`
+* **Điều kiện lọc**:
+  - Tên bảng: `table = "PhantomItem"`, `table = "MonsterInfo"`, `table = "Condition"`
+  - Định dạng: Dòng ngắn dạng tên riêng của quái vật/Echo/Boss.
+
+> [!TIP]
+> **Ví dụ giữ nguyên:**
+> - `Vanguard Junrock`
+> - `Impulse Predator`
+> - `Whiff Whoosh`
+> - `Glacio Prism`
+> - `Crownless`
+> - `Bell-Borne Geochelone`
+> - `Seatrail Narwhal`
+> - `Inferno Rider`
+> - `Hoochief`
+
+> [!WARNING]
+> **Không áp dụng quy tắc này cho:**
+> - Từ đơn lẻ `Echo`.
+> - Các câu thông báo hệ thống như `Wutrelic Unlocked.`.
+> - Các câu mô tả dài về cốt truyện hoặc hành vi của quái vật.
+
+---
+
+## 3. Tên Bộ Echo (Echo Set Names)
+
+* **Tệp tin áp dụng**: `lang_phantom.json`
+* **Điều kiện lọc**:
+  - Tên bảng: `table = "PhantomFetter"`
+  - Định dạng: Dòng ngắn dạng tên của bộ Echo.
+  - Loại trừ: Không phải là các dòng mô tả hiệu ứng kích hoạt bộ (ví dụ: các dòng chứa `ATK increases...`).
+
+> [!TIP]
+> **Ví dụ giữ nguyên:**
+> - `Rolling Thunder`
+> - `Rock Valley Resonance`
+> - `Battle Song Rhythm`
+> - `Mass Displacement`
+
+---
+
+## 4. Tên Nút Cộng Hưởng / Resonance Chain (RC Nodes)
+
+* **Tệp tin áp dụng**: `lang_multi_text.json`
+* **Điều kiện lọc**:
+  - Tên bảng: `table = "MultiText"`
+  - Khóa chính (`primary_key`) thỏa mãn đồng thời:
+    - Bắt đầu bằng: `ResonantChain_`
+    - Kết thúc bằng: `_NodeName`
+
+> [!NOTE]
+> Giữ nguyên toàn bộ tên của các nút Resonance Chain bằng tiếng Anh gốc.
+
+---
+
+## 5. Tên Kỹ Năng Nhân Vật (Character Skill Names)
+
+* **Tệp tin áp dụng**:
+  - `lang_multi_text.json`
+  - `lang_skill.json`
+  - `lang_skillTree.json`
+* **Điều kiện lọc**:
+  - Khóa chính (`primary_key`) chứa cụm từ `_SkillName`
+  - Hoặc `primary_key` bắt đầu bằng `Skill_` và kết thúc bằng `_SkillName`
+  - Hoặc `primary_key` bắt đầu bằng `RoleSkillTreeInfo_` và kết thúc bằng `_Title`
+  - Hoặc tên bảng `table = "Skill"` trong tệp `lang_skill.json`
+  - Hoặc tên bảng `table = "RoleSkillTreeInfo"` trong tệp `lang_skillTree.json`
+
+> [!TIP]
+> **Ví dụ giữ nguyên:**
+> - `Slayer's Trigger`
+> - `Sundering Strike`
+> - `Colors Never Fade!`
+> - `Try Focusing, Eh?`
+> - `Commedia Improvviso!`
+
+> [!WARNING]
+> **Không áp dụng quy tắc này cho:**
+> Các mô tả chi tiết của kỹ năng như khóa chính chứa `_SkillDescribe`, `_Description`, hoặc `_DescList` (các dòng này bắt buộc phải gửi đi dịch).
