@@ -73,7 +73,8 @@ Ví dụ đúng:
 - `Havoc DMG` (Sát thương Tối)
 
 ### 5. Tên Quái vật, Boss và Echo (Monster, Boss & Echo Names)
-- Bắt buộc giữ nguyên bằng tiếng Anh tên của tất cả các Tacet Discords, Boss tuần, Quái vật và tên của Echo (ví dụ: `Crownless`, `Bell-Borne Geochelone`, `Seatrail Narwhal`, `Inferno Rider`, `Hoochief`, `Feilian Beringal`, `Spearback Ursa`, `Chirpuff`, `Glacio Prism`, `Impermanence Heron`, `Mourning Aix`, v.v.).
+- Bắt buộc giữ nguyên bằng tiếng Anh tên của tất cả các Tacet Discords, Boss tuần, Quái vật, Sentinel và tên của Echo (ví dụ: `Crownless`, `Bell-Borne Geochelone`, `Seatrail Narwhal`, `Inferno Rider`, `Hoochief`, `Feilian Beringal`, `Spearback Ursa`, `Chirpuff`, `Glacio Prism`, `Impermanence Heron`, `Mourning Aix`, `Sentinel`, `Sentinel Jué`, `Sentinel Imperator`, v.v.).
+
 
 ### 6. Hiệu ứng xấu / Debuff / Status Effects
 
