@@ -36,7 +36,7 @@
     "primary_key": "PhantomBattleHeroSkill_1406_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "",
     "rule_decision": "RETRY",
     "rule_score": 4,
@@ -3896,7 +3896,7 @@
     "ai_reason": "",
     "source_en": "<color=#e2524c>{0}</color>/{1}",
     "review_note": "",
-    "new_translation_vi": "<color=#e2524c>{0}</color>/{1}",
+    "new_translation_vi": "{0}/{1}",
     "translator_note": ""
   },
   {
@@ -4396,7 +4396,7 @@
     "ai_reason": "",
     "source_en": "A deck will be created from the selected preset, and will <color=#e2524c>overwrite</color> your current deck. Proceed?",
     "review_note": "",
-    "new_translation_vi": "Bộ bài sẽ được tạo từ thiết lập có sẵn đã chọn và sẽ <color=#e2524c>overwrite</color> lên bộ bài hiện tại của bạn. Tiếp tục chứ?",
+    "new_translation_vi": "Bộ bài sẽ được tạo từ thiết lập có sẵn đã chọn và sẽ <color=#e2524c>ghi đè</color> lên bộ bài hiện tại của bạn. Tiếp tục chứ?",
     "translator_note": ""
   },
   {
@@ -4771,7 +4771,7 @@
     "ai_reason": "",
     "source_en": "<color=#f09f4e>{0}</color>/{1}",
     "review_note": "",
-    "new_translation_vi": "<color=#f09f4e>{0}</color>/{1}",
+    "new_translation_vi": "{0}/{1}",
     "translator_note": ""
   },
   {
@@ -4796,7 +4796,7 @@
     "ai_reason": "",
     "source_en": "<color=#f09f4e>{0}</color>/{1}",
     "review_note": "",
-    "new_translation_vi": "<color=#f09f4e>{0}</color>/{1}",
+    "new_translation_vi": "{0}/{1}",
     "translator_note": ""
   },
   {
@@ -4821,7 +4821,7 @@
     "ai_reason": "",
     "source_en": "<color=#c7fe96>{0}</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#c7fe96>{0}</color>",
+    "new_translation_vi": "{0}",
     "translator_note": ""
   },
   {
@@ -4846,7 +4846,7 @@
     "ai_reason": "",
     "source_en": "<color=#ff758d>{0}</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#ff758d>{0}</color>",
+    "new_translation_vi": "{0}",
     "translator_note": ""
   },
   {
@@ -4886,7 +4886,7 @@
     "primary_key": "Farm_Effect2",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:<te href=851000>|missing_token:</te>",
     "rule_decision": "RETRY",
     "rule_score": 6,
@@ -4896,7 +4896,7 @@
     "ai_reason": "",
     "source_en": "<te href=851000><color=#c79f49>Dream of Gradation</color></te> Echoes are more likely to appear.",
     "review_note": "",
-    "new_translation_vi": "<color=#c79f49>Dream of Gradation</color> có khả năng xuất hiện Echo cao hơn.",
+    "new_translation_vi": "<color=#c79f49>Giấc Mơ Phân Tầng</color> có khả năng xuất hiện Echo cao hơn.",
     "translator_note": ""
   },
   {
@@ -4911,7 +4911,7 @@
     "primary_key": "Farm_Effect4",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:<te href=851001>|missing_token:</te>",
     "rule_decision": "RETRY",
     "rule_score": 6,
@@ -4921,7 +4921,7 @@
     "ai_reason": "",
     "source_en": "<te href=851001><color=#c79f49>Dream of Devouring</color></te> Echoes are more likely to appear.",
     "review_note": "",
-    "new_translation_vi": "<color=#c79f49>Dream of Devouring</color> có khả năng xuất hiện Echo cao hơn.",
+    "new_translation_vi": "<color=#c79f49>Giấc Mơ Nuốt Chửng</color> có khả năng xuất hiện Echo cao hơn.",
     "translator_note": ""
   },
   {
@@ -4936,7 +4936,7 @@
     "primary_key": "Farm_Effect7",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:<te href=851002>|missing_token:</te>",
     "rule_decision": "RETRY",
     "rule_score": 6,
@@ -4946,7 +4946,7 @@
     "ai_reason": "",
     "source_en": "<te href=851002><color=#c79f49>Dream of Exchange</color></te> Echoes are more likely to appear.",
     "review_note": "",
-    "new_translation_vi": "<color=#c79f49>Dream of Exchange</color> có khả năng xuất hiện Echo cao hơn.",
+    "new_translation_vi": "<color=#c79f49>Giấc Mơ Trao Đổi</color> có khả năng xuất hiện Echo cao hơn.",
     "translator_note": ""
   },
   {
@@ -4961,7 +4961,7 @@
     "primary_key": "Farm_Effect9",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:<te href=851003>|missing_token:</te>",
     "rule_decision": "RETRY",
     "rule_score": 6,
@@ -4971,7 +4971,7 @@
     "ai_reason": "",
     "source_en": "<te href=851003><color=#c79f49>Dream of Integration</color></te> Echoes are more likely to appear.",
     "review_note": "",
-    "new_translation_vi": "<color=#c79f49>Dream of Integration</color> có khả năng xuất hiện Echo cao hơn.",
+    "new_translation_vi": "<color=#c79f49>Giấc Mơ Hòa Nhập</color> có khả năng xuất hiện Echo cao hơn.",
     "translator_note": ""
   },
   {
@@ -5396,7 +5396,7 @@
     "ai_reason": "",
     "source_en": "All Out! Towards the Peaks of Prestige",
     "review_note": "",
-    "new_translation_vi": "Tất Cả Ra Trận! Vươn Tới Đỉnh Danh Vọng",
+    "new_translation_vi": "Tất Cả Vào Cuộc! Vươn Tới Đỉnh Danh Vọng",
     "translator_note": ""
   },
   {
@@ -5421,7 +5421,7 @@
     "ai_reason": "",
     "source_en": "<color=#ffc802>{0}</color>/{1}",
     "review_note": "",
-    "new_translation_vi": "<color=#ffc802>{0}</color>/{1}",
+    "new_translation_vi": "{0}/{1}",
     "translator_note": ""
   },
   {
@@ -7071,7 +7071,7 @@
     "ai_reason": "",
     "source_en": "Upgrade any 3 Resonators to Level 30.",
     "review_note": "",
-    "new_translation_vi": "Nâng cấp 3 Cộng Hưởng Giả bất kỳ lên cấp 30.",
+    "new_translation_vi": "Nâng cấp 3 Resonator bất kỳ lên cấp 30.",
     "translator_note": ""
   },
   {
@@ -7121,7 +7121,7 @@
     "ai_reason": "",
     "source_en": "Upgrade 1 Resonator to Level 60.",
     "review_note": "",
-    "new_translation_vi": "Nâng cấp 1 Cộng Hưởng Giả lên Cấp 60.",
+    "new_translation_vi": "Nâng cấp 1 Resonator lên Cấp 60.",
     "translator_note": ""
   },
   {
@@ -8146,7 +8146,7 @@
     "ai_reason": "",
     "source_en": "<color=#e4c69b>Flash</color> <color=#fb6464>(Unactivated)</color> - At the start of the Battle Stage, teleport this Echo to the opponent's Backline area.",
     "review_note": "",
-    "new_translation_vi": "<color=#e4c69b>Flash</color> <color=#fb6464>(Unactivated)</color> - Khi Giai Đoạn Chiến Đấu bắt đầu, dịch chuyển Tổ Tacet này đến Khu Hậu Cảnh của đối phương.",
+    "new_translation_vi": "<color=#e4c69b>Thần Tốc</color> <color=#fb6464>(Chưa kích hoạt)</color> - Khi Giai Đoạn Chiến Đấu bắt đầu, dịch chuyển Tổ Tacet này đến Khu Hậu Cảnh của đối phương.",
     "translator_note": ""
   },
   {
@@ -8171,7 +8171,7 @@
     "ai_reason": "",
     "source_en": "<color=#e4c69b>Cycle</color> <color=#fb6464>(Unactivated)</color> - Reconstructing this Echo grants {0} more points of Energy.",
     "review_note": "",
-    "new_translation_vi": "<color=#e4c69b>Cycle</color> <color=#fb6464>(Unactivated)</color> - Tái cấu trúc Tacet Discord này sẽ cung cấp thêm {0} điểm Năng Lượng.",
+    "new_translation_vi": "<color=#e4c69b>Cycle</color> <color=#fb6464>(Chưa kích hoạt)</color> - Tái cấu trúc Tacet Discord này sẽ cung cấp thêm {0} điểm Năng Lượng.",
     "translator_note": ""
   },
   {
@@ -8521,7 +8521,7 @@
     "ai_reason": "",
     "source_en": "Invite Resonators to the Thermes Baths for the first time.",
     "review_note": "",
-    "new_translation_vi": "Mời Cộng Hưởng Giả đến suối nước nóng Thermes lần đầu",
+    "new_translation_vi": "Mời Resonator đến suối nước nóng Thermes lần đầu",
     "translator_note": ""
   },
   {
@@ -8546,7 +8546,7 @@
     "ai_reason": "",
     "source_en": "Obtain all Echoes in \"All Out! Towards the Peaks of Prestige.\"",
     "review_note": "",
-    "new_translation_vi": "Thu thập tất cả Tiếng Vang trong \"Tất Sả! Vươn Tới Đỉnh Vinh Quang\".",
+    "new_translation_vi": "Thu thập tất cả Echo trong \"Tất Sả! Vươn Tới Đỉnh Vinh Quang\".",
     "translator_note": ""
   },
   {
@@ -8596,7 +8596,7 @@
     "ai_reason": "",
     "source_en": "Obtain all Resonator Tactics in \"All Out! Towards the Peaks of Prestige.\"",
     "review_note": "",
-    "new_translation_vi": "Thu thập tất cả Chiến Thuật Cộng Hưởng Giả trong \"Tất Cả Vào Cuộc! Vươn Tới Đỉnh Danh Vọng.\"",
+    "new_translation_vi": "Thu thập tất cả Chiến Thuật Resonator trong \"Tất Cả Vào Cuộc! Vươn Tới Đỉnh Danh Vọng.\"",
     "translator_note": ""
   },
   {
@@ -8886,7 +8886,7 @@
     "primary_key": "Farm_DungeonTarget",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:<SapTag=0>|missing_token:</SapTag>",
     "rule_decision": "RETRY",
     "rule_score": 6,
@@ -9546,7 +9546,7 @@
     "ai_reason": "",
     "source_en": "Echo Management Plan from Rover {0}: {1}",
     "review_note": "",
-    "new_translation_vi": "Kế Hoạch Quản Lý Tiếng Vọng từ Rover {0}: {1}",
+    "new_translation_vi": "Kế Hoạch Quản Lý Tiếng Vọng từ Vận Mệnh Giả {0}: {1}",
     "translator_note": ""
   },
   {
@@ -9771,7 +9771,7 @@
     "ai_reason": "",
     "source_en": "After {0} days, <te href=851041><color=#c79f49>Remove</color></te> itself and gain {1} <te href=851010><color=#c79f49>Dreamland Coupons</color></te>.",
     "review_note": "",
-    "new_translation_vi": "Sau {0} ngày, <te href=851041><color=#c79f49>Remove</color></te> và nhận {1} <te href=851010><color=#c79f49>Dreamland Coupons</color></te>.",
+    "new_translation_vi": "Sau {0} ngày, <te href=851041><color=#c79f49>Xóa bỏ</color></te> và nhận {1} <te href=851010><color=#c79f49>Phiếu Dreamland</color></te>.",
     "translator_note": ""
   },
   {
@@ -9821,7 +9821,7 @@
     "ai_reason": "",
     "source_en": "Can be considered as an Echo of any rarity when undergoing <te href=851008><color=#c79f49>Integration</color></te>.",
     "review_note": "",
-    "new_translation_vi": "Có thể coi như một Echo thuộc bất kỳ độ hiếm nào khi thực hiện <te href=851008><color=#c79f49>Integration</color></te>.",
+    "new_translation_vi": "Có thể coi như một Echo thuộc bất kỳ độ hiếm nào khi thực hiện <te href=851008><color=#c79f49>Hợp Nhất</color></te>.",
     "translator_note": ""
   },
   {
@@ -9846,7 +9846,7 @@
     "ai_reason": "",
     "source_en": "At the start of each day, there is a {0}% chance to generate 1 <te href=851046><color=#c79f49>Fission Junrock</color></te> on a blank block.",
     "review_note": "",
-    "new_translation_vi": "Vào đầu mỗi ngày, có {0}% cơ hội tạo ra 1 <te href=851046><color=#c79f49>Fission Junrock</color></te> trên ô trống.",
+    "new_translation_vi": "Vào đầu mỗi ngày, có {0}% cơ hội tạo ra 1 <te href=851046><color=#c79f49>Đá Phân Rã Junrock</color></te> trên ô trống.",
     "translator_note": ""
   },
   {
@@ -9996,7 +9996,7 @@
     "ai_reason": "",
     "source_en": "Cost 3 Echoes cannot be Modulated.",
     "review_note": "",
-    "new_translation_vi": "Chi phí 3 Tiếng Vang không thể Điều Tần.",
+    "new_translation_vi": "Chi phí 3 Echo không thể Điều Tần.",
     "translator_note": ""
   },
   {
@@ -10171,7 +10171,7 @@
     "ai_reason": "",
     "source_en": "<te href=851014><color=#c79f49>Rooted</color></te>",
     "review_note": "",
-    "new_translation_vi": "<te href=851014><color=#c79f49>Rooted</color></te>",
+    "new_translation_vi": "<te href=851014><color=#c79f49>Bám Rễ</color></te>",
     "translator_note": ""
   },
   {
@@ -10196,7 +10196,7 @@
     "ai_reason": "",
     "source_en": "<te href=851051><color=#c79f49>Adjacent</color></te>",
     "review_note": "",
-    "new_translation_vi": "<te href=851051><color=#c79f49>Adjacent</color></te>",
+    "new_translation_vi": "<te href=851051><color=#c79f49>Liền Kề</color></te>",
     "translator_note": ""
   },
   {
@@ -10221,7 +10221,7 @@
     "ai_reason": "",
     "source_en": "<te href=851013><color=#c79f49>Item of Exchange</color></te>",
     "review_note": "",
-    "new_translation_vi": "<te href=851013><color=#c79f49>Item of Exchange</color></te>",
+    "new_translation_vi": "<te href=851013><color=#c79f49>Vật Phẩm Trao Đổi</color></te>",
     "translator_note": ""
   },
   {
@@ -10246,7 +10246,7 @@
     "ai_reason": "",
     "source_en": "<te href=851052><color=#c79f49>Same Row</color></te>",
     "review_note": "",
-    "new_translation_vi": "<te href=851052><color=#c79f49>Same Row</color></te>",
+    "new_translation_vi": "<te href=851052><color=#c79f49>Cùng Hàng</color></te>",
     "translator_note": ""
   },
   {
@@ -10271,7 +10271,7 @@
     "ai_reason": "",
     "source_en": "<te href=851053><color=#c79f49>Any Rarity</color></te>",
     "review_note": "",
-    "new_translation_vi": "<te href=851053><color=#c79f49>Any Rarity</color></te>",
+    "new_translation_vi": "<te href=851053><color=#c79f49>Bất Kỳ Độ Hiếm Nào</color></te>",
     "translator_note": ""
   },
   {
@@ -11421,7 +11421,7 @@
     "ai_reason": "",
     "source_en": "At the start of each day, gain {0} <te href=851010><color=#c79f49>Dreamland Coupons</color></te>.",
     "review_note": "",
-    "new_translation_vi": "Vào đầu mỗi ngày, nhận được {0} <te href=851010><color=#c79f49>Dreamland Coupons</color></te>.",
+    "new_translation_vi": "Vào đầu mỗi ngày, nhận được {0} <te href=851010><color=#c79f49>Phiếu Mộng Cảnh</color></te>.",
     "translator_note": ""
   },
   {
@@ -11446,7 +11446,7 @@
     "ai_reason": "",
     "source_en": "At the start of each day, the <te href=851009><color=#c79f49>Daily Coupon</color></te> yield of a random Echo increases by {0}.",
     "review_note": "",
-    "new_translation_vi": "Vào đầu mỗi ngày, sản lượng <te href=851009><color=#c79f49>Daily Coupon</color></te> của một Echo ngẫu nhiên sẽ tăng thêm {0}.",
+    "new_translation_vi": "Vào đầu mỗi ngày, sản lượng <te href=851009><color=#c79f49>Phiếu Hằng Ngày</color></te> của một Echo ngẫu nhiên sẽ tăng thêm {0}.",
     "translator_note": ""
   },
   {
@@ -11546,7 +11546,7 @@
     "ai_reason": "",
     "source_en": "After 1 day, gain {0} <te href=851011><color=#c79f49>Frequency Crystals</color></te>. This effect can only be triggered once.",
     "review_note": "",
-    "new_translation_vi": "Sau 1 ngày, nhận được {0} <te href=851011><color=#c79f49>Frequency Crystals</color></te>. Hiệu ứng này chỉ kích hoạt một lần duy nhất.",
+    "new_translation_vi": "Sau 1 ngày, nhận được {0} <te href=851011><color=#c79f49>Tinh Thể Tần Số</color></te>. Hiệu ứng này chỉ kích hoạt một lần duy nhất.",
     "translator_note": ""
   },
   {
@@ -11571,7 +11571,7 @@
     "ai_reason": "",
     "source_en": "Gain {1} <te href=851011><color=#c79f49>Frequency Crystals</color></te> every {0} days.",
     "review_note": "",
-    "new_translation_vi": "Nhận {1} <te href=851011><color=#c79f49>Frequency Crystals</color></te> sau mỗi {0} ngày.",
+    "new_translation_vi": "Nhận {1} <te href=851011><color=#c79f49>Tinh Thể Tần Số</color></te> sau mỗi {0} ngày.",
     "translator_note": ""
   },
   {
@@ -11646,7 +11646,7 @@
     "ai_reason": "",
     "source_en": "Dismissing an Echo gains additional {0} <te href=851010><color=#c79f49>Dreamland Coupons</color></te>.",
     "review_note": "",
-    "new_translation_vi": "Thu hồi một Echo sẽ nhận thêm {0} <te href=851010><color=#c79f49>Dreamland Coupons</color></te>.",
+    "new_translation_vi": "Thu hồi một Echo sẽ nhận thêm {0} <te href=851010><color=#c79f49>Phiếu Dreamland</color></te>.",
     "translator_note": ""
   },
   {
@@ -11671,7 +11671,7 @@
     "ai_reason": "",
     "source_en": "Dismissing an Echo gains additional {0} <te href=851011><color=#c79f49>Frequency Crystals</color></te>.",
     "review_note": "",
-    "new_translation_vi": "Hủy bỏ Echo sẽ nhận thêm {0} <te href=851011><color=#c79f49>Frequency Crystals</color></te>.",
+    "new_translation_vi": "Hủy bỏ Echo sẽ nhận thêm {0} <te href=851011><color=#c79f49>Tinh thể Tần số</color></te>.",
     "translator_note": ""
   },
   {
@@ -11746,7 +11746,7 @@
     "ai_reason": "",
     "source_en": "Every time <te href=851006><color=#c79f49>Devour</color></te> happens, gain {0} <te href=851010><color=#c79f49>Dreamland Coupons</color></te>.",
     "review_note": "",
-    "new_translation_vi": "Mỗi khi <te href=851006><color=#c79f49>Devour</color></te> xảy ra, nhận được {0} <te href=851010><color=#c79f49>Dreamland Coupons</color></te>.",
+    "new_translation_vi": "Mỗi khi <te href=851006><color=#c79f49>Nuốt Chửng</color></te> xảy ra, nhận được {0} <te href=851010><color=#c79f49>Phiếu Mộng Ảo</color></te>.",
     "translator_note": ""
   },
   {
@@ -11771,7 +11771,7 @@
     "ai_reason": "",
     "source_en": "All Echoes on Dream Blocks: Watermirror are considered <te href=851055><color=#c79f49>adjacent</color></te> to each other.",
     "review_note": "",
-    "new_translation_vi": "Tất cả Echo trên Khối Mộng Ảo: Gương Nước được coi là <te href=851055><color=#c79f49>adjacent</color></te>.",
+    "new_translation_vi": "Tất cả Echo trên Khối Mộng Ảo: Gương Nước được coi là <te href=851055><color=#c79f49>kề nhau</color></te>.",
     "translator_note": ""
   },
   {
@@ -11871,7 +11871,7 @@
     "ai_reason": "",
     "source_en": "Remaining: {0}",
     "review_note": "",
-    "new_translation_vi": "Remaining: {0}",
+    "new_translation_vi": "Còn lại: {0}",
     "translator_note": ""
   },
   {
@@ -11996,7 +11996,7 @@
     "ai_reason": "",
     "source_en": "Has a decent <te href=851009><color=#c79f49>Daily Coupon</color></te> yield.",
     "review_note": "",
-    "new_translation_vi": "Cho ra lượng <te href=851009><color=#c79f49>Daily Coupon</color></te> khá ổn định.",
+    "new_translation_vi": "Cho ra lượng <te href=851009><color=#c79f49>Phiếu Hằng Ngày</color></te> khá ổn định.",
     "translator_note": ""
   },
   {
@@ -12021,7 +12021,7 @@
     "ai_reason": "",
     "source_en": "Upon first action, gain {0} <te href=851010><color=#c79f49>Dreamland Coupons</color></te>. This effect can only be triggered once.",
     "review_note": "",
-    "new_translation_vi": "Khi thực hiện hành động đầu tiên, nhận được {0} <te href=851010><color=#c79f49>Dreamland Coupons</color></te>. Hiệu ứng này chỉ kích hoạt một lần duy nhất.",
+    "new_translation_vi": "Khi thực hiện hành động đầu tiên, nhận được {0} <te href=851010><color=#c79f49>Phiếu Mộng Ảo</color></te>. Hiệu ứng này chỉ kích hoạt một lần duy nhất.",
     "translator_note": ""
   },
   {
@@ -12046,7 +12046,7 @@
     "ai_reason": "",
     "source_en": "Has a high <te href=851009><color=#c79f49>Daily Coupon</color></te> yield.",
     "review_note": "",
-    "new_translation_vi": "Cho sản lượng <te href=851009><color=#c79f49>Daily Coupon</color></te> cực cao.",
+    "new_translation_vi": "Cho sản lượng <te href=851009><color=#c79f49>Phiếu Hằng Ngày</color></te> cực cao.",
     "translator_note": ""
   },
   {
@@ -12071,7 +12071,7 @@
     "ai_reason": "",
     "source_en": "Gain {1} <te href=851011><color=#c79f49>Frequency Crystal</color></te> every <SapTag=0>{0}</SapTag> {Cus:Sap,S=day P=days SapTag=0}.",
     "review_note": "",
-    "new_translation_vi": "Nhận {1} <te href=851011><color=#c79f49>Frequency Crystal</color></te> sau mỗi <SapTag=0>{0}</SapTag> {Cus:Sap,S=ngày P=ngày SapTag=0}.",
+    "new_translation_vi": "Nhận {1} <te href=851011><color=#c79f49>Tinh Thể Tần Số</color></te> sau mỗi <SapTag=0>{0}</SapTag> {Cus:Sap,S=ngày P=ngày SapTag=0}.",
     "translator_note": ""
   },
   {
@@ -12386,7 +12386,7 @@
     "primary_key": "PhotographHandBook_83_Descrtption",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -12461,7 +12461,7 @@
     "primary_key": "TowerDefense_ESC_WaveCountNum_Text",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "",
     "rule_decision": "RETRY",
     "rule_score": 4,
@@ -12471,7 +12471,7 @@
     "ai_reason": "",
     "source_en": "<color=#fee7a1ff>{0}</color>/{1}",
     "review_note": "",
-    "new_translation_vi": "<color=#fee7a1ff>{0}</color>/{1}",
+    "new_translation_vi": "{0}/{1}",
     "translator_note": ""
   },
   {
@@ -12496,7 +12496,7 @@
     "ai_reason": "",
     "source_en": "<size=36><color=#e4e4e4ff>Level</color></size> <color=#fde7a1ff>{0}</color>",
     "review_note": "",
-    "new_translation_vi": "<size=36><color=#e4e4e4ff>Level</color></size> <color=#fde7a1ff>{0}</color>",
+    "new_translation_vi": "<size=36><color=#e4e4e4ff>Cấp độ</color></size> <color=#fde7a1ff>{0}</color>",
     "translator_note": ""
   }
 ]

@@ -1121,7 +1121,7 @@
     "ai_reason": "",
     "source_en": "Summon <color=#2c9366><te href=800024>Feilian Shocks</te></color>.\nCategory: <color=#c49e55>[<te href=800027>Summon Weapon</te>]</color>",
     "review_note": "",
-    "new_translation_vi": "Triệu hồi <color=#2c9366><te href=800024>Feilian Shocks</te></color>.\nLoại: <color=#c49e55>[<te href=800027>Summon Vũ khí</te>]</color>",
+    "new_translation_vi": "Triệu hồi <color=#2c9366><te href=800024>Feilian Shocks</te></color>.\nLoại: <color=#c49e55>[<te href=800027>Vũ Khí Triệu Hồi</te>]</color>",
     "translator_note": ""
   },
   {
@@ -1146,7 +1146,7 @@
     "ai_reason": "",
     "source_en": "Fire <color=#917701><te href=800016>Glittering Rays</te></color>.\nCategory: <color=#c49e55>[<te href=800028>Beam Weapon</te>]</color>",
     "review_note": "",
-    "new_translation_vi": "Bắn <color=#917701><te href=800016>Glittering Rays</te></color>.\nLoại: <color=#c49e55>[<te href=800028>Beam Vũ khí</te>]</color>",
+    "new_translation_vi": "Bắn <color=#917701><te href=800016>Tia Lấp Lánh</te></color>.\nLoại: <color=#c49e55>[<te href=800028>Vũ Khí Tia</te>]</color>",
     "translator_note": ""
   },
   {
@@ -1171,7 +1171,7 @@
     "ai_reason": "",
     "source_en": "Continuously spray <color=#9c5884><te href=800023>Rampant Fire</te></color> forward.\nCategory: <color=#c49e55>[<te href=800029>Morph Weapon</te>]</color>",
     "review_note": "",
-    "new_translation_vi": "Phun liên tục <color=#9c5884><te href=800023>Rampant Fire</te></color> về phía trước.\nLoại: <color=#c49e55>[<te href=800029>Morph Vũ khí</te>]</color>",
+    "new_translation_vi": "Phun liên tục <color=#9c5884><te href=800023>Lửa Dữ Dội</te></color> về phía trước.\nLoại: <color=#c49e55>[<te href=800029>Biến Hình Vũ Khí</te>]</color>",
     "translator_note": ""
   },
   {
@@ -1196,7 +1196,7 @@
     "ai_reason": "",
     "source_en": "Unleash <color=#be6245><te href=800025>Explosive Omens</te></color> in all directions.\nCategory: <color=#c49e55>[<te href=800029>Morph Weapon</te>]</color>",
     "review_note": "",
-    "new_translation_vi": "Giải phóng <color=#be6245><te href=800025>Explosive Omens</te></color> theo mọi hướng.\nLoại: <color=#c49e55>[<te href=800029>Morph Vũ khí</te>]</color>",
+    "new_translation_vi": "Giải phóng <color=#be6245><te href=800025>Điềm Báo Bùng Nổ</te></color> theo mọi hướng.\nLoại: <color=#c49e55>[<te href=800029>Biến Hình Vũ Khí</te>]</color>",
     "translator_note": ""
   },
   {
@@ -2071,7 +2071,7 @@
     "ai_reason": "",
     "source_en": "{Cus:Ipt,Touch=Tap anywhere PC=Click anywhere Gamepad=Press any button} to close",
     "review_note": "",
-    "new_translation_vi": "{Cus:Ipt,Touch=Tap anywhere PC=Click anywhere Gamepad=Press any button} để đóng",
+    "new_translation_vi": "Nhấn bất kỳ đâu để đóng",
     "translator_note": ""
   },
   {
@@ -5796,7 +5796,7 @@
     "ai_reason": "",
     "source_en": "Unlocks Cafe Decor. You can spend resources to upgrade Shashou Cafe.",
     "review_note": "",
-    "new_translation_vi": "Mở khóa Trang trí Quán cà phê. Bạn có thể sử dụng tài nguyên để nâng cấp Shashou Cafe.",
+    "new_translation_vi": "Mở khóa Trang trí Quán cà phê. Bạn có thể dùng tài nguyên để nâng cấp Shashou Cafe.",
     "translator_note": ""
   },
   {
@@ -7746,7 +7746,7 @@
     "ai_reason": "",
     "source_en": "Resonator Ascension Required Amount {0}/{1}",
     "review_note": "",
-    "new_translation_vi": "Số lượng Cộng Hưởng Giả cần thăng cấp: {0}/{1}",
+    "new_translation_vi": "Resonator Ascension Required Amount {0}/{1}",
     "translator_note": ""
   },
   {
@@ -7786,7 +7786,7 @@
     "primary_key": "AutoSynthesis_CellCreditEnough_Num",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -7796,7 +7796,7 @@
     "ai_reason": "",
     "source_en": "<color=#ffd12f>{0}</color>",
     "review_note": "",
-    "new_translation_vi": "<\\color=#ffd12f>{0}</color>",
+    "new_translation_vi": "{0}",
     "translator_note": ""
   },
   {
@@ -7821,7 +7821,7 @@
     "ai_reason": "",
     "source_en": "<color=#c25757>{0}</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#c25757>{0}</color>",
+    "new_translation_vi": "{0}",
     "translator_note": ""
   },
   {
@@ -8271,7 +8271,7 @@
     "ai_reason": "",
     "source_en": "Rover Appearance Switch assets have not been downloaded. Proceed to download?",
     "review_note": "",
-    "new_translation_vi": "Tệp ngoại hình của Rover chưa được tải. Tải ngay?",
+    "new_translation_vi": "Tệp ngoại hình của Vận Mệnh Giả chưa được tải. Tải ngay?",
     "translator_note": ""
   },
   {
@@ -8311,7 +8311,7 @@
     "primary_key": "SubPackageDownLoad_Finish_Tips",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:{0}",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -8346,7 +8346,7 @@
     "ai_reason": "",
     "source_en": "Rover Appearance Switch assets have been downloaded. Please proceed to Settings to switch.",
     "review_note": "",
-    "new_translation_vi": "Tệp ngoại hình của Rover đã tải xong. Hãy vào Cài đặt để thay đổi.",
+    "new_translation_vi": "Tệp ngoại hình của Vận Mệnh Giả đã tải xong. Hãy vào Cài đặt để thay đổi.",
     "translator_note": ""
   },
   {

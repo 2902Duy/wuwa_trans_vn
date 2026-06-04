@@ -471,7 +471,7 @@
     "ai_reason": "",
     "source_en": "It doesn't really matter anyway. What matters is the joy of people {Male=he;Female=she} wished to see with this play. Don't you agree?",
     "review_note": "",
-    "new_translation_vi": "Dù sao cũng chẳng quan trọng. Điều quan trọng là niềm vui mà {Male=anh ấy;Female=cô ấy} mong muốn mang đến cho mọi người qua vở kịch này. Cậu đồng ý chứ?",
+    "new_translation_vi": "Dù sao cũng chẳng quan trọng. Điều quan trọng là niềm vui mà {Male=he;Female=she} mong muốn mang đến cho mọi người qua vở kịch này. Cậu đồng ý chứ?",
     "translator_note": ""
   },
   {
@@ -496,7 +496,7 @@
     "ai_reason": "",
     "source_en": "Heh, I like how you can snack in open-air theaters while the actors perform.",
     "review_note": "",
-    "new_translation_vi": "Hê, ta thích việc vừa xem diễn vừa nhâm nhi đồ ăn ngoài trời thế này.",
+    "new_translation_vi": "Hê, tao thích việc vừa xem diễn vừa nhâm nhi đồ ăn ngoài trời thế này.",
     "translator_note": ""
   },
   {
@@ -4246,7 +4246,7 @@
     "ai_reason": "",
     "source_en": "<color=#f9ffff>Saved:</color> <color=#f7eba6>{0}</color><color=#f9ffff>/{1}</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#f9ffff>Saved:</color>: <color=#f7eba6>{0}</color><color=#f9ffff>/{1}</color>",
+    "new_translation_vi": "<color=#f9ffff>Đã Lưu</color>: <color=#f7eba6>{0}</color><color=#f9ffff>/{1}</color>",
     "translator_note": ""
   },
   {
@@ -4471,7 +4471,7 @@
     "ai_reason": "",
     "source_en": "Main Resonators who cleared the challenge: {0}",
     "review_note": "",
-    "new_translation_vi": "Cộng Hưởng Giả Chính đã hoàn thành thử thách: {0}",
+    "new_translation_vi": "Resonator Chính đã hoàn thành thử thách: {0}",
     "translator_note": ""
   },
   {
@@ -4496,7 +4496,7 @@
     "ai_reason": "",
     "source_en": "<color=#fde7a1>{0}</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#fde7a1>{0}</color>",
+    "new_translation_vi": "{0}",
     "translator_note": ""
   },
   {
@@ -4746,7 +4746,7 @@
     "ai_reason": "",
     "source_en": "???",
     "review_note": "",
-    "new_translation_vi": "???",
+    "new_translation_vi": "Cái gì cơ???",
     "translator_note": ""
   },
   {
@@ -4796,7 +4796,7 @@
     "ai_reason": "",
     "source_en": "Are they fish? Yes, yes, they are. Did I finish them? No, no...",
     "review_note": "",
-    "new_translation_vi": "Chúng là cá à? Đúng, đúng rồi. Ta nấu xong chưa nhỉ? Chưa, chưa...",
+    "new_translation_vi": "Chúng là cá à? Đúng, đúng rồi. Tao nấu xong chưa nhỉ? Chưa, chưa...",
     "translator_note": ""
   },
   {
@@ -6021,7 +6021,7 @@
     "ai_reason": "",
     "source_en": "Highest Record: {0}",
     "review_note": "",
-    "new_translation_vi": "Highest Record: {0}",
+    "new_translation_vi": "Kỷ Lục Cao Nhất: {0}",
     "translator_note": ""
   },
   {
@@ -8396,7 +8396,7 @@
     "ai_reason": "",
     "source_en": "<color=#5cc35e>Worn Token</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#5cc35e>Worn Token</color>",
+    "new_translation_vi": "<color=#5cc35e>Mảnh Charm Cũ</color>",
     "translator_note": ""
   },
   {
@@ -8421,7 +8421,7 @@
     "ai_reason": "",
     "source_en": "<color=#59b4d3>Drifting Token</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#59b4d3>Drifting Token</color>",
+    "new_translation_vi": "<color=#59b4d3>Mảnh Phù Hiệu Phiêu Bạt</color>",
     "translator_note": ""
   },
   {
@@ -8446,7 +8446,7 @@
     "ai_reason": "",
     "source_en": "<color=#ca6dff>Exquisite Token</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#ca6dff>Exquisite Token</color>",
+    "new_translation_vi": "<color=#ca6dff>Mã Thông Minh Tinh Xảo</color>",
     "translator_note": ""
   },
   {
@@ -8461,7 +8461,7 @@
     "primary_key": "GhostShipItemQuality_Text5",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:<color=#ffe65a>",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -8471,7 +8471,7 @@
     "ai_reason": "",
     "source_en": "<color=#ffe65a>Golden Token</color>",
     "review_note": "",
-    "new_translation_vi": "<\\color=#ffe65a>Mảnh Vàng</color>",
+    "new_translation_vi": "<color=#ffe65a>Mảnh Vàng</color>",
     "translator_note": ""
   },
   {
@@ -8546,7 +8546,7 @@
     "ai_reason": "",
     "source_en": "Suggested Lv. {0}",
     "review_note": "",
-    "new_translation_vi": "Suggested Lv. {0}",
+    "new_translation_vi": "Cấp đề xuất: {0}",
     "translator_note": ""
   },
   {
@@ -8721,7 +8721,7 @@
     "ai_reason": "",
     "source_en": "Remaining: {0}",
     "review_note": "",
-    "new_translation_vi": "Remaining: {0}",
+    "new_translation_vi": "Còn lại: {0}",
     "translator_note": ""
   },
   {
@@ -9971,7 +9971,7 @@
     "ai_reason": "",
     "source_en": "Inferno Rider is greatly <color=#b72924ff>empowered</color>.",
     "review_note": "",
-    "new_translation_vi": "Inferno Rider đang <color=#b72924ff>empowered</color>.",
+    "new_translation_vi": "Inferno Rider đang <color=#b72924ff>tràn đầy sức mạnh</color>.",
     "translator_note": ""
   },
   {
@@ -9996,7 +9996,7 @@
     "ai_reason": "",
     "source_en": "Tempest Mephis is greatly <color=#b72924ff>empowered</color>.",
     "review_note": "",
-    "new_translation_vi": "Mephis Bão Tố được <color=#b72924ff>empowered</color> mạnh mẽ.",
+    "new_translation_vi": "Mephis Bão Tố được <color=#b72924ff>tiếp sức</color> mạnh mẽ.",
     "translator_note": ""
   },
   {
@@ -10021,7 +10021,7 @@
     "ai_reason": "",
     "source_en": "Dragon of Dirge: Gehinnom is greatly <color=#b72924ff>empowered</color>.",
     "review_note": "",
-    "new_translation_vi": "Rồng Than Khóc: Gehinnom đang được <color=#b72924ff>empowered</color> mạnh mẽ.",
+    "new_translation_vi": "Rồng Than Khóc: Gehinnom đang được <color=#b72924ff>tăng cường</color> mạnh mẽ.",
     "translator_note": ""
   },
   {
@@ -10046,7 +10046,7 @@
     "ai_reason": "",
     "source_en": "Sentry Construct: Gargoyle is greatly <color=#b72924ff>empowered</color>.",
     "review_note": "",
-    "new_translation_vi": "Công Trình Tuần Tra: Gargoyle được <color=#b72924ff>empowered</color> mạnh mẽ.",
+    "new_translation_vi": "Công Trình Tuần Tra: Gargoyle được <color=#b72924ff>tăng cường</color> mạnh mẽ.",
     "translator_note": ""
   },
   {
@@ -10071,7 +10071,7 @@
     "ai_reason": "",
     "source_en": "Resonators <color=#b72924ff>have their Incoming Healing Bonus reduced by 20%</color>.",
     "review_note": "",
-    "new_translation_vi": "Cộng Hưởng Giả <color=#b72924ff>have their Incoming Healing Bonus reduced by 20%</color>.",
+    "new_translation_vi": "Resonator <color=#b72924ff>bị giảm 20% Hiệu Quả Hồi Phục Nhận Vào</color>.",
     "translator_note": ""
   },
   {
@@ -10096,7 +10096,7 @@
     "ai_reason": "",
     "source_en": "Resonators <color=#b72924ff>have their Incoming Healing Bonus reduced by 40%</color>.",
     "review_note": "",
-    "new_translation_vi": "Cộng Hưởng Giả <color=#b72924ff>have their Incoming Healing Bonus reduced by 40%</color>.",
+    "new_translation_vi": "Resonator <color=#b72924ff>bị giảm 40% Hiệu Quả Hồi Phục Nhận Vào</color>.",
     "translator_note": ""
   },
   {
@@ -10121,7 +10121,7 @@
     "ai_reason": "",
     "source_en": "<color=#b72924ff>Only</color> Resonators using <color=#b72924ff>Broadblade, Sword, and Gauntlets</color> can be deployed.",
     "review_note": "",
-    "new_translation_vi": "Chỉ có thể triển khai Cộng Hưởng Giả sử dụng <color=#b72924ff>Broadblade, Kiếm và Gauntlets</color>.",
+    "new_translation_vi": "Chỉ có thể triển khai Resonator sử dụng <color=#b72924ff>Đại kiếm, Kiếm đơn và Găng tay</color>.",
     "translator_note": ""
   },
   {
@@ -10146,7 +10146,7 @@
     "ai_reason": "",
     "source_en": "<color=#b72924ff>Only</color> Resonators using <color=#b72924ff>Pistols and Rectifier</color> can be deployed.",
     "review_note": "",
-    "new_translation_vi": "Chỉ có thể triển khai Cộng Hưởng Giả sử dụng <color=#b72924ff>Pistols và Rectifier</color>.",
+    "new_translation_vi": "Chỉ có thể triển khai Resonator sử dụng <color=#b72924ff>Súng và Pháp khí</color>.",
     "translator_note": ""
   },
   {
@@ -10171,7 +10171,7 @@
     "ai_reason": "",
     "source_en": "<color=#b72924ff>Symphony Rank efficiency is reduced by 25%</color>.",
     "review_note": "",
-    "new_translation_vi": "<color=#b72924ff>Symphony Rank efficiency is reduced by 25%</color>.",
+    "new_translation_vi": "<color=#b72924ff>Hiệu suất Cấp Độ Giao Hưởng giảm 25%</color>.",
     "translator_note": ""
   },
   {
@@ -10196,7 +10196,7 @@
     "ai_reason": "",
     "source_en": "<color=#b72924ff>Symphony Rank efficiency is reduced by 50%</color>.",
     "review_note": "",
-    "new_translation_vi": "<color=#b72924ff>Symphony Rank efficiency is reduced by 50%</color>.",
+    "new_translation_vi": "<color=#b72924ff>Hiệu suất Cấp Độ Giao Hưởng giảm 50%</color>.",
     "translator_note": ""
   },
   {
@@ -10236,7 +10236,7 @@
     "primary_key": "Text_BabelResultOverStarNum_Text",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "",
     "rule_decision": "RETRY",
     "rule_score": 4,
@@ -10246,7 +10246,7 @@
     "ai_reason": "",
     "source_en": "<color=#5cc96aff>{0}</color>/{1}",
     "review_note": "",
-    "new_translation_vi": "<color=#5cc96aff>{0}</color>/{1}",
+    "new_translation_vi": "{0}/{1}",
     "translator_note": ""
   },
   {
@@ -10261,7 +10261,7 @@
     "primary_key": "Text_BabelResultUnderStarNum_Text",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "",
     "rule_decision": "RETRY",
     "rule_score": 6,
@@ -10271,7 +10271,7 @@
     "ai_reason": "",
     "source_en": "<color=#b72924ff>{0}</color>/{1}",
     "review_note": "",
-    "new_translation_vi": "<color=#bca868>{0}</color>/{1}",
+    "new_translation_vi": "{0}/{1}",
     "translator_note": ""
   },
   {
@@ -10446,7 +10446,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Disaster Trial: Desorock Highland\" with Stress Module \"Special Tactics II.\"",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Thử Thách Tai Họa: Cao Nguyên Desorock\" với Mô-đun Áp Lực \"Chiến Thuật Đặc Biệt II.\"",
+    "new_translation_vi": "Hoàn thành \"Thử Thách Tai Họa: Desorock Highland\" với Mô-đun Áp Lực \"Chiến Thuật Đặc Biệt II.\"",
     "translator_note": ""
   },
   {
@@ -10471,7 +10471,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Disaster Trial: Desorock Highland\" with Stress Module \"Shattered Dreams II.\"",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Thử Thách Tai Họa: Cao Nguyên Desorock\" với Mô-đun Áp Lực \"Giấc Mơ Vỡ II.\"",
+    "new_translation_vi": "Hoàn thành \"Thử Thách Tai Họa: Desorock Highland\" với Mô-đun Áp Lực \"Giấc Mơ Vỡ II.\"",
     "translator_note": ""
   },
   {
@@ -10646,7 +10646,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Disaster Trial: Desorock Highland\" with Stress Modules \"Repulse II\" and \"Rallentando II.\"",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Thử Thách Tai Họa: Cao Nguyên Desorock\" với các Mô-đun Áp Lực \"Đẩy Lùi II\" và \"Rallentando II.\"",
+    "new_translation_vi": "Hoàn thành \"Thử Thách Tai Họa: Desorock Highland\" với các Mô-đun Áp Lực \"Đẩy Lùi II\" và \"Rallentando II.\"",
     "translator_note": ""
   },
   {
@@ -10671,7 +10671,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Disaster Trial: Desorock Highland\" with Stress Modules \"Shielding II\" and \"Extended Protection.\"",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Thử Thách Tai Họa: Cao Nguyên Desorock\" với các Mô-đun Áp Lực \"Khiên Chắn II\" và \"Bảo Vệ Mở Rộng.\"",
+    "new_translation_vi": "Hoàn thành \"Thử Thách Tai Họa: Desorock Highland\" với các Mô-đun Áp Lực \"Khiên Chắn II\" và \"Bảo Vệ Mở Rộng.\"",
     "translator_note": ""
   },
   {
@@ -10821,7 +10821,7 @@
     "ai_reason": "",
     "source_en": "Complete a challenge with Stress Level 4 in Crisis Trial: Tiger's Maw.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành thử thách với Cấp Độ Căng Thẳng 4 trong Thử Thách Khủng Hoảng: Hàm Hổ.",
+    "new_translation_vi": "Hoàn thành thử thách với Cấp Độ Căng Thẳng 4 trong Thử Thách Khủng Hoảng: Tiger's Maw.",
     "translator_note": ""
   },
   {
@@ -10921,7 +10921,7 @@
     "ai_reason": "",
     "source_en": "Complete a challenge with Stress Level 4 in Crisis Trial: Whining Aix's Mire.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành thử thách với Cấp Độ Căng Thẳng 4 trong Thử Thách Khủng Hoảng: Đầm Lầy Whining Aix.",
+    "new_translation_vi": "Hoàn thành thử thách với Cấp Độ Căng Thẳng 4 trong Thử Thách Khủng Hoảng: Whining Aix's Mire.",
     "translator_note": ""
   },
   {
@@ -10946,7 +10946,7 @@
     "ai_reason": "",
     "source_en": "Complete a challenge with Stress Level 4 in Crisis Trial: Mt. Firmament.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành thử thách với Cấp Độ Căng Thẳng 4 trong Thử Thách Khủng Hoảng: Núi Firmament.",
+    "new_translation_vi": "Hoàn thành thử thách với Cấp Độ Căng Thẳng 4 trong Thử Thách Khủng Hoảng: Mt. Firmament.",
     "translator_note": ""
   },
   {

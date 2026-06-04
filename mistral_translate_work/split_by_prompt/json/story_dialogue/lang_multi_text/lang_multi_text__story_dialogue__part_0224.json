@@ -71,7 +71,7 @@
     "ai_reason": "",
     "source_en": "Refresh ({0}/{1})",
     "review_note": "",
-    "new_translation_vi": "Làm Mới ({0}/{1})",
+    "new_translation_vi": "Làm mới ({0}/{1})",
     "translator_note": ""
   },
   {
@@ -96,7 +96,7 @@
     "ai_reason": "",
     "source_en": "???",
     "review_note": "",
-    "new_translation_vi": "???",
+    "new_translation_vi": "Cái gì cơ???",
     "translator_note": ""
   },
   {
@@ -196,7 +196,7 @@
     "ai_reason": "",
     "source_en": "<color=Highlight>Saved</color>",
     "review_note": "",
-    "new_translation_vi": "<color=Highlight>Saved</color>",
+    "new_translation_vi": "<color=Highlight>Đã lưu</color>",
     "translator_note": ""
   },
   {
@@ -261,7 +261,7 @@
     "primary_key": "TowerDefense_Main_BdCostRed_Text",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "",
     "rule_decision": "RETRY",
     "rule_score": 4,
@@ -271,7 +271,7 @@
     "ai_reason": "",
     "source_en": "<color=#e4e4e4ff>{0}</color>/{1}",
     "review_note": "",
-    "new_translation_vi": "<color=#e4e4e4ff>{0}</color>/{1}",
+    "new_translation_vi": "{0}/{1}",
     "translator_note": ""
   },
   {
@@ -286,7 +286,7 @@
     "primary_key": "TowerDefense_Main_BdCostGreen_Text",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "",
     "rule_decision": "RETRY",
     "rule_score": 4,
@@ -296,7 +296,7 @@
     "ai_reason": "",
     "source_en": "<color=#e4e4e4ff>{0}</color>/{1}",
     "review_note": "",
-    "new_translation_vi": "<color=#e4e4e4ff>{0}</color>/{1}",
+    "new_translation_vi": "{0}/{1}",
     "translator_note": ""
   },
   {
@@ -371,7 +371,7 @@
     "ai_reason": "",
     "source_en": "This Tacet Discord summons <color=#fde7a1ff>one</color>Chop Chop: Headless and <color=#fde7a1ff>three</color>Tick Tacks when defeated.",
     "review_note": "",
-    "new_translation_vi": "Khi đánh bại Tacet Discord này, nó sẽ triệu hồi <color=#fde7a1ff>one</color> Chop Chop: Headless và <color=#fde7a1ff>three</color> Tick Tack.",
+    "new_translation_vi": "Khi đánh bại Tacet Discord này, nó sẽ triệu hồi <color=#fde7a1ff>một</color> Chop Chop: Headless và <color=#fde7a1ff>ba</color> Tick Tack.",
     "translator_note": ""
   },
   {
@@ -746,7 +746,7 @@
     "ai_reason": "",
     "source_en": "A Tactic Set focused on fire suppression by boosting Attack Speed and Control effects.",
     "review_note": "",
-    "new_translation_vi": "Tactic Set tập trung vào kiểm soát hỏa lực bằng cách tăng Attack Speed và hiệu ứng Control.",
+    "new_translation_vi": "Bộ Chiến Thuật tập trung vào kiểm soát hỏa lực bằng cách tăng Tốc Độ Tấn Công và hiệu ứng Điều Khiển.",
     "translator_note": ""
   },
   {
@@ -771,7 +771,7 @@
     "ai_reason": "",
     "source_en": "A Tactic Set that improves resource acquisition efficiency and converts surplus resources into offensive power.",
     "review_note": "",
-    "new_translation_vi": "Tactic Set tối ưu hóa hiệu suất thu thập tài nguyên và chuyển hóa lượng tài nguyên dư thừa thành sức mạnh tấn công.",
+    "new_translation_vi": "Bộ Chiến Thuật tối ưu hóa hiệu suất thu thập tài nguyên và chuyển hóa lượng tài nguyên dư thừa thành sức mạnh tấn công.",
     "translator_note": ""
   },
   {
@@ -3196,7 +3196,7 @@
     "ai_reason": "",
     "source_en": "Hold out until Wave 20 and activate any Gold Tactic from Echo Synergy Tactic Set in \"Total Defense Test.\"",
     "review_note": "",
-    "new_translation_vi": "Giữ vững đến Hồi 20 và kích hoạt bất kỳ Chiến Thuật Vàng nào từ Bộ Chiến Thuật Cộng Hưởng Tiếng Vang trong \"Bài Kiểm Tra Phòng Ngự Toàn Diện\".",
+    "new_translation_vi": "Giữ vững đến Hồi 20 và kích hoạt bất kỳ Chiến Thuật Vàng nào từ Bộ Chiến Thuật Cộng Hưởng Echo trong \"Bài Kiểm Tra Phòng Ngự Toàn Diện\".",
     "translator_note": ""
   },
   {
@@ -6121,7 +6121,7 @@
     "ai_reason": "",
     "source_en": "A Tactic Set focused on fire suppression by boosting Attack Speed and Control effects.",
     "review_note": "",
-    "new_translation_vi": "Tactic Set tập trung vào kiểm soát hỏa lực bằng cách tăng Attack Speed và hiệu ứng Control.",
+    "new_translation_vi": "Bộ Chiến Thuật tập trung vào kiểm soát hỏa lực bằng cách tăng Tốc Độ Tấn Công và hiệu ứng Điều Khiển.",
     "translator_note": ""
   },
   {
@@ -6146,7 +6146,7 @@
     "ai_reason": "",
     "source_en": "A Tactic Set that improves resource acquisition efficiency and converts surplus resources into offensive power.",
     "review_note": "",
-    "new_translation_vi": "Tactic Set tối ưu hóa hiệu suất thu thập tài nguyên và chuyển hóa lượng tài nguyên dư thừa thành sức mạnh tấn công.",
+    "new_translation_vi": "Bộ Chiến Thuật tối ưu hóa hiệu suất thu thập tài nguyên và chuyển hóa lượng tài nguyên dư thừa thành sức mạnh tấn công.",
     "translator_note": ""
   },
   {
@@ -6196,7 +6196,7 @@
     "ai_reason": "",
     "source_en": "Currently, <color=Rare3>Blue</color> or lower rarity Tactics may appear.",
     "review_note": "",
-    "new_translation_vi": "Hiện tại, Chiến Thuật hiếm cấp <color=Rare3>Blue</color> hoặc thấp hơn có thể xuất hiện.",
+    "new_translation_vi": "Hiện tại, Chiến Thuật hiếm cấp <color=Rare3>Xanh lam</color> hoặc thấp hơn có thể xuất hiện.",
     "translator_note": ""
   },
   {
@@ -6221,7 +6221,7 @@
     "ai_reason": "",
     "source_en": "Currently, <color=Rare4>Purple </color> or lower rarity Tactics may appear.",
     "review_note": "",
-    "new_translation_vi": "Hiện tại, Chiến Thuật hiếm cấp <color=Rare4>Purple</color> hoặc thấp hơn có thể xuất hiện.",
+    "new_translation_vi": "Hiện tại, Chiến Thuật hiếm cấp <color=Rare4>Tím</color> hoặc thấp hơn có thể xuất hiện.",
     "translator_note": ""
   },
   {
@@ -6246,7 +6246,7 @@
     "ai_reason": "",
     "source_en": "Currently, <color=Rare5>Gold</color> or lower rarity Tactics may appear.",
     "review_note": "",
-    "new_translation_vi": "Hiện tại, Chiến Thuật hiếm cấp <color=Rare5>Gold</color> hoặc thấp hơn có thể xuất hiện.",
+    "new_translation_vi": "Hiện tại, Chiến Thuật hiếm cấp <color=Rare5>Vàng</color> hoặc thấp hơn có thể xuất hiện.",
     "translator_note": ""
   },
   {
@@ -6321,7 +6321,7 @@
     "ai_reason": "",
     "source_en": "When an Echo on the field starts <te href=851008><color=#c79f49>Integration</color></te>, there is a {0}% chance to generate a copy of itself on a blank block.",
     "review_note": "",
-    "new_translation_vi": "Khi một Tổ Tacet trên chiến trường bắt đầu <te href=851008><color=#c79f49>Integration</color></te>, có {0}% khả năng tạo ra một bản sao của nó trên một ô trống.",
+    "new_translation_vi": "Khi một Tổ Tacet trên chiến trường bắt đầu <te href=851008><color=#c79f49>Hấp Thu</color></te>, có {0}% khả năng tạo ra một bản sao của nó trên một ô trống.",
     "translator_note": ""
   },
   {
@@ -6346,7 +6346,7 @@
     "ai_reason": "",
     "source_en": "The first <te href=851008><color=#c79f49>Integration</color></te> of the day requires <SapTag=0>{0}</SapTag> fewer {Cus:Sap,S=Echo P=Echoes SapTag=0}.",
     "review_note": "",
-    "new_translation_vi": "<te href=851008><color=#c79f49>Integration</color></te> đầu tiên trong ngày cần ít hơn <SapTag=0>{0}</SapTag> {Cus:Sap,S=Echo P=Echo}.",
+    "new_translation_vi": "<te href=851008><color=#c79f49>Hợp Nhất</color></te> đầu tiên trong ngày cần ít hơn <SapTag=0>{0}</SapTag> {Cus:Sap,S=Echo P=Echo}.",
     "translator_note": ""
   },
   {
@@ -6621,7 +6621,7 @@
     "ai_reason": "",
     "source_en": "<te href=851045><color=#c79f49>Basic Form</color></te>",
     "review_note": "",
-    "new_translation_vi": "<te href=851045><color=#c79f49>Basic Form</color></te>",
+    "new_translation_vi": "<te href=851045><color=#c79f49>Hình Thái Cơ Bản</color></te>",
     "translator_note": ""
   },
   {
@@ -7146,7 +7146,7 @@
     "ai_reason": "",
     "source_en": "<color=#d5b55e>Current</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#d5b55e>Current</color>",
+    "new_translation_vi": "<color=#d5b55e>Hiện tại</color>",
     "translator_note": ""
   },
   {
@@ -7171,7 +7171,7 @@
     "ai_reason": "",
     "source_en": "<color=#5ed5af>Preview</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#5ed5af>Preview</color>",
+    "new_translation_vi": "<color=#5ed5af>Xem trước</color>",
     "translator_note": ""
   },
   {
@@ -7196,7 +7196,7 @@
     "ai_reason": "",
     "source_en": "<color=#84c6f5>Preview</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#84c6f5>Preview</color>",
+    "new_translation_vi": "<color=#84c6f5>Xem trước</color>",
     "translator_note": ""
   },
   {
@@ -7271,7 +7271,7 @@
     "ai_reason": "",
     "source_en": "<color=#c25757>Consider switching to a weapon of higher quality</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#c25757>Consider switching to a vũ khí of higher quality</color>",
+    "new_translation_vi": "<color=#c25757>Nên cân nhắc đổi sang vũ khí chất lượng cao hơn</color>",
     "translator_note": ""
   },
   {
@@ -7296,7 +7296,7 @@
     "ai_reason": "",
     "source_en": "<color=#36cd33>{0}</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#36cd33>{0}</color>",
+    "new_translation_vi": "{0}",
     "translator_note": ""
   },
   {
@@ -7311,7 +7311,7 @@
     "primary_key": "RoleProject_SkillLevel02",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -7321,7 +7321,7 @@
     "ai_reason": "",
     "source_en": "<color=#ffd12f>{0}</color>",
     "review_note": "",
-    "new_translation_vi": "<\\color=#ffd12f>{0}</color>",
+    "new_translation_vi": "{0}",
     "translator_note": ""
   },
   {
@@ -7396,7 +7396,7 @@
     "ai_reason": "",
     "source_en": "To the Heroes...",
     "review_note": "",
-    "new_translation_vi": "To the Heroes...",
+    "new_translation_vi": "Tới Những Người Anh Hùng...",
     "translator_note": ""
   },
   {
@@ -11546,7 +11546,7 @@
     "ai_reason": "",
     "source_en": "Launch <color=#be6245><te href=800022>Blazing Stars</te></color> from the sky.\nCategory: <color=#c49e55>[<te href=800026>Bullet Weapon</te>]</color>",
     "review_note": "",
-    "new_translation_vi": "Phóng <color=#be6245><te href=800022>Blazing Stars</te></color> từ trên trời.\nLoại: <color=#c49e55>[<te href=800026>Bullet Vũ khí</te>]</color>",
+    "new_translation_vi": "Phóng <color=#be6245><te href=800022>Blazing Stars</te></color> từ trên trời.\nLoại: <color=#c49e55>[<te href=800026>Vũ khí đạn đạo</te>]</color>",
     "translator_note": ""
   },
   {
@@ -11846,7 +11846,7 @@
     "ai_reason": "",
     "source_en": "Resonator Level +{0}",
     "review_note": "",
-    "new_translation_vi": "Cấp Độ Cộng Hưởng Giả +{0}",
+    "new_translation_vi": "Cấp Độ Resonator +{0}",
     "translator_note": ""
   },
   {
@@ -11861,7 +11861,7 @@
     "primary_key": "SurvivorsWeaponEvolution_SuperTips",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:{0}",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -11896,7 +11896,7 @@
     "ai_reason": "",
     "source_en": "{Cus:Ipt,Touch=Tap PC=Click Gamepad=Tap} anywhere to close",
     "review_note": "",
-    "new_translation_vi": "{Cus:Ipt,Touch=Tap PC=Click Gamepad=Tap} bất cứ đâu để đóng",
+    "new_translation_vi": "Nhấn {Cus:Ipt,Touch=Tap PC=Click Gamepad=Tap} bất cứ đâu để đóng",
     "translator_note": ""
   },
   {
@@ -11961,7 +11961,7 @@
     "primary_key": "SurvivorsShop_PurchaseButton",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:<te href=800030>",
     "rule_decision": "RETRY",
     "rule_score": 8,

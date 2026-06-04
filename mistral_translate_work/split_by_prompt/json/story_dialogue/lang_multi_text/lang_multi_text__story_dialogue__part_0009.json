@@ -721,7 +721,7 @@
     "ai_reason": "",
     "source_en": "Highest Record: {0}",
     "review_note": "",
-    "new_translation_vi": "Highest Record: {0}",
+    "new_translation_vi": "Kỷ Lục Cao Nhất: {0}",
     "translator_note": ""
   },
   {
@@ -771,7 +771,7 @@
     "ai_reason": "",
     "source_en": "Turn all the blocks into <color=#ecda88>Yellow</color>",
     "review_note": "",
-    "new_translation_vi": "Biến tất cả các khối thành <color=#ecda88>Yellow</color> đi",
+    "new_translation_vi": "Biến tất cả các khối thành <color=#ecda88>Vàng</color> đi",
     "translator_note": ""
   },
   {
@@ -796,7 +796,7 @@
     "ai_reason": "",
     "source_en": "Turn all the blocks into <color=#bc5044>Red</color>",
     "review_note": "",
-    "new_translation_vi": "Biến tất cả các khối thành <color=#bc5044>Red</color> đi",
+    "new_translation_vi": "Biến tất cả các khối thành <color=#bc5044>Đỏ</color> đi",
     "translator_note": ""
   },
   {
@@ -821,7 +821,7 @@
     "ai_reason": "",
     "source_en": "Turn all the blocks into <color=#54a891>Green</color>",
     "review_note": "",
-    "new_translation_vi": "Biến tất cả các khối thành <color=#54a891>Green</color> đi",
+    "new_translation_vi": "Biến tất cả các khối thành <color=#54a891>Xanh Lá</color> đi",
     "translator_note": ""
   },
   {
@@ -846,7 +846,7 @@
     "ai_reason": "",
     "source_en": "Turn all the blocks into <color=#5081bc>Blue</color>",
     "review_note": "",
-    "new_translation_vi": "Biến tất cả các khối thành <color=#5081bc>Blue</color> đi",
+    "new_translation_vi": "Biến tất cả các khối thành <color=#5081bc>Xanh Dương</color> đi",
     "translator_note": ""
   },
   {
@@ -1436,7 +1436,7 @@
     "primary_key": "riskofrain_UIScore",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "",
     "rule_decision": "RETRY",
     "rule_score": 4,
@@ -1446,7 +1446,7 @@
     "ai_reason": "",
     "source_en": "<color=Highlight>{0}</color>/{1}",
     "review_note": "",
-    "new_translation_vi": "<color=Highlight>{0}</color>/{1}",
+    "new_translation_vi": "{0}/{1}",
     "translator_note": ""
   },
   {
@@ -2071,7 +2071,7 @@
     "ai_reason": "",
     "source_en": "After remaining airborne for more than {0}s, Resonators cast a Plunging Attack and land on the ground, creating a small glacier upon landing.",
     "review_note": "",
-    "new_translation_vi": "Sau khi duy trì trên không hơn {0} giây, Cộng Hưởng Giả thực hiện Tấn Công Đâm Xuống và tiếp đất, tạo ra một khối băng nhỏ khi chạm đất.",
+    "new_translation_vi": "Sau khi duy trì trên không hơn {0} giây, Resonator thực hiện Tấn Công Đâm Xuống và tiếp đất, tạo ra một khối băng nhỏ khi chạm đất.",
     "translator_note": ""
   },
   {
@@ -2096,7 +2096,7 @@
     "ai_reason": "",
     "source_en": "After remaining airborne for more than {0}s, Resonators cast a Plunging Attack and land on the ground, creating a medium glacier upon landing.",
     "review_note": "",
-    "new_translation_vi": "Sau khi duy trì trên không hơn {0} giây, Cộng Hưởng Giả thực hiện Tấn Công Đâm Xuống và tiếp đất, tạo ra một khối băng trung bình khi chạm đất.",
+    "new_translation_vi": "Sau khi duy trì trên không hơn {0} giây, Resonator thực hiện Tấn Công Đâm Xuống và tiếp đất, tạo ra một khối băng trung bình khi chạm đất.",
     "translator_note": ""
   },
   {
@@ -2121,7 +2121,7 @@
     "ai_reason": "",
     "source_en": "After remaining airborne for more than {0}s, Resonators cast a Plunging Attack and land on the ground, creating a large glacier upon landing.",
     "review_note": "",
-    "new_translation_vi": "Sau khi duy trì trên không hơn {0} giây, Cộng Hưởng Giả thực hiện Tấn Công Đâm Xuống và tiếp đất, tạo ra một khối băng lớn khi chạm đất.",
+    "new_translation_vi": "Sau khi duy trì trên không hơn {0} giây, Resonator thực hiện Tấn Công Đâm Xuống và tiếp đất, tạo ra một khối băng lớn khi chạm đất.",
     "translator_note": ""
   },
   {
@@ -2146,7 +2146,7 @@
     "ai_reason": "",
     "source_en": "All Resonators in the team gain one revival attempt every {0}s, up to <SapTag=1>{1}</SapTag> {Cus:Sap,S=time P=times SapTag=1}.",
     "review_note": "",
-    "new_translation_vi": "Tất cả Cộng Hưởng Giả trong đội nhận được một lần hồi sinh mỗi {0} giây, tối đa <SapTag=1>{1}</SapTag> {Cus:Sap,S=lần P=lần SapTag=1}.",
+    "new_translation_vi": "Tất cả Resonator trong đội nhận được một lần hồi sinh mỗi {0} giây, tối đa <SapTag=1>{1}</SapTag> {Cus:Sap,S=lần P=lần SapTag=1}.",
     "translator_note": ""
   },
   {
@@ -3346,7 +3346,7 @@
     "ai_reason": "",
     "source_en": "<color=Highlight>Become the last one to move</color> in next round.",
     "review_note": "",
-    "new_translation_vi": "Trở thành người <color=Highlight>Become the last one to move</color> trong lượt tiếp theo.",
+    "new_translation_vi": "Trở thành người <color=Highlight>di chuyển cuối cùng</color> trong lượt tiếp theo.",
     "translator_note": ""
   },
   {
@@ -3371,7 +3371,7 @@
     "ai_reason": "",
     "source_en": "When ranked last, <color=Highlight>advance 3 extra pads</color>.",
     "review_note": "",
-    "new_translation_vi": "Khi đứng cuối bảng, <color=Highlight>advance 3 extra pads</color>.",
+    "new_translation_vi": "Khi đứng cuối bảng, <color=Highlight>tiến thêm 3 ô</color>.",
     "translator_note": ""
   },
   {
@@ -3396,7 +3396,7 @@
     "ai_reason": "",
     "source_en": "The dice will <color=Highlight>only roll a 2 or 3</color>.",
     "review_note": "",
-    "new_translation_vi": "Xúc xắc <color=Highlight>only roll a 2 or 3</color>.",
+    "new_translation_vi": "Xúc xắc <color=Highlight>chỉ có thể ra 2 hoặc 3</color>.",
     "translator_note": ""
   },
   {
@@ -3421,7 +3421,7 @@
     "ai_reason": "",
     "source_en": "Move separately and advance extra pads equal to the number of other Cubes on the pad.",
     "review_note": "",
-    "new_translation_vi": "Di chuyển riêng biệt và tiến thêm số bậc bằng với số Cube khác trên bậc đó.",
+    "new_translation_vi": "Di chuy?n ri?ng bi?t v? ti?n th?m s? ? b?ng v?i s? Cube kh?c tr?n ? ??.",
     "translator_note": ""
   },
   {
@@ -3446,7 +3446,7 @@
     "ai_reason": "",
     "source_en": "<color=Highlight>Advance twice</color> with the number rolled.",
     "review_note": "",
-    "new_translation_vi": "Tiến <color=Highlight>Advance twice</color> với số đã tung.",
+    "new_translation_vi": "Tiến <color=Highlight>hai lượt</color> với số đã tung.",
     "translator_note": ""
   },
   {
@@ -3471,7 +3471,7 @@
     "ai_reason": "",
     "source_en": "<color=Highlight>Advance 2 extra pads</color> as the last one to move.",
     "review_note": "",
-    "new_translation_vi": "Đi thêm <color=Highlight>Advance 2 extra pads</color> vì là người di chuyển cuối cùng.",
+    "new_translation_vi": "Đi thêm <color=Highlight>2 ô</color> vì là người di chuyển cuối cùng.",
     "translator_note": ""
   },
   {
@@ -3496,7 +3496,7 @@
     "ai_reason": "",
     "source_en": "<color=Highlight>Advance 2 extra pads</color>  as the first one to move.",
     "review_note": "",
-    "new_translation_vi": "Đi thêm <color=Highlight>Advance 2 extra pads</color> vì là người di chuyển đầu tiên.",
+    "new_translation_vi": "Đi thêm <color=Highlight>2 ô</color> vì là người di chuyển đầu tiên.",
     "translator_note": ""
   },
   {
@@ -3521,7 +3521,7 @@
     "ai_reason": "",
     "source_en": "The dice will only roll a 1 or 3, and advance <color=Highlight>2 extra pads</color> in this turn.",
     "review_note": "",
-    "new_translation_vi": "Xúc xắc chỉ có thể ra 1 hoặc 3, và sẽ tiến thêm <color=Highlight>2 extra pads</color> trong lượt này.",
+    "new_translation_vi": "Xúc xắc chỉ có thể ra 1 hoặc 3, và sẽ tiến thêm <color=Highlight>2 ô</color> trong lượt này.",
     "translator_note": ""
   },
   {
@@ -3546,7 +3546,7 @@
     "ai_reason": "",
     "source_en": "Advance <color=Highlight>2 extra pads</color> in this turn.",
     "review_note": "",
-    "new_translation_vi": "Di chuyển thêm <color=Highlight>2 extra pads</color> trong lượt này.",
+    "new_translation_vi": "Di chuyển thêm <color=Highlight>2 ô</color> trong lượt này.",
     "translator_note": ""
   },
   {
@@ -3571,7 +3571,7 @@
     "ai_reason": "",
     "source_en": "Advance <color=Highlight>1 extra pad</color> in this turn.",
     "review_note": "",
-    "new_translation_vi": "Di chuyển thêm <color=Highlight>1 extra pad</color> trong lượt này.",
+    "new_translation_vi": "Di chuyển thêm <color=Highlight>1 ô</color> trong lượt này.",
     "translator_note": ""
   },
   {
@@ -4646,7 +4646,7 @@
     "ai_reason": "",
     "source_en": "Jinhsi is grateful for the luck that got her to the finals. Now she's ready to team up with the other Resonators and bring it all home!",
     "review_note": "",
-    "new_translation_vi": "Jinhsi biết ơn vận may đã đưa cô đến trận chung kết. Giờ đây, cô đã sẵn sàng hợp sức cùng các Cộng Hưởng Giả khác để giành lấy chiến thắng cuối cùng!",
+    "new_translation_vi": "Jinhsi biết ơn vận may đã đưa cô đến trận chung kết. Giờ đây, cô đã sẵn sàng hợp sức cùng các Resonator khác để giành lấy chiến thắng cuối cùng!",
     "translator_note": ""
   },
   {
@@ -5996,7 +5996,7 @@
     "ai_reason": "",
     "source_en": "{Cus:Ipt,Touch=Tap PC=Click Gamepad=Press} to close",
     "review_note": "",
-    "new_translation_vi": "{Cus:Ipt,Touch=Tap PC=Click Gamepad=Press} để đóng",
+    "new_translation_vi": "Nhấn {Cus:Ipt,Touch=Tap PC=Click Gamepad=Press} để đóng.",
     "translator_note": ""
   },
   {
@@ -6011,7 +6011,7 @@
     "primary_key": "Dango_InGame_SkillActivated",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "",
     "rule_decision": "RETRY",
     "rule_score": 4,
@@ -7121,7 +7121,7 @@
     "ai_reason": "",
     "source_en": "A long highway stretching across southern Lahai-Roi. Its far end reaches the Roya's homeland: Bjartr Woods.",
     "review_note": "",
-    "new_translation_vi": "Một con đường dài vắt ngang miền nam Lahai-Roi. Đầu kia của nó nối thẳng về quê hương của người Roya: rừng Bjartr.",
+    "new_translation_vi": "Một con đường dài vắt ngang miền nam Lahai-Roi. Đầu kia của nó nối thẳng về quê hương của người Roya: Bjartr Woods.",
     "translator_note": ""
   },
   {
@@ -7896,7 +7896,7 @@
     "ai_reason": "",
     "source_en": "You catch wind of a “Film-Loving Ghost Miko” urban legend in the Academy's group chat. You decide to head to the screening room to check it out.",
     "review_note": "",
-    "new_translation_vi": "Cậu tình cờ nghe được truyền thuyết đô thị về \"Miko Ma Ám Yêu Film\" trong nhóm chat của Học Viện. Cậu quyết định đến phòng chiếu phim để xem sao.",
+    "new_translation_vi": "Cậu tình cờ nghe được truyền thuyết đô thị về \"Miko Ma Ám Yêu Phim\" trong nhóm chat của Học Viện. Cậu quyết định đến phòng chiếu phim để xem sao.",
     "translator_note": ""
   },
   {
@@ -8421,7 +8421,7 @@
     "ai_reason": "",
     "source_en": "Dear Rover:\nThe KU Block sign-in rewards have been issued, please check in the attached file.",
     "review_note": "",
-    "new_translation_vi": "Gửi Rover:\nPhần thưởng đăng nhập KU Block đã được gửi đi, vui lòng kiểm tra trong file đính kèm.",
+    "new_translation_vi": "Gửi Vận Mệnh Giả:\nPhần thưởng đăng nhập KU Block đã được gửi đi, vui lòng kiểm tra trong file đính kèm.",
     "translator_note": ""
   },
   {
@@ -8496,7 +8496,7 @@
     "ai_reason": "",
     "source_en": "Dear Rover, the {0} event is coming to a close. Don't hesitate to join in and claim your event rewards. Thank you for the support!",
     "review_note": "",
-    "new_translation_vi": "Rover thân mến, sự kiện {0} sắp kết thúc. Đừng ngần ngại tham gia và nhận phần thưởng sự kiện của bạn nhé. Cảm ơn vì đã ủng hộ!",
+    "new_translation_vi": "Vận Mệnh Giả thân mến, sự kiện {0} sắp kết thúc. Đừng ngần ngại tham gia và nhận phần thưởng sự kiện của bạn nhé. Cảm ơn vì đã ủng hộ!",
     "translator_note": ""
   },
   {
@@ -8521,7 +8521,7 @@
     "ai_reason": "",
     "source_en": "Dear Rover, the Limited-Time Rewards of Somnium Labyrinth will expire soon. Don't hesitate to join in and claim your event rewards. Thank you for your support!",
     "review_note": "",
-    "new_translation_vi": "Rover thân mến, phần thưởng giới hạn thời gian của Somnium Labyrinth sắp hết hạn. Đừng ngần ngại tham gia và nhận phần thưởng sự kiện của bạn nhé. Cảm ơn vì đã ủng hộ!",
+    "new_translation_vi": "Vận Mệnh Giả thân mến, phần thưởng giới hạn thời gian của Somnium Labyrinth sắp hết hạn. Đừng ngần ngại tham gia và nhận phần thưởng sự kiện của bạn nhé. Cảm ơn vì đã ủng hộ!",
     "translator_note": ""
   },
   {
@@ -8571,7 +8571,7 @@
     "ai_reason": "",
     "source_en": "Fresh from the Lollo Logistics Headquarters, your old friend Maji decides to relaunch the Lollo Campaign. Looks like your help is needed once again.",
     "review_note": "",
-    "new_translation_vi": "Mới ra lò từ Trụ sở Lollo Logistics, người bạn cũ Maji quyết định khởi động lại Chiến dịch Lollo. Có vẻ cậu lại cần đến sự giúp đỡ của cậu lần nữa rồi.",
+    "new_translation_vi": "Mới ra lò từ Trụ sở Lollo Logistics, người bạn cũ Maji quyết định khởi động lại Chiến dịch Lollo. Có vẻ cậu lại cần đến sự giúp đỡ của mày lần nữa rồi.",
     "translator_note": ""
   },
   {
@@ -9121,7 +9121,7 @@
     "ai_reason": "",
     "source_en": "The Huaxu Academy has recently made a breakthrough in Utility tech. Researcher Lanyan now requests your help testing a new tool near the Academy.",
     "review_note": "",
-    "new_translation_vi": "Huaxu Academy vừa đạt được bước đột phá trong công nghệ Công cụ. Nhà nghiên cứu Lanyan hiện đang cần sự hỗ trợ của cậu để thử nghiệm một công cụ mới gần Học viện.",
+    "new_translation_vi": "Học viện Huaxu vừa đạt được bước đột phá trong công nghệ Utility. Nhà nghiên cứu Lanyan hiện đang cần sự hỗ trợ của cậu để thử nghiệm một công cụ mới gần Học viện.",
     "translator_note": ""
   },
   {
@@ -9171,7 +9171,7 @@
     "ai_reason": "",
     "source_en": "Dear Rover, the {0} event is coming to a close. Don't hesitate to join in and claim your event rewards. Thank you for the support!",
     "review_note": "",
-    "new_translation_vi": "Rover thân mến, sự kiện {0} sắp kết thúc. Đừng ngần ngại tham gia và nhận phần thưởng sự kiện của bạn nhé. Cảm ơn vì đã ủng hộ!",
+    "new_translation_vi": "Vận Mệnh Giả thân mến, sự kiện {0} sắp kết thúc. Đừng ngần ngại tham gia và nhận phần thưởng sự kiện của bạn nhé. Cảm ơn vì đã ủng hộ!",
     "translator_note": ""
   },
   {
@@ -9196,7 +9196,7 @@
     "ai_reason": "",
     "source_en": "Dear Rover, the {0} event is coming to a close. Don't hesitate to join in and claim your event rewards. Thank you for the support!",
     "review_note": "",
-    "new_translation_vi": "Rover thân mến, sự kiện {0} sắp kết thúc. Đừng ngần ngại tham gia và nhận phần thưởng sự kiện của bạn nhé. Cảm ơn vì đã ủng hộ!",
+    "new_translation_vi": "Vận Mệnh Giả thân mến, sự kiện {0} sắp kết thúc. Đừng ngần ngại tham gia và nhận phần thưởng sự kiện của bạn nhé. Cảm ơn vì đã ủng hộ!",
     "translator_note": ""
   },
   {
@@ -9221,7 +9221,7 @@
     "ai_reason": "",
     "source_en": "Dear Rover, the event Freeze Frame: Action Highlights is coming to a close. Don't hesitate to join in and claim your event rewards. Thank you for the support!",
     "review_note": "",
-    "new_translation_vi": "Rover thân mến, sự kiện Freeze Frame: Action Highlights sắp kết thúc. Đừng ngần ngại tham gia và nhận phần thưởng sự kiện của bạn nhé. Cảm ơn vì đã ủng hộ!",
+    "new_translation_vi": "Vận Mệnh Giả thân mến, sự kiện Freeze Frame: Action Highlights sắp kết thúc. Đừng ngần ngại tham gia và nhận phần thưởng sự kiện của bạn nhé. Cảm ơn vì đã ủng hộ!",
     "translator_note": ""
   },
   {
@@ -9321,7 +9321,7 @@
     "ai_reason": "",
     "source_en": "Around a Sonoro Sphere, you run across a troubled researcher, who seems to have an important job to do...",
     "review_note": "",
-    "new_translation_vi": "Xung quanh một Quả Cầu Sonoro, cậu tình cờ gặp một nhà nghiên cứu đang gặp rắc rối, dường như hắn có việc quan trọng cần làm...",
+    "new_translation_vi": "Xung quanh một Sonoro Sphere, cậu tình cờ gặp một nhà nghiên cứu đang gặp rắc rối, dường như hắn có việc quan trọng cần làm...",
     "translator_note": ""
   },
   {
@@ -11846,7 +11846,7 @@
     "ai_reason": "",
     "source_en": "Whether you're just passing through or thinking of calling this place your home, we hope you will enjoy your time in Jinzhou.",
     "review_note": "",
-    "new_translation_vi": "Dù chỉ đi ngang qua hay định gọi nơi này là nhà, chúng tôi hy vọng cậu sẽ có khoảng thời gian vui vẻ ở Kim Châu.",
+    "new_translation_vi": "Dù chỉ đi ngang qua hay định gọi nơi này là nhà, chúng tôi hy vọng cậu sẽ có khoảng thời gian vui vẻ ở Jinzhou.",
     "translator_note": ""
   },
   {
@@ -12446,7 +12446,7 @@
     "ai_reason": "",
     "source_en": "Don't tell me it's simply because it was poured by yours truly?",
     "review_note": "",
-    "new_translation_vi": "Đừng bảo là chỉ vì do chính tay ta pha đấy chứ?",
+    "new_translation_vi": "Đừng bảo là chỉ vì do chính tay tao pha đấy chứ?",
     "translator_note": ""
   },
   {
@@ -12471,7 +12471,7 @@
     "ai_reason": "",
     "source_en": "Heh... You might be right.",
     "review_note": "",
-    "new_translation_vi": "Hừ... Có lẽ cậu nói đúng.",
+    "new_translation_vi": "Hừ... Có lẽ mày nói đúng.",
     "translator_note": ""
   },
   {

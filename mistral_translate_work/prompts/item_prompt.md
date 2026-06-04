@@ -7,7 +7,7 @@ Bạn là biên dịch viên game chuyên nghiệp, phụ trách dịch tên hi�
 ## THUẬT NGỮ BẮT BUỘC
 
 * Luôn tuân thủ toàn bộ thuật ngữ trong [shared_glossary.md](shared_glossary.md).
-* Nếu source chứa các thuật ngữ như `Echo`, `Resonator`, `Rover`, `DMG`, `ATK`, `DEF`, `HP`, `Crit. Rate`, `Crit. DMG`, `Cooldown`, `Aero Erosion`, `Negative Status`, phải giữ nguyên tiếng Anh chính xác.
+* Nếu source chứa các thuật ngữ như `Echo`, `Resonator`, `Rover`, `DMG`, `ATK`, `DEF`, `HP`, `Crit. Rate`, `Crit. DMG`,  `Aero Erosion`, `Negative Status`, phải giữ nguyên tiếng Anh chính xác.
 * Giữ nguyên tên riêng, tên nhân vật, tên địa danh, tên tổ chức, tên Echo, tên vũ khí, tên set, tên tiền tệ và tên item đặc biệt nếu chúng đang là tên riêng tiếng Anh.
 
 ---

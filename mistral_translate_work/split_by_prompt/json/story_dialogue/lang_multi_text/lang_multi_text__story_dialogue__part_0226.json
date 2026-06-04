@@ -446,7 +446,7 @@
     "ai_reason": "",
     "source_en": "A drone squad that assists the rider in combat.",
     "review_note": "",
-    "new_translation_vi": "Một đội máy bay không người lái hỗ trợ Rover trong chiến đấu.",
+    "new_translation_vi": "Một đội máy bay không người lái hỗ trợ Vận Mệnh Giả trong chiến đấu.",
     "translator_note": ""
   },
   {
@@ -496,7 +496,7 @@
     "ai_reason": "",
     "source_en": "When exiting <color=Highlight><te href=851104>Boost - Namipon Aid</te></color>, all Resonators in the team receive healing.",
     "review_note": "",
-    "new_translation_vi": "Khi rời khỏi <color=Highlight><te href=851104>Boost - Namipon Aid</te></color>, tất cả Cộng Hưởng Giả trong đội sẽ được hồi phục HP.",
+    "new_translation_vi": "Khi rời khỏi <color=Highlight><te href=851104>Tăng Cường - Namipon Hỗ Trợ</te></color>, tất cả Resonator trong đội sẽ được hồi phục HP.",
     "translator_note": ""
   },
   {
@@ -521,7 +521,7 @@
     "ai_reason": "",
     "source_en": "<color=Highlight><te href=851106>Combo - Support Missile: Enhanced</te></color> now launches more missiles per shot.",
     "review_note": "",
-    "new_translation_vi": "<color=Highlight><te href=851106>Combo - Hỗ Trợ Missile: Enhanced</te></color> giờ bắn nhiều tên lửa hơn mỗi lần.",
+    "new_translation_vi": "<color=Highlight><te href=851106>Combo - Support Missile: Enhanced</te></color> giờ bắn nhiều tên lửa hơn mỗi lần.",
     "translator_note": ""
   },
   {
@@ -546,7 +546,7 @@
     "ai_reason": "",
     "source_en": "Entering <color=Highlight><te href=851114>Boost - Coffee's Shelter</te></color> grants Shield.",
     "review_note": "",
-    "new_translation_vi": "Khi kích hoạt <color=Highlight><te href=851114>Boost - Coffee's Shelter</te></color>, sẽ nhận Khiên.",
+    "new_translation_vi": "Khi kích hoạt <color=Highlight><te href=851114>Tăng Cường - Nơi Trú Ẩn Của Cà Phê</te></color>, sẽ nhận Khiên.",
     "translator_note": ""
   },
   {
@@ -596,7 +596,7 @@
     "ai_reason": "",
     "source_en": "The Resonator gains a Shield every 20s.",
     "review_note": "",
-    "new_translation_vi": "Cộng Hưởng Giả nhận một Lớp Khiên mỗi 20 giây.",
+    "new_translation_vi": "Resonator nhận một Lớp Khiên mỗi 20 giây.",
     "translator_note": ""
   },
   {
@@ -671,7 +671,7 @@
     "ai_reason": "",
     "source_en": "<color=#fc6464>Not Activated</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#fc6464>Not Activated</color>",
+    "new_translation_vi": "<color=#fc6464>Chưa Kích Hoạt</color>",
     "translator_note": ""
   },
   {
@@ -696,7 +696,7 @@
     "ai_reason": "",
     "source_en": "<color=#32dbb1>Activated</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#32dbb1>Activated</color>",
+    "new_translation_vi": "<color=#32dbb1>Đã kích hoạt</color>",
     "translator_note": ""
   },
   {
@@ -711,7 +711,7 @@
     "primary_key": "PhantomBattle_1152",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "",
     "rule_decision": "RETRY",
     "rule_score": 4,
@@ -721,7 +721,7 @@
     "ai_reason": "",
     "source_en": "<color=#fffcf1>{0}</color>/<color=#c2c2c2>{1}</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#fffcf1>{0}</color>/<color=#c2c2c2>{1}</color>",
+    "new_translation_vi": "{0}/{1}",
     "translator_note": ""
   },
   {
@@ -736,7 +736,7 @@
     "primary_key": "PhantomBattle_1153",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "",
     "rule_decision": "RETRY",
     "rule_score": 4,
@@ -746,7 +746,7 @@
     "ai_reason": "",
     "source_en": "<color=#ffedae>{0}</color>/<color=#ffffff>{1}</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#ffedae>{0}</color>/<color=#ffffff>{1}</color>",
+    "new_translation_vi": "{0}/{1}",
     "translator_note": ""
   },
   {
@@ -3671,7 +3671,7 @@
     "ai_reason": "",
     "source_en": "{0}min",
     "review_note": "",
-    "new_translation_vi": "{0}m",
+    "new_translation_vi": "{0}phút",
     "translator_note": ""
   },
   {
@@ -3871,7 +3871,7 @@
     "ai_reason": "",
     "source_en": "After unleashing Ram Dynamics, Resonators in the team have their Off-Tune Buildup Rate increased by 5% for 30s.",
     "review_note": "",
-    "new_translation_vi": "Sau khi kích hoạt Ram Dynamics, Cộng Hưởng Giả trong đội sẽ tăng Tỷ Lệ Tích Lũy Lệch Tần 5% trong 30 giây.",
+    "new_translation_vi": "Sau khi kích hoạt Ram Dynamics, Resonator trong đội sẽ tăng Tỷ Lệ Tích Lũy Lệch Tần 5% trong 30 giây.",
     "translator_note": ""
   },
   {
@@ -3896,7 +3896,7 @@
     "ai_reason": "",
     "source_en": "After unleashing Ram Dynamics, Resonators in the team have their Off-Tune Buildup Rate increased by 10% for 30s.",
     "review_note": "",
-    "new_translation_vi": "Sau khi giải phóng Ram Dynamics, Tốc Độ Tích Lũy Lệch Nhịp của các Cộng Hưởng Giả trong đội tăng 10% trong 30 giây.",
+    "new_translation_vi": "Sau khi giải phóng Ram Dynamics, Tốc Độ Tích Lũy Lệch Nhịp của các Resonator trong đội tăng 10% trong 30 giây.",
     "translator_note": ""
   },
   {
@@ -3921,7 +3921,7 @@
     "ai_reason": "",
     "source_en": "After unleashing Ram Dynamics, Resonators in the team have their Off-Tune Buildup Rate increased by 15% for 30s.",
     "review_note": "",
-    "new_translation_vi": "Sau khi giải phóng Ram Dynamics, Tốc Độ Tích Lũy Lệch Nhịp của các Cộng Hưởng Giả trong đội tăng 15% trong 30 giây.",
+    "new_translation_vi": "Sau khi giải phóng Ram Dynamics, Tốc Độ Tích Lũy Lệch Nhịp của các Resonator trong đội tăng 15% trong 30 giây.",
     "translator_note": ""
   },
   {
@@ -3946,7 +3946,7 @@
     "ai_reason": "",
     "source_en": "After unleashing Ram Dynamics, Resonators in the team gain a Shield equal to 100% of the motorbike's Force Field for 30s.",
     "review_note": "",
-    "new_translation_vi": "Sau khi giải phóng Ram Dynamics, các Cộng Hưởng Giả trong đội nhận được Khiên tương đương 100% Lực Trường của xe máy trong 30 giây.",
+    "new_translation_vi": "Sau khi giải phóng Ram Dynamics, các Resonator trong đội nhận được Khiên tương đương 100% Lực Trường của xe máy trong 30 giây.",
     "translator_note": ""
   },
   {
@@ -3971,7 +3971,7 @@
     "ai_reason": "",
     "source_en": "When under the influence of a Void Storm, Resonators in the team have their Off-Tune Buildup Rate increased by 10%.",
     "review_note": "",
-    "new_translation_vi": "Khi chịu ảnh hưởng của Bão Hư Không, Cộng Hưởng Giả trong đội có Tốc Độ Tích Lũy Lệch Tần tăng thêm 10%.",
+    "new_translation_vi": "Khi chịu ảnh hưởng của Bão Hư Không, Resonator trong đội có Tốc Độ Tích Lũy Lệch Tần tăng thêm 10%.",
     "translator_note": ""
   },
   {
@@ -3996,7 +3996,7 @@
     "ai_reason": "",
     "source_en": "When under the influence of a Void Storm, Resonators in the team have their Off-Tune Buildup Rate increased by 20%.",
     "review_note": "",
-    "new_translation_vi": "Khi chịu ảnh hưởng của Bão Hư Không, Cộng Hưởng Giả trong đội có Tốc Độ Tích Lũy Lệch Tần tăng thêm 20%.",
+    "new_translation_vi": "Khi chịu ảnh hưởng của Bão Hư Không, Resonator trong đội có Tốc Độ Tích Lũy Lệch Tần tăng thêm 20%.",
     "translator_note": ""
   },
   {
@@ -4046,7 +4046,7 @@
     "ai_reason": "",
     "source_en": "You do not own Resonators of this region.",
     "review_note": "",
-    "new_translation_vi": "Bạn không sở hữu Cộng Hưởng Giả nào thuộc khu vực này.",
+    "new_translation_vi": "Bạn không sở hữu Resonator nào thuộc khu vực này.",
     "translator_note": ""
   },
   {
@@ -4296,7 +4296,7 @@
     "ai_reason": "",
     "source_en": "This weapon is already used by a Resonator with an existing challenge record.",
     "review_note": "",
-    "new_translation_vi": "Vũ khí này đã được một Cộng Hưởng Giả khác sử dụng và có sẵn hồ sơ thử thách.",
+    "new_translation_vi": "Vũ khí này đã được một Resonator khác sử dụng và có sẵn hồ sơ thử thách.",
     "translator_note": ""
   },
   {
@@ -4321,7 +4321,7 @@
     "ai_reason": "",
     "source_en": "This Echo is already used used by a Resonator with an existing challenge record.",
     "review_note": "",
-    "new_translation_vi": "Hồi Âm này đã được Cộng Hưởng Giả khác sử dụng và có sẵn dữ liệu thử thách.",
+    "new_translation_vi": "Hồi Âm này đã được Resonator khác sử dụng và có sẵn dữ liệu thử thách.",
     "translator_note": ""
   },
   {
@@ -4421,7 +4421,7 @@
     "ai_reason": "",
     "source_en": "This Resonator is already in the team. Do you want to replace them with a Demo Resonator?",
     "review_note": "",
-    "new_translation_vi": "Cộng Hưởng Giả này đã có trong đội rồi. Cậu muốn thay thế bằng một Cộng Hưởng Giả Demo không?",
+    "new_translation_vi": "Resonator này đã có trong đội rồi. Cậu muốn thay thế bằng một Resonator Demo không?",
     "translator_note": ""
   },
   {
@@ -4521,7 +4521,7 @@
     "ai_reason": "",
     "source_en": "One or more Resonators in the current lineup have insufficient Vigor.",
     "review_note": "",
-    "new_translation_vi": "Một hoặc nhiều Cộng Hưởng Giả trong đội hình hiện tại không đủ Sinh Lực.",
+    "new_translation_vi": "Một hoặc nhiều Resonator trong đội hình hiện tại không đủ Sinh Lực.",
     "translator_note": ""
   },
   {
@@ -4671,7 +4671,7 @@
     "ai_reason": "",
     "source_en": "<color=#94ffec>{0}</color>/{1}",
     "review_note": "",
-    "new_translation_vi": "<color=#94ffec>{0}</color>/{1}",
+    "new_translation_vi": "{0}/{1}",
     "translator_note": ""
   },
   {
@@ -4696,7 +4696,7 @@
     "ai_reason": "",
     "source_en": "<color=#fc6464>{0}</color>/{1}",
     "review_note": "",
-    "new_translation_vi": "<color=#fc6464>{0}</color>/{1}",
+    "new_translation_vi": "{0}/{1}",
     "translator_note": ""
   },
   {
@@ -4721,7 +4721,7 @@
     "ai_reason": "",
     "source_en": "<color=#32dbb1>{0}</color>/{1}",
     "review_note": "",
-    "new_translation_vi": "<color=#32dbb1>{0}</color>/{1}",
+    "new_translation_vi": "{0}/{1}",
     "translator_note": ""
   },
   {
@@ -5096,7 +5096,7 @@
     "ai_reason": "",
     "source_en": "Obtain 5,000 points with a single team in any Challenge Stage of Singularity Expansion in the Recurring Challenge: Endstate Matrix",
     "review_note": "",
-    "new_translation_vi": "Thu thập 5.000 điểm với một đội duy nhất trong bất kỳ Giai Đoạn Thử Thách Kỳ Dị nào của Thử Thách Định Kỳ: Ma Trận Trạng Thái Cuối",
+    "new_translation_vi": "Thu thập 5.000 điểm với một đội duy nhất trong bất kỳ Giai Đoạn Thử Thách Kỳ Dị nào của Thử Thách Định Kỳ: Endstate Matrix",
     "translator_note": ""
   },
   {
@@ -5146,7 +5146,7 @@
     "ai_reason": "",
     "source_en": "Obtain 20,000 points with a single team in any Challenge Stage of Singularity Expansion in the Recurring Challenge: Endstate Matrix",
     "review_note": "",
-    "new_translation_vi": "Thu thập 20.000 điểm với một đội duy nhất ở bất kỳ Giai Đoạn Thử Thách nào của Mở Rộng Điểm Kỳ Dị trong Thử Thách Định Kỳ: Ma Trận Tận Thế",
+    "new_translation_vi": "Thu thập 20.000 điểm với một đội duy nhất ở bất kỳ Giai Đoạn Thử Thách nào của Mở Rộng Điểm Kỳ Dị trong Thử Thách Định Kỳ: Endstate Matrix",
     "translator_note": ""
   },
   {
@@ -5221,7 +5221,7 @@
     "ai_reason": "",
     "source_en": "Obtain a total of 100,000 points in any Challenge Stage of Singularity Expansion in the Recurring Challenge: Endstate Matrix",
     "review_note": "",
-    "new_translation_vi": "Đạt tổng 100.000 điểm ở bất kỳ Giai Đoạn Thử Thách Mở Rộng Điểm Kỳ Dị nào trong Thử Thách Định Kỳ: Ma Trận Tận Thế",
+    "new_translation_vi": "Đạt tổng 100.000 điểm ở bất kỳ Giai Đoạn Thử Thách Mở Rộng Điểm Kỳ Dị nào trong Thử Thách Định Kỳ: Endstate Matrix",
     "translator_note": ""
   },
   {
@@ -5421,7 +5421,7 @@
     "ai_reason": "",
     "source_en": "Complete Tactical Hologram: Synchronization - Dreamless I.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Bản Hologram Đồng Bộ: Dreamless I",
+    "new_translation_vi": "Hoàn thành Bản Hologram Đồng Bộ: Synchronization - Dreamless I.",
     "translator_note": ""
   },
   {
@@ -5446,7 +5446,7 @@
     "ai_reason": "",
     "source_en": "Complete Tactical Hologram: Synchronization - Dreamless VI.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Bản Hologram Đồng Bộ: Dreamless VI",
+    "new_translation_vi": "Hoàn thành Bản Hologram Đồng Bộ: Synchronization - Dreamless VI.",
     "translator_note": ""
   },
   {
@@ -6096,7 +6096,7 @@
     "ai_reason": "",
     "source_en": "<color=#32dbb1>Activated</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#32dbb1>Activated</color>",
+    "new_translation_vi": "<color=#32dbb1>Đã kích hoạt</color>",
     "translator_note": ""
   },
   {
@@ -6146,7 +6146,7 @@
     "ai_reason": "",
     "source_en": "<color=#32dbb1>Activated</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#32dbb1>Activated</color>",
+    "new_translation_vi": "<color=#32dbb1>Đã kích hoạt</color>",
     "translator_note": ""
   },
   {
@@ -6196,7 +6196,7 @@
     "ai_reason": "",
     "source_en": "<color=#32dbb1>Activated</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#32dbb1>Activated</color>",
+    "new_translation_vi": "<color=#32dbb1>Đã kích hoạt</color>",
     "translator_note": ""
   },
   {
@@ -6546,7 +6546,7 @@
     "ai_reason": "",
     "source_en": "\"Look at me! I want to see it, that jealous twist on your face!\"",
     "review_note": "",
-    "new_translation_vi": "Nhìn đây này! Ta muốn thấy cái vẻ ghen tị méo mó trên mặt ngươi!",
+    "new_translation_vi": "Nhìn đây này! Tao muốn thấy cái vẻ ghen tị méo mó trên mặt mày!",
     "translator_note": ""
   },
   {
@@ -7571,7 +7571,7 @@
     "ai_reason": "",
     "source_en": "Remaining: {0}",
     "review_note": "",
-    "new_translation_vi": "Remaining: {0}",
+    "new_translation_vi": "Còn lại: {0}",
     "translator_note": ""
   },
   {
@@ -7671,7 +7671,7 @@
     "ai_reason": "",
     "source_en": "After unleashing Ram Dynamics, Resonators in the team have a higher Off-Tune Buildup Rate.",
     "review_note": "",
-    "new_translation_vi": "Sau khi giải phóng Ram Dynamics, các Cộng Hưởng Giả trong đội có Tốc Độ Tích Lũy Lệch Nhịp cao hơn.",
+    "new_translation_vi": "Sau khi giải phóng Ram Dynamics, các Resonator trong đội có Tốc Độ Tích Lũy Lệch Nhịp cao hơn.",
     "translator_note": ""
   },
   {
@@ -7696,7 +7696,7 @@
     "ai_reason": "",
     "source_en": "After unleashing Ram Dynamics, Resonators in the team gain a Shield.",
     "review_note": "",
-    "new_translation_vi": "Sau khi giải phóng Ram Dynamics, các Cộng Hưởng Giả trong đội nhận được Khiên.",
+    "new_translation_vi": "Sau khi giải phóng Ram Dynamics, các Resonator trong đội nhận được Khiên.",
     "translator_note": ""
   },
   {
@@ -7721,7 +7721,7 @@
     "ai_reason": "",
     "source_en": "When under the influence of a Void Storm, Resonators in the team have a higher Off-Tune Buildup Rate.",
     "review_note": "",
-    "new_translation_vi": "Khi chịu ảnh hưởng của Bão Hư Không, Cộng Hưởng Giả trong đội có Tốc Độ Tích Lũy Lệch Tần cao hơn.",
+    "new_translation_vi": "Khi chịu ảnh hưởng của Bão Hư Không, Resonator trong đội có Tốc Độ Tích Lũy Lệch Tần cao hơn.",
     "translator_note": ""
   },
   {
@@ -8246,7 +8246,7 @@
     "ai_reason": "",
     "source_en": "Round {0}",
     "review_note": "",
-    "new_translation_vi": "Round {0}",
+    "new_translation_vi": "Vòng {0}",
     "translator_note": ""
   },
   {
@@ -10896,7 +10896,7 @@
     "ai_reason": "",
     "source_en": "The weapon and Echo are already used by Resonators with a challenge record.",
     "review_note": "",
-    "new_translation_vi": "Vũ khí và Echo đã được Cộng Hưởng Giả khác sử dụng trong thử thách.",
+    "new_translation_vi": "Vũ khí và Echo đã được Resonator khác sử dụng trong thử thách.",
     "translator_note": ""
   },
   {
@@ -11021,7 +11021,7 @@
     "ai_reason": "",
     "source_en": "When Zahira brought Peaks of Prestige from the Academy to her Roya tribe, she never imagined it would sweep through Bjartr Woods like wildfire.",
     "review_note": "",
-    "new_translation_vi": "Khi Zahira mang những đỉnh cao danh vọng từ Học Viện về cho bộ tộc Roya, cô chưa từng nghĩ rằng chúng sẽ lan truyền khắp Rừng Bjartr như ngọn lửa hoang dã.",
+    "new_translation_vi": "Khi Zahira mang những đỉnh cao danh vọng từ Học Viện về cho bộ tộc Roya, cô chưa từng nghĩ rằng chúng sẽ lan truyền khắp Bjartr Woods như ngọn lửa hoang dã.",
     "translator_note": ""
   },
   {

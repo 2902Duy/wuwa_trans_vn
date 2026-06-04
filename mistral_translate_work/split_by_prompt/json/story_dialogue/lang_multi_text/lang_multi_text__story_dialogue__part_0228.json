@@ -1861,7 +1861,7 @@
     "primary_key": "WheelTower_Record_Progress",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "",
     "rule_decision": "RETRY",
     "rule_score": 4,
@@ -1996,7 +1996,7 @@
     "ai_reason": "",
     "source_en": "A girl from Hongzhen named Shicheng wishes to perform the Rite of Offering, but she is attacked by TDs. You manage to save her just in time.",
     "review_note": "",
-    "new_translation_vi": "Một cô gái đến từ Hồng Trấn tên là Shicheng muốn thực hiện Nghi Lễ Dâng Tặng, nhưng cô bị tấn công bởi bọn TD. Bạn kịp thời cứu cô thoát khỏi nguy hiểm.",
+    "new_translation_vi": "Một cô gái đến từ Hongzhen tên là Shicheng muốn thực hiện Nghi Lễ Dâng Tặng, nhưng cô bị tấn công bởi bọn TD. Bạn kịp thời cứu cô thoát khỏi nguy hiểm.",
     "translator_note": ""
   },
   {
@@ -2221,7 +2221,7 @@
     "ai_reason": "",
     "source_en": "Past storyline resources will not be used again. All videos from past quests can be cleared.",
     "review_note": "",
-    "new_translation_vi": "Tài nguyên cốt truyện trước sẽ không được sử dụng lại. Có thể xóa toàn bộ video từ các quest trước đó.",
+    "new_translation_vi": "Tài nguyên cốt truyện cũ sẽ không được sử dụng lại. Toàn bộ video từ nhiệm vụ trước có thể xóa bỏ.",
     "translator_note": ""
   },
   {
@@ -2246,7 +2246,7 @@
     "ai_reason": "",
     "source_en": "Clear Resources ({0}/{1})",
     "review_note": "",
-    "new_translation_vi": "Clear Resources ({0}/{1})",
+    "new_translation_vi": "Thanh Tẩy Tài Nguyên ({0}/{1})",
     "translator_note": ""
   },
   {
@@ -2271,7 +2271,7 @@
     "ai_reason": "",
     "source_en": "Finalizing now <color=#d8a22f>fails the challenge</color>. Confirm to end and finalize the challenge?",
     "review_note": "",
-    "new_translation_vi": "Kết thúc ngay bây giờ sẽ <color=#d8a22f>fails the challenge</color>. Xác nhận kết thúc và hoàn thành thử thách?",
+    "new_translation_vi": "Kết thúc ngay bây giờ sẽ <color=#d8a22f>thất bại thử thách</color>. Xác nhận kết thúc và hoàn thành thử thách?",
     "translator_note": ""
   },
   {
@@ -2296,7 +2296,7 @@
     "ai_reason": "",
     "source_en": "Finalize <color=#d8a22f>your current points</color> and end the challenge now?",
     "review_note": "",
-    "new_translation_vi": "Xác nhận <color=#d8a22f>your current points</color> và kết thúc thử thách ngay bây giờ?",
+    "new_translation_vi": "Xác nhận <color=#d8a22f>điểm hiện tại</color> và kết thúc thử thách ngay bây giờ?",
     "translator_note": ""
   },
   {
@@ -5271,7 +5271,7 @@
     "ai_reason": "",
     "source_en": "Unlocked at Resonator Lv. 20",
     "review_note": "",
-    "new_translation_vi": "Mở khóa ở Cấp Cộng Hưởng Giả 20",
+    "new_translation_vi": "Mở khóa ở Cấp Resonator 20",
     "translator_note": ""
   },
   {
@@ -5286,7 +5286,7 @@
     "primary_key": "Condition_13032017_Description",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:<texture=/Game/Aki/UI/UIResources/Common/Image/Com/T_RichTextLock.T_RichTextLock/>",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -6996,7 +6996,7 @@
     "ai_reason": "",
     "source_en": "The remaining time of the current Pioneer Podcast is <color=#c49e55>less than 3 days</color>. Do you want to continue to purchase?",
     "review_note": "",
-    "new_translation_vi": "Thời gian còn lại của Pioneer Podcast hiện tại là <color=#c49e55>less than 3 days</color>. Cậu có muốn tiếp tục mua không?",
+    "new_translation_vi": "Thời gian còn lại của Pioneer Podcast hiện tại là <color=#c49e55>dưới 3 ngày</color>. Cậu có muốn tiếp tục mua không?",
     "translator_note": ""
   },
   {
@@ -7121,7 +7121,7 @@
     "ai_reason": "",
     "source_en": "The <color=#c49e55>Insider Channel</color> of Pioneer Podcast has been unlocked, this item cannot be used",
     "review_note": "",
-    "new_translation_vi": "Kênh <color=#c49e55>Insider Channel</color> của Pioneer Podcast đã được mở khóa, vật phẩm này không thể sử dụng được nữa.",
+    "new_translation_vi": "Kênh <color=#c49e55>Insider</color> của Pioneer Podcast đã được mở khóa, vật phẩm này không thể sử dụng được nữa.",
     "translator_note": ""
   },
   {
@@ -7146,7 +7146,7 @@
     "ai_reason": "",
     "source_en": "After using this item, you can unlock the <color=#c49e55>Insider Channel</color> of Pioneer Podcast",
     "review_note": "",
-    "new_translation_vi": "Sau khi sử dụng vật phẩm này, bạn có thể mở khóa <color=#c49e55>Insider Channel</color> của Pioneer Podcast.",
+    "new_translation_vi": "Sau khi sử dụng vật phẩm này, bạn có thể mở khóa <color=#c49e55>Kênh Nội Bộ</color> của Pioneer Podcast.",
     "translator_note": ""
   },
   {
@@ -7171,7 +7171,7 @@
     "ai_reason": "",
     "source_en": "The <color=#c49e55>Connoisseur Channel</color> of Pioneer Podcast has been unlocked, this item cannot be used",
     "review_note": "",
-    "new_translation_vi": "Kênh <color=#c49e55>Connoisseur Channel</color> của Pioneer Podcast đã được mở khóa, vật phẩm này không thể sử dụng được nữa.",
+    "new_translation_vi": "Kênh <color=#c49e55>Connoisseur</color> của Pioneer Podcast đã được mở khóa, vật phẩm này không thể sử dụng được nữa.",
     "translator_note": ""
   },
   {
@@ -7196,7 +7196,7 @@
     "ai_reason": "",
     "source_en": "After using this item, you can unlock the <color=#c49e55>Connoisseur Channel</color> of Pioneer Podcast",
     "review_note": "",
-    "new_translation_vi": "Sau khi sử dụng vật phẩm này, cậu có thể mở khóa kênh <color=#c49e55>Connoisseur Channel</color> của Pioneer Podcast.",
+    "new_translation_vi": "Sau khi sử dụng vật phẩm này, cậu có thể mở khóa kênh <color=#c49e55>Connoisseur</color> của Pioneer Podcast.",
     "translator_note": ""
   },
   {
@@ -7346,7 +7346,7 @@
     "ai_reason": "",
     "source_en": "Leave now?",
     "review_note": "",
-    "new_translation_vi": "Rời đi à?",
+    "new_translation_vi": "Cút đi à?",
     "translator_note": ""
   },
   {
@@ -8021,7 +8021,7 @@
     "ai_reason": "",
     "source_en": "Do you wish to enter the simulation with the current Resonator and their initial weapon?",
     "review_note": "",
-    "new_translation_vi": "Bạn có muốn vào mô phỏng với Cộng Hưởng Giả hiện tại và vũ khí khởi đầu của họ không?",
+    "new_translation_vi": "Bạn có muốn vào mô phỏng với Resonator hiện tại và vũ khí khởi đầu của họ không?",
     "translator_note": ""
   },
   {
@@ -8296,7 +8296,7 @@
     "ai_reason": "",
     "source_en": "This Namipon is currently equipped by another Resonator. Do you want to make adjustments?",
     "review_note": "",
-    "new_translation_vi": "Namipon này đang được một Cộng Hưởng Giả khác sử dụng. Ngươi có muốn điều chỉnh không?",
+    "new_translation_vi": "Namipon này đang được một Resonator khác sử dụng. Ngươi có muốn điều chỉnh không?",
     "translator_note": ""
   },
   {
@@ -8521,7 +8521,7 @@
     "ai_reason": "",
     "source_en": "Leave now?",
     "review_note": "",
-    "new_translation_vi": "Rời đi à?",
+    "new_translation_vi": "Cút đi à?",
     "translator_note": ""
   },
   {
@@ -10596,7 +10596,7 @@
     "ai_reason": "",
     "source_en": "Player not activated. Operation failed.",
     "review_note": "",
-    "new_translation_vi": "Rover chưa được kích hoạt. Thao tác thất bại.",
+    "new_translation_vi": "Vận Mệnh Giả chưa được kích hoạt. Thao tác thất bại.",
     "translator_note": ""
   },
   {
@@ -10646,7 +10646,7 @@
     "ai_reason": "",
     "source_en": "Current Echo Substat does not exist.",
     "review_note": "",
-    "new_translation_vi": "Thuộc Tính Phụ Tiếng Vang Hiện Tại Không Tồn Tại",
+    "new_translation_vi": "Thuộc Tính Phụ Echo Hiện Tại Không Tồn Tại",
     "translator_note": ""
   },
   {
@@ -11771,7 +11771,7 @@
     "ai_reason": "",
     "source_en": "You cannot switch Resonators inside this domain.",
     "review_note": "",
-    "new_translation_vi": "Bạn không thể đổi Cộng Hưởng Giả trong khu vực này.",
+    "new_translation_vi": "Bạn không thể đổi Resonator trong khu vực này.",
     "translator_note": ""
   },
   {
@@ -11796,7 +11796,7 @@
     "ai_reason": "",
     "source_en": "Invalid Resonator chosen.",
     "review_note": "",
-    "new_translation_vi": "Cộng Hưởng Giả đã chọn không hợp lệ",
+    "new_translation_vi": "Resonator đã chọn không hợp lệ",
     "translator_note": ""
   },
   {

@@ -55,6 +55,8 @@ File này là bản đồ giọng nói và xưng hô cho toàn bộ nhân vật 
 | Jiyan | Quân nhân/chỉ huy | Chắc, gọn, trách nhiệm, điềm tĩnh; có khí chất chỉ huy. | `tôi` - `Rover/cậu`. |
 | Lingyang | Trẻ/nhiệt thành | Tươi, chân thành, lễ phép nhưng linh hoạt; có năng lượng biểu diễn. | `tớ/tôi` - `cậu/Rover`. |
 | Lumi | Nhanh/đời thường | Hoạt bát, thực tế, hơi hấp tấp; câu thoại thân thiện. | `tớ/tôi` - `cậu/Rover`. |
+| Lucilla | Trang nghiêm/bí thuật | Điềm tĩnh, chính xác, có phong thái nghiên cứu; tránh suồng sã. | `tôi` - `Rover/cậu`. |
+| Lucy | Tươi sáng/năng động | Hoạt bát, trong sáng, thân thiện; câu thoại nhiệt tình. | `tớ/tôi` - `cậu/Rover`. |
 | Lupa | Chiến binh/nhiệt | Mạnh, trực diện, quyết đoán; ưu tiên động từ mạnh, câu chắc. | `tôi/ta` - `Rover/cậu`. |
 | Luuk Herssen | Trang trọng/điềm | Điềm đạm, nghiêm, có chiều sâu; tránh lối nói quá đời thường. | `tôi` - `Rover/cậu`. |
 | Lynae | Thanh lịch/ánh sáng | Mềm, sáng, tự tin; giữ nét tinh tế và vừa phải. | `tôi` - `Rover/cậu`. |
@@ -64,6 +66,7 @@ File này là bản đồ giọng nói và xưng hô cho toàn bộ nhân vật 
 | Phrolova | Phản diện/nghệ thuật | Lạnh, nguy hiểm, sân khấu, khiêu khích; có thể dùng nhịp câu ma mị. | `ta/tôi` - `ngươi/Rover`. |
 | Qiuyuan | Trầm/thiền | Bình ổn, có chất suy tư, ít phô; câu rõ và điềm. | `tôi/ta` - `Rover/cậu`. |
 | Roccia | Kỳ quặc/sân khấu | Lém lỉnh, bí hiểm, hơi sân khấu; không biến thành trẻ con quá mức. | `tôi/ta` - `Rover/cậu/ngươi` theo cảnh. |
+| Rebecca | Sắc sảo/quyết đoán | Tự tin, thẳng thắn, nhạy bén; câu thoại chắc và nhanh. | `tôi` - `Rover/cậu`. |
 | Sanhua | Lạnh/trung thành | Điềm đạm, trang trọng, kiệm lời, trung thành; giữ khoảng cách. | `tôi` - `Rover/cậu/người`. |
 | San'hua | Alias dữ liệu cũ của Sanhua | Dùng cùng giọng Sanhua khi source dùng `San'hua`. | `tôi` - `Rover/cậu/người`. |
 | Shorekeeper | Siêu nhiên/trầm | Thanh, xa cách, dịu sâu, ít phô cảm xúc; câu nên nhẹ và đẹp. | `tôi` - `Rover/người/cậu`. |

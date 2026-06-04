@@ -3821,7 +3821,7 @@
     "ai_reason": "",
     "source_en": "?",
     "review_note": "",
-    "new_translation_vi": "?",
+    "new_translation_vi": "Gì?",
     "translator_note": ""
   },
   {
@@ -4396,7 +4396,7 @@
     "ai_reason": "",
     "source_en": "<color=#56e2e7>{0}</color>/{1}",
     "review_note": "",
-    "new_translation_vi": "<color=#56e2e7>{0}</color>/{1}",
+    "new_translation_vi": "{0}/{1}",
     "translator_note": ""
   },
   {
@@ -4446,7 +4446,7 @@
     "ai_reason": "",
     "source_en": "Remaining: {0}",
     "review_note": "",
-    "new_translation_vi": "Remaining: {0}",
+    "new_translation_vi": "Còn lại: {0}",
     "translator_note": ""
   },
   {
@@ -4496,7 +4496,7 @@
     "ai_reason": "",
     "source_en": "This stage unlocks in {0}.",
     "review_note": "",
-    "new_translation_vi": "Giai đoạn này sẽ mở khóa trong {0}.",
+    "new_translation_vi": "Giai đoạn này sẽ mở khóa vào {0}.",
     "translator_note": ""
   },
   {
@@ -4521,7 +4521,7 @@
     "ai_reason": "",
     "source_en": "Level up 1 Resonator to Lv. 50.",
     "review_note": "",
-    "new_translation_vi": "Nâng cấp 1 Cộng Hưởng Giả lên Lv. 50.",
+    "new_translation_vi": "Nâng cấp 1 Resonator lên Lv. 50.",
     "translator_note": ""
   },
   {
@@ -4546,7 +4546,7 @@
     "ai_reason": "",
     "source_en": "Level up 1 Resonator to Lv. 60.",
     "review_note": "",
-    "new_translation_vi": "Nâng cấp 1 Cộng Hưởng Giả lên cấp 60.",
+    "new_translation_vi": "Nâng cấp 1 Resonator lên cấp 60.",
     "translator_note": ""
   },
   {
@@ -4571,7 +4571,7 @@
     "ai_reason": "",
     "source_en": "Level up 1 Resonator to Lv. 70.",
     "review_note": "",
-    "new_translation_vi": "Nâng cấp 1 Cộng Hưởng Giả lên cấp 70.",
+    "new_translation_vi": "Nâng cấp 1 Resonator lên cấp 70.",
     "translator_note": ""
   },
   {
@@ -4596,7 +4596,7 @@
     "ai_reason": "",
     "source_en": "Level up 1 Resonator to Lv. 80.",
     "review_note": "",
-    "new_translation_vi": "Nâng cấp 1 Cộng Hưởng Giả lên cấp 80.",
+    "new_translation_vi": "Nâng cấp 1 Resonator lên cấp 80.",
     "translator_note": ""
   },
   {
@@ -4621,7 +4621,7 @@
     "ai_reason": "",
     "source_en": "Level up 2 Resonators to Lv. 80.",
     "review_note": "",
-    "new_translation_vi": "Nâng cấp 2 Cộng Hưởng Giả lên cấp 80.",
+    "new_translation_vi": "Nâng cấp 2 Resonator lên cấp 80.",
     "translator_note": ""
   },
   {
@@ -7121,7 +7121,7 @@
     "ai_reason": "",
     "source_en": "Current Status: Terminal is in storage. Core data module is detached and missing.",
     "review_note": "",
-    "new_translation_vi": "Trạng Thái Hiện Tại: Thiết bị đầu cuối đang được lưu trữ. Mô-đun dữ liệu lõi đã tách rời và thất lạc.",
+    "new_translation_vi": "Trạng Thái Hiện Tại: Terminal is in storage. Core data module is detached and missing.",
     "translator_note": ""
   },
   {
@@ -7321,7 +7321,7 @@
     "ai_reason": "",
     "source_en": "This stage unlocks in {0}.",
     "review_note": "",
-    "new_translation_vi": "Giai đoạn này sẽ mở khóa trong {0}.",
+    "new_translation_vi": "Giai đoạn này sẽ mở khóa vào {0}.",
     "translator_note": ""
   },
   {
@@ -7471,7 +7471,7 @@
     "ai_reason": "",
     "source_en": "Highest Record: {0}",
     "review_note": "",
-    "new_translation_vi": "Highest Record: {0}",
+    "new_translation_vi": "Kỷ Lục Cao Nhất: {0}",
     "translator_note": ""
   },
   {
@@ -8236,7 +8236,7 @@
     "primary_key": "MapTravelExp_Text",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "",
     "rule_decision": "RETRY",
     "rule_score": 4,
@@ -8246,7 +8246,7 @@
     "ai_reason": "",
     "source_en": "<color=#fde7a1>{0}</color><color=#ece5d8>/{1}</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#fde7a1>{0}</color><color=#ece5d8>/{1}</color>",
+    "new_translation_vi": "{0}/{1}",
     "translator_note": ""
   },
   {
@@ -8261,7 +8261,7 @@
     "primary_key": "MapTravelExpYellow_Text",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "",
     "rule_decision": "RETRY",
     "rule_score": 4,
@@ -8271,7 +8271,7 @@
     "ai_reason": "",
     "source_en": "<color=#fde7a1>{0}</color><color=#ece5d8>/{1}</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#fde7a1>{0}</color><color=#ece5d8>/{1}</color>",
+    "new_translation_vi": "{0}/{1}",
     "translator_note": ""
   },
   {
@@ -8346,7 +8346,7 @@
     "ai_reason": "",
     "source_en": "<color=#ece5d8>Max</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#ece5d8>Max</color>",
+    "new_translation_vi": "<color=#ece5d8>Tối Đa</color>",
     "translator_note": ""
   },
   {
@@ -8386,7 +8386,7 @@
     "primary_key": "MapTravelAllTaskProgress_Text",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "",
     "rule_decision": "RETRY",
     "rule_score": 4,
@@ -8396,7 +8396,7 @@
     "ai_reason": "",
     "source_en": "<color=#fde7a1>{0}</color><color=#ece5d8>/{1}</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#fde7a1>{0}</color><color=#ece5d8>/{1}</color>",
+    "new_translation_vi": "{0}/{1}",
     "translator_note": ""
   },
   {
@@ -8471,7 +8471,7 @@
     "ai_reason": "",
     "source_en": "Full Metal Alert!",
     "review_note": "",
-    "new_translation_vi": "Full Metal Cảnh báo!",
+    "new_translation_vi": "Báo Động Toàn Thân Kim Loại!",
     "translator_note": ""
   },
   {
@@ -9596,7 +9596,7 @@
     "ai_reason": "",
     "source_en": "Background music played during your battle with Fallacy of No Return.",
     "review_note": "",
-    "new_translation_vi": "Nhạc nền trong trận chiến với Fallacy of Không Return.",
+    "new_translation_vi": "Nhạc nền trong trận chiến với Fallacy of No Return.",
     "translator_note": ""
   },
   {
@@ -10421,7 +10421,7 @@
     "ai_reason": "",
     "source_en": "Background music of Porto-Veno Castle.",
     "review_note": "",
-    "new_translation_vi": "Nhạc nền Lâu đài Porto-Veno.",
+    "new_translation_vi": "Nhạc nền Porto-Veno Castle.",
     "translator_note": ""
   },
   {
@@ -10971,7 +10971,7 @@
     "ai_reason": "",
     "source_en": "Background music of Porto-Veno Castle.",
     "review_note": "",
-    "new_translation_vi": "Nhạc nền Lâu đài Porto-Veno.",
+    "new_translation_vi": "Nhạc nền Porto-Veno Castle.",
     "translator_note": ""
   },
   {

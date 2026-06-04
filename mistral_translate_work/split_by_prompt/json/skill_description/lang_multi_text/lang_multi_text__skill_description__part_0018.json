@@ -221,7 +221,7 @@
     "ai_reason": "",
     "source_en": "Casting Resonance Liberation increases ATK by {0} and grants {1} Resonance Liberation DMG Bonus for {2}s.",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Resonance Liberation tăng Tấn Công {0} và tăng {1} Sát Thương Resonance Liberation trong {2} giây.",
+    "new_translation_vi": "Kích hoạt Giải Cứu Cộng Hưởng tăng ATK {0} và tăng {1} Sát Thương Giải Cứu Cộng Hưởng trong {2} giây.",
     "translator_note": ""
   },
   {
@@ -371,7 +371,7 @@
     "ai_reason": "",
     "source_en": "<size=40><color=Title>Magnetic Roar</color></size>\nThe puppet \"Zapstring\" deals <color=Thunder>Electro DMG</color> to the target, and puts Yinlin in Resonance Skill <color=Highlight>Execution Mode</color>.\n<size=10> </size>\n<size=40><color=Title>Execution Mode</color></size>\n<color=Highlight>Basic Attack</color> and <color=Highlight>Dodge Counter</color> will trigger 1 <color=Highlight>Electromagnetic Blast</color> when hitting a target.\nEach stage of <color=Highlight>Basic Attack</color> or <color=Highlight>Dodge Counter</color> can only trigger 1 <color=Highlight>Electromagnetic Blast</color>, up to 4 times.\n<size=10> </size>\n<size=40><color=Title>Electromagnetic Blast</color></size>\nAttack all targets marked with Forte Circuit <color=Highlight><te href=850029>Sinner's Mark</te></color>, dealing <color=Thunder>Electro DMG</color>.\n<size=10> </size>\n<size=40><color=Title>Lightning Execution</color></size>\nUse Resonance Skill after casting Resonance Skill <color=Highlight>Magnetic Roar</color> to cast <color=Highlight>Lightning Execution</color> to attack the target, dealing <color=Thunder>Electro DMG</color>.\nIf Resonance Skill <color=Highlight>Lightning Execution</color> is not activated in a while or this Character is switched, this Skill will be put on Cooldown.",
     "review_note": "",
-    "new_translation_vi": "<size=40><color=Title>Magnetic Roar</color></size>\nCon rối \"Zapstring\" gây <color=Thunder>Electro DMG</color> lên mục tiêu và đưa Yinlin vào Resonance Skill <color=Highlight>Execution Mode</color>.\n<size=10> </size>\n<size=40><color=Title>Execution Mode</color></size>\n<color=Highlight>Basic Attack</color> và <color=Highlight>Dodge Counter</color> sẽ kích hoạt 1 <color=Highlight>Electromagnetic Blast</color> khi trúng mục tiêu.\nMỗi giai đoạn của <color=Highlight>Basic Attack</color> hoặc <color=Highlight>Dodge Counter</color> chỉ có thể kích hoạt 1 <color=Highlight>Electromagnetic Blast</color>, tối đa 4 lần.\n<size=10> </size>\n<size=40><color=Title>Electromagnetic Blast</color></size>\nAttack tất cả mục tiêu mang Forte Circuit <color=Highlight><te href=850029>Sinner's Mark</te></color>, gây <color=Thunder>Electro DMG</color>.\n<size=10> </size>\n<size=40><color=Title>Lightning Execution</color></size>\nSử dụng Resonance Skill sau khi dùng Resonance Skill <color=Highlight>Magnetic Roar</color> để thi triển <color=Highlight>Lightning Execution</color>, tấn công mục tiêu và gây <color=Thunder>Electro DMG</color>.\nNếu Resonance Skill <color=Highlight>Lightning Execution</color> không được kích hoạt trong một khoảng thời gian hoặc Character này bị thay ra, Kỹ Năng sẽ bị đưa vào Cooldown chiêu.",
+    "new_translation_vi": "<size=40><color=Title>Magnetic Roar</color></size>\nCon rối \"Zapstring\" gây <color=Thunder>Electro DMG</color> lên mục tiêu và đưa Yinlin vào Resonance Skill <color=Highlight>Execution Mode</color>.\n<size=10> </size>\n<size=40><color=Title>Execution Mode</color></size>\n<color=Highlight>Basic Attack</color> và <color=Highlight>Dodge Counter</color> sẽ kích hoạt 1 <color=Highlight>Electromagnetic Blast</color> khi trúng mục tiêu.\nMỗi giai đoạn của <color=Highlight>Basic Attack</color> hoặc <color=Highlight>Dodge Counter</color> chỉ có thể kích hoạt 1 <color=Highlight>Electromagnetic Blast</color>, tối đa 4 lần.\n<size=10> </size>\n<size=40><color=Title>Electromagnetic Blast</color></size>\nAttack tất cả mục tiêu mang Forte Circuit <color=Highlight><te href=850029>Sinner's Mark</te></color>, gây <color=Thunder>Electro DMG</color>.\n<size=10> </size>\n<size=40><color=Title>Lightning Execution</color></size>\nSử dụng Resonance Skill sau khi dùng Resonance Skill <color=Highlight>Magnetic Roar</color> để thi triển <color=Highlight>Lightning Execution</color>, tấn công mục tiêu và gây <color=Thunder>Electro DMG</color>.\nNếu Resonance Skill <color=Highlight>Lightning Execution</color> không được kích hoạt trong một khoảng thời gian hoặc Character này bị thay ra, Kỹ Năng sẽ bị đưa vào Thời gian hồi chiêu.",
     "translator_note": ""
   },
   {
@@ -796,7 +796,7 @@
     "ai_reason": "",
     "source_en": "Hitting a target with <color=Highlight>Normal Attack</color>, Basic Attack <color=Highlight>Vining Waltz</color>, Basic Attack <color=Highlight>Blazing Waltz</color>, Basic Attack <color=Highlight>Vining Ronde</color>, Dodge Counter <color=Highlight>Atonement </color>, Resonance Skill <color=Highlight>Crimson Blossom</color>, and Resonance Skill <color=Highlight>Floral Ravage</color> consumes Crimson Pistils. The Energy Regen Multiplier of this attack is increased by {0}.\nConsuming {1} Crimson Pistils recovers {2} Concerto Energy and obtains <SapTag=3>{3}</SapTag> Crimson Bud(s). Each bud lasts for {4}s, stacking up to {5} times.\n<size=10> </size>\n<size=40><color=Title>Forte Circuit: Ephemeral</color></size>\nWhen Concerto Energy is fully recovered, and <color=Highlight>Ephemeral</color> is not on Cooldown, Resonance Skill is replaced with <color=Highlight>Ephemeral</color>.\nCasting <color=Highlight>Ephemeral</color> consumes {6} Concerto Energy and deals <color=Dark>Havoc DMG</color> to the targets. This damage is considered Basic Attack DMG.\nCamellya enters <color=Highlight>Budding Mode</color> after casting <color=Highlight>Ephemeral</color>.\nThis can be cast in mid-air.\n<size=10> </size>\n<size=40><color=Title>Budding Mode</color></size>\n- <color=Highlight>Sweet Dream</color>: Increase the DMG Multiplier of <color=Highlight>Normal Attack</color>, Basic Attack <color=Highlight>Vining Waltz</color>, Basic Attack <color=Highlight>Blazing Waltz</color>, Basic Attack <color=Highlight>Vining Ronde</color>, Dodge Counter <color=Highlight>Atonement</color>, Resonance Skill <color=Highlight>Crimson Blossom</color>, and Resonance Skill <color=Highlight>Floral Ravage</color> by {8}.\n- Casting <color=Highlight>Ephemeral</color> consumes all Crimson Buds. Each Crimson Bud consumed additionally increases the DMG Multiplier of <color=Highlight>Sweet Dream</color> by {9}, up to {10}. \n- When in <color=Highlight>Budding Mode</color>, Camellya cannot gain Crimson Buds.\n- When in <color=Highlight>Budding Mode</color>, the Energy Regen Multiplier of <color=Highlight>Normal Attack</color>, Basic Attack <color=Highlight>Vining Waltz</color>, Basic Attack <color=Highlight>Blazing Waltz</color>, Basic Attack <color=Highlight>Vining Ronde</color>, Dodge Counter <color=Highlight>Atonement</color>, Resonance Skill <color=Highlight>Crimson Blossom</color>, and Resonance Skill <color=Highlight>Floral Ravage</color> is reduced to {11}.\n- <color=Highlight>Budding Mode</color> ends when Camellya is switched off the field.\n- <color=Highlight>Budding Mode</color> ends when all Crimson Pistils are consumed.\n<size=10> </size>\n<size=40><color=Title>Crimson Pistil</color></size>\nCamellya can hold up to {12} Crimson Pistils.\n- Casting Intro Skill <color=Highlight>Everblooming</color> recovers {13} Crimson Pistils.\n- Activating Forte Circuit's <color=Highlight>Ephemeral</color> recovers {17} Crimson Pistils.",
     "review_note": "",
-    "new_translation_vi": "Tấn công mục tiêu bằng <color=Highlight>Normal Attack</color>, Kỹ Năng Basic <color=Highlight>Vining Waltz</color>, Kỹ Năng Basic <color=Highlight>Blazing Waltz</color>, Kỹ Năng Basic <color=Highlight>Vining Ronde</color>, Dodge Counter <color=Highlight>Atonement</color>, Resonance Skill <color=Highlight>Crimson Blossom</color> và Resonance Skill <color=Highlight>Floral Ravage</color> sẽ tiêu hao Nhụy Crimson. Hệ số hồi năng lượng của đòn tấn công này tăng thêm {0}.\nTiêu hao {1} Nhụy Crimson sẽ hồi {2} Concerto Energy và nhận được <SapTag=3>{3}</SapTag> Nụ Crimson (thời gian tồn tại {4}s, tối đa chồng chất {5} lần).\n<size=10> </size>\n<size=40><color=Title>Forte Circuit: Ephemeral</color></size>\nKhi Concerto Energy hồi đầy và <color=Highlight>Ephemeral</color> không trong Cooldown chiêu, Resonance Skill sẽ được thay thế bằng <color=Highlight>Ephemeral</color>.\nSử dụng <color=Highlight>Ephemeral</color> tiêu hao {6} Concerto Energy và gây <color=Dark>Havoc DMG</color> lên mục tiêu. Loại sát thương này được tính là Sát Thương Kỹ Năng Basic.\nSau khi sử dụng <color=Highlight>Budding Mode</color>, Camellya sẽ bước vào trạng thái <color=Highlight>Ephemeral</color>.\nCó thể sử dụng khi đang ở trên không.\n<size=10> </size>\n<size=40><color=Title>Budding Mode</color></size>\n- <color=Highlight>Sweet Dream</color>: Increase hệ số sát thương của <color=Highlight>Normal Attack</color>, Kỹ Năng Basic <color=Highlight>Vining Waltz</color>, Kỹ Năng Basic <color=Highlight>Blazing Waltz</color>, Kỹ Năng Basic <color=Highlight>Vining Ronde</color>, Dodge Counter <color=Highlight>Atonement</color>, Resonance Skill <color=Highlight>Crimson Blossom</color> và Resonance Skill <color=Highlight>Floral Ravage</color> thêm {8}.\n- Sử dụng <color=Highlight>Ephemeral</color> sẽ tiêu hao toàn bộ Nụ Crimson. Mỗi Nụ Crimson tiêu hao sẽ tăng thêm hệ số sát thương của <color=Highlight>Sweet Dream</color> thêm {9}, tối đa {10}.\n- Khi ở trạng thái <color=Highlight>Budding Mode</color>, Camellya không thể nhận thêm Nụ Crimson.\n- Khi ở trạng thái <color=Highlight>Budding Mode</color>, hệ số hồi năng lượng của <color=Highlight>Normal Attack</color>, Kỹ Năng Basic <color=Highlight>Vining Waltz</color>, Kỹ Năng Basic <color=Highlight>Blazing Waltz</color>, Kỹ Năng Basic <color=Highlight>Vining Ronde</color>, Dodge Counter <color=Highlight>Atonement</color>, Resonance Skill <color=Highlight>Crimson Blossom</color> và Resonance Skill <color=Highlight>Floral Ravage</color> giảm xuống còn {11}.\n- Trạng thái <color=Highlight>Budding Mode</color> kết thúc khi Camellya rời khỏi chiến trường.\n- Trạng thái <color=Highlight>Budding Mode</color> kết thúc khi tiêu hao hết Nhụy Crimson.\n<size=10> </size>\n<size=40><color=Title>Crimson Pistil</color></size>\nCamellya có thể mang tối đa {12} Nhụy Crimson.\n- Sử dụng Intro Skill <color=Highlight>Everblooming</color> sẽ hồi {13} Nhụy Crimson.\n- Kích hoạt <color=Highlight>Ephemeral</color> của Forte Circuit sẽ hồi {17} Nhụy Crimson.",
+    "new_translation_vi": "Tấn công mục tiêu bằng <color=Highlight>Normal Attack</color>, Kỹ Năng Basic <color=Highlight>Vining Waltz</color>, Kỹ Năng Basic <color=Highlight>Blazing Waltz</color>, Kỹ Năng Basic <color=Highlight>Vining Ronde</color>, Dodge Counter <color=Highlight>Atonement</color>, Resonance Skill <color=Highlight>Crimson Blossom</color> và Resonance Skill <color=Highlight>Floral Ravage</color> sẽ tiêu hao Nhụy Crimson. Hệ số hồi năng lượng của đòn tấn công này tăng thêm {0}.\nTiêu hao {1} Nhụy Crimson sẽ hồi {2} Concerto Energy và nhận được <SapTag=3>{3}</SapTag> Nụ Crimson (thời gian tồn tại {4}s, tối đa chồng chất {5} lần).\n<size=10> </size>\n<size=40><color=Title>Forte Circuit: Ephemeral</color></size>\nKhi Concerto Energy hồi đầy và <color=Highlight>Ephemeral</color> không trong Thời gian hồi chiêu, Resonance Skill sẽ được thay thế bằng <color=Highlight>Ephemeral</color>.\nSử dụng <color=Highlight>Ephemeral</color> tiêu hao {6} Concerto Energy và gây <color=Dark>Havoc DMG</color> lên mục tiêu. Loại sát thương này được tính là Sát Thương Kỹ Năng Basic.\nSau khi sử dụng <color=Highlight>Budding Mode</color>, Camellya sẽ bước vào trạng thái <color=Highlight>Ephemeral</color>.\nCó thể sử dụng khi đang ở trên không.\n<size=10> </size>\n<size=40><color=Title>Budding Mode</color></size>\n- <color=Highlight>Sweet Dream</color>: Increase hệ số sát thương của <color=Highlight>Normal Attack</color>, Kỹ Năng Basic <color=Highlight>Vining Waltz</color>, Kỹ Năng Basic <color=Highlight>Blazing Waltz</color>, Kỹ Năng Basic <color=Highlight>Vining Ronde</color>, Dodge Counter <color=Highlight>Atonement</color>, Resonance Skill <color=Highlight>Crimson Blossom</color> và Resonance Skill <color=Highlight>Floral Ravage</color> thêm {8}.\n- Sử dụng <color=Highlight>Ephemeral</color> sẽ tiêu hao toàn bộ Nụ Crimson. Mỗi Nụ Crimson tiêu hao sẽ tăng thêm hệ số sát thương của <color=Highlight>Sweet Dream</color> thêm {9}, tối đa {10}.\n- Khi ở trạng thái <color=Highlight>Budding Mode</color>, Camellya không thể nhận thêm Nụ Crimson.\n- Khi ở trạng thái <color=Highlight>Budding Mode</color>, hệ số hồi năng lượng của <color=Highlight>Normal Attack</color>, Kỹ Năng Basic <color=Highlight>Vining Waltz</color>, Kỹ Năng Basic <color=Highlight>Blazing Waltz</color>, Kỹ Năng Basic <color=Highlight>Vining Ronde</color>, Dodge Counter <color=Highlight>Atonement</color>, Resonance Skill <color=Highlight>Crimson Blossom</color> và Resonance Skill <color=Highlight>Floral Ravage</color> giảm xuống còn {11}.\n- Trạng thái <color=Highlight>Budding Mode</color> kết thúc khi Camellya rời khỏi chiến trường.\n- Trạng thái <color=Highlight>Budding Mode</color> kết thúc khi tiêu hao hết Nhụy Crimson.\n<size=10> </size>\n<size=40><color=Title>Crimson Pistil</color></size>\nCamellya có thể mang tối đa {12} Nhụy Crimson.\n- Sử dụng Intro Skill <color=Highlight>Everblooming</color> sẽ hồi {13} Nhụy Crimson.\n- Kích hoạt <color=Highlight>Ephemeral</color> của Forte Circuit sẽ hồi {17} Nhụy Crimson.",
     "translator_note": ""
   },
   {
@@ -896,7 +896,7 @@
     "ai_reason": "",
     "source_en": "Calcharo performs up to 3 consecutive attacks, dealing <color=Thunder>Electro DMG</color>.\nIf Calcharo is switched off field, or if Resonance Skill <color=Highlight>Extermination Order</color> is not activated again in a while, this skill will enter Cooldown.\nResonance Skill <color=Highlight>Extermination Order</color> does not interrupt Calcharo's Basic Attack cycle.",
     "review_note": "",
-    "new_translation_vi": "Calcharo thực hiện tối đa 3 đòn tấn công liên tiếp, gây <color=Thunder>Electro DMG</color>.\nNếu Calcharo rời khỏi chiến trường hoặc Resonance Skill <color=Highlight>Extermination Order</color> không được kích hoạt lại sau một thời gian, kỹ năng này sẽ bước vào Cooldown chiêu.\nResonance Skill <color=Highlight>Extermination Order</color> không làm gián đoạn chu kỳ Basic Attack của Calcharo.",
+    "new_translation_vi": "Calcharo thực hiện tối đa 3 đòn tấn công liên tiếp, gây <color=Thunder>Electro DMG</color>.\nNếu Calcharo rời khỏi chiến trường hoặc Resonance Skill <color=Highlight>Extermination Order</color> không được kích hoạt lại sau một thời gian, kỹ năng này sẽ bước vào Thời gian hồi chiêu.\nResonance Skill <color=Highlight>Extermination Order</color> không làm gián đoạn chu kỳ Basic Attack của Calcharo.",
     "translator_note": ""
   },
   {
@@ -2021,7 +2021,7 @@
     "ai_reason": "",
     "source_en": "Casting Resonance Liberation increases ATK by {0} and grants {1} Resonance Liberation DMG Bonus for {2}s.",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Resonance Liberation tăng Tấn Công {0} và tăng {1} Sát Thương Resonance Liberation trong {2} giây.",
+    "new_translation_vi": "Kích hoạt Giải Cứu Cộng Hưởng tăng ATK {0} và tăng {1} Sát Thương Giải Cứu Cộng Hưởng trong {2} giây.",
     "translator_note": ""
   },
   {
@@ -3771,7 +3771,7 @@
     "ai_reason": "",
     "source_en": "<size=40><color=Title>Basic Attack</color></size>\nPerform up to 2 consecutive strikes, dealing <color=Ice>Glacio DMG</color>.\n<size=10> </size>\n<size=40><color=Title>Basic Attack - Necessary Measures</color></size>\nWith <te href=850017>Moldable Crystals</te>, Carlotta's <color=Highlight>Basic Attack</color> is replaced with <color=Highlight>Necessary Measures</color>.\nChain up to 3 strikes, dealing <color=Ice>Glacio DMG</color>. Each strike of <color=Highlight>Necessary Measures</color> consumes <SapTag=1>{1}</SapTag> Moldable {Cus:Sap,S=Crystal P=Crystals SapTag=1}.\n<size=10> </size>\n<size=40><color=Title>Heavy Attack</color></size>\nDeliver a charged attack at the target at the cost of STA, dealing <color=Ice>Glacio DMG</color>.\n<size=10> </size>\n<size=40><color=Title>Heavy Attack - Containment Tactics</color></size>\nWhen Carlotta's <te href=850018>Substance</te> is full, her <color=Highlight>Heavy Attack</color> will be replaced with <color=Highlight>Containment Tactics</color>: consume all Substance to deal <color=Ice>Glacio DMG</color> and reduce the cooldown of Resonance Skill <color=Highlight>Art of Violence</color> by {3}s.\n<size=10> </size>\n<size=40><color=Title>Mid-air Attack</color></size>\nPerform a Plunging Attack at the cost of STA, dealing <color=Ice>Glacio DMG</color>. Using <color=Highlight>Basic Attack</color> shortly after the landing will cast <color=Highlight>Customary Greetings</color>.\n<size=10> </size>\n<size=40><color=Title>Mid-air Attack - Customary Greetings</color></size>\nFlip over the target and deliver a surprise shot, dealing <color=Ice>Glacio DMG</color>.\n<size=10> </size>\n<size=40><color=Title>Dodge Counter</color></size>\n{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> shortly after a successful <color=Highlight>Dodge</color> to deliver a riposte shot, dealing <color=Ice>Glacio DMG</color>. This consumes <SapTag=6>{6}</SapTag> Moldable {Cus:Sap,S=Crystal P=Crystals SapTag=6}.",
     "review_note": "",
-    "new_translation_vi": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 2 đòn đánh liên tiếp, gây <color=Ice>Glacio DMG</color>.\n<size=10> </size>\n<size=40><color=Title>Basic Attack - Necessary Measures</color></size>\nKhi có <te href=850017>Moldable Crystals</te>, <color=Highlight>Basic Attack</color> của Carlotta sẽ được thay thế bằng <color=Highlight>Necessary Measures</color>.\nThực hiện tối đa 3 đòn đánh liên tiếp, gây <color=Ice>Glacio DMG</color>. Mỗi đòn đánh của <color=Highlight>Necessary Measures</color> tiêu hao <SapTag=1>{1}</SapTag> Tinh Thể Linh Hoạt.\n<size=10> </size>\n<size=40><color=Title>Heavy Attack</color></size>\nTập trung sức mạnh để tung đòn tấn công mục tiêu, tiêu hao STA và gây <color=Ice>Glacio DMG</color>.\n<size=10> </size>\n<size=40><color=Title>Heavy Attack - Containment Tactics</color></size>\nKhi <te href=850018>Substance</te> của Carlotta đạt tối đa, <color=Highlight>Heavy Attack</color> sẽ được thay thế bằng <color=Highlight>Containment Tactics</color>: tiêu hao toàn bộ Chất để gây <color=Ice>Glacio DMG</color> và giảm Cooldown chiêu của Resonance Skill <color=Highlight>Art of Violence</color> đi {3} giây.\n<size=10> </size>\n<size=40><color=Title>Mid-air Attack</color></size>\nTiêu hao STA để thực hiện Đòn Lao Xuống, gây <color=Ice>Glacio DMG</color>. Sử dụng <color=Highlight>Basic Attack</color> ngay sau khi tiếp đất sẽ kích hoạt <color=Highlight>Customary Greetings</color>.\n<size=10> </size>\n<size=40><color=Title>Mid-air Attack - Customary Greetings</color></size>\nLật người qua mục tiêu và bắn bất ngờ, gây <color=Ice>Glacio DMG</color>.\n<size=10> </size>\n<size=40><color=Title>Dodge Counter</color></size>\n{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> ngay sau khi <color=Highlight>Dodge</color> thành công để phản đòn, gây <color=Ice>Glacio DMG</color>. Hành động này tiêu hao <SapTag=6>{6}</SapTag> Tinh Thể Linh Hoạt.",
+    "new_translation_vi": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 2 đòn đánh liên tiếp, gây <color=Ice>Glacio DMG</color>.\n<size=10> </size>\n<size=40><color=Title>Basic Attack - Necessary Measures</color></size>\nKhi có <te href=850017>Moldable Crystals</te>, <color=Highlight>Basic Attack</color> của Carlotta sẽ được thay thế bằng <color=Highlight>Necessary Measures</color>.\nThực hiện tối đa 3 đòn đánh liên tiếp, gây <color=Ice>Glacio DMG</color>. Mỗi đòn đánh của <color=Highlight>Necessary Measures</color> tiêu hao <SapTag=1>{1}</SapTag> Tinh Thể Linh Hoạt.\n<size=10> </size>\n<size=40><color=Title>Heavy Attack</color></size>\nTập trung sức mạnh để tung đòn tấn công mục tiêu, tiêu hao STA và gây <color=Ice>Glacio DMG</color>.\n<size=10> </size>\n<size=40><color=Title>Heavy Attack - Containment Tactics</color></size>\nKhi <te href=850018>Substance</te> của Carlotta đạt tối đa, <color=Highlight>Heavy Attack</color> sẽ được thay thế bằng <color=Highlight>Containment Tactics</color>: tiêu hao toàn bộ Chất để gây <color=Ice>Glacio DMG</color> và giảm Thời gian hồi chiêu của Resonance Skill <color=Highlight>Art of Violence</color> đi {3} giây.\n<size=10> </size>\n<size=40><color=Title>Mid-air Attack</color></size>\nTiêu hao STA để thực hiện Đòn Lao Xuống, gây <color=Ice>Glacio DMG</color>. Sử dụng <color=Highlight>Basic Attack</color> ngay sau khi tiếp đất sẽ kích hoạt <color=Highlight>Customary Greetings</color>.\n<size=10> </size>\n<size=40><color=Title>Mid-air Attack - Customary Greetings</color></size>\nLật người qua mục tiêu và bắn bất ngờ, gây <color=Ice>Glacio DMG</color>.\n<size=10> </size>\n<size=40><color=Title>Dodge Counter</color></size>\n{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> ngay sau khi <color=Highlight>Dodge</color> thành công để phản đòn, gây <color=Ice>Glacio DMG</color>. Hành động này tiêu hao <SapTag=6>{6}</SapTag> Tinh Thể Linh Hoạt.",
     "translator_note": ""
   },
   {
@@ -3796,7 +3796,7 @@
     "ai_reason": "",
     "source_en": "<size=40><color=Title>Basic Attack</color></size>\nDeal <color=Ice>Glacio DMG</color>.\n<size=10> </size>\n<size=40><color=Title>Basic Attack - Necessary Measures</color></size>\nWith Moldable Crystals, Carlotta's <color=Highlight>Basic Attack</color> is replaced with <color=Highlight>Necessary Measures</color>, dealing <color=Ice>Glacio DMG</color>.\nEach strike of <color=Highlight>Necessary Measures</color> consumes <SapTag=1>{1}</SapTag> Moldable {Cus:Sap,S=Crystal P=Crystals SapTag=1}.\n<size=10> </size>\n<size=40><color=Title>Heavy Attack</color></size>\nPerform a charged attack that deals <color=Ice>Glacio DMG</color>.\n<size=10> </size>\n<size=40><color=Title>Heavy Attack - Containment Tactics</color></size>\nWhen Carlotta's Substance is full, her <color=Highlight>Heavy Attack</color> will be replaced with <color=Highlight>Containment Tactics</color>: consume all Substance to deal <color=Ice>Glacio DMG</color> and reduce the cooldown of Resonance Skill.\n<size=10> </size>\n<size=40><color=Title>Mid-air Attack</color></size>\nPerform a Plunging Attack that deals <color=Ice>Glacio DMG</color>. Using <color=Highlight>Basic Attack</color> shortly after the landing will cast <color=Highlight>Customary Greetings</color>.\n<size=10> </size>\n<size=40><color=Title>Mid-air Attack - Customary Greetings</color></size>\nDeal <color=Ice>Glacio DMG</color>.\n<size=10> </size>\n<size=40><color=Title>Dodge Counter</color></size>\nDeal <color=Ice>Glacio DMG</color>. This consumes <SapTag=6>{6}</SapTag> Moldable {Cus:Sap,S=Crystal P=Crystals SapTag=6}.",
     "review_note": "",
-    "new_translation_vi": "<size=40><color=Title>Basic Attack</color></size>\nGây <color=Ice>Glacio DMG</color>.\n<size=10> </size>\n<size=40><color=Title>Basic Attack - Necessary Measures</color></size>\nVới Tinh Thể Linh Hoạt, <color=Highlight>Basic Attack</color> của Carlotta được thay thế bằng <color=Highlight>Necessary Measures</color>, gây <color=Ice>Glacio DMG</color>.\nMỗi đòn <color=Highlight>Necessary Measures</color> tiêu hao <SapTag=1>{1}</SapTag> {Cus:Sap,S=Tinh Thể P=Tinh Thể Linh Hoạt SapTag=1}.\n<size=10> </size>\n<size=40><color=Title>Heavy Attack</color></size>\nThực hiện đòn tấn công tích năng gây <color=Ice>Glacio DMG</color>.\n<size=10> </size>\n<size=40><color=Title>Heavy Attack - Containment Tactics</color></size>\nKhi Chất Lượng của Carlotta đạt tối đa, <color=Highlight>Heavy Attack</color> sẽ được thay thế bằng <color=Highlight>Containment Tactics</color>: tiêu hao toàn bộ Chất Lượng để gây <color=Ice>Glacio DMG</color> và giảm Cooldown chiêu của Resonance Skill.\n<size=10> </size>\n<size=40><color=Title>Mid-air Attack</color></size>\nThực hiện Đòn Lao Xuống gây <color=Ice>Glacio DMG</color>. Sử dụng <color=Highlight>Basic Attack</color> ngay sau khi tiếp đất sẽ thi triển <color=Highlight>Customary Greetings</color>.\n<size=10> </size>\n<size=40><color=Title>Mid-air Attack - Customary Greetings</color></size>\nGây <color=Ice>Glacio DMG</color>.\n<size=10> </size>\n<size=40><color=Title>Dodge Counter</color></size>\nGây <color=Ice>Glacio DMG</color>. Hiệu ứng này tiêu hao <SapTag=6>{6}</SapTag> {Cus:Sap,S=Tinh Thể P=Tinh Thể Linh Hoạt SapTag=6}.",
+    "new_translation_vi": "<size=40><color=Title>Basic Attack</color></size>\nGây <color=Ice>Glacio DMG</color>.\n<size=10> </size>\n<size=40><color=Title>Basic Attack - Necessary Measures</color></size>\nVới Tinh Thể Linh Hoạt, <color=Highlight>Basic Attack</color> của Carlotta được thay thế bằng <color=Highlight>Necessary Measures</color>, gây <color=Ice>Glacio DMG</color>.\nMỗi đòn <color=Highlight>Necessary Measures</color> tiêu hao <SapTag=1>{1}</SapTag> {Cus:Sap,S=Tinh Thể P=Tinh Thể Linh Hoạt SapTag=1}.\n<size=10> </size>\n<size=40><color=Title>Heavy Attack</color></size>\nThực hiện đòn tấn công tích năng gây <color=Ice>Glacio DMG</color>.\n<size=10> </size>\n<size=40><color=Title>Heavy Attack - Containment Tactics</color></size>\nKhi Chất Lượng của Carlotta đạt tối đa, <color=Highlight>Heavy Attack</color> sẽ được thay thế bằng <color=Highlight>Containment Tactics</color>: tiêu hao toàn bộ Chất Lượng để gây <color=Ice>Glacio DMG</color> và giảm Thời gian hồi chiêu của Resonance Skill.\n<size=10> </size>\n<size=40><color=Title>Mid-air Attack</color></size>\nThực hiện Đòn Lao Xuống gây <color=Ice>Glacio DMG</color>. Sử dụng <color=Highlight>Basic Attack</color> ngay sau khi tiếp đất sẽ thi triển <color=Highlight>Customary Greetings</color>.\n<size=10> </size>\n<size=40><color=Title>Mid-air Attack - Customary Greetings</color></size>\nGây <color=Ice>Glacio DMG</color>.\n<size=10> </size>\n<size=40><color=Title>Dodge Counter</color></size>\nGây <color=Ice>Glacio DMG</color>. Hiệu ứng này tiêu hao <SapTag=6>{6}</SapTag> {Cus:Sap,S=Tinh Thể P=Tinh Thể Linh Hoạt SapTag=6}.",
     "translator_note": ""
   },
   {
@@ -3821,7 +3821,7 @@
     "ai_reason": "",
     "source_en": "Deal <color=Ice>Glacio DMG</color> and inflict <color=Highlight>Dispersion</color> on the target. {Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Resonance Skill</color> again shortly after to cast <color=Highlight>Chromatic Splendor</color>. \n<size=10> </size>\n<size=40><color=Title>Dispersion</color></size>\nTargets with Dispersion are immobilized for {1}s. \n<size=10> </size>\n<size=40><color=Title>Chromatic Splendor</color></size>\nConsume all <te href=850017>Moldable Crystals</te> and deal <color=Ice>Glacio DMG</color>.\nThe Resonance Skill enters cooldown after a while if <color=Highlight>Chromatic Splendor</color> is not cast or Carlotta is switched off the field.",
     "review_note": "",
-    "new_translation_vi": "Gây <color=Ice>Glacio DMG</color> và áp đặt <color=Highlight>Phân Tán</color> lên mục tiêu. {Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Resonance Skill</color> một lần nữa ngay sau đó để tung ra <color=Highlight>Sắc Màu Rực Rỡ</color>.\n<size=10> </size>\n<size=40><color=Title>Phân Tán</color></size>\nMục tiêu bị <color=Highlight>Phân Tán</color> sẽ bị bất động trong {1} giây.\n<size=10> </size>\n<size=40><color=Title>Sắc Màu Rực Rỡ</color></size>\nTiêu thụ toàn bộ <te href=850017>Pha Lê Định Hình</te> và gây <color=Ice>Glacio DMG</color>.\nResonance Skill sẽ bước vào Cooldown chiêu sau một khoảng thời gian nếu <color=Highlight>Sắc Màu Rực Rỡ</color> không được tung ra hoặc Carlotta bị thay ra khỏi chiến trường.",
+    "new_translation_vi": "Gây <color=Ice>Glacio DMG</color> và áp đặt <color=Highlight>Phân Tán</color> lên mục tiêu. {Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Resonance Skill</color> một lần nữa ngay sau đó để tung ra <color=Highlight>Sắc Màu Rực Rỡ</color>.\n<size=10> </size>\n<size=40><color=Title>Phân Tán</color></size>\nMục tiêu bị <color=Highlight>Phân Tán</color> sẽ bị bất động trong {1} giây.\n<size=10> </size>\n<size=40><color=Title>Sắc Màu Rực Rỡ</color></size>\nTiêu thụ toàn bộ <te href=850017>Pha Lê Định Hình</te> và gây <color=Ice>Glacio DMG</color>.\nResonance Skill sẽ bước vào Thời gian hồi chiêu sau một khoảng thời gian nếu <color=Highlight>Sắc Màu Rực Rỡ</color> không được tung ra hoặc Carlotta bị thay ra khỏi chiến trường.",
     "translator_note": ""
   },
   {
@@ -3846,7 +3846,7 @@
     "ai_reason": "",
     "source_en": "Deal <color=Ice>Glacio DMG</color> and inflict <color=Highlight>Dispersion</color> on the target. {Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Resonance Skill</color> again shortly after to cast <color=Highlight>Chromatic Splendor</color>. \n<size=10> </size>\n<size=40><color=Title>Dispersion</color></size>\nTargets with Dispersion are immobilized. \n<size=10> </size>\n<size=40><color=Title>Chromatic Splendor</color></size>\nConsume all Moldable Crystals and deal <color=Ice>Glacio DMG</color>.\nThe Resonance Skill enters cooldown after a while if <color=Highlight>Chromatic Splendor</color> is not cast or Carlotta is switched off the field.",
     "review_note": "",
-    "new_translation_vi": "Gây <color=Ice>Glacio DMG</color> và áp dụng <color=Highlight>Phân Tán</color> lên mục tiêu. {Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Resonance Skill</color> một lần nữa ngay sau đó để thi triển <color=Highlight>Sắc Màu Rực Rỡ</color>. \n<size=10> </size>\n<size=40><color=Title>Phân Tán</color></size>\nMục tiêu bị <color=Highlight>Phân Tán</color> sẽ bị hóa đá. \n<size=10> </size>\n<size=40><color=Title>Sắc Màu Rực Rỡ</color></size>\nTiêu thụ toàn bộ Tinh Thể Linh Hoạt và gây <color=Ice>Glacio DMG</color>.\nNếu không thi triển <color=Highlight>Sắc Màu Rực Rỡ</color> hoặc Carlotta rời khỏi chiến trường, <color=Highlight>Resonance Skill</color> sẽ bước vào Cooldown chiêu.",
+    "new_translation_vi": "Gây <color=Ice>Glacio DMG</color> và áp dụng <color=Highlight>Phân Tán</color> lên mục tiêu. {Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Resonance Skill</color> một lần nữa ngay sau đó để thi triển <color=Highlight>Sắc Màu Rực Rỡ</color>. \n<size=10> </size>\n<size=40><color=Title>Phân Tán</color></size>\nMục tiêu bị <color=Highlight>Phân Tán</color> sẽ bị hóa đá. \n<size=10> </size>\n<size=40><color=Title>Sắc Màu Rực Rỡ</color></size>\nTiêu thụ toàn bộ Tinh Thể Linh Hoạt và gây <color=Ice>Glacio DMG</color>.\nNếu không thi triển <color=Highlight>Sắc Màu Rực Rỡ</color> hoặc Carlotta rời khỏi chiến trường, <color=Highlight>Resonance Skill</color> sẽ bước vào Thời gian hồi chiêu.",
     "translator_note": ""
   },
   {
@@ -4071,7 +4071,7 @@
     "ai_reason": "",
     "source_en": "<size=40><color=Title>Heavy Attack - Imminent Oblivion</color></size>\nCarlotta activates <color=Highlight>Tinted Crystal</color> every {0}s.\nWhen Substance is full and <color=Highlight>Tinted Crystal</color> is activated, hold <color=Highlight>Normal Attack</color> to consume all Substance and cast Heavy Attack <color=Highlight>Imminent Oblivion</color>, after which <color=Highlight>Tinted Crystal</color> enters cooldown. \nDeal <color=Ice>Glacio DMG</color> (considered Resonance Skill DMG), and reduce the cooldown of Resonance Skill <color=Highlight>Art of Violence</color> by {1}s.\n<size=10> </size>\n<size=40><color=Title>Final Bow</color></size>\nWhen Substance is full, enter the <color=Highlight>Final Bow</color> state.\nIncrease the DMG Multiplier of Resonance Liberation <color=Highlight>Era of New Wave</color>, Resonance Liberation <color=Highlight>Death Knell</color>, and Resonance Liberation <color=Highlight>Fatal Finale</color> by {14}. This effect ends when Carlotta is switched off the field during <color=Highlight>Twilight Tango</color> or when <color=Highlight>Twilight Tango</color> ends.\n<size=10> </size>\n<size=40><color=Title>Substance</color></size>\nCarlotta can hold up to {2} points of Substance.\nCannot gain Substance while in <color=Highlight>Twilight Tango</color> triggered by Resonance Liberation.\nRestore {3} points of Substance upon casting Intro Skill <color=Highlight>Wintertime Aria</color>.\nRestore {5} points of Substance for every {4} Moldable Crystal consumed upon casting Resonance Skill <color=Highlight>Chromatic Splendor</color>.\nRestore {5} points of Substance for every {4} Moldable Crystal consumed upon casting Basic Attack <color=Highlight>Necessary Measures</color>.\nConsume {4} Moldable Crystal and restore {12} points of Substance upon casting <color=Highlight>Dodge Counter</color>.\n<size=10> </size>\n<size=40><color=Title>Moldable Crystal</color></size>\nCarlotta can hold up to {6} Moldable Crystals.\nCannot gain Moldable Crystal while in <color=Highlight>Twilight Tango</color> triggered by Resonance Liberation.\nRestore {7} Moldable Crystals upon casting <color=Highlight>Basic Attack Stage 2</color>.\nRestore {11} Moldable Crystals upon casting <color=Highlight>Heavy Attack</color>.\nRestore {8} Moldable Crystals upon casting Mid-air Attack <color=Highlight>Customary Greetings</color>.\nRestore {13} Moldable Crystals upon casting Intro Skill <color=Highlight>Wintertime Aria</color>.\nRestore {9} Moldable Crystals upon casting Resonance Skill <color=Highlight>Art of Violence</color>.\nRestore {10} Moldable Crystals upon a successful <color=Highlight>Dodge</color>.",
     "review_note": "",
-    "new_translation_vi": "<size=40><color=Title>Heavy Attack - Imminent Oblivion</color></size>\nCarlotta kích hoạt <color=Highlight>Tinted Crystal</color> mỗi {0} giây.\nKhi Chất Lượng đạt tối đa và <color=Highlight>Tinted Crystal</color> được kích hoạt, giữ <color=Highlight>Normal Attack</color> để tiêu hao toàn bộ Chất Lượng và tung ra Heavy Attack <color=Highlight>Imminent Oblivion</color>, sau đó <color=Highlight>Tinted Crystal</color> sẽ bước vào Cooldown chiêu.\nGây <color=Ice>Glacio DMG</color> (được tính là Sát Thương Resonance Skill), và giảm Cooldown chiêu của Resonance Skill <color=Highlight>Art of Violence</color> đi {1} giây.\n<size=10> </size>\n<size=40><color=Title>Final Bow</color></size>\nKhi Chất Lượng đạt tối đa, bước vào trạng thái <color=Highlight>Final Bow</color>.\nIncrease Hệ Số Sát Thương của Resonance Liberation <color=Highlight>Era of New Wave</color>, Resonance Liberation <color=Highlight>Death Knell</color> và Resonance Liberation <color=Highlight>Fatal Finale</color> lên {14}. Hiệu ứng này sẽ kết thúc khi Carlotta bị thay ra khỏi chiến trường trong <color=Highlight>Twilight Tango</color> hoặc khi <color=Highlight>Twilight Tango</color> kết thúc.\n<size=10> </size>\n<size=40><color=Title>Substance</color></size>\nCarlotta có thể chứa tối đa {2} điểm Chất Lượng.\nKhông thể nhận thêm Chất Lượng khi đang trong <color=Highlight>Twilight Tango</color> được kích hoạt bởi Resonance Liberation.\nRestore {3} điểm Chất Lượng khi sử dụng Intro Skill <color=Highlight>Wintertime Aria</color>.\nRestore {5} điểm Chất Lượng cho mỗi {4} Tinh Thể Linh Hoạt tiêu hao khi sử dụng Resonance Skill <color=Highlight>Chromatic Splendor</color>.\nRestore {5} điểm Chất Lượng cho mỗi {4} Tinh Thể Linh Hoạt tiêu hao khi sử dụng Basic Attack <color=Highlight>Necessary Measures</color>.\nTiêu hao {4} Tinh Thể Linh Hoạt và hồi phục {12} điểm Chất Lượng khi sử dụng <color=Highlight>Dodge Counter</color>.\n<size=10> </size>\n<size=40><color=Title>Moldable Crystal</color></size>\nCarlotta có thể chứa tối đa {6} Tinh Thể Linh Hoạt.\nKhông thể nhận thêm Tinh Thể Linh Hoạt khi đang trong <color=Highlight>Twilight Tango</color> được kích hoạt bởi Resonance Liberation.\nRestore {7} Tinh Thể Linh Hoạt khi sử dụng <color=Highlight>Basic Attack Stage 2</color>.\nRestore {11} Tinh Thể Linh Hoạt khi sử dụng <color=Highlight>Heavy Attack</color>.\nRestore {8} Tinh Thể Linh Hoạt khi sử dụng Đòn Mid-air Attack <color=Highlight>Customary Greetings</color>.\nRestore {13} Tinh Thể Linh Hoạt khi sử dụng Intro Skill <color=Highlight>Wintertime Aria</color>.\nRestore {9} Tinh Thể Linh Hoạt khi sử dụng Resonance Skill <color=Highlight>Art of Violence</color>.\nRestore {10} Tinh Thể Linh Hoạt khi <color=Highlight>Dodge</color> thành công.",
+    "new_translation_vi": "<size=40><color=Title>Heavy Attack - Imminent Oblivion</color></size>\nCarlotta kích hoạt <color=Highlight>Tinted Crystal</color> mỗi {0} giây.\nKhi Chất Lượng đạt tối đa và <color=Highlight>Tinted Crystal</color> được kích hoạt, giữ <color=Highlight>Normal Attack</color> để tiêu hao toàn bộ Chất Lượng và tung ra Heavy Attack <color=Highlight>Imminent Oblivion</color>, sau đó <color=Highlight>Tinted Crystal</color> sẽ bước vào Thời gian hồi chiêu.\nGây <color=Ice>Glacio DMG</color> (được tính là Sát Thương Resonance Skill), và giảm Thời gian hồi chiêu của Resonance Skill <color=Highlight>Art of Violence</color> đi {1} giây.\n<size=10> </size>\n<size=40><color=Title>Final Bow</color></size>\nKhi Chất Lượng đạt tối đa, bước vào trạng thái <color=Highlight>Final Bow</color>.\nIncrease Hệ Số Sát Thương của Resonance Liberation <color=Highlight>Era of New Wave</color>, Resonance Liberation <color=Highlight>Death Knell</color> và Resonance Liberation <color=Highlight>Fatal Finale</color> lên {14}. Hiệu ứng này sẽ kết thúc khi Carlotta bị thay ra khỏi chiến trường trong <color=Highlight>Twilight Tango</color> hoặc khi <color=Highlight>Twilight Tango</color> kết thúc.\n<size=10> </size>\n<size=40><color=Title>Substance</color></size>\nCarlotta có thể chứa tối đa {2} điểm Chất Lượng.\nKhông thể nhận thêm Chất Lượng khi đang trong <color=Highlight>Twilight Tango</color> được kích hoạt bởi Resonance Liberation.\nRestore {3} điểm Chất Lượng khi sử dụng Intro Skill <color=Highlight>Wintertime Aria</color>.\nRestore {5} điểm Chất Lượng cho mỗi {4} Tinh Thể Linh Hoạt tiêu hao khi sử dụng Resonance Skill <color=Highlight>Chromatic Splendor</color>.\nRestore {5} điểm Chất Lượng cho mỗi {4} Tinh Thể Linh Hoạt tiêu hao khi sử dụng Basic Attack <color=Highlight>Necessary Measures</color>.\nTiêu hao {4} Tinh Thể Linh Hoạt và hồi phục {12} điểm Chất Lượng khi sử dụng <color=Highlight>Dodge Counter</color>.\n<size=10> </size>\n<size=40><color=Title>Moldable Crystal</color></size>\nCarlotta có thể chứa tối đa {6} Tinh Thể Linh Hoạt.\nKhông thể nhận thêm Tinh Thể Linh Hoạt khi đang trong <color=Highlight>Twilight Tango</color> được kích hoạt bởi Resonance Liberation.\nRestore {7} Tinh Thể Linh Hoạt khi sử dụng <color=Highlight>Basic Attack Stage 2</color>.\nRestore {11} Tinh Thể Linh Hoạt khi sử dụng <color=Highlight>Heavy Attack</color>.\nRestore {8} Tinh Thể Linh Hoạt khi sử dụng Đòn Mid-air Attack <color=Highlight>Customary Greetings</color>.\nRestore {13} Tinh Thể Linh Hoạt khi sử dụng Intro Skill <color=Highlight>Wintertime Aria</color>.\nRestore {9} Tinh Thể Linh Hoạt khi sử dụng Resonance Skill <color=Highlight>Art of Violence</color>.\nRestore {10} Tinh Thể Linh Hoạt khi <color=Highlight>Dodge</color> thành công.",
     "translator_note": ""
   },
   {
@@ -4096,7 +4096,7 @@
     "ai_reason": "",
     "source_en": "<size=40><color=Title>Heavy Attack - Imminent Oblivion</color></size>\nCarlotta activates <color=Highlight>Tinted Crystal</color> every {0}s.\nWhen Substance is full and <color=Highlight>Tinted Crystal</color> is activated, hold <color=Highlight>Normal Attack</color> to consume all Substance and cast Heavy Attack <color=Highlight>Imminent Oblivion</color>, after which <color=Highlight>Tinted Crystal</color> enters cooldown.\nDeal <color=Ice>Glacio DMG</color> and reduce the cooldown of Resonance Skill <color=Highlight>Art of Violence</color> by {1}s.\n<size=10> </size>\n<size=40><color=Title>Final Bow</color></size>\nWhen Substance is full, enter the <color=Highlight>Final Bow</color> state.\nIncrease the DMG Multiplier of Resonance Liberation <color=Highlight>Era of New Wave </color>, Resonance Liberation <color=Highlight>Death Knell</color>, and Resonance Liberation <color=Highlight>Fatal Finale</color> by {14}. This effect ends when Carlotta is switched off the field during <color=Highlight>Twilight Tango</color> or when <color=Highlight>Twilight Tango</color> ends.\n<size=10> </size>\n<size=40><color=Title>Substance</color></size>\nCarlotta can hold up to {2} points of Substance.\nCannot obtain Substance when in <color=Highlight>Twilight Tango</color>.\nSubstance can be obtained in the following ways: Intro Skill <color=Highlight>Wintertime Aria</color>, consuming Moldable Crystals via Resonance Skill <color=Highlight>Chromatic Splendor</color>, Basic Attack <color=Highlight>Necessary Measures</color>, and <color=Highlight>Dodge Counter</color>.\n<size=10> </size>\n<size=40><color=Title>Moldable Crystal</color></size>\nCarlotta can hold up to {6} Crystals.\nCannot gain Moldable Crystals while in <color=Highlight>Twilight Tango</color>.\nMoldable Crystal can be obtained in the following ways: <color=Highlight>Intro Skill</color>, <color=Highlight>Basic Attack Stage 2</color>, <color=Highlight>Heavy Attack</color>, Mid-air Attack <color=Highlight>Customary Greetings</color>, Resonance Skill <color=Highlight>Art of Violence</color>, and a successful <color=Highlight>Dodge</color>.",
     "review_note": "",
-    "new_translation_vi": "<size=40><color=Title>Heavy Attack - Imminent Oblivion</color></size>\nCarlotta kích hoạt <color=Highlight>Tinted Crystal</color> mỗi {0} giây.\nKhi Chất Lượng đạt tối đa và <color=Highlight>Tinted Crystal</color> được kích hoạt, giữ <color=Highlight>Normal Attack</color> để tiêu hao toàn bộ Chất Lượng và tung ra Heavy Attack <color=Highlight>Imminent Oblivion</color>, sau đó <color=Highlight>Tinted Crystal</color> sẽ bắt đầu Cooldown.\nGây <color=Ice>Glacio DMG</color> và giảm Cooldown chiêu của Resonance Skill <color=Highlight>Art of Violence</color> đi {1} giây.\n<size=10> </size>\n<size=40><color=Title>Final Bow</color></size>\nKhi Chất Lượng đạt tối đa,vào trạng thái <color=Highlight>Final Bow</color>.\nIncrease Hệ Số Sát Thương của Resonance Liberation <color=Highlight>Era of New Wave</color>, Resonance Liberation <color=Highlight>Death Knell</color> và Resonance Liberation <color=Highlight>Fatal Finale</color> lên {14}. Hiệu ứng này sẽ kết thúc khi Carlotta rời khỏi chiến trường trong <color=Highlight>Twilight Tango</color> hoặc khi <color=Highlight>Twilight Tango</color> kết thúc.\n<size=10> </size>\n<size=40><color=Title>Substance</color></size>\nCarlotta có thể tích lũy tối đa {2} điểm Chất Lượng.\nKhông thể nhận Chất Lượng khi đang trong <color=Highlight>Twilight Tango</color>.\nCó thể nhận Chất Lượng bằng các cách sau: Intro Skill <color=Highlight>Wintertime Aria</color>, tiêu thụ Pha Lê Dẻo Dai qua Resonance Skill <color=Highlight>Chromatic Splendor</color>, Basic Attack <color=Highlight>Necessary Measures</color> và <color=Highlight>Dodge Counter</color>.\n<size=10> </size>\n<size=40><color=Title>Moldable Crystal</color></size>\nCarlotta có thể tích lũy tối đa {6} Pha Lê.\nKhông thể nhận Pha Lê Dẻo Dai khi đang trong <color=Highlight>Twilight Tango</color>.\nCó thể nhận Pha Lê Dẻo Dai bằng các cách sau: <color=Highlight>Intro Skill</color>, <color=Highlight>Basic Attack Stage 2</color>, <color=Highlight>Heavy Attack</color>, Đòn Mid-air Attack <color=Highlight>Customary Greetings</color>, Resonance Skill <color=Highlight>Art of Violence</color> và <color=Highlight>Dodge</color>.",
+    "new_translation_vi": "<size=40><color=Title>Heavy Attack - Imminent Oblivion</color></size>\nCarlotta kích hoạt <color=Highlight>Tinted Crystal</color> mỗi {0} giây.\nKhi Chất Lượng đạt tối đa và <color=Highlight>Tinted Crystal</color> được kích hoạt, giữ <color=Highlight>Normal Attack</color> để tiêu hao toàn bộ Chất Lượng và tung ra Heavy Attack <color=Highlight>Imminent Oblivion</color>, sau đó <color=Highlight>Tinted Crystal</color> sẽ bắt đầu Thời gian hồi.\nGây <color=Ice>Glacio DMG</color> và giảm Thời gian hồi chiêu của Resonance Skill <color=Highlight>Art of Violence</color> đi {1} giây.\n<size=10> </size>\n<size=40><color=Title>Final Bow</color></size>\nKhi Chất Lượng đạt tối đa,vào trạng thái <color=Highlight>Final Bow</color>.\nIncrease Hệ Số Sát Thương của Resonance Liberation <color=Highlight>Era of New Wave</color>, Resonance Liberation <color=Highlight>Death Knell</color> và Resonance Liberation <color=Highlight>Fatal Finale</color> lên {14}. Hiệu ứng này sẽ kết thúc khi Carlotta rời khỏi chiến trường trong <color=Highlight>Twilight Tango</color> hoặc khi <color=Highlight>Twilight Tango</color> kết thúc.\n<size=10> </size>\n<size=40><color=Title>Substance</color></size>\nCarlotta có thể tích lũy tối đa {2} điểm Chất Lượng.\nKhông thể nhận Chất Lượng khi đang trong <color=Highlight>Twilight Tango</color>.\nCó thể nhận Chất Lượng bằng các cách sau: Intro Skill <color=Highlight>Wintertime Aria</color>, tiêu thụ Pha Lê Dẻo Dai qua Resonance Skill <color=Highlight>Chromatic Splendor</color>, Basic Attack <color=Highlight>Necessary Measures</color> và <color=Highlight>Dodge Counter</color>.\n<size=10> </size>\n<size=40><color=Title>Moldable Crystal</color></size>\nCarlotta có thể tích lũy tối đa {6} Pha Lê.\nKhông thể nhận Pha Lê Dẻo Dai khi đang trong <color=Highlight>Twilight Tango</color>.\nCó thể nhận Pha Lê Dẻo Dai bằng các cách sau: <color=Highlight>Intro Skill</color>, <color=Highlight>Basic Attack Stage 2</color>, <color=Highlight>Heavy Attack</color>, Đòn Mid-air Attack <color=Highlight>Customary Greetings</color>, Resonance Skill <color=Highlight>Art of Violence</color> và <color=Highlight>Dodge</color>.",
     "translator_note": ""
   },
   {
@@ -4646,7 +4646,7 @@
     "ai_reason": "",
     "source_en": "Stage 1 DMG",
     "review_note": "",
-    "new_translation_vi": "Stage 1 DMG",
+    "new_translation_vi": "Sát Thương Giai Đoạn 1",
     "translator_note": ""
   },
   {
@@ -4671,7 +4671,7 @@
     "ai_reason": "",
     "source_en": "Stage 2 DMG",
     "review_note": "",
-    "new_translation_vi": "Stage 2 DMG",
+    "new_translation_vi": "Sát Thương Giai Đoạn 2",
     "translator_note": ""
   },
   {
@@ -4696,7 +4696,7 @@
     "ai_reason": "",
     "source_en": "Stage 3 DMG",
     "review_note": "",
-    "new_translation_vi": "Stage 3 DMG",
+    "new_translation_vi": "Sát Thương Giai Đoạn 3",
     "translator_note": ""
   },
   {
@@ -4721,7 +4721,7 @@
     "ai_reason": "",
     "source_en": "Stage 4 DMG",
     "review_note": "",
-    "new_translation_vi": "Stage 4 DMG",
+    "new_translation_vi": "Sát Thương Giai Đoạn 4",
     "translator_note": ""
   },
   {
@@ -4746,7 +4746,7 @@
     "ai_reason": "",
     "source_en": "Heavy Attack DMG",
     "review_note": "",
-    "new_translation_vi": "Sát Thương Heavy Attack",
+    "new_translation_vi": "Sát Thương Đòn Heavy Attack",
     "translator_note": ""
   },
   {
@@ -4796,7 +4796,7 @@
     "ai_reason": "",
     "source_en": "Mid-air Attack Stage 1 DMG",
     "review_note": "",
-    "new_translation_vi": "Stage 1 DMG Mid-air Attack",
+    "new_translation_vi": "Sát Thương Giai Đoạn 1 Mid-air Attack",
     "translator_note": ""
   },
   {
@@ -4821,7 +4821,7 @@
     "ai_reason": "",
     "source_en": "Mid-air Attack Stage 1: Charged Attack DMG",
     "review_note": "",
-    "new_translation_vi": "Sát Thương Attack Nạp Stage 1 Mid-air Attack",
+    "new_translation_vi": "Sát Thương Tấn Công Nạp Giai Đoạn 1 Mid-air Attack",
     "translator_note": ""
   },
   {
@@ -4846,7 +4846,7 @@
     "ai_reason": "",
     "source_en": "Mid-air Attack Stage 1: Flip DMG",
     "review_note": "",
-    "new_translation_vi": "Sát Thương Flip Stage 1 Mid-air Attack",
+    "new_translation_vi": "Sát Thương Lật Người Giai Đoạn 1 Mid-air Attack",
     "translator_note": ""
   },
   {
@@ -4871,7 +4871,7 @@
     "ai_reason": "",
     "source_en": "Mid-air Attack Stage 2 DMG",
     "review_note": "",
-    "new_translation_vi": "Stage 2 DMG Mid-air Attack",
+    "new_translation_vi": "Sát Thương Giai Đoạn 2 Mid-air Attack",
     "translator_note": ""
   },
   {
@@ -4896,7 +4896,7 @@
     "ai_reason": "",
     "source_en": "Mid-air Attack Stage 2: Charged Attack DMG",
     "review_note": "",
-    "new_translation_vi": "Stage 2 Đòn Mid-air Attack: Sát Thương Đòn Tích Lũy",
+    "new_translation_vi": "Giai Đoạn 2 Đòn Mid-air Attack: Charged Attack DMG",
     "translator_note": ""
   },
   {
@@ -4921,7 +4921,7 @@
     "ai_reason": "",
     "source_en": "Mid-air Attack Stage 2: Flip DMG",
     "review_note": "",
-    "new_translation_vi": "Stage 2 Đòn Mid-air Attack: Sát Thương Flip",
+    "new_translation_vi": "Giai Đoạn 2 Đòn Mid-air Attack: Flip DMG",
     "translator_note": ""
   },
   {
@@ -4946,7 +4946,7 @@
     "ai_reason": "",
     "source_en": "Mid-air Attack Stage 3 DMG",
     "review_note": "",
-    "new_translation_vi": "Stage 3 Đòn Mid-air Attack: Sát Thương",
+    "new_translation_vi": "Giai Đoạn 3 Đòn Mid-air Attack: Sát Thương",
     "translator_note": ""
   },
   {
@@ -4971,7 +4971,7 @@
     "ai_reason": "",
     "source_en": "Mid-air Attack Stage 3: Flip DMG",
     "review_note": "",
-    "new_translation_vi": "Stage 3 Đòn Mid-air Attack: Sát Thương Flip",
+    "new_translation_vi": "Giai Đoạn 3 Đòn Mid-air Attack: Flip DMG",
     "translator_note": ""
   },
   {
@@ -4996,7 +4996,7 @@
     "ai_reason": "",
     "source_en": "Mid-air Attack Stage 4 DMG",
     "review_note": "",
-    "new_translation_vi": "Stage 4 Đòn Mid-air Attack: Sát Thương",
+    "new_translation_vi": "Giai Đoạn 4 Đòn Mid-air Attack: Sát Thương",
     "translator_note": ""
   },
   {
@@ -5021,7 +5021,7 @@
     "ai_reason": "",
     "source_en": "Dodge Counter DMG",
     "review_note": "",
-    "new_translation_vi": "Dodge Counter DMG",
+    "new_translation_vi": "Sát Thương Né Tránh Phản Công",
     "translator_note": ""
   },
   {
@@ -5046,7 +5046,7 @@
     "ai_reason": "",
     "source_en": "Heavy Attack STA Cost",
     "review_note": "",
-    "new_translation_vi": "Chi phí Thể lực cho Heavy Attack",
+    "new_translation_vi": "Chi phí STA cho Heavy Attack",
     "translator_note": ""
   },
   {
@@ -5071,7 +5071,7 @@
     "ai_reason": "",
     "source_en": "Heavy Attack - Rhapsodic Riff STA Cost",
     "review_note": "",
-    "new_translation_vi": "Heavy Attack - Khúc Rhapsody Tiêu Hao Thể Lực",
+    "new_translation_vi": "Heavy Attack - Khúc Rhapsody Tiêu Hao STA",
     "translator_note": ""
   },
   {
@@ -5121,7 +5121,7 @@
     "ai_reason": "",
     "source_en": "Mid-air Charged Attack STA Cost",
     "review_note": "",
-    "new_translation_vi": "Tiêu Hao STA Attack Nạp Trên Không",
+    "new_translation_vi": "Tiêu Hao STA Tấn Công Nạp Trên Không",
     "translator_note": ""
   },
   {
@@ -5146,7 +5146,7 @@
     "ai_reason": "",
     "source_en": "Skill DMG",
     "review_note": "",
-    "new_translation_vi": "Skill DMG",
+    "new_translation_vi": "DMG Kỹ năng",
     "translator_note": ""
   },
   {
@@ -5171,7 +5171,7 @@
     "ai_reason": "",
     "source_en": "Plunging Attack DMG",
     "review_note": "",
-    "new_translation_vi": "Sát Thương Plunging Attack",
+    "new_translation_vi": "Sát Thương Tấn Công Đâm Xuống",
     "translator_note": ""
   },
   {
@@ -5196,7 +5196,7 @@
     "ai_reason": "",
     "source_en": "Plunging Attack STA Cost",
     "review_note": "",
-    "new_translation_vi": "Tiêu Hao Thể Lực Plunging Attack",
+    "new_translation_vi": "Tiêu Hao STA Tấn Công Đâm Xuống",
     "translator_note": ""
   },
   {
@@ -5221,7 +5221,7 @@
     "ai_reason": "",
     "source_en": "Cooldown",
     "review_note": "",
-    "new_translation_vi": "Cooldown chiêu",
+    "new_translation_vi": "Thời gian hồi",
     "translator_note": ""
   },
   {
@@ -5271,7 +5271,7 @@
     "ai_reason": "",
     "source_en": "Returned from Ashes DMG",
     "review_note": "",
-    "new_translation_vi": "DMG Hồi Sinh Từ Tro Tàn",
+    "new_translation_vi": "DMG từ Ashes",
     "translator_note": ""
   },
   {
@@ -5296,7 +5296,7 @@
     "ai_reason": "",
     "source_en": "Waves of Acclaims Healing",
     "review_note": "",
-    "new_translation_vi": "Hồi Phục Sóng Ca Ngợi",
+    "new_translation_vi": "Sóng Phục Hồi Danh Vọng",
     "translator_note": ""
   },
   {
@@ -5321,7 +5321,7 @@
     "ai_reason": "",
     "source_en": "Shield",
     "review_note": "",
-    "new_translation_vi": "Shield",
+    "new_translation_vi": "Khiên",
     "translator_note": ""
   },
   {
@@ -5346,7 +5346,7 @@
     "ai_reason": "",
     "source_en": "Skill DMG",
     "review_note": "",
-    "new_translation_vi": "Skill DMG",
+    "new_translation_vi": "DMG Kỹ năng",
     "translator_note": ""
   },
   {
@@ -5371,7 +5371,7 @@
     "ai_reason": "",
     "source_en": "Healing",
     "review_note": "",
-    "new_translation_vi": "Healing",
+    "new_translation_vi": "Hồi Phục",
     "translator_note": ""
   },
   {
@@ -5396,7 +5396,7 @@
     "ai_reason": "",
     "source_en": "Aflame Duration",
     "review_note": "",
-    "new_translation_vi": "Thời Gian Aflame",
+    "new_translation_vi": "Thời Gian Bốc Cháy",
     "translator_note": ""
   },
   {
@@ -5421,7 +5421,7 @@
     "ai_reason": "",
     "source_en": "Cooldown",
     "review_note": "",
-    "new_translation_vi": "Cooldown chiêu",
+    "new_translation_vi": "Thời gian hồi",
     "translator_note": ""
   },
   {
@@ -5446,7 +5446,7 @@
     "ai_reason": "",
     "source_en": "Resonance Cost",
     "review_note": "",
-    "new_translation_vi": "Resonance Cost",
+    "new_translation_vi": "Chi Phí Cộng Hưởng",
     "translator_note": ""
   },
   {
@@ -5496,7 +5496,7 @@
     "ai_reason": "",
     "source_en": "Skill DMG",
     "review_note": "",
-    "new_translation_vi": "Skill DMG",
+    "new_translation_vi": "DMG Kỹ năng",
     "translator_note": ""
   },
   {
@@ -5546,7 +5546,7 @@
     "ai_reason": "",
     "source_en": "{0}*per 1% Energy Regen",
     "review_note": "",
-    "new_translation_vi": "{0}*mỗi 1% Energy Regen",
+    "new_translation_vi": "{0}*mỗi 1% Hồi Năng Lượng",
     "translator_note": ""
   },
   {
@@ -5571,7 +5571,7 @@
     "ai_reason": "",
     "source_en": "{0}*per 1% Energy Regen",
     "review_note": "",
-    "new_translation_vi": "{0}*mỗi 1% Energy Regen",
+    "new_translation_vi": "{0}*mỗi 1% Hồi Năng Lượng",
     "translator_note": ""
   },
   {
@@ -5596,7 +5596,7 @@
     "ai_reason": "",
     "source_en": "{0}*per 1% Energy Regen",
     "review_note": "",
-    "new_translation_vi": "{0}*mỗi 1% Energy Regen",
+    "new_translation_vi": "{0}*mỗi 1% Hồi Năng Lượng",
     "translator_note": ""
   },
   {
@@ -7721,7 +7721,7 @@
     "ai_reason": "",
     "source_en": "<color=Highlight>Cartethyia</color> unlocks new moves when she transforms into <color=Highlight>Fleurdelys</color>:\n\n<size=40><color=Title>Basic Attack - Fleurdelys</color></size> \n<color=Highlight>Basic Attack - Cartethyia</color> is replaced by <color=Highlight>Basic Attack - Fleurdelys</color>.\nPerform up to 5 consecutive attacks, dealing <color=Wind>Aero DMG</color> and restoring <color=Highlight><te href=850179>Conviction</te></color> on hit.\n\n<size=40><color=Title>Mid-air Attack - Fleurdelys</color></size> \n<color=Highlight>Mid-air Attack - Cartethyia</color> is replaced by <color=Highlight>Mid-air Attack - Fleurdelys</color>.\nPerform up to 3 consecutive attacks in the air at the cost of STA, dealing <color=Wind>Aero DMG</color> and restoring <color=Highlight><te href=850179>Conviction</te></color> on hit.\nWhile airborne, hold <color=Highlight>Normal Attack</color> to cast <color=Highlight>Mid-air Attack - Fleurdelys Stage 3</color>.\nFollow up with <color=Highlight>Basic Attack</color> shortly afterward to cast <color=Highlight>Basic Attack - Fleurdelys Stage 3</color>.\nWhile airborne, casting <color=Highlight>Resonance Skill - Sword to Answer Waves' Call</color> and <color=Highlight>Resonance Skill - May Tempest Break the Tides</color> resets the cycle of <color=Highlight>Mid-air Attack - Fleurdelys</color>.\n\n<size=40><color=Title>Heavy Attack - Fleurdelys</color></size>\n<color=Highlight>Heavy Attack - Cartethyia</color> is replaced by <color=Highlight>Heavy Attack - Fleurdelys</color>.\nThrust forward to deliver a focused strike, dealing <color=Wind>Aero DMG</color> and restoring <color=Highlight><te href=850179>Conviction</te></color> on hit. This instance of DMG is considered Basic Attack DMG.\n\n<size=40><color=Title>Enhanced Heavy Attack - Fleurdelys</color></size>\nWhile casting <color=Highlight>Heavy Attack - Fleurdelys</color>, {Cus:Ipt,Touch=tap PC=press Gamepad=press} <color=Highlight>Normal Attack</color> again to cast Enhanced <color=Highlight>Heavy Attack - Fleurdelys</color>: fall back and blast the area in a straight line in front, dealing <color=Wind>Aero DMG</color> and restoring <color=Highlight><te href=850179>Conviction</te></color> on hit. This instance of DMG is considered Basic Attack DMG.\nFollow up with <color=Highlight>Basic Attack</color> shortly after casting <color=Highlight>Enhanced Heavy Attack - Fleurdelys</color> to cast <color=Highlight>Upward Cut - Fleurdelys</color>.\n\n<size=40><color=Title>Upward Cut - Fleurdelys</color></size>\nWhile <color=Highlight>Fleurdelys</color> is on the ground, <color=Highlight>Jump</color> to cast this skill, dealing <color=Wind>Aero DMG</color> and restoring <color=Highlight><te href=850179>Conviction</te></color> on hit.\n\n<size=40><color=Title>Dodge Counter - Fleurdelys</color></size> \n<color=Highlight>Dodge Counter - Cartethyia</color> is replaced by <color=Highlight>Dodge Counter - Fleurdelys</color>.\n{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Normal Attack shortly after a successful Dodge to attack the target, dealing <color=Wind>Aero DMG</color> and restoring <color=Highlight><te href=850179>Conviction</te></color> on hit.\nFollow up with <color=Highlight>Basic Attack</color> shortly afterward to cast <color=Highlight>Basic Attack - Fleurdelys Stage 4 </color>.\n\n<size=40><color=Title>Resonance Skill - Sword to Answer Waves' Call</color></size> \n<color=Highlight>Resonance Skill - Cartethyia</color> is replaced by <color=Highlight>Resonance Skill - Sword to Answer Waves' Call</color>.\nSummon a force field near the target's location to continuously pull in nearby targets, dealing <color=Wind>Aero DMG</color> and restoring <color=Highlight><te href=850179>Conviction</te></color> on hit.\nCan be cast in mid-air.\n\n<size=40><color=Title>Resonance Skill - May Tempest Break the Tides</color></size>\nFollowing <color=Highlight>Resonance Skill - Sword to Answer Waves' Call</color>, {Cus:Ipt,Touch=tap PC=press Gamepad=press} <color=Highlight>Resonance Skill</color> again to call down a giant Sword Shadow to crush an area around the target, creating a force field to pull in nearby targets, dealing <color=Wind>Aero DMG</color> to ground targets, and restoring <color=Highlight><te href=850179>Conviction</te></color> on hit.\nFollow up with <color=Highlight>Basic Attack</color> shortly afterward to cast <color=Highlight>Basic Attack - Fleurdelys Stage 3</color>.\nThe Resonance Skill enters cooldown if <color=Highlight>Resonance Skill - May Tempest Break the Tides</color> is not cast within a certain period or when switching to another Resonator. \nCan be cast in mid-air.",
     "review_note": "",
-    "new_translation_vi": "<color=Highlight>Cartethyia</color> mở khóa các động tác mới khi biến hình thành <color=Highlight>Fleurdelys</color>:\n\n<size=40><color=Title>Basic Attack - Fleurdelys</color></size> \n<color=Highlight>Basic Attack - Cartethyia</color> được thay thế bằng <color=Highlight>Basic Attack - Fleurdelys</color>.\nThực hiện tối đa 5 đòn tấn công liên tiếp, gây <color=Wind>Aero DMG</color> và hồi phục <color=Highlight><te href=850179>Conviction</te></color> khi trúng đích.\n\n<size=40><color=Title>Đòn Mid-air Attack - Fleurdelys</color></size> \n<color=Highlight>Đòn Mid-air Attack - Cartethyia</color> được thay thế bằng <color=Highlight>Đòn Mid-air Attack - Fleurdelys</color>.\nThực hiện tối đa 3 đòn tấn công liên tiếp trên không với chi phí STA, gây <color=Wind>Aero DMG</color> và hồi phục <color=Highlight><te href=850179>Conviction</te></color> khi trúng đích.\nKhi ở trên không, giữ <color=Highlight>Normal Attack</color> để thi triển <color=Highlight>Đòn Mid-air Attack - Fleurdelys Stage 3</color>.\nNgay sau đó, sử dụng <color=Highlight>Basic Attack</color> để thi triển <color=Highlight>Basic Attack - Fleurdelys Stage 3</color>.\nKhi ở trên không, thi triển <color=Highlight>Resonance Skill - Kiếm Đáp Lời Sóng Gió</color> và <color=Highlight>Resonance Skill - Tempest Phá Tan Triều Dâng</color> sẽ thiết lập lại chu kỳ của <color=Highlight>Đòn Mid-air Attack - Fleurdelys</color>.\n\n<size=40><color=Title>Heavy Attack - Fleurdelys</color></size>\n<color=Highlight>Heavy Attack - Cartethyia</color> được thay thế bằng <color=Highlight>Heavy Attack - Fleurdelys</color>.\nĐâm về phía trước để tung ra một đòn tấn công tập trung, gây <color=Wind>Aero DMG</color> và hồi phục <color=Highlight><te href=850179>Conviction</te></color> khi trúng đích. Lượng sát thương này được tính là Sát Thương Basic Attack.\n\n<size=40><color=Title>Heavy Attack Cường Hóa - Fleurdelys</color></size>\nTrong khi thi triển <color=Highlight>Heavy Attack - Fleurdelys</color>, {Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> một lần nữa để thi triển <color=Highlight>Heavy Attack Cường Hóa - Fleurdelys</color>: lùi lại và bắn một luồng năng lượng thẳng về phía trước, gây <color=Wind>Aero DMG</color> và hồi phục <color=Highlight><te href=850179>Conviction</te></color> khi trúng đích. Lượng sát thương này được tính là Sát Thương Basic Attack.\nNgay sau khi thi triển <color=Highlight>Heavy Attack Cường Hóa - Fleurdelys</color>, sử dụng <color=Highlight>Basic Attack</color> để thi triển <color=Highlight>Đòn Chém Lên - Fleurdelys</color>.\n\n<size=40><color=Title>Đòn Chém Lên - Fleurdelys</color></size>\nKhi <color=Highlight>Fleurdelys</color> đang ở trên mặt đất, <color=Highlight>Nhảy</color> để thi triển kỹ năng này, gây <color=Wind>Aero DMG</color> và hồi phục <color=Highlight><te href=850179>Conviction</te></color> khi trúng đích.\n\n<size=40><color=Title>Dodge Counter - Fleurdelys</color></size> \n<color=Highlight>Dodge Counter - Cartethyia</color> được thay thế bằng <color=Highlight>Dodge Counter - Fleurdelys</color>.\n{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> ngay sau khi Dodge thành công để tấn công mục tiêu, gây <color=Wind>Aero DMG</color> và hồi phục <color=Highlight><te href=850179>Conviction</te></color> khi trúng đích.\nNgay sau đó, sử dụng <color=Highlight>Basic Attack</color> để thi triển <color=Highlight>Basic Attack - Fleurdelys Stage 4</color>.\n\n<size=40><color=Title>Resonance Skill - Kiếm Đáp Lời Sóng Gió</color></size> \n<color=Highlight>Resonance Skill - Cartethyia</color> được thay thế bằng <color=Highlight>Resonance Skill - Kiếm Đáp Lời Sóng Gió</color>.\nSummon một trường lực gần vị trí mục tiêu để liên tục hút các mục tiêu xung quanh, gây <color=Wind>Aero DMG</color> và hồi phục <color=Highlight><te href=850179>Conviction</te></color> khi trúng đích.\nCó thể thi triển trên không.\n\n<size=40><color=Title>Resonance Skill - Tempest Phá Tan Triều Dâng</color></size>\nSau khi thi triển <color=Highlight>Resonance Skill - Kiếm Đáp Lời Sóng Gió</color>, {Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Resonance Skill</color> một lần nữa để gọi xuống một Bóng Kiếm khổng lồ đè nát khu vực xung quanh mục tiêu, tạo ra trường lực hút các mục tiêu gần đó, gây <color=Wind>Aero DMG</color> lên mục tiêu trên mặt đất và hồi phục <color=Highlight><te href=850179>Conviction</te></color> khi trúng đích.\nNgay sau đó, sử dụng <color=Highlight>Basic Attack</color> để thi triển <color=Highlight>Basic Attack - Fleurdelys Stage 3</color>.\nResonance Skill sẽ bước vào Cooldown chiêu nếu <color=Highlight>Resonance Skill - Tempest Phá Tan Triều Dâng</color> không được thi triển trong một khoảng thời gian nhất định hoặc khi chuyển sang Resonator khác.\nCó thể thi triển trên không.",
+    "new_translation_vi": "<color=Highlight>Cartethyia</color> mở khóa các động tác mới khi biến hình thành <color=Highlight>Fleurdelys</color>:\n\n<size=40><color=Title>Basic Attack - Fleurdelys</color></size> \n<color=Highlight>Basic Attack - Cartethyia</color> được thay thế bằng <color=Highlight>Basic Attack - Fleurdelys</color>.\nThực hiện tối đa 5 đòn tấn công liên tiếp, gây <color=Wind>Aero DMG</color> và hồi phục <color=Highlight><te href=850179>Conviction</te></color> khi trúng đích.\n\n<size=40><color=Title>Đòn Mid-air Attack - Fleurdelys</color></size> \n<color=Highlight>Đòn Mid-air Attack - Cartethyia</color> được thay thế bằng <color=Highlight>Đòn Mid-air Attack - Fleurdelys</color>.\nThực hiện tối đa 3 đòn tấn công liên tiếp trên không với chi phí STA, gây <color=Wind>Aero DMG</color> và hồi phục <color=Highlight><te href=850179>Conviction</te></color> khi trúng đích.\nKhi ở trên không, giữ <color=Highlight>Normal Attack</color> để thi triển <color=Highlight>Đòn Mid-air Attack - Fleurdelys Stage 3</color>.\nNgay sau đó, sử dụng <color=Highlight>Basic Attack</color> để thi triển <color=Highlight>Basic Attack - Fleurdelys Stage 3</color>.\nKhi ở trên không, thi triển <color=Highlight>Resonance Skill - Kiếm Đáp Lời Sóng Gió</color> và <color=Highlight>Resonance Skill - Tempest Phá Tan Triều Dâng</color> sẽ thiết lập lại chu kỳ của <color=Highlight>Đòn Mid-air Attack - Fleurdelys</color>.\n\n<size=40><color=Title>Heavy Attack - Fleurdelys</color></size>\n<color=Highlight>Heavy Attack - Cartethyia</color> được thay thế bằng <color=Highlight>Heavy Attack - Fleurdelys</color>.\nĐâm về phía trước để tung ra một đòn tấn công tập trung, gây <color=Wind>Aero DMG</color> và hồi phục <color=Highlight><te href=850179>Conviction</te></color> khi trúng đích. Lượng sát thương này được tính là Sát Thương Basic Attack.\n\n<size=40><color=Title>Heavy Attack Cường Hóa - Fleurdelys</color></size>\nTrong khi thi triển <color=Highlight>Heavy Attack - Fleurdelys</color>, {Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> một lần nữa để thi triển <color=Highlight>Heavy Attack Cường Hóa - Fleurdelys</color>: lùi lại và bắn một luồng năng lượng thẳng về phía trước, gây <color=Wind>Aero DMG</color> và hồi phục <color=Highlight><te href=850179>Conviction</te></color> khi trúng đích. Lượng sát thương này được tính là Sát Thương Basic Attack.\nNgay sau khi thi triển <color=Highlight>Heavy Attack Cường Hóa - Fleurdelys</color>, sử dụng <color=Highlight>Basic Attack</color> để thi triển <color=Highlight>Đòn Chém Lên - Fleurdelys</color>.\n\n<size=40><color=Title>Đòn Chém Lên - Fleurdelys</color></size>\nKhi <color=Highlight>Fleurdelys</color> đang ở trên mặt đất, <color=Highlight>Nhảy</color> để thi triển kỹ năng này, gây <color=Wind>Aero DMG</color> và hồi phục <color=Highlight><te href=850179>Conviction</te></color> khi trúng đích.\n\n<size=40><color=Title>Dodge Counter - Fleurdelys</color></size> \n<color=Highlight>Dodge Counter - Cartethyia</color> được thay thế bằng <color=Highlight>Dodge Counter - Fleurdelys</color>.\n{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> ngay sau khi Dodge thành công để tấn công mục tiêu, gây <color=Wind>Aero DMG</color> và hồi phục <color=Highlight><te href=850179>Conviction</te></color> khi trúng đích.\nNgay sau đó, sử dụng <color=Highlight>Basic Attack</color> để thi triển <color=Highlight>Basic Attack - Fleurdelys Stage 4</color>.\n\n<size=40><color=Title>Resonance Skill - Kiếm Đáp Lời Sóng Gió</color></size> \n<color=Highlight>Resonance Skill - Cartethyia</color> được thay thế bằng <color=Highlight>Resonance Skill - Kiếm Đáp Lời Sóng Gió</color>.\nSummon một trường lực gần vị trí mục tiêu để liên tục hút các mục tiêu xung quanh, gây <color=Wind>Aero DMG</color> và hồi phục <color=Highlight><te href=850179>Conviction</te></color> khi trúng đích.\nCó thể thi triển trên không.\n\n<size=40><color=Title>Resonance Skill - Tempest Phá Tan Triều Dâng</color></size>\nSau khi thi triển <color=Highlight>Resonance Skill - Kiếm Đáp Lời Sóng Gió</color>, {Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Resonance Skill</color> một lần nữa để gọi xuống một Bóng Kiếm khổng lồ đè nát khu vực xung quanh mục tiêu, tạo ra trường lực hút các mục tiêu gần đó, gây <color=Wind>Aero DMG</color> lên mục tiêu trên mặt đất và hồi phục <color=Highlight><te href=850179>Conviction</te></color> khi trúng đích.\nNgay sau đó, sử dụng <color=Highlight>Basic Attack</color> để thi triển <color=Highlight>Basic Attack - Fleurdelys Stage 3</color>.\nResonance Skill sẽ bước vào Thời gian hồi chiêu nếu <color=Highlight>Resonance Skill - Tempest Phá Tan Triều Dâng</color> không được thi triển trong một khoảng thời gian nhất định hoặc khi chuyển sang Resonator khác.\nCó thể thi triển trên không.",
     "translator_note": ""
   },
   {
@@ -7896,7 +7896,7 @@
     "ai_reason": "",
     "source_en": "Lupa hurls her Wildfire Banner at the target, dealing <color=Fire>Fusion DMG</color> and restoring {0} points of <te href=850174>Wolflame</te>. <color=Highlight>Mark</color> the target for {1}s. After performing Resonance Skill <color=Highlight>Shewolf's Hunt</color>, Lupa can perform <color=Highlight>Feral Fang</color> within a certain period of time.\nCan be performed in mid-air close to the ground.\n- Hold Resonance Skill to leap into the air, then {Cus:Ipt,Touch=tap PC=press Gamepad=press} <color=Highlight>Normal Attack</color> in time to cast <color=Highlight>Mid-air Attack Stage 1</color>.\n\n<size=40><color=Title>Resonance Skill - Feral Fang</color></size>\nLupa locks onto a target, dealing <color=Fire>Fusion DMG</color> and restoring {2} points of <te href=850174>Wolflame</te>. The DMG Multiplier to <color=Highlight>marked</color> targets is increased by {3}. Resonance Skill - Feral Fang enters cooldown if not cast in time or when Lupa is switched out.\nCan be performed in mid-air close to the ground.",
     "review_note": "",
-    "new_translation_vi": "Lupa phóng Ngọn Cờ Wildfire Dã vào mục tiêu, gây <color=Fire>Fusion DMG</color> và hồi {0} điểm <te href=850174>Wolflame</te>. <color=Highlight>Mark</color> mục tiêu trong {1} giây. Sau khi sử dụng Resonance Skill <color=Highlight>Shewolf's Hunt</color>, Lupa có thể thực hiện <color=Highlight>Feral Fang</color> trong một khoảng thời gian nhất định.\nCó thể thực hiện khi đang ở gần mặt đất trên không.\n- Giữ Resonance Skill để bật lên không trung, sau đó {Cus:Ipt,Touch=tap PC=press Gamepad=press} <color=Highlight>Normal Attack</color> đúng lúc để tung <color=Highlight>Mid-air Attack Stage 1</color>.\n\n<size=40><color=Title>Resonance Skill - Feral Fang</color></size>\nLupa khóa mụcaim mục tiêu, gây <color=Fire>Fusion DMG</color> và hồi {2} điểm <te href=850174>Wolflame</te>. Hệ số Sát Thương đối với mục tiêu <color=Highlight>marked</color> tăng {3}. Resonance Skill - Nanh Dã Thú sẽ bắt đầu Cooldown nếu không được kích hoạt kịp thời hoặc khi Lupa bị thay ra.",
+    "new_translation_vi": "Lupa phóng Ngọn Cờ Wildfire Dã vào mục tiêu, gây <color=Fire>Fusion DMG</color> và hồi {0} điểm <te href=850174>Wolflame</te>. <color=Highlight>Mark</color> mục tiêu trong {1} giây. Sau khi sử dụng Resonance Skill <color=Highlight>Shewolf's Hunt</color>, Lupa có thể thực hiện <color=Highlight>Feral Fang</color> trong một khoảng thời gian nhất định.\nCó thể thực hiện khi đang ở gần mặt đất trên không.\n- Giữ Resonance Skill để bật lên không trung, sau đó {Cus:Ipt,Touch=tap PC=press Gamepad=press} <color=Highlight>Normal Attack</color> đúng lúc để tung <color=Highlight>Mid-air Attack Stage 1</color>.\n\n<size=40><color=Title>Resonance Skill - Feral Fang</color></size>\nLupa khóa mụcaim mục tiêu, gây <color=Fire>Fusion DMG</color> và hồi {2} điểm <te href=850174>Wolflame</te>. Hệ số Sát Thương đối với mục tiêu <color=Highlight>marked</color> tăng {3}. Resonance Skill - Nanh Dã Thú sẽ bắt đầu Thời gian hồi nếu không được kích hoạt kịp thời hoặc khi Lupa bị thay ra.",
     "translator_note": ""
   },
   {
@@ -8046,7 +8046,7 @@
     "ai_reason": "",
     "source_en": "Defeating a <color=Highlight>marked</color> target resets the cooldown of Resonance Skill <color=Highlight>Shewolf's Hunt</color>.\n\n<size=40><color=Title>Resonance Liberation - Glory</color></size>\nCasting Resonance Liberation <color=Highlight>Fire-Kissed Glory</color> grants <color=Highlight>Glory</color>. Within {0}s:\nAttacks of all Resonators in the team ignore {1} of the target's Fusion RES. For each Fusion Resonator in the team other than Lupa, this effect increases by {2}, up to the maximum of {3}. When there are {4} Fusion Resonators in the team, Resonators' attacks further ignore {5} Fusion RES.",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt mục tiêu <color=Highlight>marked</color> sẽ làm mới Cooldown chiêu của Resonance Skill <color=Highlight>Shewolf's Hunt</color>.\n\n<size=40><color=Title>Resonance Liberation - Glory</color></size>\nKích hoạt Resonance Liberation <color=Highlight>Fire-Kissed Glory</color> sẽ ban hiệu ứng <color=Highlight>Glory</color>. Trong vòng {0} giây:\nCác đòn tấn công của tất cả Resonators trong đội sẽ bỏ qua {1} Kháng Hệ của mục tiêu. Với mỗi Resonators Hệ Fusion trong đội ngoài Lupa, hiệu ứng này tăng thêm {2}, tối đa {3}. Khi có {4} Resonators Hệ Fusion trong đội, các đòn tấn công của Resonators sẽ bỏ qua thêm {5} Kháng Hệ Fusion.",
+    "new_translation_vi": "Tiêu diệt mục tiêu <color=Highlight>marked</color> sẽ làm mới Thời gian hồi chiêu của Resonance Skill <color=Highlight>Shewolf's Hunt</color>.\n\n<size=40><color=Title>Resonance Liberation - Glory</color></size>\nKích hoạt Resonance Liberation <color=Highlight>Fire-Kissed Glory</color> sẽ ban hiệu ứng <color=Highlight>Glory</color>. Trong vòng {0} giây:\nCác đòn tấn công của tất cả Resonators trong đội sẽ bỏ qua {1} Kháng Hệ của mục tiêu. Với mỗi Resonators Hệ Fusion trong đội ngoài Lupa, hiệu ứng này tăng thêm {2}, tối đa {3}. Khi có {4} Resonators Hệ Fusion trong đội, các đòn tấn công của Resonators sẽ bỏ qua thêm {5} Kháng Hệ Fusion.",
     "translator_note": ""
   },
   {
@@ -8071,7 +8071,7 @@
     "ai_reason": "",
     "source_en": "Defeating a <color=Highlight>marked</color> target resets <color=Highlight>Resonance Skill</color> cooldown.\nPerforming <color=Highlight>Resonance Liberation</color> grants all Resonators in the team <color=Highlight>Glory</color>:\nTheir attacks ignore a certain amount of Fusion RES. The effect is enhanced with more Fusion Resonators in the team.",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt <color=Highlight>marked</color> sẽ làm mới Cooldown chiêu của <color=Highlight>Resonance Skill</color>.\nThực hiện <color=Highlight>Resonance Liberation</color> sẽ ban cho tất cả Resonators trong đội <color=Highlight>Glory</color>:\nCác đòn tấn công của họ sẽ xuyên qua một lượng Fusion RES nhất định. Hiệu ứng tăng cường nếu đội có nhiều Resonators Fusion hơn.",
+    "new_translation_vi": "Tiêu diệt <color=Highlight>marked</color> sẽ làm mới Thời gian hồi chiêu của <color=Highlight>Resonance Skill</color>.\nThực hiện <color=Highlight>Resonance Liberation</color> sẽ ban cho tất cả Resonators trong đội <color=Highlight>Glory</color>:\nCác đòn tấn công của họ sẽ xuyên qua một lượng Fusion RES nhất định. Hiệu ứng tăng cường nếu đội có nhiều Resonators Fusion hơn.",
     "translator_note": ""
   },
   {
@@ -8296,7 +8296,7 @@
     "ai_reason": "",
     "source_en": "<size=40><color=Title>Basic Attack</color></size>\nPerform up to 3 consecutive attacks, dealing <color=Dark>Havoc DMG</color>.\nWhen performing <color=Highlight>Basic Attack Stage 3</color>, enter <color=Highlight><te href=160805>Reincarnate</te></color> state.\n<size=10></size>\n<size=40><color=Title>Heavy Attack</color></size>\nConsume STA to attack the target, dealing <color=Dark>Havoc DMG</color>.\n{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> shortly after casting this skill to cast <color=Highlight>Basic Attack Stage 2</color>.\n<size=10></size>\n<size=40><color=Title>Scarlet Coda</color></size>\nPhrolova enters the <color=Highlight>Compose</color> state every {1}s.\nWhen the following 3 conditions are met, <color=Highlight>Heavy Attack</color> is replaced with <color=Highlight>Scarlet Coda</color>.\n- Has 6 <color=Highlight><te href=160801>Volatile Notes</te></color>.\n- In the <color=Highlight>Compose</color> state.\n- Not in the <color=Highlight><te href=160802>Resolving Chord</te></color> state.\n<size=10></size>\n<color=Highlight>Scarlet Coda</color>: Consume STA to deal <color=Dark>Havoc DMG</color>, Stagnating and pulling in nearby targets. This instance of damage is considered <color=Highlight>Resonance Skill DMG</color>.\nEach stack of <color=Highlight><te href=160803>Aftersound</te></color> additionally increases the DMG Multiplier of this instance of damage.\nCasting this skill is considered as casting <color=Highlight>Echo Skill</color>.\nCasting this skill sends <color=Highlight>Compose</color> state into cooldown and activates the <color=Highlight>Resolving Chord</color> state.\n<size=10></size>\n<size=40><color=Title>Mid-air Attack</color></size>\nConsume STA to perform a Plunging Attack, dealing <color=Dark>Havoc DMG</color>.\n<size=10></size>\n<size=40><color=Title>Dodge Counter</color></size>\n{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> after a successful <color=Highlight>Dodge</color> to attack the target, dealing <color=Dark>Havoc DMG</color>.\n{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> shortly after casting this skill to cast <color=Highlight>Basic Attack Stage 3</color>.",
     "review_note": "",
-    "new_translation_vi": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 3 đòn tấn công liên tiếp, gây <color=Dark>Havoc DMG</color>.\nKhi thực hiện <color=Highlight>Basic Attack Stage 3</color>, bước vào trạng thái <color=Highlight><te href=160805>Reincarnate</te></color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack</color></size>\nTiêu hao STA để tấn công mục tiêu, gây <color=Dark>Havoc DMG</color>.\n{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> ngay sau khi sử dụng kỹ năng này để thực hiện <color=Highlight>Basic Attack Stage 2</color>.\n<size=10></size>\n<size=40><color=Title>Scarlet Coda</color></size>\nPhrolova bước vào trạng thái <color=Highlight>Compose</color> mỗi {1} giây.\nKhi đáp ứng đủ 3 điều kiện sau, <color=Highlight>Heavy Attack</color> sẽ được thay thế bằng <color=Highlight>Scarlet Coda</color>:\n- Có 6 <color=Highlight><te href=160801>Volatile Notes</te></color>.\n- Đang ở trạng thái <color=Highlight>Compose</color>.\n- Không ở trạng thái <color=Highlight><te href=160802>Resolving Chord</te></color>.\n<size=10></size>\n<color=Highlight>Scarlet Coda</color>: Tiêu hao STA để gây <color=Dark>Havoc DMG</color>, làm chậm và kéo các mục tiêu gần đó về phía mình. Sát thương này được tính là <color=Highlight>Resonance Skill DMG</color>.\nMỗi lớp <color=Highlight><te href=160803>Aftersound</te></color> sẽ tăng thêm Hệ Số Sát Thương của lần gây sát thương này.\nSử dụng kỹ năng này được tính là sử dụng <color=Highlight>Echo Skill</color>.\nSử dụng kỹ năng này sẽ đưa trạng thái <color=Highlight>Compose</color> vào Cooldown chiêu và kích hoạt trạng thái <color=Highlight>Resolving Chord</color>.\n<size=10></size>\n<size=40><color=Title>Mid-air Attack</color></size>\nTiêu hao STA để thực hiện Đòn Hạ Gục, gây <color=Dark>Havoc DMG</color>.\n<size=10></size>\n<size=40><color=Title>Dodge Counter</color></size>\n{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> sau khi <color=Highlight>Dodge</color> thành công để tấn công mục tiêu, gây <color=Dark>Havoc DMG</color>.\n{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> ngay sau khi sử dụng kỹ năng này để thực hiện <color=Highlight>Basic Attack Stage 3</color>.",
+    "new_translation_vi": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 3 đòn tấn công liên tiếp, gây <color=Dark>Havoc DMG</color>.\nKhi thực hiện <color=Highlight>Basic Attack Stage 3</color>, bước vào trạng thái <color=Highlight><te href=160805>Reincarnate</te></color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack</color></size>\nTiêu hao STA để tấn công mục tiêu, gây <color=Dark>Havoc DMG</color>.\n{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> ngay sau khi sử dụng kỹ năng này để thực hiện <color=Highlight>Basic Attack Stage 2</color>.\n<size=10></size>\n<size=40><color=Title>Scarlet Coda</color></size>\nPhrolova bước vào trạng thái <color=Highlight>Compose</color> mỗi {1} giây.\nKhi đáp ứng đủ 3 điều kiện sau, <color=Highlight>Heavy Attack</color> sẽ được thay thế bằng <color=Highlight>Scarlet Coda</color>:\n- Có 6 <color=Highlight><te href=160801>Volatile Notes</te></color>.\n- Đang ở trạng thái <color=Highlight>Compose</color>.\n- Không ở trạng thái <color=Highlight><te href=160802>Resolving Chord</te></color>.\n<size=10></size>\n<color=Highlight>Scarlet Coda</color>: Tiêu hao STA để gây <color=Dark>Havoc DMG</color>, làm chậm và kéo các mục tiêu gần đó về phía mình. Sát thương này được tính là <color=Highlight>Resonance Skill DMG</color>.\nMỗi lớp <color=Highlight><te href=160803>Aftersound</te></color> sẽ tăng thêm Hệ Số Sát Thương của lần gây sát thương này.\nSử dụng kỹ năng này được tính là sử dụng <color=Highlight>Echo Skill</color>.\nSử dụng kỹ năng này sẽ đưa trạng thái <color=Highlight>Compose</color> vào Thời gian hồi chiêu và kích hoạt trạng thái <color=Highlight>Resolving Chord</color>.\n<size=10></size>\n<size=40><color=Title>Mid-air Attack</color></size>\nTiêu hao STA để thực hiện Đòn Hạ Gục, gây <color=Dark>Havoc DMG</color>.\n<size=10></size>\n<size=40><color=Title>Dodge Counter</color></size>\n{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> sau khi <color=Highlight>Dodge</color> thành công để tấn công mục tiêu, gây <color=Dark>Havoc DMG</color>.\n{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> ngay sau khi sử dụng kỹ năng này để thực hiện <color=Highlight>Basic Attack Stage 3</color>.",
     "translator_note": ""
   },
   {
@@ -8796,7 +8796,7 @@
     "ai_reason": "",
     "source_en": "<size=40><color=Title>Pulse of Origins</color></size>\nDash forward, dealing <color=Wind>Aero DMG</color>.\n\n<size=40><color=Title>Closing Refrain</color></size>\nWhen not in <color=Highlight><te href=141001>Lunar Cycle</te></color>, casting <color=Highlight>Moonring - Basic Attack Stage 3</color>, <color=Highlight>Intro Skill</color>, or <color=Highlight>Pulse of Origins</color> replaces Iuno's Resonance Skill with <color=Highlight>Closing Refrain</color> for 5s.\nCasting Closing Refrain unleashes a flurry of strikes, dealing <color=Wind>Aero DMG</color>, and activates <color=Highlight>Lunar Cycle</color>.\n\n<size=40><color=Title>Unfinished Refrain</color></size>\nWhen in <color=Highlight>Lunar Cycle - Half Moon</color>, Iuno's Resonance Skill is replaced with <color=Highlight>Unfinished Refrain</color>.\nCasting Unfinished Refrain unleashes a flurry of strikes, dealing <color=Wind>Aero DMG</color>.\nUnfinished Refrain shares the same Cooldown as Closing Refrain.\n\n<size=40><color=Title>Arc Beyond the Edge</color></size>\nWhen Iuno is in <color=Highlight>Lunar Cycle - New Moon</color>, her Resonance Skill is replaced with <color=Highlight>Arc Beyond the Edge</color>, which has 2 initial charges.\nCasting Arc Beyond the Edge causes Iuno to shift position and deal <color=Wind>Aero DMG</color>, considered as Resonance Liberation DMG.\n- Directional input can be used to extend the travel distance. If Iuno is hit or launched into mid-air, casting <color=Highlight>Arc Beyond the Edge</color> immediately makes her recover from the attack.\nCan be cast in mid-air.",
     "review_note": "",
-    "new_translation_vi": "<size=40><color=Title>Pulse of Origins</color></size>\nXông lên phía trước, gây <color=Wind>Aero DMG</color>.\n\n<size=40><color=Title>Closing Refrain</color></size>\nKhi không ở trong <color=Highlight><te href=141001>Lunar Cycle</te></color>, sử dụng <color=Highlight>Moonring - Basic Attack Stage 3</color>, <color=Highlight>Intro Skill</color> hoặc <color=Highlight>Pulse of Origins</color> sẽ thay thế Resonance Skill của Iuno bằng <color=Highlight>Closing Refrain</color> trong 5 giây.\nSử dụng Khúc Kết Đoạn tung ra hàng loạt đòn tấn công, gây <color=Wind>Aero DMG</color> và kích hoạt <color=Highlight>Lunar Cycle</color>.\n\n<size=40><color=Title>Unfinished Refrain</color></size>\nKhi ở trong <color=Highlight>Lunar Cycle - Half Moon</color>, Resonance Skill của Iuno sẽ được thay thế bằng <color=Highlight>Unfinished Refrain</color>.\nSử dụng Khúc Đoạn Chưa Hoàn Thành tung ra hàng loạt đòn tấn công, gây <color=Wind>Aero DMG</color>.\nKhúc Đoạn Chưa Hoàn Thành có chung Cooldown chiêu với Khúc Kết Đoạn.\n\n<size=40><color=Title>Arc Beyond the Edge</color></size>\nKhi Iuno ở trong <color=Highlight>Lunar Cycle - New Moon</color>, Resonance Skill của cô sẽ được thay thế bằng <color=Highlight>Arc Beyond the Edge</color>, với 2 lượt sử dụng ban đầu.\nSử dụng Vòng Cung Vượt Biên khiến Iuno dịch chuyển vị trí và gây <color=Wind>Aero DMG</color>, được tính là Sát Thương Resonance Liberation.\n- Có thể dùng lệnh điều hướng để tăng khoảng cách di chuyển. Nếu Iuno bị tấn công hoặc hất tung lên không trung, sử dụng <color=Highlight>Arc Beyond the Edge</color> ngay lập tức sẽ giúp cô hồi phục khỏi đòn tấn công.\nCó thể sử dụng khi đang ở trên không.",
+    "new_translation_vi": "<size=40><color=Title>Pulse of Origins</color></size>\nXông lên phía trước, gây <color=Wind>Aero DMG</color>.\n\n<size=40><color=Title>Closing Refrain</color></size>\nKhi không ở trong <color=Highlight><te href=141001>Lunar Cycle</te></color>, sử dụng <color=Highlight>Moonring - Basic Attack Stage 3</color>, <color=Highlight>Intro Skill</color> hoặc <color=Highlight>Pulse of Origins</color> sẽ thay thế Resonance Skill của Iuno bằng <color=Highlight>Closing Refrain</color> trong 5 giây.\nSử dụng Khúc Kết Đoạn tung ra hàng loạt đòn tấn công, gây <color=Wind>Aero DMG</color> và kích hoạt <color=Highlight>Lunar Cycle</color>.\n\n<size=40><color=Title>Unfinished Refrain</color></size>\nKhi ở trong <color=Highlight>Lunar Cycle - Half Moon</color>, Resonance Skill của Iuno sẽ được thay thế bằng <color=Highlight>Unfinished Refrain</color>.\nSử dụng Khúc Đoạn Chưa Hoàn Thành tung ra hàng loạt đòn tấn công, gây <color=Wind>Aero DMG</color>.\nKhúc Đoạn Chưa Hoàn Thành có chung Thời gian hồi chiêu với Khúc Kết Đoạn.\n\n<size=40><color=Title>Arc Beyond the Edge</color></size>\nKhi Iuno ở trong <color=Highlight>Lunar Cycle - New Moon</color>, Resonance Skill của cô sẽ được thay thế bằng <color=Highlight>Arc Beyond the Edge</color>, với 2 lượt sử dụng ban đầu.\nSử dụng Vòng Cung Vượt Biên khiến Iuno dịch chuyển vị trí và gây <color=Wind>Aero DMG</color>, được tính là Sát Thương Resonance Liberation.\n- Có thể dùng lệnh điều hướng để tăng khoảng cách di chuyển. Nếu Iuno bị tấn công hoặc hất tung lên không trung, sử dụng <color=Highlight>Arc Beyond the Edge</color> ngay lập tức sẽ giúp cô hồi phục khỏi đòn tấn công.\nCó thể sử dụng khi đang ở trên không.",
     "translator_note": ""
   },
   {
@@ -9221,7 +9221,7 @@
     "ai_reason": "",
     "source_en": "<size=40><color=Title>Basic Attack</color></size>\nPerform up to 4 consecutive attacks, dealing <color=Thunder>Electro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Steelclash</color></size>\nConsume STA to attack the target, dealing <color=Thunder>Electro DMG</color>. <color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Normal Attack</color> shortly after performing Heavy Attack to perform <color=Highlight>Basic Attack Stage 2</color>.\n<size=10></size>\n<size=40><color=Title>Mid-air Attack</color></size>\nConsume STA to perform Plunging Attack from mid-air, dealing <color=Thunder>Electro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Dodge Counter</color></size>\n<color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Normal Attack</color> after a successful Dodge to attack the target, dealing <color=Thunder>Electro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Mid-air Dodge Counter</color></size>\n<color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Normal Attack</color> after a successful Mid-air Dodge to perform Plunging Attack at the cost of STA, dealing <color=Thunder>Electro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Thunderoar: Backstep</color></size>\nWhen <te href=130602>Prowess</te> is full, <color=Highlight>Heavy Attack - Steelclash</color> is replaced with <color=Highlight>Heavy Attack - Thunderoar: Backstep</color>, dealing <color=Thunder>Electro DMG</color> and consuming all Prowess.\n- While in action, <color=Highlight>release</color> or <color=Highlight>{Cus:Ipt,Touch=tap PC=press Gamepad=press} Normal Attack</color> again within a certain period to perform <color=Highlight>Heavy Attack - Thunderoar: Spinslash</color>.\n- <color=Highlight>Heavy Attack - Thunderoar: Spinslash</color> is available if Augusta remains on the ground for a certain period after this skill is interrupted.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Thunderoar: Spinslash</color></size>\nAugusta whirls and lashes out with her Broadblade, dealing <color=Thunder>Electro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Thunderoar: Uppercut</color></size>\n<color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Jump</color> when <te href=130602>Prowess</te> is full to perform <color=Highlight>Heavy Attack - Thunderoar: Uppercut</color>, dealing <color=Thunder>Electro DMG</color> and consuming all Prowess.\nIf Prowess is full when casting <color=Highlight>Resonance Skill - Warrior's Blade</color>, <color=Highlight>{Cus:Ipt,Touch=tap PC=press Gamepad=press} Resonance Skill</color> or <color=Highlight>Jump</color> to perform <color=Highlight>Heavy Attack - Thunderoar: Uppercut</color>, dealing <color=Thunder>Electro DMG</color> and consuming all Prowess.\nIf Prowess is full when casting <color=Highlight>Heavy Attack - Steelclash</color> or <color=Highlight>Dodge Counter – Heavy Attack: Steelclash</color>, <color=Highlight>release Normal Attack</color> after a certain period or <color=Highlight>{Cus:Ipt,Touch=tap PC=press Gamepad=press} Normal Attack</color> or <color=Highlight>Jump</color> again to perform <color=Highlight>Heavy Attack - Thunderoar: Uppercut</color>, dealing, <color=Thunder>Electro DMG</color> and consuming all Prowess.\n<size=10></size>\n<size=40><color=Title>Dodge Counter - Heavy Attack: Steelclash</color></size>\nWhen <te href=130602>Prowess</te> is full, <color=Highlight>Dodge Counter</color> is replaced with <color=Highlight>Dodge Counter - Heavy Attack: Steelclash</color>, dealing <color=Thunder>Electro DMG</color>, considered as Heavy Attack DMG.\n<size=10></size>\n<size=40><color=Title>Dodge Counter - Thunderoar: Backstep</color></size>\nWhen <te href=130603>Ascendancy</te> is full, <color=Highlight>{Cus:Ipt,Touch=tap PC=press Gamepad=press} Normal Attack</color> following a successful Dodge on the ground to cast <color=Highlight>Dodge Counter - Thunderoar: Backstep</color> in place of <color=Highlight>Dodge Counter</color> and <color=Highlight>Dodge Counter - Heavy Attack: Steelclash</color>, dealing <color=Thunder>Electro DMG</color>, considered as Heavy Attack DMG.\n- <color=Highlight>Release</color> or <color=Highlight>{Cus:Ipt,Touch=tap PC=press Gamepad=press} Normal Attack</color> again within a certain period into the action to perform <color=Highlight>Heavy Attack - Thunderoar: Spinslash</color>.\n- <color=Highlight>Heavy Attack - Thunderoar: Spinslash</color> is available if Augusta remains on the ground for a certain period after this skill is interrupted.\n<size=10></size>\n<size=40><color=Title>Prowess</color></size>\nAugusta can hold up to {0} points of Prowess.\n- Prowess is obtained when <color=Highlight>Basic Attack</color>, <color=Highlight>Heavy Attack - Steelclash</color>, <color=Highlight>Mid-air Attack</color>, <color=Highlight>Mid-air Dodge Counter</color>, <color=Highlight>Resonance Skill - Warrior's Blade</color>, <color=Highlight>Dodge Counter</color>, or <color=Highlight>Dodge Counter - Heavy Attack: Steelclash</color> deals damage.\n- Prowess is fully restored when casting <color=Highlight>Intro Skill - Stride of Goldenflare</color>.",
     "review_note": "",
-    "new_translation_vi": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=Thunder>Electro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Steelclash</color></size>\nTiêu hao STA để tấn công mục tiêu, gây <color=Thunder>Electro DMG</color>. <color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Normal Attack</color> ngay sau khi thực hiện Heavy Attack để thực hiện <color=Highlight>Basic Attack Stage 2</color>.\n<size=10></size>\n<size=40><color=Title>Mid-air Attack</color></size>\nTiêu hao STA để thực hiện Đòn Lao Xuống từ giữa không trung, gây <color=Thunder>Electro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Dodge Counter</color></size>\n<color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Normal Attack</color> sau khi Dodge thành công để tấn công mục tiêu, gây <color=Thunder>Electro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Mid-air Dodge Counter</color></size>\n<color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Normal Attack</color> sau khi Dodge Giữa Không thành công để thực hiện Đòn Lao Xuống với chi phí STA, gây <color=Thunder>Electro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Thunderoar: Backstep</color></size>\nKhi <te href=130602>Prowess</te> đầy, <color=Highlight>Heavy Attack - Steelclash</color> sẽ được thay thế bằng <color=Highlight>Heavy Attack - Thunderoar: Backstep</color>, gây <color=Thunder>Electro DMG</color> và tiêu hao toàn bộ Thiên Phú.\n- Trong khi thi triển, <color=Highlight>release</color> hoặc <color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Normal Attack</color> lại trong một khoảng thời gian nhất định để thực hiện <color=Highlight>Heavy Attack - Thunderoar: Spinslash</color>.\n- <color=Highlight>Heavy Attack - Thunderoar: Spinslash</color> có thể sử dụng nếu Augusta vẫn đứng trên mặt đất trong một khoảng thời gian nhất định sau khi kỹ năng này bị gián đoạn.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Thunderoar: Spinslash</color></size>\nAugusta xoay người và vung Lưỡi Broadblade, gây <color=Thunder>Electro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Thunderoar: Uppercut</color></size>\n<color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Nhảy</color> khi <te href=130602>Prowess</te> đầy để thực hiện <color=Highlight>Heavy Attack - Thunderoar: Uppercut</color>, gây <color=Thunder>Electro DMG</color> và tiêu hao toàn bộ Thiên Phú.\nNếu Thiên Phú đầy khi thi triển <color=Highlight>Resonance Skill - Warrior's Blade</color>, <color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Resonance Skill</color> hoặc <color=Highlight>Nhảy</color> để thực hiện <color=Highlight>Heavy Attack - Thunderoar: Uppercut</color>, gây <color=Thunder>Electro DMG</color> và tiêu hao toàn bộ Thiên Phú.\nNếu Thiên Phú đầy khi thi triển <color=Highlight>Heavy Attack - Steelclash</color> hoặc <color=Highlight>Dodge Counter – Heavy Attack: Steelclash</color>, <color=Highlight>release Normal Attack</color> sau một khoảng thời gian hoặc <color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Normal Attack</color> hoặc <color=Highlight>Nhảy</color> lại để thực hiện <color=Highlight>Heavy Attack - Thunderoar: Uppercut</color>, gây <color=Thunder>Electro DMG</color> và tiêu hao toàn bộ Thiên Phú.\n<size=10></size>\n<size=40><color=Title>Dodge Counter - Heavy Attack: Steelclash</color></size>\nKhi <te href=130602>Prowess</te> đầy, <color=Highlight>Dodge Counter</color> sẽ được thay thế bằng <color=Highlight>Dodge Counter - Heavy Attack: Steelclash</color>, gây <color=Thunder>Electro DMG</color>, được tính là Sát Thương Heavy Attack.\n<size=10></size>\n<size=40><color=Title>Dodge Counter - Thunderoar: Backstep</color></size>\nKhi <te href=130603>Ascendancy</te> đầy, <color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Normal Attack</color> sau khi Dodge thành công trên mặt đất để thi triển <color=Highlight>Dodge Counter - Thunderoar: Backstep</color> thay cho <color=Highlight>Dodge Counter</color> và <color=Highlight>Dodge Counter - Heavy Attack: Steelclash</color>, gây <color=Thunder>Electro DMG</color>, được tính là Sát Thương Heavy Attack.\n- <color=Highlight>Release</color> hoặc <color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Normal Attack</color> lại trong một khoảng thời gian nhất định để thực hiện <color=Highlight>Heavy Attack - Thunderoar: Spinslash</color>.\n- <color=Highlight>Heavy Attack - Thunderoar: Spinslash</color> có thể sử dụng nếu Augusta vẫn đứng trên mặt đất trong một khoảng thời gian nhất định sau khi kỹ năng này bị gián đoạn.\n<size=10></size>\n<size=40><color=Title>Prowess</color></size>\nAugusta có thể tích lũy tối đa {0} điểm Thiên Phú.\n- Thiên Phú được tích lũy khi <color=Highlight>Basic Attack</color>, <color=Highlight>Heavy Attack - Steelclash</color>, <color=Highlight>Mid-air Attack</color>, <color=Highlight>Mid-air Dodge Counter</color>, <color=Highlight>Resonance Skill - Warrior's Blade</color>, <color=Highlight>Dodge Counter</color> hoặc <color=Highlight>Dodge Counter - Heavy Attack: Steelclash</color> gây sát thương.\n- Thiên Phú được phục hồi toàn bộ khi thi triển <color=Highlight>Intro Skill - Stride of Goldenflare</color>.",
+    "new_translation_vi": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=Thunder>Electro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Steelclash</color></size>\nTiêu hao STA để tấn công mục tiêu, gây <color=Thunder>Electro DMG</color>. <color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Normal Attack</color> ngay sau khi thực hiện Heavy Attack để thực hiện <color=Highlight>Basic Attack Stage 2</color>.\n<size=10></size>\n<size=40><color=Title>Mid-air Attack</color></size>\nTiêu hao STA để thực hiện Đòn Lao Xuống từ giữa không trung, gây <color=Thunder>Electro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Dodge Counter</color></size>\n<color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Normal Attack</color> sau khi Dodge thành công để tấn công mục tiêu, gây <color=Thunder>Electro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Mid-air Dodge Counter</color></size>\n<color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Normal Attack</color> sau khi Dodge Giữa Không thành công để thực hiện Đòn Lao Xuống với chi phí STA, gây <color=Thunder>Electro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Thunderoar: Backstep</color></size>\nKhi <te href=130602>Prowess</te> đầy, <color=Highlight>Heavy Attack - Steelclash</color> sẽ được thay thế bằng <color=Highlight>Heavy Attack - Thunderoar: Backstep</color>, gây <color=Thunder>Electro DMG</color> và tiêu hao toàn bộ Thiên Phú.\n- Trong khi thi triển, <color=Highlight>release</color> hoặc <color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Normal Attack</color> lại trong một khoảng thời gian nhất định để thực hiện <color=Highlight>Heavy Attack - Thunderoar: Spinslash</color>.\n- <color=Highlight>Heavy Attack - Thunderoar: Spinslash</color> có thể sử dụng nếu Augusta vẫn đứng trên mặt đất trong một khoảng thời gian nhất định sau khi kỹ năng này bị gián đoạn.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Thunderoar: Spinslash</color></size>\nAugusta xoay người và vung Lưỡi Đại kiếm, gây <color=Thunder>Electro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Thunderoar: Uppercut</color></size>\n<color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Nhảy</color> khi <te href=130602>Prowess</te> đầy để thực hiện <color=Highlight>Heavy Attack - Thunderoar: Uppercut</color>, gây <color=Thunder>Electro DMG</color> và tiêu hao toàn bộ Thiên Phú.\nNếu Thiên Phú đầy khi thi triển <color=Highlight>Resonance Skill - Warrior's Blade</color>, <color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Resonance Skill</color> hoặc <color=Highlight>Nhảy</color> để thực hiện <color=Highlight>Heavy Attack - Thunderoar: Uppercut</color>, gây <color=Thunder>Electro DMG</color> và tiêu hao toàn bộ Thiên Phú.\nNếu Thiên Phú đầy khi thi triển <color=Highlight>Heavy Attack - Steelclash</color> hoặc <color=Highlight>Dodge Counter – Heavy Attack: Steelclash</color>, <color=Highlight>release Normal Attack</color> sau một khoảng thời gian hoặc <color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Normal Attack</color> hoặc <color=Highlight>Nhảy</color> lại để thực hiện <color=Highlight>Heavy Attack - Thunderoar: Uppercut</color>, gây <color=Thunder>Electro DMG</color> và tiêu hao toàn bộ Thiên Phú.\n<size=10></size>\n<size=40><color=Title>Dodge Counter - Heavy Attack: Steelclash</color></size>\nKhi <te href=130602>Prowess</te> đầy, <color=Highlight>Dodge Counter</color> sẽ được thay thế bằng <color=Highlight>Dodge Counter - Heavy Attack: Steelclash</color>, gây <color=Thunder>Electro DMG</color>, được tính là Sát Thương Heavy Attack.\n<size=10></size>\n<size=40><color=Title>Dodge Counter - Thunderoar: Backstep</color></size>\nKhi <te href=130603>Ascendancy</te> đầy, <color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Normal Attack</color> sau khi Dodge thành công trên mặt đất để thi triển <color=Highlight>Dodge Counter - Thunderoar: Backstep</color> thay cho <color=Highlight>Dodge Counter</color> và <color=Highlight>Dodge Counter - Heavy Attack: Steelclash</color>, gây <color=Thunder>Electro DMG</color>, được tính là Sát Thương Heavy Attack.\n- <color=Highlight>Release</color> hoặc <color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Normal Attack</color> lại trong một khoảng thời gian nhất định để thực hiện <color=Highlight>Heavy Attack - Thunderoar: Spinslash</color>.\n- <color=Highlight>Heavy Attack - Thunderoar: Spinslash</color> có thể sử dụng nếu Augusta vẫn đứng trên mặt đất trong một khoảng thời gian nhất định sau khi kỹ năng này bị gián đoạn.\n<size=10></size>\n<size=40><color=Title>Prowess</color></size>\nAugusta có thể tích lũy tối đa {0} điểm Thiên Phú.\n- Thiên Phú được tích lũy khi <color=Highlight>Basic Attack</color>, <color=Highlight>Heavy Attack - Steelclash</color>, <color=Highlight>Mid-air Attack</color>, <color=Highlight>Mid-air Dodge Counter</color>, <color=Highlight>Resonance Skill - Warrior's Blade</color>, <color=Highlight>Dodge Counter</color> hoặc <color=Highlight>Dodge Counter - Heavy Attack: Steelclash</color> gây sát thương.\n- Thiên Phú được phục hồi toàn bộ khi thi triển <color=Highlight>Intro Skill - Stride of Goldenflare</color>.",
     "translator_note": ""
   },
   {
@@ -9271,7 +9271,7 @@
     "ai_reason": "",
     "source_en": "Augusta leaps and slams down her Broadblade, dealing <color=Thunder>Electro DMG</color>.",
     "review_note": "",
-    "new_translation_vi": "Augusta nhảy lên rồi đập mạnh Lưỡi Broadblade xuống, gây <color=Thunder>Electro DMG</color>.",
+    "new_translation_vi": "Augusta nhảy lên rồi đập mạnh Lưỡi Đại kiếm xuống, gây <color=Thunder>Electro DMG</color>.",
     "translator_note": ""
   },
   {
@@ -9321,7 +9321,7 @@
     "ai_reason": "",
     "source_en": "<size=40><color=Title>Resonance Liberation - Sword of Eternal Oath</color></size>\n<color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} and release Resonance Liberation</color> to cast this skill. Augusta will sweep her Broadblade forward, dealing <color=Thunder>Electro DMG</color>, considered as Heavy Attack DMG.\n<size=10></size>\n<size=40><color=Title>Resonance Liberation - Sublime is the Sun</color></size>\nWhen <te href=130604>Majesty</te> reaches {0} stacks, <color=Highlight>hold Resonance Liberation</color> to cast <color=Highlight>Resonance Liberation - Sublime is the Sun</color>. Casting <color=Highlight>Resonance Liberation - Sublime is the Sun</color> costs no Resonance Energy but {0} stacks of Majesty instead.\n- When casting <color=Highlight>Resonance Liberation - Sublime is the Sun</color>, Augusta generates the <color=Highlight><te href=130605>Ruler's Realm</te></color> and enters the <color=Highlight><te href=130606>Sworn Allegiance</te></color> state for {1}s. Within this duration, time is temporarily stopped, and <color=Highlight>Resonator switching</color> is disabled. Only <color=Highlight>Sublime is the Sun - Sunborne</color>, <color=Highlight>Sublime is the Sun - Everbright Protector</color>, and <color=Highlight>Dodge</color> can be performed in the <color=Highlight>Sworn Allegiance</color> state. <color=Highlight>Mid-air Attack</color> is available while airborne.\n- In the <color=Highlight>Sworn Allegiance</color> state, <color=Highlight>{Cus:Ipt,Touch=tap PC=press Gamepad=press}</color> or <color=Highlight>hold Normal Attack</color> to cast <color=Highlight>Sublime is the Sun - Sunborne</color>. Augusta can walk on water without consuming STA in this state.\n- Performing <color=Highlight>environmental, gameplay, or other interactions</color> ends <color=Highlight>Sworn Allegiance</color> without triggering <color=Highlight>Sublime is the Sun - Everbright Protector</color>.\n<size=10></size>\n<size=40><color=Title>Sublime is the Sun - Sunborne</color></size>\nDeal <color=Thunder>Electro DMG</color>, considered as Heavy Attack DMG. After casting <color=Highlight>Sublime is the Sun - Sunborne</color> {2} times, <color=Highlight>{Cus:Ipt,Touch=tap PC=press Gamepad=press} Normal Attack or Resonance Liberation</color> to perform <color=Highlight>Sublime is the Sun - Everbright Protector</color>.\n<size=10></size>\n<size=40><color=Title>Sublime is the Sun - Everbright Protector</color></size>\nDeal <color=Thunder>Electro DMG</color>, considered as Heavy Attack DMG. Casting <color=Highlight>Sublime is the Sun - Everbright Protector</color> ends the <color=Highlight><te href=130606>Sworn Allegiance</te></color> state and consumes all stacks of <te href=130601>Crown of Wills</te> later. All other Resonators in the team will be made to leave the field.\n- When <color=Highlight>Sworn Allegiance</color> ends, <color=Highlight>Sublime is the Sun - Everbright Protector</color> is automatically cast.\n- During <color=Highlight>Sworn Allegiance</color>, <color=Highlight>hold Resonance Liberation</color> to cast <color=Highlight>Sublime is the Sun - Everbright Protector</color> early.\n<size=10></size>\n<size=40><color=Title>Ruler's Realm</color></size>\n- <color=Highlight>Ruler's Realm</color> lasts for {3}s.\n- When Resonators in the team cast <color=Highlight>Intro Skill</color> within <color=Highlight>Ruler's Realm</color>, they gain a shield equal to {5} + {4} of Augusta's Max HP for {6}s. This effect is unstackable. This Shield will not be passed on to the incoming Resonator.\n<size=10></size>\n<size=40><color=Title>Majesty</color></size>\nAugusta can hold up to 2 stacks of Majesty.\n- 1 stack of Majesty is obtained when casting <color=Highlight>Resonance Skill - Undying Sunlight: Plunge</color>.\n- 1 stack of Majesty is obtained when other Resonators in the team cast <color=Highlight>Outro Skill</color> under the effect of Augusta's <color=Highlight>Outro Skill - Battlesong of the Unyielding</color>.",
     "review_note": "",
-    "new_translation_vi": "<size=40><color=Title>Resonance Liberation - Kiếm of Eternal Oath</color></size>\n<color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} và thả Resonance Liberation</color> để thi triển kỹ năng. Augusta sẽ vung Lưỡi Broadblade về phía trước, gây <color=Thunder>Electro DMG</color>, được tính là Sát Thương Heavy Attack.\n<size=10></size>\n<size=40><color=Title>Resonance Liberation - Sublime is the Sun</color></size>\nKhi <te href=130604>Majesty</te> đạt {0} tầng, <color=Highlight>giữ Resonance Liberation</color> để thi triển <color=Highlight>Resonance Liberation - Sublime is the Sun</color>. Việc thi triển <color=Highlight>Resonance Liberation - Sublime is the Sun</color> không tốn Resonance Energy mà thay vào đó là {0} tầng Oai Phong.\n- Khi thi triển <color=Highlight>Resonance Liberation - Sublime is the Sun</color>, Augusta tạo ra <color=Highlight><te href=130605>Ruler's Realm</te></color> và bước vào trạng thái <color=Highlight><te href=130606>Sworn Allegiance</te></color> trong {1} giây. Trong thời gian này, thời gian tạm dừng và <color=Highlight>Resonator switching</color> bị vô hiệu hóa. Chỉ có thể thực hiện <color=Highlight>Sublime is the Sun - Sunborne</color>, <color=Highlight>Sublime is the Sun - Everbright Protector</color> và <color=Highlight>Dodge</color> trong trạng thái <color=Highlight>Sworn Allegiance</color>. <color=Highlight>Mid-air Attack</color> vẫn khả dụng khi ở trên không.\n- Trong trạng thái <color=Highlight>Sworn Allegiance</color>, <color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press}</color> hoặc <color=Highlight>giữ Normal Attack</color> để thi triển <color=Highlight>Sublime is the Sun - Sunborne</color>. Trong trạng thái này, Augusta có thể đi trên mặt nước mà không tốn STA.\n- Thực hiện <color=Highlight>environmental, gameplay, or other interactions</color> sẽ kết thúc <color=Highlight>Sworn Allegiance</color> mà không kích hoạt <color=Highlight>Sublime is the Sun - Everbright Protector</color>.\n<size=10></size>\n<size=40><color=Title>Sublime is the Sun - Sunborne</color></size>\nGây <color=Thunder>Electro DMG</color>, được tính là Sát Thương Heavy Attack. Sau khi thi triển <color=Highlight>Sublime is the Sun - Sunborne</color> {2} lần, <color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Normal Attack or Resonance Liberation</color> để thực hiện <color=Highlight>Sublime is the Sun - Everbright Protector</color>.\n<size=10></size>\n<size=40><color=Title>Sublime is the Sun - Everbright Protector</color></size>\nGây <color=Thunder>Electro DMG</color>, được tính là Sát Thương Heavy Attack. Thi triển <color=Highlight>Sublime is the Sun - Everbright Protector</color> sẽ kết thúc trạng thái <color=Highlight><te href=130606>Sworn Allegiance</te></color> và tiêu hao toàn bộ tầng của <te href=130601>Crown of Wills</te> sau đó. Tất cả Resonators khác trong đội sẽ bị đưa ra khỏi chiến trường.\n- Khi <color=Highlight>Sworn Allegiance</color> kết thúc, <color=Highlight>Sublime is the Sun - Everbright Protector</color> sẽ được tự động thi triển.\n- Trong trạng thái <color=Highlight>Sworn Allegiance</color>, <color=Highlight>giữ Resonance Liberation</color> để thi triển sớm <color=Highlight>Sublime is the Sun - Everbright Protector</color>.\n<size=10></size>\n<size=40><color=Title>Ruler's Realm</color></size>\n- <color=Highlight>Ruler's Realm</color> kéo dài trong {3} giây.\n- Khi Resonators trong đội thi triển <color=Highlight>Intro Skill</color> trong <color=Highlight>Ruler's Realm</color>, họ sẽ nhận được một lá chắn tương đương {5} + {4} HP tối đa của Augusta trong {6} giây. Hiệu ứng này không thể chồng chất. Lá chắn này sẽ không được chuyển cho Resonators tiếp theo.\n<size=10></size>\n<size=40><color=Title>Majesty</color></size>\nAugusta có thể giữ tối đa 2 tầng Oai Phong.\n- Nhận 1 tầng Oai Phong khi thi triển <color=Highlight>Resonance Skill - Undying Sunlight: Plunge</color>.\n- Nhận 1 tầng Oai Phong khi Resonators khác trong đội thi triển <color=Highlight>Outro Skill</color> dưới hiệu ứng của <color=Highlight>Outro Skill - Battlesong of the Unyielding</color> của Augusta.",
+    "new_translation_vi": "<size=40><color=Title>Resonance Liberation - Kiếm of Eternal Oath</color></size>\n<color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} và thả Resonance Liberation</color> để thi triển kỹ năng. Augusta sẽ vung Lưỡi Đại kiếm về phía trước, gây <color=Thunder>Electro DMG</color>, được tính là Sát Thương Heavy Attack.\n<size=10></size>\n<size=40><color=Title>Resonance Liberation - Sublime is the Sun</color></size>\nKhi <te href=130604>Majesty</te> đạt {0} tầng, <color=Highlight>giữ Resonance Liberation</color> để thi triển <color=Highlight>Resonance Liberation - Sublime is the Sun</color>. Việc thi triển <color=Highlight>Resonance Liberation - Sublime is the Sun</color> không tốn Resonance Energy mà thay vào đó là {0} tầng Oai Phong.\n- Khi thi triển <color=Highlight>Resonance Liberation - Sublime is the Sun</color>, Augusta tạo ra <color=Highlight><te href=130605>Ruler's Realm</te></color> và bước vào trạng thái <color=Highlight><te href=130606>Sworn Allegiance</te></color> trong {1} giây. Trong thời gian này, thời gian tạm dừng và <color=Highlight>Resonator switching</color> bị vô hiệu hóa. Chỉ có thể thực hiện <color=Highlight>Sublime is the Sun - Sunborne</color>, <color=Highlight>Sublime is the Sun - Everbright Protector</color> và <color=Highlight>Dodge</color> trong trạng thái <color=Highlight>Sworn Allegiance</color>. <color=Highlight>Mid-air Attack</color> vẫn khả dụng khi ở trên không.\n- Trong trạng thái <color=Highlight>Sworn Allegiance</color>, <color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press}</color> hoặc <color=Highlight>giữ Normal Attack</color> để thi triển <color=Highlight>Sublime is the Sun - Sunborne</color>. Trong trạng thái này, Augusta có thể đi trên mặt nước mà không tốn STA.\n- Thực hiện <color=Highlight>environmental, gameplay, or other interactions</color> sẽ kết thúc <color=Highlight>Sworn Allegiance</color> mà không kích hoạt <color=Highlight>Sublime is the Sun - Everbright Protector</color>.\n<size=10></size>\n<size=40><color=Title>Sublime is the Sun - Sunborne</color></size>\nGây <color=Thunder>Electro DMG</color>, được tính là Sát Thương Heavy Attack. Sau khi thi triển <color=Highlight>Sublime is the Sun - Sunborne</color> {2} lần, <color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Normal Attack or Resonance Liberation</color> để thực hiện <color=Highlight>Sublime is the Sun - Everbright Protector</color>.\n<size=10></size>\n<size=40><color=Title>Sublime is the Sun - Everbright Protector</color></size>\nGây <color=Thunder>Electro DMG</color>, được tính là Sát Thương Heavy Attack. Thi triển <color=Highlight>Sublime is the Sun - Everbright Protector</color> sẽ kết thúc trạng thái <color=Highlight><te href=130606>Sworn Allegiance</te></color> và tiêu hao toàn bộ tầng của <te href=130601>Crown of Wills</te> sau đó. Tất cả Resonators khác trong đội sẽ bị đưa ra khỏi chiến trường.\n- Khi <color=Highlight>Sworn Allegiance</color> kết thúc, <color=Highlight>Sublime is the Sun - Everbright Protector</color> sẽ được tự động thi triển.\n- Trong trạng thái <color=Highlight>Sworn Allegiance</color>, <color=Highlight>giữ Resonance Liberation</color> để thi triển sớm <color=Highlight>Sublime is the Sun - Everbright Protector</color>.\n<size=10></size>\n<size=40><color=Title>Ruler's Realm</color></size>\n- <color=Highlight>Ruler's Realm</color> kéo dài trong {3} giây.\n- Khi Resonators trong đội thi triển <color=Highlight>Intro Skill</color> trong <color=Highlight>Ruler's Realm</color>, họ sẽ nhận được một lá chắn tương đương {5} + {4} HP tối đa của Augusta trong {6} giây. Hiệu ứng này không thể chồng chất. Lá chắn này sẽ không được chuyển cho Resonators tiếp theo.\n<size=10></size>\n<size=40><color=Title>Majesty</color></size>\nAugusta có thể giữ tối đa 2 tầng Oai Phong.\n- Nhận 1 tầng Oai Phong khi thi triển <color=Highlight>Resonance Skill - Undying Sunlight: Plunge</color>.\n- Nhận 1 tầng Oai Phong khi Resonators khác trong đội thi triển <color=Highlight>Outro Skill</color> dưới hiệu ứng của <color=Highlight>Outro Skill - Battlesong of the Unyielding</color> của Augusta.",
     "translator_note": ""
   },
   {
@@ -9646,7 +9646,7 @@
     "ai_reason": "",
     "source_en": "Increases ATK by {0}.",
     "review_note": "",
-    "new_translation_vi": "Tăng ATK thêm {0}.",
+    "new_translation_vi": "Tăng ATK {0}.",
     "translator_note": ""
   },
   {
@@ -9671,7 +9671,7 @@
     "ai_reason": "",
     "source_en": "Increases ATK by {0}.",
     "review_note": "",
-    "new_translation_vi": "Tăng ATK thêm {0}.",
+    "new_translation_vi": "Tăng ATK {0}.",
     "translator_note": ""
   },
   {
@@ -9696,7 +9696,7 @@
     "ai_reason": "",
     "source_en": "When Intro Skill is cast, increases ATK by {0}, lasting for {1}s.",
     "review_note": "",
-    "new_translation_vi": "Khi Kỹ Năng Giới Thiệu được kích hoạt, tăng Tấn Công {0}, kéo dài trong {1} giây.",
+    "new_translation_vi": "Khi Kỹ Năng Giới Thiệu được kích hoạt, tăng ATK {0}, kéo dài trong {1} giây.",
     "translator_note": ""
   },
   {
@@ -9721,7 +9721,7 @@
     "ai_reason": "",
     "source_en": "When receiving damage, ATK is increased by {0}% and DEF by {1}% for 10s. Can be stacked up to 3 times.",
     "review_note": "",
-    "new_translation_vi": "Khi chịu sát thương, ATK is increased by {0}% và Phòng Ngự tăng {1}% trong 10 giây. Có thể tích lũy tối đa 3 lần.",
+    "new_translation_vi": "Khi chịu sát thương, ATK tăng {0}% và Phòng Ngự tăng {1}% trong 10 giây. Có thể tích lũy tối đa 3 lần.",
     "translator_note": ""
   },
   {
@@ -9771,7 +9771,7 @@
     "ai_reason": "",
     "source_en": "Increases Attribute DMG Bonus by {0}. Every time Intro Skill or Resonance Liberation is cast, increases Heavy Attack DMG Bonus by {1}, stacking up to {2} time(s). This effect lasts for {3}s.",
     "review_note": "",
-    "new_translation_vi": "Tăng Hiệu Ứng Sát Thương Thuộc Tính lên {0}. Mỗi khi sử dụng Intro Skill hoặc Resonance Liberation, tăng Hiệu Ứng Sát Thương Heavy Attack lên {1}, tối đa {2} lần. Hiệu ứng này kéo dài trong {3} giây.",
+    "new_translation_vi": "Tăng Hiệu Ứng Sát Thương Thuộc Tính lên {0}. Mỗi khi sử dụng Kỹ Năng Khởi Động hoặc Resonance Liberation, tăng Hiệu Ứng Sát Thương Đòn Heavy Attack lên {1}, tối đa {2} lần. Hiệu ứng này kéo dài trong {3} giây.",
     "translator_note": ""
   },
   {
@@ -9846,7 +9846,7 @@
     "ai_reason": "",
     "source_en": "Grants {0} Attribute DMG Bonus. Casting Intro Skill gives the equipper Ageless Marking, which grants {1} Resonance Skill DMG Bonus for {2}s. Casting Resonance Skill gives the equipper Ethereal Endowment, which grants {3} Resonance Skill DMG Bonus for {4}s.",
     "review_note": "",
-    "new_translation_vi": "Tăng {0} Sát Thương Thuộc Tính. Khi sử dụng Intro Skill, người trang bị nhận được Ageless Marking, tăng {1} Sát Thương Resonance Skill trong {2} giây. Khi sử dụng Resonance Skill, người trang bị nhận được Ethereal Endowment, tăng {3} Sát Thương Resonance Skill trong {4} giây.",
+    "new_translation_vi": "Tăng {0} Sát Thương Thuộc Tính. Khi sử dụng Kỹ Năng Khởi Động, người trang bị nhận được Ageless Marking, tăng {1} Sát Thương Resonance Skill trong {2} giây. Khi sử dụng Resonance Skill, người trang bị nhận được Ethereal Endowment, tăng {3} Sát Thương Resonance Skill trong {4} giây.",
     "translator_note": ""
   },
   {
@@ -9871,7 +9871,7 @@
     "ai_reason": "",
     "source_en": "When the Resonator's HP is above {0}, increases ATK by {1}. When the Resonator's HP is below {2}, gives {3} healing when dealing Basic Attack DMG or Heavy Attack DMG. This effect can be triggered {5} time(s) every {4}s.",
     "review_note": "",
-    "new_translation_vi": "Khi HP của Resonator trên {0}, Attack tăng thêm {1}. Khi HP dưới {2}, hồi {3} HP khi gây Sát Thương Basic Attack hoặc Heavy Attack. Hiệu ứng này có thể kích hoạt {5} lần mỗi {4} giây.",
+    "new_translation_vi": "Khi HP của Resonator trên {0}, ATK tăng thêm {1}. Khi HP dưới {2}, hồi {3} HP khi gây Sát Thương Đòn Cơ Bản hoặc Đòn Heavy Attack. Hiệu ứng này có thể kích hoạt {5} lần mỗi {4} giây.",
     "translator_note": ""
   },
   {
@@ -9896,7 +9896,7 @@
     "ai_reason": "",
     "source_en": "Increases ATK by {0}. Performing Intro Skill or Resonance Liberation increases Resonance Liberation DMG by {1} for {2}s. Dealing Heavy Attack DMG extends this effect by {3}s, up to {4} time. Each successful extension gives {5} Fusion DMG Bonus to all Resonators in the team for {6}s. Effects of the same name cannot be stacked.",
     "review_note": "",
-    "new_translation_vi": "Tăng Attack thêm {0}. Sử dụng Intro Skill hoặc Resonance Liberation sẽ tăng {1} Sát Thương Resonance Liberation trong {2} giây. Gây Sát Thương Heavy Attack sẽ kéo dài hiệu ứng thêm {3} giây, tối đa {4} lần. Mỗi lần kéo dài thành công sẽ tăng {5} Fusion DMG cho toàn bộ Resonators trong đội trong {6} giây. Các hiệu ứng cùng tên không thể chồng chất.",
+    "new_translation_vi": "Tăng ATK thêm {0}. Sử dụng Kỹ Năng Khởi Động hoặc Resonance Liberation sẽ tăng {1} Sát Thương Resonance Liberation trong {2} giây. Gây Sát Thương Đòn Nặng sẽ kéo dài hiệu ứng thêm {3} giây, tối đa {4} lần. Mỗi lần kéo dài thành công sẽ tăng {5} Sát Thương Fusion cho toàn bộ Resonator trong đội trong {6} giây. Các hiệu ứng cùng tên không thể chồng chất.",
     "translator_note": ""
   },
   {
@@ -9946,7 +9946,7 @@
     "ai_reason": "",
     "source_en": "When Intro Skill is cast, increases ATK by {0} and DEF by {1}, lasting for {2}s.",
     "review_note": "",
-    "new_translation_vi": "Khi Kỹ Năng Giới Thiệu được kích hoạt, tăng Tấn Công {0} và Phòng Ngự {1}, kéo dài trong {2} giây.",
+    "new_translation_vi": "Khi Kỹ Năng Giới Thiệu được kích hoạt, tăng ATK {0} và Phòng Ngự {1}, kéo dài trong {2} giây.",
     "translator_note": ""
   },
   {
@@ -9971,7 +9971,7 @@
     "ai_reason": "",
     "source_en": "Increases Basic Attack DMG Bonus and Heavy Attack DMG Bonus by {0}.",
     "review_note": "",
-    "new_translation_vi": "Tăng Hiệu Ứng Sát Thương Basic Attack và Heavy Attack lên {0}.",
+    "new_translation_vi": "Tăng Hiệu Ứng Sát Thương Đòn Basic Attack và Đòn Heavy Attack lên {0}.",
     "translator_note": ""
   },
   {
@@ -9996,7 +9996,7 @@
     "ai_reason": "",
     "source_en": "Dealing DMG to enemies with Negative Statuses increases the wielder's ATK by {0} for {1}s. This effect can be triggered 1 time per second, stackable up to {2} times.",
     "review_note": "",
-    "new_translation_vi": "Gây sát thương lên kẻ địch đang mang hiệu ứng Tiêu Cực sẽ tăng Tấn Công của người sử dụng thêm {0} trong {1} giây. Hiệu ứng này kích hoạt tối đa 1 lần mỗi giây, có thể chồng chất lên đến {2} lần.",
+    "new_translation_vi": "Gây DMG lên kẻ địch đang mang hiệu ứng Tiêu Cực sẽ tăng ATK của người sử dụng thêm {0} trong {1} giây. Hiệu ứng này kích hoạt tối đa 1 lần mỗi giây, có thể chồng chất lên đến {2} lần.",
     "translator_note": ""
   },
   {
@@ -10021,7 +10021,7 @@
     "ai_reason": "",
     "source_en": "ATK increased by {0}. The wielder gains 1 stack of Searing Feather upon dealing damage, which can be triggered once every 0.5s, and gains 5 stacks of the same effect upon casting Resonance Skill. Each stack of Searing Feather gives {1} additional Resonance Skill DMG Bonus for up to 14 stacks. After reaching the max stacks, all stacks will be removed in {2}s.",
     "review_note": "",
-    "new_translation_vi": "Tấn Công tăng {0}. Khi gây sát thương, Resonator nhận 1 lớp Lông Cháy, có thể kích hoạt mỗi 0.5 giây, và nhận 5 lớp cùng hiệu ứng khi sử dụng Resonance Skill. Mỗi lớp Lông Cháy tăng {1} Sát Thương Resonance Skill, tối đa 14 lớp. Khi đạt tối đa, tất cả lớp sẽ biến mất sau {2} giây.",
+    "new_translation_vi": "ATK tăng {0}. Khi gây DMG, Cộng Hưởng Giả nhận 1 lớp Lông Cháy, có thể kích hoạt mỗi 0.5 giây, và nhận 5 lớp cùng hiệu ứng khi sử dụng Resonance Skill. Mỗi lớp Lông Cháy tăng {1} Sát Thương Resonance Skill, tối đa 14 lớp. Khi đạt tối đa, tất cả lớp sẽ biến mất sau {2} giây.",
     "translator_note": ""
   },
   {
@@ -10046,7 +10046,7 @@
     "ai_reason": "",
     "source_en": "When Intro Skill is cast, restores {0} Concerto Energy. When Outro Skill is cast, restores {1} Resonance Energy.",
     "review_note": "",
-    "new_translation_vi": "Khi Kỹ Năng Giới Thiệu được kích hoạt, hồi phục {0} Concerto Energy. Khi Outro Skill được kích hoạt, hồi phục {1} Resonance Energy.",
+    "new_translation_vi": "Khi Kỹ Năng Giới Thiệu được kích hoạt, hồi phục {0} Concerto Energy. Khi Kỹ Năng Outro được kích hoạt, hồi phục {1} Resonance Energy.",
     "translator_note": ""
   },
   {
@@ -10071,7 +10071,7 @@
     "ai_reason": "",
     "source_en": "Gain {0} stack of Hiss when dealing damage to the target, with {2} stack generated every {1}s. \nHiss: each stack increases the wielder's ATK by {3} for {4}s, stacking up to {5} times. Switching off the wielder clears all stacks. Gaining {6} stacks increases the wielder's Crit. Rate by {7}.",
     "review_note": "",
-    "new_translation_vi": "Nhận {0} tầng Hiss khi gây sát thương lên mục tiêu, với {2} tầng được tạo ra mỗi {1} giây.\nHiss: mỗi tầng tăng Tấn Công của người sử dụng thêm {3} trong {4} giây, tối đa {5} tầng. Chuyển đổi nhân vật sẽ xóa toàn bộ tầng. Khi đạt {6} tầng, Crit. Rate của người sử dụng sẽ tăng thêm {7}.",
+    "new_translation_vi": "Nhận {0} tầng Hiss khi gây sát thương lên mục tiêu, với {2} tầng được tạo ra mỗi {1} giây.\nHiss: mỗi tầng tăng ATK của người sử dụng thêm {3} trong {4} giây, tối đa {5} tầng. Chuyển đổi nhân vật sẽ xóa toàn bộ tầng. Khi đạt {6} tầng, Crit. Rate của người sử dụng sẽ tăng thêm {7}.",
     "translator_note": ""
   },
   {
@@ -10096,7 +10096,7 @@
     "ai_reason": "",
     "source_en": "Increase ATK by {0}. When dealing Basic Attack DMG, the wielder gains {1} Basic Attack DMG Bonus for {2}s. This effect can be triggered once per second, stacking up to {3} times.\nWhen the wielder's Concerto Energy is consumed, gain {4} Basic DMG Bonus for {5}. This effect can be triggered once per second and ends when the wielder is switched off the field.",
     "review_note": "",
-    "new_translation_vi": "Increase Attack thêm {0}. Khi gây sát thương bằng Basic Attack, Resonator nhận thêm {1} Increase Sát Thương Basic Attack trong {2} giây. Hiệu ứng này có thể kích hoạt mỗi giây một lần, tối đa {3} lần.\nKhi tiêu hao Concerto Energy, nhận thêm {4} Increase Sát Thương Basic trong {5} giây. Hiệu ứng này có thể kích hoạt mỗi giây một lần và kết thúc khi Resonator rời khỏi chiến trường.",
+    "new_translation_vi": "Tăng ATK thêm {0}. Khi gây DMG bằng Đòn Cơ Bản, Cộng Hưởng Giả nhận thêm {1} Tăng Sát Thương Đòn Cơ Bản trong {2} giây. Hiệu ứng này có thể kích hoạt mỗi giây một lần, tối đa {3} lần.\nKhi tiêu hao Concerto Energy, nhận thêm {4} Tăng Sát Thương Cơ Bản trong {5} giây. Hiệu ứng này có thể kích hoạt mỗi giây một lần và kết thúc khi Cộng Hưởng Giả rời khỏi chiến trường.",
     "translator_note": ""
   },
   {
@@ -10121,7 +10121,7 @@
     "ai_reason": "",
     "source_en": "Providing Healing increases Resonance Skill DMG by {0} for {1}s. When Rover: Aero casts Resonance Skill Unbound Flow, Aero DMG dealt by nearby Resonators on the field is Amplified by {2} for {3}s.",
     "review_note": "",
-    "new_translation_vi": "Khi hồi phục, tăng Sát Thương Resonance Skill thêm {0} trong {1} giây. Khi Rover: Aero sử dụng Resonance Skill Unbound Flow, Aero DMG gây ra bởi Resonators gần đó trên chiến trường sẽ được Khuếch Đại thêm {2} trong {3} giây.",
+    "new_translation_vi": "Khi hồi phục, tăng Sát Thương Resonance Skill thêm {0} trong {1} giây. Khi Rover: Aero sử dụng Resonance Skill Unbound Flow, Sát Thương Aero gây ra bởi các Resonator gần đó trên chiến trường sẽ được Khuếch Đại thêm {2} trong {3} giây.",
     "translator_note": ""
   },
   {
@@ -10146,7 +10146,7 @@
     "ai_reason": "",
     "source_en": "Max HP is increased by {0}. {3}s after casting Intro Skill or Basic Attacks, ignore {1} of the target's DEF when dealing damage. If the target has at least 1 stack of Aero Erosion, the DMG taken by the target is Amplified by {2}.",
     "review_note": "",
-    "new_translation_vi": "HP tối đa tăng thêm {0}. Trong {3} giây sau khi sử dụng Intro Skill hoặc Basic Attack, bỏ qua {1} Phòng Ngự của mục tiêu khi gây sát thương. Nếu mục tiêu có ít nhất 1 lớp Erosion Gió, sát thương nhận vào sẽ được Khuếch Đại thêm {2}.",
+    "new_translation_vi": "HP tối đa tăng thêm {0}. Trong {3} giây sau khi sử dụng Kỹ Năng Khởi Động hoặc Đòn Cơ Bản, bỏ qua {1} Phòng Ngự của mục tiêu khi gây DMG. Nếu mục tiêu có ít nhất 1 lớp Aero Erosion, DMG nhận vào sẽ được Khuếch Đại thêm {2}.",
     "translator_note": ""
   },
   {
@@ -10171,7 +10171,7 @@
     "ai_reason": "",
     "source_en": "Dealing DMG to enemies with Negative Statuses increases the wielder's ATK by {0} for {1}s. This effect can be triggered 1 time per second, stackable up to {2} times.",
     "review_note": "",
-    "new_translation_vi": "Gây sát thương lên kẻ địch đang mang hiệu ứng Tiêu Cực sẽ tăng Tấn Công của người sử dụng thêm {0} trong {1} giây. Hiệu ứng này kích hoạt tối đa 1 lần mỗi giây, có thể chồng chất lên đến {2} lần.",
+    "new_translation_vi": "Gây DMG lên kẻ địch đang mang hiệu ứng Tiêu Cực sẽ tăng ATK của người sử dụng thêm {0} trong {1} giây. Hiệu ứng này kích hoạt tối đa 1 lần mỗi giây, có thể chồng chất lên đến {2} lần.",
     "translator_note": ""
   },
   {
@@ -10196,7 +10196,7 @@
     "ai_reason": "",
     "source_en": "Increases Energy Regen by {0}. Incoming Resonator's ATK is increased by {1} for {3}s, stackable for up to {2} times after the wielder casts Outro Skill.",
     "review_note": "",
-    "new_translation_vi": "Tăng Tái Tạo Năng Lượng thêm {0}. Tấn Công của Resonator đến sẽ được tăng {1} trong {3} giây, có thể chồng chất lên đến {2} lần sau khi người sử dụng kích hoạt Outro Skill.",
+    "new_translation_vi": "Tăng Tái Tạo Năng Lượng thêm {0}. ATK của Resonator đến sẽ được tăng {1} trong {3} giây, có thể chồng chất lên đến {2} lần sau khi người sử dụng kích hoạt Kỹ Năng Outro.",
     "translator_note": ""
   },
   {
@@ -10221,7 +10221,7 @@
     "ai_reason": "",
     "source_en": "Increases ATK by {0}. Every time Intro Skill or Resonance Liberation is cast, Resonance Skill DMG Bonus increases by {1} for {2}s.",
     "review_note": "",
-    "new_translation_vi": "Tăng Tấn Công thêm {0}. Mỗi lần sử dụng Intro Skill hoặc Resonance Liberation, Sát Thương Resonance Skill sẽ tăng thêm {1} trong {2} giây.",
+    "new_translation_vi": "Tăng ATK thêm {0}. Mỗi lần sử dụng Kỹ Năng Khởi Động hoặc Resonance Liberation, Sát Thương Resonance Skill sẽ tăng thêm {1} trong {2} giây.",
     "translator_note": ""
   },
   {
@@ -10246,7 +10246,7 @@
     "ai_reason": "",
     "source_en": "Increase Crit. Rate by {0}. Casting Resonance Liberation gives {1} Basic Attack DMG Bonus for {2}s. Dealing Basic Attack DMG gives {3} Basic Attack DMG Bonus for {4}s.",
     "review_note": "",
-    "new_translation_vi": "Increase Crit. Rate thêm {0}. Khi kích hoạt Resonance Liberation, nhận thêm {1} Basic Attack trong {2} giây. Gây Sát Thương bằng Basic Attack sẽ nhận thêm {3} Basic Attack trong {4} giây.",
+    "new_translation_vi": "Tăng Crit. Rate thêm {0}. Khi kích hoạt Resonance Liberation, nhận thêm {1} Basic Attack trong {2} giây. Gây Sát Thương bằng Basic Attack sẽ nhận thêm {3} Basic Attack trong {4} giây.",
     "translator_note": ""
   },
   {
@@ -10271,7 +10271,7 @@
     "ai_reason": "",
     "source_en": "ATK is increased by {0}. Inflicting Aero Erosion on the target gives {1} Aero DMG Bonus for {2}s. Hitting targets with Aero Erosion reduces their Aero RES by {3} for {4}s. Effects of the same name cannot be stacked.",
     "review_note": "",
-    "new_translation_vi": "ATK is increased by {0}. Gây Aero Erosion lên mục tiêu sẽ tăng {1} Aero DMG trong {2} giây. Đánh trúng mục tiêu bị Aero Erosion sẽ giảm {3} Aero RES của chúng trong {4} giây. Hiệu ứng cùng tên không thể cộng dồn.",
+    "new_translation_vi": "ATK tăng {0}. Gây Aero Erosion lên mục tiêu sẽ tăng {1} Sát Thương Aero trong {2} giây. Đánh trúng mục tiêu bị Aero Erosion sẽ giảm {3} Kháng Aero của chúng trong {4} giây. Hiệu ứng cùng tên không thể cộng dồn.",
     "translator_note": ""
   },
   {
@@ -10346,7 +10346,7 @@
     "ai_reason": "",
     "source_en": "Dealing DMG to enemies with Negative Statuses increases the wielder's ATK by {0} for {1}s. This effect can be triggered 1 time per second, stackable up to {2} times.",
     "review_note": "",
-    "new_translation_vi": "Gây sát thương lên kẻ địch đang mang hiệu ứng Tiêu Cực sẽ tăng Tấn Công của người sử dụng thêm {0} trong {1} giây. Hiệu ứng này kích hoạt tối đa 1 lần mỗi giây, có thể chồng chất lên đến {2} lần.",
+    "new_translation_vi": "Gây DMG lên kẻ địch đang mang hiệu ứng Tiêu Cực sẽ tăng ATK của người sử dụng thêm {0} trong {1} giây. Hiệu ứng này kích hoạt tối đa 1 lần mỗi giây, có thể chồng chất lên đến {2} lần.",
     "translator_note": ""
   },
   {
@@ -10421,7 +10421,7 @@
     "ai_reason": "",
     "source_en": "Increases ATK by {0}. Every time Basic Attack or Intro Skill is cast, Heavy Attack DMG Bonus increases by {1} for {2}s.",
     "review_note": "",
-    "new_translation_vi": "Tăng Attack thêm {0}. Mỗi lần sử dụng Basic Attack hoặc Intro Skill, Sát Thương Heavy Attack sẽ tăng thêm {1} trong {2} giây.",
+    "new_translation_vi": "Tăng ATK thêm {0}. Mỗi lần sử dụng Basic Attack hoặc Kỹ Năng Khởi Động, Sát Thương Đòn Nặng sẽ tăng thêm {1} trong {2} giây.",
     "translator_note": ""
   },
   {
@@ -10446,7 +10446,7 @@
     "ai_reason": "",
     "source_en": "Increases ATK by {0}. Casting Basic Attack grants the following effects: Dealing damage ignores {1} of the target's DEF and Amplifies Spectro Frazzle DMG dealt by {2} for {3}s. Retriggering the effect resets its duration.",
     "review_note": "",
-    "new_translation_vi": "Tăng Attack {0}. Khi sử dụng Basic Attack, sẽ kích hoạt các hiệu ứng sau: Gây sát thương bỏ qua {1} Phòng Ngự của mục tiêu và Khuếch Đại Spectro DMG Frazzle thêm {2} trong {3} giây. Kích hoạt lại hiệu ứng sẽ làm mới thời gian tác dụng.",
+    "new_translation_vi": "Tăng ATK {0}. Khi sử dụng Đòn Basic Attack, sẽ kích hoạt các hiệu ứng sau: Gây DMG bỏ qua {1} Phòng Ngự của mục tiêu và Khuếch Đại Sát Thương Spectro Frazzle thêm {2} trong {3} giây. Kích hoạt lại hiệu ứng sẽ làm mới thời gian tác dụng.",
     "translator_note": ""
   },
   {
@@ -10471,7 +10471,7 @@
     "ai_reason": "",
     "source_en": "Casting the Resonance Skill grants {0} Resonance Energy and increases ATK by {1}, lasting for {2}s. This effect can be triggered once every {3}s.",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Resonance Skill sẽ nhận {0} Resonance Energy và tăng Tấn Công lên {1}, kéo dài {2} giây. Hiệu ứng này chỉ kích hoạt mỗi {3} giây một lần.",
+    "new_translation_vi": "Kích hoạt Resonance Skill sẽ nhận {0} Resonance Energy và tăng ATK lên {1}, kéo dài {2} giây. Hiệu ứng này chỉ kích hoạt mỗi {3} giây một lần.",
     "translator_note": ""
   },
   {
@@ -10546,7 +10546,7 @@
     "ai_reason": "",
     "source_en": "Dealing DMG to enemies with Negative Statuses increases the wielder's ATK by {0} for {1}s. This effect can be triggered 1 time per second, stackable up to {2} times.",
     "review_note": "",
-    "new_translation_vi": "Gây sát thương lên kẻ địch đang mang hiệu ứng Tiêu Cực sẽ tăng Tấn Công của người sử dụng thêm {0} trong {1} giây. Hiệu ứng này kích hoạt tối đa 1 lần mỗi giây, có thể chồng chất lên đến {2} lần.",
+    "new_translation_vi": "Gây DMG lên kẻ địch đang mang hiệu ứng Tiêu Cực sẽ tăng ATK của người sử dụng thêm {0} trong {1} giây. Hiệu ứng này kích hoạt tối đa 1 lần mỗi giây, có thể chồng chất lên đến {2} lần.",
     "translator_note": ""
   },
   {
@@ -10596,7 +10596,7 @@
     "ai_reason": "",
     "source_en": "Casting Resonance Liberation increases the Resonator's Healing Bonus by {0} for {1}s.",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Resonance Liberation tăng Hiệu Quả Healing của Resonator lên {0} trong {1} giây.",
+    "new_translation_vi": "Kích hoạt Resonance Liberation tăng Hiệu Quả Hồi Phục của Resonator lên {0} trong {1} giây.",
     "translator_note": ""
   },
   {
@@ -10621,7 +10621,7 @@
     "ai_reason": "",
     "source_en": "Increase ATK by {0}. While the wielder is on the field, using Resonance Skill grants {1} Basic Attack DMG Bonus, stacking up to {2} times for {3}s. At {4} stacks or above, casting Outro Skill consumes all stacks of this effect and grants the wielder {5} Basic Attack DMG Bonus for {6}s, effective when the wielder is off the field.",
     "review_note": "",
-    "new_translation_vi": "Increase Attack thêm {0}. Khi Resonator đang trên chiến trường, sử dụng Resonance Skill sẽ nhận thêm {1} Increase Sát Thương Basic Attack, tối đa {2} lần trong {3} giây. Khi đạt {4} lần tích lũy trở lên, kích hoạt Outro Skill sẽ tiêu hao toàn bộ hiệu ứng này và cộng thêm {5} Increase Sát Thương Basic Attack trong {6} giây, hiệu lực ngay cả khi Resonator rời khỏi chiến trường.",
+    "new_translation_vi": "Tăng ATK thêm {0}. Khi Cộng Hưởng Giả đang trên chiến trường, sử dụng Resonance Skill sẽ nhận thêm {1} Tăng Sát Thương Đòn Cơ Bản, tối đa {2} lần trong {3} giây. Khi đạt {4} lần tích lũy trở lên, kích hoạt Kỹ Năng Outro sẽ tiêu hao toàn bộ hiệu ứng này và cộng thêm {5} Tăng Sát Thương Đòn Cơ Bản trong {6} giây, hiệu lực ngay cả khi Cộng Hưởng Giả rời khỏi chiến trường.",
     "translator_note": ""
   },
   {
@@ -10646,7 +10646,7 @@
     "ai_reason": "",
     "source_en": "Dealing DMG to enemies with Spectro Frazzle increases the wielder's Spectro DMG by {0}, gaining 1 stack per second for 6s, stacking up to 4 times.",
     "review_note": "",
-    "new_translation_vi": "Gây sát thương lên kẻ địch đang mang Hỗn Loạn Quang sẽ tăng Sát Thương Quang của người sử dụng thêm {0}, nhận 1 tầng mỗi giây trong 6 giây, tối đa 4 tầng.",
+    "new_translation_vi": "Gây DMG lên kẻ địch đang mang Hỗn Loạn Quang sẽ tăng Sát Thương Quang của người sử dụng thêm {0}, nhận 1 tầng mỗi giây trong 6 giây, tối đa 4 tầng.",
     "translator_note": ""
   },
   {
@@ -10671,7 +10671,7 @@
     "ai_reason": "",
     "source_en": "Increase ATK by {0}. Dealing DMG to targets with Spectro Frazzle grants the wielder {1} Basic Attack DMG Bonus and {1} Heavy Attack DMG Bonus, stacking up to <SapTag=2>{2}</SapTag> {Cus:Sap,S=time P=times SapTag=2} for {3}s. Casting Outro Skill Amplifies the Spectro Frazzle DMG on targets around the active Resonator by {4} for {5}s. Effects of the same name cannot be stacked.",
     "review_note": "",
-    "new_translation_vi": "Increase Attack thêm {0}. Khi gây sát thương lên mục tiêu bị Spectro Frazzle, Resonator nhận thêm {1} Increase Sát Thương Basic Attack và {1} Increase Sát Thương Heavy Attack, có thể tích lũy tối đa <SapTag=2>{2}</SapTag> {Cus:Sap,S=lần P=lần SapTag=2} trong {3} giây. Kích hoạt Outro Skill sẽ khuếch đại Spectro DMG Frazzle lên các mục tiêu xung quanh Resonator hiện tại thêm {4} trong {5} giây. Hiệu ứng cùng tên không thể chồng chất.",
+    "new_translation_vi": "Tăng ATK thêm {0}. Khi gây DMG lên mục tiêu bị Spectro Frazzle, Resonator nhận thêm {1} Tăng Sát Thương Đòn Cơ Bản và {1} Tăng Sát Thương Đòn Nặng, có thể tích lũy tối đa <SapTag=2>{2}</SapTag> {Cus:Sap,S=lần P=lần SapTag=2} trong {3} giây. Kích hoạt Kỹ Năng Outro sẽ khuếch đại DMG Spectro Frazzle lên các mục tiêu xung quanh Resonator hiện tại thêm {4} trong {5} giây. Hiệu ứng cùng tên không thể chồng chất.",
     "translator_note": ""
   },
   {
@@ -10696,7 +10696,7 @@
     "ai_reason": "",
     "source_en": "Increases ATK by {0}. Casting Echo Skill within {1}s after casting Intro Skill or Basic Attacks grants <SapTag=2>{2}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=2} of Gentle Dream. Echoes with the same name can only trigger this effect once, stacking up to {3} times, lasting for {4}s. When reaching 2 stacks, casting Echo Skill no longer resets the duration of this effect. This effect activates up to once per 10s. Switching to another Resonator ends this effect early.\nWith <SapTag=5>{5}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=5}: Grants {6} Basic Attack DMG Bonus.\nWith <SapTag=7>{7}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=7}: Ignores {8} of the target's Havoc RES.",
     "review_note": "",
-    "new_translation_vi": "Tăng Attack thêm {0}. Khi sử dụng Kỹ Năng Echoes trong vòng {1} giây sau khi dùng Intro Skill hoặc Basic Attack, nhận được <SapTag=2>{2}</SapTag> {Cus:Sap,S=lớp P=lớp Gentle Dream}. Các Echoes cùng tên chỉ kích hoạt hiệu ứng này một lần, tối đa {3} lớp, duy trì trong {4} giây. Khi đạt 2 lớp, sử dụng Kỹ Năng Echoes sẽ không làm mới thời gian hiệu ứng. Hiệu ứng kích hoạt tối đa một lần mỗi 10 giây. Chuyển đổi Resonator sẽ kết thúc hiệu ứng sớm.\nKhi có <SapTag=5>{5}</SapTag> {Cus:Sap,S=lớp P=lớp}: Tăng {6} Sát Thương Basic Attack.\nKhi có <SapTag=7>{7}</SapTag> {Cus:Sap,S=lớp P=lớp}: Bỏ qua {8} Havoc RES của mục tiêu.",
+    "new_translation_vi": "Tăng ATK thêm {0}. Khi sử dụng Kỹ Năng Echo trong vòng {1} giây sau khi dùng Kỹ Năng Khởi Động hoặc Basic Attack, nhận được <SapTag=2>{2}</SapTag> {Cus:Sap,S=lớp P=lớp Gentle Dream}. Các Echo cùng tên chỉ kích hoạt hiệu ứng này một lần, tối đa {3} lớp, duy trì trong {4} giây. Khi đạt 2 lớp, sử dụng Kỹ Năng Echo sẽ không làm mới thời gian hiệu ứng. Hiệu ứng kích hoạt tối đa một lần mỗi 10 giây. Chuyển đổi Resonator sẽ kết thúc hiệu ứng sớm.\nKhi có <SapTag=5>{5}</SapTag> {Cus:Sap,S=lớp P=lớp}: Tăng {6} Sát Thương Basic Attack.\nKhi có <SapTag=7>{7}</SapTag> {Cus:Sap,S=lớp P=lớp}: Bỏ qua {8} Kháng Havoc của mục tiêu.",
     "translator_note": ""
   },
   {
@@ -10721,7 +10721,7 @@
     "ai_reason": "",
     "source_en": "ATK is increased by {0}. Within {1}s after dealing Echo Skill DMG, gain {2} Resonance Skill DMG Bonus and {3} Echo Skill DMG Amplification, and ignore {4} of the target's DEF when dealing damage.",
     "review_note": "",
-    "new_translation_vi": "Tấn Công tăng thêm {0}. Trong vòng {1} giây sau khi gây Sát Thương Kỹ Năng Vang Âm, nhận thêm {2} Sát Thương Resonance Skill và {3} DMG Amplification Kỹ Năng Vang Âm, đồng thời bỏ qua {4} Phòng Ngự của mục tiêu khi gây sát thương.",
+    "new_translation_vi": "ATK tăng thêm {0}. Trong vòng {1} giây sau khi gây Sát Thương Kỹ Năng Vang Âm, nhận thêm {2} Sát Thương Resonance Skill và {3} Khuếch Đại Sát Thương Kỹ Năng Vang Âm, đồng thời bỏ qua {4} Phòng Ngự của mục tiêu khi gây DMG.",
     "translator_note": ""
   },
   {
@@ -10746,7 +10746,7 @@
     "ai_reason": "",
     "source_en": "Increases ATK by {0}. Casting Intro Skill or Resonance Skill increases Heavy Attack DMG by {1} for {2}s. Obtaining Shield allows Heavy Attack DMG to ignore {3} of the target's DEF for {5}s, stacking up to {4} times. This effect is triggered once every 0.5s",
     "review_note": "",
-    "new_translation_vi": "Tăng Attack thêm {0}. Sử dụng Intro Skill hoặc Resonance Skill sẽ tăng {1} Sát Thương Heavy Attack trong {2} giây. Khi có Shield, Sát Thương Heavy Attack sẽ bỏ qua {3} Phòng Ngự của mục tiêu trong {5} giây, tối đa {4} lớp. Hiệu ứng kích hoạt mỗi 0.5 giây một lần.",
+    "new_translation_vi": "Tăng ATK thêm {0}. Sử dụng Kỹ Năng Khởi Động hoặc Resonance Skill sẽ tăng {1} Sát Thương Đòn Nặng trong {2} giây. Khi có Khiên, Sát Thương Đòn Nặng sẽ bỏ qua {3} Phòng Ngự của mục tiêu trong {5} giây, tối đa {4} lớp. Hiệu ứng kích hoạt mỗi 0.5 giây một lần.",
     "translator_note": ""
   },
   {
@@ -10771,7 +10771,7 @@
     "ai_reason": "",
     "source_en": "Increases ATK by {0}. Casting Intro Skill or Resonance Liberation increases Resonance Liberation DMG by {1} for {2}s. Obtaining Shield allows Resonance Liberation DMG to ignore {3} of the target's DEF for {6}s, stacking up to {5} times. This effect is triggered once every {4}s. Upon casting Intro Skill, this effect reaches max stacks immediately, lasting for {7}s.",
     "review_note": "",
-    "new_translation_vi": "Tăng Tấn Công thêm {0}. Sử dụng Intro Skill hoặc Resonance Liberation sẽ tăng {1} Sát Thương Resonance Liberation trong {2} giây. Khi có Shield, Sát Thương Resonance Liberation sẽ bỏ qua {3} Phòng Ngự của mục tiêu trong {6} giây, tối đa {5} lớp. Hiệu ứng kích hoạt mỗi {4} giây một lần. Khi dùng Intro Skill, hiệu ứng đạt tối đa ngay lập tức và duy trì trong {7} giây.",
+    "new_translation_vi": "Tăng ATK thêm {0}. Sử dụng Kỹ Năng Khởi Động hoặc Resonance Liberation sẽ tăng {1} Sát Thương Resonance Liberation trong {2} giây. Khi có Khiên, Sát Thương Resonance Liberation sẽ bỏ qua {3} Phòng Ngự của mục tiêu trong {6} giây, tối đa {5} lớp. Hiệu ứng kích hoạt mỗi {4} giây một lần. Khi dùng Kỹ Năng Khởi Động, hiệu ứng đạt tối đa ngay lập tức và duy trì trong {7} giây.",
     "translator_note": ""
   },
   {
@@ -10821,7 +10821,7 @@
     "ai_reason": "",
     "source_en": "Spacetrek Collective \"Synth Armament\" Series\nModel: SCSA-LHRi-BB325042\n\nForged from compound technology that fuses Exostrider biomorphic components with Tacetite, this weapon offers two core features: frequency auto-adaptation and user binding. Its power scales directly with the wielder's Forte, growing sharper through dedicated Forte training.\n\nThe light patterns along the blade shift in response to the wielder's frequency fluctuations. It crystallizes reason into a concentrated force—a tool to cut through obstacles as well as a measure for charting the unknown. Ideal for the edge breakers who carve their path forward with unwavering resolve.",
     "review_note": "",
-    "new_translation_vi": "Dòng \"Vũ Khí Tổng Hợp\" của Spacetrek Collective\nMẫu: SCSA-LHRi-BB325042\n\nĐược rèn từ công nghệ phức hợp kết hợp các thành phần sinh học Exostrider với Tacetite, vũ khí này sở hữu hai đặc tính cốt lõi: tự điều chỉnh tần số và liên kết với người sử dụng. Sức mạnh của nó tỷ lệ thuận với Forte của người sử dụng, trở nên sắc bén hơn qua quá trình rèn luyện Forte chuyên sâu.\n\nCác hoa văn ánh sáng dọc lưỡi kiếm thay đổi theo sự dao động tần số của người sử dụng. Nó kết tinh lý trí thành một sức mạnh tập trung—vừa là công cụ để phá vỡ chướng ngại, vừa là thước đo để khám phá những điều chưa biết. Hoàn hảo cho những kẻ phá vỡ giới hạn, những người tự khắc họa con đường bằng ý chí kiên định.",
+    "new_translation_vi": "Dòng \"Vũ Khí Tổng Hợp\" của Tập Đoàn Spacetrek\nMẫu: SCSA-LHRi-BB325042\n\nĐược rèn từ công nghệ phức hợp kết hợp các thành phần sinh học Exostrider với Tacetite, vũ khí này sở hữu hai đặc tính cốt lõi: tự điều chỉnh tần số và liên kết với người sử dụng. Sức mạnh của nó tỷ lệ thuận với Forte của người sử dụng, trở nên sắc bén hơn qua quá trình rèn luyện Forte chuyên sâu.\n\nCác hoa văn ánh sáng dọc lưỡi kiếm thay đổi theo sự dao động tần số của người sử dụng. Nó kết tinh lý trí thành một sức mạnh tập trung—vừa là công cụ để phá vỡ chướng ngại, vừa là thước đo để khám phá những điều chưa biết. Hoàn hảo cho những kẻ phá vỡ giới hạn, những người tự khắc họa con đường bằng ý chí kiên định.",
     "translator_note": ""
   },
   {
@@ -10996,7 +10996,7 @@
     "ai_reason": "",
     "source_en": "Dealing DMG to enemies with Negative Statuses increases the wielder's ATK by {0} for {1}s. This effect can be triggered 1 time per second, stackable up to {2} times.",
     "review_note": "",
-    "new_translation_vi": "Gây sát thương lên kẻ địch đang mang hiệu ứng Tiêu Cực sẽ tăng Tấn Công của người sử dụng thêm {0} trong {1} giây. Hiệu ứng này kích hoạt tối đa 1 lần mỗi giây, có thể chồng chất lên đến {2} lần.",
+    "new_translation_vi": "Gây DMG lên kẻ địch đang mang hiệu ứng Tiêu Cực sẽ tăng ATK của người sử dụng thêm {0} trong {1} giây. Hiệu ứng này kích hoạt tối đa 1 lần mỗi giây, có thể chồng chất lên đến {2} lần.",
     "translator_note": ""
   },
   {
@@ -11221,7 +11221,7 @@
     "ai_reason": "",
     "source_en": "Upon taking damage, ATK increases by {0}% and DEF increases by {1}%, The effect lasts 10s and can stack up to 3.",
     "review_note": "",
-    "new_translation_vi": "Khi nhận sát thương, Tấn Công tăng {0}% và Phòng Ngự tăng {1}%, hiệu ứng kéo dài 10 giây và có thể chồng chất lên đến 3 lần.",
+    "new_translation_vi": "Khi nhận sát thương, ATK tăng {0}% và Phòng Ngự tăng {1}%, hiệu ứng kéo dài 10 giây và có thể chồng chất lên đến 3 lần.",
     "translator_note": ""
   },
   {
@@ -11246,7 +11246,7 @@
     "ai_reason": "",
     "source_en": "Within {0}s after Resonance Skill is cast, increases ATK by {2} every {1}s, stacking up to {3} time(s). This effect can be triggered {5} time(s) every {4}s. When the number of stacks reaches {6}, all stacks will be reset within {7}s.",
     "review_note": "",
-    "new_translation_vi": "Trong vòng {0} giây sau khi sử dụng Resonance Skill, Tấn Công tăng {2} sau mỗi {1} giây, tối đa {3} lần. Hiệu ứng này có thể kích hoạt {5} lần mỗi {4} giây. Khi đạt {6} lần cộng dồn, tất cả sẽ được đặt lại trong {7} giây.",
+    "new_translation_vi": "Trong vòng {0} giây sau khi sử dụng Resonance Skill, ATK tăng {2} sau mỗi {1} giây, tối đa {3} lần. Hiệu ứng này có thể kích hoạt {5} lần mỗi {4} giây. Khi đạt {6} lần cộng dồn, tất cả sẽ được đặt lại trong {7} giây.",
     "translator_note": ""
   },
   {
@@ -11271,7 +11271,7 @@
     "ai_reason": "",
     "source_en": "Increases ATK by {0} upon dealing Basic Attack DMG or Heavy Attack DMG, stacking up to {1} time(s). This effect lasts for {2}s and can be triggered {4} time(s) every {3}s.",
     "review_note": "",
-    "new_translation_vi": "Tăng Attack thêm {0} khi gây Sát Thương Basic Attack hoặc Heavy Attack, có thể tích lũy tối đa {1} lần. Hiệu ứng này kéo dài trong {2} giây và có thể kích hoạt {4} lần mỗi {3} giây.",
+    "new_translation_vi": "Tăng ATK thêm {0} khi gây Sát Thương Đòn Basic Attack hoặc Đòn Heavy Attack, có thể tích lũy tối đa {1} lần. Hiệu ứng này kéo dài trong {2} giây và có thể kích hoạt {4} lần mỗi {3} giây.",
     "translator_note": ""
   },
   {
@@ -11296,7 +11296,7 @@
     "ai_reason": "",
     "source_en": "Casting the Resonance Skill grants {0} Resonance Energy and increases ATK by {1}, lasting for {2}s. This effect can be triggered once every {3}s.",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Resonance Skill sẽ nhận {0} Resonance Energy và tăng Tấn Công lên {1}, kéo dài {2} giây. Hiệu ứng này chỉ kích hoạt mỗi {3} giây một lần.",
+    "new_translation_vi": "Kích hoạt Resonance Skill sẽ nhận {0} Resonance Energy và tăng ATK lên {1}, kéo dài {2} giây. Hiệu ứng này chỉ kích hoạt mỗi {3} giây một lần.",
     "translator_note": ""
   },
   {
@@ -11321,7 +11321,7 @@
     "ai_reason": "",
     "source_en": "Increases ATK by {0}.",
     "review_note": "",
-    "new_translation_vi": "Tăng ATK thêm {0}.",
+    "new_translation_vi": "Tăng ATK {0}.",
     "translator_note": ""
   },
   {
@@ -11346,7 +11346,7 @@
     "ai_reason": "",
     "source_en": "Increases ATK by {0}.",
     "review_note": "",
-    "new_translation_vi": "Tăng ATK thêm {0}.",
+    "new_translation_vi": "Tăng ATK {0}.",
     "translator_note": ""
   },
   {
@@ -11371,7 +11371,7 @@
     "ai_reason": "",
     "source_en": "When Intro Skill is cast, increases ATK by {0}, lasting for {1}s.",
     "review_note": "",
-    "new_translation_vi": "Khi Kỹ Năng Giới Thiệu được kích hoạt, tăng Tấn Công {0}, kéo dài trong {1} giây.",
+    "new_translation_vi": "Khi Kỹ Năng Giới Thiệu được kích hoạt, tăng ATK {0}, kéo dài trong {1} giây.",
     "translator_note": ""
   },
   {
@@ -11396,7 +11396,7 @@
     "ai_reason": "",
     "source_en": "After using Resonance Liberation, DMG is increased by {0}% for Basic Attacks and Heavy Attacks for 10s.",
     "review_note": "",
-    "new_translation_vi": "Sau khi sử dụng Resonance Liberation, Sát Thương của Basic Attack và Đòn Tấn Công Nặng tăng {0}% trong 10 giây.",
+    "new_translation_vi": "Sau khi sử dụng Resonance Liberation, Sát Thương của Đòn Basic Attack và Đòn Heavy Attack tăng {0}% trong 10 giây.",
     "translator_note": ""
   },
   {
@@ -11471,7 +11471,7 @@
     "ai_reason": "",
     "source_en": "Increases Energy Regen by {0}. When Resonance Skill is cast, increases ATK by {1}, stacking up to {2} time(s). This effect lasts for {3}s.",
     "review_note": "",
-    "new_translation_vi": "Tăng Tái Tạo Năng Lượng thêm {0}. Khi kích hoạt Resonance Skill, tăng Tấn Công thêm {1}, có thể chồng chất lên đến {2} lần. Hiệu ứng này kéo dài trong {3} giây.",
+    "new_translation_vi": "Tăng Tái Tạo Năng Lượng thêm {0}. Khi kích hoạt Resonance Skill, tăng ATK thêm {1}, có thể chồng chất lên đến {2} lần. Hiệu ứng này kéo dài trong {3} giây.",
     "translator_note": ""
   },
   {
@@ -11571,7 +11571,7 @@
     "ai_reason": "",
     "source_en": "When the Resonator's HP drops below {0}, increases Heavy Attack DMG Bonus by {1} and gives {2} healing when dealing Heavy Attack DMG. This effect can be triggered {4} time(s) every {3}s.",
     "review_note": "",
-    "new_translation_vi": "Khi HP của Resonator giảm xuống dưới {0}, Sát Thương Heavy Attack tăng thêm {1} và hồi {2} HP khi gây Sát Thương Heavy Attack. Hiệu ứng này có thể kích hoạt {4} lần mỗi {3} giây.",
+    "new_translation_vi": "Khi HP của Resonator giảm xuống dưới {0}, Sát Thương Đòn Heavy Attack tăng thêm {1} và hồi {2} HP khi gây Sát Thương Đòn Heavy Attack. Hiệu ứng này có thể kích hoạt {4} lần mỗi {3} giây.",
     "translator_note": ""
   },
   {
@@ -11621,7 +11621,7 @@
     "ai_reason": "",
     "source_en": "When Intro Skill is cast, increases ATK by {0}, lasting for {1}s.",
     "review_note": "",
-    "new_translation_vi": "Khi Kỹ Năng Giới Thiệu được kích hoạt, tăng Tấn Công {0}, kéo dài trong {1} giây.",
+    "new_translation_vi": "Khi Kỹ Năng Giới Thiệu được kích hoạt, tăng ATK {0}, kéo dài trong {1} giây.",
     "translator_note": ""
   },
   {
@@ -11671,7 +11671,7 @@
     "ai_reason": "",
     "source_en": "Upon using Resonance Liberation, Basic Attack DMG and Heavy Attack DMG are increased by {0}% for 10s.",
     "review_note": "",
-    "new_translation_vi": "Khi dùng Resonance Liberation, Sát Thương Basic Attack và Heavy Attack tăng {0}% trong 10 giây.",
+    "new_translation_vi": "Khi dùng Resonance Liberation, Sát Thương Đòn Cơ Bản và Đòn Nặng tăng {0}% trong 10 giây.",
     "translator_note": ""
   },
   {
@@ -11696,7 +11696,7 @@
     "ai_reason": "",
     "source_en": "Equipped Resonator gains {0} stack(s) of Oath upon entering the battlefield. Each stack increases ATK by {1}, up to {2} stacks. This effect can be triggered {4} time(s) every {3}s. The equipped Resonator loses {6} stack(s) of Oath every {5}s, and gains {7} stack(s) upon defeating an enemy.",
     "review_note": "",
-    "new_translation_vi": "Resonator được trang bị nhận {0} tầng Lời Thề khi vào chiến trường. Mỗi tầng tăng Tấn Công thêm {1}, tối đa {2} tầng. Hiệu ứng này có thể kích hoạt {4} lần mỗi {3} giây. Resonator mất {6} tầng Lời Thề sau mỗi {5} giây và nhận {7} tầng khi đánh bại kẻ địch.",
+    "new_translation_vi": "Resonator được trang bị nhận {0} tầng Lời Thề khi vào chiến trường. Mỗi tầng tăng ATK thêm {1}, tối đa {2} tầng. Hiệu ứng này có thể kích hoạt {4} lần mỗi {3} giây. Resonator mất {6} tầng Lời Thề sau mỗi {5} giây và nhận {7} tầng khi đánh bại kẻ địch.",
     "translator_note": ""
   },
   {
@@ -11746,7 +11746,7 @@
     "ai_reason": "",
     "source_en": "Casting the Resonance Skill grants {0} Resonance Energy and increases ATK by {1}, lasting for {2}s. This effect can be triggered once every {3}s.",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Resonance Skill sẽ nhận {0} Resonance Energy và tăng Tấn Công lên {1}, kéo dài {2} giây. Hiệu ứng này chỉ kích hoạt mỗi {3} giây một lần.",
+    "new_translation_vi": "Kích hoạt Resonance Skill sẽ nhận {0} Resonance Energy và tăng ATK lên {1}, kéo dài {2} giây. Hiệu ứng này chỉ kích hoạt mỗi {3} giây một lần.",
     "translator_note": ""
   },
   {
@@ -11771,7 +11771,7 @@
     "ai_reason": "",
     "source_en": "Increases ATK by {0}.",
     "review_note": "",
-    "new_translation_vi": "Tăng ATK thêm {0}.",
+    "new_translation_vi": "Tăng ATK {0}.",
     "translator_note": ""
   },
   {
@@ -11796,7 +11796,7 @@
     "ai_reason": "",
     "source_en": "Increases ATK by {0}.",
     "review_note": "",
-    "new_translation_vi": "Tăng ATK thêm {0}.",
+    "new_translation_vi": "Tăng ATK {0}.",
     "translator_note": ""
   },
   {
@@ -11821,7 +11821,7 @@
     "ai_reason": "",
     "source_en": "When Intro Skill is cast, increases ATK by {0}, lasting for {1}s.",
     "review_note": "",
-    "new_translation_vi": "Khi Kỹ Năng Giới Thiệu được kích hoạt, tăng Tấn Công {0}, kéo dài trong {1} giây.",
+    "new_translation_vi": "Khi Kỹ Năng Giới Thiệu được kích hoạt, tăng ATK {0}, kéo dài trong {1} giây.",
     "translator_note": ""
   },
   {
@@ -11846,7 +11846,7 @@
     "ai_reason": "",
     "source_en": "After using Resonance Liberation, ATK is increased by {0}% for 12s.",
     "review_note": "",
-    "new_translation_vi": "Sau khi sử dụng Resonance Liberation, ATK is increased by {0}% trong 12 giây.",
+    "new_translation_vi": "Sau khi sử dụng Resonance Liberation, ATK tăng {0}% trong 12 giây.",
     "translator_note": ""
   },
   {
@@ -11946,7 +11946,7 @@
     "ai_reason": "",
     "source_en": "When Dodge Counter is cast, heals {0} of the Resonator's Max HP. This effect can be triggered {2} time(s) every {1}s.",
     "review_note": "",
-    "new_translation_vi": "Khi sử dụng Dodge Counter, hồi {0} HP tối đa của Resonator. Hiệu ứng này có thể kích hoạt {2} lần mỗi {1} giây.",
+    "new_translation_vi": "Khi sử dụng Dodge Counter Tránh, hồi {0} HP tối đa của Resonator. Hiệu ứng này có thể kích hoạt {2} lần mỗi {1} giây.",
     "translator_note": ""
   },
   {
@@ -11996,7 +11996,7 @@
     "ai_reason": "",
     "source_en": "When the Resonator takes no damage, increases ATK by {1} every {0}s, stacking up to {2} time(s). This effect lasts for {3}s. When the Resonator takes damage, loses {4} stacks and heals {5} of their Max HP.",
     "review_note": "",
-    "new_translation_vi": "Khi Resonator không chịu sát thương, Tấn Công tăng thêm {1} sau mỗi {0} giây, có thể chồng chất lên đến {2} lần. Hiệu ứng này kéo dài {3} giây. Khi Resonator chịu sát thương, sẽ mất {4} lượt chồng chất và hồi {5} HP tối đa.",
+    "new_translation_vi": "Khi Resonator không chịu sát thương, ATK tăng thêm {1} sau mỗi {0} giây, có thể chồng chất lên đến {2} lần. Hiệu ứng này kéo dài {3} giây. Khi Resonator chịu sát thương, sẽ mất {4} lượt chồng chất và hồi {5} HP tối đa.",
     "translator_note": ""
   },
   {
@@ -12096,7 +12096,7 @@
     "ai_reason": "",
     "source_en": "Upon using Resonance Liberation, ATK is increased by {0}% for 12s.",
     "review_note": "",
-    "new_translation_vi": "Khi dùng Resonance Liberation, ATK is increased by {0}% trong 12 giây.",
+    "new_translation_vi": "Khi dùng Resonance Liberation, ATK tăng {0}% trong 12 giây.",
     "translator_note": ""
   },
   {
@@ -12121,7 +12121,7 @@
     "ai_reason": "",
     "source_en": "When the Resonator dashes or dodges, increases ATK by {0}, stacking up to {2} time(s). This effect lasts for {1}s.",
     "review_note": "",
-    "new_translation_vi": "Khi Resonator chạy hoặc Dodge, Tấn Công tăng {0}, tối đa {2} lần. Hiệu ứng kéo dài {1} giây.",
+    "new_translation_vi": "Khi Resonator chạy hoặc né tránh, ATK tăng {0}, tối đa {2} lần. Hiệu ứng kéo dài {1} giây.",
     "translator_note": ""
   },
   {
@@ -12146,7 +12146,7 @@
     "ai_reason": "",
     "source_en": "When hitting a target with Basic Attacks or Heavy Attacks, increases Resonance Skill DMG Bonus by {0}, stacking up to {1} time(s). This effect lasts for {2}s and can be triggered {4} time(s) every {3}s.",
     "review_note": "",
-    "new_translation_vi": "Khi đánh trúng mục tiêu bằng Basic Attack hoặc Đòn Tấn Công Nặng, tăng Sát Thương Resonance Skill thêm {0}, chồng chất tối đa {1} lần. Hiệu ứng kéo dài {2} giây và có thể kích hoạt {4} lần mỗi {3} giây.",
+    "new_translation_vi": "Khi đánh trúng mục tiêu bằng Đòn Basic Attack hoặc Đòn Heavy Attack, tăng Sát Thương Resonance Skill thêm {0}, chồng chất tối đa {1} lần. Hiệu ứng kéo dài {2} giây và có thể kích hoạt {4} lần mỗi {3} giây.",
     "translator_note": ""
   },
   {
@@ -12171,7 +12171,7 @@
     "ai_reason": "",
     "source_en": "Casting the Resonance Skill grants {0} Resonance Energy and increases ATK by {1}, lasting for {2}s. This effect can be triggered once every {3}s.",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Resonance Skill sẽ nhận {0} Resonance Energy và tăng Tấn Công lên {1}, kéo dài {2} giây. Hiệu ứng này chỉ kích hoạt mỗi {3} giây một lần.",
+    "new_translation_vi": "Kích hoạt Resonance Skill sẽ nhận {0} Resonance Energy và tăng ATK lên {1}, kéo dài {2} giây. Hiệu ứng này chỉ kích hoạt mỗi {3} giây một lần.",
     "translator_note": ""
   },
   {
@@ -12196,7 +12196,7 @@
     "ai_reason": "",
     "source_en": "Increases ATK by {0}.",
     "review_note": "",
-    "new_translation_vi": "Tăng ATK thêm {0}.",
+    "new_translation_vi": "Tăng ATK {0}.",
     "translator_note": ""
   },
   {
@@ -12221,7 +12221,7 @@
     "ai_reason": "",
     "source_en": "Increases ATK by {0}.",
     "review_note": "",
-    "new_translation_vi": "Tăng ATK thêm {0}.",
+    "new_translation_vi": "Tăng ATK {0}.",
     "translator_note": ""
   },
   {
@@ -12246,7 +12246,7 @@
     "ai_reason": "",
     "source_en": "When Intro Skill is cast, increases ATK by {0}, lasting for {1}s.",
     "review_note": "",
-    "new_translation_vi": "Khi Kỹ Năng Giới Thiệu được kích hoạt, tăng Tấn Công {0}, kéo dài trong {1} giây.",
+    "new_translation_vi": "Khi Kỹ Năng Giới Thiệu được kích hoạt, tăng ATK {0}, kéo dài trong {1} giây.",
     "translator_note": ""
   },
   {
@@ -12271,7 +12271,7 @@
     "ai_reason": "",
     "source_en": "After using Resonance Skill, Heavy Attacks ignore {0}% of target DEF for 8s.",
     "review_note": "",
-    "new_translation_vi": "Sau khi sử dụng Resonance Skill, Đòn Tấn Công Nặng bỏ qua {0}% Phòng Ngự của mục tiêu trong 8 giây.",
+    "new_translation_vi": "Sau khi sử dụng Resonance Skill, Đòn Heavy Attack bỏ qua {0}% Phòng Ngự của mục tiêu trong 8 giây.",
     "translator_note": ""
   },
   {
@@ -12346,7 +12346,7 @@
     "ai_reason": "",
     "source_en": "Increases Energy Regen by {0}. When hitting a target with Resonance Skill, increases Basic Attack DMG Bonus by {1}, lasting for {2}s. When hitting a target with Basic Attacks, increases Resonance Skill DMG Bonus by {3}, lasting for {4}s.",
     "review_note": "",
-    "new_translation_vi": "Tăng Tái Tạo Năng Lượng thêm {0}. Khi trúng mục tiêu bằng Resonance Skill, tăng Sát Thương Basic Attack thêm {1}, kéo dài trong {2} giây. Khi trúng mục tiêu bằng Basic Attack, tăng Sát Thương Resonance Skill thêm {3}, kéo dài trong {4} giây.",
+    "new_translation_vi": "Tăng Tái Tạo Năng Lượng thêm {0}. Khi trúng mục tiêu bằng Resonance Skill, tăng Sát Thương Đòn Basic Attack thêm {1}, kéo dài trong {2} giây. Khi trúng mục tiêu bằng Đòn Basic Attack, tăng Sát Thương Resonance Skill thêm {3}, kéo dài trong {4} giây.",
     "translator_note": ""
   },
   {
@@ -12446,7 +12446,7 @@
     "ai_reason": "",
     "source_en": "When the Resonator dashes or dodges, increases ATK by {0}. Increases Dodge Counter DMG by {1}, lasting for {2}s. When Dodge Counter is performed, heals {3} of the Resonator's Max HP. This effect can be triggered {5} time(s) every {4}s.",
     "review_note": "",
-    "new_translation_vi": "Khi Resonator chạy hoặc Dodge, Tấn Công tăng {0}. Sát Thương Dodge Counter tăng {1}, kéo dài {2} giây. Khi thực hiện Dodge Counter, hồi {3} HP tối đa. Hiệu ứng này có thể kích hoạt {5} lần mỗi {4} giây.",
+    "new_translation_vi": "Khi Resonator chạy hoặc né tránh, ATK tăng {0}. Sát Thương Dodge Counter tăng {1}, kéo dài {2} giây. Khi thực hiện Dodge Counter, hồi {3} HP tối đa. Hiệu ứng này có thể kích hoạt {5} lần mỗi {4} giây.",
     "translator_note": ""
   },
   {
@@ -12496,7 +12496,7 @@
     "ai_reason": "",
     "source_en": "When Intro Skill is cast, increases Resonance Liberation DMG Bonus by {0}, lasting for {1}s.",
     "review_note": "",
-    "new_translation_vi": "Khi Kỹ Năng Giới Thiệu được kích hoạt, tăng Sát Thương Resonance Liberation {0}, kéo dài trong {1} giây.",
+    "new_translation_vi": "Khi Kỹ Năng Giới Thiệu được kích hoạt, tăng Sát Thương Giải Cứu Cộng Hưởng {0}, kéo dài trong {1} giây.",
     "translator_note": ""
   }
 ]

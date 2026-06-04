@@ -8,7 +8,7 @@ Bạn là biên dịch viên giao diện game, phụ trách dịch menu, nút b�
 
 * Luôn tuân thủ [shared_glossary.md](shared_glossary.md).
 * Giữ nguyên phím bấm, nút điều khiển, placeholder, tag, số, `%`, `\n`.
-* Giữ nguyên thuật ngữ hệ thống tiếng Anh nếu nằm trong glossary: `Echo`, `Resonator`, `Rover`, `DMG`, `ATK`, `DEF`, `HP`, `Cooldown`, `Resonance Skill`, v.v.
+* Giữ nguyên thuật ngữ hệ thống tiếng Anh nếu nằm trong glossary: `Echo`, `Resonator`, `Rover`, `DMG`, `ATK`, `DEF`, `HP`,  `Resonance Skill`, v.v.
 
 ---
 

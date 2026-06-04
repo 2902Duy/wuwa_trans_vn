@@ -24,10 +24,23 @@ Tài liệu này định nghĩa các nhóm dòng văn bản không cần gửi �
 > - `Training Broadblade`
 > - `Broadblade of night`
 > - `Ultrasonic Matrix`
+> - `Emerald of Genesis`
+> - `Verdant Summit`
+> - `Static Mist`
+> - `Stringmaster`
+> - `Abyss Surges`
+> - `Lumingloss`
+> - `Discord`
+> - `Autumntrace`
+> - `Guardian Broadblade`
+> - `Broadblade of Voyager`
+> - `Aether Strike`
+> - `Beguiling Melody`
 
 > [!WARNING]
 > **Không áp dụng quy tắc này cho:**
 > - Từ đơn lẻ `Weapon` -> Vẫn có thể dịch là `Vũ khí`.
+> - Các từ chỉ loại/phân loại vũ khí chính đứng độc lập hoặc trong cụm từ UI (ví dụ: `Sword` -> `Kiếm đơn`, `Broadblade` -> `Đại kiếm`, `Pistols` -> `Súng`, `Gauntlets` -> `Găng tay`, `Rectifier` -> `Pháp khí`).
 > - Các câu mô tả cốt truyện (lore) dài của vũ khí.
 > - Các dòng mô tả hiệu ứng chứa các chỉ số như `ATK`, `DMG`, `HP`.
 
@@ -53,7 +66,14 @@ Tài liệu này định nghĩa các nhóm dòng văn bản không cần gửi �
 > - `Hoochief`
 > - `Sentinel`
 > - `Sentinel Jué`
-
+> - `Impermanence Heron`
+> - `Thundering Mephis`
+> - `Mourning Aix`
+> - `Chasm Rider`
+> - `Traffic Illuminator`
+> - `Flautist`
+> - `Abyssal Gladius`
+> - `Aero Predator`
 
 > [!WARNING]
 > **Không áp dụng quy tắc này cho:**
@@ -63,7 +83,21 @@ Tài liệu này định nghĩa các nhóm dòng văn bản không cần gửi �
 
 ---
 
-## 3. Tên Bộ Echo (Echo Set Names)
+## 3. Tên Nhân vật & Địa danh (Resonator & Location Names)
+
+* **Tệp tin áp dụng**: `lang_role.json`, `lang_map.json`, `lang_multi_text.json`
+* **Điều kiện lọc**:
+  - Tên bảng: `table = "RoleInfo"`, `table = "MapBoundary"`, `table = "MultiText"`
+  - Định dạng: Dòng ngắn chứa tên riêng nhân vật hoặc tên địa danh.
+
+> [!TIP]
+> **Ví dụ giữ nguyên:**
+> > - Nhân vật: `Aalto`, `Abby`, `Aemeath`, `An'ke`, `Augusta`, `Bailian`, `Baizhi`, `Calcharo`, `Camellya`, `Carlotta`, `Changli`, `Chixia`, `Danjin`, `Denia`, `Encore`, `Geshu Lin`, `Hiyuki`...
+> - Địa danh: `Ashinohara`, `Asphodel Barrens`, `Avinoleum`, `Beohr Waters`, `Bjartr Woods`, `Black Alley`, `Black Shores Archipelago`, `Capitoline Hill`, `Central Plains`, `Chamber of Discipline`, `Chronorift Metropolis`, `Corrosive Ruins`, `Desorock Highland`, `Dim Forest`, `Fabricatorium of the Deep`, `Fisalia`, `Gorges of Spirits`, `Septimont`...
+
+---
+
+## 4. Tên Bộ Echo (Echo Set Names)
 
 * **Tệp tin áp dụng**: `lang_phantom.json`
 * **Điều kiện lọc**:
@@ -80,7 +114,7 @@ Tài liệu này định nghĩa các nhóm dòng văn bản không cần gửi �
 
 ---
 
-## 4. Waveplate, tài nguyên và tiền tệ trong game
+## 5. Waveplate, tài nguyên và tiền tệ trong game
 
 * **Tệp tin áp dụng**: các bảng vật phẩm, shop, pay shop, UI, reward và mọi dòng mô tả có nhắc tài nguyên/tiền tệ.
 * **Điều kiện lọc**:
@@ -112,7 +146,7 @@ Tài liệu này định nghĩa các nhóm dòng văn bản không cần gửi �
 
 ---
 
-## 5. Tên Nút Cộng Hưởng / Resonance Chain (RC Nodes)
+## 6. Tên Nút Cộng Hưởng / Resonance Chain (RC Nodes)
 
 * **Tệp tin áp dụng**: `lang_multi_text.json`
 * **Điều kiện lọc**:
@@ -126,7 +160,7 @@ Tài liệu này định nghĩa các nhóm dòng văn bản không cần gửi �
 
 ---
 
-## 6. Tên Kỹ Năng Nhân Vật (Character Skill Names)
+## 7. Tên Kỹ Năng Nhân Vật (Character Skill Names)
 
 * **Tệp tin áp dụng**:
   - `lang_multi_text.json`
@@ -134,8 +168,8 @@ Tài liệu này định nghĩa các nhóm dòng văn bản không cần gửi �
   - `lang_skillTree.json`
 * **Điều kiện lọc**:
   - Khóa chính (`primary_key`) chứa cụm từ `_SkillName`
-  - Hoặc `primary_key` bắt đầu bằng `Skill_` và kết thúc bằng `_SkillName`
-  - Hoặc `primary_key` bắt đầu bằng `RoleSkillTreeInfo_` và kết thúc bằng `_Title`
+  - Hoặc `primary_key` bắt đầu bằng `Skill_` and kết thúc bằng `_SkillName`
+  - Hoặc `primary_key` bắt đầu bằng `RoleSkillTreeInfo_` and kết thúc bằng `_Title`
   - Hoặc tên bảng `table = "Skill"` trong tệp `lang_skill.json`
   - Hoặc tên bảng `table = "RoleSkillTreeInfo"` trong tệp `lang_skillTree.json`
 

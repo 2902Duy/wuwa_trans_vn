@@ -546,7 +546,7 @@
     "ai_reason": "",
     "source_en": "<color=#fffff1>{0}</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#fffff1>{0}</color>",
+    "new_translation_vi": "{0}",
     "translator_note": ""
   },
   {
@@ -746,7 +746,7 @@
     "ai_reason": "",
     "source_en": "Perfect! Now let's add some <color=#b88119>diced fruit</color>.",
     "review_note": "",
-    "new_translation_vi": "Tuyệt! Giờ thêm chút <color=#b88119>diced fruit</color> vào nhé.",
+    "new_translation_vi": "Tuyệt! Giờ thêm chút <color=#b88119>trái cây thái hạt lựu</color> vào nhé.",
     "translator_note": ""
   },
   {
@@ -771,7 +771,7 @@
     "ai_reason": "",
     "source_en": "Perfect! Now let's add some <color=#b88119>fresh fruit</color>.",
     "review_note": "",
-    "new_translation_vi": "Tuyệt! Giờ thêm chút <color=#b88119>fresh fruit</color> vào nào.",
+    "new_translation_vi": "Tuyệt! Giờ thêm chút <color=#b88119>trái cây tươi</color> vào nào.",
     "translator_note": ""
   },
   {
@@ -796,7 +796,7 @@
     "ai_reason": "",
     "source_en": "Perfect! Now let's brighten it up with a <color=#b88119>lemony aromatic</color>.",
     "review_note": "",
-    "new_translation_vi": "Tuyệt! Giờ làm sáng vị lên bằng một chút <color=#b88119>lemony aromatic</color> nhé.",
+    "new_translation_vi": "Tuyệt! Giờ làm sáng vị lên bằng một chút <color=#b88119>hương chanh thơm mát</color> nhé.",
     "translator_note": ""
   },
   {
@@ -971,7 +971,7 @@
     "ai_reason": "",
     "source_en": "What if you added <color=#b88119>some leaves symbolic of the Laureate of the Carnevale</color>?",
     "review_note": "",
-    "new_translation_vi": "Nếu cậu thêm <color=#b88119>some leaves symbolic of the Laureate of the Carnevale</color> thì sao?",
+    "new_translation_vi": "Nếu cậu thêm <color=#b88119>vài chiếc lá tượng trưng cho Người Chiến Thắng Carnevale</color> thì sao?",
     "translator_note": ""
   },
   {
@@ -996,7 +996,7 @@
     "ai_reason": "",
     "source_en": "A few <color=#b88119>red berries</color>, perhaps?",
     "review_note": "",
-    "new_translation_vi": "Vài quả <color=#b88119>red berries</color> chăng?",
+    "new_translation_vi": "Vài quả <color=#b88119>dâu đỏ</color> chăng?",
     "translator_note": ""
   },
   {
@@ -1021,7 +1021,7 @@
     "ai_reason": "",
     "source_en": "Some <color=#b88119>sliced fruit</color> would be lovely.",
     "review_note": "",
-    "new_translation_vi": "Thêm chút <color=#b88119>sliced fruit</color> thì thật tuyệt vời.",
+    "new_translation_vi": "Thêm chút <color=#b88119>trái cây thái lát</color> thì thật tuyệt vời.",
     "translator_note": ""
   },
   {
@@ -1196,7 +1196,7 @@
     "ai_reason": "",
     "source_en": "Some <color=#b88119>cookie crumbs</color>, please.",
     "review_note": "",
-    "new_translation_vi": "Làm ơn cho tớ ít <color=#b88119>cookie crumbs</color> nhé.",
+    "new_translation_vi": "Làm ơn cho tớ ít <color=#b88119>vụn bánh quy</color> nhé.",
     "translator_note": ""
   },
   {
@@ -1221,7 +1221,7 @@
     "ai_reason": "",
     "source_en": "Some <color=#b88119>chocolate marshmallows</color> might be nice.",
     "review_note": "",
-    "new_translation_vi": "Thêm chút <color=#b88119>chocolate marshmallows</color> thì tuyệt biết mấy.",
+    "new_translation_vi": "Thêm chút <color=#b88119>kẹo dẻo socola</color> thì tuyệt biết mấy.",
     "translator_note": ""
   },
   {
@@ -1246,7 +1246,7 @@
     "ai_reason": "",
     "source_en": "Some <color=#b88119>bitter nuts</color>, please.",
     "review_note": "",
-    "new_translation_vi": "Cho tớ ít <color=#b88119>bitter nuts</color> đi.",
+    "new_translation_vi": "Cho tớ ít <color=#b88119>hạt đắng</color> đi.",
     "translator_note": ""
   },
   {
@@ -1786,7 +1786,7 @@
     "primary_key": "Spring26_MainHud_PassProgress",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -1796,7 +1796,7 @@
     "ai_reason": "",
     "source_en": "<color=#ffd452>{0}</color>/{1}",
     "review_note": "",
-    "new_translation_vi": "<\\color=#ffd452>{0}</color>/{1}",
+    "new_translation_vi": "{0}/{1}",
     "translator_note": ""
   },
   {
@@ -2221,7 +2221,7 @@
     "ai_reason": "",
     "source_en": "???",
     "review_note": "",
-    "new_translation_vi": "???",
+    "new_translation_vi": "Cái gì cơ???",
     "translator_note": ""
   },
   {
@@ -5396,7 +5396,7 @@
     "ai_reason": "",
     "source_en": "<color=Highlight>Off-Tune Buildup Rate</color> is increased by 300%.",
     "review_note": "",
-    "new_translation_vi": "<color=Highlight>Off-Tune Buildup Rate</color> tăng 300%.",
+    "new_translation_vi": "<color=Highlight>Tốc Độ Tích Lũy Lệch Nhịp</color> tăng 300%.",
     "translator_note": ""
   },
   {
@@ -5421,7 +5421,7 @@
     "ai_reason": "",
     "source_en": "Casting <color=Highlight>Tune Break</color> fires Deadly Design.",
     "review_note": "",
-    "new_translation_vi": "Khi sử dụng <color=Highlight>Tune Break</color>, bắn ra Thiết Kế Tử Thần.",
+    "new_translation_vi": "Khi sử dụng <color=Highlight>Phá Nhịp</color>, bắn ra Thiết Kế Tử Thần.",
     "translator_note": ""
   },
   {
@@ -6336,7 +6336,7 @@
     "primary_key": "DIY_FurPlantCard_Desc_01",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -6361,7 +6361,7 @@
     "primary_key": "DIY_FurPlantCard_Desc_02",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -6386,7 +6386,7 @@
     "primary_key": "DIY_FurPlantCard_Desc_03",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -6411,7 +6411,7 @@
     "primary_key": "DIY_FurPlantCard_Desc_04",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -6436,7 +6436,7 @@
     "primary_key": "DIY_FurPlantCard_Desc_05",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -6461,7 +6461,7 @@
     "primary_key": "DIY_FurPlantCard_Desc_06",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -6486,7 +6486,7 @@
     "primary_key": "DIY_FurPlantCard_Desc_07",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -6511,7 +6511,7 @@
     "primary_key": "DIY_FurPlantCard_Desc_08",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -6536,7 +6536,7 @@
     "primary_key": "DIY_FurPlantCard_Desc_09",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -6561,7 +6561,7 @@
     "primary_key": "DIY_FurPlantYardA_Desc_01",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -6586,7 +6586,7 @@
     "primary_key": "DIY_FurPlantYardA_Desc_02",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -6611,7 +6611,7 @@
     "primary_key": "DIY_FurPlantYardA_Desc_03",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -6636,7 +6636,7 @@
     "primary_key": "DIY_FurPlantYardA_Desc_04",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -6661,7 +6661,7 @@
     "primary_key": "DIY_FurPlantYardA_Desc_05",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -6711,7 +6711,7 @@
     "primary_key": "DIY_FurPlantYardA_Desc_07",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -6736,7 +6736,7 @@
     "primary_key": "DIY_FurPlantYardA_Desc_08",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -6761,7 +6761,7 @@
     "primary_key": "DIY_FurPlantYardA_Desc_09",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -6786,7 +6786,7 @@
     "primary_key": "DIY_FurPlantYardB_Desc_01",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -6811,7 +6811,7 @@
     "primary_key": "DIY_FurPlantYardB_Desc_02",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -6836,7 +6836,7 @@
     "primary_key": "DIY_FurPlantYardB_Desc_03",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -6861,7 +6861,7 @@
     "primary_key": "DIY_FurPlantYardB_Desc_04",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -6886,7 +6886,7 @@
     "primary_key": "DIY_FurPlantYardB_Desc_05",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -6911,7 +6911,7 @@
     "primary_key": "DIY_FurPlantYardB_Desc_06",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -6936,7 +6936,7 @@
     "primary_key": "DIY_FurPlantYardB_Desc_07",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -6961,7 +6961,7 @@
     "primary_key": "DIY_FurPlantYardB_Desc_08",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -6986,7 +6986,7 @@
     "primary_key": "DIY_FurPlantYardB_Desc_09",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -7011,7 +7011,7 @@
     "primary_key": "DIY_FurPlantYardC_Desc_01",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -7036,7 +7036,7 @@
     "primary_key": "DIY_FurPlantYardC_Desc_02",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -7061,7 +7061,7 @@
     "primary_key": "DIY_FurPlantYardC_Desc_03",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -7086,7 +7086,7 @@
     "primary_key": "DIY_FurPlantYardC_Desc_04",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -7111,7 +7111,7 @@
     "primary_key": "DIY_FurPlantYardC_Desc_05",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -7136,7 +7136,7 @@
     "primary_key": "DIY_FurPlantYardC_Desc_06",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -7161,7 +7161,7 @@
     "primary_key": "DIY_FurPlantYardC_Desc_07",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -7186,7 +7186,7 @@
     "primary_key": "DIY_FurPlantYardC_Desc_08",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -7211,7 +7211,7 @@
     "primary_key": "DIY_FurPlantYardC_Desc_09",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -7236,7 +7236,7 @@
     "primary_key": "DIY_FurPlantPoolA_Desc_01",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -7261,7 +7261,7 @@
     "primary_key": "DIY_FurPlantPoolA_Desc_02",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -7286,7 +7286,7 @@
     "primary_key": "DIY_FurPlantPoolA_Desc_03",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -7311,7 +7311,7 @@
     "primary_key": "DIY_FurPlantPoolA_Desc_04",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -7336,7 +7336,7 @@
     "primary_key": "DIY_FurPlantPoolA_Desc_05",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -7361,7 +7361,7 @@
     "primary_key": "DIY_FurPlantPoolA_Desc_06",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -7386,7 +7386,7 @@
     "primary_key": "DIY_FurPlantPoolA_Desc_07",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -7411,7 +7411,7 @@
     "primary_key": "DIY_FurPlantPoolA_Desc_08",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -7436,7 +7436,7 @@
     "primary_key": "DIY_FurPlantPoolA_Desc_09",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -7461,7 +7461,7 @@
     "primary_key": "DIY_FurPlantPoolB_Desc_01",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -7486,7 +7486,7 @@
     "primary_key": "DIY_FurPlantPoolB_Desc_02",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -7511,7 +7511,7 @@
     "primary_key": "DIY_FurPlantPoolB_Desc_03",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -7536,7 +7536,7 @@
     "primary_key": "DIY_FurPlantPoolB_Desc_04",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -7561,7 +7561,7 @@
     "primary_key": "DIY_FurPlantPoolB_Desc_05",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -7586,7 +7586,7 @@
     "primary_key": "DIY_FurPlantPoolB_Desc_06",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -7611,7 +7611,7 @@
     "primary_key": "DIY_FurPlantPoolB_Desc_07",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -7636,7 +7636,7 @@
     "primary_key": "DIY_FurPlantPoolB_Desc_08",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -7661,7 +7661,7 @@
     "primary_key": "DIY_FurPlantPoolB_Desc_09",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:\\n",
     "rule_decision": "RETRY",
     "rule_score": 8,
@@ -7746,7 +7746,7 @@
     "ai_reason": "",
     "source_en": "Full Throttle! Bolt & Blitz!",
     "review_note": "",
-    "new_translation_vi": "Tăng tốc! Bolt & Blitz!",
+    "new_translation_vi": "Tốc Lực Tối Đa! Sấm Chớp & Tia Lửa!",
     "translator_note": ""
   },
   {
@@ -7771,7 +7771,7 @@
     "ai_reason": "",
     "source_en": "Rein Back! Migration Mayhem!",
     "review_note": "",
-    "new_translation_vi": "Kìm Hãm! Hỗn Loạn Di Cư!",
+    "new_translation_vi": "Thuần Phục! Hỗn Loạn Di Cư!",
     "translator_note": ""
   },
   {
@@ -7821,7 +7821,7 @@
     "ai_reason": "",
     "source_en": "Around a Sonoro Sphere, you run across a troubled researcher, who seems to have an important job to do...",
     "review_note": "",
-    "new_translation_vi": "Xung quanh một Quả Cầu Sonoro, cậu tình cờ gặp một nhà nghiên cứu đang gặp rắc rối, dường như hắn có việc quan trọng cần làm...",
+    "new_translation_vi": "Xung quanh một Sonoro Sphere, cậu tình cờ gặp một nhà nghiên cứu đang gặp rắc rối, dường như hắn có việc quan trọng cần làm...",
     "translator_note": ""
   },
   {
@@ -7871,7 +7871,7 @@
     "ai_reason": "",
     "source_en": "Full Throttle! Bolt & Blitz!",
     "review_note": "",
-    "new_translation_vi": "Tăng tốc! Bolt & Blitz!",
+    "new_translation_vi": "Tốc Lực Tối Đa! Sấm Chớp & Tia Lửa!",
     "translator_note": ""
   },
   {
@@ -7896,7 +7896,7 @@
     "ai_reason": "",
     "source_en": "Rein Back! Migration Mayhem!",
     "review_note": "",
-    "new_translation_vi": "Kìm Hãm! Hỗn Loạn Di Cư!",
+    "new_translation_vi": "Thuần Phục! Hỗn Loạn Di Cư!",
     "translator_note": ""
   },
   {
@@ -7946,7 +7946,7 @@
     "ai_reason": "",
     "source_en": "During the event, you can directly claim Lustrous Tide x1. Reach Moonlit Ring milestones to unlock the corresponding rewards.",
     "review_note": "",
-    "new_translation_vi": "Trong sự kiện, bạn có thể nhận trực tiếp Thủy Triều Lấp Lánh x1. Đạt các mốc Nhẫn Ánh Trăng để mở khóa phần thưởng tương ứng.",
+    "new_translation_vi": "Trong sự kiện, bạn có thể nhận trực tiếp Lustrous Tide x1. Đạt các mốc Nhẫn Ánh Trăng để mở khóa phần thưởng tương ứng.",
     "translator_note": ""
   },
   {
@@ -7971,7 +7971,7 @@
     "ai_reason": "",
     "source_en": "A wordless black mech, lost and longing to return home.",
     "review_note": "",
-    "new_translation_vi": "Một cỗ máy đen không lời, lạc lõng và khao khát trở về nhà.",
+    "new_translation_vi": "Một cỗ máy đen im lặng, lạc lõng và khao khát trở về nhà.",
     "translator_note": ""
   },
   {
@@ -8646,7 +8646,7 @@
     "ai_reason": "",
     "source_en": "<color=#a754f0>Healing is reduced.</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#a754f0>Healing is reduced.</color>",
+    "new_translation_vi": "<color=#a754f0>Hiệu quả hồi phục HP bị giảm.</color>",
     "translator_note": ""
   },
   {
@@ -8671,7 +8671,7 @@
     "ai_reason": "",
     "source_en": "<color=#f0c154>More Memory Zones I.</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#f0c154>More Memory Zones I.</color>",
+    "new_translation_vi": "<color=#f0c154>Vùng Ký Ức Bổ Sung I.</color>",
     "translator_note": ""
   },
   {
@@ -8696,7 +8696,7 @@
     "ai_reason": "",
     "source_en": "<color=#f0c154>More Memory Zones II.</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#f0c154>More Memory Zones II.</color>",
+    "new_translation_vi": "<color=#f0c154>Vùng Ký Ức Bổ Sung II.</color>",
     "translator_note": ""
   },
   {
@@ -8721,7 +8721,7 @@
     "ai_reason": "",
     "source_en": "<color=#f0c154>More Memory Zones III.</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#f0c154>More Memory Zones III.</color>",
+    "new_translation_vi": "<color=#f0c154>Vùng Ký Ức Bổ Sung III.</color>",
     "translator_note": ""
   },
   {
@@ -8746,7 +8746,7 @@
     "ai_reason": "",
     "source_en": "<color=#f0c154>More Memory Zones IV.</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#f0c154>More Memory Zones IV.</color>",
+    "new_translation_vi": "<color=#f0c154>Vùng Ký Ức Bổ Sung IV.</color>",
     "translator_note": ""
   },
   {
@@ -8771,7 +8771,7 @@
     "ai_reason": "",
     "source_en": "<color=#f0c154>More Memory Zones V.</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#f0c154>More Memory Zones V.</color>",
+    "new_translation_vi": "<color=#f0c154>Vùng Ký Ức Bổ Sung V.</color>",
     "translator_note": ""
   },
   {
@@ -8796,7 +8796,7 @@
     "ai_reason": "",
     "source_en": "<color=#f0c154>Refresh cost doubled.</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#f0c154>Refresh cost doubled.</color>",
+    "new_translation_vi": "<color=#f0c154>Chi phí làm mới tăng gấp đôi.</color>",
     "translator_note": ""
   },
   {
@@ -8921,7 +8921,7 @@
     "ai_reason": "",
     "source_en": "Every <SapTag=0>{0}</SapTag> <color=Highlight>Attribute {Cus:Sap,S=Orb P=Orbs SapTag=0}</color> obtained grants {1} Dreamscape Fragments.",
     "review_note": "",
-    "new_translation_vi": "Mỗi <SapTag=0>{0}</SapTag> <color=Highlight>Attribute {Cus:Sap,S=Orb P=Orbs SapTag=0}</color> nhận được sẽ tăng {1} Mảnh Vực Mộng.",
+    "new_translation_vi": "Mỗi <SapTag=0>{0}</SapTag> <color=Highlight>Thuộc Tính {Cus:Sap,S=Orb P=Orbs SapTag=0}</color> nhận được sẽ tăng {1} Mảnh Vực Mộng.",
     "translator_note": ""
   },
   {
@@ -9096,7 +9096,7 @@
     "ai_reason": "",
     "source_en": "Entering certain Memory Zones may gain an extra <color=Highlight>Token</color>.",
     "review_note": "",
-    "new_translation_vi": "Khi bước vào một số Tổ Tacet, bạn có thể nhận thêm <color=Highlight>Token</color>.",
+    "new_translation_vi": "Khi bước vào một số Tổ Tacet, bạn có thể nhận thêm <color=Highlight>Mã Thông Báo</color>.",
     "translator_note": ""
   },
   {
@@ -9111,7 +9111,7 @@
     "primary_key": "RougeMiraclecreation_13003005_BriefDescribe",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "missing_token:<color=Highlight>|missing_token:</color>|missing_token:<color=Highlight>|missing_token:</color>",
     "rule_decision": "RETRY",
     "rule_score": 4,
@@ -9146,7 +9146,7 @@
     "ai_reason": "",
     "source_en": "Entering certain Memory Zones may gain an extra <color=Highlight>Metaphor</color>.",
     "review_note": "",
-    "new_translation_vi": "Khi bước vào một số Tổ Tacet, bạn có thể nhận thêm <color=Highlight>Metaphor</color>.",
+    "new_translation_vi": "Khi bước vào một số Tổ Tacet, bạn có thể nhận thêm <color=Highlight>Ẩn Dụ</color>.",
     "translator_note": ""
   },
   {
@@ -9196,7 +9196,7 @@
     "ai_reason": "",
     "source_en": "Every <SapTag=0>{0}</SapTag> <color=Highlight>Attribute {Cus:Sap,S=Orb P=Orbs SapTag=0}</color> obtained grants {1} Dreamscape Fragments.",
     "review_note": "",
-    "new_translation_vi": "Mỗi <SapTag=0>{0}</SapTag> <color=Highlight>Attribute {Cus:Sap,S=Orb P=Orbs SapTag=0}</color> nhận được sẽ tăng {1} Mảnh Vực Mộng.",
+    "new_translation_vi": "Mỗi <SapTag=0>{0}</SapTag> <color=Highlight>Thuộc Tính {Cus:Sap,S=Orb P=Orbs SapTag=0}</color> nhận được sẽ tăng {1} Mảnh Vực Mộng.",
     "translator_note": ""
   },
   {
@@ -10071,7 +10071,7 @@
     "ai_reason": "",
     "source_en": "The dice is set to roll in <color=Highlight>cycle of number</color>.",
     "review_note": "",
-    "new_translation_vi": "Xúc xắc được cài đặt để lăn theo <color=Highlight>cycle of number</color>.",
+    "new_translation_vi": "Xúc xắc được cài đặt để lăn theo <color=Highlight>chu kỳ số</color>.",
     "translator_note": ""
   },
   {
@@ -10096,7 +10096,7 @@
     "ai_reason": "",
     "source_en": "For each turn, there is a chance to <color=Highlight>double</color> the number rolled or <color=Highlight>stay still</color>.",
     "review_note": "",
-    "new_translation_vi": "Mỗi lượt, có cơ hội <color=Highlight>double</color> số bước đi hoặc <color=Highlight>stay still</color>.",
+    "new_translation_vi": "Mỗi lượt, có cơ hội <color=Highlight>nhân đôi</color> số bước đi hoặc <color=Highlight>đứng yên</color>.",
     "translator_note": ""
   },
   {
@@ -10146,7 +10146,7 @@
     "ai_reason": "",
     "source_en": "<color=Highlight>Advance or go backward further</color> when a mechanism is triggered.",
     "review_note": "",
-    "new_translation_vi": "Di chuyển <color=Highlight>Advance or go backward further</color> khi kích hoạt cơ chế.",
+    "new_translation_vi": "Di chuyển <color=Highlight>xa hơn về trước hoặc lùi lại</color> khi kích hoạt cơ chế.",
     "translator_note": ""
   },
   {
@@ -10171,7 +10171,7 @@
     "ai_reason": "",
     "source_en": "The two Cubes ahead advance <color=Highlight>1 fewer pad</color> this turn.",
     "review_note": "",
-    "new_translation_vi": "Hai Khối phía trước sẽ tiến <color=Highlight>1 fewer pad</color> trong lượt này.",
+    "new_translation_vi": "Hai Khối phía trước sẽ tiến <color=Highlight>ít hơn 1 ô</color> trong lượt này.",
     "translator_note": ""
   },
   {
@@ -10196,7 +10196,7 @@
     "ai_reason": "",
     "source_en": "When encountering Abbowser, <color=Highlight> advance an extra pad</color>.",
     "review_note": "",
-    "new_translation_vi": "Khi gặp Abbowser, <color=Highlight>advance an extra pad</color>.",
+    "new_translation_vi": "Khi gặp Abbowser, <color=Highlight>tiến thêm một ô</color>.",
     "translator_note": ""
   },
   {
@@ -10221,7 +10221,7 @@
     "ai_reason": "",
     "source_en": "<color=Highlight>Advance 2 extra pads</color> when rolling the same number again.",
     "review_note": "",
-    "new_translation_vi": "Đi thêm <color=Highlight>Advance 2 extra pads</color> khi xúc được số trùng với lần trước.",
+    "new_translation_vi": "Đi thêm <color=Highlight>2 ô</color> khi xúc được số trùng với lần trước.",
     "translator_note": ""
   },
   {
@@ -10246,7 +10246,7 @@
     "ai_reason": "",
     "source_en": "<color=Highlight>Advance 2 extra pads</color> when rolling the lowest number among others.",
     "review_note": "",
-    "new_translation_vi": "Đi thêm <color=Highlight>Advance 2 extra pads</color> khi xúc số thấp nhất trong số những người chơi khác.",
+    "new_translation_vi": "Đi thêm <color=Highlight>2 ô</color> khi xúc số thấp nhất trong số những người chơi khác.",
     "translator_note": ""
   },
   {
@@ -10271,7 +10271,7 @@
     "ai_reason": "",
     "source_en": "<color=Highlight>Advance 3 extra pads</color> when stacked at the bottom.",
     "review_note": "",
-    "new_translation_vi": "Đi thêm <color=Highlight>Advance 3 extra pads</color> khi bị xếp chồng ở ô cuối.",
+    "new_translation_vi": "Đi thêm <color=Highlight>3 ô</color> khi bị xếp chồng ở ô cuối.",
     "translator_note": ""
   },
   {
@@ -10536,7 +10536,7 @@
     "primary_key": "Dango_BulletChat_Aimisi_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "needs_review",
+    "status": "translated",
     "issues": "",
     "rule_decision": "RETRY",
     "rule_score": 4,

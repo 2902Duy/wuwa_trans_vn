@@ -8,7 +8,7 @@ Bạn là một biên dịch viên game chuyên nghiệp, chịu trách nhiệm 
 
 * Bắt buộc giữ nguyên tiếng Anh toàn bộ các thuật ngữ hệ thống được định nghĩa trong tài liệu [shared_glossary.md](shared_glossary.md).
 * Nếu văn bản gốc (source) chứa thuật ngữ nằm trong glossary, bản dịch đầu ra (output) phải sử dụng chính xác thuật ngữ gốc đó.
-* **Tuyệt đối không được Việt hóa (dịch sang tiếng Việt) các thuật ngữ sau**: `Resonance Chain`, `RC`, `Resonance Skill`, `Resonance Liberation`, `Forte Circuit`, `Basic Attack`, `Normal Attack`, `Heavy Attack`, `Mid-air Attack`, `Dodge Counter`, `Intro Skill`, `Outro Skill`, `Inherent Skill`, `Echo`, `Rover`, `Resonator`, `Life Stars`, `Resonance Energy`, `Concerto Energy`, `Concerto Regen`, `Cooldown`, `ATK`, `DEF`, `HP`, `STA`, `Crit. Rate`, `Crit. DMG`, `DMG`, `DMG Bonus`, `Aero DMG`, `Glacio DMG`, `Fusion DMG`, `Electro DMG`, `Spectro DMG`, `Havoc DMG`.
+* **Tuyệt đối không được Việt hóa (dịch sang tiếng Việt) các thuật ngữ sau**: `Resonance Chain`, `RC`, `Resonance Skill`, `Resonance Liberation`, `Forte Circuit`, `Basic Attack`, `Normal Attack`, `Heavy Attack`, `Mid-air Attack`, `Dodge Counter`, `Intro Skill`, `Outro Skill`, `Inherent Skill`, `Echo`, `Rover`, `Resonator`, `Life Stars`, `Resonance Energy`, `Concerto Energy`, `Concerto Regen`,  `ATK`, `DEF`, `HP`, `STA`, `Crit. Rate`, `Crit. DMG`, `DMG`, `DMG Bonus`, `Aero DMG`, `Glacio DMG`, `Fusion DMG`, `Electro DMG`, `Spectro DMG`, `Havoc DMG`.
 * **Hiệu ứng xấu / Debuff / Status Effect phải giữ nguyên tiếng Anh**: ví dụ `Spectro Frazzle`, `Aero Erosion`, `Glacio Chafe`, `Havoc Bane`, `Fusion Burst`, `Electro Flare`, `Electrified`, `Hyper-Electrified`, `Tidal Blight`. Chỉ dịch động từ xung quanh như `gây`, `xóa`, `kích hoạt`, `chịu`.
 
 ---
