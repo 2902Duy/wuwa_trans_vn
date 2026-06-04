@@ -1,0 +1,136 @@
+{
+  "total": 59336,
+  "counts": {
+    "keep_proper_name": 34434,
+    "translate_short_title": 9472,
+    "translate_short_ui_title": 7422,
+    "translate_ambiguous_name_title": 4997,
+    "translate_role_or_speaker_title": 1600,
+    "keep_item_weapon_echo_name": 799,
+    "keep_glossary_term": 287,
+    "keep_symbol_or_number": 212,
+    "keep_with_placeholder": 106,
+    "keep_placeholder_only": 7
+  },
+  "by_file": {
+    "lang_area.json": {
+      "keep_proper_name": 67
+    },
+    "lang_bag.json": {
+      "keep_proper_name": 2,
+      "keep_glossary_term": 1
+    },
+    "lang_compose.json": {
+      "keep_proper_name": 52,
+      "translate_ambiguous_name_title": 18,
+      "translate_role_or_speaker_title": 3
+    },
+    "lang_cook.json": {
+      "keep_proper_name": 33,
+      "translate_ambiguous_name_title": 3
+    },
+    "lang_country.json": {
+      "keep_proper_name": 20
+    },
+    "lang_cycle_tower.json": {
+      "keep_proper_name": 28
+    },
+    "lang_element_info.json": {
+      "keep_proper_name": 24,
+      "translate_short_title": 3,
+      "translate_ambiguous_name_title": 3,
+      "translate_short_ui_title": 2
+    },
+    "lang_forge.json": {
+      "keep_proper_name": 4,
+      "translate_ambiguous_name_title": 1
+    },
+    "lang_guide_new.json": {
+      "keep_proper_name": 87,
+      "translate_ambiguous_name_title": 16,
+      "translate_short_ui_title": 14,
+      "translate_short_title": 12,
+      "translate_role_or_speaker_title": 1
+    },
+    "lang_handbook.json": {
+      "keep_proper_name": 270,
+      "translate_short_ui_title": 129,
+      "translate_ambiguous_name_title": 36,
+      "translate_role_or_speaker_title": 1
+    },
+    "lang_infodisplay.json": {
+      "keep_proper_name": 26,
+      "translate_short_title": 23,
+      "translate_ambiguous_name_title": 11,
+      "keep_symbol_or_number": 7,
+      "translate_role_or_speaker_title": 3
+    },
+    "lang_item.json": {
+      "keep_item_weapon_echo_name": 390,
+      "translate_short_ui_title": 72
+    },
+    "lang_monster_Info.json": {
+      "keep_proper_name": 77,
+      "translate_role_or_speaker_title": 1,
+      "translate_ambiguous_name_title": 1,
+      "translate_short_title": 1
+    },
+    "lang_multi_text.json": {
+      "keep_proper_name": 33668,
+      "translate_short_title": 9405,
+      "translate_short_ui_title": 7204,
+      "translate_ambiguous_name_title": 4865,
+      "translate_role_or_speaker_title": 1574,
+      "keep_symbol_or_number": 205,
+      "keep_with_placeholder": 106,
+      "keep_glossary_term": 92,
+      "keep_placeholder_only": 7
+    },
+    "lang_multi_text_1sthalf.json": {
+      "translate_short_title": 9,
+      "keep_proper_name": 2,
+      "translate_ambiguous_name_title": 1
+    },
+    "lang_npc_headinfo.json": {
+      "keep_proper_name": 10,
+      "translate_role_or_speaker_title": 1
+    },
+    "lang_occupation.json": {
+      "keep_proper_name": 2
+    },
+    "lang_phantom.json": {
+      "keep_item_weapon_echo_name": 188,
+      "keep_glossary_term": 188
+    },
+    "lang_role.json": {
+      "translate_ambiguous_name_title": 39,
+      "keep_proper_name": 21,
+      "translate_role_or_speaker_title": 14,
+      "translate_short_title": 10,
+      "keep_glossary_term": 4
+    },
+    "lang_roleInfluence.json": {
+      "keep_proper_name": 3
+    },
+    "lang_skill.json": {
+      "translate_short_title": 1,
+      "keep_proper_name": 1,
+      "keep_glossary_term": 1
+    },
+    "lang_skillTree.json": {
+      "keep_proper_name": 10,
+      "translate_short_title": 8,
+      "translate_ambiguous_name_title": 3
+    },
+    "lang_speaker.json": {
+      "keep_proper_name": 27,
+      "translate_role_or_speaker_title": 2,
+      "keep_glossary_term": 1
+    },
+    "lang_weapon.json": {
+      "keep_item_weapon_echo_name": 221,
+      "translate_short_ui_title": 1
+    }
+  },
+  "report_dir": "C:\\Users\\tduy2\\Documents\\antigravity\\silly-darwin\\mistral_translate_work\\reports\\split_name_title_classification"
+}

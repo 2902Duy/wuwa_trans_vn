@@ -1,0 +1,52 @@
+[
+  {
+    "database": "lang_ui.db",
+    "table": "UiDynamicTab",
+    "primary_key_column": "Id",
+    "primary_key": "4",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "ui"
+  },
+  {
+    "database": "lang_ui.db",
+    "table": "UiDynamicTab",
+    "primary_key_column": "Id",
+    "primary_key": "5",
+    "column": "Content",
+    "source_en": "Echo",
+    "source_hash": "e738c7d89afb7a9acb548496f7ce7ca8d6b2a2f0",
+    "category": "ui"
+  },
+  {
+    "database": "lang_ui.db",
+    "table": "UiDynamicTab",
+    "primary_key_column": "Id",
+    "primary_key": "14",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "ui"
+  },
+  {
+    "database": "lang_ui.db",
+    "table": "UiDynamicTab",
+    "primary_key_column": "Id",
+    "primary_key": "15",
+    "column": "Content",
+    "source_en": "Echo",
+    "source_hash": "e738c7d89afb7a9acb548496f7ce7ca8d6b2a2f0",
+    "category": "ui"
+  },
+  {
+    "database": "lang_ui.db",
+    "table": "UiDynamicTab",
+    "primary_key_column": "Id",
+    "primary_key": "20",
+    "column": "Content",
+    "source_en": "Details",
+    "source_hash": "dc3decbb93847518f1a049dcf49d0d7c6560bcc6",
+    "category": "ui"
+  }
+]

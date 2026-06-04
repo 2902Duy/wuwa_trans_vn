@@ -1,0 +1,302 @@
+[
+  {
+    "database": "lang_speaker.db",
+    "table": "Speaker",
+    "primary_key_column": "Id",
+    "primary_key": "10",
+    "column": "Content",
+    "source_en": "Bailian",
+    "source_hash": "a05f0012797ef2c3037f4f8e1599bacc8cc92b1c",
+    "category": "dialogue"
+  },
+  {
+    "database": "lang_speaker.db",
+    "table": "Speaker",
+    "primary_key_column": "Id",
+    "primary_key": "42",
+    "column": "Content",
+    "source_en": "An'ke",
+    "source_hash": "8eeb4343d9abae5a173b06ad05ea96ea082ddc32",
+    "category": "dialogue"
+  },
+  {
+    "database": "lang_speaker.db",
+    "table": "Speaker",
+    "primary_key_column": "Id",
+    "primary_key": "99",
+    "column": "Content",
+    "source_en": "Taoqi",
+    "source_hash": "ee9ee0b98adae9fdaa527496831371cf96aa2503",
+    "category": "dialogue"
+  },
+  {
+    "database": "lang_speaker.db",
+    "table": "Speaker",
+    "primary_key_column": "Id",
+    "primary_key": "101",
+    "column": "Content",
+    "source_en": "San'hua",
+    "source_hash": "4eb444ea9c4cd5f8f906d32bb6641f51fdffcde0",
+    "category": "dialogue"
+  },
+  {
+    "database": "lang_speaker.db",
+    "table": "Speaker",
+    "primary_key_column": "Id",
+    "primary_key": "105",
+    "column": "Content",
+    "source_en": "Taoqi",
+    "source_hash": "ee9ee0b98adae9fdaa527496831371cf96aa2503",
+    "category": "dialogue"
+  },
+  {
+    "database": "lang_speaker.db",
+    "table": "Speaker",
+    "primary_key_column": "Id",
+    "primary_key": "111",
+    "column": "Content",
+    "source_en": "Danjin",
+    "source_hash": "d5c3d824880bc456c0ca4ab432f8b6273fb2ebc0",
+    "category": "dialogue"
+  },
+  {
+    "database": "lang_speaker.db",
+    "table": "Speaker",
+    "primary_key_column": "Id",
+    "primary_key": "115",
+    "column": "Content",
+    "source_en": "Chixia",
+    "source_hash": "405429060b3edc886d8aa7a8234befb17015cb2b",
+    "category": "dialogue"
+  },
+  {
+    "database": "lang_speaker.db",
+    "table": "Speaker",
+    "primary_key_column": "Id",
+    "primary_key": "125",
+    "column": "Content",
+    "source_en": "Exile Commoner",
+    "source_hash": "5037fd7de4e2f0fc6c8c647742695882fd13db68",
+    "category": "dialogue"
+  },
+  {
+    "database": "lang_speaker.db",
+    "table": "Speaker",
+    "primary_key_column": "Id",
+    "primary_key": "127",
+    "column": "Content",
+    "source_en": "Yangyang",
+    "source_hash": "737e12eb030b5ed4938f31540123e49e5a6d8cf3",
+    "category": "dialogue"
+  },
+  {
+    "database": "lang_speaker.db",
+    "table": "Speaker",
+    "primary_key_column": "Id",
+    "primary_key": "149",
+    "column": "Content",
+    "source_en": "Aalto",
+    "source_hash": "fecc91f5d3d4ec21d278f1086518bd67d3ffb74b",
+    "category": "dialogue"
+  },
+  {
+    "database": "lang_speaker.db",
+    "table": "Speaker",
+    "primary_key_column": "Id",
+    "primary_key": "151",
+    "column": "Content",
+    "source_en": "Exile Leader",
+    "source_hash": "70fa29d7920d72ef9cecf23e6d4e7dc13bd6f9db",
+    "category": "dialogue"
+  },
+  {
+    "database": "lang_speaker.db",
+    "table": "Speaker",
+    "primary_key_column": "Id",
+    "primary_key": "181",
+    "column": "Content",
+    "source_en": "Unknown signal",
+    "source_hash": "a7cc8347fe313a21d456432c2922eb42e746dbe9",
+    "category": "dialogue"
+  },
+  {
+    "database": "lang_speaker.db",
+    "table": "Speaker",
+    "primary_key_column": "Id",
+    "primary_key": "209",
+    "column": "Content",
+    "source_en": "Gleamtender",
+    "source_hash": "f8084b98aef63a4bef114afdcd0d223fce281adb",
+    "category": "dialogue"
+  },
+  {
+    "database": "lang_speaker.db",
+    "table": "Speaker",
+    "primary_key_column": "Id",
+    "primary_key": "215",
+    "column": "Content",
+    "source_en": "Yangyang",
+    "source_hash": "737e12eb030b5ed4938f31540123e49e5a6d8cf3",
+    "category": "dialogue"
+  },
+  {
+    "database": "lang_speaker.db",
+    "table": "Speaker",
+    "primary_key_column": "Id",
+    "primary_key": "223",
+    "column": "Content",
+    "source_en": "San'hua",
+    "source_hash": "4eb444ea9c4cd5f8f906d32bb6641f51fdffcde0",
+    "category": "dialogue"
+  },
+  {
+    "database": "lang_speaker.db",
+    "table": "Speaker",
+    "primary_key_column": "Id",
+    "primary_key": "387",
+    "column": "Content",
+    "source_en": "Taoqi",
+    "source_hash": "ee9ee0b98adae9fdaa527496831371cf96aa2503",
+    "category": "dialogue"
+  },
+  {
+    "database": "lang_speaker.db",
+    "table": "Speaker",
+    "primary_key_column": "Id",
+    "primary_key": "427",
+    "column": "Content",
+    "source_en": "An'ke?",
+    "source_hash": "900806c4a7ca99d2ad15e537abe4de744fce914d",
+    "category": "dialogue"
+  },
+  {
+    "database": "lang_speaker.db",
+    "table": "Speaker",
+    "primary_key_column": "Id",
+    "primary_key": "497",
+    "column": "Content",
+    "source_en": "Rover",
+    "source_hash": "ac54ed2d6c6c938bb66c63c5d0282e9332eed72c",
+    "category": "dialogue"
+  },
+  {
+    "database": "lang_speaker.db",
+    "table": "Speaker",
+    "primary_key_column": "Id",
+    "primary_key": "577",
+    "column": "Content",
+    "source_en": "Black-Striped Frog",
+    "source_hash": "ddec7894896ae3b1dd712726c298ea986ee1a7b8",
+    "category": "dialogue"
+  },
+  {
+    "database": "lang_speaker.db",
+    "table": "Speaker",
+    "primary_key_column": "Id",
+    "primary_key": "655",
+    "column": "Content",
+    "source_en": "Environment assessment module",
+    "source_hash": "408dbe236923a212543e893afedb964ee6085d88",
+    "category": "dialogue"
+  },
+  {
+    "database": "lang_speaker.db",
+    "table": "Speaker",
+    "primary_key_column": "Id",
+    "primary_key": "663",
+    "column": "Content",
+    "source_en": "Scar",
+    "source_hash": "fe43a6fe8bb31d192bb14fcf1920c2d6b7c5e512",
+    "category": "dialogue"
+  },
+  {
+    "database": "lang_speaker.db",
+    "table": "Speaker",
+    "primary_key_column": "Id",
+    "primary_key": "669",
+    "column": "Content",
+    "source_en": "Yangyang",
+    "source_hash": "737e12eb030b5ed4938f31540123e49e5a6d8cf3",
+    "category": "dialogue"
+  },
+  {
+    "database": "lang_speaker.db",
+    "table": "Speaker",
+    "primary_key_column": "Id",
+    "primary_key": "741",
+    "column": "Content",
+    "source_en": "Young girl",
+    "source_hash": "a117cd4e4a01d6fd0ad36bba5822dcbcba7950fc",
+    "category": "dialogue"
+  },
+  {
+    "database": "lang_speaker.db",
+    "table": "Speaker",
+    "primary_key_column": "Id",
+    "primary_key": "889",
+    "column": "Content",
+    "source_en": "Crownless",
+    "source_hash": "05a0e4c3075efbdc656f2f91654f68a9406bab7d",
+    "category": "dialogue"
+  },
+  {
+    "database": "lang_speaker.db",
+    "table": "Speaker",
+    "primary_key_column": "Id",
+    "primary_key": "2916",
+    "column": "Content",
+    "source_en": "Gleamtender",
+    "source_hash": "f8084b98aef63a4bef114afdcd0d223fce281adb",
+    "category": "dialogue"
+  },
+  {
+    "database": "lang_speaker.db",
+    "table": "Speaker",
+    "primary_key_column": "Id",
+    "primary_key": "2920",
+    "column": "Content",
+    "source_en": "Gleamtender",
+    "source_hash": "f8084b98aef63a4bef114afdcd0d223fce281adb",
+    "category": "dialogue"
+  },
+  {
+    "database": "lang_speaker.db",
+    "table": "Speaker",
+    "primary_key_column": "Id",
+    "primary_key": "3424",
+    "column": "Content",
+    "source_en": "Gleamtender",
+    "source_hash": "f8084b98aef63a4bef114afdcd0d223fce281adb",
+    "category": "dialogue"
+  },
+  {
+    "database": "lang_speaker.db",
+    "table": "Speaker",
+    "primary_key_column": "Id",
+    "primary_key": "3456",
+    "column": "Content",
+    "source_en": "Aalto",
+    "source_hash": "fecc91f5d3d4ec21d278f1086518bd67d3ffb74b",
+    "category": "dialogue"
+  },
+  {
+    "database": "lang_speaker.db",
+    "table": "Speaker",
+    "primary_key_column": "Id",
+    "primary_key": "4903",
+    "column": "Content",
+    "source_en": "San'hua",
+    "source_hash": "4eb444ea9c4cd5f8f906d32bb6641f51fdffcde0",
+    "category": "dialogue"
+  },
+  {
+    "database": "lang_speaker.db",
+    "table": "Speaker",
+    "primary_key_column": "Id",
+    "primary_key": "4906",
+    "column": "Content",
+    "source_en": "Taoqi",
+    "source_hash": "ee9ee0b98adae9fdaa527496831371cf96aa2503",
+    "category": "dialogue"
+  }
+]

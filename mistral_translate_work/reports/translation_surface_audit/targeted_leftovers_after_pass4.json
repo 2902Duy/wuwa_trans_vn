@@ -1,0 +1,522 @@
+[
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::ComboTeaching_11020201_DescriptionContent",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold <color=#f4d582>Heavy Attack</color> và thả khi con trỏ nằm trong vùng \"Đóng Băng\" để tung ra <color=#d4bf5f>Heavy Attack: Detonate</color>, gây <color=#1891e7ff>Glacio DMG</color>."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::ComboTeaching_12020301_DescriptionContent",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold <color=#f4d582>Resonance Skill: Whizzing Fight Spirit</color> để vào trạng thái bắn \"DAKA DAKA!\"."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::ComboTeaching_11050401_DescriptionContent",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold <color=Highlight>Giữ Basic Attack</color> trong thời gian ngắn sau khi thực hiện <color=Highlight>Basic Attack 3</color> để kích hoạt."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::ComboTeaching_11050501_DescriptionContent",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold <color=Highlight>Giữ Basic Attack</color> khi đang <color=Highlight>mid-air</color> để sử dụng."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::ComboTeaching_11081401_DescriptionContent",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold <color=Highlight>Resonance Liberation</color> để vào trạng thái nạp, trong đó Hiyuki liên tục tiêu hao <color=Highlight>Snowforged Blade</color>. Release ra để gây <color=Ice>Glacio DMG</color>, lượng sát thương tỉ lệ thuận với số <color=Highlight>Snowforged Blade</color> đã tiêu hao. Kỹ năng này cũng có thể được sử dụng bằng cách {Cus:Ipt,Touch=tapping PC=pressing Gamepad=pressing} <color=Highlight>Resonance Liberation</color>. Khi sử dụng theo cách này, kỹ năng sẽ không tiêu hao <color=Highlight>Snowforged Blade</color> nếu chưa đầy và tiêu hao toàn bộ <color=Highlight>Snowforged Blade</color> nếu đã đầy.\nSau khi sử dụng kỹ năng này, Hiyuki để lại <color=Highlight>Foreclaimed Self</color>."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::GuideFocusNew_4_Content",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold <color=#8c7e51>needle</color> để di chuyển"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::GuideTutorialPage_34093_Content",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Lottie Lost hấp thụ sức mạnh từ những câu chuyện trong <color=#ffd12f>Cuốn Sách Hoàn Thành</color>, tăng cường khả năng hấp thu Mây Nightmare.\n \nHold <color=#ffd12f>nút Hấp Thu Nâng Cao</color> để hút toàn bộ Mây Nightmare trong phạm vi của cô.\n \nTrạng thái Hấp Thu Nâng Cao chỉ kéo dài trong thời gian giới hạn và có thể được làm mới bằng cách đọc lại Cuốn Sách Hoàn Thành."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::GuideFocusNew_21613_Content",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "<color=#ffd12f>Hold </color> {0} và chọn <color=#ffd12f>Quests</color> trên vòng tròn để xem Mục tiêu chính và Mục tiêu phụ."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::GuideFocusNew_21649_Content",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "<color=#ffd12f>Hold </color> {0} và chọn <color=#ffd12f>Storage Bag</color> trên vòng tròn để xem các Sticker Resonator đặc biệt bạn đã thu thập."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Skill_1004201_SkillDescribe",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 2 đòn tấn công liên tiếp, gây <color=Dark>Havoc DMG</color>.\n{Cus:Ipt,Touch=Nhấn PC=Nhấn Gamepad=Nhấn} <color=Highlight>Normal Attack</color> ngay sau khi sử dụng <color=Highlight>Basic Attack Stage 2</color> để thi triển <color=Highlight>Rending Lunge</color>.\n<size=10></size>\n<size=40><color=Title>Rending Lunge</color></size>\nDeal <color=Dark>Havoc DMG</color>.\n{Cus:Ipt,Touch=Nhấn PC=Nhấn Gamepad=Nhấn} <color=Highlight>Normal Attack</color> ngay sau khi thi triển kỹ năng này trên mặt đất để sử dụng <color=Highlight>Death Snip</color>.\nSử dụng <color=Highlight>Normal Attack</color> ngay sau khi thi triển kỹ năng này giữa không trung để sử dụng <color=Highlight>Hanging Finality</color>.\n<size=10></size>\n<size=40><color=Title>Death Snip</color></size>\nMở kéo, gây <color=Dark>Havoc DMG</color>. Sau một lúc, kéo sẽ cắt xuống, gây <color=Dark>Havoc DMG</color> và hồi HP cho tất cả Resonators trong đội ở gần.\nSử dụng <color=Highlight>Normal Attack</color> trong khi thi triển kỹ năng này để gây thêm <color=Dark>Havoc DMG</color>. Nhấn <color=Highlight>Normal Attack</color> lần nữa để cắt mục tiêu ngay lập tức.\nSát thương "
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Skill_1000207_SkillDescribe",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "<size=40><color=Title>Resonance Skill: DAKA DAKA!</color></size>\nHold <color=Highlight>Whizzing Fight Spirit</color> để进入 trạng thái <color=Highlight>DAKA DAKA!</color>. Trong trạng thái này:\n- Chixia liên tục sử dụng \"Thermobaric Bullets\" để tấn công mục tiêu, gây <color=Fire>Fusion DMG</color>, được tính là Sát Thương Resonance Skill.\n- Nhấn <color=Highlight>Basic Attack</color> để thi triển <color=Highlight>Basic Attack 4</color>, gây <color=Fire>Fusion DMG</color>, được tính là Sát Thương Basic Attack. Sau đó, cô sẽ thoát khỏi trạng thái \"DAKA DAKA!\".\n- Nếu đã bắn {0} \"Thermobaric Bullets\" khi kích hoạt <color=Highlight>Basic Attack</color>, Chixia sẽ thi triển Resonance Skill <color=Highlight>Boom Boom</color> và thoát khỏi trạng thái \"DAKA DAKA!\".\n- Chixia thoát khỏi trạng thái \"DAKA DAKA!\" khi hết \"Thermobaric Bullets\".\n<size=10> </size>\n<size=40><color=Title>Resonance Skill: Boom Boom</color></size>\nGây <color=Fire>Fusion DMG</color>, được tính là Sát Thương Resonance Skill.\n<size=10> </size>\n<size=40><color=Title>Thermobaric Bullets</color></size>\nChixia có thể mang tối đa {1} \"Thermobaric Bullets\".\nInherent Skill <color=Highlight>Scorching Magazine</color> tăng số lượng \""
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Skill_1002207_SkillDescribe",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "<size=40><color=Title>Phantasmic Imprint</color></size>\nZhezhi có thể triệu hồi <color=Highlight>Phantasmic Imprints</color> bằng cách tiêu hao Afflatus khi sử dụng Resonance Skill <color=Highlight>Manifestation</color> hoặc Heavy Attack <color=Highlight>Conjuration</color>.\nTối đa 1 của mỗi loại <color=Highlight>Phantasmic Imprint - Left</color>, <color=Highlight>Phantasmic Imprint - Middle</color> và <color=Highlight>Phantasmic Imprint - Right</color> có thể tồn tại đồng thời, mỗi loại kéo dài trong {0}s.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Conjuration</color></size>\n5 động tác dưới đây tiêu hao STA để thực hiện <color=Highlight>Conjuration</color> tấn công mục tiêu, gây <color=Ice>Glacio DMG</color>.\n-Hold <color=Highlight>Normal Attack button</color> ngay sau <color=Highlight>Basic Attack Stage 3</color>.\n-Nhấn <color=Highlight>Normal Attack button</color> ngay sau khi sử dụng Resonance Skill <color=Highlight>Manifestation</color>.\n-Hold <color=Highlight>Normal Attack button</color> ngay sau khi sử dụng Resonance Skill <color=Highlight>Stroke of Genius</color> hoặc Resonance Skill <color=Highlight>Creation's Zenith</color>.\n-Hold <color=Highlight>Normal Attack"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Skill_1002501_SkillDescribe",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=Light>Spectro DMG</color>. Mỗi đòn trúng đích tạo ra 1 <color=Highlight><te href=850022>Collapsed Core</te></color>.\n<size=10> </size>\n<size=40><color=Title>Heavy Attack</color></size>\nHold <color=Highlight>Normal Attack Button</color> để chuyển sang <color=Highlight>Unbound Form</color>, tiêu hao STA liên tục. Ở dạng này, Shorekeeper sẽ:\n- Tạo ra một đoạn <color=Highlight>Deductive Data</color> mỗi giây;\n- Tự động thu thập các vật phẩm thực vật gần đó.\nHết STA hoặc thực hiện hành động như <color=Highlight>Basic Attack</color> sẽ kết thúc <color=Highlight>Unbound Form</color> và gây <color=Light>Spectro DMG</color> lên mục tiêu. Mỗi đoạn <color=Highlight>Deductive Data</color> tích lũy sẽ chuyển thành Data Thực Nghiệm và tạo ra 1 <color=Highlight><te href=850022>Collapsed Core</te></color>.\n<size=10> </size>\n<size=40><color=Title>Mid-air Attack</color></size>\nTiêu hao STA để thực hiện Đòn Lao Xuống. Mỗi đòn trúng đích tạo ra 1 <color=Highlight>Collapsed Core</color>. Nhấn nhanh <color=Highlight>Normal Attack Button</color> sau Đòn Lao Xuống để thực hiện <color=Highlight>Basic Att"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Skill_1000207_SkillResume",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "<size=40><color=Title>Resonance Skill: DAKA DAKA!</color></size>\nHold <color=Highlight>Whizzing Fight Spirit</color> để进入 trạng thái <color=Highlight>DAKA DAKA!</color>. Trong trạng thái này:\n- Chixia liên tục bắn Thermobaric Bullets tấn công mục tiêu, gây <color=Fire>Fusion DMG</color>.\n- Sử dụng <color=Highlight>Basic Attack</color> để thi triển <color=Highlight>Basic Attack 4</color>, gây <color=Fire>Fusion DMG</color> và thoát khỏi trạng thái DAKA DAKA!.\n- Nếu đã bắn {0} Thermobaric Bullets khi sử dụng <color=Highlight>Basic Attack</color>, Chixia sẽ thi triển Resonance Skill <color=Highlight>Boom Boom</color> và thoát khỏi trạng thái DAKA DAKA!.\n- Chixia thoát khỏi trạng thái DAKA DAKA! khi hết Thermobaric Bullets.\n<size=10></size>\n<size=40><color=Title>Resonance Skill: Boom Boom</color></size>\nDeal <color=Fire>Fusion DMG</color>.\n<size=10></size>\n<size=40><color=Title>Thermobaric Bullets</color></size>\nChixia có thể mang tối đa {1} Thermobaric Bullets.\nInherent Skill <color=Highlight>Scorching Magazine</color> tăng số lượng Thermobaric Bullets tối đa thêm {2}.\nChixia nhận được Thermobaric Bullets thông qua <color=Highlight>Normal Attack</color>, <color=Highlight>Intro Skill</"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Skill_1005203_SkillDescribe",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "<size=40><color=Title>Foreclaiming: Inward Vision</color></size>\n<color=Highlight>Foreclaiming: Inward Vision</color> sẽ khả dụng sau khi sử dụng <color=Highlight>Heavy Attack - Frost Splinter: Present Self</color>.\nKhi ở trạng thái <color=Highlight><te href=110806>Present Self</te></color>, {Cus:Ipt,Touch=tap PC=press Gamepad=press} <color=Highlight>Resonance Liberation</color> để kích hoạt kỹ năng này, gây <color=Ice>Glacio DMG</color>. Sau khi sử dụng, nhận 3 điểm <color=Highlight><te href=110803>Frostharden Iai</te></color>, trừ 300 điểm <color=Highlight><te href=110801>Dedication</te></color> và <color=Highlight><te href=110802>Frostheart</te></color>. Sau đó, chuyển sang trạng thái <color=Highlight><te href=110807>Foreclaimed Self</te></color> và hồi 50 điểm <color=Highlight><te href=110802>Frostheart</te></color>.\n<color=Highlight>Foreclaiming: Inward Vision</color> áp dụng 4 lớp <color=Highlight><te href=850010>Glacio Chafe</te></color> khi trúng đích.\nSử dụng <color=Highlight>Foreclaiming: Inward Vision</color> không tiêu hao Resonance Energy.\n<size=10></size>\n<size=40><color=Title>Foreclaiming: Blade Liberation</color></size>\nKhi ở trạng thái <color=Highlight><te href=110"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Skill_1005203_SkillResume",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "<size=40><color=Title>Foreclaiming: Inward Vision</color></size>\n<color=Highlight>Foreclaiming: Inward Vision</color> sẽ khả dụng sau khi sử dụng <color=Highlight>Heavy Attack - Frost Splinter: Present Self</color>.\nDeal <color=Ice>Glacio DMG</color>. Khi sử dụng, tiến vào trạng thái <color=Highlight>Foreclaimed Self</color>.\n<size=10></size>\n<size=40><color=Title>Foreclaiming: Blade Liberation</color></size>\nHold <color=Highlight>Resonance Liberation</color> để tiến vào trạng thái nạp năng lượng, liên tục tiêu hao <color=Highlight>Snowforged Blade</color>. Release <color=Highlight>Resonance Liberation</color> để gây <color=Ice>Glacio DMG</color>. Lượng <color=Highlight>Snowforged Blade</color> tiêu hao càng nhiều khi nạp, sát thương gây ra càng cao.\nSau khi sử dụng, thoát khỏi trạng thái <color=Highlight>Foreclaimed Self</color>."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::PhantomBattleEntryDes_4",
+    "patterns": [
+      "Gamepad=Press"
+    ],
+    "text": "Trong giai đoạn này, bạn có thể Deploy, Điều Chỉnh hoặc Biến Đổi một Echo. Bạn cũng có thể kéo Echo vào Khu Vực Tái Tạo để phục hồi Năng Lượng.\n- {Cus:Ipt,Touch=Nhấn PC=Click Gamepad=Press} \"Fight!\" để kết thúc giai đoạn này."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::FavorGoods_121102_Content",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Một cuốn album ảnh được trang trí cầu kỳ, được gìn giữ cẩn thận. Nhìn thoáng qua cũng thấy chủ nhân trân trọng nó biết bao.\nCâu lạc bộ Nhiếp Photo tại <te href=851069>Startorch Academy</te> đã tặng mỗi thành viên một cuốn album cá nhân để lưu giữ những kỷ niệm quý giá dưới mái trường. Hầu hết các trang đều là ảnh tập thể, nơi Denia lặng lẽ mỉm cười ở góc ảnh... Đó đơn giản là cách cô kiếm điểm.\n\n<i>\"Vùng hoang dã không lời. Có lẽ nó chẳng nhìn thấy gì, chẳng nghe thấy gì, và cũng chẳng quan tâm đến những gì ta nói. Nó chỉ đơn thuần vươn mình, trải dài đến chân trời vô tận.\"</i>"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0017.json::254",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Một cuốn album ảnh được trang trí cầu kỳ, được gìn giữ cẩn thận. Nhìn thoáng qua cũng thấy chủ nhân trân trọng nó biết bao.\nCâu lạc bộ Nhiếp Photo tại <te href=851069>Startorch Academy</te> đã tặng mỗi thành viên một cuốn album cá nhân để lưu giữ những kỷ niệm quý giá dưới mái trường. Hầu hết các trang đều là ảnh tập thể, nơi Denia lặng lẽ mỉm cười ở góc ảnh... Đó đơn giản là cách cô kiếm điểm.\n\n<i>\"Vùng hoang dã không lời. Có lẽ nó chẳng nhìn thấy gì, chẳng nghe thấy gì, và cũng chẳng quan tâm đến những gì ta nói. Nó chỉ đơn thuần vươn mình, trải dài đến chân trời vô tận.\"</i>"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0004.json::140",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "Chụp ảnh Zani Dodgem khiên vào kẻ địch\n\nMẹo nóng từ C-MOSS: {Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack 3 lần và {Cus:Ipt,Touch=tap PC=press Gamepad=press} Normal Attack đúng lúc để tung ra Basic Attack - Đột Phá\n(Các bạn có thể khám phá những cách khác để hoàn thành thử thách)"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0005.json::132",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<color=Highlight>Wide Field Observation Mode</color> kéo dài trong {11} giây.\n- Khi bước vào <color=Highlight>Wide Field Observation Mode</color>, Mornye tạo ra một <color=Highlight>Trường Resonance</color>.\n- Trong <color=Highlight>Wide Field Observation Mode</color>, Mornye nhận được <color=Highlight>Relative Momentum</color>.\n- Nếu <color=Highlight>Relative Momentum</color> dưới {0} khi giữ <color=Highlight>Normal Attack</color>, thực hiện <color=Highlight>Basic Attack - Wide Field Observation Mode Stage 1 đến 3</color> theo thứ tự. Nếu <color=Highlight>Relative Momentum</color> đạt {0} trong lúc này, thay vào đó sẽ tung ra <color=Highlight>Heavy Attack - Inversion</color>.\n- Khi di chuyển, Mornye liên tục tiêu hao STA. STA không thể hồi phục trong <color=Highlight>Wide Field Observation Mode</color>.\n- Khi Dodge có nhập hướng, Mornye sẽ bay với tốc độ cao, hiệu ứng kéo dài tối đa 10 giây hoặc cho đến khi STA cạn kiệt hoặc <color=Highlight>Wide Field Observation Mode</color> kết thúc.\n- Khi Mornye bị tấn công hoặc bị hất tung lên không trung, {Cus:Ipt,Touch=tap PC=press Gamepad=press} Dodge để hồi phục ngay lập tức, được tính là Dodge thành công. Hiệu ứng này có thể kích hoạt tố"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0009.json::429",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "Trong trạng thái <color=Highlight>Kaleidoscopic Parade</color>, <color=Highlight>Basic Attack</color> của Lynae sẽ được thay thế bằng <color=Highlight>Kaleidoscopic Parade - Basic Attack</color>. {Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack liên tiếp để thực hiện tối đa 5 đòn đánh liên tục, gây <color=Light>Spectro DMG</color>."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0010.json::370",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "Sau khi kích hoạt <color=Highlight>Lunar Cycle</color> với Closing Refrain, {Cus:Ipt,Touch=tap PC=press Gamepad=press} Jump để tung đòn <color=Highlight>Heavy Attack - Flux</color> và chuyển sang <color=Highlight>Lunar Cycle - New Moon</color>.\nTrong trạng thái này, Iuno tấn công bằng <color=Highlight>Moonbow</color> với chi phí Forte Gauge, gây <color=Wind>Aero DMG</color>.\n{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Jump thêm lần nữa để chuyển về <color=Highlight>Lunar Cycle - Half Moon</color>."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0010.json::383",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "Khi <color=Highlight>Prowess</color> đạt tối đa, <color=Highlight>Heavy Attack - Steelclash</color> sẽ được thay thế bằng <color=Highlight>Heavy Attack - Thunderoar: Backstep</color>, gây <color=Thunder>Electro DMG</color> và tiêu hao toàn bộ Uy Lực. Trong hành động, <color=Highlight>{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack</color> để thi triển <color=Highlight>Heavy Attack - Thunderoar: Spinslash</color>."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0010.json::394",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "Khi <color=Highlight>Ascendancy</color> đạt tối đa:\n- {Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Resonance Skill liên tục để thi triển các kỹ năng theo thứ tự:\n<color=Highlight>Resonance Skill - Undying Sunlight: Strike</color>, <color=Highlight>Resonance Skill - Undying Sunlight: Leap</color>, và <color=Highlight>Resonance Skill - Undying Sunlight: Plunge</color>."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0012.json::454",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=Fire>Fusion DMG</color>. Sát thương từ Basic Attack Stage 1-3 được tính là <color=Highlight>Heavy Attack DMG</color>, còn Basic Attack Stage 4 là <color=Highlight>Echo Skill DMG</color>.\n{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack ngay sau khi thực hiện <color=Highlight>Basic Attack Stage 4</color> để thực hiện <color=Highlight>Basic Attack Stage 2</color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Volley of Death</color></size>\nTiêu hao STA để tấn công mục tiêu và thực hiện tối đa 3 đòn liên tiếp, gây <color=Fire>Fusion DMG</color>. Sát thương Stage 3 được tính là <color=Highlight>Echo Skill DMG</color>.\n{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack ngay sau khi thực hiện <color=Highlight>Heavy Attack - Volley of Death Stage 1</color> để thực hiện <color=Highlight>Basic Attack Stage 2</color>. {Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack ngay sau khi thực hiện <color=Highlight>Heavy Attack - Volley of Death Stage 2 or 3</color> để thực hiện <color=Highlight>Basic Attack Stage 3</color>.\n<size=10></size>\n<size=40><color=Title>Mid"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0012.json::467",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Threshold State</color></size>\nMặc định, Galbrena ở <color=Highlight>Threshold State</color>, và trong trạng thái này, cô tích lũy <color=Highlight>Afterflame</color> và <color=Highlight>Sinflame</color>.\n<size=10></size>\n<size=40><color=Title>Demon Hypostasis</color></size>\nKhi ở <color=Highlight>Demon Hypostasis</color>, Basic Attack, Heavy Attack, Attack Holda Không, Dodge Counter và Resonance Skill được tăng cường, tiêu hao <color=Highlight>Purging Flame</color> khi trúng đích.\nKhi ở <color=Highlight>Demon Hypostasis</color>, lượng <color=Highlight>Afterflame</color> của Galbrena càng nhiều, kẻ địch càng chịu nhiều sát thương từ <color=Highlight>various enhanced moves</color>.\nKhi <color=Highlight>Purging Flame</color> cạn kiệt, Galbrena sẽ tự động thoát khỏi <color=Highlight>Demon Hypostasis</color>.\n<size=10></size>\n<size=40><color=Title>Enhanced Basic Attack</color></size>\nDeal <color=Fire>Fusion DMG</color>.\n<size=10></size>\n<size=40><color=Title>Enhanced Heavy Attack</color></size>\nTiêu hao STA để gây <color=Fire>Fusion DMG</color>.\n<size=10></size>\n<size=40><color=Title>Enhanced Mid-air Attack</color></size>\n{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0012.json::491",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Eye of Unraveling</color></size>\nGây Trì Trệ và gây <color=Dark>Havoc DMG</color>.\n- Khi không ở trong <color=Highlight>Chainsaw Mode</color>, sau khi sử dụng kỹ năng này, {Cus:Ipt,Touch=tap PC=press Gamepad=press} <color=Highlight>Normal Attack</color> trên mặt đất hoặc sử dụng <color=Highlight>Normal Attack</color> giữa không trung để tung ra <color=Highlight>Rending Lunge</color>. Hiệu ứng này sẽ bị loại bỏ khi Chisa bước vào <color=Highlight>Chainsaw Mode</color>.\n- Khi ở trong <color=Highlight>Chainsaw Mode</color> và trên mặt đất, {Cus:Ipt,Touch=tap PC=press Gamepad=press} <color=Highlight>Normal Attack</color> ngay sau khi sử dụng kỹ năng này để tung ra <color=Highlight>Sawring - Blitz Stage 2</color>.\nCó thể sử dụng giữa không trung.\n<size=10></size>\n<size=40><color=Title>Serrated Loop</color></size>\nKhi ở trên mặt đất và <color=Highlight><te href=150803>Ring of Chainsaw</te></color> đã đầy, <color=Highlight>Resonance Skill</color> sẽ được thay thế bằng <color=Highlight>Serrated Loop</color>.\nGây Trì Trệ cho mục tiêu, gây <color=Dark>Havoc DMG</color> và kéo các mục tiêu gần đó về.\nSử dụng kỹ năng này sẽ đưa Chisa vào <color=Highlight>Chainsaw Mode</co"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0013.json::6",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=Fire>Fusion DMG</color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack</color></size>\nTiêu hao STA để tấn công mục tiêu, gây <color=Fire>Fusion DMG</color>.\n<size=10></size>\n<size=40><color=Title>Basic Attack - Wide Field Observation Mode</color></size>\nKhi ở trong <color=Highlight><te href=120902>Wide Field Observation Mode</te></color>, <color=Highlight>Basic Attack</color> sẽ được thay thế bằng <color=Highlight>Basic Attack - Wide Field Observation Mode</color>.\nThực hiện tối đa 3 đòn tấn công liên tiếp, gây <color=Fire>Fusion DMG</color>.\n<size=10></size>\n<size=40><color=Title>Mid-air Attack</color></size>\nTiêu hao STA để thực hiện Đòn Hạ Cánh, gây <color=Fire>Fusion DMG</color>. {Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> trong khoảng thời gian nhất định sau đó để tung ra <color=Highlight>Basic Attack Stage 3</color>.\n<size=10></size>\n<size=40><color=Title>Dodge Counter</color></size>\n{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> ngay sau khi <color=Highlight>Dodge</color> thành công để tấn côn"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0013.json::18",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Baseline Mode</color></size>\nKhi ở <color=Highlight>Baseline Mode</color>, Mornye nhận <color=Highlight><te href=120903>Năng Lượng Khối Lượng Nghỉ</te></color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Shift Địa Thế</color></size>\nKhi <color=Highlight><te href=120903>Năng Lượng Khối Lượng Nghỉ</te></color> đạt {0} điểm, Heavy Attack sẽ được thay thế bằng <color=Highlight>Heavy Attack - Shift Địa Thế</color>.\nThực hiện <color=Highlight>Heavy Attack - Shift Địa Thế</color> để gây <color=Fire>Fusion DMG</color>, được tính là Sát Thương Heavy Attack. Sau đó, Mornye sẽ nhảy lên không trung, tiêu hao toàn bộ <color=Highlight><te href=120903>Năng Lượng Khối Lượng Nghỉ</te></color> và chuyển sang <color=Highlight><te href=120902>Wide Field Observation Mode</te></color>.\n<size=10></size>\n<size=40><color=Title>Wide Field Observation Mode</color></size>\n<color=Highlight>Wide Field Observation Mode</color> kéo dài trong {11} giây.\n- Khi vào <color=Highlight>Wide Field Observation Mode</color>, Mornye tạo ra <color=Highlight><te href=120907>Trường Resonance</te></color>.\n- Trong <color=Highlight>Wide Field Observation Mode</color>, Mornye nhận <color=Highlight"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0013.json::26",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Basic Attack</color></size>\n{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} hoặc giữ Normal Attack để thực hiện tối đa 3 đòn tấn công liên tiếp, gây <color=Light>Spectro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Mid-air Attack</color></size>\nTiêu hao STA để thực hiện Plunging Attack, gây <color=Light>Spectro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Dodge Counter</color></size>\n{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack ngay sau khi Dodge thành công để tấn công mục tiêu, gây <color=Light>Spectro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Basic Attack - Spark Collision</color></size>\nKhi <color=Highlight><te href=150905>Overflow</te></color> trong <color=Highlight><te href=150901>Optical Sampling Stage</te></color> đạt tối đa, giữ Normal Attack để进入 trạng thái sạc.\nTrong trạng thái này, 15 điểm <color=Highlight><te href=150905>Overflow</te></color> sẽ được chuyển đổi thành 12.5% <color=Highlight><te href=150906>Lumiflow</te></color> mỗi 0.2 giây. Lynae miễn nhiễm với gián đoạn và chịu ít hơn {0} DMG.\nKhi thả Normal Attack hoặc khi <color=Highlight><te href=150906>Lumiflow</te></color> đạt tối đa, Lynae sẽ thực hiện Spark "
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0013.json::30",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "Deal <color=Light>Spectro DMG</color>. Khi sử dụng kỹ năng này, tăng {0} sát thương cho tất cả Resonators gần đó trong đội trong {1} giây.\n<size=10></size>\n<size=40><color=Title>Basic Attack - To a Vivid Tomorrow!</color></size>\n{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack trong khoảng thời gian nhất định sau khi sử dụng <color=Highlight>Resonance Liberation - Prismatic Overblast</color> để thi triển <color=Highlight>Basic Attack - To a Vivid Tomorrow!</color>, gây <color=Light>Spectro DMG</color>.\nKhi ở trạng thái <color=Highlight><te href=150902>Kaleidoscopic Parade</te></color>, {Cus:Ipt,Touch=tap PC=press Gamepad=press} Normal Attack trong khoảng thời gian nhất định để thi triển <color=Highlight>Kaleidoscopic Parade - Basic Attack Stage 2</color>."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0013.json::38",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Optical Sampling Stage</color></size>\nTheo mặc định, Lynae ở trong <color=Highlight><te href=150901>Optical Sampling Stage</te></color>. Trong trạng thái này, <color=Highlight><te href=150905>Overflow</te></color> sẽ hồi phục khi sử dụng một số kỹ năng nhất định.\n<size=10></size>\n<size=40><color=Title>Kaleidoscopic Parade</color></size>\nSử dụng <color=Highlight>Basic Attack - Spark Collision</color> sẽ đưa Lynae vào trạng thái <color=Highlight><te href=150902>Kaleidoscopic Parade</te></color>. Trong trạng thái này, Lynae liên tục hồi phục <color=Highlight><te href=150906>Lumiflow</te></color> khi di chuyển trên mặt đất hoặc trong một số khoảng thời gian nhất định của một số kỹ năng. Lynae sẽ không thể Đi Bộ trong trạng thái này, và việc Chạy hoặc Tăng Tốc sẽ được thay thế bằng <color=Highlight>Free Skating</color> và <color=Highlight>Speed Skating</color> nhanh hơn.\n<size=10></size>\n<size=40><color=Title>Basic Attack - Polychrome Leap</color></size>\nTrong trạng thái <color=Highlight><te href=150902>Kaleidoscopic Parade</te></color>, khi <color=Highlight><te href=150906>Lumiflow</te></color> đạt ít nhất 1/3 tối đa, Jump sẽ được thay thế bằng <color=Highlight>Ba"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0013.json::46",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=Light>Spectro DMG</color>.\nỞ Stage 3, phóng ra một lưỡi hái xoay tròn, biến mất khi Luuk Herssen sử dụng kỹ năng khác có thể gây sát thương hoặc rời khỏi chiến trường.\n<size=10></size>\n<size=40><color=Title>Heavy Attack</color></size>\nTiêu hao STA để nhảy lên không trung, gây <color=Light>Spectro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Mid-air Attack</color></size>\nThực hiện tối đa 4 đòn tấn công liên tiếp trên không, gây <color=Light>Spectro DMG</color>. Stage 4 là Đòn Lao Xuống tiêu hao STA.\n<color=Highlight>{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack</color> hoặc <color=Highlight>Jump</color> để thực hiện <color=Highlight>Basic Attack</color> Giai Đoạn {0} và 3 trên không.\nLuuk Herssen tấn công bằng <color=Highlight>Scythe: Dissection</color> khi nhập lệnh <color=Highlight>Normal Attack</color>.\nLuuk Herssen tấn công bằng <color=Highlight>Scythe: Resection</color> khi nhập lệnh <color=Highlight>Jump</color>. Hắn cũng gây <color=Highlight><te href=100003>Tune Strain - Shifting</te></color> lên mục tiêu trúng đòn trong {1} giây và giảm sát thương nhận v"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0013.json::56",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "Deal <color=Light>Spectro DMG</color>. Dodgem một lưỡi <color=Highlight><te href=151004>Ichor Blade</te></color> và gây hiệu ứng <color=Highlight><te href=100003>Tune Strain - Shifting</te></color> lên mục tiêu.\n<color=Highlight>{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack</color> sau kỹ năng này để thi triển <color=Highlight>Mid-air Attack Stage 2 - Scythe: Dissection</color> hoặc <color=Highlight>Jump</color> để thi triển <color=Highlight>Mid-air Attack Stage 2 - Scythe: Resection</color>."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0013.json::57",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "Gây <color=Light>Spectro DMG</color> và áp dụng <color=Highlight>Tune Strain - Shifting</color>.\n<color=Highlight>{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack or Jump</color> sau khi sử dụng kỹ năng này để thi triển <color=Highlight>Mid-air Attack Stage 2</color>."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0013.json::258",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=Thunder>Electro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Mountain Over Thunder</color></size>\n<color=Highlight>Giữ Normal Attack</color> để tiêu hao hai quẻ được đánh dấu - Núi và Sấm từ trái sang phải và tung ra <color=Highlight>Heavy Attack - Mountain Over Thunder</color>, gây <color=Thunder>Electro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Thunder Over Mountain</color></size>\n<color=Highlight>Giữ Normal Attack</color> để tiêu hao hai quẻ được đánh dấu - Sấm và Núi từ trái sang phải và tung ra <color=Highlight>Heavy Attack - Thunder Over Mountain</color>, gây một lượng nhỏ <color=Thunder>Electro DMG</color> và đồng thời giảm Vibration Strength của mục tiêu.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Twin Mountains</color></size>\n<color=Highlight>Giữ Normal Attack</color> để tiêu hao hai quẻ được đánh dấu - Núi từ trái sang phải và tung ra <color=Highlight>Heavy Attack - Twin Mountains</color>, hồi phục HP cho tất cả Resonators trong đội ở gần.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Twin Thunders</color"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0013.json::339",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "Khi Thăng Hoa đạt tối đa:\n{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} {1} + {Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} {1}/{0} + {Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} {1}/{0} để thực hiện các kỹ năng theo thứ tự:\n- <color=Highlight>Resonance Skill - Undying Sunlight: Strike</color>, <color=Highlight>Resonance Skill - Undying Sunlight: Leap</color>, và <color=Highlight>Resonance Skill - Undying Sunlight: Plunge</color>."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0017.json::22",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<color=Highlight>{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press}</color> {0} ngay sau khi sử dụng <color=Highlight>Resonance Skill</color> để thực hiện Stage 4 Basic Attack và nhận được Trigram - Lôi."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0018.json::229",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 3 đòn tấn công liên tiếp, gây <color=Dark>Havoc DMG</color>.\n<size=10> </size>\n<size=40><color=Title>Heavy Attack</color></size>\nTiêu hao STA để tấn công mục tiêu, gây <color=Dark>Havoc DMG</color>.\n<size=10> </size>\n<size=40><color=Title>Heavy Attack - Delusive Dive</color></size>\nKhi Cantarella ở trạng thái Trance, <color=Highlight>Heavy Attack</color> sẽ trở thành <color=Highlight>Delusive Dive</color>, gây <color=Dark>Havoc DMG</color> cho mục tiêu, sau đó Cantarella bước vào <color=Highlight><te href=850054>Mirage</te></color>. Khi ở trạng thái <color=Highlight>Mirage</color>, sử dụng <color=Highlight>Delusive Dive</color> sẽ không kích hoạt lại <color=Highlight>Mirage</color>.\nCó thể sử dụng dưới nước.\n<size=10> </size>\n<size=40><color=Title>Mid-air Attack</color></size>\nTiêu hao STA để thực hiện Đòn Hạ Gục, gây <color=Dark>Havoc DMG</color>.\n<size=10> </size>\n<size=40><color=Title>Dodge Counter</color></size>\n{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> ngay sau khi <color=Highlight>Dodge</color> thành công để tấn công mục tiêu, gây <color=Dark>Havoc DMG</color>."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0018.json::244",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=Wind>Aero DMG</color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack</color></size>\nTiêu hao STA để tấn công mục tiêu, gây <color=Wind>Aero DMG</color>.\n- {Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> ngay sau khi sử dụng kỹ năng để thực hiện <color=Highlight>Basic Attack Stage 3</color> trực tiếp.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Razor Wind</color></size>\nGiữ <color=Highlight>Normal Attack</color> sau khi sử dụng <color=Highlight>Basic Attack Stage 3</color>, <color=Highlight>Dodge Counter</color> hoặc <color=Highlight>Heavy Attack</color> để thi triển Heavy Attack <color=Highlight>Razor Wind</color>. Tiêu hao STA để tấn công mục tiêu, gây <color=Wind>Aero DMG</color>.\n<size=10></size>\n<size=40><color=Title>Mid-air Attack</color></size>\nTiêu hao STA để thực hiện Attack Lao Xuống, gây <color=Wind>Aero DMG</color>.\n- {Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> ngay sau khi tiếp đất để thi triển <color=Highlight>Basic Attack Stage 4</color>.\n- Khi <te href=850056>Windstrings</te> "
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0018.json::256",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Mid-air Attack - Cloudburst Dance</color></size>\nThực hiện tối đa 2 đòn tấn công liên tiếp, gây <color=Wind>Aero DMG</color> (được tính là Sát Thương Resonance Skill) và hồi phục HP cho tất cả Resonators trong đội ở gần. Có thể kích hoạt theo 3 cách sau:\n- {Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> ngay sau khi sử dụng Resonance Skill <color=Highlight>Awakening Gale</color>.\n- {Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> ngay sau khi sử dụng <color=Highlight>Intro Skill</color>.\n- {Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> ngay sau khi sử dụng Heavy Attack <color=Highlight>Razor Wind</color>.\nKhi kích hoạt Mid-air Attack <color=Highlight>Cloudburst Dance</color>, giữ <color=Highlight>Normal Attack</color> để thực hiện <color=Highlight>Mid-air Attack</color>.\n<size=10></size>\n<size=40><color=Title>Resonance Skill - Unbound Flow</color></size>\nKhi Windstrings đạt tối đa, Resonance Skill <color=Highlight>Awakening Gale</color> sẽ trở thành Resonance Skill <color=Highlight>Unbound Flow</color>: Thực hiện tối đa 2 đòn tấn công liên tiếp. Mỗi đòn tiê"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0018.json::279",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=Wind>Aero DMG</color>. Basic Attack giai đoạn 4 gây 1 tầng <color=Highlight><te href=850009>Aero Erosion</te></color> lên mục tiêu trúng đòn.\n- Khi ba giai đoạn đầu của Basic Attack của Ciaccona bị gián đoạn do Dodge, {Cus:Ipt,Touch=tap PC=press Gamepad=press} Basic Attack kịp thời để tiếp tục chu kỳ tấn công và thực hiện giai đoạn Basic Attack tương ứng.\n- Sau Basic Attack giai đoạn 4, Ciaccona bắt đầu <color=Highlight>Solo Concert</color>. Nếu Basic Attack giai đoạn 4 hoặc <color=Highlight>Solo Concert</color> của Ciaccona kết thúc sớm (chủ động hoặc bị gián đoạn), một <color=Highlight>Ensemble Sylph</color> sẽ được tạo ra.\n\n<size=40><color=Title>Solo Concert</color></size>\nKhi Ciaccona hoặc Ensemble Sylph thực hiện Solo Concert, họ sẽ tăng 24% Aero DMG Bonus cho tất cả Resonators gần đó trong đội. Hiệu ứng này không thể cộng dồn.\n\n<size=40><color=Title>Ensemble Sylph</color></size>\nTối đa 2 Ensemble Sylph có thể tồn tại đồng thời.\nNếu <color=Highlight>Basic Attack Stage 4</color> của Ciaccona bị gián đoạn, các Ensemble Sylph được tạo ra sẽ hoàn thành đòn tấn công thay Ciaccona"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0018.json::313",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=Fire>Fusion DMG</color>.\n- Sau Basic Attack Stage 3, {Cus:Ipt,Touch=tap PC=press Gamepad=press} Normal Attack đúng thời điểm để thực hiện <color=Highlight>Mid-air Attack Stage 1</color>.\n- Sau <color=Highlight>Dodge Counter</color>, Basic Attack <color=Highlight>Starfall</color>, Resonance Skill <color=Highlight>Shewolf's Hunt</color> hoặc Resonance Skill <color=Highlight>Feral Fang</color>, {Cus:Ipt,Touch=tap PC=press Gamepad=press} Normal Attack đúng thời điểm để thực hiện <color=Highlight>Basic Attack Stage 2</color>.\n\n<size=40><color=Title>Heavy Attack</color></size>\nTiêu hao STA để tấn công mục tiêu, gây <color=Fire>Fusion DMG</color>.\n\n<size=40><color=Title>Heavy Attack - Wolf's Gnawing</color></size>\nKhi <te href=850174>Wolflame</te> đạt {0} điểm, <color=Highlight>Heavy Attack</color> sẽ được thay thế bằng <color=Highlight>Wolf's Gnawing</color>, tiêu hao STA để tấn công mục tiêu và gây <color=Fire>Fusion DMG</color>.\n- Đòn tấn công này không phục hồi <te href=850174>Wolflame</te>. Tiêu hao {1} điểm <te href=850174>Wolflame</te> để thực hiện đòn tấn công này và nhận <SapTa"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0018.json::331",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 3 đòn tấn công liên tiếp, gây <color=Dark>Havoc DMG</color>.\nKhi thực hiện <color=Highlight>Basic Attack Stage 3</color>, bước vào trạng thái <color=Highlight><te href=160805>Reincarnate</te></color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack</color></size>\nTiêu hao STA để tấn công mục tiêu, gây <color=Dark>Havoc DMG</color>.\n{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> ngay sau khi sử dụng kỹ năng này để thực hiện <color=Highlight>Basic Attack Stage 2</color>.\n<size=10></size>\n<size=40><color=Title>Scarlet Coda</color></size>\nPhrolova bước vào trạng thái <color=Highlight>Compose</color> mỗi {1} giây.\nKhi đáp ứng đủ 3 điều kiện sau, <color=Highlight>Heavy Attack</color> sẽ được thay thế bằng <color=Highlight>Scarlet Coda</color>:\n- Có 6 <color=Highlight><te href=160801>Volatile Notes</te></color>.\n- Đang ở trạng thái <color=Highlight>Compose</color>.\n- Không ở trạng thái <color=Highlight><te href=160802>Resolving Chord</te></color>.\n<size=10></size>\n<color=Highlight>Scarlet Coda</color>: Tiêu hao STA để gây <color=Dark>Havoc DMG</color>, làm chậm và kéo các mục tiêu gầ"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0018.json::335",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Waltz of Forsaken Depths</color></size>\nNăng lượng Cộng hưởng tối đa của Phrolova là 0. <color=Highlight>Waltz of Forsaken Depths</color> không tiêu hao Resonance Energy.\nKhi ở trạng thái <color=Highlight><te href=160802>Resolving Chord</te></color>, <color=Highlight>Waltz of Forsaken Depths</color> sẽ khả dụng.\nSử dụng kỹ năng này sẽ kết thúc trạng thái <color=Highlight>Resolving Chord</color> và Phrolova bước vào trạng thái <color=Highlight>Maestro</color> trong {0}s.\n<size=10></size>\n<size=40><color=Title>Maestro</color></size>\nNhận tăng {5} ATK.\nPhrolova lơ lửng trên không và điều khiển Hecate chiến đấu. Hecate sẽ thừa hưởng chỉ số và trạng thái của Phrolova, và sát thương gây ra bởi Hecate sẽ được tính là đến từ Phrolova. Các đòn tấn công của Hecate sẽ không loại bỏ trạng thái Hazy Dream của mục tiêu.\nTrong thời gian này, Phrolova lần lượt chơi các <color=Highlight><te href=160801>Volatile Notes</te></color>. Mỗi <color=Highlight>Volatile Ghi chú</color> duy trì trong {1}s.\nNếu Phrolova là Resonators đang hoạt động trên chiến trường, cô có thể đưa ra các tín hiệu sau cho Hecate. Mọi sát thương Hecate chịu trong trạng thái này cũng sẽ ảnh hưởng đến Phrolov"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0018.json::349",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Moonring - Basic Attack</color></size>\nThực hiện tối đa 3 đòn tấn công liên tiếp bằng <color=Highlight>Moonring</color>, gây <color=Wind>Aero DMG</color>.\n<size=10></size>\n<size=40><color=Title>Mid-air Attack</color></size>\nTiêu hao STA để thực hiện Đòn Hạ Gục, gây <color=Wind>Aero DMG</color>.\n<size=10></size>\n<size=40><color=Title>Moonring - Dodge Counter</color></size>\n{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack ngay sau khi Dodge thành công để tấn công mục tiêu bằng <color=Highlight>Moonring</color>, gây <color=Wind>Aero DMG</color>. {Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack một lần nữa ngay sau khi sử dụng kỹ năng này để thực hiện Vòng Trăng - Basic Attack Stage 3.\n\n<size=40><color=Title>Moonbow - Basic Attack</color></size>\nNhập <color=Highlight><te href=141001>Lunar Cycle</te></color> bằng cách sử dụng <color=Highlight>Heavy Attack - Flux: Moonring</color>. Khi ở trạng thái này, Iuno sẽ tấn công bằng <color=Highlight>Moonbow</color>.\nThực hiện tối đa 3 đòn tấn công liên tiếp bằng <color=Highlight>Moonbow</color>, gây <color=Wind>Aero DMG</color>, được tính là Sát Thương Resonance Liberation.\nCó thể sử dụng khi đang ở trên k"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0018.json::368",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=Thunder>Electro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Steelclash</color></size>\nTiêu hao STA để tấn công mục tiêu, gây <color=Thunder>Electro DMG</color>. <color=Highlight>{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack</color> ngay sau khi thực hiện Heavy Attack để thực hiện <color=Highlight>Basic Attack Stage 2</color>.\n<size=10></size>\n<size=40><color=Title>Mid-air Attack</color></size>\nTiêu hao STA để thực hiện Attack Lao Xuống từ giữa không trung, gây <color=Thunder>Electro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Dodge Counter</color></size>\n<color=Highlight>{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack</color> sau khi Dodge thành công để tấn công mục tiêu, gây <color=Thunder>Electro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Mid-air Dodge Counter</color></size>\n<color=Highlight>{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack</color> sau khi Dodge Giữa Không thành công để thực hiện Attack Lao Xuống với chi phí STA, gây <color=Thunder>Electro DMG</color>.\n<size=10></size>\n<size=40><color=Title>H"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0018.json::372",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Resonance Liberation - Kiếm of Eternal Oath</color></size>\n<color=Highlight>{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} and release Resonance Liberation</color> để thi triển kỹ năng. Augusta sẽ vung Lưỡi Broadblade về phía trước, gây <color=Thunder>Electro DMG</color>, được tính là Sát Thương Heavy Attack.\n<size=10></size>\n<size=40><color=Title>Resonance Liberation - Sublime is the Sun</color></size>\nKhi <te href=130604>Majesty</te> đạt {0} tầng, <color=Highlight>hold Resonance Liberation</color> để thi triển <color=Highlight>Resonance Liberation - Sublime is the Sun</color>. Việc thi triển <color=Highlight>Resonance Liberation - Sublime is the Sun</color> không tốn Resonance Energy mà thay vào đó là {0} tầng Oai Phong.\n- Khi thi triển <color=Highlight>Resonance Liberation - Sublime is the Sun</color>, Augusta tạo ra <color=Highlight><te href=130605>Ruler's Realm</te></color> và bước vào trạng thái <color=Highlight><te href=130606>Sworn Allegiance</te></color> trong {1} giây. Trong thời gian này, thời gian tạm dừng và <color=Highlight>Resonator switching</color> bị vô hiệu hóa. Chỉ có thể thực hiện <color=Highlight>Sublime is the Sun - Sunborne</color>, <color"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0018.json::373",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Resonance Liberation - Kiếm of Eternal Oath</color></size>\n<color=Highlight>{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} and release Resonance Liberation</color> để thi triển kỹ năng này.\n<size=10></size>\n<size=40><color=Title>Resonance Liberation - Sublime is the Sun</color></size>\nKhi Majesty đạt tối đa, <color=Highlight>hold Resonance Liberation</color> để thi triển kỹ năng và bước vào trạng thái <color=Highlight>Sworn Allegiance</color> trong {1} giây.\n- Trong trạng thái <color=Highlight>Sworn Allegiance</color>, <color=Highlight>{Cus:Ipt,Touch=tap PC=press Gamepad=press}</color> hoặc <color=Highlight>giữ Normal Attack</color> để thực hiện tối đa {2} đòn đánh, mở khóa đòn kết thúc mạnh mẽ. Khi ở trạng thái <color=Highlight>Sworn Allegiance</color>, <color=Highlight>hold Resonance Liberation</color> để thi triển đòn kết thúc sớm.\n<size=10></size>\n<size=40><color=Title>Majesty</color></size>\n- Augusta nhận 1 tầng Majesty khi thi triển <color=Highlight>Resonance Skill - Undying Sunlight: Plunge</color>.\n- Khi Resonators khác trong đội thi triển <color=Highlight>Outro Skill</color> dưới hiệu ứng Outro Skill của Augusta, Augusta nhận 1 tầng Majesty."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0018.json::379",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Resonance Skill - Undying Sunlight: Strike</color></size>\nKhi <te href=130603>Ascendancy</te> đạt tối đa, <color=Highlight>Resonance Skill - Warrior's Blade</color> sẽ được thay thế bằng <color=Highlight>Resonance Skill - Undying Sunlight: Strike</color>, gây <color=Thunder>Electro DMG</color>.\n- Trong khi thi triển, <color=Highlight>{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack or Resonance Skill</color> để sử dụng <color=Highlight>Resonance Skill - Undying Sunlight: Leap</color>.\n- <color=Highlight>Resonance Skill - Undying Sunlight: Strike</color> có thể được sử dụng lại ngay sau khi bị gián đoạn.\n- <color=Highlight>Resonance Skill - Undying Sunlight: Leap</color> có thể được sử dụng lại sau một khoảng thời gian ngắn nếu bị gián đoạn.\n- Can be cast mid-air.\n<size=10></size>\n<size=40><color=Title>Resonance Skill - Undying Sunlight: Leap</color></size>\nGây <color=Thunder>Electro DMG</color>.\n- Trong khi thi triển, <color=Highlight>{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack or Resonance Skill</color> để sử dụng <color=Highlight>Resonance Skill - Undying Sunlight: Plunge</color>.\n- <color=Highlight>Resonance Skill - Undying Sunlight: "
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0020.json::238",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=Wind>Aero DMG</color>.\nEnter trạng thái <color=Highlight>Decipher</color> trong {0}s sau khi sử dụng <color=Highlight>Basic Attack Stage 4</color>. Hiệu ứng này sẽ kết thúc sớm nếu Sigrika rời khỏi chiến trường.\nKhi Sigrika có ít nhất <SapTag=1>{1}</SapTag> {Cus:Sap,S=điểm P=điểm SapTag=1} <color=Highlight><te href=141202>Full Stop</te></color>, chu kỳ Basic Attack của cô sẽ bắt đầu từ Stage 2.\n<size=10></size>\n<size=40><color=Title>Basic Attack - Elucidated</color></size>\nTrong trạng thái <color=Highlight><te href=141207>Decipher</te></color>, {Cus:Ipt,Touch=chạm PC=nhấn Gamepad=nhấn} Normal Attack trên mặt đất để sử dụng <color=Highlight>Basic Attack - Elucidated</color>, gây <color=Wind>Aero DMG</color> (được tính là Echo Skill DMG).\nRời khỏi trạng thái <color=Highlight><te href=141207>Decipher</te></color> sau khi sử dụng kỹ năng này.\n<size=10></size>\n<size=40><color=Title>Heavy Attack</color></size>\nTiêu hao STA để tấn công mục tiêu, gây <color=Wind>Aero DMG</color>.\n<color=Highlight>{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack</color> ngay sau khi sử dụng <colo"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0020.json::239",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>BOOMY BOOM!</color></size>\nTấn công mục tiêu, gây <color=Wind>Aero DMG</color>.\n<color=Highlight>{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack</color> ngay sau khi sử dụng <color=Highlight>BOOMY BOOM!</color> để tung ra <color=Highlight>Basic Attack Stage 3</color>.\n<size=10></size>\n<size=40><color=Title>BIG BOOMY BOOM!</color></size>\nKhi ở trạng thái <color=Highlight><te href=141207>Decipher</te></color>, <color=Highlight>{Cus:Ipt,Touch=tap PC=press Gamepad=press} Resonance Skill</color> trên mặt đất để sử dụng <color=Highlight>BIG BOOMY BOOM!</color>, gây <color=Wind>Aero DMG</color> (được tính là Sát Thương Kỹ Năng Vang Âm).\nRời khỏi trạng thái <color=Highlight><te href=141207>Decipher</te></color> sau khi sử dụng kỹ năng này.\n<size=10></size>\n<size=40><color=Title>Soliskin to the Aid</color></size>\nKhi ở trạng thái <color=Highlight><te href=141207>Decipher</te></color>, với ít nhất <SapTag=0>{0}</SapTag> {Cus:Sap,S=điểm P=điểm SapTag=0} <color=Highlight><te href=141202>Full Stop</te></color>, <color=Highlight>{Cus:Ipt,Touch=tap PC=press Gamepad=press} Resonance Skill</color> trên mặt đất để sử dụng <color=Highlight>Soliskin to the Aid</color>, "
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0020.json::243",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "Deal <color=Wind>Aero DMG</color>.\n<color=Highlight>{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack</color> ngay sau khi sử dụng <color=Highlight>Intro Skill</color> để thực hiện <color=Highlight>Basic Attack Stage 2</color>."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0020.json::247",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Form Switch</color></size>\nAemeath có thể chuyển đổi hình dạng giữa bản thân và Mech. Mech kế thừa chỉ số của Aemeath và mở khóa các đòn tấn công mới.\nAemeath tự động thực hiện <color=Highlight>Basic Attack - Stage 1</color> khi sử dụng <color=Highlight>Form Switch</color>.\nKhi ở dạng Mech, Aemeath tự động thực hiện <color=Highlight>Mid-air Attack</color> khi sử dụng <color=Highlight>Form Switch</color> trên không.\n<size=10></size>\n<size=40><color=Title>Sync Strike: Armament Merge</color></size>\n{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} <color=Highlight>Resonance Skill</color> ngay sau khi sử dụng <color=Highlight>Basic Attack - Aemeath Stage 2, 3 & 4</color>, <color=Highlight>Heavy Attack - Aemeath</color> hoặc <color=Highlight>Dodge Counter - Aemeath</color> để thực hiện <color=Highlight>Sync Strike: Armament Merge</color>, gây <color=Fire>Fusion DMG</color>.\nChuyển sang dạng Mech sau khi sử dụng kỹ năng này. {Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} nút <color=Highlight>Normal Attack</color> ngay sau đó để thực hiện <color=Highlight>Basic Attack - Mech Stage 2</color>.\n<size=10></size>\n<size=40><color=Title>Sync Strike: Call of Dawn</color></size>\n{Cus:"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0020.json::264",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Basic Attack - Present Self</color></size>\n{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> liên tiếp hoặc giữ để thực hiện tối đa 3 đòn tấn công liên tiếp, gây <color=Ice>Glacio DMG</color>.\n<color=Highlight>Basic Attack - Present Self Stage 3</color> áp dụng <color=Highlight><te href=850010>Glacio Chafe</te></color> 1 lần khi trúng đích.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Frost Splinter: Present Self</color></size>\nKhi <color=Highlight><te href=110801>Dedication</te></color> đạt 300 điểm, <color=Highlight>Heavy Attack - Frost Splinter: Present Self</color> sẽ khả dụng.\nGiữ <color=Highlight>Normal Attack</color> để bắn 3 mũi tên liên tiếp, tiêu hao STA, gây <color=Ice>Glacio DMG</color>, được tính là Sát Thương Resonance Liberation. Hiyuki miễn nhiễm với gián đoạn và sát thương đến trong thời gian này.\nKhi mũi tên cuối được bắn, 300 điểm <color=Highlight><te href=110801>Dedication</te></color> sẽ bị tiêu hao và <color=Highlight>Foreclaiming: Inward Vision</color> trở nên khả dụng. Mũi tên áp dụng <color=Highlight><te href=850010>Glacio Chafe</te></color> 1 lần khi trúng đích.\n<size=10></size>\n<size=40><colo"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0020.json::265",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Resonance Skill - Present Self</color></size>\nDeal <color=Ice>Glacio DMG</color>.\nSử dụng kỹ năng này sẽ tăng cường <color=Highlight>Basic Attack - Present Self Stage 3</color> tiếp theo, giúp hồi 100 điểm <color=Highlight><te href=110801>Dedication</te></color> khi sử dụng. Chuyển đổi sang Resonator khác sẽ kết thúc hiệu ứng này.\n{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} hoặc giữ <color=Highlight>Normal Attack</color> trong một khoảng thời gian sau khi sử dụng kỹ năng này để thực hiện <color=Highlight>Basic Attack - Present Self Stage 3</color>.\n<size=10></size>\nKhi ở trạng thái <color=Highlight>Foreclaimed Self</color>, <color=Highlight>Resonance Skill - Present Self</color> sẽ được thay thế bởi <color=Highlight>Frostblight: Jade Cleave</color> và <color=Highlight>Frostblight: Petalfall</color>:\n<size=10></size>\n<size=40><color=Title>Frostblight: Jade Cleave</color></size>\nKhi ở trên mặt đất, {Cus:Ipt,Touch=tap PC=press Gamepad=press} <color=Highlight>Resonance Skill</color> để hút mục tiêu xung quanh và gây <color=Ice>Glacio DMG</color>, đồng thời loại bỏ <color=Highlight><te href=110808>Frostbind</te></color> của mục tiêu.\nSkill này chia sẻ Cooldown chiê"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0020.json::279",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Glacio Bite</color></size>\nKhi Hiyuki có mặt trong đội, <color=Highlight>Glacio Chafe</color> gây bởi Resonators gần đó trong đội sẽ được thay thế bằng <color=Highlight>Glacio Bite</color>.\nKhi <color=Highlight>Foreclaiming: Inward Vision</color> hoặc <color=Highlight>Basic Attack - Iai</color> trúng mục tiêu, nếu mục tiêu có từ 10 tầng <color=Highlight>Glacio Bite</color> trở lên, xóa 10 tầng và kích hoạt <color=Highlight>Frostbind</color> một lần.\n<size=10></size>\n<size=40><color=Title>Present Self</color></size>\nHiyuki bắt đầu ở trạng thái <color=Highlight>Present Self</color>.\n<size=10></size>\n<size=40><color=Title>Foreclaimed Self</color></size>\nHiyuki chuyển sang <color=Highlight>Foreclaimed Self</color> sau khi sử dụng <color=Highlight>Foreclaiming: Inward Vision</color>. Khi ở <color=Highlight>Foreclaimed Self</color>, các dạng kỹ năng mới sẽ được mở khóa.\n<size=10></size>\n<size=40><color=Title>Iai Stance</color></size>\nGiữ <color=Highlight>Resonance Skill</color> hoặc {Cus:Ipt,Touch=tap PC=press Gamepad=press} <color=Highlight>Dodge</color> trong khi thực hiện một số đòn tấn công nhất định của <color=Highlight>Foreclaimed Self</color> để vào <color=Hi"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0020.json::311",
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "Khi <color=Highlight>Off-Tune Level</color> của mục tiêu đạt tối đa, Sigrika có thể sử dụng <color=Highlight><te href=100001>Tune Break</te></color> lên mục tiêu.\n<color=Highlight>{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack</color> ngay sau khi sử dụng <color=Highlight><te href=100001>Tune Break</te></color> để tung ra <color=Highlight>Basic Attack Stage 3</color>."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0027.json::232",
+    "patterns": [
+      "Gamepad=Press"
+    ],
+    "text": "Trong giai đoạn này, bạn có thể Deploy, Điều Chỉnh hoặc Biến Đổi một Echo. Bạn cũng có thể kéo Echo vào Khu Vực Tái Tạo để phục hồi Năng Lượng.\n- {Cus:Ipt,Touch=Chạm PC=Nhấp Gamepad=Press} \"Fight!\" để kết thúc giai đoạn này."
+  }
+]

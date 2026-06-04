@@ -1,0 +1,112 @@
+[
+  {
+    "database": "lang_mapping.db",
+    "table": "Mapping",
+    "primary_key_column": "Id",
+    "primary_key": "1",
+    "column": "Content",
+    "source_en": "Frozen",
+    "source_hash": "939f868537a1088b70c53e0adbb068379bfb2aa8",
+    "category": "general"
+  },
+  {
+    "database": "lang_mapping.db",
+    "table": "Mapping",
+    "primary_key_column": "Id",
+    "primary_key": "2",
+    "column": "Content",
+    "source_en": "Smelt",
+    "source_hash": "7f5f8c4521f29dcfa120e9bde198efc9e81aca23",
+    "category": "general"
+  },
+  {
+    "database": "lang_mapping.db",
+    "table": "Mapping",
+    "primary_key_column": "Id",
+    "primary_key": "3",
+    "column": "Content",
+    "source_en": "Conduction",
+    "source_hash": "d543e0c2db04d5508f08b74584ccf5ddc3966fb2",
+    "category": "general"
+  },
+  {
+    "database": "lang_mapping.db",
+    "table": "Mapping",
+    "primary_key_column": "Id",
+    "primary_key": "4",
+    "column": "Content",
+    "source_en": "Aerodynamic",
+    "source_hash": "09754ac7f11dd4534fb766438d1e51a2ec6d1ef0",
+    "category": "general"
+  },
+  {
+    "database": "lang_mapping.db",
+    "table": "Mapping",
+    "primary_key_column": "Id",
+    "primary_key": "5",
+    "column": "Content",
+    "source_en": "Diffusion",
+    "source_hash": "7866cbf9cb7f045e6e8f237f047a62d24d17a294",
+    "category": "general"
+  },
+  {
+    "database": "lang_mapping.db",
+    "table": "Mapping",
+    "primary_key_column": "Id",
+    "primary_key": "6",
+    "column": "Content",
+    "source_en": "Dissociation",
+    "source_hash": "ee2e8ee59feb2cf92230e04dfbd410bea690f875",
+    "category": "general"
+  },
+  {
+    "database": "lang_mapping.db",
+    "table": "Mapping",
+    "primary_key_column": "Id",
+    "primary_key": "10",
+    "column": "Content",
+    "source_en": "Broadblade",
+    "source_hash": "1b916aefc6172fb8b152c4d8bbb04219aaacff8a",
+    "category": "general"
+  },
+  {
+    "database": "lang_mapping.db",
+    "table": "Mapping",
+    "primary_key_column": "Id",
+    "primary_key": "11",
+    "column": "Content",
+    "source_en": "Rapier",
+    "source_hash": "6801548a26fe4ca7249281a7e9fedb888f057b9b",
+    "category": "general"
+  },
+  {
+    "database": "lang_mapping.db",
+    "table": "Mapping",
+    "primary_key_column": "Id",
+    "primary_key": "12",
+    "column": "Content",
+    "source_en": "Pistol",
+    "source_hash": "188e8ee673d53a8b4a1c7ed213545c4065c27879",
+    "category": "general"
+  },
+  {
+    "database": "lang_mapping.db",
+    "table": "Mapping",
+    "primary_key_column": "Id",
+    "primary_key": "13",
+    "column": "Content",
+    "source_en": "Gauntlet",
+    "source_hash": "cea14ea3bbd016c904bbe6d1f75402e4775cdccd",
+    "category": "general"
+  },
+  {
+    "database": "lang_mapping.db",
+    "table": "Mapping",
+    "primary_key_column": "Id",
+    "primary_key": "14",
+    "column": "Content",
+    "source_en": "Demodulator",
+    "source_hash": "1f1753794d7439297768cce8490c80f6228b5f4e",
+    "category": "general"
+  }
+]

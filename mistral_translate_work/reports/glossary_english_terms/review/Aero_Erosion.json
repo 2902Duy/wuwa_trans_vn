@@ -1,0 +1,557 @@
+{
+  "count": 42,
+  "hits": [
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 15743,
+      "primary_key": "Term850009_Title",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "Aero Erosion",
+      "translation_vi": "Xói Mòn Aero"
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 43195,
+      "primary_key": "Bossch_detail_68",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero",
+        "Sát Thương Xói Mòn Aero"
+      ],
+      "source_en": "[Resistance]: This enemy has a higher <color=Dark>Havoc RES</color>.\n\n[Ripple]: A successful Dodge recovers certain STA and increases Crit. DMG by 10% for 5s, stacking up to 5 times.\n\n[Sea Wind]: When the enemy takes Aero Erosion DMG, the Max HP of all Resonators in the team is increased by 5% for 10s, stacking up to 6 times.\n\n[Death's Dance]: 3 minutes after the battle begins, Resonators' ATK is increased by 10% every 10s, up to 100%. The DMG taken by Resonators will also increase by 10% every 10s, with no stacking limit. All Resonators in the team lose 10% of their Max HP every 2s, until their HP reaches below 20%.",
+      "translation_vi": "[Kháng cự]: Kẻ địch này có <color=Dark>Kháng Havoc</color> cao hơn.\n\n[Sóng Gợn]: Né thành công sẽ phục hồi một lượng STA nhất định và tăng Sát Thương Bạo Kích của Cộng Hưởng Giả lên 10% trong 5 giây, tối đa 5 lần.\n\n[Gió Biển]: Khi kẻ địch chịu Sát Thương Xói Mòn Aero, HP tối đa của tất cả Cộng Hưởng Giả trong đội sẽ tăng 5% trong 10 giây, tối đa 6 lần.\n\n[Điệu Nhảy Tử Thần]: Sau 3 phút kể từ khi trận chiến bắt đầu, Tấn Công của Cộng Hưởng Giả sẽ tăng 10% mỗi 10 giây, tối đa 100%. Sát Thương nhận vào cũng tăng 10% mỗi 10 giây, không giới hạn cộng dồn. Tất cả Cộng Hưởng Giả trong đội sẽ mất 10% HP tối đa mỗi 2 giây, cho đến khi HP còn dưới 20%."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 47377,
+      "primary_key": "TowerChallengeBuff_92008070_Desc",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "Casting Resonance Liberation causes a blast that deals Aero DMG equal to 120% of the caster's Max HP, triggered once every 5s. Targets with <color=Highlight>Aero Erosion</color> have their DEF reduced by 30%.",
+      "translation_vi": "Kích hoạt Giải Phóng Cộng Hưởng gây ra một vụ nổ, gây Sát Thương Aero bằng 120% HP tối đa của người sử dụng, kích hoạt mỗi 5 giây một lần. Mục tiêu bị <color=Highlight>Xói Mòn Aero</color> sẽ bị giảm 30% Phòng Ngự."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 52784,
+      "primary_key": "RiskHarvest_buffDesc_1011",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "After casting Intro Skill, a Chaotic Land will be generated to attack the nearby targets, dealing Spectro DMG for {0}s. Targets attacked obtain <SapTag=1>{1}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=1} of Aero Erosion and Spectro Frazzle.",
+      "translation_vi": "Sau khi sử dụng Kỹ Năng Giới Thiệu, một vùng Đất Hỗn Loạn sẽ xuất hiện để tấn công các mục tiêu lân cận, gây Sát Thương Spectro trong {0} giây. Mục tiêu bị tấn công nhận <SapTag=1>{1}</SapTag> {Cus:Sap,S=điểm P=điểm} Xói Mòn Aero và Rối Loạn Spectro."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 167893,
+      "primary_key": "ComboTeaching_14090701_DescriptionContent",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "As Fleurdelys, use Jump on the ground to lock onto a target and perform an Upward Cut.\nWhen in mid-air, perform up to 3 stages of Mid-air Attack to deal Aero DMG and restore <color=Highlight>Conviction</color>. Mid-air Attack Stage 3 immediately triggers <color=Wind>Aero Erosion</color> DMG once and then consumes 1 stack of <color=Wind>Aero Erosion</color>.\nWith <color=Highlight>Heart of Virtue</color>, gain increased resistance to interruption.\nWith <color=Highlight>Power of Discord</color>, Mid-air Attack Stage 2 propagates the highest stack count of <color=Wind>Aero Erosion</color> among targets.",
+      "translation_vi": "Với tư cách là Fleurdelys, hãy sử dụng Kỹ Năng Nhảy trên mặt đất để khóa mục tiêu và thực hiện Đòn Chém Lên. Khi ở trên không, thực hiện tối đa 3 giai đoạn Tấn Công Trên Không để gây Sát Thương Aero và hồi phục <color=Highlight>Niềm Tin</color>. Giai đoạn 3 của Tấn Công Trên Không sẽ ngay lập tức kích hoạt Sát Thương <color=Wind>Xói Mòn Aero</color> một lần và tiêu hao 1 tầng <color=Wind>Xói Mòn Aero</color>.\nVới <color=Highlight>Trái Tim Đức Hạnh</color>, tăng khả năng kháng cự gián đoạn.\nVới <color=Highlight>Sức Mạnh Discord</color>, giai đoạn 2 của Tấn Công Trên Không sẽ lan truyền số tầng <color=Wind>Xói Mòn Aero</color> cao nhất trong số các mục tiêu."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 167895,
+      "primary_key": "ComboTeaching_14090901_DescriptionContent",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "As Fleurdelys, hold Normal Attack to thrust forward, dealing Aero DMG and restoring <color=Highlight>Conviction</color>.\nUse Basic Attack while in the action to fall back and deal Aero DMG to targets in the front and restore <color=Highlight>Conviction</color>.\nWith <color=Highlight>Power of Discord</color>, the enhanced Heavy Attack propagates the highest stack count of <color=Wind>Aero Erosion</color> among targets.",
+      "translation_vi": "Với tư cách là Fleurdelys, giữ Đòn Tấn Công Thường để lao về phía trước, gây Sát Thương Aero và hồi phục <color=Highlight>Niềm Tin</color>.\nSử dụng Đòn Cơ Bản trong trạng thái này để lùi lại và gây Sát Thương Aero lên mục tiêu phía trước, đồng thời hồi phục <color=Highlight>Niềm Tin</color>.\nVới <color=Highlight>Sức Mạnh Tacet Discord</color>, Đòn Nặng được tăng cường sẽ lan truyền số tầng <color=Wind>Xói Mòn Aero</color> cao nhất từ mục tiêu."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 170842,
+      "primary_key": "GuideTutorial_35015_GroupName",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "Enhancement: Aero Erosion",
+      "translation_vi": "Nâng Cấp: Xói Mòn Aero"
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 170867,
+      "primary_key": "Tutorial_35015_Title",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "Enhancement: Aero Erosion",
+      "translation_vi": "Nâng Cấp: Xói Mòn Aero"
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 170892,
+      "primary_key": "GuideTutorialPage_35015_Content",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "Dealing DMG inflicts 1 stack of Aero Erosion on the target. This effect can be triggered once every 6s.",
+      "translation_vi": "Gây Sát Thương sẽ áp 1 lớp Xói Mòn Aero lên mục tiêu. Hiệu ứng này có thể kích hoạt mỗi 6 giây một lần."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 175653,
+      "primary_key": "PhantomItem_60000080_AttributesDescription",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "Echo Sonata Effect: Gusts of Welkin\n\n2pcs Set: Aero DMG +10%.\n5pcs Set: Inflicting Aero Erosion on enemies increases Aero DMG for all Resonators in the team by 15%, and for the Resonator triggering this effect by an additional 15%, lasting for 20s.",
+      "translation_vi": "Hiệu Ứng Bộ Hồi Âm: Cơn Gió Của Bầu Trời\n\n2 món: Sát Thương Aero +10%.\n5 món: Gây Xói Mòn Aero lên kẻ địch sẽ tăng Sát Thương Aero cho tất cả Cộng Hưởng Giả trong đội lên 15%, và tăng thêm 15% cho Cộng Hưởng Giả kích hoạt hiệu ứng này, kéo dài trong 20 giây."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 177252,
+      "primary_key": "RoleSkillInput_1409_DescList_1",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "Gain enhancement through different <color=Highlight>Sword Shadows</color> and greatly boost <color=Highlight>Aero Erosion</color> DMG output.\nInflict <color=Highlight>Aero Erosion</color> and gain substantial DMG boost based on the <color=Highlight>Aero Erosion</color> stacks on the targets.\n<color=Highlight>Cartethyia</color> may freely transform between herself and <color=Highlight>Fleurdelys</color>.",
+      "translation_vi": "Tăng cường thông qua các <color=Highlight>Bóng Kiếm</color> khác nhau và gia tăng đáng kể sát thương <color=Highlight>Xói Mòn Aero</color>.\nGây hiệu ứng <color=Highlight>Xói Mòn Aero</color> và nhận tăng sát thương mạnh dựa trên số tầng <color=Highlight>Xói Mòn Aero</color> trên mục tiêu.\n<color=Highlight>Cartethyia</color> có thể tự do biến hình giữa bản thân và <color=Highlight>Fleurdelys</color>."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 180058,
+      "primary_key": "Skill_1003401_SkillResume",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "<size=40><color=Title>Basic Attack</color></size>\nDeal <color=Wind>Aero DMG</color>. <color=Highlight>Basic Attack 4</color> inflicts <color=Highlight>Aero Erosion</color> on the target.\nInterruptions to <color=Highlight>Basic Attack 4</color> generate <color=Highlight>Ensemble Sylph</color>.\n<size=10></size>\n<size=40><color=Title>Ensemble Sylph</color></size>\nFinishes Ciaccona's interrupted attack after being generated.\nAll nearby Resonators in the team gain Aero DMG bonus when a green light circle appears beneath Ciaccona or <color=Highlight>Ensemble Sylph</color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack</color></size>\nDeal <color=Wind>Aero DMG</color>.\n<size=10></size>\n<size=40><color=Title>Aimed Attack</color></size>\nDeal <color=Wind>Aero DMG</color>, considered <color=Highlight>Heavy Attack DMG</color>.\n<size=10></size>\n<size=40><color=Title>Mid-air Attack</color></size>\nDeal <color=Wind>Aero DMG</color>.\n<size=10></size>\n<size=40><color=Title>Dodge Counter</color></size>\nDeal <color=Wind>Aero DMG</color>.",
+      "translation_vi": "<size=40><color=Title>Tấn Công Cơ Bản</color></size>\nGây <color=Wind>Sát Thương Aero</color>. <color=Highlight>Tấn Công Cơ Bản 4</color> gây <color=Highlight>Xói Mòn Aero</color> lên mục tiêu.\nNếu <color=Highlight>Tấn Công Cơ Bản 4</color> bị gián đoạn sẽ tạo ra <color=Highlight>Dàn Nhạc Sylph</color>.\n<size=10></size>\n<size=40><color=Title>Dàn Nhạc Sylph</color></size>\nHoàn thành đòn tấn công bị gián đoạn của Ciaccona sau khi được tạo ra.\nKhi vòng tròn ánh sáng xanh xuất hiện dưới chân Ciaccona hoặc <color=Highlight>Dàn Nhạc Sylph</color>, tất cả Cộng Hưởng Giả trong đội gần đó sẽ nhận thêm Sát Thương Aero.\n<size=10></size>\n<size=40><color=Title>Tấn Công Nặng</color></size>\nGây <color=Wind>Sát Thương Aero</color>.\n<size=10></size>\n<size=40><color=Title>Tấn Công Nhắm</color></size>\nGây <color=Wind>Sát Thương Aero</color>, được tính là <color=Highlight>Sát Thương Tấn Công Nặng</color>.\n<size=10></size>\n<size=40><color=Title>Tấn Công Giữa Không</color></size>\nGây <color=Wind>Sát Thương Aero</color>.\n<size=10></size>\n<size=40><color=Title>Phản Đòn Né Tránh</color></size>\nGây <color=Wind>Sát Thương Aero</color>."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 180064,
+      "primary_key": "Skill_1003403_SkillResume",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "<size=40><color=Title>Resonance Liberation</color></size>\nDeal <color=Wind>Aero DMG</color> and enter an <color=Highlight>Enhanced State</color>.\n<size=10> </size>\n<size=40><color=Title>Enhanced State</color></size>\n{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} the interactive button at the right time to deal <color=Wind>Aero DMG</color> and trigger different effects based on the color of the button hit:\n- Green: Inflict <color=Highlight>Aero Erosion</color>.\n- Yellow: Inflict <color=Highlight>Spectro Frazzle</color>.\nCiaccona will stay in the <color=Highlight>Enhanced State</color> after switching to other Resonators, and will trigger the effect of the last hit button again before the switch.\n<color=Highlight>Ensemble Sylphs</color>' Aero DMG Bonus effect can be triggered in the <color=Highlight>Enhanced State</color>.",
+      "translation_vi": "<size=40><color=Title>Giải Phóng Cộng Hưởng</color></size>\nGây <color=Wind>Sát Thương Aero</color> và bước vào <color=Highlight>Trạng Thái Tăng Cường</color>.\n<size=10> </size>\n<size=40><color=Title>Trạng Thái Tăng Cường</color></size>\n{Cus:Ipt,Touch=Chạm PC=Nhấn Gamepad=Nhấn} nút tương tác đúng thời điểm để gây <color=Wind>Sát Thương Aero</color> và kích hoạt hiệu ứng khác nhau dựa trên màu nút đã bấm:\n- Xanh lá: Gây <color=Highlight>Xói Mòn Aero</color>.\n- Vàng: Gây <color=Highlight>Rối Loạn Spectro</color>.\nCiaccona sẽ duy trì <color=Highlight>Trạng Thái Tăng Cường</color> sau khi chuyển sang Cộng Hưởng Giả khác, và kích hoạt lại hiệu ứng của nút cuối cùng đã bấm trước khi chuyển.\nHiệu ứng tăng <color=Highlight>Sát Thương Aero</color> của <color=Highlight>Hợp Tấu Tiên Nữ</color> có thể được kích hoạt trong <color=Highlight>Trạng Thái Tăng Cường</color>."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 180082,
+      "primary_key": "Skill_1003409_SkillResume",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "Amplify <color=Highlight>Aero Erosion</color> DMG taken by nearby targets.",
+      "translation_vi": "Khuếch đại Sát Thương <color=Highlight>Xói Mòn Aero</color> mà mục tiêu gần đó phải chịu."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 180085,
+      "primary_key": "Skill_1003501_SkillResume",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero",
+        "Sát Thương Xói Mòn Aero"
+      ],
+      "source_en": "<size=40><color=Title>Basic Attack - Cartethyia</color></size>\nDeal <color=Wind>Aero DMG</color> and inflict <color=Wind>Aero Erosion</color> on the target. Summon <color=Highlight>Sword Shadow II</color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Cartethyia</color></size>\nDeal <color=Wind>Aero DMG</color> and summon <color=Highlight>Sword Shadow I</color>.\nThis instance of DMG is considered <color=Highlight>Basic Attack DMG</color>.\n<size=10></size>\n<size=40><color=Title>Mid-air Attack - Cartethyia</color></size>\nDeal <color=Wind>Aero DMG</color> and recall all <color=Highlight>Sword Shadows</color>.\nThis instance of DMG is also considered <color=Wind>Aero Erosion DMG</color>.\n<size=10></size>\n<size=40><color=Title>Dodge Counter - Cartethyia</color></size>\nDeal <color=Wind>Aero DMG</color>.",
+      "translation_vi": "<size=40><color=Title>Đòn Cơ Bản - Cartethyia</color></size>\nGây <color=Wind>Sát Thương Aero</color> và áp <color=Wind>Xói Mòn Aero</color> lên mục tiêu. Triệu hồi <color=Highlight>Bóng Kiếm II</color>.\n<size=10></size>\n<size=40><color=Title>Đòn Nặng - Cartethyia</color></size>\nGây <color=Wind>Sát Thương Aero</color> và triệu hồi <color=Highlight>Bóng Kiếm I</color>.\nSát thương này được tính là <color=Highlight>Sát Thương Đòn Cơ Bản</color>.\n<size=10></size>\n<size=40><color=Title>Đòn Trên Không - Cartethyia</color></size>\nGây <color=Wind>Sát Thương Aero</color> và thu hồi tất cả <color=Highlight>Bóng Kiếm</color>.\nSát thương này cũng được tính là <color=Wind>Sát Thương Xói Mòn Aero</color>.\n<size=10></size>\n<size=40><color=Title>Phản Đòn Né Tránh - Cartethyia</color></size>\nGây <color=Wind>Sát Thương Aero</color>."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 180088,
+      "primary_key": "Skill_1003502_SkillResume",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "<size=40><color=Title>Resonance Skill - Cartethyia</color></size>\nDeal <color=Wind>Aero DMG</color> and inflict <color=Wind>Aero Erosion</color> on the target. Summon <color=Highlight>Sword Shadow III</color>.\nThis instance of DMG is considered <color=Highlight>Basic Attack DMG</color>.",
+      "translation_vi": "<size=40><color=Title>Kỹ Năng Cộng Hưởng - Cartethyia</color></size>\nGây <color=Wind>Sát Thương Aero</color> và áp <color=Wind>Xói Mòn Aero</color> lên mục tiêu. Triệu hồi <color=Highlight>Bóng Kiếm III</color>.\nLượng sát thương này được tính là <color=Highlight>Sát Thương Tấn Công Cơ Bản</color>."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 180091,
+      "primary_key": "Skill_1003503_SkillResume",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "<size=40><color=Title>Resonance Liberation - Cartethyia</color></size>\nAt the cost of HP, transform into <color=Highlight>Fleurdelys</color> and enter <color=Highlight>Manifest</color>, during which certain attacks immediately trigger <color=Wind>Aero Erosion</color> DMG.\n<size=10></size>\n<size=40><color=Title>Manifest</color></size>\nWhen in <color=Highlight>Manifest</color>, <color=Highlight>Fleurdelys</color> gains the following effects corresponding to the different types of <color=Highlight>Sword Shadow</color> recalled.\n- <color=Highlight>Sword Shadow I</color>: Certain attacks propagate the highest stacks of <color=Wind>Aero Erosion</color> on targets hit to all nearby targets.\n- <color=Highlight>Sword Shadow II</color>: The damage interval of <color=Highlight>Aero Erosion</color> DMG is reduced and the <color=Highlight>Aero Erosion</color> DMG taken by the target is Amplified.\n- <color=Highlight>Sword Shadow III</color>: Certain attacks Stagnate the enemy. Gain increased resistance to interruption.\n<size=10></size>\n<size=40><color=Title>Resonance Liberation Finisher </color></size>\nRestore HP and deal a massive amount of <color=Wind>Aero DMG</color>.",
+      "translation_vi": "<size=40><color=Title>Giải Phóng Cộng Hưởng - Cartethyia</color></size>\nTrả bằng HP, biến hình thành <color=Highlight>Fleurdelys</color> và bước vào trạng thái <color=Highlight>Hiện Thân</color>, trong đó một số đòn tấn công sẽ lập tức kích hoạt <color=Wind>Xói Mòn Aero</color>.\n<size=10></size>\n<size=40><color=Title>Hiện Thân</color></size>\nKhi ở trạng thái <color=Highlight>Hiện Thân</color>, <color=Highlight>Fleurdelys</color> sẽ nhận các hiệu ứng sau tương ứng với loại <color=Highlight>Bóng Kiếm</color> được thu hồi:\n- <color=Highlight>Bóng Kiếm I</color>: Một số đòn tấn công sẽ lan truyền số tầng <color=Wind>Xói Mòn Aero</color> cao nhất từ mục tiêu trúng đòn sang các mục tiêu lân cận.\n- <color=Highlight>Bóng Kiếm II</color>: Khoảng sát thương của <color=Highlight>Xói Mòn Aero</color> được thu hẹp và sát thương <color=Highlight>Xói Mòn Aero</color> mà mục tiêu phải chịu sẽ được Khuếch Đại.\n- <color=Highlight>Bóng Kiếm III</color>: Một số đòn tấn công sẽ khiến kẻ địch bị Trì Hoãn. Tăng khả năng kháng làm gián đoạn.\n<size=10></size>\n<size=40><color=Title>Kết Thúc Giải Phóng Cộng Hưởng</color></size>\nHồi phục HP và gây một lượng lớn <color=Wind>Sát Thương Aero</color>."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 180100,
+      "primary_key": "Skill_1003506_SkillResume",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "<size=40><color=Title>Intro Skill - Cartethyia</color></size>\nDeal <color=Wind>Aero DMG</color> and inflict <color=Wind>Aero Erosion</color> on the target. Summon <color=Highlight>Sword Shadow I</color>.\n<size=10></size>\n<size=40><color=Title>Intro Skill - Fleurdelys</color></size>\nDeal <color=Wind>Aero DMG</color>.",
+      "translation_vi": "<size=40><color=Title>Kỹ Năng Intro - Cartethyia</color></size>\nGây <color=Wind>Sát Thương Aero</color> và áp đặt <color=Wind>Xói Mòn Aero</color> lên mục tiêu. Triệu hồi <color=Highlight>Bóng Kiếm I</color>.\n<size=10></size>\n<size=40><color=Title>Kỹ Năng Intro - Fleurdelys</color></size>\nGây <color=Wind>Sát Thương Aero</color>."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 186449,
+      "primary_key": "RogueResSynergyName_1001015_1",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "All Resonators get Collinearity: Dealing DMG with Basic ATK, Heavy ATK, Resonance Skill, and Resonance Liberation inflicts <SapTag=0>{0}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=0} of Aero Erosion and <SapTag=1>{1}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=1} of Spectro Frazzle, triggered once every {2}s.",
+      "translation_vi": "Tất cả Cộng Hưởng Giả nhận Hiệu Ứng Đồng Quy: Gây Sát Thương bằng Tấn Công Cơ Bản, Tấn Công Nặng, Kỹ Năng Cộng Hưởng và Giải Phóng Cộng Hưởng sẽ áp đặt <SapTag=0>{0}</SapTag> {Cus:Sap,S=tầng P=tầng SapTag=0} Xói Mòn Aero và <SapTag=1>{1}</SapTag> {Cus:Sap,S=tầng P=tầng SapTag=1} Rối Loạn Spectro, kích hoạt mỗi {2} giây một lần."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 186559,
+      "primary_key": "BabelDebuff_10000108_BuffDesc",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "<color=#b72924ff>Staying on the ground</color> inflicts <color=#b72924ff>1</color> stack of <color=#b72924ff>Aero Erosion</color> on the active Resonator every <color=#b72924ff>1.5s</color>. All stacks of <color=#5cc96aff>Aero Erosion</color> are removed when in <color=#5cc96aff>mid-air</color>.",
+      "translation_vi": "Ở <color=#b72924ff>trạng thái trên mặt đất</color>, Cộng Hưởng Giả hiện tại sẽ nhận <color=#b72924ff>1 tầng Xói Mòn Aero</color> sau mỗi <color=#b72924ff>1,5 giây</color>. Toàn bộ <color=#5cc96aff>tầng Xói Mòn Aero</color> sẽ bị xóa khi ở <color=#5cc96aff>trạng thái lơ lửng</color>."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 186560,
+      "primary_key": "BabelDebuff_10000109_BuffDesc",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "<color=#b72924ff>Staying in mid-air</color> inflicts <color=#b72924ff>1</color> stack of <color=#b72924ff>Aero Erosion</color> on the active Resonator every <color=#b72924ff>1.5s</color>.",
+      "translation_vi": "Ở <color=#b72924ff>trạng thái lơ lửng</color>, Cộng Hưởng Giả hiện tại sẽ nhận <color=#b72924ff>1 tầng Xói Mòn Aero</color> sau mỗi <color=#b72924ff>1,5 giây</color>."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 191080,
+      "primary_key": "RogueBuffPool_335108_BuffDesc",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "Spectro Frazzle or Aero Erosion reduces Resonance Skill Cooldown by {0}s upon dealing damage. Cooldown: {1}s.",
+      "translation_vi": "Rối Loạn Spectro hoặc Xói Mòn Aero giảm thời gian hồi chiêu Kỹ Năng Cộng Hưởng {0} giây khi gây sát thương. Thời gian hồi chiêu: {1} giây."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 191230,
+      "primary_key": "RogueBuffPool_335108_BuffDesc_0",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "Spectro Frazzle or Aero Erosion reduces Resonance Skill Cooldown upon dealing damage.",
+      "translation_vi": "Rối Loạn Spectro hoặc Xói Mòn Aero giảm thời gian hồi chiêu Kỹ Năng Cộng Hưởng khi gây sát thương."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 197593,
+      "primary_key": "RogueBuffPool_140601_BuffDesc",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "<color=#c49e55>[Resonance Skill]</color>\nResonance Skill - Awakening Gale's Cooldown is reduced by {0}, and Rover: Aero is immune to interruption while casting the skill.\nCasting Mid-air Attack - Cloudburst Dance and Basic Mid-air Attack increases Resonance Skill DMG by {1} for {2}s, stacking up to {3} times.\nThe attack range of Cloudburst Dance and Basic Mid-air Attack is expanded, and they inflict <SapTag=4>{4}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=4} of Aero Erosion upon the target on hit.\nWhen Rover: Aero attacks the target and inflicts Aero Erosion, each stack of Aero Erosion additionally deals Aero DMG equal to {5} of Rover: Aero's ATK, considered Resonance Skill DMG.",
+      "translation_vi": "<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>\nThời gian hồi chiêu của Kỹ Năng Cộng Hưởng - Cơn Gió Thức Tỉnh giảm {0}, và Rover: Aero miễn nhiễm với gián đoạn khi sử dụng kỹ năng.\nSử dụng Đòn Tấn Công Giữa Không - Vũ Điệu Mây Mưa và Đòn Cơ Bản Giữa Không tăng sát thương Kỹ Năng Cộng Hưởng lên {1} trong {2} giây, có thể chồng chất tối đa {3} lần.\nPhạm vi tấn công của Vũ Điệu Mây Mưa và Đòn Cơ Bản Giữa Không được mở rộng, và chúng gây <SapTag=4>{4}</SapTag> {Cus:Sap,S=lớp P=lớp} Xói Mòn Aero lên mục tiêu khi trúng đòn.\nKhi Rover: Aero tấn công mục tiêu và gây Xói Mòn Aero, mỗi lớp Xói Mòn sẽ gây thêm sát thương Aero bằng {5} Tấn Công của Rover: Aero, được tính là sát thương Kỹ Năng Cộng Hưởng."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 197626,
+      "primary_key": "RogueBuffPool_140901_BuffDesc_2_8_0",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "<color=Highlight>[Resonance Skill]</color>\n- Resonance Skill - Sword to Answer Waves' Call and Resonance Skill - May Tempest Break the Tides deal more DMG and inflict Aero Erosion.\n- Cartethyia and Fleurdelys gain Aeolian Realm.",
+      "translation_vi": "<color=Highlight>[Kỹ Năng Cộng Hưởng]</color>\n- Kỹ Năng Cộng Hưởng - \"Kiếm Đáp Lời Sóng\" và Kỹ Năng Cộng Hưởng - \"Bão Tố Phá Tan Triều Dâng\" gây nhiều sát thương hơn và gây hiệu ứng Xói Mòn Aero.\n- Cartethyia và Fleurdelys nhận được Lãnh Địa Gió."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 199291,
+      "primary_key": "RoleTag24",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "Aero Erosion",
+      "translation_vi": "Xói Mòn Aero"
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 208832,
+      "primary_key": "RogueBuffPool_140901_BuffDesc",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "<color=#c49e55>[Resonance Skill]</color>\n- Targets hit by Resonance Skill - Cartethyia take additional Aero DMG equal to {0} of Max HP and are inflicted with an additional <SapTag=1>{1}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=1} of Aero Erosion. Casting Resonance Skill - Cartethyia summons an additional Sword of Divinity's Shadow and reduces Resonance Liberation cooldown by {2}s.\n- Resistance to interruption is increased when casting Resonance Skill - Sword to Answer Waves' Call and Resonance Skill - May Tempest Break the Tides. Their DMG is Amplified by {3}. Hitting the target with the two skills additionally inflicts <SapTag=4>{4}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=4} of Aero Erosion.\n- Also, Cartethyia and Fleurdelys gain Aeolian Realm: Upon hitting a target, increase the maximum stacks of Aero Erosion the target can receive by 3 for 10s. This effect does not stack.",
+      "translation_vi": "<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>\n- Mục tiêu trúng Kỹ Năng Cộng Hưởng - Cartethyia sẽ chịu thêm Sát Thương Aero bằng {0} HP tối đa và dính thêm <SapTag=1>{1}</SapTag> {Cus:Sap,S= tầng P= tầng} Xói Mòn Aero. Khi sử dụng Kỹ Năng Cộng Hưởng - Cartethyia, triệu hồi thêm một Kiếm Bóng Tối Thần Thánh và giảm thời gian hồi chiêu của Giải Phóng Cộng Hưởng đi {2} giây.\n- Khả năng chống gián đoạn tăng lên khi sử dụng Kỹ Năng Cộng Hưởng - Kiếm Đáp Lời Sóng và Kỹ Năng Cộng Hưởng - Bão Tố Phá Tan Triều Cường. Sát Thương của chúng được Khuếch Đại thêm {3}. Trúng mục tiêu bằng cả hai kỹ năng sẽ gây thêm <SapTag=4>{4}</SapTag> {Cus:Sap,S= tầng P= tầng} Xói Mòn Aero.\n- Ngoài ra, Cartethyia và Fleurdelys nhận được Lãnh Địa Gió: Khi trúng mục tiêu, tăng tối đa 3 tầng Xói Mòn Aero mà mục tiêu có thể nhận trong 10 giây. Hiệu ứng này không cộng dồn."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 208834,
+      "primary_key": "RogueBuffPool_140903_BuffDesc",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero",
+        "Sát Thương Xói Mòn Aero"
+      ],
+      "source_en": "<color=#c49e55>[Resonance Liberation]</color>\n- Casting Resonance Liberation - A Knight's Heartfelt Prayers grants 2 stacks of Sanctity. If Fleurdelys has 120 points of Conviction and Sanctity, Resonance Skill is replaced with Resonance Skill - Adjudicator of Evil.\n- Resonance Skill - Adjudicator of Evil:\nCasting the skill consumes 1 stack of Sanctity and all Conviction, dealing Aero DMG equal to {0} of Max HP to all targets in an area along a straight line in front. The DMG dealt is considered both Aero Erosion DMG and Basic Attack DMG. Then inflict <SapTag=1>{1}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=1} of Aero Erosion on targets hit.\nAfter casting Resonance Skill - Adjudicator of Evil, Fleurdelys will re-enter Manifest and gain 1 stack of Rite of Freedom, stacking up to 2 times. Casting Resonance Liberation - Blade of Howling Squall as Fleurdelys or Mid-air Attack - Cartethyia as Cartethyia in the Blessed Storm state consumes all stacks of Rite of Freedom, with each stack consumed increasing the DMG Multiplier of this instance of attack by {2}. Afterward, clear all Sanctity.\n- When Fleurdelys transforms back into Cartethyia for the first time in Manifest, she will cast Intro Skill - Sword to Mark Tide's Trace and consume 1 stack of Sanctity to gain Unbreakable Oath for {3}s.\nUnbreakable Oath:\n- All DMG dealt by Cartethyia is Amplified by {4}.\n- The interval of triggering Aero Erosion DMG on targets within a certain range of Cartethyia is reduced by 50%, and the Aero Erosion DMG dealt is Amplified by 50%.\n- If Cartethyia has Heart of Virtue, Mandate of Divinity, and Power of Discord simultaneously and she is not in the Blessed Storm state, Mid-air Attack- Cartethyia will extend Unbreakable Oath by {5}s on hit and grant 1 stack of Rite of Freedom.",
+      "translation_vi": "<color=#c49e55>[Giải Phóng Cộng Hưởng]</color>\n- Kích hoạt Giải Phóng Cộng Hưởng - Lời Nguyện Cầu Chân Thành của Kỵ Sĩ sẽ ban 2 tầng Thánh Khiết. Nếu Fleurdelys có 120 điểm Niềm Tin và Thánh Khiết, Kỹ Năng Cộng Hưởng sẽ được thay thế bằng Kỹ Năng Cộng Hưởng - Thẩm Phán Tội Ác.\n- Kỹ Năng Cộng Hưởng - Thẩm Phán Tội Ác:\nKích hoạt kỹ năng sẽ tiêu hao 1 tầng Thánh Khiết và toàn bộ Niềm Tin, gây Sát Thương Aero bằng {0} HP tối đa lên tất cả mục tiêu trong một khu vực theo đường thẳng phía trước. Sát thương gây ra được tính là cả Sát Thương Xói Mòn Aero và Sát Thương Đòn Tấn Công Cơ Bản. Sau đó, áp đặt <SapTag=1>{1}</SapTag> {Cus:Sap,S=tầng P=tầng Xói Mòn Aero} lên mục tiêu trúng đòn.\nSau khi kích hoạt Kỹ Năng Cộng Hưởng - Thẩm Phán Tội Ác, Fleurdelys sẽ tái nhập Hiện Thể và nhận 1 tầng Nghi Thức Tự Do, có thể tích lũy tối đa 2 tầng. Kích hoạt Giải Phóng Cộng Hưởng - Lưỡi Kiếm Gió Gào của Fleurdelys hoặc Đòn Tấn Công Giữa Không - Cartethyia của Cartethyia trong trạng thái Bão Phước Lành sẽ tiêu hao toàn bộ tầng Nghi Thức Tự Do, mỗi tầng tiêu hao làm tăng Hệ Số Sát Thương của đòn tấn công này thêm {2}. Sau đó, xóa toàn bộ Thánh Khiết.\n- Khi Fleurdelys lần đầu biến hình trở lại thành Cartethyia trong Hiện Thể, cô sẽ kích hoạt Kỹ Năng Giới Thiệu - Kiếm Khắc Dấu Vết Thủy Triều và tiêu hao 1 tầng Thánh Khiết để nhận Lời Thề Bất Diệt trong {3} giây.\nLời Thề Bất Diệt:\n- Tất cả sát thương do Cartethyia gây ra được Khuếch Đại thêm {4}.\n- Khoảng thời gian kích hoạt Sát Thương Xói Mòn Aero lên mục tiêu trong phạm vi nhất định quanh Cartethyia giảm 50%, và Sát Thương Xói Mòn Aero được Khuếch Đại thêm 50%.\n- Nếu Cartethyia đồng thời sở hữu Trái Tim Nhân Đức, Thiên Mệnh và Quyền Năng Bất Hòa mà không ở trạng thái Bão Phước Lành, Đòn Tấn Công Giữa Không - Cartethyia khi trúng mục tiêu sẽ gia hạn Lời Thề Bất Diệt thêm {5} giây và ban 1 tầng Nghi Thức Tự Do."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 208835,
+      "primary_key": "RogueBuffPool_140904_BuffDesc",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero",
+        "Sát Thương Xói Mòn Aero"
+      ],
+      "source_en": "<color=#c49e55>[Forte Circuit]</color>\nBasic Attack - Fleurdelys Stage 4, Mid-air Attack - Fleurdelys Stage 2, Dodge Counter - Fleurdelys, Resonance Skill - May Tempest Break the Tides, and Intro Skill -  Sword to Mark Tide's Trace summon 1 wave of Purifying Rain. If Cartethyia has Heart of Virtue, Mandate of Divinity, and Power of Discord, Mid-air Attack - Cartethyia also summons a wave of Purifying Rain.\n\nPurifying Rain reduces the cooldown of Resonance Skill - Sword to Answer Waves' Call by {0}s and deals Aero DMG equal to {1} of Max HP in total to targets within range. The DMG dealt is considered both Aero Erosion DMG and Basic attack DMG.",
+      "translation_vi": "<color=#c49e55>[Forte Circuit]</color>\nTấn Công Cơ Bản - Fleurdelys Giai Đoạn 4, Tấn Công Giữa Không - Fleurdelys Giai Đoạn 2, Phản Đòn Né Tránh - Fleurdelys, Kỹ Năng Cộng Hưởng - May Tempest Break the Tides và Kỹ Năng Khởi Động - Sword to Mark Tide's Trace sẽ triệu hồi một đợt Mưa Thanh Tẩy. Nếu Cartethyia sở hữu Heart of Virtue, Mandate of Divinity và Power of Discord, Tấn Công Giữa Không - Cartethyia cũng sẽ triệu hồi một đợt Mưa Thanh Tẩy.\n\nMưa Thanh Tẩy giảm thời gian hồi chiêu của Kỹ Năng Cộng Hưởng - Sword to Answer Waves' Call đi {0}s và gây Sát Thương Aero bằng {1} tổng HP tối đa lên các mục tiêu trong phạm vi. Sát Thương gây ra được tính là cả Sát Thương Xói Mòn Aero và Sát Thương Tấn Công Cơ Bản."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 208842,
+      "primary_key": "RogueBuffPool_140901_BuffDesc_0",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "<color=#c49e55>[Resonance Skill]</color>\nResonance Skill - Cartethyia, Resonance Skill - Sword to Answer Waves' Call, and Resonance Skill - May Tempest Break the Tides deal additional DMG and inflict Aero Erosion on targets hit. \nCartethyia and Fleurdelys gain Aeolian Realm.",
+      "translation_vi": "<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>\nKỹ Năng Cộng Hưởng - Cartethyia, Kỹ Năng Cộng Hưởng - Kiếm Đáp Lời Sóng, và Kỹ Năng Cộng Hưởng - Bão Tố Phá Tan Triều Khúc gây thêm sát thương và gây Xói Mòn Aero lên mục tiêu trúng đòn.\nCartethyia và Fleurdelys nhận được Lãnh Địa Gió."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 208888,
+      "primary_key": "RogueBuffPool_261008_BuffDesc",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "When in [Divined Dream], every 20 stacks of Aero Erosion or Spectro Frazzle inflicted triggers a sword barrage that strikes the targets 5 times. Each strike deals Aero DMG equal to 240% of ATK and applies 1 addtional stack of Aero Erosion and Spectro Frazzle.",
+      "translation_vi": "Khi ở trong [Divined Dream], mỗi 20 tầng Xói Mòn Aero hoặc Rối Loạn Spectro gây ra sẽ kích hoạt một loạt kiếm tấn công mục tiêu 5 lần. Mỗi đòn gây Sát Thương Aero bằng 240% Tấn Công và áp dụng thêm 1 tầng Xói Mòn Aero và Rối Loạn Spectro."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 208918,
+      "primary_key": "RogueBuffPool_26100801_BuffDesc",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "When the active Resonator deals damage, the target is inflicted with 1 stack of Aero Erosion and Spectro Frazzle, triggered once every 0.8s. This also grants all Resonators in the team 8% Aero and Spectro DMG Bonus for 5s, stacking up to 20 times.",
+      "translation_vi": "Khi Cộng Hưởng Giả chủ động gây sát thương, mục tiêu sẽ bị nhiễm 1 tầng Xói Mòn Aero và Rối Loạn Spectro, kích hoạt mỗi 0.8 giây một lần. Đồng thời, tất cả Cộng Hưởng Giả trong đội sẽ nhận được Tăng Sát Thương Aero và Spectro 8% trong 5 giây, có thể chồng chất lên đến 20 lần."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 208921,
+      "primary_key": "RogueBuffPool_26100804_BuffDesc",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "When not in [Divined Dream], [Erosion Sigil] can still trigger, but each sword barrage strike only deals Aero DMG equal to 120% of ATK.\nWhen in [Divined Dream], each time a stack of Aero Erosion or Spectro Frazzle is inflicted, there is a 20% chance to inflict 2 stacks instead.",
+      "translation_vi": "Ngoài trạng thái [Giấc Mộng Tiên Tri], [Ấn Ký Xói Mòn] vẫn có thể kích hoạt, nhưng mỗi đòn tấn công của kiếm trận chỉ gây Sát Thương Aero bằng 120% Tấn Công.\nTrong trạng thái [Giấc Mộng Tiên Tri], mỗi lần gây hiệu ứng Xói Mòn Aero hoặc Rối Loạn Spectro, có 20% cơ hội gây 2 tầng hiệu ứng thay vì 1."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 208963,
+      "primary_key": "RogueBuffPool_26100801_BuffDesc_0",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "Dealing damage inflicts Aero Erosion and Spectro Frazzle effect and increases Aero and Spectro DMG of all Resonators in the team.",
+      "translation_vi": "Gây sát thương gây hiệu ứng Xói Mòn Aero và Rối Loạn Spectro, đồng thời tăng Sát Thương Aero và Spectro của tất cả Cộng Hưởng Giả trong đội."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 212469,
+      "primary_key": "RogueBuffPool_140901_BuffDesc_2_8",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero",
+        "Sát Thương Xói Mòn Aero"
+      ],
+      "source_en": "<color=Highlight>[Resonance Skill]</color>\n- Targets hit by Resonance Skill - Cartethyia take additional Aero DMG equal to <color=Highlight>{0}</color> of Max HP (also considered Aero Erosion DMG) and are inflicted with an additional <color=Highlight><SapTag=1>{1}</SapTag></color> {Cus:Sap,S=stack P=stacks SapTag=1} of Aero Erosion. Casting Resonance Skill - Cartethyia summons an additional Sword of Divinity's Shadow and reduces Resonance Liberation cooldown by <color=Highlight>{2}s</color>.\n- Resistance to interruption is increased when casting Resonance Skill - Sword to Answer Waves' Call and Resonance Skill - May Tempest Break the Tides. Their DMG is Amplified by <color=Highlight>{3}</color>. Hitting the target with the two skills additionally inflicts <color=Highlight><SapTag=4>{4}</SapTag></color> {Cus:Sap,S=stack P=stacks SapTag=4} of Aero Erosion.\n- Also, Cartethyia and Fleurdelys gain Aeolian Realm: Upon hitting a target, increase the maximum stacks of Aero Erosion the target can receive by 3 for 10s. This effect does not stack.",
+      "translation_vi": "<color=Highlight>[Kỹ Năng Cộng Hưởng]</color>\n- Mục tiêu trúng Kỹ Năng Cộng Hưởng - Cartethyia sẽ chịu thêm Sát Thương Aero bằng <color=Highlight>{0}</color> HP tối đa (cũng được tính là Sát Thương Xói Mòn Aero) và bị nhiễm thêm <color=Highlight><SapTag=1>{1}</SapTag></color> {Cus:Sap,S=lớp P=lớp Xói Mòn Aero SapTag=1}. Khi sử dụng Kỹ Năng Cộng Hưởng - Cartethyia, sẽ triệu hồi thêm một Kiếm Bóng Thần Tính và giảm thời gian hồi chiêu của Giải Phóng Cộng Hưởng đi <color=Highlight>{2}s</color>.\n- Kháng làm gián đoạn được tăng lên khi sử dụng Kỹ Năng Cộng Hưởng - Kiếm Đáp Lời Tiếng Sóng và Kỹ Năng Cộng Hưởng - Bão Tố Phá Tan Triều Cường. Sát Thương của chúng được Khuếch Đại thêm <color=Highlight>{3}</color>. Đánh trúng mục tiêu bằng hai kỹ năng này sẽ gây thêm <color=Highlight><SapTag=4>{4}</SapTag></color> {Cus:Sap,S=lớp P=lớp Xói Mòn Aero SapTag=4}.\n- Ngoài ra, Cartethyia và Fleurdelys nhận được Hư Không Gió: Khi đánh trúng mục tiêu, tăng số lớp Xói Mòn Aero tối đa mục tiêu có thể nhận thêm 3 trong 10s. Hiệu ứng này không cộng dồn."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 212470,
+      "primary_key": "RogueBuffPool_140903_BuffDesc_2_8",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero",
+        "Sát Thương Xói Mòn Aero"
+      ],
+      "source_en": "<color=Highlight>[Resonance Liberation]</color>\n- Casting Resonance Liberation - A Knight's Heartfelt Prayers grants 2 stacks of Sanctity. If Fleurdelys has 120 points of Conviction and Sanctity, Resonance Skill is replaced with Resonance Skill - Adjudicator of Evil.\n- Resonance Skill - Adjudicator of Evil:\nCasting the skill consumes 1 stack of Sanctity and all Conviction, dealing Aero DMG equal to <color=Highlight>{0}</color> of Max HP to all targets in an area along a straight line in front. The DMG dealt is considered both Aero Erosion DMG and Basic Attack DMG. Then inflict <color=Highlight><SapTag=1>{1}</SapTag></color> {Cus:Sap,S=stack P=stacks SapTag=1} of Aero Erosion on targets hit and restore 50% of Max HP.\nAfter casting Resonance Skill - Adjudicator of Evil, Fleurdelys will re-enter Manifest and gain 1 stack of Rite of Freedom, stacking up to 2 times. Casting Resonance Liberation - Blade of Howling Squall as Fleurdelys or Mid-air Attack - Cartethyia as Cartethyia in the Blessed Storm state consumes all stacks of Rite of Freedom, with each stack consumed increasing the DMG Multiplier of this instance of attack by <color=Highlight>{2}</color>. Afterward, clear all Sanctity.\n- When Fleurdelys transforms back into Cartethyia for the first time in Manifest, she will cast Intro Skill - Sword to Mark Tide's Trace and consume 1 stack of Sanctity to gain Unbreakable Oath for <color=Highlight>{3}s</color>.\nUnbreakable Oath:\n- All DMG dealt by Cartethyia is Amplified by <color=Highlight>{4}</color>.\n- The interval of triggering Aero Erosion DMG on targets within a certain range of Cartethyia is reduced by 50%, and the Aero Erosion DMG dealt is Amplified by 50%.\n- If Cartethyia has Heart of Virtue, Mandate of Divinity, and Power of Discord simultaneously and she is not in the Blessed Storm state, Mid-air Attack- Cartethyia will extend Unbreakable Oath by <color=Highlight>{5}s</color> on hit and grant 1 stack of Rite of Freedom.",
+      "translation_vi": "<color=Highlight>[Giải Phóng Cộng Hưởng]</color>\n- Giải Phóng Cộng Hưởng - Lời Nguyện Cầu Chân Thành của Kỵ Sĩ sẽ ban 2 tầng Thánh Khiết. Nếu Fleurdelys có 120 điểm Niềm Tin và Thánh Khiết, Kỹ Năng Cộng Hưởng sẽ được thay thế bằng Kỹ Năng Cộng Hưởng - Thẩm Phán Tà Ác.\n- Kỹ Năng Cộng Hưởng - Thẩm Phán Tà Ác:\nSử dụng kỹ năng sẽ tiêu hao 1 tầng Thánh Khiết và toàn bộ Niềm Tin, gây Sát Thương Aero bằng <color=Highlight>{0}</color> HP tối đa lên tất cả mục tiêu trong phạm vi theo đường thẳng phía trước. Sát thương gây ra được tính là cả Sát Thương Xói Mòn Aero và Sát Thương Đòn Cơ Bản. Sau đó, áp đặt <color=Highlight><SapTag=1>{1}</SapTag></color> {Cus:Sap,S=tầng P=tầng Xói Mòn Aero SapTag=1} Xói Mòn Aero lên mục tiêu trúng đòn và hồi phục 50% HP tối đa.\nSau khi sử dụng Kỹ Năng Cộng Hưởng - Thẩm Phán Tà Ác, Fleurdelys sẽ tái nhập Trạng Thái Hiện Thân và nhận 1 tầng Nghi Lễ Tự Do, có thể tích lũy tối đa 2 tầng. Sử dụng Giải Phóng Cộng Hưởng - Lưỡi Kiếm Bão Gào của Fleurdelys hoặc Đòn Tấn Công Giữa Không - Cartethyia của Cartethyia trong trạng thái Bão Phước Lành sẽ tiêu hao toàn bộ tầng Nghi Lễ Tự Do, mỗi tầng tiêu hao làm tăng Hệ Số Sát Thương của đòn tấn công này thêm <color=Highlight>{2}</color>. Sau đó, xóa toàn bộ Thánh Khiết.\n- Khi Fleurdelys lần đầu biến hình trở lại thành Cartethyia trong Trạng Thái Hiện Thân, cô sẽ sử dụng Kỹ Năng Khởi Động - Kiếm Khắc Dấu Vết Thủy Triều và tiêu hao 1 tầng Thánh Khiết để nhận Lời Thề Bất Diệt trong <color=Highlight>{3} giây</color>.\nLời Thề Bất Diệt:\n- Tất cả sát thương Cartethyia gây ra được Khuếch Đại thêm <color=Highlight>{4}</color>.\n- Khoảng thời gian kích hoạt Sát Thương Xói Mòn Aero trên mục tiêu trong phạm vi nhất định quanh Cartethyia giảm 50%, và Sát Thương Xói Mòn Aero gây ra được Khuếch Đại thêm 50%.\n- Nếu Cartethyia đồng thời sở hữu Trái Tim Nhân Đức, Thiên Mệnh và Quyền Năng Bất Hòa mà không ở trạng thái Bão Phước Lành, Đòn Tấn Công Giữa Không - Cartethyia khi trúng mục tiêu sẽ kéo dài Lời Thề Bất Diệt thêm <color=Highlight>{5} giây</color> và ban 1 tầng Nghi Lễ Tự Do."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 212472,
+      "primary_key": "RogueBuffPool_140601_BuffDesc_2_8",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "<color=#c49e55>[Resonance Skill]</color>\n- Resonance Skill - Awakening Gale's Cooldown is reduced by <color=#c49e55>{0}</color>, and Rover: Aero is immune to interruption while casting the skill.\n- Casting Mid-air Attack - Cloudburst Dance and Basic Mid-air Attack increases Resonance Skill DMG by <color=#c49e55>{1}</color> for <color=#c49e55>{2}s</color>, stacking up to <color=#c49e55>{3}</color> times.\n- The attack range of Cloudburst Dance and Basic Mid-air Attack is expanded, and they inflict <color=#c49e55><SapTag=4>{4}</SapTag></color> {Cus:Sap,S=stack P=stacks SapTag=4} of Aero Erosion upon the target on hit.\n- When Rover: Aero attacks the target and inflicts Aero Erosion, each stack of Aero Erosion additionally deals Aero DMG equal to <color=#c49e55>{5}</color> of Rover: Aero's ATK, considered Resonance Skill DMG.",
+      "translation_vi": "<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>\n- Thời gian hồi chiêu của Kỹ Năng Cộng Hưởng - Awakening Gale giảm <color=#c49e55>{0}</color>, và Vận Mệnh Giả: Aero miễn nhiễm với gián đoạn khi thi triển kỹ năng.\n- Thi triển Đòn Tấn Công Giữa Không - Cloudburst Dance và Đòn Tấn Công Cơ Bản Giữa Không sẽ tăng Sát Thương Kỹ Năng Cộng Hưởng thêm <color=#c49e55>{1}</color> trong <color=#c49e55>{2} giây</color>, có thể tích lũy tối đa <color=#c49e55>{3} lần</color>.\n- Phạm vi tấn công của Cloudburst Dance và Đòn Tấn Công Cơ Bản Giữa Không được mở rộng, và khi trúng mục tiêu sẽ gây <color=#c49e55><SapTag=4>{4}</SapTag></color> tầng {Cus:Sap,S=Xói Mòn P=Xói Mòn Aero} Aero.\n- Khi Vận Mệnh Giả: Aero tấn công mục tiêu và gây Xói Mòn Aero, mỗi tầng Xói Mòn sẽ gây thêm Sát Thương Aero bằng <color=#c49e55>{5}</color> Tấn Công của Vận Mệnh Giả: Aero, được tính là Sát Thương Kỹ Năng Cộng Hưởng."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 212509,
+      "primary_key": "RogueBuffPool_140603_BuffDesc_2_8",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "<color=Highlight>[Resonance Skill]</color>\n- Crit. Rate is increased by <color=Highlight>{0}</color>. Resonance Skill - Unbound Flow that costs Windstring becomes Resonance Skill - Unbound Flow: Ultra.\n\nResonance Skill - Unbound Flow: Ultra:\n- Stage <color=Highlight>{1}</color> pulls in nearby targets. The skill has two more attack stages.\n- Rover: Aero is immune to interruption when casting the skill, which has a greater range and inflicts <color=Highlight><SapTag=2>{2}</SapTag></color> {Cus:Sap,S=stack P=stacks SapTag=2} of Aero Erosion on hit.",
+      "translation_vi": "<color=Highlight>[Kỹ Năng Cộng Hưởng]</color>\n- Tỷ Lệ Bạo Kích tăng <color=Highlight>{0}</color>. Kỹ Năng Cộng Hưởng - Lưu Chuyển Tự Do tiêu hao Dây Gió sẽ trở thành Kỹ Năng Cộng Hưởng - Lưu Chuyển Tự Do: Siêu Cấp.\n\nKỹ Năng Cộng Hưởng - Lưu Chuyển Tự Do: Siêu Cấp:\n- Giai đoạn <color=Highlight>{1}</color> hút mục tiêu xung quanh. Kỹ năng có thêm hai giai đoạn tấn công.\n- Rover: Aero miễn nhiễm với gián đoạn khi thi triển kỹ năng, phạm vi rộng hơn và gây <color=Highlight><SapTag=2>{2}</SapTag></color> {Cus:Sap,S=luỹ thế P=luỹ thế SapTag=2} Xói Mòn Aero khi trúng mục tiêu."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 212510,
+      "primary_key": "RogueBuffPool_140605_BuffDesc_2_8",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "<color=Highlight>[Resonance Liberation]</color>\n- Resonance Liberation - Omega Storm additionally deals <color=Highlight><SapTag=0>{0}</SapTag></color> {Cus:Sap,S=instance P=instances SapTag=0} of Aero DMG equal to <color=Highlight>{1}</color> of Rover: Aero's ATK and reduces the target's Aero RES by <color=Highlight>{2}</color> on hit for <color=Highlight>{3}s</color>. This effect is not stackable.\n- Casting Resonance Liberation - Omega Storm enhances Rover: Aero's Outro Skill: Upon hitting a target, increase the maximum stacks of Aero Erosion the target can receive by <color=Highlight>{4}</color> for <color=Highlight>{5}s</color>.",
+      "translation_vi": "<color=Highlight>[Giải Phóng Cộng Hưởng]</color>\n- Giải Phóng Cộng Hưởng - Bão Omega bổ sung gây <color=Highlight><SapTag=0>{0}</SapTag></color> {Cus:Sap,S=lần P=lần SapTag=0} Sát Thương Aero bằng <color=Highlight>{1}</color> Tấn Công của Rover: Aero và giảm Kháng Aero của mục tiêu <color=Highlight>{2}</color> khi trúng đòn trong <color=Highlight>{3} giây</color>. Hiệu ứng này không thể chồng chất.\n- Sử dụng Giải Phóng Cộng Hưởng - Bão Omega sẽ tăng cường Kỹ Năng Kết Thúc của Rover: Aero: Khi trúng mục tiêu, tăng số tầng Xói Mòn Aero tối đa mục tiêu có thể nhận thêm <color=Highlight>{4}</color> trong <color=Highlight>{5} giây</color>."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 222384,
+      "primary_key": "BadBuKingChallenge_FZ",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "Aero Erosion Challenge",
+      "translation_vi": "Thử Thách Xói Mòn Aero"
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 224875,
+      "primary_key": "ItemInfo_50010002_AttributesDescription",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "Open to obtain a random Echo of the following Sonata Effect: Windward Pilgrimage.\n\n2pcs Set: Aero DMG +10%.\n\n5pcs Set: Hitting a target with Aero Erosion increases Crit. Rate by 10% and grants 30% Aero DMG Bonus, lasting for 10s.",
+      "translation_vi": "Mở để nhận một Echo ngẫu nhiên thuộc Hiệu Ứng Sonata sau: Hành Hương Gió Nổi.\n\nBộ 2 món: Sát Thương Aero +10%.\n\nBộ 5 món: Khi đánh trúng mục tiêu bị Xói Mòn Aero, Tỷ Lệ Bạo Kích tăng 10% và nhận thêm 30% Sát Thương Aero, hiệu ứng kéo dài 10 giây."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 224878,
+      "primary_key": "ItemInfo_50010002_ObtainedShowDescription",
+      "status": "translated",
+      "keep": "Aero Erosion",
+      "matched_source_term": "Aero Erosion",
+      "bad_terms": [
+        "Xói Mòn Aero"
+      ],
+      "source_en": "Open to obtain a random Echo of the following Sonata Effect: Windward Pilgrimage.\n\n2pcs Set: Aero DMG +10%.\n\n5pcs Set: Hitting a target with Aero Erosion increases Crit. Rate by 10% and grants 30% Aero DMG Bonus, lasting for 10s.",
+      "translation_vi": "Mở để nhận một Echo ngẫu nhiên thuộc Hiệu Ứng Sonata sau: Hành Hương Gió Nổi.\n\nBộ 2 món: Sát Thương Aero +10%.\n\nBộ 5 món: Khi đánh trúng mục tiêu bị Xói Mòn Aero, Tỷ Lệ Bạo Kích tăng 10% và nhận thêm 30% Sát Thương Aero, hiệu ứng kéo dài 10 giây."
+    }
+  ]
+}

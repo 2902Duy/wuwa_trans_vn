@@ -1,0 +1,672 @@
+[
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "2",
+    "column": "Content",
+    "source_en": "Gorges of Spirits",
+    "source_hash": "a931008d04f7d5611f8f0d986e2d1a60e2c06cc1",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "3",
+    "column": "Content",
+    "source_en": "Tiancheng",
+    "source_hash": "71ff7d5d5a79f3e8d0a2e5b275361eee149dbe2e",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "4",
+    "column": "Content",
+    "source_en": "Central Plains",
+    "source_hash": "3f20e2f6b0d8856d90ef71de308f7c15bd333dec",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "5",
+    "column": "Content",
+    "source_en": "Desorock Highland",
+    "source_hash": "70f4f205173e42b2a783cb0f03913714b6433cbc",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "6",
+    "column": "Content",
+    "source_en": "Forsaken Abundance",
+    "source_hash": "41229506f3d360c3f00e711b42820e8a8b29ecd9",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "7",
+    "column": "Content",
+    "source_en": "Dim Forest",
+    "source_hash": "ee5d6876c3c62f52008d047a0473f8f1fd4920e1",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "8",
+    "column": "Content",
+    "source_en": "Wasted Metropolis",
+    "source_hash": "ee960e54fb74ffaa1bb288f8fa2abd6d690bc14d",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "9",
+    "column": "Content",
+    "source_en": "Norfall Barrens",
+    "source_hash": "269a0255820cf003f281df09a92bc1bec9042989",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "10",
+    "column": "Content",
+    "source_en": "Whining Aix's Mire",
+    "source_hash": "9f0e10b2085b761ae8f73218cb091cdc54211b4c",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "11",
+    "column": "Content",
+    "source_en": "Black Shores",
+    "source_hash": "d417ecae8508aff4a0bbf663756d99618730c600",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "12",
+    "column": "Content",
+    "source_en": "Hukou, the Tiger's Maw",
+    "source_hash": "dd1e410d30c607842a33a1619ad2892b148cc6c6",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "13",
+    "column": "Content",
+    "source_en": "Zero Point Research Station",
+    "source_hash": "5dcf627030c0e493bf81ad5322123e96f9e3201a",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "36",
+    "column": "Content",
+    "source_en": "Outskirt",
+    "source_hash": "96b39835555d830ae79269771790d5f008767cfb",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "37",
+    "column": "Content",
+    "source_en": "Industrial Area",
+    "source_hash": "3ddea3d953bc264b6562a4eef901b4d7ff2a091b",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "38",
+    "column": "Content",
+    "source_en": "Tiancheng Urban Area",
+    "source_hash": "617ba199addc03a169b3c5b1125e7ec98312e8bc",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "39",
+    "column": "Content",
+    "source_en": "Center Comand Hall",
+    "source_hash": "6667858bd6bbf02825de953a6ff87dd0bbbe6844",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "40",
+    "column": "Content",
+    "source_en": "Tide Rising Cliff",
+    "source_hash": "aa673466ace0661dae66710fb8b5bdef114ee111",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "41",
+    "column": "Content",
+    "source_en": "Stone Pile Plain",
+    "source_hash": "ebe68a2da21f50d374f01dfa135413b6b2d95de4",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "42",
+    "column": "Content",
+    "source_en": "Gubei Pass",
+    "source_hash": "933b625b763e44e2f3c887cebc74e417b2315722",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "43",
+    "column": "Content",
+    "source_en": "Kaini Remnant Site",
+    "source_hash": "cf0afd4eb5128b5fdc3db8ebd9e25b9532d9cf35",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "44",
+    "column": "Content",
+    "source_en": "Long's Gaze Suburbs",
+    "source_hash": "4cfaab3f2f7095e3d7ccb03bf7766dad24c731c8",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "45",
+    "column": "Content",
+    "source_en": "Qichi Village",
+    "source_hash": "5d300bcb32811e667da15b4039fd5fc4c5ebbb22",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "46",
+    "column": "Content",
+    "source_en": "Yeming Slide",
+    "source_hash": "fdfd81e7959aebe9b1ab2ee8236385fa51df1054",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "47",
+    "column": "Content",
+    "source_en": "Remnant Center",
+    "source_hash": "c33f4af2b10bf353dc1b8904e325252beb9907f4",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "48",
+    "column": "Content",
+    "source_en": "Lone Isle",
+    "source_hash": "1772fa6d95b4fc7337e925e6df5e3a0505f7e693",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "49",
+    "column": "Content",
+    "source_en": "New Branch",
+    "source_hash": "2f5f0a316c665840b9056caf20dd779070262125",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "50",
+    "column": "Content",
+    "source_en": "Fossil Garden",
+    "source_hash": "3386653175df419a0ce55d745b4cbc62ad271464",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "52",
+    "column": "Content",
+    "source_en": "Settle Range",
+    "source_hash": "31072b5b58705bc79f70a66f56f63871bef89da7",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "53",
+    "column": "Content",
+    "source_en": "Empty Depository",
+    "source_hash": "978a9428876b9d0bf6401e697ad7b72a96ad42db",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "54",
+    "column": "Content",
+    "source_en": "Nostalgia Isle",
+    "source_hash": "d3b7b5054d3c452e9d3b2f9c26e3305a5216c591",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "55",
+    "column": "Content",
+    "source_en": "Withering Frontline",
+    "source_hash": "12f2091fde3e6767a142805e622d6a7055656539",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "56",
+    "column": "Content",
+    "source_en": "West Range Base",
+    "source_hash": "3182713878e07f75f7f984cb485e8f264651ca3a",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "57",
+    "column": "Content",
+    "source_en": "Incineranur",
+    "source_hash": "dea12a9c8bef2d79e09cb20d0fd61a740583da29",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "72",
+    "column": "Content",
+    "source_en": "Tolling Stream",
+    "source_hash": "78cc40cf2f70209904200d973980b71b1cc0e127",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "73",
+    "column": "Content",
+    "source_en": "Memento Square",
+    "source_hash": "1efb5883f2f5e2f7d7b1924b2cf83abbde2454f8",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "74",
+    "column": "Content",
+    "source_en": "Cloud Cliff",
+    "source_hash": "a59b0b5f29a4821a7b1157bdfab550f82efb6739",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "75",
+    "column": "Content",
+    "source_en": "Lake District Entrance",
+    "source_hash": "1ccef72bd76e045515b3622c8e795a905008fb5c",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "76",
+    "column": "Content",
+    "source_en": "Long's Tear",
+    "source_hash": "05491348513b588c263694cab3db4851b612e326",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "77",
+    "column": "Content",
+    "source_en": "Misty Coast",
+    "source_hash": "383cec182c5a8f665c215906ade7b160f3dcf860",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "78",
+    "column": "Content",
+    "source_en": "Tacetite Forest",
+    "source_hash": "6e4d9d7edd6702d4842de6bef986724fc8cabdb1",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "79",
+    "column": "Content",
+    "source_en": "Tacetite Cliff",
+    "source_hash": "53c4e7c0e0f0d82142310efd5c5b9bf5c6bab1c5",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "80",
+    "column": "Content",
+    "source_en": "Olecranon Cliff",
+    "source_hash": "b1a926a53766319df22d6ec1d655f09180013787",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "81",
+    "column": "Content",
+    "source_en": "Distant Watch Camp",
+    "source_hash": "36786eb8f305c020d19a2c7183474b2beb7c1614",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "83",
+    "column": "Content",
+    "source_en": "Sea Corrode Ruin",
+    "source_hash": "5ae801d36d8d1bf42844e7b593005cb8610541a6",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "84",
+    "column": "Content",
+    "source_en": "Hermit Settlement",
+    "source_hash": "c99ce844c360b30bd68669411f338d0da3939b59",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "85",
+    "column": "Content",
+    "source_en": "Broken Block",
+    "source_hash": "1d8bab1626135f5f9a209c61191274b96ba23092",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "87",
+    "column": "Content",
+    "source_en": "Wenye Beach",
+    "source_hash": "474e5a6e5fd26ba8b0e65747e2c51cd9e05fb740",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "88",
+    "column": "Content",
+    "source_en": "Purple Moon Ficus",
+    "source_hash": "209042e50598e11caf77ed7ca6d634665fa529ee",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "89",
+    "column": "Content",
+    "source_en": "Amphitheater",
+    "source_hash": "96f49d9044461ffa142828be17ed5291d6a5a03d",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "90",
+    "column": "Content",
+    "source_en": "Forbidden Forest",
+    "source_hash": "90ac6be9a4ef2103e99bdc03977c36ef88b13792",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "91",
+    "column": "Content",
+    "source_en": "Thorny Passage",
+    "source_hash": "519aed7c63e973ad2410736d24042ced81f7eb7c",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "93",
+    "column": "Content",
+    "source_en": "Sky Ray",
+    "source_hash": "cfe769961eb1cdd36b2843d2e6f2a8e0042bae16",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "94",
+    "column": "Content",
+    "source_en": "Dust-Sealed Track",
+    "source_hash": "0550a95fc9538074794b6c04a506296f25277ce4",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "95",
+    "column": "Content",
+    "source_en": "Crane-Habitat Stream",
+    "source_hash": "a51e7563a643ce7d3693b0a0c22d45b6090a2637",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "96",
+    "column": "Content",
+    "source_en": "Distribution Center",
+    "source_hash": "73b6415a264d8f425e3f072a314a871b21a4e6be",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "97",
+    "column": "Content",
+    "source_en": "Hukou Mine",
+    "source_hash": "9fbfc522ad2716d63128f917fc1366884b185f93",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "98",
+    "column": "Content",
+    "source_en": "Star Gaze River",
+    "source_hash": "16b1be4638aecb8f9c31a60fc711754a82817a55",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "99",
+    "column": "Content",
+    "source_en": "Jade Gate Peak",
+    "source_hash": "174024a851d80c24ca492eada36fc0f5972c3158",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "100",
+    "column": "Content",
+    "source_en": "Supply Station",
+    "source_hash": "b071d45147f6e122c84de455ce25c90b611dfbfd",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "101",
+    "column": "Content",
+    "source_en": "Lair of Gun",
+    "source_hash": "fb69a0adfb43092e8725df0775d4e330841d0dc1",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "102",
+    "column": "Content",
+    "source_en": "Frosting Harbour",
+    "source_hash": "80428b53107d3d7d188085269361c879639b2cb8",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "103",
+    "column": "Content",
+    "source_en": "Jiting Remnant",
+    "source_hash": "b20316a4b96c6eb859d1b66741c267dc7cdf9769",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "104",
+    "column": "Content",
+    "source_en": "Waving Battlefield",
+    "source_hash": "260f6b17be1369ce6b99f73d214e1f63ccc96dba",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "105",
+    "column": "Content",
+    "source_en": "Plateau Ruins",
+    "source_hash": "e7f1199134c7cefe58fe99bffa826e16fd51704c",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "106",
+    "column": "Content",
+    "source_en": "Fallen Grave",
+    "source_hash": "de62ebeee498b3e5919b9ed3257d50d759d8db3f",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "107",
+    "column": "Content",
+    "source_en": "Zero Point Research Station",
+    "source_hash": "5dcf627030c0e493bf81ad5322123e96f9e3201a",
+    "category": "general"
+  },
+  {
+    "database": "lang_area.db",
+    "table": "Area",
+    "primary_key_column": "Id",
+    "primary_key": "115",
+    "column": "Content",
+    "source_en": "Abandoned Subway",
+    "source_hash": "acf355b3b5f4867e393014d50f42cda5a840c512",
+    "category": "general"
+  }
+]

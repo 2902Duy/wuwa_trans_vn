@@ -1,0 +1,42 @@
+[
+  {
+    "database": "lang_time_of_day.db",
+    "table": "DaySelectPreset",
+    "primary_key_column": "Id",
+    "primary_key": "1",
+    "column": "Content",
+    "source_en": "Default",
+    "source_hash": "808d7dca8a74d84af27a2d6602c3d786de45fe1e",
+    "category": "general"
+  },
+  {
+    "database": "lang_time_of_day.db",
+    "table": "DaySelectPreset",
+    "primary_key_column": "Id",
+    "primary_key": "2",
+    "column": "Content",
+    "source_en": "Next Day",
+    "source_hash": "31e64a6c0047690eeaad3846b7598d61ed89c8f0",
+    "category": "general"
+  },
+  {
+    "database": "lang_time_of_day.db",
+    "table": "DaySelectPreset",
+    "primary_key_column": "Id",
+    "primary_key": "3",
+    "column": "Content",
+    "source_en": "2 Days Later",
+    "source_hash": "c7bcf62bea1a58b146fed621779f218aee816bb7",
+    "category": "general"
+  },
+  {
+    "database": "lang_time_of_day.db",
+    "table": "DaySelectPreset",
+    "primary_key_column": "Id",
+    "primary_key": "4",
+    "column": "Content",
+    "source_en": "3 Days Later",
+    "source_hash": "361c3c339cbcfa7bd664a266b9d925c089b36e16",
+    "category": "general"
+  }
+]

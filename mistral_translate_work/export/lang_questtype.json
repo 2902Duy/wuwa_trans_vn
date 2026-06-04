@@ -1,0 +1,102 @@
+[
+  {
+    "database": "lang_questtype.db",
+    "table": "QuestType",
+    "primary_key_column": "Id",
+    "primary_key": "1",
+    "column": "Content",
+    "source_en": "Missions",
+    "source_hash": "323ea30c1dccd512b3e2e35a4cf2e11007108bb9",
+    "category": "quest"
+  },
+  {
+    "database": "lang_questtype.db",
+    "table": "QuestType",
+    "primary_key_column": "Id",
+    "primary_key": "2",
+    "column": "Content",
+    "source_en": "Missions",
+    "source_hash": "323ea30c1dccd512b3e2e35a4cf2e11007108bb9",
+    "category": "quest"
+  },
+  {
+    "database": "lang_questtype.db",
+    "table": "QuestType",
+    "primary_key_column": "Id",
+    "primary_key": "3",
+    "column": "Content",
+    "source_en": "Trails of Waves",
+    "source_hash": "799da3d39755012ed003a3254b700841c28505fb",
+    "category": "quest"
+  },
+  {
+    "database": "lang_questtype.db",
+    "table": "QuestType",
+    "primary_key_column": "Id",
+    "primary_key": "4",
+    "column": "Content",
+    "source_en": "Trails of Waves",
+    "source_hash": "799da3d39755012ed003a3254b700841c28505fb",
+    "category": "quest"
+  },
+  {
+    "database": "lang_questtype.db",
+    "table": "QuestType",
+    "primary_key_column": "Id",
+    "primary_key": "5",
+    "column": "Content",
+    "source_en": "Untold Anecdotes",
+    "source_hash": "b0030e4053a0bafbb1b563e0b83a684dbfbaa03a",
+    "category": "quest"
+  },
+  {
+    "database": "lang_questtype.db",
+    "table": "QuestType",
+    "primary_key_column": "Id",
+    "primary_key": "6",
+    "column": "Content",
+    "source_en": "Untold Anecdotes",
+    "source_hash": "b0030e4053a0bafbb1b563e0b83a684dbfbaa03a",
+    "category": "quest"
+  },
+  {
+    "database": "lang_questtype.db",
+    "table": "QuestType",
+    "primary_key_column": "Id",
+    "primary_key": "7",
+    "column": "Content",
+    "source_en": "Solo Record",
+    "source_hash": "537f9e0259a6f849b80c92461bd64cd69b700a10",
+    "category": "quest"
+  },
+  {
+    "database": "lang_questtype.db",
+    "table": "QuestType",
+    "primary_key_column": "Id",
+    "primary_key": "8",
+    "column": "Content",
+    "source_en": "Solo Record",
+    "source_hash": "537f9e0259a6f849b80c92461bd64cd69b700a10",
+    "category": "quest"
+  },
+  {
+    "database": "lang_questtype.db",
+    "table": "QuestType",
+    "primary_key_column": "Id",
+    "primary_key": "9",
+    "column": "Content",
+    "source_en": "General Tasks",
+    "source_hash": "10710a3635cbebc5aa9df6e8e1881e9a5fd7ff97",
+    "category": "quest"
+  },
+  {
+    "database": "lang_questtype.db",
+    "table": "QuestType",
+    "primary_key_column": "Id",
+    "primary_key": "10",
+    "column": "Content",
+    "source_en": "General Tasks",
+    "source_hash": "10710a3635cbebc5aa9df6e8e1881e9a5fd7ff97",
+    "category": "quest"
+  }
+]

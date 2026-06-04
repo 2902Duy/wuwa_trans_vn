@@ -1,0 +1,532 @@
+[
+  {
+    "database": "lang_function.db",
+    "table": "FunctionMenu",
+    "primary_key_column": "Id",
+    "primary_key": "1",
+    "column": "Content",
+    "source_en": "Resonators",
+    "source_hash": "9fb48c3e3234c303465b47045900b52cc4d00300",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionMenu",
+    "primary_key_column": "Id",
+    "primary_key": "2",
+    "column": "Content",
+    "source_en": "Backpack",
+    "source_hash": "0ccf90eb09d636ea32ff4f5a104e0287d3dc7b7c",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionMenu",
+    "primary_key_column": "Id",
+    "primary_key": "3",
+    "column": "Content",
+    "source_en": "Resonance Terminal",
+    "source_hash": "0b89259fd74da9b3aae29583932cdc583b84e829",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionMenu",
+    "primary_key_column": "Id",
+    "primary_key": "4",
+    "column": "Content",
+    "source_en": "Missions",
+    "source_hash": "323ea30c1dccd512b3e2e35a4cf2e11007108bb9",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionMenu",
+    "primary_key_column": "Id",
+    "primary_key": "7",
+    "column": "Content",
+    "source_en": "Team",
+    "source_hash": "218887269ad5946d9dc53238651c90472884fb0f",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionMenu",
+    "primary_key_column": "Id",
+    "primary_key": "9",
+    "column": "Content",
+    "source_en": "Modulation",
+    "source_hash": "f3c1a2d24016671055196a86b20c8d5b504dd770",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionMenu",
+    "primary_key_column": "Id",
+    "primary_key": "10",
+    "column": "Content",
+    "source_en": "Joint Exchange",
+    "source_hash": "998a9d843eb0c6f8ecac32c7078d5d4bd508a830",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionMenu",
+    "primary_key_column": "Id",
+    "primary_key": "11",
+    "column": "Content",
+    "source_en": "Friends",
+    "source_hash": "c11d5e1d35fb7e158e57f09ec98d28e19d6cb900",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionMenu",
+    "primary_key_column": "Id",
+    "primary_key": "13",
+    "column": "Content",
+    "source_en": "Achievements",
+    "source_hash": "a6634f24b2db61aafb90e6954e00e3a9ba699d80",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionMenu",
+    "primary_key_column": "Id",
+    "primary_key": "14",
+    "column": "Content",
+    "source_en": "Gallery",
+    "source_hash": "9c30a3485a5887f1ba5abd2a291d304a01863e55",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionMenu",
+    "primary_key_column": "Id",
+    "primary_key": "15",
+    "column": "Content",
+    "source_en": "Map",
+    "source_hash": "ab478f3efc840eebab919dff1b9512286f70c10c",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionMenu",
+    "primary_key_column": "Id",
+    "primary_key": "17",
+    "column": "Content",
+    "source_en": "Resonance Record",
+    "source_hash": "303932f37949bf60e6d9285b3a54db70e330b2fc",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionMenu",
+    "primary_key_column": "Id",
+    "primary_key": "18",
+    "column": "Content",
+    "source_en": "Exploration Tools",
+    "source_hash": "af0c3d70fa6020a6914c1f2edc1d79cce51b8eb3",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionMenu",
+    "primary_key_column": "Id",
+    "primary_key": "19",
+    "column": "Content",
+    "source_en": "Feedback",
+    "source_hash": "c8d7677e19495f21da984fe4e2829b7ca91b27c7",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionMenu",
+    "primary_key_column": "Id",
+    "primary_key": "20",
+    "column": "Content",
+    "source_en": "Forces",
+    "source_hash": "5eb175b9460612a847c5831f8d611666f7e129b1",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionMenu",
+    "primary_key_column": "Id",
+    "primary_key": "21",
+    "column": "Content",
+    "source_en": "Star Align",
+    "source_hash": "578dcb0d6d06476a34aa66b1b7ceb3de98dcb4e2",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionMenu",
+    "primary_key_column": "Id",
+    "primary_key": "22",
+    "column": "Content",
+    "source_en": "Database",
+    "source_hash": "61074f1c958d6cdd32dad889b3d58a2d0704cbe3",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionMenu",
+    "primary_key_column": "Id",
+    "primary_key": "23",
+    "column": "Content",
+    "source_en": "Gallery",
+    "source_hash": "9c30a3485a5887f1ba5abd2a291d304a01863e55",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "3",
+    "column": "Content",
+    "source_en": "Modulation",
+    "source_hash": "f3c1a2d24016671055196a86b20c8d5b504dd770",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "4",
+    "column": "Content",
+    "source_en": "Modulation will allow you to resonate with different Resonators and Weapons. It's an efficient way for collecting powerful weapons and meeting with reliable allies.",
+    "source_hash": "2312da7c39cd36d9093403a68f4f7414d95932ec",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "5",
+    "column": "Content",
+    "source_en": "Co-op",
+    "source_hash": "d499d23dcef358744a1946d4f7a04b35601b0b3a",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "6",
+    "column": "Content",
+    "source_en": "Co-op mode will allow you meet with other Rovers. Kindness may lead you to precious friendship.",
+    "source_hash": "31005cf1ccec780d24719c2d203d2d91aa2df632",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "7",
+    "column": "Content",
+    "source_en": "Resonance Record",
+    "source_hash": "303932f37949bf60e6d9285b3a54db70e330b2fc",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "8",
+    "column": "Content",
+    "source_en": "Resonance Terminal was installed with module of Tacet Discords, Mutant Organism and Tacet Fields. Using them will allow you to locate them quickly in the wilds.",
+    "source_hash": "32fecfe4263c427763bc855b1ad1514180c03b49",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "9",
+    "column": "Content",
+    "source_en": "Solo Record",
+    "source_hash": "537f9e0259a6f849b80c92461bd64cd69b700a10",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "10",
+    "column": "Content",
+    "source_en": "You can experience special story of Resonators in Solo Record.",
+    "source_hash": "9e949d408421d738d9228bdfeb3356f06f1c4b88",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "11",
+    "column": "Content",
+    "source_en": "Exploration Tools",
+    "source_hash": "af0c3d70fa6020a6914c1f2edc1d79cce51b8eb3",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "12",
+    "column": "Content",
+    "source_en": "Exploration tools installed in Resonance Terminal. They're flexible for dealing with various situation.",
+    "source_hash": "050265fb13bfed5060e92c6234d78c11e5f55337",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "13",
+    "column": "Content",
+    "source_en": "Progressing Base",
+    "source_hash": "888c15345bc1668cd0751b3e0d9a2031919c5661",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "14",
+    "column": "Content",
+    "source_en": "Pioneer Association created this Ambience imitated from the well of Zero Point Research Station. It was used to train and test the Resonators before they enter the Zero Point Research Station.",
+    "source_hash": "ed7b902dc5c6509bec44e971cb94d553aa96d201",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "15",
+    "column": "Content",
+    "source_en": "Zero Point Research Station",
+    "source_hash": "5dcf627030c0e493bf81ad5322123e96f9e3201a",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "16",
+    "column": "Content",
+    "source_en": "Large-scale underground experiment center built before the Lament. The well below it attain the depth reaching the mohoroviic discontinuity. Secrets and unknown knowledge await you there.",
+    "source_hash": "6a136899a31c373cecaf768f5fa26e2d2166eda6",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "17",
+    "column": "Content",
+    "source_en": "Tacet Field",
+    "source_hash": "67c88649ace4ed89634308eab2458497a5d5a3f0",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "18",
+    "column": "Content",
+    "source_en": "Completing the challenge of Tacet Field and Overlord Class enemies will allow you to acquire resources. First-time challenge will reward you sample for exchanging rare materials with Interference Exchange.",
+    "source_hash": "d48fc856c3cd13d29687cbba13b96056f924b03f",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "21",
+    "column": "Content",
+    "source_en": "Concerto Effect",
+    "source_hash": "f6bc105cc350ef400cf12103157dd7df04956888",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "22",
+    "column": "Content",
+    "source_en": "Powerful skill performed by 2 Resonators. While the Concerto Vibrancy is fully charged, switching Resonators will consume all of it, and trigger Concerto Effect base on the switched Character's attack attribute.",
+    "source_hash": "d88a6879a63d919490dfdccf641c637520236acb",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "23",
+    "column": "Content",
+    "source_en": "Star Align",
+    "source_hash": "578dcb0d6d06476a34aa66b1b7ceb3de98dcb4e2",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "24",
+    "column": "Content",
+    "source_en": "Completing the Star Up Mission for Rover will get Mission EXP to exchange for rewards.",
+    "source_hash": "29d1854b7dc849cae6f29359c38de02f27badb2f",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "25",
+    "column": "Content",
+    "source_en": "Ambience - Weapon",
+    "source_hash": "8e9b90316251a0f0d8bec89ebc918c92502e3505",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "26",
+    "column": "Content",
+    "source_en": "Ambience of the Resonators well-versed in weapon. The melodies in their broken blade can be used to enhance weapon.",
+    "source_hash": "5f8e670352b6ab3985827a2a96f6b892803615a4",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "27",
+    "column": "Content",
+    "source_en": "Ambience - Skill",
+    "source_hash": "c3495af70fd9313a7eeaa28136abda8d9613764b",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "28",
+    "column": "Content",
+    "source_en": "Ambience of Resonators well-versed in battle technique. The melodies in their broken memories can be used to enhance battle skill.",
+    "source_hash": "4ab6d001a4a74a48662a6edc7722ba9ab8463ae8",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "30",
+    "column": "Content",
+    "source_en": "Co-op mode will allow you meet with other Rovers. Kindness may lead you to precious friendship.",
+    "source_hash": "31005cf1ccec780d24719c2d203d2d91aa2df632",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "31",
+    "column": "Content",
+    "source_en": "Resonance Record",
+    "source_hash": "303932f37949bf60e6d9285b3a54db70e330b2fc",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "32",
+    "column": "Content",
+    "source_en": "Resonance Terminal was installed with module of Tacet Discords, Mutant Organism and Tacet Fields. Using them will allow you to locate them quickly in the wilds.",
+    "source_hash": "32fecfe4263c427763bc855b1ad1514180c03b49",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "33",
+    "column": "Content",
+    "source_en": "Resonance Record",
+    "source_hash": "303932f37949bf60e6d9285b3a54db70e330b2fc",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "34",
+    "column": "Content",
+    "source_en": "Resonance Terminal was installed with module of Tacet Discords, Mutant Organism and Tacet Fields. Using them will allow you to locate them quickly in the wilds.",
+    "source_hash": "32fecfe4263c427763bc855b1ad1514180c03b49",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "35",
+    "column": "Content",
+    "source_en": "Resonance Record",
+    "source_hash": "303932f37949bf60e6d9285b3a54db70e330b2fc",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "36",
+    "column": "Content",
+    "source_en": "Resonance Terminal was installed with module of Tacet Discords, Mutant Organism and Tacet Fields. Using them will allow you to locate them quickly in the wilds.",
+    "source_hash": "32fecfe4263c427763bc855b1ad1514180c03b49",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "37",
+    "column": "Content",
+    "source_en": "Resonance Record",
+    "source_hash": "303932f37949bf60e6d9285b3a54db70e330b2fc",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "38",
+    "column": "Content",
+    "source_en": "Resonance Terminal was installed with module of Tacet Discords, Mutant Organism and Tacet Fields. Using them will allow you to locate them quickly in the wilds.",
+    "source_hash": "32fecfe4263c427763bc855b1ad1514180c03b49",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "39",
+    "column": "Content",
+    "source_en": "Resonance Record",
+    "source_hash": "303932f37949bf60e6d9285b3a54db70e330b2fc",
+    "category": "ui"
+  },
+  {
+    "database": "lang_function.db",
+    "table": "FunctionCondition",
+    "primary_key_column": "Id",
+    "primary_key": "40",
+    "column": "Content",
+    "source_en": "Resonance Terminal was installed with module of Tacet Discords, Mutant Organism and Tacet Fields. Using them will allow you to locate them quickly in the wilds.",
+    "source_hash": "32fecfe4263c427763bc855b1ad1514180c03b49",
+    "category": "ui"
+  }
+]

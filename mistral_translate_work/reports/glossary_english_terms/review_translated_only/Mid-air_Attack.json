@@ -1,0 +1,2306 @@
+{
+  "count": 177,
+  "hits": [
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 15758,
+      "primary_key": "Term850017_Desc",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Carlotta can hold up to 6 Moldable Crystals.\n- Cannot gain Moldable Crystal while in <color=Highlight>Twilight Tango</color> triggered by Resonance Liberation.\n- Restore 3 Moldable Crystals upon casting <color=Highlight>Basic Attack Stage 2</color>.\n- Restore 3 Moldable Crystals upon casting <color=Highlight>Heavy Attack</color>.\n- Restore 3 Moldable Crystals upon casting Mid-air Attack <color=Highlight>Customary Greetings</color>.\n- Restore 3 Moldable Crystals upon casting Intro Skill <color=Highlight>Wintertime Aria</color>.\n- Restore 3 Moldable Crystals upon casting Resonance Skill <color=Highlight>Art of Violence</color>.\n- Restore 3 Moldable Crystals upon a successful <color=Highlight>Dodge</color>.",
+      "translation_vi": "Carlotta có thể tích lũy tối đa 6 Tinh Thể Dẻo.\n- Không thể nhận Tinh Thể Dẻo khi đang trong trạng thái <color=Highlight>Điệu Tango Hoàng Hôn</color> kích hoạt bởi Giải Phóng Cộng Hưởng.\n- Hồi 3 Tinh Thể Dẻo khi sử dụng <color=Highlight>Giai Đoạn 2 Đòn Tấn Công Cơ Bản</color>.\n- Hồi 3 Tinh Thể Dẻo khi sử dụng <color=Highlight>Đòn Tấn Công Mạnh</color>.\n- Hồi 3 Tinh Thể Dẻo khi sử dụng Đòn Tấn Công Trên Không <color=Highlight>Lời Chào Theo Thói Quen</color>.\n- Hồi 3 Tinh Thể Dẻo khi sử dụng Kỹ Năng Khởi Động <color=Highlight>Khúc Aria Mùa Đông</color>.\n- Hồi 3 Tinh Thể Dẻo khi sử dụng Kỹ Năng Cộng Hưởng <color=Highlight>Nghệ Thuật Bạo Lực</color>.\n- Hồi 3 Tinh Thể Dẻo khi né tránh thành công <color=Highlight>Né Tránh</color>."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 15836,
+      "primary_key": "Term850056_Desc",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Rover can hold up to 120 Windstrings.\nEach stage of Mid-air Attack <color=Highlight>Cloudburst Dance</color> restores 25 Windstrings on hit.\nCasting <color=Highlight>Intro Skill</color> restores 20 Windstrings.\nHitting a target with <color=Highlight>Basic Attack Stage 3 or 4</color> or <color=Highlight>Dodge Counter</color> restores 10 Windstrings.",
+      "translation_vi": "Rover có thể giữ tối đa 120 Sợi Gió.\nMỗi giai đoạn của Kỹ Năng Tấn Công Trên Không <color=Highlight>Điệu Nhảy Mây Đen</color> hồi 25 Sợi Gió khi trúng mục tiêu.\nThi triển <color=Highlight>Kỹ Năng Khởi Động</color> hồi 20 Sợi Gió.\nĐánh trúng mục tiêu bằng <color=Highlight>Giai Đoạn 3 hoặc 4 của Kỹ Năng Tấn Công Cơ Bản</color> hoặc <color=Highlight>Phản Đòn Né Tránh</color> hồi 10 Sợi Gió."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 43970,
+      "primary_key": "Term120801_Desc",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Galbrena can hold up to {0} points of <color=Highlight>Afterflame</color>.\nIn <color=Highlight>Threshold State</color>, Galbrena restores <SapTag=1>{1}</SapTag> {Cus:Sap,S=point P=points SapTag=1} of <color=Highlight>Afterflame</color> when nearby Resonators in the team casts Echo Skills. Echoes with the same name can only trigger this effect once. This effect resets when Galbrena exits <color=Highlight>Demon Hypostasis</color>.\nWhile <color=Highlight>Demon Hypostasis</color> lasts, each point of <color=Highlight>Afterflame</color> increases the DMG dealt through <color=Highlight>Basic Attack - Seraphic Execution</color>, <color=Highlight>Heavy Attack - Flamewing Verdict</color>, <color=Highlight>Mid-air Attack - Hellsent Barrage</color>, <color=Highlight>Resonance Skill - Ravage</color>, and <color=Highlight>Dodge Counter - Purgatory Scourge</color>  by {2}, up to {3}. This effect is removed upon exiting <color=Highlight>Demon Hypostasis</color>.\nAll <color=Highlight>Afterflame</color> is removed when Galbrena exits <color=Highlight>Demon Hypostasis</color>.",
+      "translation_vi": "Galbrena có thể giữ tối đa {0} điểm <color=Highlight>Dư Lửa</color>.\nTrong <color=Highlight>Trạng Thái Ngưỡng</color>, Galbrena hồi phục <SapTag=1>{1}</SapTag> {Cus:Sap,S=điểm P=điểm SapTag=1} <color=Highlight>Dư Lửa</color> khi Cộng Hưởng Giả trong đội sử dụng Kỹ Năng Echo gần đó. Các Echo cùng tên chỉ có thể kích hoạt hiệu ứng này một lần. Hiệu ứng này sẽ được đặt lại khi Galbrena thoát khỏi <color=Highlight>Hóa Thân Ác Quỷ</color>.\nTrong thời gian <color=Highlight>Hóa Thân Ác Quỷ</color> diễn ra, mỗi điểm <color=Highlight>Dư Lửa</color> sẽ tăng sát thương gây ra bởi <color=Highlight>Đòn Tấn Công Cơ Bản - Thiên Thần Trảm</color>, <color=Highlight>Đòn Tấn Công Mạnh - Phán Quyết Cánh Lửa</color>, <color=Highlight>Đòn Tấn Công Trên Không - Bão Hỏa Ngục</color>, <color=Highlight>Kỹ Năng Cộng Hưởng - Tàn Phá</color> và <color=Highlight>Phản Đòn Né Tránh - Quét Luyện Ngục</color> thêm {2}, tối đa {3}. Hiệu ứng này sẽ bị loại bỏ khi thoát khỏi <color=Highlight>Hóa Thân Ác Quỷ</color>.\nToàn bộ <color=Highlight>Dư Lửa</color> sẽ bị xóa khi Galbrena thoát khỏi <color=Highlight>Hóa Thân Ác Quỷ</color>."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 43972,
+      "primary_key": "Term120802_Desc",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Galbrena can hold up to {0} points of <color=Highlight>Sinflame</color>.\nDuring <color=Highlight>Threshold State</color>, Basic Attack, Heavy Attack - Volley of Death, Mid-air Attack - Ashfall Barrage, Resonance Skill - Encroach, and Intro Skill - Hellflare Overload restore <color=Highlight>Sinflame</color> on hit.\nWhen <color=Highlight>Sinflame</color> reaches {1} points, <color=Highlight>Resonance Skill</color> is replaced with <color=Highlight>Resonance Skill - Ascent of Malice</color>. \nCasting <color=Highlight>Resonance Skill - Ascent of Malice</color> converts <color=Highlight>Sinflame</color> into an equivalent amount of <color=Highlight>Purging Flame</color>.",
+      "translation_vi": "Galbrena có thể chứa tối đa {0} điểm <color=Highlight>Lửa Tội</color>.\nTrong trạng thái <color=Highlight>Ngưỡng Giới</color>, các đòn Tấn Công Cơ Bản, Tấn Công Nặng - Bão Tử Thần, Tấn Công Trên Không - Mưa Tro Tàn, Kỹ Năng Cộng Hưởng - Xâm Lấn và Kỹ Năng Khởi Động - Bộc Phát Hỏa Ngục sẽ hồi phục <color=Highlight>Lửa Tội</color> khi trúng mục tiêu.\nKhi <color=Highlight>Lửa Tội</color> đạt {1} điểm, <color=Highlight>Kỹ Năng Cộng Hưởng</color> sẽ được thay thế bằng <color=Highlight>Kỹ Năng Cộng Hưởng - Thăng Hoa Ác Ý</color>.\nKhi sử dụng <color=Highlight>Kỹ Năng Cộng Hưởng - Thăng Hoa Ác Ý</color>, <color=Highlight>Lửa Tội</color> sẽ được chuyển hóa thành lượng <color=Highlight>Lửa Thanh Tẩy</color> tương đương."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 43974,
+      "primary_key": "Term120803_Desc",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Galbrena can hold up to {0} points of <color=Highlight>Purging Flame</color>.\nCasting <color=Highlight>Resonance Skill - Ascent of Malice</color> converts <color=Highlight>Sinflame</color> into an equivalent amount of <color=Highlight>Purging Flame</color>\nWhile <color=Highlight>Demon Hypostasis</color> lasts, Basic Attack - Seraphic Execution, Heavy Attack - Flamewing Verdict, Mid-air Attack - Hellsent Barrage, Dodge Counter - Purgatory Scourge, and Resonance Skill - Ravage consume <color=Highlight>Purging Flame</color> on hit.",
+      "translation_vi": "Galbrena có thể chứa tối đa {0} điểm <color=Highlight>Lửa Thanh Tẩy</color>.\nKhi sử dụng <color=Highlight>Kỹ Năng Cộng Hưởng - Thăng Hoa Ác Ý</color>, <color=Highlight>Lửa Tội</color> sẽ được chuyển hóa thành lượng <color=Highlight>Lửa Thanh Tẩy</color> tương đương.\nTrong thời gian <color=Highlight>Hóa Thân Ác Quỷ</color> tồn tại, các đòn Tấn Công Cơ Bản - Thiên Sứ Trảm, Tấn Công Nặng - Phán Quyết Cánh Lửa, Tấn Công Trên Không - Bão Hỏa Địa Ngục, Phản Đòn Né Tránh - Quét Luyện Ngục và Kỹ Năng Cộng Hưởng - Tàn Phá sẽ tiêu hao <color=Highlight>Lửa Thanh Tẩy</color> khi trúng mục tiêu."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 44040,
+      "primary_key": "Term150902_Desc",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Casting <color=Highlight>Basic Attack - Spark Collision</color> sends Lynae into <color=Highlight>Kaleidoscopic Parade</color>. In this state, Lynae moves faster and continuously recovers <color=Highlight>Lumiflow</color> when she moves on the ground or casts <color=Highlight>Kaleidoscopic Parade - Basic Attack</color>, <color=Highlight>Kaleidoscopic Parade - Ground Heavy Attack</color>, <color=Highlight>Kaleidoscopic Parade - Mid-air Heavy Attack</color>, <color=Highlight>Kaleidoscopic Parade - Mid-air Attack</color>, <color=Highlight>Additive Color</color>, Dodge, Intro Skill, or <color=Highlight>Basic Attack - To a Vivid Tomorrow!</color>.",
+      "translation_vi": "Kích hoạt <color=Highlight>Đòn Tấn Công Cơ Bản - Spark Collision</color> sẽ đưa Lynae vào trạng thái <color=Highlight>Kaleidoscopic Parade</color>. Trong trạng thái này, Lynae di chuyển nhanh hơn và liên tục hồi phục <color=Highlight>Lumiflow</color> khi di chuyển trên mặt đất hoặc sử dụng <color=Highlight>Kaleidoscopic Parade - Đòn Tấn Công Cơ Bản</color>, <color=Highlight>Kaleidoscopic Parade - Đòn Tấn Công Nặng Trên Mặt Đất</color>, <color=Highlight>Kaleidoscopic Parade - Đòn Tấn Công Nặng Trên Không</color>, <color=Highlight>Kaleidoscopic Parade - Đòn Tấn Công Trên Không</color>, <color=Highlight>Additive Color</color>, Né Tránh, Kỹ Năng Khởi Động hoặc <color=Highlight>Đòn Tấn Công Cơ Bản - To a Vivid Tomorrow!</color>."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 45924,
+      "primary_key": "Term130701_Desc",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Buling can hold up to {0} Trigrams. When Trigrams reach the max number, gaining new Trigrams moves all Trigrams {1} slot to the left, and the original leftmost Trigram will be removed.\n- Trigram - Mountain is obtained when <color=Highlight>Basic Attack Stage 2</color> deals damage.\n- Trigram - Thunder is obtained when <color=Highlight>Basic Attack Stage 4</color> or <color=Highlight>Mid-air Attack</color> deals damage.\n- Trigram - Thunder is obtained when casting <color=Highlight>Resonance Skill - In Shadow Thunder Stirs</color>.",
+      "translation_vi": "Buling có thể giữ tối đa {0} Quẻ. Khi số lượng Quẻ đạt tối đa, việc nhận thêm Quẻ mới sẽ đẩy tất cả Quẻ dịch chuyển {1} ô sang trái, và Quẻ ở vị trí ngoài cùng bên trái sẽ bị loại bỏ.\n- Quẻ - Sơn nhận được khi <color=Highlight>Đòn Tấn Công Cơ Bản Giai Đoạn 2</color> gây sát thương.\n- Quẻ - Lôi nhận được khi <color=Highlight>Đòn Tấn Công Cơ Bản Giai Đoạn 4</color> hoặc <color=Highlight>Đòn Tấn Công Trên Không</color> gây sát thương.\n- Quẻ - Lôi nhận được khi sử dụng <color=Highlight>Kỹ Năng Cộng Hưởng - Trong Bóng Tối Sấm Rền</color>."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 52169,
+      "primary_key": "bossrush2_16_title",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack Boost",
+      "translation_vi": "Tăng Cường Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 166885,
+      "primary_key": "ComboTeaching_12020601_DescriptionTitle",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Chixia: <color=#d4bf5f>Mid-air Attack</color> Tutorial",
+      "translation_vi": "Chixia: <color=#d4bf5f>Hướng dẫn Tấn Công Trên Không</color>"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 166938,
+      "primary_key": "ComboTeaching_12040401_DescriptionTitle",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mortefi: <color=#d4bf5f>Mid-air Attack</color> Tutorial",
+      "translation_vi": "Mortefi: Hướng dẫn <color=#d4bf5f>Tấn Công Trên Không</color>"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 166991,
+      "primary_key": "ComboTeaching_13010201_DescriptionTitle",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Calcharo: <color=#d4bf5f>Mid-air Attack</color> Tutorial",
+      "translation_vi": "Calcharo: <color=#d4bf5f>Hướng dẫn Tấn Công Trên Không</color>"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 167010,
+      "primary_key": "ComboTeaching_13020201_DescriptionTitle",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Yinlin: <color=#d4bf5f>Mid-air Attack</color> Tutorial",
+      "translation_vi": "Yinlin: <color=#d4bf5f>Hướng dẫn Tấn Công Trên Không</color>"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 167087,
+      "primary_key": "ComboTeaching_14020501_DescriptionContent",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Use <color=#f4d582>Mid-air Attack</color> in the air if 3 Melodies are present to consume all Melodies and attack, dealing <color=Wind>Aero DMG</color>. Then attack with the sheathed sword after landing, dealing <color=Wind>Aero DMG</color>.",
+      "translation_vi": "Khi đang ở trên không và có 3 Giai Điệu, sử dụng <color=#f4d582>Đòn Tấn Công Trên Không</color> để tiêu hao toàn bộ Giai Điệu và tấn công, gây <color=Wind>Sát Thương Aero</color>. Sau khi tiếp đất, tiếp tục tấn công bằng kiếm trong vỏ, gây <color=Wind>Sát Thương Aero</color>."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 167218,
+      "primary_key": "ComboTeaching_14050201_DescriptionTitle",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Jianxin: <color=#d4bf5f>Mid-air Attack</color> Tutorial",
+      "translation_vi": "Jianxin: <color=#d4bf5f>Hướng dẫn Tấn Công Trên Không</color>"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 167533,
+      "primary_key": "ComboTeaching_12050402_DescriptionContent",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Consume STA to perform up to 4 consecutive attacks in mid-air, dealing <color=Fire>Fusion DMG</color>.\nAfter releasing <color=Highlight>Mid-air Attack Stage 4</color>, Changli enters <color=Highlight>True Sight</color>, lasting for 12s.",
+      "translation_vi": "Tiêu hao STA để thực hiện tối đa 4 đòn tấn công liên tiếp trên không, gây <color=Fire>Sát Thương Fusion</color>.\nSau khi giải phóng <color=Highlight>Giai Đoạn Tấn Công Trên Không 4</color>, Changli bước vào trạng thái <color=Highlight>Thị Giác Chân Thực</color>, kéo dài trong 12 giây."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 167546,
+      "primary_key": "ComboTeaching_13040201_DescriptionTitle",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Jinhsi: <color=#d4bf5f>Mid-air Attack</color> Tutorial",
+      "translation_vi": "Jinhsi: <color=#d4bf5f>Hướng dẫn Tấn Công Trên Không</color>"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 167572,
+      "primary_key": "ComboTeaching_11050201_DescriptionTitle",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Zhezhi: <color=#d4bf5f>Mid-air Attack</color> Tutorial",
+      "translation_vi": "Zhezhi: <color=#d4bf5f>Hướng dẫn Tấn Công Trên Không</color>"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 167677,
+      "primary_key": "ComboTeaching_15040103_DescriptionTitle",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Lumi - <color=#d4bf5f>Red Light: Mid-air Attack</color> Tutorial",
+      "translation_vi": "Lumi - <color=#d4bf5f>Hướng Dẫn: Tấn Công Trên Không (Đèn Đỏ)</color>"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 167705,
+      "primary_key": "ComboTeaching_11070004_DescriptionTitle",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Carlotta - <color=#d4bf5f>Mid-air Attack</color> Tutorial",
+      "translation_vi": "Carlotta - Hướng dẫn <color=#d4bf5f>Tấn Công Trên Không</color>"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 167709,
+      "primary_key": "ComboTeaching_16060002_DescriptionTitle",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Roccia: <color=#d4bf5f>Mid-air Attack</color> Tutorial",
+      "translation_vi": "Roccia: <color=#d4bf5f>Hướng dẫn Tấn Công Trên Không</color>"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 167736,
+      "primary_key": "ComboTeaching_12060005_DescriptionTitle",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Brant: <color=#d4bf5f>Mid-air Attack</color> Tutorial 1",
+      "translation_vi": "Brant: <color=#d4bf5f>Hướng dẫn Tấn Công Trên Không</color> 1"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 167737,
+      "primary_key": "ComboTeaching_12060006_DescriptionTitle",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Brant: <color=#d4bf5f>Mid-air Attack</color> Tutorial 2",
+      "translation_vi": "Brant: <color=#d4bf5f>Hướng dẫn Tấn Công Trên Không</color> 2"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 167738,
+      "primary_key": "ComboTeaching_12060007_DescriptionTitle",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Brant: <color=#d4bf5f>Mid-air Attack</color> Tutorial 3",
+      "translation_vi": "Brant: <color=#d4bf5f>Hướng dẫn Tấn Công Trên Không</color> 3"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 167755,
+      "primary_key": "ComboTeaching_12060012_DescriptionContent",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Brant performs Intro Skill, dealing <color=Fire>Fusion DMG</color> and restoring <color=Highlight>Forte Gauge</color>. After casting <color=Highlight>Resonance Liberation</color> while airborne, Brant starts the Mid-air Attack combo from Stage 2 and charges his <color=Highlight>Forte Gauge</color> more efficiently.",
+      "translation_vi": "Brant thực hiện Kỹ Năng Khởi Động, gây <color=Fire>Sát Thương Fusion</color> và hồi phục <color=Highlight>Thanh Forte</color>. Sau khi sử dụng <color=Highlight>Giải Phóng Cộng Hưởng</color> trên không, Brant bắt đầu chuỗi Tấn Công Trên Không từ Giai Đoạn 2 và nạp <color=Highlight>Thanh Forte</color> hiệu quả hơn."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 167812,
+      "primary_key": "ComboTeaching_14060301_DescriptionContent",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Cast the skill to jump into mid-air, then <color=Highlight>use Normal Attack</color> right after that to cast <color=Highlight>enhanced Mid-air Attack</color>, healing all nearby Resonators in the team and restoring <color=Highlight>Forte Gauge</color>.",
+      "translation_vi": "Kích hoạt kỹ năng để nhảy lên không trung, sau đó <color=Highlight>dùng Đòn Tấn Công Thường</color> ngay lập tức để tung ra <color=Highlight>Đòn Tấn Công Trên Không Nâng Cao</color>, hồi phục HP cho tất cả Cộng Hưởng Giả trong đội và khôi phục <color=Highlight>Thanh Forte</color>."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 167813,
+      "primary_key": "ComboTeaching_14060401_DescriptionContent",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "<color=Highlight>Hold Normal Attack</color> shortly after casting <color=Highlight>Basic Attack Stage 3</color> to jump into mid-air, then <color=Highlight>use Normal Attack</color> right after that to cast <color=Highlight>enhanced Mid-air Attack</color>.",
+      "translation_vi": "Giữ <color=Highlight>Tấn Công Thường</color> ngay sau khi thực hiện <color=Highlight>Giai Đoạn 3 Tấn Công Cơ Bản</color> để nhảy lên không trung, rồi <color=Highlight>dùng Tấn Công Thường</color> ngay sau đó để tung ra <color=Highlight>Tấn Công Trên Không Được Tăng Cường</color>."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 167826,
+      "primary_key": "ComboTeaching_14080301_DescriptionContent",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Cast the skill to jump into mid-air, then <color=Highlight>use Normal Attack</color> right after that to cast <color=Highlight>enhanced Mid-air Attack</color>, healing all nearby Resonators in the team and restoring <color=Highlight>Forte Gauge</color>.",
+      "translation_vi": "Kích hoạt kỹ năng để nhảy lên không trung, sau đó <color=Highlight>dùng Đòn Tấn Công Thường</color> ngay lập tức để tung ra <color=Highlight>Đòn Tấn Công Trên Không Nâng Cao</color>, hồi phục HP cho tất cả Cộng Hưởng Giả trong đội và khôi phục <color=Highlight>Thanh Forte</color>."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 167827,
+      "primary_key": "ComboTeaching_14080401_DescriptionContent",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "<color=Highlight>Hold Normal Attack</color> shortly after casting <color=Highlight>Basic Attack Stage 3</color> to jump into mid-air, then <color=Highlight>use Normal Attack</color> right after that to cast <color=Highlight>enhanced Mid-air Attack</color>.",
+      "translation_vi": "Giữ <color=Highlight>Tấn Công Thường</color> ngay sau khi thực hiện <color=Highlight>Giai Đoạn 3 Tấn Công Cơ Bản</color> để nhảy lên không trung, rồi <color=Highlight>dùng Tấn Công Thường</color> ngay sau đó để tung ra <color=Highlight>Tấn Công Trên Không Được Tăng Cường</color>."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 167883,
+      "primary_key": "ComboTeaching_14090701_DescriptionTitle",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Fleurdelys: <color=#d4bf5f>Mid-air Attack</color> Tutorial",
+      "translation_vi": "Fleurdelys: <color=#d4bf5f>Hướng dẫn Tấn Công Trên Không</color>"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 167893,
+      "primary_key": "ComboTeaching_14090701_DescriptionContent",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "As Fleurdelys, use Jump on the ground to lock onto a target and perform an Upward Cut.\nWhen in mid-air, perform up to 3 stages of Mid-air Attack to deal Aero DMG and restore <color=Highlight>Conviction</color>. Mid-air Attack Stage 3 immediately triggers <color=Wind>Aero Erosion</color> DMG once and then consumes 1 stack of <color=Wind>Aero Erosion</color>.\nWith <color=Highlight>Heart of Virtue</color>, gain increased resistance to interruption.\nWith <color=Highlight>Power of Discord</color>, Mid-air Attack Stage 2 propagates the highest stack count of <color=Wind>Aero Erosion</color> among targets.",
+      "translation_vi": "Với tư cách là Fleurdelys, hãy sử dụng Kỹ Năng Nhảy trên mặt đất để khóa mục tiêu và thực hiện Đòn Chém Lên. Khi ở trên không, thực hiện tối đa 3 giai đoạn Tấn Công Trên Không để gây Sát Thương Aero và hồi phục <color=Highlight>Niềm Tin</color>. Giai đoạn 3 của Tấn Công Trên Không sẽ ngay lập tức kích hoạt Sát Thương <color=Wind>Xói Mòn Aero</color> một lần và tiêu hao 1 tầng <color=Wind>Xói Mòn Aero</color>.\nVới <color=Highlight>Trái Tim Đức Hạnh</color>, tăng khả năng kháng cự gián đoạn.\nVới <color=Highlight>Sức Mạnh Discord</color>, giai đoạn 2 của Tấn Công Trên Không sẽ lan truyền số tầng <color=Wind>Xói Mòn Aero</color> cao nhất trong số các mục tiêu."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 167899,
+      "primary_key": "ComboTeaching_12070301_DescriptionTitle",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Lupa: <color=#d4bf5f>Mid-air Attack</color> Tutorial",
+      "translation_vi": "Lupa: <color=#d4bf5f>Hướng dẫn Tấn Công Trên Không</color>"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 168170,
+      "primary_key": "GuideFocusNew_1014_Content",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack enhanced when you have 3 \"Melodies\".",
+      "translation_vi": "Đòn Tấn Công Trên Không được tăng cường khi có 3 \"Giai Điệu\"."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 168171,
+      "primary_key": "GuideFocusNew_1015_Content",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack enhanced when you have 3 \"Melodies\".",
+      "translation_vi": "Đòn Tấn Công Trên Không được tăng cường khi có 3 \"Giai Điệu\"."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 169926,
+      "primary_key": "ComboTeaching_15100901_DescriptionContent",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "After performing 3 consecutive Basic Attacks in mid-air, <color=Highlight>Enhanced Resonance Skill</color> becomes available.\n<color=Highlight>Enhanced Resonance Skill</color> has 3 forms. Each cast switches <color=Highlight>Enhanced Resonance Skill</color> to the next form in sequence.\nCasting the first 2 forms of <color=Highlight>Enhanced Resonance Skill</color> chains into <color=Highlight>Special Basic Attack</color>. Casting the 3rd form of <color=Highlight>Enhanced Resonance Skill</color> chains into <color=Highlight>Special Mid-air Attack</color>.",
+      "translation_vi": "Sau khi thực hiện 3 đòn Tấn Công Cơ Bản liên tiếp trên không, <color=Highlight>Kỹ Năng Cộng Hưởng Nâng Cao</color> sẽ khả dụng.\n<color=Highlight>Kỹ Năng Cộng Hưởng Nâng Cao</color> có 3 dạng. Mỗi lần sử dụng sẽ chuyển sang dạng tiếp theo theo thứ tự.\nSử dụng 2 dạng đầu của <color=Highlight>Kỹ Năng Cộng Hưởng Nâng Cao</color> sẽ liên kết thành <color=Highlight>Đòn Tấn Công Cơ Bản Đặc Biệt</color>. Sử dụng dạng thứ 3 sẽ liên kết thành <color=Highlight>Đòn Tấn Công Trên Không Đặc Biệt</color>."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 170560,
+      "primary_key": "GuideFocusNew_1331_Content",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "When Lupa rises up from the ground at the end of <color=Highlight>Basic Attack 3</color>, use <color=Highlight>Basic Attack</color> to cast <color=Highlight>Mid-air Attack 1</color>.",
+      "translation_vi": "Khi Lupa nhảy lên khỏi mặt đất ở cuối <color=Highlight>Đòn Tấn Công Cơ Bản 3</color>, hãy dùng <color=Highlight>Đòn Tấn Công Cơ Bản</color> để tung ra <color=Highlight>Đòn Tấn Công Trên Không 1</color>."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 170561,
+      "primary_key": "GuideFocusNew_1332_Content",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "When Lupa rises up from the ground at the end of <color=Highlight>Basic Attack 3</color>, use <color=Highlight>Basic Attack</color> to cast <color=Highlight>Mid-air Attack 1</color>.",
+      "translation_vi": "Khi Lupa nhảy lên khỏi mặt đất ở cuối <color=Highlight>Đòn Tấn Công Cơ Bản 3</color>, hãy dùng <color=Highlight>Đòn Tấn Công Cơ Bản</color> để tung ra <color=Highlight>Đòn Tấn Công Trên Không 1</color>."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 170562,
+      "primary_key": "GuideFocusNew_1333_Content",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "When Lupa rises up from the ground at the end of <color=Highlight>Basic Attack 3</color>, use <color=Highlight>Basic Attack</color> to cast <color=Highlight>Mid-air Attack 1</color>.",
+      "translation_vi": "Khi Lupa nhảy lên khỏi mặt đất ở cuối <color=Highlight>Đòn Tấn Công Cơ Bản 3</color>, hãy dùng <color=Highlight>Đòn Tấn Công Cơ Bản</color> để tung ra <color=Highlight>Đòn Tấn Công Trên Không 1</color>."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 175964,
+      "primary_key": "Skill_1004702_SkillResume",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "<size=40><color=Title>Resonance Skill</color></size>\nDeal <color=Light>Spectro DMG</color> and inflict <color=Highlight>Tune Strain - Shifting</color>. The skill has 2 charges.\n<size=10></size>\n<size=40><color=Title>Enhanced Resonance Skill</color></size>\n<color=Highlight>Enhanced Resonance Skill</color> becomes available right after casting <color=Highlight>Basic Attack Stage 4</color> or <color=Highlight>Mid-air Attack Stage 3</color>, which deals <color=Light>Spectro DMG</color> that's considered Basic Attack DMG, inflicts <color=Highlight>Tune Strain - Shifting</color>, and increases Luuk Herssen's <color=Highlight>Resonance Liberation</color> DMG, stacking up to 3 times.\n<color=Highlight>Enhanced Resonance Skill</color> has 3 forms, which rotate in sequence each time <color=Highlight>Enhanced Resonance Skill</color> is cast.",
+      "translation_vi": "<size=40><color=Title>Kỹ Năng Cộng Hưởng</color></size>\nGây <color=Light>Sát Thương Spectro</color> và áp đặt <color=Highlight>Tune Strain - Shifting</color>. Kỹ năng có 2 lượt sử dụng.\n<size=10></size>\n<size=40><color=Title>Kỹ Năng Cộng Hưởng Nâng Cao</color></size>\n<color=Highlight>Kỹ Năng Cộng Hưởng Nâng Cao</color> sẽ khả dụng ngay sau khi sử dụng <color=Highlight>Đòn Tấn Công Cơ Bản Giai Đoạn 4</color> hoặc <color=Highlight>Đòn Tấn Công Trên Không Giai Đoạn 3</color>, gây <color=Light>Sát Thương Spectro</color> được tính là sát thương Đòn Tấn Công Cơ Bản, áp đặt <color=Highlight>Tune Strain - Shifting</color>, và tăng <color=Highlight>Sát Thương Giải Phóng Cộng Hưởng</color> của Luuk Herssen, có thể tích lũy tối đa 3 lần.\n<color=Highlight>Kỹ Năng Cộng Hưởng Nâng Cao</color> có 3 dạng, xoay vòng theo thứ tự mỗi khi sử dụng."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 175979,
+      "primary_key": "Skill_1004707_SkillResume",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "<size=40><color=Title>Mid-air Attack - Gavel of Earthshaker</color></size>\nAfter casting <color=Highlight>Enhanced Resonance Skill - Form III</color>, <color=Highlight>{Cus:Ipt,Touch=tap PC=press Gamepad=press} Normal Attack</color> in mid-air to slam down, dealing <color=Light>Spectro DMG</color> (considered Basic Attack DMG).\n<size=10></size>\n<size=40><color=Title>Aureate Judge</color></size>\nCertain skills restore <color=Highlight>Forte Gauge</color>. When <color=Highlight>Forte Gauge</color> is full, the DMG Multipliers increase for all <color=Highlight>Enhanced Resonance Skills</color>.\n<size=10></size>\n<size=40><color=Title>Golden Rule</color></size>\nWhen other Resonators in the team cast Outro Skill and Luuk Herssen is the incoming Resonator, he additionally restores <color=Highlight>Forte Gauge</color> and Concerto Energy. This effect has a cooldown of {0}s.\n<size=10></size>\n<size=40><color=Title>Dawnlit Keep</color></size>\nLuuk Herssen gains {2} stack of <color=Highlight>Dawnlit Keep</color> when he stays out of combat for over {1}s or casts Intro Skill, which reduces DMG taken and grants immunity to interruptions for a time.\n<size=10></size>\n<size=40><color=Title>Radiant Reave</color></size>\nHurl out a whirling blade to attack when Dodging in mid-air, dealing fixed <color=Light>Spectro DMG</color>.",
+      "translation_vi": "<size=40><color=Title>Tấn Công Trên Không - Búa Phán Quyết Đất Rung</color></size>\nSau khi sử dụng <color=Highlight>Kỹ Năng Cộng Hưởng Nâng Cao - Hình Thái III</color>, <color=Highlight>{Cus:Ipt,Touch=tap PC=press Gamepad=press} Tấn Công Thường</color> trên không để đập xuống, gây <color=Light>Sát Thương Spectro</color> (được tính là Sát Thương Tấn Công Cơ Bản).\n<size=10></size>\n<size=40><color=Title>Aureate Judge</color></size>\nMột số kỹ năng sẽ hồi phục <color=Highlight>Thanh Forte</color>. Khi <color=Highlight>Thanh Forte</color> đầy, hệ số Sát Thương của tất cả <color=Highlight>Kỹ Năng Cộng Hưởng Nâng Cao</color> sẽ tăng lên.\n<size=10></size>\n<size=40><color=Title>Golden Rule</color></size>\nKhi Cộng Hưởng Giả khác trong đội sử dụng Kỹ Năng Outro và Luuk Herssen là Cộng Hưởng Giả tiếp theo, cậu ta sẽ hồi phục thêm <color=Highlight>Thanh Forte</color> và Năng Lượng Concerto. Hiệu ứng này có thời gian hồi {0}s.\n<size=10></size>\n<size=40><color=Title>Dawnlit Keep</color></size>\nLuuk Herssen nhận được {2} lớp <color=Highlight>Dawnlit Keep</color> khi không tham chiến quá {1}s hoặc sử dụng Kỹ Năng Intro, giúp giảm Sát Thương nhận vào và miễn nhiễm với hiệu ứng gián đoạn trong một khoảng thời gian.\n<size=10></size>\n<size=40><color=Title>Radiant Reave</color></size>\nNém một lưỡi kiếm xoay tròn khi Né Tránh trên không, gây <color=Light>Sát Thương Spectro</color> cố định."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177176,
+      "primary_key": "SkillDescription_1209009_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177179,
+      "primary_key": "SkillDescription_1209012_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177326,
+      "primary_key": "RoleSkillInput_1402_DescList_2",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Cast Enhanced Mid-air Attack when Forte Gauge is full",
+      "translation_vi": "Thực hiện Đòn Tấn Công Trên Không Nâng Cao khi Thanh Forte đầy"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177401,
+      "primary_key": "SkillDescription_1104010_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177402,
+      "primary_key": "SkillDescription_1104011_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177427,
+      "primary_key": "SkillDescription_1105005_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177430,
+      "primary_key": "SkillDescription_1105008_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177452,
+      "primary_key": "SkillDescription_1106006_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177454,
+      "primary_key": "SkillDescription_1106008_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177489,
+      "primary_key": "SkillDescription_1107008_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177493,
+      "primary_key": "SkillDescription_1107012_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177530,
+      "primary_key": "SkillDescription_1203009_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177566,
+      "primary_key": "SkillDescription_1203041_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack: Mayhem",
+      "translation_vi": "Tấn Công Trên Không: Hỗn Loạn"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177578,
+      "primary_key": "SkillDescription_1307005_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177602,
+      "primary_key": "SkillDescription_1205005_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack 1 DMG",
+      "translation_vi": "Sát thương Tấn Công Trên Không 1"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177603,
+      "primary_key": "SkillDescription_1205006_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack 2 DMG",
+      "translation_vi": "Sát thương Tấn Công Trên Không 2"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177604,
+      "primary_key": "SkillDescription_1205007_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack 3 DMG",
+      "translation_vi": "Sát thương Tấn Công Trên Không 3"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177605,
+      "primary_key": "SkillDescription_1205008_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack 4 DMG",
+      "translation_vi": "Sát thương Tấn Công Trên Không 4"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177609,
+      "primary_key": "SkillDescription_1205012_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177630,
+      "primary_key": "SkillDescription_1206037_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack Stage 1 Slash DMG",
+      "translation_vi": "Sát Thương Chém Giai Đoạn 1 Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177640,
+      "primary_key": "SkillDescription_1207008_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack Stage 1 DMG",
+      "translation_vi": "Sát Thương Giai Đoạn 1 Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177641,
+      "primary_key": "SkillDescription_1207009_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack Stage 2 DMG",
+      "translation_vi": "Sát Thương Giai Đoạn 2 Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177642,
+      "primary_key": "SkillDescription_1207010_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack Stage 3 DMG",
+      "translation_vi": "Giai Đoạn 3 Đòn Tấn Công Trên Không: Sát Thương"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177650,
+      "primary_key": "SkillDescription_1207018_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177729,
+      "primary_key": "SkillDescription_1301007_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177730,
+      "primary_key": "SkillDescription_1301008_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177764,
+      "primary_key": "SkillDescription_1302008_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177765,
+      "primary_key": "SkillDescription_1302009_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177785,
+      "primary_key": "SkillDescription_1303008_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177786,
+      "primary_key": "SkillDescription_1303009_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177822,
+      "primary_key": "SkillDescription_1305007_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177825,
+      "primary_key": "SkillDescription_1305010_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177858,
+      "primary_key": "SkillDescription_1306006_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177861,
+      "primary_key": "SkillDescription_1306009_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177895,
+      "primary_key": "SkillDescription_1307032_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177900,
+      "primary_key": "SkillDescription_1308004_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177926,
+      "primary_key": "SkillDescription_1308028_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177934,
+      "primary_key": "SkillDescription_1402007_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177935,
+      "primary_key": "SkillDescription_1402008_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177961,
+      "primary_key": "SkillDescription_1404010_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177962,
+      "primary_key": "SkillDescription_1404011_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177964,
+      "primary_key": "SkillDescription_1404013_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack Follow-Up DMG",
+      "translation_vi": "Sát Thương Tiếp Nối Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177990,
+      "primary_key": "SkillDescription_1404038_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack: Resolve",
+      "translation_vi": "Tấn Công Trên Không: Quyết Tâm"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177991,
+      "primary_key": "SkillDescription_1404039_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177999,
+      "primary_key": "SkillDescription_1405007_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178000,
+      "primary_key": "SkillDescription_1405008_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178055,
+      "primary_key": "SkillDescription_1406008_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178059,
+      "primary_key": "SkillDescription_1406012_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178091,
+      "primary_key": "SkillDescription_1407008_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack Stage 1 DMG",
+      "translation_vi": "Sát Thương Giai Đoạn 1 Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178092,
+      "primary_key": "SkillDescription_1407009_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack Stage 2 DMG",
+      "translation_vi": "Sát Thương Giai Đoạn 2 Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178095,
+      "primary_key": "SkillDescription_1407012_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack Stage 1 STA Cost",
+      "translation_vi": "Chi Phí STA Giai Đoạn 1 Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178096,
+      "primary_key": "SkillDescription_1407013_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack Stage 2 STA Cost",
+      "translation_vi": "Chi Phí STA Giai Đoạn 2 Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178126,
+      "primary_key": "SkillDescription_1409009_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack 1 Sword Shadow Recalled",
+      "translation_vi": "Thu hồi Bóng Kiếm Tấn Công Trên Không 1"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178128,
+      "primary_key": "SkillDescription_1409010_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack 2 Sword Shadows Recalled",
+      "translation_vi": "Thu hồi Bóng Kiếm Tấn Công Trên Không 2"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178130,
+      "primary_key": "SkillDescription_1409011_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack 3 Sword Shadows Recalled",
+      "translation_vi": "Thu hồi Bóng Kiếm Tấn Công Trên Không 3"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178152,
+      "primary_key": "SkillDescription_1409022_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack 1 DMG",
+      "translation_vi": "Sát thương Tấn Công Trên Không 1"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178154,
+      "primary_key": "SkillDescription_1409023_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack 2 DMG",
+      "translation_vi": "Sát thương Tấn Công Trên Không 2"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178156,
+      "primary_key": "SkillDescription_1409024_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack 3 DMG",
+      "translation_vi": "Sát thương Tấn Công Trên Không 3"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178166,
+      "primary_key": "SkillDescription_1409029_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178197,
+      "primary_key": "SkillDescription_1409047_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack 1 STA Cost",
+      "translation_vi": "Chi phí Thể Lực Tấn Công Trên Không 1"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178198,
+      "primary_key": "SkillDescription_1409048_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack 2 STA Cost",
+      "translation_vi": "Chi phí Thể Lực Tấn Công Trên Không 2"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178199,
+      "primary_key": "SkillDescription_1409049_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack 3 STA Cost",
+      "translation_vi": "Chi phí Thể Lực Tấn Công Trên Không 3"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178245,
+      "primary_key": "SkillDescription_1410045_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178330,
+      "primary_key": "SkillDescription_1506006_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178335,
+      "primary_key": "SkillDescription_1506011_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178366,
+      "primary_key": "SkillDescription_1507010_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178408,
+      "primary_key": "SkillDescription_1508009_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178414,
+      "primary_key": "SkillDescription_1508015_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178451,
+      "primary_key": "SkillDescription_1509005_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178481,
+      "primary_key": "SkillDescription_1509034_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178496,
+      "primary_key": "SkillDescription_1604007_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178499,
+      "primary_key": "SkillDescription_1604010_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178517,
+      "primary_key": "SkillDescription_1606006_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178520,
+      "primary_key": "SkillDescription_1606009_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178544,
+      "primary_key": "SkillDescription_1607006_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178548,
+      "primary_key": "SkillDescription_1607010_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178592,
+      "primary_key": "SkillDescription_1608007_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178597,
+      "primary_key": "SkillDescription_1608012_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178627,
+      "primary_key": "SkillDescription_1700009_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack Stage 1 DMG",
+      "translation_vi": "Sát Thương Giai Đoạn 1 Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178628,
+      "primary_key": "SkillDescription_1700010_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack Stage 2 DMG",
+      "translation_vi": "Sát Thương Giai Đoạn 2 Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178629,
+      "primary_key": "SkillDescription_1700011_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack Stage 3 DMG",
+      "translation_vi": "Giai Đoạn 3 Đòn Tấn Công Trên Không: Sát Thương"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178630,
+      "primary_key": "SkillDescription_1700012_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178656,
+      "primary_key": "SkillDescription_2500005_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178657,
+      "primary_key": "SkillDescription_2500006_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178685,
+      "primary_key": "SkillDescription_3300007_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178687,
+      "primary_key": "SkillDescription_3300010_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178715,
+      "primary_key": "SkillDescription_4100009_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178717,
+      "primary_key": "SkillDescription_4100011_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178734,
+      "primary_key": "SkillDescription_5700005_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178736,
+      "primary_key": "SkillDescription_5700008_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178774,
+      "primary_key": "SkillDescription_6500012_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178775,
+      "primary_key": "SkillDescription_6500013_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178798,
+      "primary_key": "SkillDescription_7300007_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178818,
+      "primary_key": "SkillDescription_8900005_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack Stage 1 DMG",
+      "translation_vi": "Sát Thương Giai Đoạn 1 Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178819,
+      "primary_key": "SkillDescription_8900006_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack Stage 2 DMG",
+      "translation_vi": "Sát Thương Giai Đoạn 2 Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178820,
+      "primary_key": "SkillDescription_8900007_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178842,
+      "primary_key": "SkillDescription_8900026_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack: Annoyance",
+      "translation_vi": "Tấn Công Trên Không: Phiền Phức"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178852,
+      "primary_key": "SkillDescription_900007_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178853,
+      "primary_key": "SkillDescription_900009_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178901,
+      "primary_key": "SkillInput_120601_Description",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack: {Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} {0} in mid-air to attack. Flip backwards after each stage and {Cus:Ipt,Touch=tap PC=press Gamepad=press} {0} to perform the next stage. Hold {0} during Mid-air Attack Stage 1 or 2 to attack continuously.",
+      "translation_vi": "Tấn Công Trên Không: {Cus:Ipt,Touch=Nhấn PC=Ấn Gamepad=Ấn} {0} giữa không trung để tấn công. Lật người sau mỗi giai đoạn và {Cus:Ipt,Touch=nhấn PC=ấn Gamepad=ấn} {0} để thực hiện giai đoạn tiếp theo. Giữ {0} ở Giai Đoạn 1 hoặc 2 để tấn công liên tục."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178920,
+      "primary_key": "SkillDescription_9700007_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178923,
+      "primary_key": "SkillDescription_9700010_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 178992,
+      "primary_key": "SkillInput_150302_Description",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack: Starflower Blooms: When Forte Gauge is not empty, tap {0} while in mid-air",
+      "translation_vi": "Tấn Công Trên Không: Hoa Sao Nở – Khi Thanh Forte chưa cạn, nhấn {0} giữa không trung"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 179942,
+      "primary_key": "SkillDescription_1206007_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack Stage 1 DMG",
+      "translation_vi": "Sát Thương Giai Đoạn 1 Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 179943,
+      "primary_key": "SkillDescription_1206008_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack Stage 1: Charged Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Nạp Giai Đoạn 1 Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 179944,
+      "primary_key": "SkillDescription_1206009_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack Stage 1: Flip DMG",
+      "translation_vi": "Sát Thương Lật Người Giai Đoạn 1 Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 179945,
+      "primary_key": "SkillDescription_1206010_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack Stage 2 DMG",
+      "translation_vi": "Sát Thương Giai Đoạn 2 Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 179946,
+      "primary_key": "SkillDescription_1206011_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack Stage 2: Charged Attack DMG",
+      "translation_vi": "Giai Đoạn 2 Đòn Tấn Công Trên Không: Sát Thương Đòn Tích Lũy"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 179947,
+      "primary_key": "SkillDescription_1206012_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack Stage 2: Flip DMG",
+      "translation_vi": "Giai Đoạn 2 Đòn Tấn Công Trên Không: Sát Thương Lật Người"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 179948,
+      "primary_key": "SkillDescription_1206013_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack Stage 3 DMG",
+      "translation_vi": "Giai Đoạn 3 Đòn Tấn Công Trên Không: Sát Thương"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 179949,
+      "primary_key": "SkillDescription_1206014_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack Stage 3: Flip DMG",
+      "translation_vi": "Giai Đoạn 3 Đòn Tấn Công Trên Không: Sát Thương Lật Người"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 179950,
+      "primary_key": "SkillDescription_1206015_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack Stage 4 DMG",
+      "translation_vi": "Giai Đoạn 4 Đòn Tấn Công Trên Không: Sát Thương"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 179954,
+      "primary_key": "SkillDescription_1206019_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 180023,
+      "primary_key": "Skill_1003207_SkillResume",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "<size=40><color=Title>Mid-air Attack - Cloudburst Dance</color></size>\nAfter casting Resonance Skill <color=Highlight>Awakening Gale</color>, <color=Highlight>Intro Skill</color>, or Heavy Attack <color=Highlight>Razor Wind</color>, Rover can cast Mid-air Attack <color=Highlight>Cloudburst Dance</color>, dealing <color=Wind>Aero DMG</color> and healing all nearby Resonators in the team.\n<size=10></size>\n<size=40><color=Title>Resonance Skill - Unbound Flow</color></size>\nMid-air Attack <color=Highlight>Cloudburst Dance</color>, <color=Highlight>Intro Skill</color>, <color=Highlight>Normal Attack</color>, and <color=Highlight>Dodge Counter</color> restore Windstrings.\nAt max Windstrings, Rover can cast Resonance Skill <color=Highlight>Unbound Flow</color> to deal <color=Wind>Aero DMG</color>.\n<size=10></size>",
+      "translation_vi": "<size=40><color=Title>Đòn Tấn Công Trên Không - Vũ Điệu Mây Đen</color></size>\nSau khi sử dụng Kỹ Năng Cộng Hưởng <color=Highlight>Gió Thức Tỉnh</color>, <color=Highlight>Kỹ Năng Khởi Động</color> hoặc Đòn Tấn Công Nặng <color=Highlight>Gió Lưỡi Kiếm</color>, Rover có thể thi triển Đòn Tấn Công Trên Không <color=Highlight>Vũ Điệu Mây Đen</color>, gây <color=Wind>Sát Thương Aero</color> và hồi phục HP cho tất cả Cộng Hưởng Giả trong đội ở gần.\n<size=10></size>\n<size=40><color=Title>Kỹ Năng Cộng Hưởng - Dòng Chảy Tự Do</color></size>\nĐòn Tấn Công Trên Không <color=Highlight>Vũ Điệu Mây Đen</color>, <color=Highlight>Kỹ Năng Khởi Động</color>, <color=Highlight>Đòn Tấn Công Thường</color> và <color=Highlight>Phản Đòn Né Tránh</color> sẽ phục hồi Chuỗi Gió.\nKhi Chuỗi Gió đạt tối đa, Rover có thể sử dụng Kỹ Năng Cộng Hưởng <color=Highlight>Dòng Chảy Tự Do</color> để gây <color=Wind>Sát Thương Aero</color>.\n<size=10></size>"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 181164,
+      "primary_key": "SkillDescription_1405050_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack: Chi",
+      "translation_vi": "Tấn Công Trên Không: Chí"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 181231,
+      "primary_key": "SkillDescription_1700028_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack: Starflower Blooms Stage 1 DMG",
+      "translation_vi": "Tấn Công Trên Không: Hoa Sao Nở Giai Đoạn 1"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 181232,
+      "primary_key": "SkillDescription_1700029_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack: Starflower Blooms Stage 2 DMG",
+      "translation_vi": "Tấn Công Trên Không: Hoa Sao Nở Giai Đoạn 2"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 181233,
+      "primary_key": "SkillDescription_1700030_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack: Starflower Blooms Stage 3 DMG",
+      "translation_vi": "Tấn Công Trên Không: Hoa Sao Nở Giai Đoạn 3"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 181286,
+      "primary_key": "SkillDescription_1304007_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 181287,
+      "primary_key": "SkillDescription_1304008_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 181616,
+      "primary_key": "Skill_1002501_SkillResume",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "<size=40><color=Title>Basic Attack</color></size>\nDeal <color=Light>Spectro DMG</color>. Each hit generates 1 <color=Highlight>Collapsed Core</color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack</color></size>\nContinuously consume STA to enter <color=Highlight>Unbound Form</color>. In this form, Shorekeeper will:\n- Generate a segment of <color=Highlight>Deductive Data</color> every second;\n- Automatically collect nearby plant collectibles.\n- Using up all STA or actions such as casting <color=Highlight>Basic Attack</color> will end <color=Highlight>Unbound Form</color> and deal <color=Light>Spectro DMG</color> to the target. Each accumulated segment of <color=Highlight>Deductive Data</color> will convert into a segment of Empirical Data and generate a <color=Highlight>Collapsed Core</color>.\n<size=10></size>\n<size=40><color=Title>Mid-air Attack</color></size>\nConsume STA to attack the target, generating 1 <color=Highlight>Collapsed Core</color> on hit. Quickly follow up with <color=Highlight>Basic Attack</color> to perform <color=Highlight>Basic Attack 2</color>.\n<size=10></size>\n<size=40><color=Title>Dodge Counter</color></size>\nDeal <color=Light>Spectro DMG</color>.",
+      "translation_vi": "<size=40><color=Title>Tấn Công Cơ Bản</color></size>\nGây <color=Light>Sát Thương Spectro</color>. Mỗi đòn đánh tạo ra 1 <color=Highlight>Lõi Sụp Đổ</color>.\n<size=10></size>\n<size=40><color=Title>Tấn Công Mạnh</color></size>\nTiêu hao liên tục STA để chuyển sang <color=Highlight>Trạng Thái Tự Do</color>. Ở trạng thái này, Shorekeeper sẽ:\n- Tạo ra một đoạn <color=Highlight>Dữ Liệu Suy Diễn</color> mỗi giây;\n- Tự động thu thập các vật phẩm thực vật gần đó.\n- Hết STA hoặc thực hiện các hành động như <color=Highlight>Tấn Công Cơ Bản</color> sẽ kết thúc <color=Highlight>Trạng Thái Tự Do</color> và gây <color=Light>Sát Thương Spectro</color> lên mục tiêu. Mỗi đoạn <color=Highlight>Dữ Liệu Suy Diễn</color> tích lũy sẽ chuyển hóa thành một đoạn Dữ Liệu Thực Nghiệm và tạo ra 1 <color=Highlight>Lõi Sụp Đổ</color>.\n<size=10></size>\n<size=40><color=Title>Tấn Công Trên Không</color></size>\nTiêu hao STA để tấn công mục tiêu, tạo ra 1 <color=Highlight>Lõi Sụp Đổ</color> khi trúng đích. Nhanh chóng tiếp nối bằng <color=Highlight>Tấn Công Cơ Bản</color> để thực hiện <color=Highlight>Tấn Công Cơ Bản 2</color>.\n<size=10></size>\n<size=40><color=Title>Phản Đòn Né Tránh</color></size>\nGây <color=Light>Sát Thương Spectro</color>."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 181652,
+      "primary_key": "SkillDescription_1510006_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack Stage 1 DMG",
+      "translation_vi": "Sát Thương Giai Đoạn 1 Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 181653,
+      "primary_key": "SkillDescription_1510007_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack Stage 2 Scythe: Dissection DMG",
+      "translation_vi": "Giai Đoạn 2 Đòn Tấn Công Trên Không – Lưỡi Hái: Sát Thương Phân Thể"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 181654,
+      "primary_key": "SkillDescription_1510008_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack Stage 3 Scythe: Dissection DMG",
+      "translation_vi": "Giai Đoạn 3 Đòn Tấn Công Trên Không – Lưỡi Hái: Sát Thương Phân Thể"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 181655,
+      "primary_key": "SkillDescription_1510009_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack Stage 2 Scythe: Resction DMG",
+      "translation_vi": "Giai Đoạn 2 Đòn Tấn Công Trên Không – Lưỡi Hái: Sát Thương Cộng Hưởng"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 181656,
+      "primary_key": "SkillDescription_1510010_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack Stage 3 Scythe: Resction DMG",
+      "translation_vi": "Giai Đoạn 3 Đòn Tấn Công Trên Không – Lưỡi Hái: Sát Thương Cộng Hưởng"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 181657,
+      "primary_key": "SkillDescription_1510011_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack Stage 4 DMG",
+      "translation_vi": "Giai Đoạn 4 Đòn Tấn Công Trên Không: Sát Thương"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 181683,
+      "primary_key": "SkillDescription_1510035_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack Stage 4 STA Cost",
+      "translation_vi": "Giai Đoạn 4 Đòn Tấn Công Trên Không: Tiêu Hao Thể Lực"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 181739,
+      "primary_key": "SkillDescription_1412007_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack DMG",
+      "translation_vi": "Sát Thương Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 181742,
+      "primary_key": "SkillDescription_1412010_AttributeName",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack STA Cost",
+      "translation_vi": "Chi Phí STA Tấn Công Trên Không"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 182315,
+      "primary_key": "Term121004_Desc",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "<color=Highlight>Synchronization Rate</color> is capped at {0} points.\n- Dealing damage with <color=Highlight>Basic Attack - Aemeath</color>, <color=Highlight>Mid-air Attack - Aemeath</color>, <color=Highlight>Dodge Counter - Aemeath</color>, <color=Highlight>Basic Attack - Mech</color>, <color=Highlight>Mid-air Attack - Mech</color>, <color=Highlight>Dodge Counter - Mech</color>, Resonance Skill <color=Highlight>Sync Strike: Armament Merge</color>, and Resonance Skill <color=Highlight>Sync Strike: Call of Dawn</color> recovers <color=Highlight>Synchronization Rate</color>.\n- Casting Intro Skill <color=Highlight>Songs Across the Universe</color> or <color=Highlight>Debut of Meteoric Radiance</color> recovers {1} points of <color=Highlight>Synchronization Rate</color>.\n- Casting Resonance Liberation <color=Highlight>Heavenfall Edict: Overdrive</color> recovers {2} points of <color=Highlight>Synchronization Rate</color>.\n- When in <color=Highlight>Instant Response</color> and <color=Highlight>Heavenfall Edict: Unbound</color> at the same time, casting <color=Highlight>Heavy Attack - Aemeath Charged II</color> or <color=Highlight>Heavy Attack - Mech Charged II</color> recovers {3} points of <color=Highlight>Synchronization Rate</color>.",
+      "translation_vi": "<color=Highlight>Tỷ Lệ Đồng Bộ</color> bị giới hạn ở mức {0} điểm.\n- Gây sát thương bằng <color=Highlight>Đòn Tấn Công Cơ Bản - Aemeath</color>, <color=Highlight>Đòn Tấn Công Trên Không - Aemeath</color>, <color=Highlight>Phản Đòn Né Tránh - Aemeath</color>, <color=Highlight>Đòn Tấn Công Cơ Bản - Mech</color>, <color=Highlight>Đòn Tấn Công Trên Không - Mech</color>, <color=Highlight>Phản Đòn Né Tránh - Mech</color>, Kỹ Năng Cộng Hưởng <color=Highlight>Đòn Đồng Bộ: Hợp Nhất Vũ Khí</color> và Kỹ Năng Cộng Hưởng <color=Highlight>Đòn Đồng Bộ: Tiếng Gọi Bình Minh</color> sẽ phục hồi <color=Highlight>Tỷ Lệ Đồng Bộ</color>.\n- Sử dụng Kỹ Năng Khởi Động <color=Highlight>Khúc Ca Vượt Vũ Trụ</color> hoặc <color=Highlight>Khúc Khải Huyền Quang</color> sẽ phục hồi {1} điểm <color=Highlight>Tỷ Lệ Đồng Bộ</color>.\n- Sử dụng Giải Phóng Cộng Hưởng <color=Highlight>Thiên Lệnh: Siêu Tải</color> sẽ phục hồi {2} điểm <color=Highlight>Tỷ Lệ Đồng Bộ</color>.\n- Khi đồng thời ở trạng thái <color=Highlight>Phản Ứng Tức Thì</color> và <color=Highlight>Thiên Lệnh: Không Giới Hạn</color>, sử dụng <color=Highlight>Đòn Tấn Công Nặng - Aemeath Nạp II</color> hoặc <color=Highlight>Đòn Tấn Công Nặng - Mech Nạp II</color> sẽ phục hồi {3} điểm <color=Highlight>Tỷ Lệ Đồng Bộ</color>."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 186755,
+      "primary_key": "RogueResSynergyName_1001005_1",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack ignores {0} of the target's DEF.",
+      "translation_vi": "Đòn Tấn Công Trên Không bỏ qua {0} Phòng Ngự của mục tiêu."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 197445,
+      "primary_key": "RogueBuffPool_110704_BuffDesc",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "<color=#c49e55>[Forte Circuit]</color>\nHeavy Attack - Imminent Oblivion from Forte Circuit now inflicts Resonance Skill - Dispersion upon the target on hit.\nTinted Crystal has no Cooldown.\nWhen in Resonance Liberation - Twilight Tango and within {0}s after casting Resonance Skill - Chromatic Splendor, Mid-air Attack - Customary Greetings becomes Heavy Attack - Imminent Oblivion.",
+      "translation_vi": "<color=#c49e55>[Mạch Forte]</color>\nĐòn Tấn Công Nặng - Cận Kề Hư Vô từ Mạch Forte giờ đây sẽ gây hiệu ứng Kỹ Năng Cộng Hưởng - Phân Tán lên mục tiêu khi trúng đích.\nTinh Thể Đa Sắc không còn thời gian hồi chiêu.\nKhi ở trạng thái Giải Phóng Cộng Hưởng - Vũ Điệu Hoàng Hôn và trong vòng {0} giây sau khi sử dụng Kỹ Năng Cộng Hưởng - Sắc Màu Rực Rỡ, Đòn Tấn Công Trên Không - Lời Chào Thông Thường sẽ trở thành Đòn Tấn Công Nặng - Cận Kề Hư Vô."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 197490,
+      "primary_key": "RogueBuffPool_120602_BuffDesc",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "<color=#c49e55>[Forte Circuit]</color>\nForte Circuit - Returned from Ashes now first casts Mid-air Attack Stage 1 forward and then summons an Anchor to plunge from above the target, dealing DMG equal to {0} of Returned from Ashes DMG. The attack range is expanded.\nCasting Returned from Ashes doesn't end Aflame now.",
+      "translation_vi": "<color=#c49e55>[Mạch Forte]</color>\nMạch Forte - Trở Về Từ Tro Tàn giờ đây sẽ tung ra Giai Đoạn Tấn Công Trên Không 1 về phía trước, sau đó triệu hồi Mỏ Neo từ trên cao đâm xuống mục tiêu, gây sát thương bằng {0} sát thương của Trở Về Từ Tro Tàn. Phạm vi tấn công được mở rộng.\nKích hoạt Trở Về Từ Tro Tàn không còn kết thúc trạng thái Bốc Cháy nữa."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 197722,
+      "primary_key": "RogueBuffPool_150603_BuffDesc",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "<color=#c49e55>[Forte Circuit]</color>\nWhen Prayer is full, Phoebe can only cast Heavy Attack - Absolution Litany.\nCasting Absolution Litany grants <SapTag=0>{0}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=0} of Mirror of Light. When there is no Divine Voice, Mid-air Attack consumes <SapTag=1>{1}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=1} of Mirror of Light to recover <SapTag=2>{2}</SapTag> {Cus:Sap,S=point P=points SapTag=2} of Divine Voice upon hit.\nWhen Phoebe holds Divine Voice, Mid-air Heavy Attack STA cost is reduced. Casting Mid-air Heavy Attack summons Light Prism to deal Spectro DMG equal to {3} of Phoebe's ATK in total (considered Basic Attack DMG) to the target and cast Heavy Attack - Starflash.\nHitting a target with Starflash inflicts <SapTag=4>{4}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=4} of Spectro Frazzle.",
+      "translation_vi": "<color=#c49e55>[Forte Circuit]</color>\nKhi Thanh Cầu Nguyện đầy, Phoebe chỉ có thể tung Đòn Tấn Công Nặng - Khúc Thánh Ca Giải Oan.\nThi triển Khúc Thánh Ca Giải Oan sẽ nhận <SapTag=0>{0}</SapTag> {Cus:Sap,S=lớp P=lớp SapTag=0} Gương Ánh Sáng. Khi không có Giọng Thần, Đòn Tấn Công Trên Không sẽ tiêu hao <SapTag=1>{1}</SapTag> {Cus:Sap,S=lớp P=lớp SapTag=1} Gương Ánh Sáng để hồi phục <SapTag=2>{2}</SapTag> {Cus:Sap,S=điểm P=điểm SapTag=2} Giọng Thần khi trúng đích.\nKhi Phoebe đang giữ Giọng Thần, chi phí STA của Đòn Tấn Công Nặng Trên Không sẽ giảm. Thi triển Đòn Tấn Công Nặng Trên Không sẽ triệu hồi Lăng Kính Ánh Sáng gây Sát Thương Spectro bằng {3} Tấn Công của Phoebe (được tính là Sát Thương Đòn Tấn Công Cơ Bản) lên mục tiêu và tung Đòn Tấn Công Nặng - Sao Lóe.\nTrúng đích bằng Sao Lóe sẽ gây <SapTag=4>{4}</SapTag> {Cus:Sap,S=lớp P=lớp SapTag=4} Spectro Frazzle."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 212508,
+      "primary_key": "RogueBuffPool_140905_BuffDesc_2_8",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "<color=Highlight>[Forte Circuit]</color>\n- Casting Resonance Liberation - Blade of Howling Squall and Resonance Skill - Ajudicator of Evil grants Blade of Defiance. If Cartethyia has Heart of Virtue, Mandate of Divinity, and Power of Discord, Mid-air Attack - Cartethyia also grants Blade of Defiance.\n- Blade of Defiance: Increases Max HP by <color=Highlight>{0}</color>. All DMG dealt ignores <color=Highlight>{1}</color> of the target's Aero RES. This effect lasts <color=Highlight>{2}</color>s and stacks up to <color=Highlight>{3}</color> times.",
+      "translation_vi": "<color=Highlight>[Mạch Forte]</color>\n- Kích hoạt Giải Phóng Cộng Hưởng - Lưỡi Kiếm Gió Gào và Kỹ Năng Cộng Hưởng - Người Phán Xét Tội Ác sẽ nhận được Lưỡi Kiếm Phản Kháng. Nếu Cartethyia đang sở hữu Trái Tim Nhân Đức, Thiên Mệnh Thần Quyền và Sức Mạnh Tacet Discord, Đòn Tấn Công Trên Không - Cartethyia cũng sẽ nhận được Lưỡi Kiếm Phản Kháng.\n- Lưỡi Kiếm Phản Kháng: Tăng HP tối đa thêm <color=Highlight>{0}</color>. Tất cả sát thương gây ra sẽ bỏ qua <color=Highlight>{1}</color> Kháng Aero của mục tiêu. Hiệu ứng này kéo dài <color=Highlight>{2} giây</color> và có thể cộng dồn tối đa <color=Highlight>{3}</color> lần."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 230961,
+      "primary_key": "ComboTeaching_11080101_IconText_2",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack 2",
+      "translation_vi": "Tấn Công Trên Không 2"
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 230962,
+      "primary_key": "ComboTeaching_11080101_IconText_3",
+      "status": "translated",
+      "keep": "Mid-air Attack",
+      "matched_source_term": "Mid-air Attack",
+      "bad_terms": [
+        "Tấn Công Trên Không"
+      ],
+      "source_en": "Mid-air Attack 3",
+      "translation_vi": "Tấn Công Trên Không 3"
+    }
+  ]
+}

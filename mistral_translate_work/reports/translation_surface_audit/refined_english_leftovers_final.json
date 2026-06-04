@@ -1,0 +1,66 @@
+[
+  {
+    "source": "db",
+    "loc": "lang_infodisplay.db::InfoDisplay::166",
+    "patterns": [
+      "Gather "
+    ],
+    "text": "Fella: anh bạn, đồng chí.\nMake yourself known: Malee mày là gì.\nHide the blade: không tiện nói tên.\nBig known: Người nổi danh.\nEmp: Thằng ngơ mới vào nghề.\nGather Spring: Hiểu tiếng lóng.\nFat: Người được ngưỡng mộ.\nGourd Grip: Ông trùm, kẻ cầm đầu.\nDeliver the water: Móc ví ra đây.\nPeeker: Con mắt.\nWind-taker: Lỗ tai.\nGold pole: Cái chân.\nThe green: Weapons.\nThe stick: Súng.\n..."
+  },
+  {
+    "source": "db",
+    "loc": "lang_item.db::ItemInfo::969",
+    "patterns": [
+      "Gather "
+    ],
+    "text": "Suối Fangdong và Kinh Điển Phương Tây: Phần I\n\nFella: bạn bè, anh em.\nMake yourself known: Malee cậu là gì.\nHide the blade: không tiện nói tên.\nBig known: Người nổi tiếng.\nEmp: Kẻ ngoại đạo không biết tiếng lóng.\nGather Spring: Giao tiếp bằng tiếng lóng.\nFat: Người được ngưỡng mộ.\nGourd Grip: Ông trùm, thủ lĩnh.\nDeliver the water: Đưa tiền đây.\nPeeker: Con mắt.\nWind-taker: Lỗ tai.\nGold pole: Cái chân.\nThe green: Weapons.\nThe stick: Súng.\n..."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_30010006_Text",
+    "patterns": [
+      "Release "
+    ],
+    "text": "<b>Tóm tắt</b>\nNghiên cứu của Spacetrek Collective xác nhận Reactor Drive là bộ phận cốt lõi của Exostrider. Tuy nhiên, hệ thống phòng thủ cực kỳ kiên cố và tính không thể tiếp cận của nó khiến việc thu thập theo phương pháp thông thường trở nên bất khả thi. Bài báo này đề xuất một sáng kiến chiến lược đột phá: Dự án Giải phóng Định hướng Năng lượng Hư không (Void Energy Directed Release Project).\n\nCơ chế cốt lõi dựa trên mối liên kết phòng thủ cộng sinh giữa Reactor và điểm neo chính của nó—các Solistree tại Bjartr Woods. Chúng tôi chứng minh rằng việc triển khai chính xác các vật mang Voidmatter chuyên dụng vào vùng rễ của Solistree có thể làm tổn hại hiệu quả điểm neo sinh thái này. Sự ô "
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::XJXYSDJ_22_3",
+    "patterns": [
+      "Release "
+    ],
+    "text": "Dùng từ viết tắt đi. Ví dụ như \"Compound Lichen Greenbud Sustained-Release Tablet\" này, tụi mình chỉ gọi là Lich-let thôi"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\item\\lang_item\\lang_item__item__part_0002.json::101",
+    "patterns": [
+      "Gather "
+    ],
+    "text": "Suối Fangdong và Kinh Điển Phương Tây: Phần I\n\nFella: bạn bè, anh em.\nMake yourself known: Malee cậu là gì.\nHide the blade: không tiện nói tên.\nBig known: Người nổi tiếng.\nEmp: Kẻ ngoại đạo không biết tiếng lóng.\nGather Spring: Giao tiếp bằng tiếng lóng.\nFat: Người được ngưỡng mộ.\nGourd Grip: Ông trùm, thủ lĩnh.\nDeliver the water: Đưa tiền đây.\nPeeker: Con mắt.\nWind-taker: Lỗ tai.\nGold pole: Cái chân.\nThe green: Weapons.\nThe stick: Súng.\n..."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_infodisplay\\lang_infodisplay__lore__part_0001.json::93",
+    "patterns": [
+      "Gather "
+    ],
+    "text": "Fella: anh bạn, đồng chí.\nMake yourself known: Malee mày là gì.\nHide the blade: không tiện nói tên.\nBig known: Người nổi danh.\nEmp: Thằng ngơ mới vào nghề.\nGather Spring: Hiểu tiếng lóng.\nFat: Người được ngưỡng mộ.\nGourd Grip: Ông trùm, kẻ cầm đầu.\nDeliver the water: Móc ví ra đây.\nPeeker: Con mắt.\nWind-taker: Lỗ tai.\nGold pole: Cái chân.\nThe green: Weapons.\nThe stick: Súng.\n..."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0002.json::53",
+    "patterns": [
+      "Release "
+    ],
+    "text": "<b>Tóm tắt</b>\nNghiên cứu của Spacetrek Collective xác nhận Reactor Drive là bộ phận cốt lõi của Exostrider. Tuy nhiên, hệ thống phòng thủ cực kỳ kiên cố và tính không thể tiếp cận của nó khiến việc thu thập theo phương pháp thông thường trở nên bất khả thi. Bài báo này đề xuất một sáng kiến chiến lược đột phá: Dự án Giải phóng Định hướng Năng lượng Hư không (Void Energy Directed Release Project).\n\nCơ chế cốt lõi dựa trên mối liên kết phòng thủ cộng sinh giữa Reactor và điểm neo chính của nó—các Solistree tại Bjartr Woods. Chúng tôi chứng minh rằng việc triển khai chính xác các vật mang Voidmatter chuyên dụng vào vùng rễ của Solistree có thể làm tổn hại hiệu quả điểm neo sinh thái này. Sự ô "
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0091.json::20",
+    "patterns": [
+      "Release "
+    ],
+    "text": "Dùng từ viết tắt đi. Ví dụ như \"Compound Lichen Greenbud Sustained-Release Tablet\" này, tụi mình chỉ gọi là Lich-let thôi"
+  }
+]

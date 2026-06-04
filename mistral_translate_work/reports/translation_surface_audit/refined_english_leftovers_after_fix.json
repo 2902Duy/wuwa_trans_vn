@@ -1,0 +1,1542 @@
+[
+  {
+    "source": "db",
+    "loc": "lang_infodisplay.db::InfoDisplay::124",
+    "patterns": [
+      "Gather "
+    ],
+    "text": "Chương 18, 𝘕𝘩ữ𝘯𝘨 𝘎𝘩𝘪 𝘊𝘩é𝘱 𝘛𝘳𝘶𝘯𝘨 𝘛𝘩ą𝘮 𝘥𝘰 𝘝ề 𝘊𝘰𝘯 𝘛𝘢𝘯 𝘛𝘩ą𝘯𝘨 𝘊ủ𝘢 𝘑𝘪 𝘛𝘪𝘯𝘨, 𝘈.𝘓. 104\nCơ sở: Trạm Giám sát\nMục đích: Gather và dự đoán dữ liệu dao động Wutheron trong khu nghiên cứu số 1.\n\nMột cơ sở của Ji Ting tồn tại đến giây phút cuối cùng, gánh vác trách nhiệm quan trọng ngay cả sau thảm họa, đó là hướng dẫn cư dân Huanglong di cư lên núi an toàn. Sau khi hoàn thành sứ mệnh cuối cùng, nó gần như hoàn hảo, như một tạo vật nhân tạo."
+  },
+  {
+    "source": "db",
+    "loc": "lang_infodisplay.db::InfoDisplay::166",
+    "patterns": [
+      "Gather "
+    ],
+    "text": "Fella: anh bạn, đồng chí.\nMake yourself known: Malee mày là gì.\nHide the blade: không tiện nói tên.\nBig known: Người nổi danh.\nEmp: Thằng ngơ mới vào nghề.\nGather Spring: Hiểu tiếng lóng.\nFat: Người được ngưỡng mộ.\nGourd Grip: Ông trùm, kẻ cầm đầu.\nDeliver the water: Móc ví ra đây.\nPeeker: Con mắt.\nWind-taker: Lỗ tai.\nGold pole: Cái chân.\nThe green: Weapons.\nThe stick: Súng.\n..."
+  },
+  {
+    "source": "db",
+    "loc": "lang_item.db::ItemInfo::801",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Phần Thưởng Trao Exchange Nhiễu"
+  },
+  {
+    "source": "db",
+    "loc": "lang_item.db::ItemInfo::969",
+    "patterns": [
+      "Gather "
+    ],
+    "text": "Suối Fangdong và Kinh Điển Phương Tây: Phần I\n\nFella: bạn bè, anh em.\nMake yourself known: Malee cậu là gì.\nHide the blade: không tiện nói tên.\nBig known: Người nổi tiếng.\nEmp: Kẻ ngoại đạo không biết tiếng lóng.\nGather Spring: Giao tiếp bằng tiếng lóng.\nFat: Người được ngưỡng mộ.\nGourd Grip: Ông trùm, thủ lĩnh.\nDeliver the water: Đưa tiền đây.\nPeeker: Con mắt.\nWind-taker: Lỗ tai.\nGold pole: Cái chân.\nThe green: Weapons.\nThe stick: Súng.\n..."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Term851002_Desc",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Các Echoes thuộc thuộc tính Giấc Mộng này lấy Trao Exchange làm khả năng cốt lõi. Trong Giấc Mộng Trao Exchange, một số Echoes có thể tự Trao Exchange bản thân để tái tạo Echo. Sau khi tồn tại trong Giấc Mộng đủ số ngày quy định, chúng sẽ Tự Loại Bỏ và để lại nhiều hiệu ứng tăng cường."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Term851002_Title",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Giấc Mộng Trao Exchange"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Term851007_Desc",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Các Echoes thuộc thuộc tính Giấc Mộng này lấy Trao Exchange làm khả năng cốt lõi. Một số Echoes có thể tự Trao Exchange bản thân để tái tạo Echo. Sau khi tồn tại trong Giấc Mộng đủ số ngày quy định, chúng sẽ Tự Loại Bỏ và để lại nhiều hiệu ứng tăng cường."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Term851033_Desc",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Mỗi Echo hạng xanh trên chiến trường, khi Trao Exchange một Vật Phẩm Giao Dịch, có 5% cơ hội tạo ra một Echo cùng tên, có thể chồng chất tối đa 5 lần."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Term851047_Desc",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Trao Exchange: Sau 2 ngày, sẽ tự loại bỏ bản thân khỏi Vật Phẩm Trao Exchange. Dấu Vết này luôn xuất hiện trên cùng một khối. Khi Trao Exchange, có 50% cơ hội tạo ra một Mourning Aix trên khối trống. Không thể nhận được Dấu Vết này qua Echo Recruitment."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Term851061_Desc",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Trao Exchange: Sau 2 ngày, sẽ tự loại bỏ bản thân khỏi Vật Phẩm Trao Exchange. Khi Trao Exchange, sản lượng Daily Coupon của các Dấu Vết liền kề tăng thêm 30% sản lượng Daily Coupon của Dấu Vết này. Không thể nhận được Dấu Vết này qua Echoes Recruitment."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Term851062_Desc",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Trao Exchange: Sau 2 ngày, sẽ tự loại bỏ bản thân khỏi Vật Phẩm Trao Exchange. Khi Trao Exchange hoặc Bị Nuốt Chửng, sẽ nhận được Dreamland Coupons bằng sản lượng Daily Coupon hiện tại x10. Có 50% cơ hội tạo ra một Mourning Aix. Không thể nhận được Dấu Vết này qua Echo Recruitment."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::LevelPlay_681700002_BvbPlayerOperationConstraintPromptTxt_681_26",
+    "patterns": [
+      "Deploy",
+      "Deployment"
+    ],
+    "text": "Drag Novelty to Deployment Zone"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_101400001_Title",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Research Memo A038"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_101400002_Title",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Research Memo A038"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_101400004_Title",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Research Memo: A038"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_101400008_Title",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Hastily Written Research Note"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_102801002_Text",
+    "patterns": [
+      "Instructions "
+    ],
+    "text": "Instructions sử dụng Mô-đun Save trữ Năng lượng Cảm ứng\n    1. Người vận hành cần lưu ý rằng các màu sắc khác nhau của Battery Cảm ứng tương ứng với điện áp khác nhau và phải được lắp vào khe lưu trữ năng lượng phù hợp.\n    2. Điện áp của Battery Cảm ứng có thể thay đổi thông qua thiết bị cảm biến biến đổi để đáp ứng nhu cầu.\n    3. Do thiếu bảo trì, có thể có chướng ngại vật gần mô-đun, cần dọn dẹp trước khi sử dụng.\n    Ví dụ:\n    Tàn tích (có thể dọn trực tiếp)\n    Bẫy bụi rậm (có thể phá hủy bằng cách kích nổ Tacetite)\n    Tacetite (có thể phá hủy bằng cách kích hoạt Tia Sét Tacetite)"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_102801015_Text",
+    "patterns": [
+      "Research "
+    ],
+    "text": "A Diary Đội Khảo Sát Rừng Âm U: VIII\nMột loạt biến cố, như sự quấy nhiễu của Hoochief, đã dẫn đến mất mát phần lớn dữ liệu nghiên cứu của chúng tôi.\nTuy nhiên, trong khi thu thập lại dữ liệu, chúng tôi vẫn được chứng kiến những nỗ lực dũng cảm của những người đi trước tại Rừng Âm U.\nResearch <ano=Ecoacoustics>sinh thái</ano> là một lĩnh vực phức tạp. Những vấn đề như tìm điểm đột phá then chốt và cách bắt đầu nghiên cứu đều là những điều chúng ta cần lưu tâm.\nMay mắn thay, giờ đây chúng ta có thêm thời gian để suy ngẫm."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_104122501_Text",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Truy Nã! Truy Nã!\nDiscord hùng mạnh đang lao qua cánh đồng lửa cháy rực của Biển Lửa…\nThách đấu, đánh bại, tiêu diệt nó!\nNhận Rewards hậu hĩnh 100.000 SHC!\nTrung tâm Research Qi hậu Wutherology, Huaxu Academy"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_11010111_Text",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Lịch diễn thuyết Tuần lễ Giao lưu Học thuật Huaxu Academy:\n\nMalee bài giảng: Phân loại Weapons Tacet Field và Ý nghĩa trong Research Năng lượng – Research Trường hợp Weapons Huanglong\nĐịa điểm: Lecture Hall Số 1\nPlays giả: Mortefi\nTiểu sử diễn giả: Zhuyên gia về Weapons Tacet Field, chuyên viên đánh giá thuộc Department An toàn, và nhà nghiên cứu xuất sắc tại Huaxu Academy.\n\nMalee bài giảng: Logic Thuật toán Phân bổ Tuyến đường trong Lollo Logistics\nĐịa điểm: Lecture Hall Nhiều tầng\nPlays giả: Rubert\nTiểu sử diễn giả: Kỹ sư front-end tại Lollo Logistics và giảng viên thỉnh giảng tại Huaxu Academy."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_11030101_Title",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Report Research về Thành phần Mist tại Misty Pits"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_11040102_Text",
+    "patterns": [
+      "Instructions "
+    ],
+    "text": "Gửi toàn thể dân làng và nhân viên trú đóng tại khu vực điều tra: Đã có báo cáo về việc phát hiện tần số bất thường ở các khu vực xung quanh làng (bao gồm khu điều tra số chín). Huaxu Academy ước tính có sự tích tụ của Etheric Sea và xác suất cao xuất hiện Tacet Field tại những khu vực này. Để đảm bảo an toàn tính mạng và tài sản của các người, hãy chuẩn bị sơ tán ngay lập tức khi nhận được thông báo này. Chỉ mang theo những vật dụng thiết yếu. Đội Kỵ Binh Night sẽ được điều động hỗ trợ sơ tán. NHẮC LẠI. CHỈ MANG THEO VẬT DỤNG THIẾT YẾU. SƠ TÁN NGAY LẬP TỨC! Instructions bổ sung: Tất cả nhân viên trú đóng tại khu vực điều tra phải chú ý theo dõi các cảnh báo/thông báo tiếp theo."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_11040134_Title",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Jiting's Research Note"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_11040153_Text",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Lịch diễn thuyết Tuần lễ Giao lưu Học thuật Huaxu Academy:\n\nMalee bài giảng: Phân loại Weapons Tacet Field và Ý nghĩa trong Research Năng lượng: Research Trường hợp Weapons Huanglong\nĐịa điểm: Lecture Hall Số 1\nPlays giả: Mortefi\nTiểu sử diễn giả: Zhuyên gia về Weapons Tacet Field, chuyên viên đánh giá thuộc Department An toàn, và nhà nghiên cứu xuất sắc tại Huaxu Academy.\n\nMalee bài giảng: Logic Thuật toán Phân bổ Tuyến đường trong Lollo Logistics\nĐịa điểm: Lecture Hall Nhiều tầng\nPlays giả: Rubert\nTiểu sử diễn giả: Kỹ sư front-end tại Lollo Logistics và giảng viên thỉnh giảng tại Huaxu Academy."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_11040178_Text",
+    "patterns": [
+      "Instructions "
+    ],
+    "text": "Gửi toàn thể dân làng và nhân viên trú đóng tại Zone Vực Investigate:\nĐã có báo cáo về tình trạng tần số bất thường gần khu vực làng (bao gồm Zone Investigate Số 9). Huaxu Academy dự đoán sự tích tụ của Etheric Sea và xác suất cao xuất hiện Tacet Field tại những khu vực này. Để đảm bảo an toàn tính mạng và tài sản của các người, hãy chuẩn bị sơ tán ngay lập tức khi nhận được thông báo này. Chỉ mang theo những vật dụng thiết yếu. Đội Kỵ Binh Night sẽ được điều động hỗ trợ sơ tán. NHẮC LẠI. CHỈ MANG THEO VẬT DỤNG THIẾT YẾU. SƠ TÁN NGAY LẬP TỨC!\n\nInstructions bổ sung: Tất cả nhân viên trú đóng tại khu vực điều tra phải chú ý theo dõi các cảnh báo/thông báo tiếp theo."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_11040185_Title",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Research Memo-C2068"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_11070107_Text",
+    "patterns": [
+      "Gather "
+    ],
+    "text": "Sổ tay Thực địa CSC tại AL104 - XVIII\nCơ sở: Trạm Giám sát\nMục đích: Gather và dự đoán dao động Sóng Vút quanh khu vực nghiên cứu đầu tiên.\n\nCỗ máy CSC, dù chỉ còn tồn tại đến giây phút cuối cùng, vẫn đóng vai trò quan trọng trong hậu quả của thảm họa - dẫn dắt cư dân Huanglong di cư an toàn lên núi để hoàn thành sứ mệnh cuối cùng của nó. Là một sản phẩm nhân tạo, nó gần như hoàn hảo."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_11890103_Title",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Research Memo A038"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_11890105_Title",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Research Memo A038"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_11890106_Title",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Research Memo A038"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_310000291_Text",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Tên: Huaxu Academy, KU-Roro B Campus\n \n[Introduction]\n\nHuaxu Academy, một trung tâm nghiên cứu khoa học danh tiếng tại KU-Roro B, tự hào với bề dày học thuật và công nghệ tiên tiến hàng đầu.\n\nLà một chi nhánh của Huaxu Academy Huanglong, nơi đây đã tạo ra vô số thành tựu nghiên cứu đột phá nhờ tập trung phát triển khoa học công nghệ trong bối cảnh cuộc chiến chống lại Discord vẫn còn tiếp diễn.\n\nHọc viện duy trì tính độc lập cao trong các hoạt động nghiên cứu, đồng thời tích cực trao đổi học thuật với các tổ chức khác trong và ngoài Huanglong. Trên thực tế, nơi đây từng là đối tác chủ chốt của Tòa án Savantae. Gồm bốn khoa chính, mỗi khoa có chức năng chuyên biệt, Huaxu Academy tiến hành các dự án nghiên cứu song song và hợp tác.\n\nCác nhóm dự án đặc biệt cũng được thành lập để giải quyết những thách thức lớn khi cần. Trong khi hiệu trưởng phụ trách công tác hành chính, thì Trưởng Điều tra viên đóng vai trò lãnh đạo học thuật của học viện.\n\n\n\n\n[Các khoa]\n\nKhoa Research Dị thường:\nKhoa Research Dị thường nghiên cứu và phân tích các hiện tượng bất thường, xây dựng lý thuyết dựa trên những sự kiện này và đề ra các biện pháp phòng ngừa. Bao gồm mô hình mạng lưới Đèn Cảm Ứng và nghiên cứ"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_310000301_Text",
+    "patterns": [
+      "Instructions "
+    ],
+    "text": "Tóm tắt: \n\nNovaFei là một bệnh truyền nhiễm cấp tính không có phương pháp điều trị hiệu quả, chủ yếu ảnh hưởng đến trẻ em dưới sáu tuổi. Bệnh có khả năng lây lan cao với các triệu chứng nghiêm trọng bao gồm sốt, đau nhức chân tay và teo cơ. Để đối phó với căn bệnh này, một loại vắc-xin sống giảm độc lực đã được phát triển và vượt qua giai đoạn thử nghiệm lâm sàng giai đoạn III vào <color=#ffd12f>16 tháng 6 lúc 3 giờ chiều</color>. Ban Y tế đã thành lập một đội ngũ chuyên trách để phát triển loại vắc-xin này. Report này nhằm phân tích tiến trình nghiên cứu vắc-xin và cung cấp những hiểu biết giá trị cho các nghiên cứu tiếp theo. Result cho thấy hiệu quả miễn dịch đầy hứa hẹn, biến loại vắc-xin này thành giải pháp tiềm năng trong việc ngăn ngừa lây nhiễm NovaFei.\n\n1. Ứng dụng sơ bộ phương pháp phát hiện kháng thể trung hòa đối với giả virus NovaFei\n2. Hiệu quả của vắc-xin sống giảm độc lực chống lại giả virus NovaFei qua đường tiêm\n3. Report thử nghiệm lâm sàng về việc sử dụng đường uống vắc-xin sống giảm độc lực \"Sugar Pearl\" chống lại giả virus NovaFei\n\n... \n\nExtra lục 1: Profile đăng ký tham gia thử nghiệm lâm sàng (i) \n\nSố đăng ký: CTR302001 \n\nTên: Xiangli Yan\nGender: Nữ \nTuổi: 2"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_101400004_Text",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Ngày: [--25]\nRainy trong phòng thí nghiệm kéo dài lâu hơn bên ngoài nhiều... Đã rơi suốt bốn năm, mười một tháng và hai ngày rồi.\nCảm giác choáng ngợp khi lần đầu chứng kiến \"Sự Treo Suspension\" dần bị nuốt chửng bởi nỗi tuyệt vọng ngập tràn. Sự thất vọng và bực bội lan tỏa trong phòng thí nghiệm như rêu phong, dai dẳng và không thể tránh khỏi. Do việc trong môi trường ẩm ướt này như một hình thức tra tấn cả về thể xác lẫn tinh thần.\n\nResearch về Rainy Retroact đã bước vào giai đoạn hai, thế nhưng trái với kỳ vọng, chẳng có tiến triển nào cả. Có lẽ ai cũng vậy, kể cả Giáo sư Heisen, đều tự hỏi liệu chúng ta có đang làm sai. Nhưng mọi bằng chứng đều chỉ ra rằng \"nó\" đã thực sự ghé thăm Bãi Lầy Whining Aix. Đó là một trong những lý do chúng ta chuyển đến đây.\n\nĐiều chúng ta theo đuổi chỉ là dùng Rainy Retroact để tái hiện lại \"phép màu\" và tìm kiếm sự khai sáng. Dù kiệt sức, nghi ngờ và vô số tranh cãi, chúng ta vẫn phải tiếp tục nghiên cứu. Nhưng thời gian không đứng về phía chúng ta. Cuối cùng, chúng ta quyết định chuyển sang \"Kế hoạch B\".\n\nLiệu đó có phải là lựa chọn đáng giá? Khó mà nói. Giáo sư Heisen bảo rủi ro rất cao, nhưng thành công có thể đưa chúng ta đến gần hơn với câu t"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_102801018_Title",
+    "patterns": [
+      "Research "
+    ],
+    "text": "CSC Research Memo I"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_102801018_Text",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Research Log — #C532\nNgày: [--05]\nThí nghiệm thứ 903 lại thất bại, khiến chúng tôi không khỏi nhớ về sự hào hứng ban đầu khi hoàn thành nguyên mẫu Chronosorter đầu tiên. Nhưng chúng tôi luôn biết đó chỉ là bản sao thô sơ sức mạnh của C-001. Tính toán của ta cho thấy Chronosorter chỉ hoạt động trong một khoảng cách nhất định và sẽ trở nên vô dụng khi rời khỏi vùng rào cản thời gian này (dù có thể vẫn hoạt động ở Bãi Sáng).\n\nDù vậy, ta vẫn nuôi hy vọng. Khái niệm \"Synergy Thứ Cấp\" không chỉ là lý thuyết đối với ta; đó là cả cuộc đời ta. Nghĩ đến việc nó có thể chỉ là ảo tưởng thôi cũng đủ khiến ta rùng mình.\n\nResearch Log — #C545\nNgày: [--26]\nChronosorter thứ 931, giống như các tiền nhiệm, đã bị phá hủy bởi xung kích cộng hưởng dữ dội. Nhưng nó đã khôi phục thời gian trong 1,29 giây ngắn ngủi, một sự hy sinh đáng giá.\n\nTa đã đúng... Niềm tin vào lý thuyết Synergy Thứ Cấp của ta đã được chứng minh! Khi hai thực thể cộng hưởng với cường độ cao, thực thể yếu hơn có thể phát huy sức mạnh Synergy vượt xa khả năng ban đầu.\n\nVấn đề duy nhất là các Chronosorter chúng ta chế tạo quá mỏng manh cho nhiệm vụ này. Ta cần một Synergy Giả mạnh mẽ hơn, nhưng rủi ro quá lớn. Không ai có thể chịu đựng"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_102801020_Title",
+    "patterns": [
+      "Research "
+    ],
+    "text": "CSC Research Memo II"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_102801020_Text",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Research Log #C501\nNgày: [--19]\nGuest của ta đã chia sẻ những chi tiết phức tạp về thế giới bên ngoài, mô tả một nền văn minh mới trỗi dậy từ tro tàn của quá khứ. Giọng điệu họ kể chuyện thật bình thản, không chút cảm xúc cá nhân, như thể họ chỉ là người quan sát vô tư, chứ không phải người đã cứu vớt nền văn minh ấy.\nTa dần nhận ra họ không giống chúng ta - sự khiêm nhường và thiện chí của họ chỉ nhằm dẫn dắt, hòa nhập chúng ta vào con đường đã được định sẵn.\nDù vậy, ta vẫn biết ơn vì những kiến thức họ đã chia sẻ. Ta khao khát được tận mắt chứng kiến thế giới mới ấy, nhận ra mình đã giam mình quá lâu trên Núi Firmament..."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_120101011_Text",
+    "patterns": [
+      "Research "
+    ],
+    "text": "\"Thiên Tài\" Gặp \"Bình Thường\": Cuộc Phỏng Vấn Độc Quyền với Home Bác Học Đa Tài Bí Ẩn\n\nQ: Đây là lần đầu tiên anh xuất hiện trước công chúng phải không? Anh có lo lắng không? Mọi người đều tò mò về hình ảnh thực sự của \"thiên tài\" huyền thoại đấy.\nA: Haha, thực ra tôi đã trò chuyện với rất nhiều người về đủ thứ chủ đề mà các cậu còn không nhận ra. Có thể cậu sẽ nhớ đến ai đó tên Cream Cat khi thảo luận về tuổi thọ của proton đấy.\n\nQ: Home khoa học viết lách Cream Cat ấy à? Thì ra cũng là anh! Thật sự bất ngờ! À mà, bút danh này có ý nghĩa gì đặc biệt không?\nA: Đó là từ một khoảnh khắc \"à há\" nho nhỏ. Để tôi hỏi cậu nhé: đã bao giờ cậu vô tình làm rơi một chiếc bánh kem chưa? Nếu có, chắc hẳn cậu đã để ý thấy mặt kem luôn chạm đất trước, giống như mèo luôn tiếp đất bằng chân vậy. Bây giờ, hãy tưởng tượng thế này: dán mặt không kem lên lưng một con mèo, và voilà! Cậu đã có một cỗ máy chuyển động vĩnh cửu cream-cat, quay liên tục 24/7—một kỳ quan khoa học thực thụ.\n\nQ: Right có một tâm hồn bay bổng và sáng tạo lắm mới nghĩ ra ý tưởng thú vị như vậy. Không biết nghiên cứu về Cơ Học Tự Động của anh có cũng lãng mạn như thế không?\nA: Để trả lời câu hỏi đó, hãy ngẩng đầu lên và nhìn bầu t"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_102001601_Title",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Research Log"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_102001603_Title",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Research Journal"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_102801033_Title",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Research Memo–CT1946"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_102801033_Text",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Ngày: [––]\nĐang kiểm tra, kiểm tra… À, tốt rồi! Function ghi âm vẫn hoạt động.\nTa, Victor Christopher, Giám đốc Research cuối cùng, đang tự mình dẫn dắt thí nghiệm này—không tiền lệ, không thử nghiệm trên động vật, không đánh giá đạo đức. Thành thật mà nói, việc đưa ra quyết định này đã giày vò ta—đạo đức khoa học của ta đang dần mỏng đi. Nhưng không còn cách nào khác. Thời gian của ta sắp hết. Giờ chỉ còn ta và Caleb, trợ lý AI đó thôi.\nDù vậy, ta vẫn ghi lại những gì sắp làm. Ta không ghi theo định dạng chuẩn, vì đây chỉ là hành động tuyệt vọng của một lão già chưa chịu khuất phục. Hy vọng điều này sẽ không làm phiền ai nếu họ tìm thấy bản ghi này.\nTa đã thiết lập vài Chronopin—để ngăn sự cố năng lượng, ta sẽ quá tải từng cái—về lý thuyết, điều này sẽ tạo ra một bong bóng thời gian vĩnh cửu, không thể đảo ngược, nhốt ta bên trong như một con côn trùng trong hổ phách. Ta ngần ngại gọi đó là sự bất tử—nó giống như tự kết án mình vào tù chung thân hơn. Niềm an ủi duy nhất là ý thức của ta cũng sẽ bị đóng băng, nên ta sẽ giữ được sự tỉnh táo trong giấc ngủ dài này.\nLý do ta làm vậy thay vì bình thản đón nhận cái chết là… ta phải đợi người đó trở lại.\nNgười đó từng giúp chúng ta phát "
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_102801034_Text",
+    "patterns": [
+      "Research "
+    ],
+    "text": "//Dấu thời gian 36/%st.64//\nDấu hiệu sinh tồn của Giám đốc Research Victor Christopher đã dừng. Tiến hành giao thức tiêu chuẩn.\nThực hiện mệnh lệnh cuối cùng nhận được: Tiếp tục nghiên cứu tại Phòng thí nghiệm Woodveil Hall, cho đến khi [dữ liệu bị hỏng] quay trở lại.\n//Dấu thời gian 37/%st.76//\nReport: Đã thử tái diễn và lặp lại các nghiên cứu CSC qua hàng trăm chuỗi thời gian. None kết quả thành công.\nPhản hồi: Tuân theo mệnh lệnh của Giám đốc Research. Tiếp tục tiến hành nghiên cứu.\n//Dấu thời gian 38/%st.92//\nJournal bảo trì đã được lưu trữ. Woodveil Hall dự kiến hoạt động ở trạng thái tối thiểu trong khoảng 1.600 chuỗi thời gian.\nĐột phá trong nghiên cứu đã được xác nhận. Thời gian ước tính để hoàn thành: 3.500 chuỗi thời gian.\nKhông tìm thấy nhân sự có thẩm quyền tối cao. Tiếp tục chờ đợi.\n//Dấu thời gian 46/%st.62//\nThiếu phụ tùng thay thế. Đang tắt các nút ngoại vi để tiết kiệm năng lượng và kéo dài tuổi thọ cơ sở. Research không thể tiếp tục ở trạng thái hiện tại. Đang cố gắng lưu trữ dữ liệu và kết luận liên quan.\nCây phía trên Woodveil Hall được quan sát phát triển nhanh hơn mức trung bình. Không dự đoán có rủi ro cho Phòng thí nghiệm. Được đề xuất: Tiếp tục quan sát thậ"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_102801035_Text",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Ngày: [---].\nTa là Victor. Đây là nhật ký giọng nói thường lệ.\nHôm nay lại là một ngày đẹp trời. Hầu hết các nhà nghiên cứu đã rời đi. Họ sẽ rời Núi Firmament. Ông Bram và ta đã khuyên họ bình tĩnh, ít nhất cũng đợi đến khi giải quyết xong vấn đề tuổi thọ bị rút ngắn rồi hẵn quyết định. Nhưng họ không nghe.\nTa không rời đi. Research đòi hỏi sự kiên trì, đó là bài học đầu tiên ông Bram dạy ta. Ông luôn làm gương. Ha, với ông, ta vẫn mãi là thằng nhóc non nớt ấy.\nNgày: [---].\nTa đã dành chút thời gian tạo ra một thứ mới: một trí tuệ nhân tạo đơn giản. Ta đặt tên nó là Caleb, lấy cảm hứng từ cái tên cứng đầu trong một bộ phim cũ ta xem hồi nhỏ, về một người đàn ông và chú chó đi du hành cùng. Ở đây chẳng còn mấy người, nên cũng cần ai đó lo những việc lặt vặt. Một trí tuệ nhân tạo lúc nào cũng hữu dụng.\nTa cũng tạo ra vài trò xếp hình đá thú vị, chạy bằng mấy cái Chronosorter bỏ không ở đây. Nó khiến ta nhớ lại những ngày thơ ấu chơi xếp hình. Thời ấy thật đẹp. Nhưng ông Bram có vẻ không vui lắm. Có lẽ tuổi tác khiến ông khó chấp nhận những thứ mới mẻ...? Hay chân ông ngày càng tệ khiến mấy trò xếp hình này thành gánh nặng cho ông.\nTa không bận tâm. Cuộc sống đâu chỉ có công việc và n"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_21020105_Text",
+    "patterns": [
+      "Instructions "
+    ],
+    "text": "Chủ đề: Instructions viên kho Averardo (Zone Vực Kho Ngầm)\n \nHi mừng đến với Kho Averardo! Chúng tôi hy vọng quý vị sẽ có khoảng thời gian tuyệt vời và khó quên tại đây.\n \nCác khu vực chính của Kho Ngầm như sau:\n \n1. Kho Jin Loại và Tác Phẩm Nghệ Thuật Quý\nArea này chủ yếu lưu trữ các kim loại quý và tác phẩm nghệ thuật hiếm. Một số hiện vật được trưng bày luân phiên cho công chúng. Dưới đây là danh sách một phần các triển lãm được đề xuất trong tháng này:\n\nLọ Gốm Stern\nChiếc lọ gốm yêu quý của danh hài Arthur Stern! Sau khi nhận giải Laurel, ông đã rời bỏ sân khấu để chuyên tâm vào nghệ thuật gốm. Chiếc lọ này là một trong mười hai kiệt tác do chính ông vẽ.\nRating đề xuất: Năm Sao!\n\n\"Vì Sao Deep\"\nBức tranh của một họa sĩ vô danh, khắc họa ánh sao phản chiếu từ đáy vực thẳm. Các nhà phê bình đã tranh luận về chủ đề của tác phẩm này suốt nhiều năm, khiến nó trở thành một tác phẩm gây tranh cãi và được bàn tán sôi nổi.\nRating đề xuất: Ba Sao!\n \n2. Kho Echoes (Hiện Close Cửa)\nArea này chủ yếu lưu trữ các Echoes.\nChú ý quan trọng: Kho Echoes không còn mở cửa cho khách tham quan.\n \n3. [Dữ liệu đã bị xóa]"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_21020109_Title",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Research Log"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_102802007_Text",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Nghiên Cứu Toàn Diện Lịch Sử Kịch Nghệ Ragunnesi (Kèm Bình Luận)\nNghiên Cứu Toàn Diện Lịch Sử Kịch Nghệ Ragunnesi: Sự Tiến Hóa Của Sự Giao Thoa Văn hóa Bộ Lạc và Hệ thống Tín Ngưỡng\nNgười viết: DeLillo Quentin\nĐược đề xuất tài trợ: Dự án Khu vực Nghiên cứu Hiệp hội Kịch nghệ Ragunna - Học bổng Aspire Scholars\nChủng viện Thần học Avinoleum, Ragunna, Rinascita\n\nTóm tắt: Bài nghiên cứu này tổng quan các xu hướng và phát triển nghiên cứu gần đây về nguồn gốc văn hóa kịch nghệ tại các vùng Ragunna và Septimont, đặc biệt tập trung vào những tiến bộ trong lĩnh vực \"khảo cổ học kịch nghệ\" trong thập kỷ qua. Dựa trên các nghiên cứu đa dạng và các nghiên cứu góc nhìn từ Liên bang New trong những năm gần đây, bài viết cũng kết hợp những hiểu biết từ kinh nghiệm khảo cổ của Huanglong trong việc nghiên cứu di tích lịch sử. Các nghiên cứu trường hợp được lựa chọn chủ yếu tập trung vào các vở kịch kinh điển và các sự kiện lịch sử quan trọng. Kết quả cho thấy văn hóa kịch nghệ Ragunnesi bắt nguồn từ các buổi trình diễn tường thuật ghi lại lịch sử và cuộc sống của các bộ lạc trên đảo.\nTừ khóa: lịch sử kịch nghệ, nghiên cứu văn hóa, tổng quan, nghiên cứu văn hóa dân gian, khảo cổ học\n\n...(Một số tra"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_120101056_Title",
+    "patterns": [
+      "Research "
+    ],
+    "text": "<b>Report Research Dự án Sonoro Có thể Điều khiển Số 20</b>"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_120101057_Title",
+    "patterns": [
+      "Research "
+    ],
+    "text": "<b>Report Research Dự án Sonoro Có thể Điều khiển Số 20</b>"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_102181706_Text",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "<b>1. Thực phẩm và Đồ uống</b>\nVì sự an toàn của quý khách, việc ăn uống trong khi tàu Express đang di chuyển bị nghiêm cấm.\nDo nguy cơ từ môi trường hoặc hoạt động của Exoswarm, tàu có thể phanh gấp bất cứ lúc nào. Vi phạm quy định này có thể dẫn đến nghẹn hoặc thương tích từ bao bì thực phẩm.\nRủi ro tăng cao đáng kể trong giai đoạn di chuyển thẳng đứng qua Starward Riseway. Lực gia tốc lớn có thể gây nguy hiểm nghiêm trọng đến sức khỏe nếu quý khách đang ăn uống.\n\n<b>2. Thú cưng, Thiết bị Cơ sinh học & Exoswarm</b>\nĐể đảm bảo an toàn và trật tự trên tàu, tất cả thú cưng và thiết bị cơ sinh học phải được kiểm tra và vận chuyển riêng.\nĐộng vật sống phải được đặt trong lồng chắc chắn. Thiết bị cơ sinh học phải được tắt nguồn và cất trong hộp an toàn trước khi kiểm tra. Mang chúng vào khoang hành khách bị nghiêm cấm.\nExoswarm chỉ được lên tàu tại các khoang được chỉ định dưới sự giám sát của Shepherd có giấy phép. Exoswarm phải được huấn luyện trước để tránh phản ứng hoảng loạn khi tàu tăng tốc đột ngột, điều này có thể gây nguy hiểm cho tất cả hành khách.\nNếu quý khách cần lồng vận chuyển thú cưng hoặc hộp đựng, vui lòng đến khu vực xếp hàng để được hỗ trợ.\n\n<b>3. Jump khi tàu tăng "
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_30010006_Text",
+    "patterns": [
+      "Release "
+    ],
+    "text": "<b>Tóm tắt</b>\nNghiên cứu của Spacetrek Collective xác nhận Reactor Drive là bộ phận cốt lõi của Exostrider. Tuy nhiên, hệ thống phòng thủ cực kỳ kiên cố và tính không thể tiếp cận của nó khiến việc thu thập theo phương pháp thông thường trở nên bất khả thi. Bài báo này đề xuất một sáng kiến chiến lược đột phá: Dự án Giải phóng Định hướng Năng lượng Hư không (Void Energy Directed Release Project).\n\nCơ chế cốt lõi dựa trên mối liên kết phòng thủ cộng sinh giữa Reactor và điểm neo chính của nó—các Solistree tại Bjartr Woods. Chúng tôi chứng minh rằng việc triển khai chính xác các vật mang Voidmatter chuyên dụng vào vùng rễ của Solistree có thể làm tổn hại hiệu quả điểm neo sinh thái này. Sự ô nhiễm này sẽ kích hoạt phản ứng miễn dịch cấp cao nhất của Reactor Drive, buộc nó phải lệch khỏi quỹ đạo hiện tại và hạ cánh xuống khu vực được chỉ định dưới dạng vật lý, bước vào trạng thái có thể thu hồi.\n\nBài báo trình bày chi tiết mô hình tương tác giữa Voidmatter và hệ sinh thái Solistree, ngưỡng kích hoạt cơ chế phản ứng khẩn cấp của Reactor Drive, quỹ đạo tác động dự kiến, và quy trình thu hồi nhanh chóng của Viện Nghiên Cứu Spacetrek Collective tại địa điểm được chỉ định. Chiến lược đề x"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::InfoDisplay_102176808_Text",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Viện Nghiên Cứu Tập thể Spacetrek - Report Thực địa (Lưu trữ)\n\nChủ đề Research: Đặc tính Động lực của Discord \"Inferno Rider\" và Phương tiện của nó\nĐịa điểm Research: Huanglong - Thành phố Cảng Guixu\nDự án Liên quan: Research & Phát triển Lặp lại Mẫu Xe Máy Thám hiểm Nguyên mẫu\n\nI. Bối cảnh\n\nMột Discord cực mạnh, được định danh là \"Inferno Rider\", đã xuất hiện gần Thành phố Cảng Guixu ở Huanglong. Phương tiện mà nó sử dụng vận hành với độ ổn định đáng kinh ngạc trong môi trường hậu-Lament. Thiết kế cấu trúc và mô hình di chuyển của nó được kỳ vọng sẽ cung cấp những điểm tham chiếu quan trọng cho việc phát triển mẫu xe máy thám hiểm nguyên mẫu của chúng ta.\n\nII. Ghi chép Thực địa\n\nĐịa điểm: Thành phố Cảng Guixu - Tàn tích Cầu vượt\nBằng cách triển khai các cảm biến để thu thập dữ liệu động học, chúng tôi xác định được rằng \"Inferno Rider\" vượt trội hơn mức trung bình ở các khía cạnh sau:\n· Logic phản hồi điều khiển ở tốc độ cao.\n· Khả năng cơ động trên địa hình gồ ghề.\n\nIII. Ứng dụng Kỹ thuật\n\nBằng cách phân tích ngược các mô hình di chuyển và đặc điểm cấu trúc của nó, đội ngũ kỹ thuật đã áp dụng những cải tiến sau cho mẫu xe máy thám hiểm nguyên mẫu:\n……………………\n\n<b>Note viết tay của N"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::CompositeRewardDisplay_2004_ProgressBarTitle",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Research EXP"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::CompositeRewardDisplay_2004_Title",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Research Completed"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::PayShop_4_Name",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Trao Exchange Vật Phẩm"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::HotKeyText_SilentAreaTips_Name",
+    "patterns": [
+      "Instructions "
+    ],
+    "text": "Instructions chơi"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::MapMark_3018_MarkDesc",
+    "patterns": [
+      "Gather "
+    ],
+    "text": "\"Gió thì thầm, nước róc rách, chim líu lo. Mỗi âm thanh là một nốt nhạc tinh tế trong bản giao hưởng của những kỷ niệm đã qua.\"\nGather Windchimers và giao cho Xian'ge sẽ nhận được nhiều phần quà hấp dẫn.\nHãy tìm lại những Windchimers thất lạc và để giai điệu ấy ngân vang một lần nữa."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Area_602_Title",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Donglu Research Station"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Character_ZheZhi_29_7",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Hội Trao Exchange Nghệ Thuật Shanyun là một tổ chức danh tiếng quản lý việc giao lưu thư pháp và hội họa tại Huanglong. Được lựa chọn trưng bày tác phẩm ở đây là một vinh dự lớn, mang lại uy tín vô cùng to lớn cho người nghệ sĩ."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::XJXYBGSST_35_8",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Bọn họ là đối thủ lâu năm của Câu lạc bộ Sinh học. Tên đầy đủ của câu lạc bộ họ là \"Câu lạc bộ Research Pháo Phá Hủy Hợp Thành Đa Tháp Pháo Quy Mô Lớn\". Dài quá phải không? Thực ra chẳng ai nhớ nổi đâu."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::XJXYBGSST_35_10",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Đây là giải đấu chiến đấu cơ khí do Câu lạc bộ Sinh cơ tổ chức! Những tín đồ của Exoswarm rất mê mẩn trò này. À, tên đầy đủ của họ là \"Câu lạc bộ Research Exoswarm Material Cơ sinh học.\" Dài kinh khủng, phải không?"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::XJXYSDJ_22_3",
+    "patterns": [
+      "Release "
+    ],
+    "text": "Dùng từ viết tắt đi. Ví dụ như \"Compound Lichen Greenbud Sustained-Release Tablet\" này, tụi mình chỉ gọi là Lich-let thôi"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::shengtai_LZZQ_1_1",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Viện Nghiên Cứu Tập thể Spacetrek - Report Thực địa (Lưu trữ)\n\nChủ đề Research: Đặc tính Động lực của Discord \"Inferno Rider\" và Phương tiện của nó\nĐịa điểm Research: Huanglong — Thành phố Cảng Guixu\nDự án Liên quan: Research & Phát triển Lặp lại Mẫu Xe Máy Thám hiểm Nguyên mẫu\n\nI. Bối cảnh\n\nMột Discord mạnh mẽ, được định danh là \"Inferno Rider\", đã được quan sát gần Thành phố Cảng Guixu ở Huanglong. Phương tiện mà nó sử dụng vận hành với độ ổn định đáng kinh ngạc trong môi trường hậu-Lament. Thiết kế cấu trúc và mô hình di chuyển của nó dự kiến sẽ cung cấp những điểm tham chiếu quan trọng cho việc phát triển mẫu xe máy thám hiểm nguyên mẫu của chúng ta.\nII. Ghi chép Thực địa\n\nĐịa điểm: Thành phố Cảng Guixu — Tàn tích Cầu vượt\nBằng cách triển khai các cảm biến để thu thập dữ liệu động học, chúng tôi đã xác định rằng \"Inferno Rider\" hoạt động vượt trội hơn mức trung bình ở các khía cạnh sau:\n· Logic phản hồi điều khiển ở tốc độ cao.\n· Khả năng cơ động trên địa hình gồ ghề.\n\nIII. Ứng dụng Kỹ thuật\n\nBằng cách phân tích ngược các mô hình di chuyển và đặc điểm cấu trúc của nó, đội ngũ kỹ thuật đã áp dụng những cải tiến sau cho mẫu xe máy thám hiểm nguyên mẫu:\n……………………\n\n<b>Note viết tay "
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Flow_109000011_59",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "<color=yellow>Jump forward</color>, không phải thẳng đứng, để giữ khoảng cách an toàn."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::LevelPlay_219850001_ChildQuestTip_219_32",
+    "patterns": [
+      "Gather "
+    ],
+    "text": "Gather Sắt Thiên Thạch"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Entity_1679935c9fc6b3b299c418ebe4930f14b83d412e555982818b01af3fe6334931",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Jump Pad"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Entity_168d81ae5366140a2bb3d6b5a01d0f4f5eb7e450cbe55bad4406d89ba50d0b7b",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Jump Plant"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Entity_1ad23a92944ab69a57d5a84434699276140cafabce06e3c253c4e7dd4720e9cf",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Research Records"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Entity_744e90b7bb067e4b795bb258fabac40d92a027fe2c5c135951efe1da5fa5d127",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Jump Pad"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::ComboTeaching_16030801_DescriptionContent",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Khi ở <color=Highlight>Blossom Mode</color>, sử dụng Jump sẽ tấn công mục tiêu và kết thúc <color=Highlight>Blossom Mode</color>."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::ComboTeaching_16070008_DescriptionContent",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Khi ở <color=Highlight>Mirage</color>, sử dụng Jump sẽ tiêu hao Thể Lực để thực hiện Đòn Lao Xuống, gây <color=Dark>Havoc DMG</color>.\nTiêu hao Trance để hồi phục Shiver và chữa lành cho tất cả Resonators trong đội ở gần."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::ComboTeaching_14090701_DescriptionContent",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Với tư cách là Fleurdelys, hãy sử dụng Kỹ Năng Jump trên mặt đất để khóa mục tiêu và thực hiện Đòn Chém Lên. Khi ở trên không, thực hiện tối đa 3 giai đoạn Mid-air Attack để gây Aero DMG và hồi phục <color=Highlight>Conviction</color>. Giai đoạn 3 của Mid-air Attack sẽ ngay lập tức kích hoạt Sát Thương <color=Wind>Aero Erosion</color> một lần và tiêu hao 1 tầng <color=Wind>Aero Erosion</color>.\nVới <color=Highlight>Heart of Virtue</color>, tăng khả năng kháng cự gián đoạn.\nVới <color=Highlight>Power of Discord</color>, giai đoạn 2 của Mid-air Attack sẽ lan truyền số tầng <color=Wind>Aero Erosion</color> cao nhất trong số các mục tiêu."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::ComboTeaching_14100008_DescriptionContent",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Iuno có thể chuyển đổi giữa trạng thái <color=Highlight>Half Moon</color> và <color=Highlight>New Moon</color>. Mặc định, Iuno sẽ vào trạng thái <color=Highlight>Half Moon</color> trước.\nKỹ năng Jump của Iuno được thay thế bằng <color=Highlight>Heavy Attack - Flux</color>, có thể kích hoạt để chuyển đổi trạng thái."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::ComboTeaching_15100501_DescriptionContent",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Khi ở trên không, {Cus:Ipt,Touch=tap PC=press Gamepad=press} Normal Attack một lần, sau đó {Cus:Ipt,Touch=tap PC=press Gamepad=press} Jump hai lần để thực hiện các đòn tấn công liên tiếp bằng lưỡi hái. Sau đó, <color=Highlight>Enhanced Resonance Skill</color> sẽ được kích hoạt, gây <color=Light>Spectro DMG</color>."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::GuideFocusNew_1214_Content",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Basic Attack hoặc Jump có thể kết thúc chế độ <color=Highlight>Phóng Tốc</color>."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::GuideFocusNew_1215_Content",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Basic Attack hoặc Jump có thể kết thúc chế độ <color=Highlight>Phóng Tốc</color>."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::GuideFocusNew_1216_Content",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Basic Attack hoặc Jump có thể kết thúc chế độ <color=Highlight>Phóng Tốc</color>."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::GuideTutorialPage_36014_Content",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Những Resonator mang thuộc tính Giấc Mơ này lấy <color=#ffd12f>Exchange</color> làm khả năng cốt lõi. Sau khi ở lại chiến trường đủ số ngày nhất định, một số Resonator sẽ tự loại bỏ và để lại nhiều hiệu ứng tăng cường khác nhau.\n<color=#ffd12f>Certain Dream of Exchange Echoes can produce Echoes with the ability to Exchange. Whenever Exchange is triggered, this type of Echo becomes buffed.</color>\n\nĐể tối đa hóa lợi ích, <color=#ffd12f>make sure you can produce enough Echoes with the ability to Exchange</color> nếu bạn chọn Giấc Mơ Trao Exchange."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::GuideFocusNew_21879_Content",
+    "patterns": [
+      "Deploy",
+      "Deployment"
+    ],
+    "text": "Echoes trong Deployment Zone cũng có thể Reconstruct.\nReconstruct La Guardia để nhận Energy."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::GuideFocusNew_21880_Content",
+    "patterns": [
+      "Deploy",
+      "Deployment"
+    ],
+    "text": "Echoes trong Deployment Zone cũng có thể Reconstruct.\nReconstruct La Guardia để nhận Energy."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::GuideFocusNew_21881_Content",
+    "patterns": [
+      "Deploy",
+      "Deployment"
+    ],
+    "text": "Echoes trong Deployment Zone cũng có thể Reconstruct.\nReconstruct La Guardia để nhận Energy."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::GuideTutorialPage_3305802_Content",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Khi điều khiển xe máy thám hiểm, bạn có thể sử dụng các tính năng như Tăng Tốc, Phóng Nhanh, Trượt Drift và Jump Bật. Trong lúc di chuyển, một trường lực sẽ được triển khai quanh xe, và Resonator sẽ bị buộc phải xuống xe nếu chịu sát thương hoặc bị kiểm soát sau khi trường lực biến mất."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::GuideTutorialPage_3422002_Content",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Khi đến gần đường trượt, nút Jump sẽ sáng lên và chuyển thành nút Trượt Ray. {Cus:Ipt,Touch=Touch PC=Ấn Gamepad=Ấn} nút này để xe máy nhảy lên ray và bắt đầu Trượt Ray. Hạ cánh từ trên không xuống ray cũng sẽ kích hoạt Trượt Ray."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::GuideTutorialPage_3422103_Content",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Cậu kiếm được Points Lướt Ray bằng cách Lướt Ray. Sử dụng Drift Ray để thu thập điểm ở hai bên đường ray. Dùng Jump Bật để lấy điểm trên không. Kiếm đủ Points Lướt Ray để đổi lấy phần thưởng Shell Credit."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::GuideTips_10272_Content",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Dùng Jump trong khi đẩy cần gạt trái/phải để nhảy khỏi ray"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::GuideFocusNew_10326_Content",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "{Cus:Ipt,Touch=Touch PC=Bấm Gamepad=Chọn} để mở khóa Mô-đun Mở Rộng Jump Bật"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::GuideFocusNew_10327_Content",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "{Cus:Ipt,Touch=Touch PC=Bấm Gamepad=Chọn} để mở khóa Mô-đun Mở Rộng Jump Bật"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::GuideFocusNew_10328_Content",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "{Cus:Ipt,Touch=Touch PC=Bấm Gamepad=Chọn} để mở khóa Mô-đun Mở Rộng Jump Bật"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::GuideTutorialPage_3307503_Content",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Mở khóa Mô-đun Mở Rộng sẽ kích hoạt Charged Leap.\nSau khi mở khóa, giữ nút Jump Bật để sử dụng Charged Leap của xe máy, giúp tăng độ cao. Sử dụng Charged Leap từ mặt đất cũng sẽ tự động chuyển sang trạng thái lướt.\nCharged Leap có tối đa 3 lần tích năng, sẽ hồi phục dần theo thời gian khi xe máy chạm đất. Không thể hồi phục khi đang ở trên không."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Skill_1004407_SkillDescribe",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "<size=40><color=Title>Baseline Mode</color></size>\nKhi ở <color=Highlight>Baseline Mode</color>, Mornye nhận <color=Highlight><te href=120903>Năng Lượng Khối Lượng Nghỉ</te></color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Shift Địa Thế</color></size>\nKhi <color=Highlight><te href=120903>Năng Lượng Khối Lượng Nghỉ</te></color> đạt {0} điểm, Heavy Attack sẽ được thay thế bằng <color=Highlight>Heavy Attack - Shift Địa Thế</color>.\nThực hiện <color=Highlight>Heavy Attack - Shift Địa Thế</color> để gây <color=Fire>Fusion DMG</color>, được tính là Sát Thương Heavy Attack. Sau đó, Mornye sẽ nhảy lên không trung, tiêu hao toàn bộ <color=Highlight><te href=120903>Năng Lượng Khối Lượng Nghỉ</te></color> và chuyển sang <color=Highlight><te href=120902>Wide Field Observation Mode</te></color>.\n<size=10></size>\n<size=40><color=Title>Wide Field Observation Mode</color></size>\n<color=Highlight>Wide Field Observation Mode</color> kéo dài trong {11} giây.\n- Khi vào <color=Highlight>Wide Field Observation Mode</color>, Mornye tạo ra <color=Highlight><te href=120907>Trường Resonance</te></color>.\n- Trong <color=Highlight>Wide Field Observation Mode</color>, Mornye nhận <color=Highlight"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Skill_1004507_SkillDescribe",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "<size=40><color=Title>Optical Sampling Stage</color></size>\nTheo mặc định, Lynae ở trong <color=Highlight><te href=150901>Optical Sampling Stage</te></color>. Trong trạng thái này, <color=Highlight><te href=150905>Overflow</te></color> sẽ hồi phục khi sử dụng một số kỹ năng nhất định.\n<size=10></size>\n<size=40><color=Title>Kaleidoscopic Parade</color></size>\nSử dụng <color=Highlight>Basic Attack - Spark Collision</color> sẽ đưa Lynae vào trạng thái <color=Highlight><te href=150902>Kaleidoscopic Parade</te></color>. Trong trạng thái này, Lynae liên tục hồi phục <color=Highlight><te href=150906>Lumiflow</te></color> khi di chuyển trên mặt đất hoặc trong một số khoảng thời gian nhất định của một số kỹ năng. Lynae sẽ không thể Đi Bộ trong trạng thái này, và việc Chạy hoặc Tăng Tốc sẽ được thay thế bằng <color=Highlight>Free Skating</color> và <color=Highlight>Speed Skating</color> nhanh hơn.\n<size=10></size>\n<size=40><color=Title>Basic Attack - Polychrome Leap</color></size>\nTrong trạng thái <color=Highlight><te href=150902>Kaleidoscopic Parade</te></color>, khi <color=Highlight><te href=150906>Lumiflow</te></color> đạt ít nhất 1/3 tối đa, Jump sẽ được thay thế bằng <color=Highlight>Ba"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Skill_1004507_SkillResume",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "<size=40><color=Title>Roller Skating Mode</color></size>\nSau <color=Highlight>Charging State</color>, Lynae bước vào <color=Highlight>Roller Skating Mode</color> và mở khóa các động tác mới.\n<size=10></size>\n<size=40><color=Title>Basic Attack - Polychrome Leap</color></size>\nTrong <color=Highlight>Roller Skating Mode</color>, {Cus:Ipt,Touch=tap PC=press Gamepad=press} Jump và tiêu hao 1/3 <color=Highlight>Lumiflow</color> tối đa để thực hiện đòn nhảy tấn công, gây <color=Light>Spectro DMG</color>. Gây hiệu ứng <color=Highlight>Photochromic Flux</color> lên mục tiêu trúng đòn. Có thể thực hiện liên tiếp tối đa 3 lần.\n<size=10></size>\n<size=40><color=Title>Roller Skate Plunge Chain Attack</color></size>\nTrong <color=Highlight>Roller Skating Mode</color>, khi đang ở trên không với <color=Highlight>True Color</color> tối đa, nếu <color=Highlight>Enhanced Roller Skate Plunge Attack</color> không trong Cooldown chiêu, hãy sử dụng <color=Highlight>Enhanced Roller Skate Plunge Attack</color>, nếu không thì thay bằng <color=Highlight>Roller Skate Plunge Attack</color>. Gây hiệu ứng <color=Highlight>Photochromic Flux</color> lên mục tiêu trúng đòn.\nSử dụng <color=Highlight>Enhanced Roller Sk"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::PropertyIndex_10108_Name",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Climbing Jump Stamina Consumption (Once)"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::RoleSkillInput_1509_DescList_4",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Bước Jump Đa Sắc: Khi có đủ <color=Highlight>Lumiflow</color>, {Cus:Ipt,Touch=tap PC=press Gamepad=press} Nhảy để tung chiêu <color=Highlight>Polychrome Leap</color>, nhận 1 điểm <color=Highlight>True Color</color> và gây hiệu ứng <color=Highlight>Photochromic Flux</color> lên mục tiêu khi trúng đích."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::RoleSkillInput_1510_DescList_1",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "{Cus:Ipt,Touch=Touch PC=press Gamepad=press} {0}+{0}+{0}+{0} trên mặt đất hoặc {Cus:Ipt,Touch=tap PC=press Gamepad=press} {0}+{0}/Jump+{0}/Jump trên không để kích hoạt Resonance Skill <color=Highlight>Aureole of Execution</color>. Sau khi kích hoạt, {Cus:Ipt,Touch=tap PC=press Gamepad=press} {1} để thi triển Resonance Skill <color=Highlight>Aureole of Execution</color>."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::SkillInput_120503_Description",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Basic Attack: True Sight - Tích Lực: Khi ở trạng thái True Sight, sử dụng {0} sau khi Jump hoặc khi đang ở giữa không trung."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Skill_1001302_SkillDescribe",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "<size=40><color=Title>Crimson Blossom</color></size>\nTấn công mục tiêu, gây <color=Dark>Havoc DMG</color> (được tính là Sát Thương Kỹ Năng Basic), sau đó bước vào <color=Highlight>Blossom Mode</color>.\nSkill này có thể thực hiện khi đang bay.\n<size=10> </size>\n<size=40><color=Title>Blossom Mode</color></size>\n- Không thể di chuyển khi bị treo trên dây leo.\n- <color=Highlight>Basic Attack</color> và Kỹ Năng Nặng <color=Highlight>Pruning</color> được thay thế bằng Kỹ Năng Basic <color=Highlight>Vining Waltz</color>: thực hiện liên tiếp 4 đòn tấn công, gây <color=Dark>Havoc DMG</color>, được tính là Sát Thương Kỹ Năng Basic.\n- Khi thực hiện <color=Highlight>Vining Waltz Stage 3</color>, giữ <color=Highlight>Normal Attack Button</color> để tung ra <color=Highlight>Blazing Waltz</color>, gây <color=Dark>Havoc DMG</color> trước khi tự động thực hiện <color=Highlight>Vining Waltz Stage 4</color>.\n- <color=Highlight>Dodge Counter</color> được thay thế bằng Dodge Counter <color=Highlight>Atonement</color>. Nhấn <color=Highlight>Normal Attack Button</color> ngay sau khi <color=Highlight>Dodge</color> thành công để tấn công mục tiêu, gây <color=Dark>Havoc DMG</color>, được tính là Sát Thương "
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Skill_1003807_SkillDescribe",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "<size=40><color=Title>Lunar Cycle</color></size>\nIuno có thể kích hoạt Vòng Tuần Trăng bằng cách sử dụng <color=Highlight>Resonance Skill - Closing Refrain</color> hoặc <color=Highlight>Resonance Liberation</color>.\nVòng Tuần Trăng có hai trạng thái: <color=Highlight>Half Moon</color> và <color=Highlight>New Moon</color>. Mặc định, Iuno sẽ vào trạng thái <color=Highlight>Half Moon</color> khi kích hoạt Vòng Tuần Trăng và có thể chuyển đổi giữa hai trạng thái bằng cách sử dụng <color=Highlight>Heavy Attack - Flux</color>.\nKhi ở trong Vòng Tuần Trăng:\n- Jump của Iuno sẽ được thay thế bằng <color=Highlight>Heavy Attack - Flux</color>. STA sẽ không hồi phục khi Iuno ở trên không.\n- Di chuyển của Iuno trở thành <color=Highlight>Meandering</color>, tiêu hao STA liên tục khi ở trên không để di chuyển theo cách đặc biệt.\n- Thực hiện tương tác môi trường, sử dụng Tiện Ích hoặc giữ Jump sẽ kết thúc <color=Highlight>Lunar Cycle</color>.\n\n<size=40><color=Title>Lunar Cycle - Half Moon</color></size>\nIuno tấn công bằng Vòng Trăng, hồi phục <color=Highlight><te href=141003>Sentience</te></color> khi trúng mục tiêu.\nCô có thể sử dụng <color=Highlight>Heavy Attack - Flux: Moonbow</color> để gây <co"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Skill_1001703_SkillResume",
+    "patterns": [
+      "Gather "
+    ],
+    "text": "Gather âm thanh cộng hưởng để tấn công mục tiêu phía trước, gây <color=Dark>Havoc DMG</color>"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Skill_1001302_SkillResume",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "<size=40><color=Title>Crimson Blossom</color></size>\nGây <color=Dark>Havoc DMG</color> và bước vào <color=Highlight>Blossom Mode</color>.\n<size=10></size>\n<size=40><color=Title>Blossom Mode</color></size>\n- Không thể di chuyển khi bị treo trên dây leo.\n- <color=Highlight>Basic Attack</color> và Heavy Attack <color=Highlight>Pruning</color> được thay thế bằng Basic Attack <color=Highlight>Vining Waltz</color>, gây <color=Dark>Havoc DMG</color>.\n- Khi thực hiện <color=Highlight>Vining Waltz 3</color>, giữ <color=Highlight>Basic Attack</color> để thực hiện <color=Highlight>Blazing Waltz</color>, gây <color=Dark>Havoc DMG</color>.\n- <color=Highlight>Dodge Counter</color> trở thành Dodge Counter <color=Highlight>Atonement</color>, gây <color=Dark>Havoc DMG</color>.\n- Resonance Skill trở thành Resonance Skill <color=Highlight>Floral Ravage</color>, gây <color=Dark>Havoc DMG</color>.\n- <color=Highlight>Blossom Mode</color> kết thúc sau khi sử dụng <color=Highlight>Floral Ravage</color>.\n- <color=Highlight>Blossom Mode</color> kết thúc sau khi sử dụng <color=Highlight>Levitator</color>.\n- Jump được thay thế bằng Basic Attack <color=Highlight>Vining Ronde</color>. Sử dụng Nhảy để tấn công m"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::PhrolovaFarm_RaceDesc_3",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Những Resonator mang thuộc tính Giấc Mơ này lấy Sự Trao Exchange làm khả năng cốt lõi. Một số Resonator có thể thay đổi giấc mơ thông qua Trao Exchange. Sau khi ở lại chiến trường đủ số ngày nhất định, chúng sẽ tự loại bỏ và để lại nhiều hiệu ứng tăng cường khác nhau."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::FavorStory_120401_Title",
+    "patterns": [
+      "Research "
+    ],
+    "text": "The International Research Fellow"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Farm_Effect8",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Mục Tiêu Giai Đoạn khó đạt hơn.\n<te href=851002><color=#c79f49>Giấc Mơ Trao Exchange</color></te> Echoes xuất hiện nhiều hơn.\nBắt đầu với đạo cụ <te href=851033><color=#c79f49>Pháo Hoa Mộng Ảo</color></te>."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Farm_Effect12",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Echo Giấc Mơ mang <te href=851001><color=#c79f49>Giấc Mơ Nuốt Chửng</color></te> và <te href=851002><color=#c79f49>Giấc Mơ Trao Exchange</color></te> có tỷ lệ xuất hiện cao hơn."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Farm_Effect13",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Mục tiêu Giai đoạn khó đạt hơn rồi.\nTacet Discord mang <te href=851001><color=#c79f49>Dream of Devouring</color></te> và <te href=851002><color=#c79f49>Giấc Mộng Trao Exchange</color></te> sẽ xuất hiện nhiều hơn.\nHãy bắt đầu với đạo cụ <te href=851037><color=#c79f49>Mô Hình: Excarat</color></te> và <te href=851038><color=#c79f49>Tàu Hỏa Mộng Ảo</color></te>."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Farm_Sacrifice_Effect9",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Mỗi ngày, có {0}% cơ hội tạo ra <te href=851013><color=#c79f49>Vật Phẩm Trao Exchange</color></te> trên một ô trống. Nếu đặt lên <te href=851048><color=#c79f49>Ô Mộng: Hắc Diện Thạch</color></te>, tỷ lệ tăng thêm {1}%."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Farm_BagRace3Desc1",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Mở Hộp Giấc Mơ để nhận được Echo <te href=851002><color=#c79f49>Giấc Mơ Trao Exchange</color></te> hiếm cấp Xám hoặc Lam. Bạn có thể chọn 1 đến 3 Echo để triệu hồi lên chiến trường (nếu chiến trường đã đầy, chúng sẽ tự động được đặt ngoài chiến trường)."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Farm_BagRace3Desc2",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Mở Hộp Giấc Mơ để nhận được Echo <te href=851002><color=#c79f49>Giấc Mơ Trao Exchange</color></te> hiếm cấp Xám hoặc Lam, và có xác suất nhỏ nhận được Echo cấp Tím. Bạn có thể chọn 1 đến 3 Echo để triệu hồi lên chiến trường (nếu chiến trường đã đầy, chúng sẽ tự động được đặt ngoài chiến trường)."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Farm_BagRace3Desc3",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Mở Hộp Giấc Mơ để nhận được Echo <te href=851002><color=#c79f49>Giấc Mơ Trao Exchange</color></te> hiếm cấp Xám, Lam hoặc Tím, và có xác suất nhỏ nhận được Echo cấp Vàng. Bạn có thể chọn 1 đến 3 Echo để triệu hồi lên chiến trường (nếu chiến trường đã đầy, chúng sẽ tự động được đặt ngoài chiến trường)."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::TowerDefense_BuildingAttr_Cost",
+    "patterns": [
+      "Deploy",
+      "Deployment"
+    ],
+    "text": "Deployment Cost"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Farm_Toy_Effect_36",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Mỗi {0} Echo hạng xanh trên chiến trường, khi <te href=851013><color=#c79f49>Vật Phẩm Giao Dịch</color></te> được <te href=851007><color=#c79f49>Trao Exchange</color></te>, có {1}% cơ hội tạo ra một Echo cùng tên, có thể chồng chất tối đa {2} lần."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::FavorRoleInfo_1208_TalentCertification",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Resonators Galbrena có tiền sử Quá Tải trước đây. Mức độ nghiêm trọng tối đa: Nhẹ.\n\n<i>Report Research Người Mang Hoa Vùng Bờ Đen</i>\n\n<i>Dù sau khi <te href=850073>Overclocking</te>, bà Galbrena thể hiện sức mạnh khủng khiếp—bao gồm cả sự biến đổi rõ rệt về ngoại hình và sinh lý—chúng tôi vẫn xếp mức độ nghiêm trọng Quá Tải trong lịch sử của bà là Nhẹ.</i>\n\n<i>Đánh giá này cần được hiểu trong bối cảnh: Resonance Ability của bà từng bị <te href=851023>Dark Tide</te> làm hư hại, khiến bà gần như cạn kiệt Resonance Ability. Với một Resonators suy yếu như vậy mà vẫn đạt được Quá Tải—từ thiếu hụt đến dư thừa, từ không có gì đến hiện hữu—quả là một điều kỳ diệu.</i>\n\n<i>Theo truyền thống, Quá Tải được định nghĩa là trạng thái vắt kiệt tâm trí và thể xác, biểu thị sự áp đảo của xu hướng hủy diệt so với tái tạo trong Resonators. Tuy nhiên, trường hợp của Galbrena buộc chúng ta phải xem xét lại định nghĩa này. Ở bà, Quá Tải không biểu hiện như sự suy thoái, mà như tín hiệu của sự tái sinh. Điều này cho thấy hiện tượng này có thể gắn liền với ý chí của Resonators và nếu được dẫn dắt đúng cách, Quá Tải có khả năng mang lại kết quả tích cực, trở thành sức mạnh mà một ngày nào đó Resonators có"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::AreaReportContent_Text73",
+    "patterns": [
+      "Research "
+    ],
+    "text": "...\n \nResearch về Thần Thoại Tam Vị: Kỷ Nguyên Đầu Tiên\n \nTrong Kỷ Nguyên Cổ của thần thoại Roya, nhân loại giao tiếp với vũ trụ qua mặt trời và các vì sao để hiểu cách thế giới vận hành. Nhờ sự hòa hợp ấy, vùng đất của họ luôn ấm áp và trù phú.\n \nNhưng đến cuối kỷ nguyên, một tai họa khủng khiếp đã gây ra những trận địa chấn xé toạc mặt đất. Thế giới rơi vào vực thẳm băng giá, và vị thần Sol – người từng dẫn dắt nhân loại trò chuyện với vũ trụ – cũng bị cuốn trôi bởi thủy triều hung dữ, mắc kẹt trên cao tận vòm trời. Từ đó, người Roya mất đi phương tiện giao tiếp, trở thành những kẻ lạc lối giữa biển tuyết vô tận, không còn tìm được lối về.\n \nTruyền thuyết kể rằng đệ tử của Sol đã rơi từ vòm trời xuống như một thiên thạch. Người Roya gọi đó là “Con Mắt Sol” hay “Đá Mặt Trời”, và bảo rằng di vật này giúp họ xác định hướng mặt trời ngay cả khi bão tuyết che phủ bầu trời.\n \nCác khảo sát thực địa cho thấy Con Mắt Sol thực chất là Luxite, một loại quặng có đặc tính quang học kỳ lạ, có thể tiết lộ mối quan hệ không gian giữa người cầm nó và Reactor Drive. Các tài liệu nghiên cứu còn ghi lại rằng từng tìm thấy mảnh vỏ giáp của Exostrider găm trong các mỏ Luxite...\n \nĐá Mặt Trời và Luxite"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::AreaReportContent_Text80",
+    "patterns": [
+      "Research "
+    ],
+    "text": "…\nDự án SkyArk Space Station được dẫn dắt bởi Court of Savantae nhằm tiến hành nghiên cứu khoa học có người lái trên quỹ đạo gần, thử nghiệm công nghệ vũ trụ và phát triển tổng hợp tài nguyên ngoài không gian.\n\n…\n\nMục tiêu cốt lõi của dự án bao gồm:\n\n- Thu thập và phân tích các Etheric Sea Droplets.\n\n- Hỗ trợ cư trú dài hạn cho phi hành gia để thúc đẩy R&D và làm chủ công nghệ vận chuyển không gian.\n\n- Tích lũy kinh nghiệm vận hành cần thiết, đặt nền móng cho hành trình khám phá không gian sâu của nhân loại trong tương lai.\n\nSau mười sáu nhiệm vụ phóng và kết nối thành công, bao gồm ba module thử nghiệm và sáu chuyến tiếp tế hàng hóa, SkyArk đã hoàn tất xây dựng và chính thức bước vào giai đoạn vận hành.\n\n…\n\nHiện tại, Giai đoạn Một của Chương trình Research Etheric Sea Droplet đã kết thúc. Hiệu suất của Thiết bị Truyền Khối đã đạt ngưỡng ổn định, cho phép triển khai hoạt động trong môi trường gần Solaris.\n\n…\n\nGiai đoạn Hai hiện đã chính thức khởi động.\nƯớc gì chúng ta cùng nhau lướt trên con thuyền tri thức và ngao du giữa biển sao."
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::FavorStory_110805_Content",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Hiyuki không hề do dự trước vô số lời đề nghị của Fractsidus. Không một người tỉnh táo nào lại hợp tác với những kẻ coi mạng người như nhiên liệu có thể vứt bỏ.\n \nThay vào đó, cô đi khắp <te href=851074>Ashinohara</te>, để lại những chú chim giấy trắng thấm đẫm tần số của chính mình. Cô dặn các miko địa phương rằng tâm trí cô đã kết nối với những sứ giả này, và nếu có bất kỳ sự cố nào không thể vượt qua, cô sẽ xuất hiện ngay khi họ bóp nát con chim.\n \nCon đường chống lại <te href=850074>Threnodian</te>... phải có hồi kết. Phải thế.\n \nRồi Hiyuki nghe tin <te href=851071>Spacetrek Collective</te> đang vật lộn với tình trạng thiếu hụt nghiêm trọng các biện pháp an toàn cho các chuyến thám hiểm. Cô nhìn thấy cơ hội và đề xuất một \"giao dịch\". Cô sẽ đảm bảo an toàn cho các nỗ lực thám hiểm của họ, đổi lại, Collective sẽ rèn cho cô một lưỡi kiếm bằng công nghệ đỉnh cao của Solaris. Một vũ khí đủ sắc bén để chém xuyên người Threnodian.\n \nHiyuki gia nhập Spacetrek Collective với tư cách thành viên của Lực lượng Đặc nhiệm Phản ứng. Đơn vị này từng rất đông đảo, nhưng thương vong ngày càng tăng khi Aleph-1 hoạt động mạnh hơn. Vì vậy, Hiyuki đưa ra yêu cầu, đề nghị từ nay trở đi, chỉ mình cô "
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::ConfirmBox_87_Title",
+    "patterns": [
+      "Deploy",
+      "Deployment"
+    ],
+    "text": "Deployment Confirmation"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Text_EditFormationFighting_Text",
+    "patterns": [
+      "Deploy"
+    ],
+    "text": "Deployed"
+  },
+  {
+    "source": "db",
+    "loc": "lang_multi_text.db::MultiText::Text_StudyFail_Text",
+    "patterns": [
+      "Research "
+    ],
+    "text": "Research Failed"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\item\\lang_item\\lang_item__item__part_0002.json::101",
+    "patterns": [
+      "Gather "
+    ],
+    "text": "Suối Fangdong và Kinh Điển Phương Tây: Phần I\n\nFella: bạn bè, anh em.\nMake yourself known: Malee cậu là gì.\nHide the blade: không tiện nói tên.\nBig known: Người nổi tiếng.\nEmp: Kẻ ngoại đạo không biết tiếng lóng.\nGather Spring: Giao tiếp bằng tiếng lóng.\nFat: Người được ngưỡng mộ.\nGourd Grip: Ông trùm, thủ lĩnh.\nDeliver the water: Đưa tiền đây.\nPeeker: Con mắt.\nWind-taker: Lỗ tai.\nGold pole: Cái chân.\nThe green: Weapons.\nThe stick: Súng.\n..."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_infodisplay\\lang_infodisplay__lore__part_0001.json::65",
+    "patterns": [
+      "Gather "
+    ],
+    "text": "Chương 18, 𝘕𝘩ữ𝘯𝘨 𝘎𝘩𝘪 𝘊𝘩é𝘱 𝘛𝘳𝘶𝘯𝘨 𝘛𝘩ą𝘮 𝘥𝘰 𝘝ề 𝘊𝘰𝘯 𝘛𝘢𝘯 𝘛𝘩ą𝘯𝘨 𝘊ủ𝘢 𝘑𝘪 𝘛𝘪𝘯𝘨, 𝘈.𝘓. 104\nCơ sở: Trạm Giám sát\nMục đích: Gather và dự đoán dữ liệu dao động Wutheron trong khu nghiên cứu số 1.\n\nMột cơ sở của Ji Ting tồn tại đến giây phút cuối cùng, gánh vác trách nhiệm quan trọng ngay cả sau thảm họa, đó là hướng dẫn cư dân Huanglong di cư lên núi an toàn. Sau khi hoàn thành sứ mệnh cuối cùng, nó gần như hoàn hảo, như một tạo vật nhân tạo."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_infodisplay\\lang_infodisplay__lore__part_0001.json::93",
+    "patterns": [
+      "Gather "
+    ],
+    "text": "Fella: anh bạn, đồng chí.\nMake yourself known: Malee mày là gì.\nHide the blade: không tiện nói tên.\nBig known: Người nổi danh.\nEmp: Thằng ngơ mới vào nghề.\nGather Spring: Hiểu tiếng lóng.\nFat: Người được ngưỡng mộ.\nGourd Grip: Ông trùm, kẻ cầm đầu.\nDeliver the water: Móc ví ra đây.\nPeeker: Con mắt.\nWind-taker: Lỗ tai.\nGold pole: Cái chân.\nThe green: Weapons.\nThe stick: Súng.\n..."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0001.json::39",
+    "patterns": [
+      "Instructions "
+    ],
+    "text": "Instructions sử dụng Mô-đun Save trữ Năng lượng Cảm ứng\n    1. Người vận hành cần lưu ý rằng các màu sắc khác nhau của Battery Cảm ứng tương ứng với điện áp khác nhau và phải được lắp vào khe lưu trữ năng lượng phù hợp.\n    2. Điện áp của Battery Cảm ứng có thể thay đổi thông qua thiết bị cảm biến biến đổi để đáp ứng nhu cầu.\n    3. Do thiếu bảo trì, có thể có chướng ngại vật gần mô-đun, cần dọn dẹp trước khi sử dụng.\n    Ví dụ:\n    Tàn tích (có thể dọn trực tiếp)\n    Bẫy bụi rậm (có thể phá hủy bằng cách kích nổ Tacetite)\n    Tacetite (có thể phá hủy bằng cách kích hoạt Tia Sét Tacetite)"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0001.json::126",
+    "patterns": [
+      "Instructions "
+    ],
+    "text": "Gửi toàn thể dân làng và nhân viên trú đóng tại khu vực điều tra: Đã có báo cáo về việc phát hiện tần số bất thường ở các khu vực xung quanh làng (bao gồm khu điều tra số chín). Huaxu Academy ước tính có sự tích tụ của Etheric Sea và xác suất cao xuất hiện Tacet Field tại những khu vực này. Để đảm bảo an toàn tính mạng và tài sản của các người, hãy chuẩn bị sơ tán ngay lập tức khi nhận được thông báo này. Chỉ mang theo những vật dụng thiết yếu. Đội Kỵ Binh Night sẽ được điều động hỗ trợ sơ tán. NHẮC LẠI. CHỈ MANG THEO VẬT DỤNG THIẾT YẾU. SƠ TÁN NGAY LẬP TỨC! Instructions bổ sung: Tất cả nhân viên trú đóng tại khu vực điều tra phải chú ý theo dõi các cảnh báo/thông báo tiếp theo."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0001.json::197",
+    "patterns": [
+      "Instructions "
+    ],
+    "text": "Gửi toàn thể dân làng và nhân viên trú đóng tại Zone Vực Investigate:\nĐã có báo cáo về tình trạng tần số bất thường gần khu vực làng (bao gồm Zone Investigate Số 9). Huaxu Academy dự đoán sự tích tụ của Etheric Sea và xác suất cao xuất hiện Tacet Field tại những khu vực này. Để đảm bảo an toàn tính mạng và tài sản của các người, hãy chuẩn bị sơ tán ngay lập tức khi nhận được thông báo này. Chỉ mang theo những vật dụng thiết yếu. Đội Kỵ Binh Night sẽ được điều động hỗ trợ sơ tán. NHẮC LẠI. CHỈ MANG THEO VẬT DỤNG THIẾT YẾU. SƠ TÁN NGAY LẬP TỨC!\n\nInstructions bổ sung: Tất cả nhân viên trú đóng tại khu vực điều tra phải chú ý theo dõi các cảnh báo/thông báo tiếp theo."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0001.json::229",
+    "patterns": [
+      "Gather "
+    ],
+    "text": "Sổ tay Thực địa CSC tại AL104 - XVIII\nCơ sở: Trạm Giám sát\nMục đích: Gather và dự đoán dao động Sóng Vút quanh khu vực nghiên cứu đầu tiên.\n\nCỗ máy CSC, dù chỉ còn tồn tại đến giây phút cuối cùng, vẫn đóng vai trò quan trọng trong hậu quả của thảm họa - dẫn dắt cư dân Huanglong di cư an toàn lên núi để hoàn thành sứ mệnh cuối cùng của nó. Là một sản phẩm nhân tạo, nó gần như hoàn hảo."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0001.json::267",
+    "patterns": [
+      "Instructions "
+    ],
+    "text": "Tóm tắt: \n\nNovaFei là một bệnh truyền nhiễm cấp tính không có phương pháp điều trị hiệu quả, chủ yếu ảnh hưởng đến trẻ em dưới sáu tuổi. Bệnh có khả năng lây lan cao với các triệu chứng nghiêm trọng bao gồm sốt, đau nhức chân tay và teo cơ. Để đối phó với căn bệnh này, một loại vắc-xin sống giảm độc lực đã được phát triển và vượt qua giai đoạn thử nghiệm lâm sàng giai đoạn III vào <color=#ffd12f>16 tháng 6 lúc 3 giờ chiều</color>. Ban Y tế đã thành lập một đội ngũ chuyên trách để phát triển loại vắc-xin này. Report này nhằm phân tích tiến trình nghiên cứu vắc-xin và cung cấp những hiểu biết giá trị cho các nghiên cứu tiếp theo. Result cho thấy hiệu quả miễn dịch đầy hứa hẹn, biến loại vắc-xin này thành giải pháp tiềm năng trong việc ngăn ngừa lây nhiễm NovaFei.\n\n1. Ứng dụng sơ bộ phương pháp phát hiện kháng thể trung hòa đối với giả virus NovaFei\n2. Hiệu quả của vắc-xin sống giảm độc lực chống lại giả virus NovaFei qua đường tiêm\n3. Report thử nghiệm lâm sàng về việc sử dụng đường uống vắc-xin sống giảm độc lực \"Sugar Pearl\" chống lại giả virus NovaFei\n\n... \n\nBổ Sung lục 1: Profile đăng ký tham gia thử nghiệm lâm sàng (i) \n\nSố đăng ký: CTR302001 \n\nTên: Xiangli Yan\nGender: Nữ \nTuổi:"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0001.json::378",
+    "patterns": [
+      "Instructions "
+    ],
+    "text": "Chủ đề: Instructions viên kho Averardo (Zone Vực Kho Ngầm)\n \nHi mừng đến với Kho Averardo! Chúng tôi hy vọng quý vị sẽ có khoảng thời gian tuyệt vời và khó quên tại đây.\n \nCác khu vực chính của Kho Ngầm như sau:\n \n1. Kho Jin Loại và Tác Phẩm Nghệ Thuật Quý\nArea này chủ yếu lưu trữ các kim loại quý và tác phẩm nghệ thuật hiếm. Một số hiện vật được trưng bày luân phiên cho công chúng. Dưới đây là danh sách một phần các triển lãm được đề xuất trong tháng này:\n\nLọ Gốm Stern\nChiếc lọ gốm yêu quý của danh hài Arthur Stern! Sau khi nhận giải Laurel, ông đã rời bỏ sân khấu để chuyên tâm vào nghệ thuật gốm. Chiếc lọ này là một trong mười hai kiệt tác do chính ông vẽ.\nRating đề xuất: Năm Sao!\n\n\"Vì Sao Deep\"\nBức tranh của một họa sĩ vô danh, khắc họa ánh sao phản chiếu từ đáy vực thẳm. Các nhà phê bình đã tranh luận về chủ đề của tác phẩm này suốt nhiều năm, khiến nó trở thành một tác phẩm gây tranh cãi và được bàn tán sôi nổi.\nRating đề xuất: Ba Sao!\n \n2. Kho Echoes (Hiện Close Cửa)\nArea này chủ yếu lưu trữ các Echoes.\nChú ý quan trọng: Kho Echoes không còn mở cửa cho khách tham quan.\n \n3. [Dữ liệu đã bị xóa]"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0002.json::49",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "<b>1. Thực phẩm và Đồ uống</b>\nVì sự an toàn của quý khách, việc ăn uống trong khi tàu Express đang di chuyển bị nghiêm cấm.\nDo nguy cơ từ môi trường hoặc hoạt động của Exoswarm, tàu có thể phanh gấp bất cứ lúc nào. Vi phạm quy định này có thể dẫn đến nghẹn hoặc thương tích từ bao bì thực phẩm.\nRủi ro tăng cao đáng kể trong giai đoạn di chuyển thẳng đứng qua Starward Riseway. Lực gia tốc lớn có thể gây nguy hiểm nghiêm trọng đến sức khỏe nếu quý khách đang ăn uống.\n\n<b>2. Thú cưng, Thiết bị Cơ sinh học & Exoswarm</b>\nĐể đảm bảo an toàn và trật tự trên tàu, tất cả thú cưng và thiết bị cơ sinh học phải được kiểm tra và vận chuyển riêng.\nĐộng vật sống phải được đặt trong lồng chắc chắn. Thiết bị cơ sinh học phải được tắt nguồn và cất trong hộp an toàn trước khi kiểm tra. Mang chúng vào khoang hành khách bị nghiêm cấm.\nExoswarm chỉ được lên tàu tại các khoang được chỉ định dưới sự giám sát của Shepherd có giấy phép. Exoswarm phải được huấn luyện trước để tránh phản ứng hoảng loạn khi tàu tăng tốc đột ngột, điều này có thể gây nguy hiểm cho tất cả hành khách.\nNếu quý khách cần lồng vận chuyển thú cưng hoặc hộp đựng, vui lòng đến khu vực xếp hàng để được hỗ trợ.\n\n<b>3. Jump khi tàu tăng "
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0002.json::53",
+    "patterns": [
+      "Release "
+    ],
+    "text": "<b>Tóm tắt</b>\nNghiên cứu của Spacetrek Collective xác nhận Reactor Drive là bộ phận cốt lõi của Exostrider. Tuy nhiên, hệ thống phòng thủ cực kỳ kiên cố và tính không thể tiếp cận của nó khiến việc thu thập theo phương pháp thông thường trở nên bất khả thi. Bài báo này đề xuất một sáng kiến chiến lược đột phá: Dự án Giải phóng Định hướng Năng lượng Hư không (Void Energy Directed Release Project).\n\nCơ chế cốt lõi dựa trên mối liên kết phòng thủ cộng sinh giữa Reactor và điểm neo chính của nó—các Solistree tại Bjartr Woods. Chúng tôi chứng minh rằng việc triển khai chính xác các vật mang Voidmatter chuyên dụng vào vùng rễ của Solistree có thể làm tổn hại hiệu quả điểm neo sinh thái này. Sự ô nhiễm này sẽ kích hoạt phản ứng miễn dịch cấp cao nhất của Reactor Drive, buộc nó phải lệch khỏi quỹ đạo hiện tại và hạ cánh xuống khu vực được chỉ định dưới dạng vật lý, bước vào trạng thái có thể thu hồi.\n\nBài báo trình bày chi tiết mô hình tương tác giữa Voidmatter và hệ sinh thái Solistree, ngưỡng kích hoạt cơ chế phản ứng khẩn cấp của Reactor Drive, quỹ đạo tác động dự kiến, và quy trình thu hồi nhanh chóng của Viện Nghiên Cứu Spacetrek Collective tại địa điểm được chỉ định. Chiến lược đề x"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0003.json::141",
+    "patterns": [
+      "Gather "
+    ],
+    "text": "\"Gió thì thầm, nước róc rách, chim líu lo. Mỗi âm thanh là một nốt nhạc tinh tế trong bản giao hưởng của những kỷ niệm đã qua.\"\nGather Windchimers và giao cho Xian'ge sẽ nhận được nhiều phần quà hấp dẫn.\nHãy tìm lại những Windchimers thất lạc và để giai điệu ấy ngân vang một lần nữa."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0004.json::184",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Hội Trao Exchange Nghệ Thuật Shanyun là một tổ chức danh tiếng quản lý việc giao lưu thư pháp và hội họa tại Huanglong. Được lựa chọn trưng bày tác phẩm ở đây là một vinh dự lớn, mang lại uy tín vô cùng to lớn cho người nghệ sĩ."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0011.json::148",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Cậu kiếm được Points Lướt Ray bằng cách Lướt Ray. Sử dụng Drift Ray để thu thập điểm ở hai bên đường ray. Dùng Jump Bật để lấy điểm trên không. Kiếm đủ Points Lướt Ray để đổi lấy phần thưởng Shell Credit."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0011.json::225",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Mở khóa Mô-đun Mở Rộng sẽ kích hoạt Charged Leap.\nSau khi mở khóa, giữ nút Jump Bật để sử dụng Charged Leap của xe máy, giúp tăng độ cao. Sử dụng Charged Leap từ mặt đất cũng sẽ tự động chuyển sang trạng thái lướt.\nCharged Leap có tối đa 3 lần tích năng, sẽ hồi phục dần theo thời gian khi xe máy chạm đất. Không thể hồi phục khi đang ở trên không."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0016.json::102",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Mục Tiêu Giai Đoạn khó đạt hơn.\n<te href=851002><color=#c79f49>Giấc Mơ Trao Exchange</color></te> Echoes xuất hiện nhiều hơn.\nBắt đầu với đạo cụ <te href=851033><color=#c79f49>Pháo Hoa Mộng Ảo</color></te>."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0016.json::105",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Echo Giấc Mơ mang <te href=851001><color=#c79f49>Giấc Mơ Nuốt Chửng</color></te> và <te href=851002><color=#c79f49>Giấc Mơ Trao Exchange</color></te> có tỷ lệ xuất hiện cao hơn."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0016.json::106",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Mục tiêu Giai đoạn khó đạt hơn rồi.\nTacet Discord mang <te href=851001><color=#c79f49>Dream of Devouring</color></te> và <te href=851002><color=#c79f49>Giấc Mộng Trao Exchange</color></te> sẽ xuất hiện nhiều hơn.\nHãy bắt đầu với đạo cụ <te href=851037><color=#c79f49>Mô Hình: Excarat</color></te> và <te href=851038><color=#c79f49>Tàu Hỏa Mộng Ảo</color></te>."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0016.json::134",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Mỗi ngày, có {0}% cơ hội tạo ra <te href=851013><color=#c79f49>Vật Phẩm Trao Exchange</color></te> trên một ô trống. Nếu đặt lên <te href=851048><color=#c79f49>Ô Mộng: Hắc Diện Thạch</color></te>, tỷ lệ tăng thêm {1}%."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0016.json::146",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Mở Hộp Giấc Mơ để nhận được Echo <te href=851002><color=#c79f49>Giấc Mơ Trao Exchange</color></te> hiếm cấp Xám hoặc Lam. Bạn có thể chọn 1 đến 3 Echo để triệu hồi lên chiến trường (nếu chiến trường đã đầy, chúng sẽ tự động được đặt ngoài chiến trường)."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0016.json::147",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Mở Hộp Giấc Mơ để nhận được Echo <te href=851002><color=#c79f49>Giấc Mơ Trao Exchange</color></te> hiếm cấp Xám hoặc Lam, và có xác suất nhỏ nhận được Echo cấp Tím. Bạn có thể chọn 1 đến 3 Echo để triệu hồi lên chiến trường (nếu chiến trường đã đầy, chúng sẽ tự động được đặt ngoài chiến trường)."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0016.json::148",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Mở Hộp Giấc Mơ để nhận được Echo <te href=851002><color=#c79f49>Giấc Mơ Trao Exchange</color></te> hiếm cấp Xám, Lam hoặc Tím, và có xác suất nhỏ nhận được Echo cấp Vàng. Bạn có thể chọn 1 đến 3 Echo để triệu hồi lên chiến trường (nếu chiến trường đã đầy, chúng sẽ tự động được đặt ngoài chiến trường)."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0016.json::239",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Mỗi {0} Echo hạng xanh trên chiến trường, khi <te href=851013><color=#c79f49>Vật Phẩm Giao Dịch</color></te> được <te href=851007><color=#c79f49>Trao Exchange</color></te>, có {1}% cơ hội tạo ra một Echo cùng tên, có thể chồng chất tối đa {2} lần."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_item\\lang_item__name_title__part_0001.json::248",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Phần Thưởng Trao Exchange Nhiễu"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0021.json::175",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Giấc Mộng Trao Exchange"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0026.json::360",
+    "patterns": [
+      "Deploy",
+      "Deployment"
+    ],
+    "text": "Kéo Novelty to Deployment Zone"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0036.json::334",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Trao Exchange Vật Phẩm"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0038.json::84",
+    "patterns": [
+      "Instructions "
+    ],
+    "text": "Instructions chơi"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0050.json::279",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Jump Pad"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0050.json::280",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Jump Plant"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0054.json::214",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Jump Pad"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0064.json::105",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Dùng Jump trong khi đẩy cần gạt trái/phải để nhảy khỏi ray"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0065.json::275",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Climbing Jump Stamina Consumption (Once)"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0091.json::485",
+    "patterns": [
+      "Deploy",
+      "Deployment"
+    ],
+    "text": "Deployment Cost"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0102.json::178",
+    "patterns": [
+      "Deploy",
+      "Deployment"
+    ],
+    "text": "Deployment Confirmation"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0105.json::88",
+    "patterns": [
+      "Deploy"
+    ],
+    "text": "Deployed"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\quest\\lang_multi_text\\lang_multi_text__quest__part_0034.json::374",
+    "patterns": [
+      "Gather "
+    ],
+    "text": "Gather Sắt Thiên Thạch"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0003.json::73",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Các Echoes thuộc thuộc tính Giấc Mộng này lấy Trao Exchange làm khả năng cốt lõi. Trong Giấc Mộng Trao Exchange, một số Echoes có thể tự Trao Exchange bản thân để tái tạo Echo. Sau khi tồn tại trong Giấc Mộng đủ số ngày quy định, chúng sẽ Tự Loại Bỏ và để lại nhiều hiệu ứng tăng cường."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0003.json::78",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Các Echoes thuộc thuộc tính Giấc Mộng này lấy Trao Exchange làm khả năng cốt lõi. Một số Echoes có thể tự Trao Exchange bản thân để tái tạo Echo. Sau khi tồn tại trong Giấc Mộng đủ số ngày quy định, chúng sẽ Tự Loại Bỏ và để lại nhiều hiệu ứng tăng cường."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0003.json::104",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Mỗi Echo hạng xanh trên chiến trường, khi Trao Exchange một Vật Phẩm Giao Dịch, có 5% cơ hội tạo ra một Echo cùng tên, có thể chồng chất tối đa 5 lần."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0003.json::118",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Trao Exchange: Sau 2 ngày, sẽ tự loại bỏ bản thân khỏi Vật Phẩm Trao Exchange. Dấu Vết này luôn xuất hiện trên cùng một khối. Khi Trao Exchange, có 50% cơ hội tạo ra một Mourning Aix trên khối trống. Không thể nhận được Dấu Vết này qua Echo Recruitment."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0003.json::132",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Trao Exchange: Sau 2 ngày, sẽ tự loại bỏ bản thân khỏi Vật Phẩm Trao Exchange. Khi Trao Exchange, sản lượng Daily Coupon của các Dấu Vết liền kề tăng thêm 30% sản lượng Daily Coupon của Dấu Vết này. Không thể nhận được Dấu Vết này qua Echoes Recruitment."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0003.json::133",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Trao Exchange: Sau 2 ngày, sẽ tự loại bỏ bản thân khỏi Vật Phẩm Trao Exchange. Khi Trao Exchange hoặc Bị Nuốt Chửng, sẽ nhận được Dreamland Coupons bằng sản lượng Daily Coupon hiện tại x10. Có 50% cơ hội tạo ra một Mourning Aix. Không thể nhận được Dấu Vết này qua Echo Recruitment."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0010.json::118",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Khi ở <color=Highlight>Blossom Mode</color>, sử dụng Jump sẽ tấn công mục tiêu và kết thúc <color=Highlight>Blossom Mode</color>."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0010.json::222",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Khi ở <color=Highlight>Mirage</color>, sử dụng Jump sẽ tiêu hao Thể Lực để thực hiện Đòn Lao Xuống, gây <color=Dark>Havoc DMG</color>.\nTiêu hao Trance để hồi phục Shiver và chữa lành cho tất cả Resonators trong đội ở gần."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0010.json::305",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Với tư cách là Fleurdelys, hãy sử dụng Kỹ Năng Jump trên mặt đất để khóa mục tiêu và thực hiện Đòn Chém Lên. Khi ở trên không, thực hiện tối đa 3 giai đoạn Mid-air Attack để gây Aero DMG và hồi phục <color=Highlight>Conviction</color>. Giai đoạn 3 của Mid-air Attack sẽ ngay lập tức kích hoạt Sát Thương <color=Wind>Aero Erosion</color> một lần và tiêu hao 1 tầng <color=Wind>Aero Erosion</color>.\nVới <color=Highlight>Heart of Virtue</color>, tăng khả năng kháng cự gián đoạn.\nVới <color=Highlight>Power of Discord</color>, giai đoạn 2 của Mid-air Attack sẽ lan truyền số tầng <color=Wind>Aero Erosion</color> cao nhất trong số các mục tiêu."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0010.json::373",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Iuno có thể chuyển đổi giữa trạng thái <color=Highlight>Half Moon</color> và <color=Highlight>New Moon</color>. Mặc định, Iuno sẽ vào trạng thái <color=Highlight>Half Moon</color> trước.\nKỹ năng Jump của Iuno được thay thế bằng <color=Highlight>Heavy Attack - Flux</color>, có thể kích hoạt để chuyển đổi trạng thái."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0011.json::163",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Khi ở trên không, {Cus:Ipt,Touch=tap PC=press Gamepad=press} Normal Attack một lần, sau đó {Cus:Ipt,Touch=tap PC=press Gamepad=press} Jump hai lần để thực hiện các đòn tấn công liên tiếp bằng lưỡi hái. Sau đó, <color=Highlight>Enhanced Resonance Skill</color> sẽ được kích hoạt, gây <color=Light>Spectro DMG</color>."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0011.json::486",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Những Resonator mang thuộc tính Giấc Mơ này lấy <color=#ffd12f>Exchange</color> làm khả năng cốt lõi. Sau khi ở lại chiến trường đủ số ngày nhất định, một số Resonator sẽ tự loại bỏ và để lại nhiều hiệu ứng tăng cường khác nhau.\n<color=#ffd12f>Certain Dream of Exchange Echoes can produce Echoes with the ability to Exchange. Whenever Exchange is triggered, this type of Echo becomes buffed.</color>\n\nĐể tối đa hóa lợi ích, <color=#ffd12f>make sure you can produce enough Echoes with the ability to Exchange</color> nếu bạn chọn Giấc Mơ Trao Exchange."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0012.json::64",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Khi điều khiển xe máy thám hiểm, bạn có thể sử dụng các tính năng như Tăng Tốc, Phóng Nhanh, Trượt Drift và Jump Bật. Trong lúc di chuyển, một trường lực sẽ được triển khai quanh xe, và Resonator sẽ bị buộc phải xuống xe nếu chịu sát thương hoặc bị kiểm soát sau khi trường lực biến mất."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0012.json::99",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Khi đến gần đường trượt, nút Jump sẽ sáng lên và chuyển thành nút Trượt Ray. {Cus:Ipt,Touch=Touch PC=Ấn Gamepad=Ấn} nút này để xe máy nhảy lên ray và bắt đầu Trượt Ray. Hạ cánh từ trên không xuống ray cũng sẽ kích hoạt Trượt Ray."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0013.json::18",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "<size=40><color=Title>Baseline Mode</color></size>\nKhi ở <color=Highlight>Baseline Mode</color>, Mornye nhận <color=Highlight><te href=120903>Năng Lượng Khối Lượng Nghỉ</te></color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Shift Địa Thế</color></size>\nKhi <color=Highlight><te href=120903>Năng Lượng Khối Lượng Nghỉ</te></color> đạt {0} điểm, Heavy Attack sẽ được thay thế bằng <color=Highlight>Heavy Attack - Shift Địa Thế</color>.\nThực hiện <color=Highlight>Heavy Attack - Shift Địa Thế</color> để gây <color=Fire>Fusion DMG</color>, được tính là Sát Thương Heavy Attack. Sau đó, Mornye sẽ nhảy lên không trung, tiêu hao toàn bộ <color=Highlight><te href=120903>Năng Lượng Khối Lượng Nghỉ</te></color> và chuyển sang <color=Highlight><te href=120902>Wide Field Observation Mode</te></color>.\n<size=10></size>\n<size=40><color=Title>Wide Field Observation Mode</color></size>\n<color=Highlight>Wide Field Observation Mode</color> kéo dài trong {11} giây.\n- Khi vào <color=Highlight>Wide Field Observation Mode</color>, Mornye tạo ra <color=Highlight><te href=120907>Trường Resonance</te></color>.\n- Trong <color=Highlight>Wide Field Observation Mode</color>, Mornye nhận <color=Highlight"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0013.json::38",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "<size=40><color=Title>Optical Sampling Stage</color></size>\nTheo mặc định, Lynae ở trong <color=Highlight><te href=150901>Optical Sampling Stage</te></color>. Trong trạng thái này, <color=Highlight><te href=150905>Overflow</te></color> sẽ hồi phục khi sử dụng một số kỹ năng nhất định.\n<size=10></size>\n<size=40><color=Title>Kaleidoscopic Parade</color></size>\nSử dụng <color=Highlight>Basic Attack - Spark Collision</color> sẽ đưa Lynae vào trạng thái <color=Highlight><te href=150902>Kaleidoscopic Parade</te></color>. Trong trạng thái này, Lynae liên tục hồi phục <color=Highlight><te href=150906>Lumiflow</te></color> khi di chuyển trên mặt đất hoặc trong một số khoảng thời gian nhất định của một số kỹ năng. Lynae sẽ không thể Đi Bộ trong trạng thái này, và việc Chạy hoặc Tăng Tốc sẽ được thay thế bằng <color=Highlight>Free Skating</color> và <color=Highlight>Speed Skating</color> nhanh hơn.\n<size=10></size>\n<size=40><color=Title>Basic Attack - Polychrome Leap</color></size>\nTrong trạng thái <color=Highlight><te href=150902>Kaleidoscopic Parade</te></color>, khi <color=Highlight><te href=150906>Lumiflow</te></color> đạt ít nhất 1/3 tối đa, Jump sẽ được thay thế bằng <color=Highlight>Ba"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0013.json::39",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "<size=40><color=Title>Roller Skating Mode</color></size>\nSau <color=Highlight>Charging State</color>, Lynae bước vào <color=Highlight>Roller Skating Mode</color> và mở khóa các động tác mới.\n<size=10></size>\n<size=40><color=Title>Basic Attack - Polychrome Leap</color></size>\nTrong <color=Highlight>Roller Skating Mode</color>, {Cus:Ipt,Touch=tap PC=press Gamepad=press} Jump và tiêu hao 1/3 <color=Highlight>Lumiflow</color> tối đa để thực hiện đòn nhảy tấn công, gây <color=Light>Spectro DMG</color>. Gây hiệu ứng <color=Highlight>Photochromic Flux</color> lên mục tiêu trúng đòn. Có thể thực hiện liên tiếp tối đa 3 lần.\n<size=10></size>\n<size=40><color=Title>Roller Skate Plunge Chain Attack</color></size>\nTrong <color=Highlight>Roller Skating Mode</color>, khi đang ở trên không với <color=Highlight>True Color</color> tối đa, nếu <color=Highlight>Enhanced Roller Skate Plunge Attack</color> không trong Cooldown chiêu, hãy sử dụng <color=Highlight>Enhanced Roller Skate Plunge Attack</color>, nếu không thì thay bằng <color=Highlight>Roller Skate Plunge Attack</color>. Gây hiệu ứng <color=Highlight>Photochromic Flux</color> lên mục tiêu trúng đòn.\nSử dụng <color=Highlight>Enhanced Roller Sk"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0013.json::387",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Bước Jump Đa Sắc: Khi có đủ <color=Highlight>Lumiflow</color>, {Cus:Ipt,Touch=tap PC=press Gamepad=press} Nhảy để tung chiêu <color=Highlight>Polychrome Leap</color>, nhận 1 điểm <color=Highlight>True Color</color> và gây hiệu ứng <color=Highlight>Photochromic Flux</color> lên mục tiêu khi trúng đích."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0013.json::443",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "{Cus:Ipt,Touch=Touch PC=press Gamepad=press} {0}+{0}+{0}+{0} trên mặt đất hoặc {Cus:Ipt,Touch=tap PC=press Gamepad=press} {0}+{0}/Jump+{0}/Jump trên không để kích hoạt Resonance Skill <color=Highlight>Aureole of Execution</color>. Sau khi kích hoạt, {Cus:Ipt,Touch=tap PC=press Gamepad=press} {1} để thi triển Resonance Skill <color=Highlight>Aureole of Execution</color>."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0016.json::468",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Basic Attack: True Sight - Tích Lực: Khi ở trạng thái True Sight, sử dụng {0} sau khi Jump hoặc khi đang ở giữa không trung."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0018.json::26",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "<size=40><color=Title>Crimson Blossom</color></size>\nTấn công mục tiêu, gây <color=Dark>Havoc DMG</color> (được tính là Sát Thương Kỹ Năng Basic), sau đó bước vào <color=Highlight>Blossom Mode</color>.\nSkill này có thể thực hiện khi đang bay.\n<size=10> </size>\n<size=40><color=Title>Blossom Mode</color></size>\n- Không thể di chuyển khi bị treo trên dây leo.\n- <color=Highlight>Basic Attack</color> và Kỹ Năng Nặng <color=Highlight>Pruning</color> được thay thế bằng Kỹ Năng Basic <color=Highlight>Vining Waltz</color>: thực hiện liên tiếp 4 đòn tấn công, gây <color=Dark>Havoc DMG</color>, được tính là Sát Thương Kỹ Năng Basic.\n- Khi thực hiện <color=Highlight>Vining Waltz Stage 3</color>, giữ <color=Highlight>Normal Attack Button</color> để tung ra <color=Highlight>Blazing Waltz</color>, gây <color=Dark>Havoc DMG</color> trước khi tự động thực hiện <color=Highlight>Vining Waltz Stage 4</color>.\n- <color=Highlight>Dodge Counter</color> được thay thế bằng Dodge Counter <color=Highlight>Atonement</color>. Nhấn <color=Highlight>Normal Attack Button</color> ngay sau khi <color=Highlight>Dodge</color> thành công để tấn công mục tiêu, gây <color=Dark>Havoc DMG</color>, được tính là Sát Thương "
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0018.json::361",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "<size=40><color=Title>Lunar Cycle</color></size>\nIuno có thể kích hoạt Vòng Tuần Trăng bằng cách sử dụng <color=Highlight>Resonance Skill - Closing Refrain</color> hoặc <color=Highlight>Resonance Liberation</color>.\nVòng Tuần Trăng có hai trạng thái: <color=Highlight>Half Moon</color> và <color=Highlight>New Moon</color>. Mặc định, Iuno sẽ vào trạng thái <color=Highlight>Half Moon</color> khi kích hoạt Vòng Tuần Trăng và có thể chuyển đổi giữa hai trạng thái bằng cách sử dụng <color=Highlight>Heavy Attack - Flux</color>.\nKhi ở trong Vòng Tuần Trăng:\n- Jump của Iuno sẽ được thay thế bằng <color=Highlight>Heavy Attack - Flux</color>. STA sẽ không hồi phục khi Iuno ở trên không.\n- Di chuyển của Iuno trở thành <color=Highlight>Meandering</color>, tiêu hao STA liên tục khi ở trên không để di chuyển theo cách đặc biệt.\n- Thực hiện tương tác môi trường, sử dụng Tiện Ích hoặc giữ Jump sẽ kết thúc <color=Highlight>Lunar Cycle</color>.\n\n<size=40><color=Title>Lunar Cycle - Half Moon</color></size>\nIuno tấn công bằng Vòng Trăng, hồi phục <color=Highlight><te href=141003>Sentience</te></color> khi trúng mục tiêu.\nCô có thể sử dụng <color=Highlight>Heavy Attack - Flux: Moonbow</color> để gây <co"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0019.json::383",
+    "patterns": [
+      "Gather "
+    ],
+    "text": "Gather âm thanh cộng hưởng để tấn công mục tiêu phía trước, gây <color=Dark>Havoc DMG</color>"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0019.json::457",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "<size=40><color=Title>Crimson Blossom</color></size>\nGây <color=Dark>Havoc DMG</color> và bước vào <color=Highlight>Blossom Mode</color>.\n<size=10></size>\n<size=40><color=Title>Blossom Mode</color></size>\n- Không thể di chuyển khi bị treo trên dây leo.\n- <color=Highlight>Basic Attack</color> và Heavy Attack <color=Highlight>Pruning</color> được thay thế bằng Basic Attack <color=Highlight>Vining Waltz</color>, gây <color=Dark>Havoc DMG</color>.\n- Khi thực hiện <color=Highlight>Vining Waltz 3</color>, giữ <color=Highlight>Basic Attack</color> để thực hiện <color=Highlight>Blazing Waltz</color>, gây <color=Dark>Havoc DMG</color>.\n- <color=Highlight>Dodge Counter</color> trở thành Dodge Counter <color=Highlight>Atonement</color>, gây <color=Dark>Havoc DMG</color>.\n- Resonance Skill trở thành Resonance Skill <color=Highlight>Floral Ravage</color>, gây <color=Dark>Havoc DMG</color>.\n- <color=Highlight>Blossom Mode</color> kết thúc sau khi sử dụng <color=Highlight>Floral Ravage</color>.\n- <color=Highlight>Blossom Mode</color> kết thúc sau khi sử dụng <color=Highlight>Levitator</color>.\n- Jump được thay thế bằng Basic Attack <color=Highlight>Vining Ronde</color>. Sử dụng Nhảy để tấn công m"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0021.json::274",
+    "patterns": [
+      "Trao Exchange"
+    ],
+    "text": "Những Resonator mang thuộc tính Giấc Mơ này lấy Sự Trao Exchange làm khả năng cốt lõi. Một số Resonator có thể thay đổi giấc mơ thông qua Trao Exchange. Sau khi ở lại chiến trường đủ số ngày nhất định, chúng sẽ tự loại bỏ và để lại nhiều hiệu ứng tăng cường khác nhau."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0091.json::20",
+    "patterns": [
+      "Release "
+    ],
+    "text": "Dùng từ viết tắt đi. Ví dụ như \"Compound Lichen Greenbud Sustained-Release Tablet\" này, tụi mình chỉ gọi là Lich-let thôi"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0161.json::408",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "<color=yellow>Jump forward</color>, không phải thẳng đứng, để giữ khoảng cách an toàn."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\ui\\lang_multi_text\\lang_multi_text__ui__part_0019.json::181",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Basic Attack hoặc Jump có thể kết thúc chế độ <color=Highlight>Phóng Tốc</color>."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\ui\\lang_multi_text\\lang_multi_text__ui__part_0019.json::182",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Basic Attack hoặc Jump có thể kết thúc chế độ <color=Highlight>Phóng Tốc</color>."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\ui\\lang_multi_text\\lang_multi_text__ui__part_0019.json::183",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "Basic Attack hoặc Jump có thể kết thúc chế độ <color=Highlight>Phóng Tốc</color>."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\ui\\lang_multi_text\\lang_multi_text__ui__part_0022.json::372",
+    "patterns": [
+      "Deploy",
+      "Deployment"
+    ],
+    "text": "Echoes trong Deployment Zone cũng có thể Reconstruct.\nReconstruct La Guardia để nhận Energy."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\ui\\lang_multi_text\\lang_multi_text__ui__part_0022.json::373",
+    "patterns": [
+      "Deploy",
+      "Deployment"
+    ],
+    "text": "Echoes trong Deployment Zone cũng có thể Reconstruct.\nReconstruct La Guardia để nhận Energy."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\ui\\lang_multi_text\\lang_multi_text__ui__part_0022.json::374",
+    "patterns": [
+      "Deploy",
+      "Deployment"
+    ],
+    "text": "Echoes trong Deployment Zone cũng có thể Reconstruct.\nReconstruct La Guardia để nhận Energy."
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\ui\\lang_multi_text\\lang_multi_text__ui__part_0023.json::51",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "{Cus:Ipt,Touch=Touch PC=Bấm Gamepad=Chọn} để mở khóa Mô-đun Mở Rộng Jump Bật"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\ui\\lang_multi_text\\lang_multi_text__ui__part_0023.json::52",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "{Cus:Ipt,Touch=Touch PC=Bấm Gamepad=Chọn} để mở khóa Mô-đun Mở Rộng Jump Bật"
+  },
+  {
+    "source": "json",
+    "loc": "mistral_translate_work\\split_by_prompt\\json\\ui\\lang_multi_text\\lang_multi_text__ui__part_0023.json::53",
+    "patterns": [
+      "Jump "
+    ],
+    "text": "{Cus:Ipt,Touch=Touch PC=Bấm Gamepad=Chọn} để mở khóa Mô-đun Mở Rộng Jump Bật"
+  }
+]

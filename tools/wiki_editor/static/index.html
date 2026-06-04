@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Wuthering Waves Translation Wiki</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <aside class="sidebar">
+    <div class="brand">
+      <div class="brand-title">Translation Wiki</div>
+      <div class="brand-subtitle">split_by_prompt editor</div>
+    </div>
+    <nav>
+      <button class="nav active" data-view="overview">Tổng quan</button>
+      <button class="nav" data-view="domains">Theo phần</button>
+      <button class="nav" data-view="quests">Nhiệm vụ</button>
+      <button class="nav" data-view="characters">Nhân vật</button>
+    </nav>
+  </aside>
+
+  <main>
+    <header class="topbar">
+      <input id="globalSearch" placeholder="Tìm source, key, bản Việt..." />
+      <button id="reloadBtn">Reload</button>
+    </header>
+
+    <section id="overview" class="view active">
+      <h1>Tổng quan</h1>
+      <div id="summaryCards" class="cards"></div>
+      <h2>Các phần dữ liệu</h2>
+      <div id="domainGrid" class="domain-grid"></div>
+    </section>
+
+    <section id="domains" class="view">
+      <div class="section-head">
+        <h1>Theo phần</h1>
+        <select id="domainSelect"></select>
+      </div>
+      <div id="rowsList" class="rows"></div>
+      <div class="pager">
+        <button id="prevPage">Trước</button>
+        <span id="pageInfo"></span>
+        <button id="nextPage">Sau</button>
+      </div>
+    </section>
+
+    <section id="quests" class="view">
+      <h1>Nhiệm vụ</h1>
+      <div class="split">
+        <div class="list-panel">
+          <input id="questSearch" placeholder="Tìm nhiệm vụ..." />
+          <div id="questList" class="compact-list"></div>
+        </div>
+        <div id="questDetail" class="detail-panel"></div>
+      </div>
+    </section>
+
+    <section id="characters" class="view">
+      <h1>Nhân vật</h1>
+      <div class="split">
+        <div class="list-panel">
+          <input id="characterSearch" placeholder="Tìm nhân vật..." />
+          <div id="characterList" class="compact-list"></div>
+        </div>
+        <div id="characterDetail" class="detail-panel"></div>
+      </div>
+    </section>
+  </main>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

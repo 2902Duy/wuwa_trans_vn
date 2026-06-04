@@ -1,0 +1,370 @@
+[
+  {
+    "split_id": "LORE_0002356",
+    "file": "lore\\lang_multi_text\\lang_multi_text__lore__part_0005.json",
+    "index": 70,
+    "source_en": "They're really glad you like it! By the way, there's something else I'd like to ask you, {Male=Mr.;Female=Ms.} {PlayerName}. Have you ever seen a Seaside Cendrelis before?",
+    "old_translation_vi": "Họ rất vui vì anh/chị thích nó! Nhân tiện, tôi có điều này muốn hỏi anh/chị, {Male=anh;Female=chị} {PlayerName}. Anh/chị đã bao giờ thấy một con Seaside Cendrelis chưa?",
+    "new_translation_vi": "Họ rất vui vì {Male=anh;Female=chị} thích nó! Nhân tiện, tôi có điều này muốn hỏi {Male=anh;Female=chị}, {Male=anh;Female=chị} {PlayerName}. Anh/chị đã bao giờ thấy một con Seaside Cendrelis chưa?"
+  },
+  {
+    "split_id": "LORE_0004408",
+    "file": "lore\\lang_multi_text\\lang_multi_text__lore__part_0009.json",
+    "index": 122,
+    "source_en": "Hello, {Male=good sir;Female=good lady}! Would you be so kind as to lend me a few minutes? Sorry to bother you, but have you ever seen a bell-like object encircled by muscial notes in the mountains?",
+    "old_translation_vi": "Hello, {Male=ngài;Female=bà}! Anh/chị có thể dành cho tôi vài phút được không? Xin lỗi đã làm phiền, nhưng anh/chị có từng thấy vật gì giống chiếc chuông bao quanh bởi nốt nhạc trên núi không?",
+    "new_translation_vi": "Hello, {Male=ngài;Female=bà}! Anh/chị có thể dành cho tôi vài phút được không? Xin lỗi đã làm phiền, nhưng {Male=anh;Female=chị} có từng thấy vật gì giống chiếc chuông bao quanh bởi nốt nhạc trên núi không?"
+  },
+  {
+    "split_id": "LORE_0005015",
+    "file": "lore\\lang_multi_text\\lang_multi_text__lore__part_0010.json",
+    "index": 229,
+    "source_en": "Drinking during the day? You hesitate, questioning whether this is wise with your other commitments. Though you must decline her offer this time, perhaps you'll accept the next.",
+    "old_translation_vi": "Uống rượu giữa ban ngày thế này? Anh/chị/bạn do dự, tự hỏi liệu có nên nhận lời khi còn nhiều việc phải làm. Dù lần này đành từ chối, nhưng biết đâu lần sau sẽ đồng ý.",
+    "new_translation_vi": "Uống rượu giữa ban ngày thế này? Anh/chị/bạn do dự, tự hỏi liệu có nên nhận lời khi còn nhiều việc phải làm. Dù lần này đành từ chối, nhưng biết đâu lần sau sẽ đồng ý."
+  },
+  {
+    "split_id": "LORE_0007059",
+    "file": "lore\\lang_multi_text\\lang_multi_text__lore__part_0014.json",
+    "index": 273,
+    "source_en": "O-of course we can talk about something other than plants. I do take breaks from the greenhouse, you know. Um... Do you like Morri Pot? The various types of mushrooms in it are so... What? M-mushrooms are not plants. They're fungi!",
+    "old_translation_vi": "T-Tất nhiên là cháu có thể nói chuyện ngoài chuyện cây cối mà. Cháu cũng có nghỉ giải lao khỏi nhà kính đấy chứ. Ừm... Anh/chị có thích Morri Pot không? Các loại nấm trong đó thật là... Sao ạ? N-Nấm không phải thực vật. Đó là nấm!",
+    "new_translation_vi": "T-Tất nhiên là cháu có thể nói chuyện ngoài chuyện cây cối mà. Cháu cũng có nghỉ giải lao khỏi nhà kính đấy chứ. Ừm... Anh/chị có thích Morri Pot không? Các loại nấm trong đó thật là... Sao ạ? N-Nấm không phải thực vật. Đó là nấm!"
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0008961",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0018.json",
+    "index": 279,
+    "source_en": "Aww. Can't you see I'm perfectly fine, sitting right in front of you?",
+    "old_translation_vi": "Ôi. Anh/chị không thấy em ngồi đây khỏe re đấy thôi à?",
+    "new_translation_vi": "Ôi. Anh/chị không thấy em ngồi đây khỏe re đấy thôi à?"
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0010993",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0022.json",
+    "index": 311,
+    "source_en": "Y-Yes. Hello. You're here to ask about my thoughts on the story, right? I actually have something to ask you...",
+    "old_translation_vi": "Vâng. Xin chào. Anh/chị đến để hỏi về suy nghĩ của tôi về câu chuyện phải không? Thực ra tôi cũng có điều muốn hỏi anh/chị...",
+    "new_translation_vi": "Vâng. Xin chào. Anh/chị đến để hỏi về suy nghĩ của tôi về câu chuyện phải không? Thực ra tôi cũng có điều muốn hỏi cậu..."
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0013078",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0026.json",
+    "index": 396,
+    "source_en": "Hello, {PlayerName}! I ran into some issue with the periodical data collection work I'm tasked with, and I'm looking for some help. Are you interested?",
+    "old_translation_vi": "Chào {PlayerName}! Tôi gặp chút trục trặc với công việc thu thập dữ liệu định kỳ được giao, và đang tìm người giúp đỡ. Anh/chị có hứng thú không?",
+    "new_translation_vi": "Chào {PlayerName}! Tôi gặp chút trục trặc với công việc thu thập dữ liệu định kỳ được giao, và đang tìm người giúp đỡ. Anh/chị có hứng thú không?"
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0013373",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0027.json",
+    "index": 191,
+    "source_en": "Y-You sure?",
+    "old_translation_vi": "Anh/chị chắc không?",
+    "new_translation_vi": "Anh/chị chắc không?"
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0014173",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0028.json",
+    "index": 491,
+    "source_en": "Y-you don't have to call me \"Master\"...",
+    "old_translation_vi": "Anh/chị không cần phải gọi em là \"Sư phụ\" đâu...",
+    "new_translation_vi": "Anh/chị không cần phải gọi em là \"Sư phụ\" đâu..."
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0017325",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0035.json",
+    "index": 143,
+    "source_en": "Yes! I manage everything in <ano=Train Conductor>Shashou</ano> Cafe! Would you care for a hot cup of our freshly brewed house special?",
+    "old_translation_vi": "Ừ! Mọi thứ ở quán <ano=Train Conductor>Shashou</ano> này đều do tôi quản lý đấy! Anh/chị có muốn thử một tách đặc sản nhà mới pha không?",
+    "new_translation_vi": "Ừ! Mọi thứ ở quán <ano=Train Conductor>Shashou</ano> này đều do tôi quản lý đấy! Anh/chị có muốn thử một tách đặc sản nhà mới pha không?"
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0017753",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0036.json",
+    "index": 71,
+    "source_en": "Chisa—! Passenger—!",
+    "old_translation_vi": "Chisa—! Anh/chị—!",
+    "new_translation_vi": "Chisa—! Anh/chị—!"
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0019263",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0039.json",
+    "index": 81,
+    "source_en": "Good day! Are you here for the Ducat Auction? I'm afraid we've closed entries for today's session. We would be delighted to see you at our next auction though.",
+    "old_translation_vi": "Chào anh/chị! Anh/chị đến để tham gia Đấu giá Ducat à? Tiếc là chúng tôi đã đóng đăng ký cho phiên hôm nay rồi. Nhưng rất mong được gặp lại anh/chị ở phiên đấu giá tiếp theo nhé.",
+    "new_translation_vi": "Chào cậu! Anh/chị đến để tham gia Đấu giá Ducat à? Tiếc là chúng tôi đã đóng đăng ký cho phiên hôm nay rồi. Nhưng rất mong được gặp lại cậu ở phiên đấu giá tiếp theo nhé."
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0022790",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0046.json",
+    "index": 108,
+    "source_en": "Is there anything else you'd like to know about Ragunna? I'll do my best to answer your questions.",
+    "old_translation_vi": "Anh/chị còn muốn biết gì về Ragunna không? Mình sẽ cố gắng trả lời hết.",
+    "new_translation_vi": "Anh/chị còn muốn biết gì về Ragunna không? Mình sẽ cố gắng trả lời hết."
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0023943",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0048.json",
+    "index": 261,
+    "source_en": "Pardon my interruption, but I'm quite curious. What sort of bizarre plots have you encountered?",
+    "old_translation_vi": "Xin lỗi đã cắt ngang, nhưng tôi thực sự tò mò. Anh/chị đã gặp phải những âm mưu kỳ quặc nào rồi?",
+    "new_translation_vi": "Xin lỗi đã cắt ngang, nhưng tôi thực sự tò mò. Anh/chị đã gặp phải những âm mưu kỳ quặc nào rồi?"
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0024850",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0050.json",
+    "index": 168,
+    "source_en": "Y-You can understand what it's saying?",
+    "old_translation_vi": "Anh/chị hiểu được nó đang nói gì à?",
+    "new_translation_vi": "Anh/chị hiểu được nó đang nói gì à?"
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0027178",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0054.json",
+    "index": 496,
+    "source_en": "Aww. That's so sweet of you.",
+    "old_translation_vi": "Ôi. Anh/chị thật tốt bụng quá.",
+    "new_translation_vi": "Ôi. Anh/chị thật tốt bụng quá."
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0029033",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0058.json",
+    "index": 351,
+    "source_en": "Is there anything else you'd like to ask? I'll share with you all that I can remember.",
+    "old_translation_vi": "Anh/chị còn muốn hỏi gì không? Mình sẽ kể lại tất cả những gì mình nhớ được.",
+    "new_translation_vi": "Anh/chị còn muốn hỏi gì không? Mình sẽ kể lại tất cả những gì mình nhớ được."
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0031237",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0063.json",
+    "index": 55,
+    "source_en": "Is there anything else you want to know? I'll hold nothing back.",
+    "old_translation_vi": "Anh/chị còn muốn biết gì nữa không? Mình sẽ không giấu giếm gì đâu.",
+    "new_translation_vi": "Anh/chị còn muốn biết gì nữa không? Mình sẽ không giấu giếm gì đâu."
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0036570",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0073.json",
+    "index": 388,
+    "source_en": "Aww. You mean now?",
+    "old_translation_vi": "Ôi. Anh/chị muốn nói là ngay bây giờ á?",
+    "new_translation_vi": "Ôi. Anh/chị muốn nói là ngay bây giờ á?"
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0038585",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0077.json",
+    "index": 403,
+    "source_en": "Hello, {Male=mister;Female=miss}! Are you the Champion of the Great Agon?!",
+    "old_translation_vi": "Chào {Male=anh;Female=chị}! Anh/chị có phải là Nhà Vô Địch Đại Hội Agon không?!",
+    "new_translation_vi": "Chào {Male=anh;Female=chị}! Anh/chị có phải là Nhà Vô Địch Đại Hội Agon không?!"
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0039377",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0079.json",
+    "index": 195,
+    "source_en": "Hehe... Do you mean \"me\"? Or... \"us\"?",
+    "old_translation_vi": "Hehe... Anh/chị nói \"tôi\" à? Hay là... \"chúng ta\"?",
+    "new_translation_vi": "Hehe... Anh/chị nói \"tôi\" à? Hay là... \"chúng ta\"?"
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0040139",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0080.json",
+    "index": 457,
+    "source_en": "Hello, {PlayerName}! Haven't you heard? Lately, the Ragunnesi have started having \"nightmares.\" That's probably what he's referring to...",
+    "old_translation_vi": "Chào {PlayerName}! Anh/chị chưa nghe à? Gần đây, người Ragunnesi bắt đầu gặp \"ác mộng\". Có lẽ cậu ấy đang nói đến chuyện đó...",
+    "new_translation_vi": "Chào {PlayerName}! Anh/chị chưa nghe à? Gần đây, người Ragunnesi bắt đầu gặp \"ác mộng\". Có lẽ cậu ấy đang nói đến chuyện đó..."
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0051935",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0104.json",
+    "index": 253,
+    "source_en": "Y-you cut off such a big piece! Will the mother plant survive that?",
+    "old_translation_vi": "Anh/chị cắt cả một khúc to như thế! Mẹ cây có chịu nổi không?",
+    "new_translation_vi": "Anh/chị cắt cả một khúc to như thế! Mẹ cây có chịu nổi không?"
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0051937",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0104.json",
+    "index": 255,
+    "source_en": "Y-you cut off such a big piece! Will the mother plant survive that?",
+    "old_translation_vi": "Anh/chị cắt cả một khúc to như thế! Mẹ cây có chịu nổi không?",
+    "new_translation_vi": "Anh/chị cắt cả một khúc to như thế! Mẹ cây có chịu nổi không?"
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0052406",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0105.json",
+    "index": 224,
+    "source_en": "You're back, Passenger.",
+    "old_translation_vi": "Anh/chị quay lại rồi à, Hành khách.",
+    "new_translation_vi": "Anh/chị quay lại rồi à, Hành khách."
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0052473",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0105.json",
+    "index": 291,
+    "source_en": "Oh, thank you, Passenger! You've handled all the anomalies!",
+    "old_translation_vi": "Ôi, cảm ơn anh/chị, Hành Khách! Anh/chị đã xử lý hết những dị thường rồi!",
+    "new_translation_vi": "Ôi, cảm ơn cậu, Hành Khách! Anh/chị đã xử lý hết những dị thường rồi!"
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0058267",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0117.json",
+    "index": 85,
+    "source_en": "Oh, {PlayerName}! Are you alright? Is your soul still there? Are you alive?",
+    "old_translation_vi": "Ôi, {PlayerName}! Anh/chị không sao chứ? Linh hồn anh/chị còn đó không? Anh/chị còn sống chứ?",
+    "new_translation_vi": "Ôi, {PlayerName}! Anh/chị không sao chứ? Linh hồn cậu còn đó không? Anh/chị còn sống chứ?"
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0061665",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0123.json",
+    "index": 483,
+    "source_en": "Y-You sure about that? There's hardly any difference!",
+    "old_translation_vi": "Anh/chị chắc chứ? Chẳng khác gì mấy mà!",
+    "new_translation_vi": "Anh/chị chắc chứ? Chẳng khác gì mấy mà!"
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0064039",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0128.json",
+    "index": 357,
+    "source_en": "Y-you are... No, I know what this is. The Dark Side's a mirror. You're just my shadow.",
+    "old_translation_vi": "A-anh/chị là... Không, cháu biết đây là gì rồi. Mặt Tối chỉ là tấm gương. Anh/chị chỉ là cái bóng của cháu thôi.",
+    "new_translation_vi": "A-cậu là... Không, cháu biết đây là gì rồi. Mặt Tối chỉ là tấm gương. Anh/chị chỉ là cái bóng của cháu thôi."
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0070941",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0142.json",
+    "index": 259,
+    "source_en": "Y-You can pick any of my paintings, as an apology? Please choose one, I insist...",
+    "old_translation_vi": "Anh/chị cứ chọn bất kỳ bức tranh nào của tôi để làm lời xin lỗi nhé? Tôi nhất định muốn anh/chị chọn một bức...",
+    "new_translation_vi": "Anh/chị cứ chọn bất kỳ bức tranh nào của tôi để làm lời xin lỗi nhé? Tôi nhất định muốn cậu chọn một bức..."
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0072216",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0145.json",
+    "index": 34,
+    "source_en": "{Male=Brother;Female=Sister}. Oh, {Male=brother;Female=sister}... I'm so sorry... I let you down... I went looking for them, but...",
+    "old_translation_vi": "{Male=Anh;Female=Chị}... Ôi, anh/chị... xin lỗi... Anh/chị thất vọng vì em rồi... Em đã đi tìm họ, nhưng...",
+    "new_translation_vi": "{Male=Anh;Female=Chị}... Ôi, {Male=anh;Female=chị}... xin lỗi... Anh/chị thất vọng vì em rồi... Em đã đi tìm họ, nhưng..."
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0073929",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0148.json",
+    "index": 247,
+    "source_en": "Hi there, {Male=sir;Female=lady}! Are you here for sightseeing?",
+    "old_translation_vi": "Chào {Male=anh;Female=chị}! Anh/chị đến đây ngắm cảnh à?",
+    "new_translation_vi": "Chào {Male=anh;Female=chị}! Anh/chị đến đây ngắm cảnh à?"
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0075994",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0152.json",
+    "index": 312,
+    "source_en": "Good day, the line for customs is... Huh? What is it? Do you have something to report?",
+    "old_translation_vi": "Chào anh/chị, hàng đợi làm thủ tục hải quan... Ủa? Có chuyện gì thế? Anh/chị có gì muốn báo cáo không?",
+    "new_translation_vi": "Chào cậu, hàng đợi làm thủ tục hải quan... Ủa? Có chuyện gì thế? Anh/chị có gì muốn báo cáo không?"
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0076008",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0152.json",
+    "index": 326,
+    "source_en": "Good day, the line for customs entry is... Huh? What is it? Do you have something to report?",
+    "old_translation_vi": "Chào anh/chị, hàng đợi làm thủ tục hải quan... Ủa? Có chuyện gì thế? Anh/chị có gì muốn báo cáo không?",
+    "new_translation_vi": "Chào cậu, hàng đợi làm thủ tục hải quan... Ủa? Có chuyện gì thế? Anh/chị có gì muốn báo cáo không?"
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0082446",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0165.json",
+    "index": 264,
+    "source_en": "Eek! You startled me for a moment there... If it isn't the Night Champion, {PlayerName}?",
+    "old_translation_vi": "Ôi! Anh/chị làm tớ giật cả mình... Không phải Nhà Vô Địch Bóng Đêm, {PlayerName}, đó sao?",
+    "new_translation_vi": "Ôi! Anh/chị làm tớ giật cả mình... Không phải Nhà Vô Địch Bóng Đêm, {PlayerName}, đó sao?"
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0082499",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0165.json",
+    "index": 317,
+    "source_en": "Eek! You startled me for a moment there... If it isn't the Night Champion, {PlayerName}?",
+    "old_translation_vi": "Ôi! Anh/chị làm tớ giật cả mình... Không phải Nhà Vô Địch Bóng Đêm, {PlayerName}, đó sao?",
+    "new_translation_vi": "Ôi! Anh/chị làm tớ giật cả mình... Không phải Nhà Vô Địch Bóng Đêm, {PlayerName}, đó sao?"
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0082544",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0165.json",
+    "index": 362,
+    "source_en": "You're back, hero! With that monster gone, Jinzhou will be bustling again in no time!",
+    "old_translation_vi": "Anh/chị quay lại rồi, anh hùng! Con quái vật đã biến mất, Jinzhou sẽ lại nhộn nhịp ngay thôi!",
+    "new_translation_vi": "Anh/chị quay lại rồi, anh hùng! Con quái vật đã biến mất, Jinzhou sẽ lại nhộn nhịp ngay thôi!"
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0082654",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0165.json",
+    "index": 472,
+    "source_en": "{Male=Big Brother;Female=Big Sister}! You look... so cool! Can you tell me how you grew up to be so awesome?!",
+    "old_translation_vi": "{Male=Anh;Female=Chị} ơi! Trông... anh/chị ngầu quá! Anh/chị có thể kể cho em nghe bí quyết trở nên tuyệt vời như vậy không?!",
+    "new_translation_vi": "{Male=Anh;Female=Chị} ơi! Trông... {Male=anh;Female=chị} ngầu quá! Anh/chị có thể kể cho em nghe bí quyết trở nên tuyệt vời như vậy không?!"
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0084361",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0169.json",
+    "index": 179,
+    "source_en": "Oh, really? Do you mind taking a look at it? It should be the one connecting my \"feet.\"",
+    "old_translation_vi": "Ồ, thật sao? Anh/chị có thể xem giúp em không? Chắc là cái nối với \"chân\" của em đấy.",
+    "new_translation_vi": "Ồ, thật sao? Anh/chị có thể xem giúp em không? Chắc là cái nối với \"chân\" của em đấy."
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0087057",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0174.json",
+    "index": 375,
+    "source_en": "Y-you can't... wait?",
+    "old_translation_vi": "Anh/chị không thể... đợi được sao?",
+    "new_translation_vi": "Anh/chị không thể... đợi được sao?"
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0087759",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0176.json",
+    "index": 77,
+    "source_en": "Excuse me, you are {PlayerName}, right? You just said that Mi'zhi went into the pit?",
+    "old_translation_vi": "Xin lỗi, anh/chị là {PlayerName} phải không? Anh/chị vừa nói Mi'zhi đi vào hố sao?",
+    "new_translation_vi": "Xin lỗi, cậu là {PlayerName} phải không? Anh/chị vừa nói Mi'zhi đi vào hố sao?"
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0092792",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0186.json",
+    "index": 110,
+    "source_en": "Y-you flatter me... Thank you...",
+    "old_translation_vi": "Anh/chị quá khen rồi... Cảm ơn anh/chị...",
+    "new_translation_vi": "Anh/chị quá khen rồi... Cảm ơn cậu..."
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0094747",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0190.json",
+    "index": 65,
+    "source_en": "Thanks, {PlayerName}! You were a huge help!",
+    "old_translation_vi": "Cảm ơn, {PlayerName}! Anh/chị đã giúp bọn tôi rất nhiều!",
+    "new_translation_vi": "Cảm ơn, {PlayerName}! Anh/chị đã giúp bọn tôi rất nhiều!"
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0100895",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0202.json",
+    "index": 213,
+    "source_en": "Eek! You're a person!",
+    "old_translation_vi": "Ôi! Anh/chị là người thật à!",
+    "new_translation_vi": "Ôi! Anh/chị là người thật à!"
+  },
+  {
+    "split_id": "STORY_DIALOGUE_0113673",
+    "file": "story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0227.json",
+    "index": 491,
+    "source_en": "Anything you might need?",
+    "old_translation_vi": "Anh/chị cần gì không?",
+    "new_translation_vi": "Anh/chị cần gì không?"
+  },
+  {
+    "split_id": "UI_0008187",
+    "file": "ui\\lang_multi_text\\lang_multi_text__ui__part_0015.json",
+    "index": 96,
+    "source_en": "You must accept these as your reward. Keep my camera as well.",
+    "old_translation_vi": "Anh/chị phải nhận những thứ này làm phần thưởng. Giữ luôn máy ảnh của tôi nhé.",
+    "new_translation_vi": "Anh/chị phải nhận những thứ này làm phần thưởng. Giữ luôn máy ảnh của tôi nhé."
+  }
+]

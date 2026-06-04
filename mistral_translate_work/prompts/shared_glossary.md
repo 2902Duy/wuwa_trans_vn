@@ -21,7 +21,35 @@ Bắt buộc giữ nguyên chính xác các thuật ngữ sau trong mỗi bản 
 - `STA` (Stamina)
 - `Cooldown`
 
-### 2. Các đòn tấn công & Kỹ năng
+### 2. Waveplate, tài nguyên và tiền tệ trong game
+Bắt buộc giữ nguyên tiếng Anh các tên tài nguyên, tiền tệ, vé quay, vật phẩm shop và đơn vị thanh toán trong game. Không dịch sang các dạng như "Đĩa Sóng", "Pha Lê", "Xu", "Tín Dụng", "San Hô", "Vé", trừ khi source gốc đã viết bằng tiếng Việt.
+
+- `Waveplate`
+- `Waveplate Crystal`
+- `Astrite`
+- `Lunite`
+- `Lunite Subscription`
+- `Lustrous Tide`
+- `Radiant Tide`
+- `Forging Tide`
+- `Tide`
+- `Shell Credit`
+- `Oscillated Coral`
+- `Afterglow Coral`
+- `Hazard Record`
+- `Hazard Record Token`
+- `Voucher`
+- `Supply Chest`
+- `Premium Supply Chest`
+- `Crystal Solvent`
+- `Waveband`
+
+Ví dụ đúng:
+- `Consumes 60 Waveplate` -> `Tiêu hao 60 Waveplate`
+- `Use Astrite to purchase Lustrous Tide` -> `Dùng Astrite để mua Lustrous Tide`
+- `Obtain Shell Credit` -> `Nhận Shell Credit`
+
+### 3. Các đòn tấn công & Kỹ năng
 - `Resonance Skill`
 - `Resonance Liberation`
 - `Basic Attack`
@@ -33,7 +61,7 @@ Bắt buộc giữ nguyên chính xác các thuật ngữ sau trong mỗi bản 
 - `Outro Skill`
 - `Inherent Skill`
 
-### 3. Chỉ số nhân vật & Loại sát thương (Stats & DMG Types)
+### 4. Chỉ số nhân vật & Loại sát thương (Stats & DMG Types)
 - `HP`, `ATK`, `DEF`
 - `Crit. Rate`, `Crit. DMG`
 - `DMG`, `DMG Bonus`
@@ -44,10 +72,10 @@ Bắt buộc giữ nguyên chính xác các thuật ngữ sau trong mỗi bản 
 - `Spectro DMG` (Sát thương Quang)
 - `Havoc DMG` (Sát thương Tối)
 
-### 4. Tên Quái vật, Boss và Echo (Monster, Boss & Echo Names)
+### 5. Tên Quái vật, Boss và Echo (Monster, Boss & Echo Names)
 - Bắt buộc giữ nguyên bằng tiếng Anh tên của tất cả các Tacet Discords, Boss tuần, Quái vật và tên của Echo (ví dụ: `Crownless`, `Bell-Borne Geochelone`, `Seatrail Narwhal`, `Inferno Rider`, `Hoochief`, `Feilian Beringal`, `Spearback Ursa`, `Chirpuff`, `Glacio Prism`, `Impermanence Heron`, `Mourning Aix`, v.v.).
 
-### 5. Hiệu ứng xấu / Debuff / Status Effects
+### 6. Hiệu ứng xấu / Debuff / Status Effects
 
 Bắt buộc giữ nguyên tiếng Anh tất cả tên hiệu ứng xấu, debuff, trạng thái bất lợi và trạng thái nguyên tố nếu source dùng tiếng Anh. Không dịch các cụm này sang tiếng Việt trong bất kỳ mô tả kỹ năng, Echo, Sonata/Echo Set, vũ khí, quest hay hội thoại nào.
 
@@ -99,6 +127,14 @@ Tuyệt đối không được dịch các từ khóa trên sang tiếng Việt.
 | **Basic Attack** | Tấn Công Thường, Tấn Công Cơ Bản | **Basic Attack** |
 | **Heavy Attack** | Trọng Kích, Tấn Công Nặng | **Heavy Attack** |
 | **Cooldown** | Hồi Chiêu, Thời gian hồi | **Cooldown** |
+| **Waveplate** | Đĩa Sóng, Sóng Đĩa, Tấm Sóng | **Waveplate** |
+| **Astrite** | Pha Lê, Tinh Thạch | **Astrite** |
+| **Lustrous Tide** | Thủy Triều Lấp Lánh, Vé Quay | **Lustrous Tide** |
+| **Radiant Tide** | Thủy Triều Rực Rỡ, Vé Quay | **Radiant Tide** |
+| **Forging Tide** | Thủy Triều Rèn Đúc, Vé Quay | **Forging Tide** |
+| **Shell Credit** | Tín Dụng Vỏ, Xu, Tiền | **Shell Credit** |
+| **Oscillated Coral** | San Hô Dao Động | **Oscillated Coral** |
+| **Afterglow Coral** | San Hô Dư Quang | **Afterglow Coral** |
 | **DMG** | Sát thương (khi đi chung cụm chỉ số) | **DMG** (Ví dụ: `Aero DMG`, `Crit. DMG`) |
 | **Spectro Frazzle** | Nhiễu Loạn Quang Phổ | **Spectro Frazzle** |
 | **Aero Erosion** | Xói Mòn Gió | **Aero Erosion** |

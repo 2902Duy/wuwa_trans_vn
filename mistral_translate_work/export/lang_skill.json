@@ -1,0 +1,32 @@
+[
+  {
+    "database": "lang_skill.db",
+    "table": "Skill",
+    "primary_key_column": "Id",
+    "primary_key": "13",
+    "column": "Content",
+    "source_en": "Of Wind and Feathers",
+    "source_hash": "699fe3def02b2f056a471c8c10d52b0e6288531b",
+    "category": "item"
+  },
+  {
+    "database": "lang_skill.db",
+    "table": "Skill",
+    "primary_key_column": "Id",
+    "primary_key": "183",
+    "column": "Content",
+    "source_en": "Triumph",
+    "source_hash": "1f04a67e44cfe83a6af08e6aed48e71ba925ee62",
+    "category": "item"
+  },
+  {
+    "database": "lang_skill.db",
+    "table": "SkillType",
+    "primary_key_column": "Id",
+    "primary_key": "3",
+    "column": "Content",
+    "source_en": "Resonance Liberation",
+    "source_hash": "a0c893cf14cb2783295e40c4b919253fa04e18cc",
+    "category": "item"
+  }
+]

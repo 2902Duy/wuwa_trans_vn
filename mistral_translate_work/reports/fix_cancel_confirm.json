@@ -1,0 +1,996 @@
+{
+  "changes": [
+    {
+      "kind": "json",
+      "file": "system_text/lang_hot_patch/lang_hot_patch__system_text__part_0001.json",
+      "index": 18,
+      "split_id": "SYSTEM_TEXT_0000156",
+      "primary_key": "HotFixCancel",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "json",
+      "file": "system_text/lang_hot_patch/lang_hot_patch__system_text__part_0001.json",
+      "index": 93,
+      "split_id": "SYSTEM_TEXT_0000231",
+      "primary_key": "NetworkDetection_Cancel",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "json",
+      "file": "system_text/lang_hot_patch/lang_hot_patch__system_text__part_0001.json",
+      "index": 113,
+      "split_id": "SYSTEM_TEXT_0000251",
+      "primary_key": "Download_DownLoadBtnCancel",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "json",
+      "file": "name_title/lang_multi_text/lang_multi_text__name_title__part_0024.json",
+      "index": 496,
+      "split_id": "NAME_TITLE_0013439",
+      "primary_key": "PhantomFilterButtonText_Cancel",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "json",
+      "file": "name_title/lang_multi_text/lang_multi_text__name_title__part_0031.json",
+      "index": 177,
+      "split_id": "NAME_TITLE_0016620",
+      "primary_key": "HonamiStory_EvacuationWindow_19",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "json",
+      "file": "name_title/lang_multi_text/lang_multi_text__name_title__part_0033.json",
+      "index": 267,
+      "split_id": "NAME_TITLE_0017710",
+      "primary_key": "NetworkDetection_Cancel",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "json",
+      "file": "name_title/lang_multi_text/lang_multi_text__name_title__part_0035.json",
+      "index": 50,
+      "split_id": "NAME_TITLE_0018493",
+      "primary_key": "HotKeyText_CancelTips_Name",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "json",
+      "file": "name_title/lang_multi_text/lang_multi_text__name_title__part_0036.json",
+      "index": 442,
+      "split_id": "NAME_TITLE_0019385",
+      "primary_key": "RoguelikeView_26_Text",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "db",
+      "db": "lang_confirmbox.db",
+      "table": "ConfirmBox",
+      "id": 175,
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_hot_patch.db",
+      "table": "HotPatchText",
+      "id": "HotFixCancel",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "db",
+      "db": "lang_hot_patch.db",
+      "table": "HotPatchText",
+      "id": "ConfirmText",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_hot_patch.db",
+      "table": "HotPatchText",
+      "id": "NetworkDetection_Cancel",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "db",
+      "db": "lang_hot_patch.db",
+      "table": "HotPatchText",
+      "id": "Download_DownLoadBtnCancel",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "db",
+      "db": "lang_mail.db",
+      "table": "MailCommonText",
+      "id": 29,
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_2623504191_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_2983204102_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_1234291298_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_2593214736_Text",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_3562185494_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_3871800609_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_31093647_Text",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_4178497573_Text",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_631398235_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_2920217341_Text",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_1393190779_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_1826951685_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_ItemRecycleCancel_Text",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_ItemRecycleConfirm_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_564015963_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_Moonfiesta_EventAccept_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_Moonfiesta_EventDeny_Text",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_818475252_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_2947667588_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_3097372144_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_BirthdayConfirm_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_1498344606_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_FixedPointUpgradeCancel_Text",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_FixedPointUpgradeConfirm_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_1122656309_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_186991820_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_2900508474_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_954306293_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_784122630_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_391712635_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_1155443045_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_1175821366_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_1779987769_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_136833177_Text",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_1904707074_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_1677987612_Text",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_83411926_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_1059672096_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_4149990340_Text",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_2235702143_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_3036831861_Text",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_2023639827_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_151356605_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_2909384006_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_2276181466_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_1608139921_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_2691995526_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_1148885471_Text",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_1550859885_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_957855541_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_2113832936_Text",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_3631727527_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_2577820954_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_1418254434_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_2721159595_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_1753128833_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_4127530431_Text",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_2717966581_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_1494476809_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_4025551842_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_2463751744_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_399862536_Text",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_4251281759_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_4097738228_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_4017798589_Text",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_650006668_Text",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_3913081083_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_2105804973_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_1564621556_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_4123833715_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_1487031320_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_962087725_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_2729482619_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_1999955901_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_803259220_Text",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_2583894276_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_1563288743_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_359865884_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_4236007874_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_1651007054_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_3994464414_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_669378462_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_3214925972_Text",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_1817582559_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_1043705350_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PhantomFilterButtonText_Confirm",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PhantomFilterButtonText_Cancel",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_3313292531_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_3259799387_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_2894138936_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_3520514089_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_1488383547_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_2937393995_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_528194593_Text",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_1001049211_Text",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_3055989026_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "HonamiStory_EvacuationWindow_19",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "HonamiStory_EvacuationWindow_20",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "Ichiban_Kuji_confirm",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "JijianTask_CompleteButton",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "NetworkDetection_Cancel",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "HotKeyText_CancelTips_Name",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "HotKeyText_ConfirmTips_Name",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "RoguelikeView_13_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "RoguelikeView_26_Text",
+      "before": "Cancel",
+      "after": "Hủy"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_973177868_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_783248284_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "PrefabTextItem_3974986300_Text",
+      "before": "Confirm",
+      "after": "Xác nhận"
+    },
+    {
+      "kind": "db",
+      "db": "lang_UiHotKot.db",
+      "table": "HotKeyText",
+      "id": 1,
+      "before": "Confirm",
+      "after": "Xác nhận"
+    }
+  ]
+}

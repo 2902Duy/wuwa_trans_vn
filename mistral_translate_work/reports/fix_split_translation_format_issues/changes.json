@@ -1,0 +1,254 @@
+[
+  {
+    "file": "ui/lang_multi_text/lang_multi_text__ui__part_0013.json",
+    "index": 157,
+    "split_id": "UI_0007248",
+    "domain": "ui",
+    "reasons": [
+      "mixed_english_verb"
+    ],
+    "before": "SOL3 Phase Ascension",
+    "after": "SOL3 Thăng Tiến Pha",
+    "source_en": "SOL3 Phase Ascension"
+  },
+  {
+    "file": "story_dialogue/lang_multi_text/lang_multi_text__story_dialogue__part_0206.json",
+    "index": 308,
+    "split_id": "STORY_DIALOGUE_0102990",
+    "domain": "story_dialogue",
+    "reasons": [
+      "mixed_english_verb"
+    ],
+    "before": "Khi đạt đến một số cấp Liên Minh nhất định, bạn cần hoàn thành <color=#ffd12f>SOL3 Phase Ascension Quests</color> để dỡ bỏ <color=#ffd12f>Cấp Liên Minh cap</color>.",
+    "after": "Khi đạt đến một số cấp Liên Minh nhất định, bạn cần hoàn thành <color=#ffd12f>SOL3 Thăng Tiến Pha Quests</color> để dỡ bỏ <color=#ffd12f>Cấp Liên Minh cap</color>.",
+    "source_en": "Upon reaching certain Union Levels, you need to complete <color=#ffd12f>SOL3 Phase Ascension Quests</color> to lift the <color=#ffd12f>Union Level cap</color>."
+  },
+  {
+    "file": "skill_description/lang_multi_text/lang_multi_text__skill_description__part_0030.json",
+    "index": 498,
+    "split_id": "SKILL_DESCRIPTION_0015149",
+    "domain": "skill_description",
+    "reasons": [
+      "mixed_english_verb"
+    ],
+    "before": "Mỗi <color=HighlightB>10 Cấp Liên Minh</color> sẽ tăng <color=HighlightB>SOL3 Phase</color> của bạn lên 1.\n  \nSOL3 Phase càng cao mang lại phần thưởng tốt hơn, nhưng cũng đối mặt với kẻ địch khó khăn hơn.\n \nỞ Cấp Liên Minh <color=HighlightB>20, 40 và 60</color>, bạn phải hoàn thành <color=HighlightB>Nhiệm Vụ Phase Ascension SOL3</color> để tiếp tục tăng Cấp Liên Minh và/hoặc SOL3 Phase.\n \nBạn có thể hạ thấp hoặc tăng lại SOL3 Phase <color=HighlightB>mỗi 12 giờ</color>.",
+    "after": "Mỗi <color=HighlightB>10 Cấp Liên Minh</color> sẽ tăng <color=HighlightB>SOL3 Phase</color> của bạn lên 1.\n  \nSOL3 Phase càng cao mang lại phần thưởng tốt hơn, nhưng cũng đối mặt với kẻ địch khó khăn hơn.\n \nỞ Cấp Liên Minh <color=HighlightB>20, 40 và 60</color>, bạn phải hoàn thành <color=HighlightB>Nhiệm Vụ Thăng Tiến Pha SOL3</color> để tiếp tục tăng Cấp Liên Minh và/hoặc SOL3 Phase.\n \nBạn có thể hạ thấp hoặc tăng lại SOL3 Phase <color=HighlightB>mỗi 12 giờ</color>.",
+    "source_en": "<color=HighlightB>Every 10 Union Levels raises your SOL3 Phase by 1.</color>\n  \nHigher SOL3 Phases yield better rewards but also present more challenging enemies.\n \nAt Union Level <color=HighlightB>20, 40, and 60</color>, you must complete <color=HighlightB>SOL3 Phase Ascension Quests</color> in order to keep increasing your Union Level and/or SOL3 Phase.\n \nYou can lower your SOL3 Phase or raise it back up again <color=HighlightB>every 12 hours.</color>"
+  },
+  {
+    "file": "skill_description/lang_multi_text/lang_multi_text__skill_description__part_0031.json",
+    "index": 2,
+    "split_id": "SKILL_DESCRIPTION_0015153",
+    "domain": "skill_description",
+    "reasons": [
+      "mixed_english_verb"
+    ],
+    "before": "Pha SOL3 được nâng lên thông qua Cấp Liên Minh. <color=HighlightB>Every 10 Union Levels raises SOL3 Phase by 1.</color>\n\nKhi đạt đến Cấp Liên Minh <color=HighlightB>20, 40, and 60</color>, hãy hoàn thành nhiệm vụ <color=HighlightB>Phase Ascension</color> tương ứng để tiếp tục tăng Cấp Liên Minh.\n\nNếu chưa hoàn thành nhiệm vụ Thăng Tiến Pha tương ứng, Pha SOL3 sẽ không thể nâng lên khi Cấp Liên Minh đạt đến giới hạn.\n\nTruy cập mục Nhiệm Vụ để hoàn thành nhiệm vụ Thăng Tiến Pha, từ đó nâng giới hạn Cấp Liên Minh.",
+    "after": "Pha SOL3 được nâng lên thông qua Cấp Liên Minh. <color=HighlightB>Mỗi 10 Cấp Liên Minh tăng Pha SOL3 lên 1.</color>\n\nKhi đạt đến Cấp Liên Minh <color=HighlightB>20, 40 và 60</color>, hãy hoàn thành nhiệm vụ <color=HighlightB>Thăng Tiến Pha</color> tương ứng để tiếp tục tăng Cấp Liên Minh.\n\nNếu chưa hoàn thành nhiệm vụ Thăng Tiến Pha tương ứng, Pha SOL3 sẽ không thể nâng lên khi Cấp Liên Minh đạt đến giới hạn.\n\nTruy cập mục Nhiệm Vụ để hoàn thành nhiệm vụ Thăng Tiến Pha, từ đó nâng giới hạn Cấp Liên Minh.",
+    "source_en": "SOL3 Phase is raised through Union Level. <color=HighlightB>Every 10 Union Levels raises SOL3 Phase by 1.</color>\n\nOnce you've reached Union Levels <color=HighlightB>20, 40, and 60</color>, complete the corresponding <color=HighlightB>Phase Ascension</color> quests to further increase your Union Level.\n\nIf you haven't completed the corresponding Phase Ascension quest, SOL3 Phase cannot be raised when your Union Level reaches the cap.\n\nProceed to the Quests menu to complete the Phase Ascension quest, raising the Union Level cap."
+  },
+  {
+    "file": "quest/lang_multi_text/lang_multi_text__quest__part_0009.json",
+    "index": 306,
+    "split_id": "QUEST_0004307",
+    "domain": "quest",
+    "reasons": [
+      "mixed_english_verb"
+    ],
+    "before": "Rời \"Phase Ascension\"",
+    "after": "Rời \"Thăng Tiến Pha\"",
+    "source_en": "Leave \"Phase Ascension\""
+  },
+  {
+    "file": "name_title/lang_multi_text/lang_multi_text__name_title__part_0009.json",
+    "index": 135,
+    "split_id": "NAME_TITLE_0005578",
+    "domain": "name_title",
+    "reasons": [
+      "mixed_english_verb"
+    ],
+    "before": "Supportive Pilgrim",
+    "after": "Lữ Khách Hỗ Trợ",
+    "source_en": "Supportive Pilgrim"
+  },
+  {
+    "file": "name_title/lang_multi_text/lang_multi_text__name_title__part_0011.json",
+    "index": 424,
+    "split_id": "NAME_TITLE_0006867",
+    "domain": "name_title",
+    "reasons": [
+      "mixed_english_verb"
+    ],
+    "before": "Indignant Supporter",
+    "after": "Người Ủng Hộ Phẫn Nộ",
+    "source_en": "Indignant Supporter"
+  },
+  {
+    "file": "name_title/lang_multi_text/lang_multi_text__name_title__part_0037.json",
+    "index": 375,
+    "split_id": "NAME_TITLE_0019818",
+    "domain": "name_title",
+    "reasons": [
+      "mixed_english_verb"
+    ],
+    "before": "SOL3 Phase Ascension available",
+    "after": "SOL3 Thăng Tiến Pha available",
+    "source_en": "SOL3 Phase Ascension available"
+  },
+  {
+    "file": "name_title/lang_multi_text/lang_multi_text__name_title__part_0040.json",
+    "index": 96,
+    "split_id": "NAME_TITLE_0021039",
+    "domain": "name_title",
+    "reasons": [
+      "mixed_english_verb"
+    ],
+    "before": "Phase Ascension",
+    "after": "Thăng Tiến Pha",
+    "source_en": "Phase Ascension"
+  },
+  {
+    "file": "name_title/lang_multi_text/lang_multi_text__name_title__part_0042.json",
+    "index": 438,
+    "split_id": "NAME_TITLE_0022381",
+    "domain": "name_title",
+    "reasons": [
+      "mixed_english_verb"
+    ],
+    "before": "No Supported Cube",
+    "after": "Không Có Cube Được Hỗ Trợ",
+    "source_en": "No Supported Cube"
+  },
+  {
+    "file": "name_title/lang_multi_text/lang_multi_text__name_title__part_0042.json",
+    "index": 474,
+    "split_id": "NAME_TITLE_0022417",
+    "domain": "name_title",
+    "reasons": [
+      "mixed_english_verb"
+    ],
+    "before": "No Supported Cube",
+    "after": "Không Có Cube Được Hỗ Trợ",
+    "source_en": "No Supported Cube"
+  },
+  {
+    "file": "name_title/lang_multi_text/lang_multi_text__name_title__part_0042.json",
+    "index": 485,
+    "split_id": "NAME_TITLE_0022428",
+    "domain": "name_title",
+    "reasons": [
+      "mixed_english_verb"
+    ],
+    "before": "Supported",
+    "after": "Được Hỗ Trợ",
+    "source_en": "Supported"
+  },
+  {
+    "file": "name_title/lang_multi_text/lang_multi_text__name_title__part_0042.json",
+    "index": 491,
+    "split_id": "NAME_TITLE_0022434",
+    "domain": "name_title",
+    "reasons": [
+      "mixed_english_verb"
+    ],
+    "before": "Supporting",
+    "after": "Đang Hỗ Trợ",
+    "source_en": "Supporting"
+  },
+  {
+    "file": "name_title/lang_multi_text/lang_multi_text__name_title__part_0042.json",
+    "index": 496,
+    "split_id": "NAME_TITLE_0022439",
+    "domain": "name_title",
+    "reasons": [
+      "mixed_english_verb"
+    ],
+    "before": "Supported",
+    "after": "Được Hỗ Trợ",
+    "source_en": "Supported"
+  },
+  {
+    "file": "name_title/lang_multi_text/lang_multi_text__name_title__part_0043.json",
+    "index": 0,
+    "split_id": "NAME_TITLE_0022443",
+    "domain": "name_title",
+    "reasons": [
+      "mixed_english_verb"
+    ],
+    "before": "Cube Supported",
+    "after": "Cube Được Hỗ Trợ",
+    "source_en": "Cube Supported"
+  },
+  {
+    "file": "name_title/lang_multi_text/lang_multi_text__name_title__part_0050.json",
+    "index": 99,
+    "split_id": "NAME_TITLE_0026042",
+    "domain": "name_title",
+    "reasons": [
+      "mixed_english_verb"
+    ],
+    "before": "Challenge: Phase Ascension I",
+    "after": "Challenge: Thăng Tiến Pha I",
+    "source_en": "Challenge: Phase Ascension I"
+  },
+  {
+    "file": "name_title/lang_multi_text/lang_multi_text__name_title__part_0051.json",
+    "index": 137,
+    "split_id": "NAME_TITLE_0026580",
+    "domain": "name_title",
+    "reasons": [
+      "mixed_english_verb"
+    ],
+    "before": "Supportive Pilgrim",
+    "after": "Lữ Khách Hỗ Trợ",
+    "source_en": "Supportive Pilgrim"
+  },
+  {
+    "file": "name_title/lang_multi_text/lang_multi_text__name_title__part_0056.json",
+    "index": 346,
+    "split_id": "NAME_TITLE_0029289",
+    "domain": "name_title",
+    "reasons": [
+      "mixed_english_verb"
+    ],
+    "before": "Rời \"Phase Ascension\"",
+    "after": "Rời \"Thăng Tiến Pha\"",
+    "source_en": "Leave \"Phase Ascension\""
+  },
+  {
+    "file": "name_title/lang_multi_text/lang_multi_text__name_title__part_0061.json",
+    "index": 22,
+    "split_id": "NAME_TITLE_0031465",
+    "domain": "name_title",
+    "reasons": [
+      "mixed_english_verb"
+    ],
+    "before": "SOL3 Phase Ascension: I",
+    "after": "SOL3 Thăng Tiến Pha: I",
+    "source_en": "SOL3 Phase Ascension: I"
+  },
+  {
+    "file": "name_title/lang_multi_text/lang_multi_text__name_title__part_0061.json",
+    "index": 63,
+    "split_id": "NAME_TITLE_0031506",
+    "domain": "name_title",
+    "reasons": [
+      "mixed_english_verb"
+    ],
+    "before": "SOL3 Phase Ascension: II",
+    "after": "SOL3 Thăng Tiến Pha: II",
+    "source_en": "SOL3 Phase Ascension: II"
+  },
+  {
+    "file": "name_title/lang_multi_text/lang_multi_text__name_title__part_0064.json",
+    "index": 484,
+    "split_id": "NAME_TITLE_0033427",
+    "domain": "name_title",
+    "reasons": [
+      "mixed_english_verb"
+    ],
+    "before": "Supporting Cube",
+    "after": "Cube Hỗ Trợ",
+    "source_en": "Supporting Cube"
+  }
+]

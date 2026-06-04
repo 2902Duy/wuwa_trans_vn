@@ -1,0 +1,74 @@
+{
+  "db_changes": [
+    {
+      "Id": "LevelPlay_312800006_GeneralFloatingTipMainText_312_2",
+      "old": "Cút ngay khỏi đây!",
+      "new": "R?i kh?i ??y ngay!"
+    },
+    {
+      "Id": "Chengxiaoshan_main_1_1_410_14",
+      "old": "Cút ngay đi. Không thể để một người nào đó phải chờ quá lâu sau song sắt.",
+      "new": "R?i ?i ngay. Kh?ng th? ?? m?t ng??i n?o ?? ph?i ch? qu? l?u sau song s?t."
+    },
+    {
+      "Id": "Character_ChangLi_48_5",
+      "old": "Đây là lãnh địa của chúng tao. Biết điều thì cút ngay đi...",
+      "new": "??y l? l?nh ??a c?a ch?ng tao. Bi?t ?i?u th? r?i ?i ngay..."
+    },
+    {
+      "Id": "Shixifeidu_main_2_8_29_3",
+      "old": "Cút… ra—!",
+      "new": "?i? ra?!"
+    },
+    {
+      "Id": "Shixifeidu_main_2_8_29_7",
+      "old": "Cút ra—",
+      "new": "?i ra?"
+    },
+    {
+      "Id": "Shixifeidu_main_2_8_29_8",
+      "old": "CÚT RA NGAY—!!",
+      "new": "?I RA NGAY?!!"
+    },
+    {
+      "Id": "Main_LahaiRoi_YXBLDHJ_155_2",
+      "old": "Cút ngay!",
+      "new": "R?i ?i ngay!"
+    },
+    {
+      "Id": "Main_LahaiRoi_YXBLDHJ_20_2",
+      "old": "Cút ngay... lập tức!",
+      "new": "R?i ?i ngay... l?p t?c!"
+    },
+    {
+      "Id": "HD_XK_33_13",
+      "old": "Hừm. Đồ ngốc nghếch. Cút xuống biển với cái \"Sự Cộng Hưởng\" mà mi tin tưởng đến thế đi.",
+      "new": "H?m. ?? ng?c ngh?ch. Ra bi?n v?i c?i \"S? C?ng H??ng\" m? mi tin t??ng ??n th? ?i."
+    },
+    {
+      "Id": "XDQY_9_12",
+      "old": "Cút… ra—!",
+      "new": "?i? ra?!"
+    },
+    {
+      "Id": "FavorWord_110427_Content",
+      "old": "Lời chào mở đầu—tà ma quỷ quái cút hết đi, mọi người an toàn vô sự!",
+      "new": "L?i ch?o m? ??u?t? ma qu? qu?i lui h?t ?i, m?i ng??i an to?n v? s?!"
+    }
+  ],
+  "json_files": [
+    "mistral_translate_work\\review\\lang_multi_text.json",
+    "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+    "mistral_translate_work\\split_by_prompt\\json\\story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0001.json",
+    "mistral_translate_work\\split_by_prompt\\json\\story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0014.json",
+    "mistral_translate_work\\split_by_prompt\\json\\story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0019.json",
+    "mistral_translate_work\\split_by_prompt\\json\\story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0036.json",
+    "mistral_translate_work\\split_by_prompt\\json\\story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0127.json",
+    "mistral_translate_work\\split_by_prompt\\json\\story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0170.json",
+    "mistral_translate_work\\split_by_prompt\\json\\story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0217.json"
+  ],
+  "csv_files": [
+    "mistral_translate_work\\review\\lang_multi_text.csv",
+    "mistral_translate_work\\review_translated_only\\lang_multi_text.csv"
+  ]
+}

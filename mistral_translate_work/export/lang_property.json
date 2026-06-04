@@ -1,0 +1,1812 @@
+[
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "1",
+    "column": "Content",
+    "source_en": "Level",
+    "source_hash": "7c7f5d049fad2569721d446c4a811f9bd5da5393",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "2",
+    "column": "Content",
+    "source_en": "A Level",
+    "source_hash": "70cef00af89815f81c5dadab7dd020b6263d43bc",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "3",
+    "column": "Content",
+    "source_en": "HP",
+    "source_hash": "5200bdfc01a139a753c6eb52ee1911cadd069dd9",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "4",
+    "column": "Content",
+    "source_en": "HP",
+    "source_hash": "5200bdfc01a139a753c6eb52ee1911cadd069dd9",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "5",
+    "column": "Content",
+    "source_en": "Shield",
+    "source_hash": "08271419319f98d1144196d2816fcc188a1c452d",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "6",
+    "column": "Content",
+    "source_en": "DEF Down Multiplier",
+    "source_hash": "510c5612de8c57484632f7db2b54e00e7665b04f",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "7",
+    "column": "Content",
+    "source_en": "Passive DEF Down Multiplier",
+    "source_hash": "7ca550b74a7e38fc423fb4724b96103333521914",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "8",
+    "column": "Content",
+    "source_en": "Attack",
+    "source_hash": "1b81f28b5afbfcaaf5253d26b7dba4028a92a860",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "9",
+    "column": "Content",
+    "source_en": "Crit. Rate",
+    "source_hash": "5aa0effd0eff652a541cd97a3e400562cf0f339b",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "10",
+    "column": "Content",
+    "source_en": "The chance of triggering a critical hit when dealing damage.",
+    "source_hash": "89856b01027888ddfee0735a28dee2bfcec852c6",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "11",
+    "column": "Content",
+    "source_en": "Critical DMG",
+    "source_hash": "fe79b23bbe22fef2feb75500ce46195817777cf3",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "12",
+    "column": "Content",
+    "source_en": "The DMG Multiplier when dealing a critical hit.",
+    "source_hash": "54ad184b9fa41fc1de70e0607da2562cd13aa5cd",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "13",
+    "column": "Content",
+    "source_en": "Defense",
+    "source_hash": "3c284a10d01077d2142596670d9bebaa5a1568ef",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "14",
+    "column": "Content",
+    "source_en": "Resonance Efficiency",
+    "source_hash": "a7c27fd424386b136087d764f3565c5d851e05d4",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "15",
+    "column": "Content",
+    "source_en": "Increases the amount of resonance liberation energy gained per use of Punch, Resonance Skill, Combat Ability, and Resonance Energy.",
+    "source_hash": "bc4d1c54a13324ad419a4f428e24dfca5231ea1a",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "16",
+    "column": "Content",
+    "source_en": "Cooldown Reduction",
+    "source_hash": "f15d1e7fda223d1f93a201c8024f40e2144c91a4",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "17",
+    "column": "Content",
+    "source_en": "Concerto Sublimation",
+    "source_hash": "f62d61925a56665c33e9bbecf712042602010a4d",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "18",
+    "column": "Content",
+    "source_en": "Boosts the effect of resonant energy.",
+    "source_hash": "67a8625b8a358bd6e3855724c77fbbaa5c86815c",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "19",
+    "column": "Content",
+    "source_en": "Resonance skill damage bonus",
+    "source_hash": "687519bd6d79d9a70fa655f8a08054bd7df17de5",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "20",
+    "column": "Content",
+    "source_en": "General DMG bonus",
+    "source_hash": "2197f39a097bd84b37fa6248ce228aae85f44e67",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "21",
+    "column": "Content",
+    "source_en": "General Injury Reduction",
+    "source_hash": "c28d156e1f68a4a1f6f3820c4da535ce81b0a1f5",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "22",
+    "column": "Content",
+    "source_en": "Normal Attack bonus",
+    "source_hash": "b7898d748f202d80a3ae8815e8e96af98a4c07f9",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "23",
+    "column": "Content",
+    "source_en": "Charged Attack bonus",
+    "source_hash": "af4adf686a5fa3a806968b2b932076df6e5f1876",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "24",
+    "column": "Content",
+    "source_en": "Resonance liberation DMG bonus",
+    "source_hash": "5f445490f83bcee9bc201a4c4e730562d97dd32f",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "25",
+    "column": "Content",
+    "source_en": "Combo skill DMG bonus",
+    "source_hash": "a3b4085e375bc093f267a810cb030311fbcbefaf",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "26",
+    "column": "Content",
+    "source_en": "Physical DMG bonus",
+    "source_hash": "da5634253de31ee767f2a25e2c082bd2b8ec88ff",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "27",
+    "column": "Content",
+    "source_en": "Frozen DMG bonus",
+    "source_hash": "91a39cec9e19381e3d2a6da59056364cfc1f57dd",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "28",
+    "column": "Content",
+    "source_en": "Smelt DMG bonus",
+    "source_hash": "236ddf8247babf9eec49585a0c9930e369a39e70",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "29",
+    "column": "Content",
+    "source_en": "Conduction DMG bonus",
+    "source_hash": "efd8ad7e9ed03f8057c7df2128326916a029aa72",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "30",
+    "column": "Content",
+    "source_en": "Aerodynamic DMG bonus",
+    "source_hash": "145ef606de0e09ea1ec00375690acc063e48cba9",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "31",
+    "column": "Content",
+    "source_en": "Diffusion DMG bonus",
+    "source_hash": "03b022f0e67aaa8c48c3905ed1265947d2714cb7",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "32",
+    "column": "Content",
+    "source_en": "Dissociation DMG bonus",
+    "source_hash": "36e4e9f357180d7f7cad8c5bb6141100fa8e0548",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "33",
+    "column": "Content",
+    "source_en": "Physical DMG Resistance",
+    "source_hash": "2a8467eded83bd7d38f4e722686853212cec3918",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "34",
+    "column": "Content",
+    "source_en": "Frozen DMG Resistance",
+    "source_hash": "5567cb3a5d459fb71935af5db5a620c5af3c4400",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "35",
+    "column": "Content",
+    "source_en": "Smelt DMG Resistance",
+    "source_hash": "378bb1812f088e6d1d81902c5f1c7bd477e49f41",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "36",
+    "column": "Content",
+    "source_en": "Conduction DMG Resistance",
+    "source_hash": "e708960b2203093f78f530dff7eb59c51527fc25",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "37",
+    "column": "Content",
+    "source_en": "Aerodynamic DMG Resistance",
+    "source_hash": "15a58b8d2295100e2b0990c90744814b5de563c0",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "38",
+    "column": "Content",
+    "source_en": "Diffusion DMG Resistance",
+    "source_hash": "ce2686a7a6136b3efbb10caf483d0d36b19ddda1",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "39",
+    "column": "Content",
+    "source_en": "Dissociation DMG Resistance",
+    "source_hash": "52a9122d890dad563e53519629316870c22630bf",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "40",
+    "column": "Content",
+    "source_en": "Healing Effect bonus",
+    "source_hash": "690b40d3dcf7f63edf42c4f16c16a0276c356048",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "41",
+    "column": "Content",
+    "source_en": "Recovery Effect bonus",
+    "source_hash": "d61cd704ddd8e638079999dbf11877c19c66a60a",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "42",
+    "column": "Content",
+    "source_en": "Physical DMG Immunity",
+    "source_hash": "8aa52113de8de6e70a253d8597b88a9c4b3397a2",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "43",
+    "column": "Content",
+    "source_en": "Element 1 DMG Immunity",
+    "source_hash": "f9eab36608a77a7648c5522e41230380b6a6bb7a",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "44",
+    "column": "Content",
+    "source_en": "Element 2 DMG Immunity",
+    "source_hash": "ea8e756c6f4b1eceb9eeaeb90b2b323fdd8d1242",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "45",
+    "column": "Content",
+    "source_en": "Element 3 DMG Immunity",
+    "source_hash": "e74164b5fb0b395c8ff88b7cad6460fea23a53c1",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "46",
+    "column": "Content",
+    "source_en": "Element 4 DMG Immunity",
+    "source_hash": "79168a1354097b1d97238c47c402102f2a58e287",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "47",
+    "column": "Content",
+    "source_en": "Element 5 DMG Immunity",
+    "source_hash": "99b012d38767c2c9c81e0f40967cb33b67791141",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "48",
+    "column": "Content",
+    "source_en": "Element 6 DMG Immunity",
+    "source_hash": "c52efa055c0b85bda38c5d805b2133537dfbe449",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "49",
+    "column": "Content",
+    "source_en": "Reaction increase factor 1",
+    "source_hash": "ed9184e80e3f804c4be99227cd1e7be2dd6d2a10",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "50",
+    "column": "Content",
+    "source_en": "Reaction increase factor 2",
+    "source_hash": "3fa85bf8a002a01bb0226e9b591400a386495a40",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "51",
+    "column": "Content",
+    "source_en": "Reaction increase factor 3",
+    "source_hash": "0c67e22c8bde7bae7a47419be5486c90c6a5a3f8",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "52",
+    "column": "Content",
+    "source_en": "Reaction increase factor 4",
+    "source_hash": "230a7d6fd8031d595b71ad6f935ed0ffd0cb824f",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "53",
+    "column": "Content",
+    "source_en": "Reaction increase factor 5",
+    "source_hash": "3b4f1141aa377e42e1dc2647b0db565e495e854e",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "54",
+    "column": "Content",
+    "source_en": "Reaction increase factor 6",
+    "source_hash": "8e66cd75cf383c7c2f92e00ad9bd560d00465bdc",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "55",
+    "column": "Content",
+    "source_en": "Reaction increase factor 7",
+    "source_hash": "076abfcaede5f65c9185bc3bd8d821ed5c228cae",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "56",
+    "column": "Content",
+    "source_en": "Reaction increase factor 8",
+    "source_hash": "239ea7965414da110247072cb8547aa424a35ec0",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "57",
+    "column": "Content",
+    "source_en": "Reaction increase factor 9",
+    "source_hash": "7a6a6e60b00b45f34bd59ea4472f275eeaa5c35c",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "58",
+    "column": "Content",
+    "source_en": "Reaction increase factor 10",
+    "source_hash": "9e7564cd7a93eef7a49b36e8ac3c179077cd4313",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "59",
+    "column": "Content",
+    "source_en": "Reaction increase factor 11",
+    "source_hash": "f4f88736ded4686d161ab7c8e6400386516eb488",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "60",
+    "column": "Content",
+    "source_en": "Reaction increase factor 12",
+    "source_hash": "e3bbf52d7437e626214391aaf6e2512a0beef262",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "61",
+    "column": "Content",
+    "source_en": "Reaction increase factor 13",
+    "source_hash": "dd94cff67b772079dfe245cc8c382c6b4789782e",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "62",
+    "column": "Content",
+    "source_en": "Reaction increase factor 14",
+    "source_hash": "0a27b5852e7e754f80f87fa2ceb4db5d9f3307e3",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "63",
+    "column": "Content",
+    "source_en": "Reaction increase factor 15",
+    "source_hash": "5c5d93d8f360d429faefc81933c06d0d6a42e998",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "64",
+    "column": "Content",
+    "source_en": "Resonance energy limit",
+    "source_hash": "1e68fbdcb1fb044efd32fc5bbbbab24429f05d8a",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "65",
+    "column": "Content",
+    "source_en": "Resonance energy",
+    "source_hash": "a783cb2f824675f3fa5c1033a9e87d9d69894913",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "66",
+    "column": "Content",
+    "source_en": "Special energy 1 limit",
+    "source_hash": "173104c7a0702788e2df642e6ddcf00b1ac801b1",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "67",
+    "column": "Content",
+    "source_en": "Special energy 1",
+    "source_hash": "c5356da1b0ca8839686180c338735c39296e7a0b",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "68",
+    "column": "Content",
+    "source_en": "Special energy 2 limit",
+    "source_hash": "1b165e6ee3b231b998bea73e717ea56e2564ef1a",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "69",
+    "column": "Content",
+    "source_en": "Special energy 2",
+    "source_hash": "1011fbc62821b65742c8eeb347704a813d99406e",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "70",
+    "column": "Content",
+    "source_en": "Special energy 3 limit",
+    "source_hash": "d389cdb5fd00470cd8082cc2c71710d7889350cf",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "71",
+    "column": "Content",
+    "source_en": "Special energy 3",
+    "source_hash": "d702f6c9c548462238f1d03060eac42327e4bb90",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "72",
+    "column": "Content",
+    "source_en": "Special energy 4 limit",
+    "source_hash": "ac37ff8eadfe0e3ce4f29026e899110148da2a0e",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "73",
+    "column": "Content",
+    "source_en": "Special energy 4",
+    "source_hash": "18b0f8d747235a4d30b50b55f49a27930b9cd612",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "74",
+    "column": "Content",
+    "source_en": "Stamina Limit",
+    "source_hash": "aa73d761dd6cd19970ea08a1fe5c4d1e5f8b197c",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "75",
+    "column": "Content",
+    "source_en": "Stamina",
+    "source_hash": "b82236115cc38e82a4a3cef5943ef4925abca28b",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "76",
+    "column": "Content",
+    "source_en": "Stamina Recovery",
+    "source_hash": "ed1447835c5e576302958b4f13a9925b584ba586",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "77",
+    "column": "Content",
+    "source_en": "Zero stamina penalty time",
+    "source_hash": "4d685652caaf739777025660596800b0196d74c2",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "83",
+    "column": "Content",
+    "source_en": "Max Plangency",
+    "source_hash": "ef1940b7c25b3aa3e4628937e84553f81b4139d7",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "84",
+    "column": "Content",
+    "source_en": "Max Plangency",
+    "source_hash": "ef1940b7c25b3aa3e4628937e84553f81b4139d7",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "85",
+    "column": "Content",
+    "source_en": "Plangency Recovery Rate",
+    "source_hash": "bab468ebd516029b2d2c0eb97c4e549271eb658e",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "86",
+    "column": "Content",
+    "source_en": "Extra zero Plangency time",
+    "source_hash": "4beb1aab351326c91036fc068b5d0b496c7fdcb1",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "87",
+    "column": "Content",
+    "source_en": "Plangency Reduction multiplier",
+    "source_hash": "1cdfb577a4bc7ea613c7e93fdab53e8824c2d8db",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "88",
+    "column": "Content",
+    "source_en": "Passive Plangency Reduction multiplier",
+    "source_hash": "a652cb819dc8d2aec0f80b14412085128ffcae84",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "89",
+    "column": "Content",
+    "source_en": "Max Toughness",
+    "source_hash": "22721bf482552ab267b92203981a7f384df71c1c",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "90",
+    "column": "Content",
+    "source_en": "Toughness",
+    "source_hash": "95e6dab2c81e9fa7bd358160db3d19dd9f23d0e2",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "91",
+    "column": "Content",
+    "source_en": "Toughness Recovery Speed",
+    "source_hash": "46172c4db8a5e1d5653003f7bc9fd1faf6b3acc0",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "92",
+    "column": "Content",
+    "source_en": "Toughness Reduction multiplier",
+    "source_hash": "4afa1305ff5e1a736ed8cb22b0aa73147e6fd5b7",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "93",
+    "column": "Content",
+    "source_en": "Passive Toughness Reduction multiplier",
+    "source_hash": "a3936e9fa149f977607ce24a382eda75ee79ee43",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "104",
+    "column": "Content",
+    "source_en": "Defense Penetration Ratio",
+    "source_hash": "41b6f3deb97fbeee9c1ba71d4600e074a2252e9b",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "118",
+    "column": "Content",
+    "source_en": "Movement Speed",
+    "source_hash": "8bd09d426d5d4529ddb9742e7acf8a677412f430",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "119",
+    "column": "Content",
+    "source_en": "Wutrelic skill DMG bonus",
+    "source_hash": "57bfc4c747796cb894b866b64ec1caf59f309169",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "120",
+    "column": "Content",
+    "source_en": "Normal Attack Speed",
+    "source_hash": "40fcd1932aa99dfc3b55c187d185da811236e5d7",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "121",
+    "column": "Content",
+    "source_en": "Charged Attack Speed",
+    "source_hash": "6a4c8a6e7403247aeb5bb9e013ecbdd5f3a1fa6f",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "139",
+    "column": "Content",
+    "source_en": "Level",
+    "source_hash": "7c7f5d049fad2569721d446c4a811f9bd5da5393",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "140",
+    "column": "Content",
+    "source_en": "HP",
+    "source_hash": "5200bdfc01a139a753c6eb52ee1911cadd069dd9",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "141",
+    "column": "Content",
+    "source_en": "HP",
+    "source_hash": "5200bdfc01a139a753c6eb52ee1911cadd069dd9",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "142",
+    "column": "Content",
+    "source_en": "Shield",
+    "source_hash": "08271419319f98d1144196d2816fcc188a1c452d",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "143",
+    "column": "Content",
+    "source_en": "DEF Down Multiplier",
+    "source_hash": "510c5612de8c57484632f7db2b54e00e7665b04f",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "144",
+    "column": "Content",
+    "source_en": "Passive DEF Down Multiplier",
+    "source_hash": "7ca550b74a7e38fc423fb4724b96103333521914",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "145",
+    "column": "Content",
+    "source_en": "Attack",
+    "source_hash": "1b81f28b5afbfcaaf5253d26b7dba4028a92a860",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "146",
+    "column": "Content",
+    "source_en": "Crit. Rate",
+    "source_hash": "5aa0effd0eff652a541cd97a3e400562cf0f339b",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "147",
+    "column": "Content",
+    "source_en": "Critical DMG",
+    "source_hash": "fe79b23bbe22fef2feb75500ce46195817777cf3",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "148",
+    "column": "Content",
+    "source_en": "Defense",
+    "source_hash": "3c284a10d01077d2142596670d9bebaa5a1568ef",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "149",
+    "column": "Content",
+    "source_en": "Resonance Efficiency",
+    "source_hash": "a7c27fd424386b136087d764f3565c5d851e05d4",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "150",
+    "column": "Content",
+    "source_en": "Cooldown Reduction",
+    "source_hash": "f15d1e7fda223d1f93a201c8024f40e2144c91a4",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "151",
+    "column": "Content",
+    "source_en": "Concerto Sublimation",
+    "source_hash": "f62d61925a56665c33e9bbecf712042602010a4d",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "152",
+    "column": "Content",
+    "source_en": "Resonance skill damage bonus",
+    "source_hash": "687519bd6d79d9a70fa655f8a08054bd7df17de5",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "153",
+    "column": "Content",
+    "source_en": "General DMG bonus",
+    "source_hash": "2197f39a097bd84b37fa6248ce228aae85f44e67",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "154",
+    "column": "Content",
+    "source_en": "General Injury Reduction",
+    "source_hash": "c28d156e1f68a4a1f6f3820c4da535ce81b0a1f5",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "155",
+    "column": "Content",
+    "source_en": "Normal Attack bonus",
+    "source_hash": "b7898d748f202d80a3ae8815e8e96af98a4c07f9",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "156",
+    "column": "Content",
+    "source_en": "Charged Attack bonus",
+    "source_hash": "af4adf686a5fa3a806968b2b932076df6e5f1876",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "157",
+    "column": "Content",
+    "source_en": "Resonance liberation DMG bonus",
+    "source_hash": "5f445490f83bcee9bc201a4c4e730562d97dd32f",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "158",
+    "column": "Content",
+    "source_en": "Combo skill DMG bonus",
+    "source_hash": "a3b4085e375bc093f267a810cb030311fbcbefaf",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "159",
+    "column": "Content",
+    "source_en": "Physical DMG bonus",
+    "source_hash": "da5634253de31ee767f2a25e2c082bd2b8ec88ff",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "160",
+    "column": "Content",
+    "source_en": "Frozen DMG bonus",
+    "source_hash": "91a39cec9e19381e3d2a6da59056364cfc1f57dd",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "161",
+    "column": "Content",
+    "source_en": "Smelt DMG bonus",
+    "source_hash": "236ddf8247babf9eec49585a0c9930e369a39e70",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "162",
+    "column": "Content",
+    "source_en": "Conduction DMG bonus",
+    "source_hash": "efd8ad7e9ed03f8057c7df2128326916a029aa72",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "163",
+    "column": "Content",
+    "source_en": "Aerodynamic DMG bonus",
+    "source_hash": "145ef606de0e09ea1ec00375690acc063e48cba9",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "164",
+    "column": "Content",
+    "source_en": "Diffusion DMG bonus",
+    "source_hash": "03b022f0e67aaa8c48c3905ed1265947d2714cb7",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "165",
+    "column": "Content",
+    "source_en": "Dissociation DMG bonus",
+    "source_hash": "36e4e9f357180d7f7cad8c5bb6141100fa8e0548",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "166",
+    "column": "Content",
+    "source_en": "Physical DMG Resistance",
+    "source_hash": "2a8467eded83bd7d38f4e722686853212cec3918",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "167",
+    "column": "Content",
+    "source_en": "Frozen DMG Resistance",
+    "source_hash": "5567cb3a5d459fb71935af5db5a620c5af3c4400",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "168",
+    "column": "Content",
+    "source_en": "Smelt DMG Resistance",
+    "source_hash": "378bb1812f088e6d1d81902c5f1c7bd477e49f41",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "169",
+    "column": "Content",
+    "source_en": "Conduction DMG Resistance",
+    "source_hash": "e708960b2203093f78f530dff7eb59c51527fc25",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "170",
+    "column": "Content",
+    "source_en": "Aerodynamic DMG Resistance",
+    "source_hash": "15a58b8d2295100e2b0990c90744814b5de563c0",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "171",
+    "column": "Content",
+    "source_en": "Diffusion DMG Resistance",
+    "source_hash": "ce2686a7a6136b3efbb10caf483d0d36b19ddda1",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "172",
+    "column": "Content",
+    "source_en": "Dissociation DMG Resistance",
+    "source_hash": "52a9122d890dad563e53519629316870c22630bf",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "173",
+    "column": "Content",
+    "source_en": "Healing Effect bonus",
+    "source_hash": "690b40d3dcf7f63edf42c4f16c16a0276c356048",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "174",
+    "column": "Content",
+    "source_en": "Recovery Effect bonus",
+    "source_hash": "d61cd704ddd8e638079999dbf11877c19c66a60a",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "175",
+    "column": "Content",
+    "source_en": "Physical DMG Immunity",
+    "source_hash": "8aa52113de8de6e70a253d8597b88a9c4b3397a2",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "176",
+    "column": "Content",
+    "source_en": "Element 1 DMG Immunity",
+    "source_hash": "f9eab36608a77a7648c5522e41230380b6a6bb7a",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "177",
+    "column": "Content",
+    "source_en": "Element 2 DMG Immunity",
+    "source_hash": "ea8e756c6f4b1eceb9eeaeb90b2b323fdd8d1242",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "178",
+    "column": "Content",
+    "source_en": "Element 3 DMG Immunity",
+    "source_hash": "e74164b5fb0b395c8ff88b7cad6460fea23a53c1",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "179",
+    "column": "Content",
+    "source_en": "Element 4 DMG Immunity",
+    "source_hash": "79168a1354097b1d97238c47c402102f2a58e287",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "180",
+    "column": "Content",
+    "source_en": "Element 5 DMG Immunity",
+    "source_hash": "99b012d38767c2c9c81e0f40967cb33b67791141",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "181",
+    "column": "Content",
+    "source_en": "Element 6 DMG Immunity",
+    "source_hash": "c52efa055c0b85bda38c5d805b2133537dfbe449",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "182",
+    "column": "Content",
+    "source_en": "Reaction increase factor 1",
+    "source_hash": "ed9184e80e3f804c4be99227cd1e7be2dd6d2a10",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "183",
+    "column": "Content",
+    "source_en": "Reaction increase factor 2",
+    "source_hash": "3fa85bf8a002a01bb0226e9b591400a386495a40",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "184",
+    "column": "Content",
+    "source_en": "Reaction increase factor 3",
+    "source_hash": "0c67e22c8bde7bae7a47419be5486c90c6a5a3f8",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "185",
+    "column": "Content",
+    "source_en": "Reaction increase factor 4",
+    "source_hash": "230a7d6fd8031d595b71ad6f935ed0ffd0cb824f",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "186",
+    "column": "Content",
+    "source_en": "Reaction increase factor 5",
+    "source_hash": "3b4f1141aa377e42e1dc2647b0db565e495e854e",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "187",
+    "column": "Content",
+    "source_en": "Reaction increase factor 6",
+    "source_hash": "8e66cd75cf383c7c2f92e00ad9bd560d00465bdc",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "188",
+    "column": "Content",
+    "source_en": "Reaction increase factor 7",
+    "source_hash": "076abfcaede5f65c9185bc3bd8d821ed5c228cae",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "189",
+    "column": "Content",
+    "source_en": "Reaction increase factor 8",
+    "source_hash": "239ea7965414da110247072cb8547aa424a35ec0",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "190",
+    "column": "Content",
+    "source_en": "Reaction increase factor 9",
+    "source_hash": "7a6a6e60b00b45f34bd59ea4472f275eeaa5c35c",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "191",
+    "column": "Content",
+    "source_en": "Reaction increase factor 10",
+    "source_hash": "9e7564cd7a93eef7a49b36e8ac3c179077cd4313",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "192",
+    "column": "Content",
+    "source_en": "Reaction increase factor 11",
+    "source_hash": "f4f88736ded4686d161ab7c8e6400386516eb488",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "193",
+    "column": "Content",
+    "source_en": "Reaction increase factor 12",
+    "source_hash": "e3bbf52d7437e626214391aaf6e2512a0beef262",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "194",
+    "column": "Content",
+    "source_en": "Reaction increase factor 13",
+    "source_hash": "dd94cff67b772079dfe245cc8c382c6b4789782e",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "195",
+    "column": "Content",
+    "source_en": "Reaction increase factor 14",
+    "source_hash": "0a27b5852e7e754f80f87fa2ceb4db5d9f3307e3",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "196",
+    "column": "Content",
+    "source_en": "Reaction increase factor 15",
+    "source_hash": "5c5d93d8f360d429faefc81933c06d0d6a42e998",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "197",
+    "column": "Content",
+    "source_en": "Resonance energy limit",
+    "source_hash": "1e68fbdcb1fb044efd32fc5bbbbab24429f05d8a",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "198",
+    "column": "Content",
+    "source_en": "Resonance energy",
+    "source_hash": "a783cb2f824675f3fa5c1033a9e87d9d69894913",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "199",
+    "column": "Content",
+    "source_en": "Special energy 1 limit",
+    "source_hash": "173104c7a0702788e2df642e6ddcf00b1ac801b1",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "200",
+    "column": "Content",
+    "source_en": "Special energy 1",
+    "source_hash": "c5356da1b0ca8839686180c338735c39296e7a0b",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "201",
+    "column": "Content",
+    "source_en": "Special energy 2 limit",
+    "source_hash": "1b165e6ee3b231b998bea73e717ea56e2564ef1a",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "202",
+    "column": "Content",
+    "source_en": "Special energy 2",
+    "source_hash": "1011fbc62821b65742c8eeb347704a813d99406e",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "203",
+    "column": "Content",
+    "source_en": "Special energy 3 limit",
+    "source_hash": "d389cdb5fd00470cd8082cc2c71710d7889350cf",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "204",
+    "column": "Content",
+    "source_en": "Special energy 3",
+    "source_hash": "d702f6c9c548462238f1d03060eac42327e4bb90",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "205",
+    "column": "Content",
+    "source_en": "Special energy 4 limit",
+    "source_hash": "ac37ff8eadfe0e3ce4f29026e899110148da2a0e",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "206",
+    "column": "Content",
+    "source_en": "Special energy 4",
+    "source_hash": "18b0f8d747235a4d30b50b55f49a27930b9cd612",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "207",
+    "column": "Content",
+    "source_en": "Stamina Limit",
+    "source_hash": "aa73d761dd6cd19970ea08a1fe5c4d1e5f8b197c",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "208",
+    "column": "Content",
+    "source_en": "Stamina",
+    "source_hash": "b82236115cc38e82a4a3cef5943ef4925abca28b",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "209",
+    "column": "Content",
+    "source_en": "Stamina Recovery",
+    "source_hash": "ed1447835c5e576302958b4f13a9925b584ba586",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "210",
+    "column": "Content",
+    "source_en": "Zero stamina penalty time",
+    "source_hash": "4d685652caaf739777025660596800b0196d74c2",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "216",
+    "column": "Content",
+    "source_en": "Max Plangency",
+    "source_hash": "ef1940b7c25b3aa3e4628937e84553f81b4139d7",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "217",
+    "column": "Content",
+    "source_en": "Max Plangency",
+    "source_hash": "ef1940b7c25b3aa3e4628937e84553f81b4139d7",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "218",
+    "column": "Content",
+    "source_en": "Plangency Recovery Rate",
+    "source_hash": "bab468ebd516029b2d2c0eb97c4e549271eb658e",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "219",
+    "column": "Content",
+    "source_en": "Extra zero Plangency time",
+    "source_hash": "4beb1aab351326c91036fc068b5d0b496c7fdcb1",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "220",
+    "column": "Content",
+    "source_en": "Plangency Reduction multiplier",
+    "source_hash": "1cdfb577a4bc7ea613c7e93fdab53e8824c2d8db",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "221",
+    "column": "Content",
+    "source_en": "Passive Plangency Reduction multiplier",
+    "source_hash": "a652cb819dc8d2aec0f80b14412085128ffcae84",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "222",
+    "column": "Content",
+    "source_en": "Max Toughness",
+    "source_hash": "22721bf482552ab267b92203981a7f384df71c1c",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "223",
+    "column": "Content",
+    "source_en": "Toughness",
+    "source_hash": "95e6dab2c81e9fa7bd358160db3d19dd9f23d0e2",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "224",
+    "column": "Content",
+    "source_en": "Toughness Recovery Speed",
+    "source_hash": "46172c4db8a5e1d5653003f7bc9fd1faf6b3acc0",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "225",
+    "column": "Content",
+    "source_en": "Toughness Reduction multiplier",
+    "source_hash": "4afa1305ff5e1a736ed8cb22b0aa73147e6fd5b7",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "226",
+    "column": "Content",
+    "source_en": "Passive Toughness Reduction multiplier",
+    "source_hash": "a3936e9fa149f977607ce24a382eda75ee79ee43",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "237",
+    "column": "Content",
+    "source_en": "Defense Penetration Ratio",
+    "source_hash": "41b6f3deb97fbeee9c1ba71d4600e074a2252e9b",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "251",
+    "column": "Content",
+    "source_en": "Movement Speed",
+    "source_hash": "8bd09d426d5d4529ddb9742e7acf8a677412f430",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "252",
+    "column": "Content",
+    "source_en": "Wutrelic skill DMG bonus",
+    "source_hash": "57bfc4c747796cb894b866b64ec1caf59f309169",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "253",
+    "column": "Content",
+    "source_en": "Normal Attack Speed",
+    "source_hash": "40fcd1932aa99dfc3b55c187d185da811236e5d7",
+    "category": "item"
+  },
+  {
+    "database": "lang_property.db",
+    "table": "PropertyIndex",
+    "primary_key_column": "Id",
+    "primary_key": "254",
+    "column": "Content",
+    "source_en": "Charged Attack Speed",
+    "source_hash": "6a4c8a6e7403247aeb5bb9e013ecbdd5f3a1fa6f",
+    "category": "item"
+  }
+]

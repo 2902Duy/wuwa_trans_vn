@@ -1,0 +1,82 @@
+{
+  "count": 7,
+  "rows": [
+    {
+      "classification": "keep_placeholder_only",
+      "reason": "Only placeholders/tags; keep exactly as source.",
+      "split_id": "NAME_TITLE_0006742",
+      "source_file": "lang_multi_text.json",
+      "original_index": 10919,
+      "primary_key": "Speaker_200167_Name",
+      "table": "MultiText",
+      "source_en": "{PlayerName}",
+      "new_translation_vi": ""
+    },
+    {
+      "classification": "keep_placeholder_only",
+      "reason": "Only placeholders/tags; keep exactly as source.",
+      "split_id": "NAME_TITLE_0006919",
+      "source_file": "lang_multi_text.json",
+      "original_index": 11096,
+      "primary_key": "Speaker_250079_Name",
+      "table": "MultiText",
+      "source_en": "{message}",
+      "new_translation_vi": ""
+    },
+    {
+      "classification": "keep_placeholder_only",
+      "reason": "Only placeholders/tags; keep exactly as source.",
+      "split_id": "NAME_TITLE_0007453",
+      "source_file": "lang_multi_text.json",
+      "original_index": 11630,
+      "primary_key": "Speaker_50121_Name",
+      "table": "MultiText",
+      "source_en": "{PlayerName}",
+      "new_translation_vi": ""
+    },
+    {
+      "classification": "keep_placeholder_only",
+      "reason": "Only placeholders/tags; keep exactly as source.",
+      "split_id": "NAME_TITLE_0008852",
+      "source_file": "lang_multi_text.json",
+      "original_index": 13029,
+      "primary_key": "Speaker_701044_Name",
+      "table": "MultiText",
+      "source_en": "{PlayerName}",
+      "new_translation_vi": ""
+    },
+    {
+      "classification": "keep_placeholder_only",
+      "reason": "Only placeholders/tags; keep exactly as source.",
+      "split_id": "NAME_TITLE_0008860",
+      "source_file": "lang_multi_text.json",
+      "original_index": 13037,
+      "primary_key": "Speaker_701052_Name",
+      "table": "MultiText",
+      "source_en": "{message} {PlayerName}",
+      "new_translation_vi": ""
+    },
+    {
+      "classification": "keep_placeholder_only",
+      "reason": "Only placeholders/tags; keep exactly as source.",
+      "split_id": "NAME_TITLE_0009144",
+      "source_file": "lang_multi_text.json",
+      "original_index": 13321,
+      "primary_key": "Speaker_750088_Name",
+      "table": "MultiText",
+      "source_en": "{PlayerName}",
+      "new_translation_vi": ""
+    },
+    {
+      "classification": "keep_placeholder_only",
+      "reason": "Only placeholders/tags; keep exactly as source.",
+      "split_id": "NAME_TITLE_0020507",
+      "source_file": "lang_multi_text.json",
+      "original_index": 48781,
+      "primary_key": "VillageInfr_TreeTips_Name",
+      "table": "MultiText",
+      "source_en": "{0}",
+      "new_translation_vi": ""
+    }
+  ]
+}

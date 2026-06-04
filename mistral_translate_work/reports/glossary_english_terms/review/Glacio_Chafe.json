@@ -1,0 +1,74 @@
+{
+  "count": 5,
+  "hits": [
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 47408,
+      "primary_key": "TowerChallengeBuff_92008159_Desc",
+      "status": "translated",
+      "keep": "Glacio Chafe",
+      "matched_source_term": "Glacio Chafe",
+      "bad_terms": [
+        "Chafe Glacio",
+        "Sát Thương Chafe Glacio"
+      ],
+      "source_en": "ATK is increased by 30%, and Total Glacio DMG is increased by 30%.\nEnemies take 80% more Total Glacio Chafe DMG and 160% more Total Fusion Burst DMG. After a Resonator inflicts Tune Strain - Shifting, the Total DMG taken by the enemies is increased by 50% for 20s.",
+      "translation_vi": "Tấn Công tăng 30%, Tổng Sát Thương Glacio tăng 30%.\nKẻ địch chịu thêm 80% Tổng Sát Thương Chafe Glacio và 160% Tổng Sát Thương Fusion Burst. Sau khi Cộng Hưởng Giả gây Tune Strain - Shifting, tổng sát thương kẻ địch phải chịu tăng 50% trong 20 giây."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 181922,
+      "primary_key": "WeaponConf_21020086_Desc",
+      "status": "translated",
+      "keep": "Glacio Chafe",
+      "matched_source_term": "Glacio Chafe",
+      "bad_terms": [
+        "Chafe Glacio",
+        "Sát Thương Chafe Glacio"
+      ],
+      "source_en": "ATK is increased by {0}. After the wielder applies Glacio Chafe, Glacio DMG is Amplified by {1}, and Resonance Liberation DMG ignores {2} of the target's DEF. If the wielder is the active Resonator in the team, Glacio Chafe DMG dealt to all targets within a certain range is Amplified by {3} for {4}s. This effect can be triggered up to <SapTag=6>{6}</SapTag> {Cus:Sap,S=time P=times SapTag=6} every {5}s. Only the strongest effect of the same name applies.",
+      "translation_vi": "Tấn Công tăng {0}. Sau khi người sử dụng gây Chafe Glacio, Sát Thương Glacio được Khuếch Đại thêm {1}, và Sát Thương Resonance Liberation bỏ qua {2} Phòng Ngự của mục tiêu. Nếu người sử dụng là Cộng Hưởng Giả đang hoạt động trong đội, Sát Thương Chafe Glacio gây ra cho tất cả mục tiêu trong phạm vi nhất định sẽ được Khuếch Đại thêm {3} trong {4} giây. Hiệu ứng này có thể kích hoạt tối đa <SapTag=6>{6}</SapTag> {Cus:Sap,S=lần P=lần SapTag=6} mỗi {5} giây. Chỉ hiệu ứng mạnh nhất cùng tên được áp dụng."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 230497,
+      "primary_key": "ItemInfo_71500081_ObtainedShowDescription",
+      "status": "translated",
+      "keep": "Glacio Chafe",
+      "matched_source_term": "Glacio Chafe",
+      "bad_terms": [
+        "Chafe Glacio",
+        "Sát Thương Chafe Glacio"
+      ],
+      "source_en": "Resonators recover additional Ember when they inflict Negative Statuses on enemies, triggered up to once per second.\nResonators in the team gain 50% Glacio DMG Bonus and Spectro DMG Bonus. Enemies take 200% more total Glacio Chafe DMG.",
+      "translation_vi": "Cộng Hưởng Giả hồi phục thêm Than Hồng khi gây Trạng Thái Tiêu Cực cho kẻ địch, kích hoạt tối đa một lần mỗi giây.\nCác Cộng Hưởng Giả trong đội nhận thêm 50% Tăng Sát Thương Glacio và Spectro. Kẻ địch chịu thêm 200% tổng Sát Thương Chafe Glacio."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 230498,
+      "primary_key": "ItemInfo_71500081_AttributesDescription",
+      "status": "translated",
+      "keep": "Glacio Chafe",
+      "matched_source_term": "Glacio Chafe",
+      "bad_terms": [
+        "Chafe Glacio",
+        "Sát Thương Chafe Glacio"
+      ],
+      "source_en": "Resonators recover additional Ember when they inflict Negative Statuses on enemies, triggered up to once per second.\nResonators in the team gain 50% Glacio DMG Bonus and Spectro DMG Bonus. Enemies take 200% more total Glacio Chafe DMG.\n\nThis Token can be used up to <color=#fee388>2</color> times in Whimpering Wastes.",
+      "translation_vi": "Cộng Hưởng Giả hồi phục thêm Lửa Đỏ khi gây Trạng Thái Tiêu Cực lên kẻ địch, kích hoạt tối đa một lần mỗi giây.\nCác Cộng Hưởng Giả trong đội nhận thêm 50% Tăng Sát Thương Glacio và Spectro. Kẻ địch chịu thêm 200% tổng Sát Thương Chafe Glacio.\n\nMảnh này có thể sử dụng tối đa <color=#fee388>2</color> lần tại Whimpering Wastes."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 230654,
+      "primary_key": "ItemInfo_50020029_AttributesDescription",
+      "status": "translated",
+      "keep": "Glacio Chafe",
+      "matched_source_term": "Glacio Chafe",
+      "bad_terms": [
+        "Chafe Glacio"
+      ],
+      "source_en": "Open to obtain a random Echo of the following Sonata Effect: Wishes of Quiet Snowfall.\n2pcs Set: Glacio +10%.\n5pcs Set: Inflicting Glacio Chafe on enemies increases Glacio DMG dealt by 10% for 15s. The Resonator gains the Snowfall effect, which can be triggered once every 25s.\nWhile Snowfall is active:\n- Dealing Resonance Liberation DMG removes Snowfall and increases the Resonator's Crit. Rate by 25% for 6s. Dealing Resonance Liberation DMG again during the effect prolongs its duration by 4s, triggered once every 0.5s, up to 6 times each time Snowfall is removed.\n- Casting Outro Skill removes Snowfall and grants 25% Glacio DMG Bonus to the incoming Resonator for 15s.\nOnly one of the two effects can be triggered each time Snowfall is removed.",
+      "translation_vi": "Mở để nhận một Echo ngẫu nhiên thuộc Hiệu Ứng Sonata sau: Lời Nguyện Tuyết Lặng.\nBộ 2 món: Sát Thương Glacio +10%.\nBộ 5 món: Gây Trạng Thái Chafe Glacio lên kẻ địch sẽ tăng 10% Sát Thương Glacio trong 15 giây. Cộng Hưởng Giả nhận hiệu ứng Tuyết Rơi, có thể kích hoạt mỗi 25 giây.\nKhi Tuyết Rơi đang hoạt động:\n- Gây Sát Thương Giải Phóng Cộng Hưởng sẽ loại bỏ Tuyết Rơi và tăng 25% Tỷ Lệ Bạo Kích cho Cộng Hưởng Giả trong 6 giây. Nếu tiếp tục gây Sát Thương Giải Phóng Cộng Hưởng trong thời gian này, hiệu ứng sẽ kéo dài thêm 4 giây, kích hoạt mỗi 0,5 giây, tối đa 6 lần mỗi khi Tuyết Rơi bị loại bỏ.\n- Sử dụng Kỹ Năng Outro sẽ loại bỏ Tuyết Rơi và tăng 25% Sát Thương Glacio cho Cộng Hưởng Giả kế tiếp trong 15 giây.\nMỗi lần loại bỏ Tuyết Rơi chỉ có thể kích hoạt một trong hai hiệu ứng trên."
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "count": 7,
+  "rows": [
+    {
+      "kind": "missing_translation",
+      "source_file": "lang_multi_text.json",
+      "original_index": 10919,
+      "split_id": "NAME_TITLE_0006742",
+      "primary_key": "Speaker_200167_Name",
+      "table": "MultiText",
+      "source_en": "{PlayerName}",
+      "translation_vi": "{PlayerName}",
+      "status": "translated",
+      "issues": ""
+    },
+    {
+      "kind": "missing_translation",
+      "source_file": "lang_multi_text.json",
+      "original_index": 11096,
+      "split_id": "NAME_TITLE_0006919",
+      "primary_key": "Speaker_250079_Name",
+      "table": "MultiText",
+      "source_en": "{message}",
+      "translation_vi": "{message}",
+      "status": "translated",
+      "issues": ""
+    },
+    {
+      "kind": "missing_translation",
+      "source_file": "lang_multi_text.json",
+      "original_index": 11630,
+      "split_id": "NAME_TITLE_0007453",
+      "primary_key": "Speaker_50121_Name",
+      "table": "MultiText",
+      "source_en": "{PlayerName}",
+      "translation_vi": "{PlayerName}",
+      "status": "translated",
+      "issues": ""
+    },
+    {
+      "kind": "missing_translation",
+      "source_file": "lang_multi_text.json",
+      "original_index": 13029,
+      "split_id": "NAME_TITLE_0008852",
+      "primary_key": "Speaker_701044_Name",
+      "table": "MultiText",
+      "source_en": "{PlayerName}",
+      "translation_vi": "{PlayerName}",
+      "status": "translated",
+      "issues": ""
+    },
+    {
+      "kind": "missing_translation",
+      "source_file": "lang_multi_text.json",
+      "original_index": 13037,
+      "split_id": "NAME_TITLE_0008860",
+      "primary_key": "Speaker_701052_Name",
+      "table": "MultiText",
+      "source_en": "{message} {PlayerName}",
+      "translation_vi": "{PlayerName}",
+      "status": "needs_review",
+      "issues": "missing_token:{message}"
+    },
+    {
+      "kind": "missing_translation",
+      "source_file": "lang_multi_text.json",
+      "original_index": 13321,
+      "split_id": "NAME_TITLE_0009144",
+      "primary_key": "Speaker_750088_Name",
+      "table": "MultiText",
+      "source_en": "{PlayerName}",
+      "translation_vi": "{PlayerName}",
+      "status": "translated",
+      "issues": ""
+    },
+    {
+      "kind": "missing_translation",
+      "source_file": "lang_multi_text.json",
+      "original_index": 48781,
+      "split_id": "NAME_TITLE_0020507",
+      "primary_key": "VillageInfr_TreeTips_Name",
+      "table": "MultiText",
+      "source_en": "{0}",
+      "translation_vi": "{0}",
+      "status": "translated",
+      "issues": ""
+    }
+  ]
+}

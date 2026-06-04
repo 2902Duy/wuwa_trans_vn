@@ -1,0 +1,4174 @@
+[
+  {
+    "source": "db",
+    "db": "lang_generic_tips.db",
+    "table": "GenericPrompt",
+    "id": 151,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo đã lưu vào thư mục /{0}"
+  },
+  {
+    "source": "db",
+    "db": "lang_infodisplay.db",
+    "table": "InfoDisplay",
+    "id": 2,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Rừng Mờ Photo chắc chắn là kho báu vĩ đại nhất ở Huanglong, không vùng đất nào sánh được về sự phong phú loài.\nChỉ cần đứng trước cổng vào, ta đã nghe rõ tiếng thì thầm của cây cối và lời mời gọi của chúng.\nMay mắn thay, những dữ liệu thực vật quý giá này lại nằm trong tầm tay! Thứ mà con tinh tinh đang cầm trên tay chính là hình ảnh của cây mã đề tên XXX trong tài liệu.\nGhi chép cho thấy loại quả này, được cả già lẫn trẻ ưa chuộng, từng được trồng rộng rãi trước Releasem Họa.\nTuy nhiên, với tư cách là một loài tam bội, XXX, giống như hầu hết các loại cây trồng thương mại đòi hỏi kỹ thuật nhân giống, đã biến mất sau Releasem Họa. Thông tin về loài sinh vật mỏng manh này giờ chỉ còn trong một số tài liệu lịch sử.\nDù đáng tiếc, đây cũng là quy luật tự nhiên của sự kế thừa. Theo định luật Verina, sự đình trệ là một trong những yếu tố quan trọng dẫn đến tuyệt chủng sinh học, và đây chính là kết cục tất yếu của XXX trong tự nhiên, khi khả năng sinh sản của nó đã bị con người tước đoạt."
+  },
+  {
+    "source": "db",
+    "db": "lang_infodisplay.db",
+    "table": "InfoDisplay",
+    "id": 16,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "[Đặc sắc trên màn ảnh]\n\n\"Tàn tích gợi nhớ giấc mơ xưa của thành phố cũ,\nTương lai chẳng bao giờ ta thấy, chỉ có quá khứ để khóc thương.\"\n- Giấc mơ về quá khứ, du hành xuyên thời gian. Vở kịch mới lạ, nhập vai <i>Vầng trăng trên bầu trời</i> chính thức công chiếu.\n\nHội Truyện tranh Tiancheng lần thứ Năm sắp diễn ra.\nTác phẩm truyện tranh mới nhất của Qinghe và Shongsheng <i>Cơn bão thành cổ</i> ra mắt.\nMột đêm opera vừa thanh tao, vừa trần tục.\n\n[Hướng dẫn dành cho khán giả]\n1. Nhà hát Tiancheng là nhà hát mở, xin vui lòng tuân thủ trật tự công cộng.\n2. Trong suốt buổi biểu diễn, bạn có thể ra vào tự do, nhưng xin giữ im lặng.\n3. Nghiêm cấm xâm phạm sân khấu. Người vi phạm sẽ bị giao cho Lực lượng Mourn Guards.\n4. Hold gìn môi trường công cộng là trách nhiệm của mọi người. Sau khi the performance, xin mang theo rác thải cá nhân."
+  },
+  {
+    "source": "db",
+    "db": "lang_infodisplay.db",
+    "table": "InfoDisplay",
+    "id": 108,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Bức xạ Tacetite\nPhoto hưởng bức xạ Tacetite\nBệnh do bức xạ Tacetite kéo dài\nRối loạn nhận thức do bệnh Tacetite\nPhương pháp chữa bệnh Tacetite\n......"
+  },
+  {
+    "source": "db",
+    "db": "lang_item.db",
+    "table": "ItemInfo",
+    "id": 804,
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Monthly Development Supplies Pack"
+  },
+  {
+    "source": "db",
+    "db": "lang_item.db",
+    "table": "ItemInfo",
+    "id": 808,
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Weekly Development Supplies Pack"
+  },
+  {
+    "source": "db",
+    "db": "lang_item.db",
+    "table": "ItemInfo",
+    "id": 812,
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Beginner Development Supplies Pack"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_142900021_ChildQuestTip_161_5",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold Quyển Sách Chưa Hoàn Thành"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_147900000_ChildQuestTip_147_2",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold Quyển Sách Chưa Hoàn Thành"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_161900006_ChildQuestTip_161_20",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold Quyển Sách Chưa Hoàn Thành"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_161900007_ChildQuestTip_161_11",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold Quyển Sách Chưa Hoàn Thành"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_161900008_ChildQuestTip_161_11",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold Quyển Sách Chưa Hoàn Thành"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_161900009_ChildQuestTip_161_14",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold Quyển Sách Chưa Hoàn Thành"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_161900010_ChildQuestTip_161_11",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold Quyển Sách Chưa Hoàn Thành"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_161900011_ChildQuestTip_161_11",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold Quyển Sách Chưa Hoàn Thành"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_161900012_ChildQuestTip_161_11",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold Quyển Sách Chưa Hoàn Thành"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_161900013_ChildQuestTip_161_11",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold Quyển Sách Chưa Hoàn Thành"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_161900023_ChildQuestTip_161_6",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold Quyển Sách Chưa Hoàn Thành"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_161900026_ChildQuestTip_161_6",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold Quyển Sách Chưa Hoàn Thành"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_159900001_ChildQuestTip_159_3",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold lấy ký ức của Hiệp Sĩ"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_159900005_ChildQuestTip_159_4",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold lấy ký ức của Nimbus Wraith"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_208750002_QuestScheduleMainTitle_208_1",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Nhiệm Vụ Photo Lollo Joy Album"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_208750002_QuestScheduleMainTitle_208_5",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Nhiệm Vụ Photo Lollo Joy Album"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_208750007_QuestScheduleMainTitle_208_1",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "\"Nhiệm Vụ Photo Lollo Joy Album\""
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_208750007_QuestScheduleMainTitle_208_2",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "\"Nhiệm Vụ Photo Lollo Joy Album\""
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_208750008_QuestScheduleMainTitle_208_1",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "\"Nhiệm Vụ Photo Lollo Joy Album\""
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_208750008_QuestScheduleMainTitle_208_2",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "\"Nhiệm Vụ Photo Lollo Joy Album\""
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_208750009_QuestScheduleMainTitle_208_1",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "\"Nhiệm Vụ Photo Lollo Joy Album\""
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_208750009_QuestScheduleMainTitle_208_2",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "\"Nhiệm Vụ Photo Lollo Joy Album\""
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_208750010_QuestScheduleMainTitle_208_1",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "\"Nhiệm Vụ Photo Lollo Joy Album\""
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_208750010_QuestScheduleMainTitle_208_2",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "\"Nhiệm Vụ Photo Lollo Joy Album\""
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_208750011_QuestScheduleMainTitle_208_3",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "\"Nhiệm Vụ Photo Lollo Joy Album\""
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_208750011_QuestScheduleMainTitle_208_4",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "\"Nhiệm Vụ Photo Lollo Joy Album\""
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_208750012_QuestScheduleMainTitle_208_1",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "\"Nhiệm Vụ Photo Lollo Joy Album\""
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_208750012_QuestScheduleMainTitle_208_2",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "\"Nhiệm Vụ Photo Lollo Joy Album\""
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800016_ChildQuestTip_314_15",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Qiuyuan viết (Bộ lọc: Noir)"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800019_ChildQuestTip_314_3",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Iuno Thực Hiện Basic Attack Stage 3"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800019_ChildQuestTip_314_5",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Iuno Thực Hiện Basic Attack Stage 3"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800019_QuestScheduleSubTitle_314_2",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Iuno Thực Hiện Basic Attack Stage 3"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800020_ChildQuestTip_314_9",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Qiuyuan đội nón tre"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800020_ChildQuestTip_314_11",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Qiuyuan đội nón tre"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800020_QuestScheduleSubTitle_314_3",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Qiuyuan đội nón tre\n\nMẹo nóng từ C-MOSS: Đã ở trạng thái đặc biệt, giữ Normal Attack để tung chiêu Thus Spoke the Blade: To Teach\n(Cứ tự do khám phá các cách khác để hoàn thành thử thách nhé)"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800021_ChildQuestTip_314_14",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Zani Dodgem khiên vào kẻ địch"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800021_ChildQuestTip_314_16",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Zani Dodgem khiên vào kẻ địch"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800021_QuestScheduleSubTitle_314_4",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Zani Dodgem khiên vào kẻ địch\n\nMẹo nóng từ C-MOSS: {Cus:Ipt,Touch=tap PC=press Gamepad=press} Normal Attack 3 lần và {Cus:Ipt,Touch=tap PC=press Gamepad=press} Normal Attack đúng lúc để tung ra Basic Attack - Đột Phá\n(Các bạn có thể khám phá những cách khác để hoàn thành thử thách)"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800021_QuestScheduleSubTitle_314_6",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Zani nghỉ ngơi trên ghế\n\nLời nhắc từ C-MOSS: Giai đoạn 3 của Basic Attack\n(Các bạn có thể khám phá những cách khác để hoàn thành thử thách)"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800022_ChildQuestTip_314_5",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Jinhsi ngồi hoặc đứng trên kiếm"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800022_ChildQuestTip_314_12",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Jinhsi ngồi hoặc đứng trên kiếm"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800022_QuestScheduleSubTitle_314_1",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Jinhsi ngồi hoặc đạp lên thanh kiếm của mình\n\nMẹo nóng từ C-MOSS: Resonance Skill được tăng cường sau Basic Attack Stage 4\n(Cứ tự do khám phá các cách khác để hoàn thành thử thách nhé)"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800023_ChildQuestTip_314_8",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Galbrena bắn shotgun"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800023_ChildQuestTip_314_11",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Galbrena tấn công bằng đôi cánh"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800023_ChildQuestTip_314_14",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Galbrena bắn shotgun"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800023_ChildQuestTip_314_16",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Galbrena tấn công bằng đôi cánh"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800023_QuestScheduleSubTitle_314_3",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Galbrena tấn công bằng đôi cánh\n\nMẹo nóng từ C-MOSS: Đã ở trạng thái đặc biệt, giờ hãy dùng Basic Attack\n(Tự do khám phá các cách khác để hoàn thành thử thách)"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800024_ChildQuestTip_314_3",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Jiyan cầm giáo"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800024_ChildQuestTip_314_5",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Jiyan cầm giáo"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800024_ChildQuestTip_314_9",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Jiyan tạo hình Rồng từ gió"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800024_ChildQuestTip_314_11",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Jiyan tạo hình Rồng từ gió"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800024_QuestScheduleSubTitle_314_1",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Jiyan cầm thương\n\nMẹo nóng từ C-MOSS: Resonance Skill\n(Cứ tự do khám phá các cách khác để hoàn thành thử thách nhé)"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800024_QuestScheduleSubTitle_314_3",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Jiyan tạo hình Rồng từ gió\n\nMẹo nóng từ C-MOSS: Basic Attack trong trạng thái Resonance Liberation\n(Cứ tự do khám phá các cách khác để hoàn thành thử thách nhé)"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800025_ChildQuestTip_314_6",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Hecate tấn công bằng roi"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800025_ChildQuestTip_314_8",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Hecate tấn công bằng roi"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800025_ChildQuestTip_314_9",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Phrolova khiêu vũ cùng Hecate"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800025_ChildQuestTip_314_11",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Phrolova khiêu vũ cùng Hecate"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800025_ChildQuestTip_314_30",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Phrolova biến hình thành Hecate để tấn công"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800025_ChildQuestTip_314_32",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Phrolova biến hình thành Hecate để tấn công"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800025_QuestScheduleSubTitle_314_1",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Phrolova hóa thân thành Hecate để tấn công\n\nMẹo nóng từ C-MOSS: Dùng Resonance Skill sau Stage 3 của Basic Attack\n(Cứ tự do khám phá các cách khác để hoàn thành thử thách nhé)"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800025_QuestScheduleSubTitle_314_3",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Phrolova nhảy múa cùng Hecate\n\nLời nhắc từ C-MOSS: Stage 2 của Basic Attack\n(Cứ tự do khám phá các cách khác để hoàn thành thử thách nhé)"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800027_ChildQuestTip_314_3",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Iuno sử dụng Moonring"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800027_ChildQuestTip_314_5",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Iuno sử dụng Moonring"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800027_ChildQuestTip_314_6",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Iuno sử dụng Moonbow"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800027_ChildQuestTip_314_8",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Iuno sử dụng Moonbow"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800027_ChildQuestTip_314_9",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Iuno nằm trên vũ khí"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800027_ChildQuestTip_314_11",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Iuno nằm trên vũ khí"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800027_QuestScheduleSubTitle_314_1",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Iuno sử dụng Moonring\n\nMẹo hay từ C-MOSS: Basic Attack ở trạng thái bình thường\n(Cứ tự do khám phá các cách khác để hoàn thành thử thách nhé)"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LevelPlay_314800027_QuestScheduleSubTitle_314_2",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Iuno sử dụng Moonbow\n\nMẹo hay từ C-MOSS: Đã ở trạng thái đặc biệt, hãy dùng Resonance Liberation ngay\n(Cứ tự do khám phá các cách khác để hoàn thành thử thách nhé)"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "PrefabTextItem_3898544773_Text",
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Supplies"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "InfoDisplay_11040132_Text",
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Templates Supply Request Form    Người yêu cầu: Yizhu (ví dụ)   Bộ phận yêu cầu: Tuần Tra KU-Roro B (ví dụ)    Supplies yêu cầu và số lượng: 10 đạn mồi hiện đại (ví dụ)    Lý do yêu cầu: Phát hiện nhóm Save Dân gần đường cao tốc cảng (ví dụ, tóm tắt trong 80 từ trở xuống.)    Vui lòng nộp đơn qua Terminal của bạn.    Supplies yêu cầu sẽ được cấp trong ngày nộp đơn. Trong trường hợp khẩn cấp, hãy đến kho để xử lý nhanh."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "InfoDisplay_11040174_Text",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "KHÔNG ĐƯỢC MỞ GÓI BẰNG TAY KHÔNG\n1) Vui lòng tuân thủ quy định an toàn và sử dụng thiết bị hỗ trợ để mở gói.\n2) Xử lý cẩn thận. Hold thẳng đứng.\n3) Vứt bỏ nếu gần hết hạn, nếu không sẽ làm chậm trễ hoạt động của cơ sở."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "InfoDisplay_11070104_Text",
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Templates Supply Request Form\nNgười yêu cầu: Yizhu (ví dụ)   Bộ phận yêu cầu: Tuần Tra KU-Roro B (ví dụ)\nSupplies yêu cầu và số lượng: 10 đạn mồi hiện đại (ví dụ)\nLý do yêu cầu: Phát hiện nhóm Save Dân gần đường cao tốc cảng (ví dụ, tóm tắt trong 80 từ trở xuống.)\n\nVui lòng nộp đơn qua Terminal của bạn.\nSupplies yêu cầu sẽ được cấp trong ngày nộp đơn. Trong trường hợp khẩn cấp, hãy đến kho để xử lý nhanh."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "InfoDisplay_133001006_Text",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Một sinh vật bí ẩn trú ngụ bên dưới thiên hà ngầm của Bờ Đen. Tuổi tác và cấu trúc cơ thể của cô vẫn là điều bí ẩn. Trong ngôn ngữ mã hóa phức tạp của hệ thống Tethys, cái tên \"Shorekeeper\" còn có nghĩa là \"Người Hold Bí Mật\". Cô tự gọi mình như vậy để tượng trưng cho vai trò canh giữ những ai dấn thân rời bỏ bờ biển, tiến vào những vùng đất xa xôi."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "InfoDisplay_102802001_Text",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Tờ rơi Ngân hàng 1\nVì sao nên chọn chúng tôi quản lý tài sản của bạn?\nPhoto hưởng thương hiệu không đối thủ!\nLà ngân hàng hàng đầu tại Rinascita và một định chế thương mại thành công với bề dày lịch sử hàng thập kỷ, Averardo Bank đã giành được sự tin tưởng và trung thành của các khách hàng giá trị cao cũng như các đối tác tài chính trong và ngoài nước. Photo hưởng thương hiệu vô song cho phép chúng tôi cung cấp khả năng phân phối và bảo lãnh vượt trội trong lĩnh vực ngân hàng đầu tư, cùng mạng lưới nguồn vốn giá trị cao rộng khắp. Chúng tôi cam kết giúp khách hàng đạt được chiến lược tăng trưởng dài hạn thông qua đa dạng hóa đầu tư trên thị trường. Tại Rinascita, Averardo Bank là lựa chọn duy nhất của bạn.\nBình luận: Hiểu rồi. Ngân hàng duy nhất ở Rinascita, non trẻ nhưng được gia tộc Montelli hậu thuẫn. Dù muốn hay không, bạn cũng chỉ có thể chọn họ.\n\nT000000:::Tờ rơi Ngân hàng 2\nVì sao nên chọn chúng tôi quản lý tài sản của bạn?\nMạng lưới dịch vụ khách hàng cá nhân hóa!\nDịch vụ khách"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "InfoDisplay_102802007_Text",
+    "patterns": [
+      "Hold ",
+      "Photo "
+    ],
+    "text": "Nghiên Cứu Toàn Diện Lịch Sử Kịch Nghệ Ragunnesi (Kèm Bình Luận)\nNghiên Cứu Toàn Diện Lịch Sử Kịch Nghệ Ragunnesi: Sự Tiến Hóa Của Sự Giao Thoa Văn hóa Bộ Lạc và Hệ thống Tín Ngưỡng\nNgười viết: DeLillo Quentin\nĐược đề xuất tài trợ: Dự án Khu vực Nghiên cứu Hiệp hội Kịch nghệ Ragunna - Học bổng Aspire Scholars\nChủng viện Thần học Avinoleum, Ragunna, Rinascita\n\nTóm tắt: Bài nghiên cứu này tổng quan các xu hướng và phát triển nghiên cứu gần đây về nguồn gốc văn hóa kịch nghệ tại các vùng Ragunna và Septimont, đặc biệt tập trung vào những tiến bộ trong lĩnh vực \"khảo cổ học kịch nghệ\" trong thập kỷ qua. Dựa trên các nghiên cứu đa dạng và các nghiên cứu góc nhìn từ Liên bang New trong những năm gần đây, bài viết cũng kết hợp những hiểu biết từ kinh nghiệm khảo cổ của Huanglong trong việc nghiên cứu di tích lịch sử. Các nghiên cứu trường hợp được lựa chọn chủ yếu tập trung vào các vở kịch kinh điển và các sự kiện lịch sử quan trọng. Kết quả cho thấy văn hóa kịch nghệ Ragunnesi bắt nguồn từ c"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "InfoDisplay_120101031_Text",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "\"Lại gần! Lại gần nữa! Nhắm vào vết thương của nó!\"\n\n\"Thân nó phát sáng! Đánh vào chỗ sáng ấy!\"\n\n\"Đồ đầu đất! Đó là đá mà! Giáo của chúng ta làm sao đập vỡ được!\"\n \n\"Quay mũi sang trái! Nhanh!!!!\"\n\n\"Hạ buồm chính! Chết tiệt, chúng ta đang lún quá sâu! Hold cột buồm khỏi chạm nước!\"\n \n\"Nó biến đi đâu rồi!? Nó biến đi đâu rồi!? Vừa mới đây thôi mà!\"\n \n\"Hold nó trong tầm ngắm! Đừng để nó chạy thoát!\"\n \n\"Cuối cùng cũng đối mặt! Giờ tao sẽ giết mày!!!\"\n \n\"Quay mũi sang trái! Nhanh!!!!\""
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "InfoDisplay_30010012_Title",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Bức Photo Nhóm Dưới Ánh Mặt Trời New"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "InfoDisplay_30010013_Title",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Bức Photo Nhóm Dưới Ánh Mặt Trời New"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "MenuConfig_14_KeyMap",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold Wheel Chuột"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "LoadingTipsText_610101_Title",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Studio"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "InstanceDungeon_9701_DungeonTask_3",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Qiuyuan viết (Bộ lọc: Noir)"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "InstanceDungeon_9708_DungeonTask_2",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Iuno Thực Hiện Basic Attack Stage 3"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "InstanceDungeon_9709_DungeonTask_3",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Qiuyuan đội nón tre"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "InstanceDungeon_9710_DungeonTask_1",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Zani Dodgem khiên vào kẻ địch"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "InstanceDungeon_9711_DungeonTask_1",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Jinhsi ngồi hoặc đứng trên kiếm"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "InstanceDungeon_9712_DungeonTask_1",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Galbrena bắn súng lục lộn ngược"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "InstanceDungeon_9712_DungeonTask_2",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Galbrena bắn shotgun"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "InstanceDungeon_9712_DungeonTask_3",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Galbrena tấn công bằng đôi cánh"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "InstanceDungeon_9713_DungeonTask_1",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Jiyan cầm giáo"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "InstanceDungeon_9713_DungeonTask_3",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Jiyan tạo hình Rồng từ gió"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "InstanceDungeon_9714_DungeonTask_1",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Phrolova biến hình thành Hecate để tấn công"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "InstanceDungeon_9714_DungeonTask_2",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Hecate tấn công bằng roi"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "InstanceDungeon_9714_DungeonTask_3",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Phrolova khiêu vũ cùng Hecate"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "InstanceDungeon_9715_DungeonTask_1",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Camellya ở Chế độ Nở Hoa"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "InstanceDungeon_9715_DungeonTask_2",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Camellya ở trạng thái bình thường"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "InstanceDungeon_9715_DungeonTask_3",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Hoa Crimson"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "InstanceDungeon_9716_DungeonTask_1",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Iuno sử dụng Moonring"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "InstanceDungeon_9716_DungeonTask_2",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Iuno sử dụng Moonbow"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "InstanceDungeon_9716_DungeonTask_3",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Iuno nằm trên vũ khí"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "MapMark_3350401_MarkDesc",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Thử thách Dodge các khối rơi. Lấy cảm hứng từ một trò chơi kinh điển, cậu cần lấp đầy một hàng để xóa nó. Hold vững vị trí đủ lâu, chiến thắng sẽ thuộc về cậu."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "Activity_105300002_Desc",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "\"Chào Rover, chào mừng đến với Triển lãm Photo Solaris!\"\nHành trình của cậu sẽ diễn ra như thế nào trong thế giới hoàn toàn mới này? Những cảnh sắc mơ ước, những người bạn mong gặp, và những câu chuyện sắp viết nên... ký ức sẽ hiện lên rực rỡ sắc màu, bắt đầu từ đây, từ chính cậu."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "Side_XYDG_2_2",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Nhưng mà nghĩ kỹ đi! Từ lên kế hoạch cho tựa đề mới, viết kịch bản, chỉnh sửa ảnh, rồi cả việc định dạng nữa... Quá nhiều việc luôn. Thà chúng ta cứ giữ nguyên cái tên \"Địa Điểm Chụp Photo Nổi Tiếng Lahai-Roi\" cho rồi."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "Side_XYDG_2_14",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Để chuẩn bị cho học kỳ mới sắp tới, kế hoạch ban đầu của chúng tớ là thực hiện một chuyên đề đặc biệt mang tên \"Địa Điểm Chụp Photo Được Yêu Thích Nhất Lahai-Roi\" để tăng độ phủ sóng. Chúng tớ đã có danh sách địa điểm và chuẩn bị bắt tay vào chụp ảnh rồi..."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "Side_XYDG_2_18",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Ôi, tớ hiểu ý cậu rồi! Ý cậu là thêm \"Cuộc Phỏng Vấn Đặc Biệt với Kỵ Sĩ Giun Hư Không\" lên trên \"Địa Điểm Chụp Photo Nổi Tiếng ở Lahai-Roi\". Tức là \"Hành Trình Khám Phá Điểm Nóng Lahai-Roi Của Kỵ Sĩ Giun Hư Không\"!"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "Huanglong_main_1_2EX_48_24",
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Supplies, chăm sóc y tế, bảo trì trang thiết bị, quản lý nhân sự, hậu cần... Họ phải quản lý tất cả những việc này thật cẩn thận để hỗ trợ đắc lực cho các chiến binh của chúng ta."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "Entity_d7b2a84e0a1cd0572b8beb61e15d951fd9554c7c3940d08ebfb1fbeff618ff28",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Asphodel Barrens Photo Spot"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "Entity_f0e9556e923039d0cb4f07f973049b02f46050c63ad3cfa2207c4e91803b8e1d",
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Spacetrek Convoy Supplies"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "ComboTeaching_11020201_DescriptionContent",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold <color=#f4d582>Heavy Attack</color> và thả khi con trỏ nằm trong vùng \"Đóng Băng\" để tung ra <color=#d4bf5f>Heavy Attack: Detonate</color>, gây <color=#1891e7ff>Glacio DMG</color>."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "ComboTeaching_12020301_DescriptionContent",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold <color=#f4d582>Resonance Skill: Whizzing Fight Spirit</color> để vào trạng thái bắn \"DAKA DAKA!\"."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "ComboTeaching_12020401_DescriptionContent",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold Basic Attack để vào chế độ ngắm bắn, tăng sức mạnh cho phát đạn.\nĐòn tấn công sau khi tích đủ sẽ gây <color=#e15226ff>Fusion DMG</color> và tạo Thermobaric Bullets khi trúng mục tiêu."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "ComboTeaching_12020501_DescriptionContent",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold Basic Attack để vào chế độ ngắm bắn, tăng sức mạnh cho phát đạn.\nĐòn tấn công sau khi tích đủ sẽ gây <color=#e15226ff>Fusion DMG</color> và tạo Thermobaric Bullets khi trúng mục tiêu."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "ComboTeaching_12040301_DescriptionContent",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold Basic Attack để bắt đầu ngắm bắn.\nSau khi tích đủ, tấn công và gây <color=#e15226ff>Fusion DMG</color>."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "ComboTeaching_12040302_DescriptionContent",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold Basic Attack để bắt đầu ngắm bắn.\nSau khi tích đủ, tấn công và gây <color=#e15226ff>Fusion DMG</color>."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "ComboTeaching_14040302_DescriptionContent",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold Basic Attack trong khi thi triển <color=#f4d582>Heavy Attack</color> để tung đòn Hất Gió sau khi Heavy Attack kết thúc, gây <color=Wind>Aero DMG</color>. Sử dụng Basic Attack sau <color=#f4d582>Heavy Attack: Windborne Strike</color> để thực hiện các đòn tấn công trên không, gây <color=Wind>Aero DMG</color>."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "ComboTeaching_99990012_IconText_0",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold Combo"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "ComboTeaching_11050401_DescriptionContent",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold <color=Highlight>Hold Basic Attack</color> trong thời gian ngắn sau khi thực hiện <color=Highlight>Basic Attack 3</color> để kích hoạt."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "ComboTeaching_11050501_DescriptionContent",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold <color=Highlight>Hold Basic Attack</color> khi đang <color=Highlight>mid-air</color> để sử dụng."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "GuideTutorialPage_34020_Content",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến thành <color=#ffd12f>Cruisewing</color> để tham gia thử thách bay và thu thập càng nhiều Xu càng tốt trong thời gian quy định để kiếm điểm.\nĐiểm càng cao, phần thưởng mở khóa càng giá trị.\nTrong lúc bay, <color=#ffd12f>xoay góc nhìn</color> để đổi hướng. Hold nút Tăng Tốc để <color=#ffd12f>tăng tốc</color>, giữ nút Giảm Tốc để <color=#ffd12f>giảm tốc</color>."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "GuideTutorialPage_3416402_Content",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold nút Kỹ Năng và thả ra khi Rend được nạp đầy để thi triển kỹ năng, phá hủy tất cả vật thể có thể phá hủy xung quanh."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "GuideFocusNew_1067_Content",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Mỗi tầng \"Thanh Minh\" sẽ mở rộng phạm vi \"Băng Giá\". Hold tối đa 2 tầng \"Thanh Minh\"."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "GuideFocusNew_1068_Content",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Mỗi tầng \"Thanh Minh\" sẽ mở rộng phạm vi \"Băng Giá\". Hold tối đa 2 tầng \"Thanh Minh\"."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "GuideFocusNew_1129_Content",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold Basic Attack để vào trạng thái <color=#8c7e51>Dark Surge</color>."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "GuideFocusNew_1130_Content",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold Basic Attack để vào trạng thái <color=#8c7e51>Dark Surge</color>."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "GuideFocusNew_1176_Content",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold nút **Normal Attack** để nạp <color=#8c7e51>Forte Gauge</color>. Khi Forte Gauge đầy, thả nút để thi triển <color=#8c7e51>Frostfall</color> và nhận một Antique."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "ComboTeaching_15100201_DescriptionContent",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold Basic Attack để tiêu hao Thể Lực và tung đòn <color=Highlight>Heavy Attack</color>, bật lên không trung và gây <color=Light>Spectro DMG</color>."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "ComboTeaching_12100103_DescriptionContent",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Giữ Normal Attack để tiêu hao STA và tích lực. Hold lâu hơn để tung ra <color=Highlight>Heavy Attack: Charged 2</color>, gây <color=Fire>Fusion DMG</color> cao hơn."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "ComboTeaching_12100203_DescriptionContent",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Giữ Normal Attack để tiêu hao STA và tích lực. Hold lâu hơn để tung ra <color=Highlight>Heavy Attack: Charged II</color>, gây <color=Fire>Fusion DMG</color> cao hơn."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "ComboTeaching_11080801_DescriptionContent",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Khi ở trạng thái <color=Highlight>Foreclaimed Self</color>, giữ <color=Highlight>Normal Attack</color> để vào trạng thái <color=Highlight>Hold Breath</color>. Khi thả <color=Highlight>Normal Attack</color> hoặc khi Thể Lực cạn kiệt, Hiyuki sẽ lao về phía trước, gây <color=Ice>Glacio DMG</color> và chặn các đòn tấn công đến."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "ComboTeaching_11081401_DescriptionContent",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold <color=Highlight>Resonance Liberation</color> để vào trạng thái nạp, trong đó Hiyuki liên tục tiêu hao <color=Highlight>Snowforged Blade</color>. Release ra để gây <color=Ice>Glacio DMG</color>, lượng sát thương tỉ lệ thuận với số <color=Highlight>Snowforged Blade</color> đã tiêu hao. Kỹ năng này cũng có thể được sử dụng bằng cách {Cus:Ipt,Touch=tapping PC=pressing Gamepad=pressing} <color=Highlight>Resonance Liberation</color>. Khi sử dụng theo cách này, kỹ năng sẽ không tiêu hao <color=Highlight>Snowforged Blade</color> nếu chưa đầy và tiêu hao toàn bộ <color=Highlight>Snowforged Blade</color> nếu đã đầy.\nSau khi sử dụng kỹ năng này, Hiyuki để lại <color=Highlight>Foreclaimed Self</color>."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "GuideFocusNew_4_Content",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold <color=#8c7e51>needle</color> để di chuyển"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "GuideFocusNew_1227_Content",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold Basic Attack để sạc và phục hồi Forte Gauge."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "GuideTutorialPage_34093_Content",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Lottie Lost hấp thụ sức mạnh từ những câu chuyện trong <color=#ffd12f>Cuốn Sách Hoàn Thành</color>, tăng cường khả năng hấp thu Mây Nightmare.\n \nHold <color=#ffd12f>nút Hấp Thu Nâng Cao</color> để hút toàn bộ Mây Nightmare trong phạm vi của cô.\n \nTrạng thái Hấp Thu Nâng Cao chỉ kéo dài trong thời gian giới hạn và có thể được làm mới bằng cách đọc lại Cuốn Sách Hoàn Thành."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "GuideTutorialPage_34104_Content",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Đối diện với Nightmare Cloud và dùng Utility để hóa thân thành Lottie Lost. <color=#ffd12f>Hold nút</color> để hấp thụ Nightmare Cloud bằng cuốn sách tranh của cô ấy!"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "HelpText_324_Content",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Về sự kiện\n\"Xin chào, Rover, chào mừng đến với Triển Lãm Photo Solaris!\"\nHành trình của cậu trong thế giới hoàn toàn mới này sẽ diễn ra như thế nào? Những cảnh sắc mơ ước, những người bạn mong gặp, những câu chuyện sắp viết nên... tất cả ký ức sẽ hiện lên rực rỡ sắc màu, bắt đầu từ đây, từ chính cậu.\n \nĐiều kiện tham gia\nTạo hồ sơ nhân vật sau bản cập nhật Phiên bản 2.4 và đạt Cấp Liên Minh 5.\n \nThời gian diễn ra\nLễ kỷ niệm Hành Trình New Solaris sẽ mở khóa khi đạt đủ điều kiện. Event kéo dài 30 ngày.\n \nQuy tắc sự kiện\nEvent gồm bốn loại nhiệm vụ: Tidal Memories, Combat Scenes, Scenic Wonders và Lộ Trình Trưởng Thành. Hoàn thành nhiệm vụ để nhận phần thưởng vật phẩm và Points Hoạt Náo Kỷ Niệm.\nTích lũy Points Hoạt Náo để mở khóa những phần thưởng giá trị. Tiếp tục cố gắng để nhận được <color=#ffd12f>standard 5-star Resonator of your choice</color>!\nNếu sự kiện kết thúc mà cậu vẫn còn phần thưởng chưa nhận, hãy đăng nhập trong vòng 30 ngày sau đó để nhận qua thư.\nNếu trong sự kiện cậu k"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "GuideFocusNew_20989_Content",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "{Cus:Ipt,Touch=Touch PC=Nhấp Gamepad=Chọn} một Echo để loại khỏi bộ bài. Hold một Echo trong danh sách để xem chi tiết."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "GuideFocusNew_20990_Content",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "{0} {Cus:Ipt,Touch=Touch PC=Nhấp Gamepad=Chọn} một Echo để gỡ khỏi bộ bài. Hold một Echo trong danh sách để xem chi tiết."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "GuideFocusNew_20991_Content",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "{Cus:Ipt,Touch=Touch PC=Nhấp Gamepad=Chọn} một Echo để loại khỏi bộ bài. Hold một Echo trong danh sách để xem chi tiết."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "GuideTutorialPage_34186_Content",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold biểu tượng nắm tay để buông tay Iuno. Nếu rời xa hơn 5 mét khỏi hồn ma của cô ấy, Mỏ Neo sẽ đứt và cậu sẽ lạc vào Hỗn Độn. Nếu không nắm tay cô ấy lại trong vòng 15 giây, Mỏ Neo sẽ chấm dứt và cậu sẽ trở về ký ức neo giữ cuối cùng."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "GuideFocusNew_10153_Content",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "{0} Hold nút \"Overworld\" để thoát tất cả menu ngay lập tức"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "Tutorial_36038_Title",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Shoot"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "GuideFocusNew_21613_Content",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "<color=#ffd12f>Hold </color> {0} và chọn <color=#ffd12f>Quests</color> trên vòng tròn để xem Mục tiêu chính và Mục tiêu phụ."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "GuideFocusNew_21649_Content",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "<color=#ffd12f>Hold </color> {0} và chọn <color=#ffd12f>Storage Bag</color> trên vòng tròn để xem các Sticker Resonator đặc biệt bạn đã thu thập."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "GuideTutorial_34228_GroupName",
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Spacetrek Convoy Supplies"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "Tutorial_34228_Title",
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Spacetrek Convoy Supplies"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "GuideFocusNew_22267_Content",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold nút {0}"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "GuideFocusNew_22268_Content",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold nút {0}"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "GuideFocusNew_22269_Content",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold nút Vàng"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "Skill_1004201_SkillDescribe",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 2 đòn tấn công liên tiếp, gây <color=Dark>Havoc DMG</color>.\n{Cus:Ipt,Touch=Nhấn PC=Nhấn Gamepad=Nhấn} <color=Highlight>Normal Attack</color> ngay sau khi sử dụng <color=Highlight>Basic Attack Stage 2</color> để thi triển <color=Highlight>Rending Lunge</color>.\n<size=10></size>\n<size=40><color=Title>Rending Lunge</color></size>\nDeal <color=Dark>Havoc DMG</color>.\n{Cus:Ipt,Touch=Nhấn PC=Nhấn Gamepad=Nhấn} <color=Highlight>Normal Attack</color> ngay sau khi thi triển kỹ năng này trên mặt đất để sử dụng <color=Highlight>Death Snip</color>.\nSử dụng <color=Highlight>Normal Attack</color> ngay sau khi thi triển kỹ năng này giữa không trung để sử dụng <color=Highlight>Hanging Finality</color>.\n<size=10></size>\n<size=40><color=Title>Death Snip</color></size>\nMở kéo, gây <color=Dark>Havoc DMG</color>. Sau một lúc, kéo sẽ cắt xuống, gây <color=Dark>Havoc DMG</color> và hồi HP cho tất cả Resonators trong đội ở gần.\nSử dụng <color="
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "PhantomSkill_200052_DescriptionEx",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Tiến lên như một Lightcrusher, gây {0} Spectro DMG. Khi trúng mục tiêu, tạo ra {1} Ablucence. Mỗi vụ nổ Ablucence gây {2} Spectro DMG.\nHold kỹ năng Echo để duy trì dạng Lightcrusher, cho phép bạn bật lên không trung và phóng về phía trước một đoạn ngắn.\n\nHồi chiêu: {3} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "PhantomSkill_200052_SimplyDescription",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Xông lên dưới dạng Lightcrusher, gây Spectro DMG.\nHold Kỹ Năng Echo để tăng đà và lao xa hơn sau khi chuyển hóa thành Lightcrusher."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "PhantomSkill_200059_DescriptionEx",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến thành Abyssal Gladius và tấn công kẻ địch phía trước bằng kiếm, gây {0} Glacio DMG.\nHold Kỹ Năng Echo để duy trì hình dạng Echo trong giây lát, chém kẻ địch và phóng một đòn tấn công tầm xa về phía trước, gây {1} và {2} Glacio DMG tương ứng.\nHồi chiêu: {3} giây."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "PhantomSkill_200059_SimplyDescription",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến thành Abyssal Gladius và gây Glacio DMG cho kẻ địch. Hold Kỹ Năng Echo để phóng đòn tấn công tầm xa gây Glacio DMG."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "PhantomSkill_200080_DescriptionEx",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến thành Nổi Giận Trước Tượng Đài để tấn công kẻ địch, gây {0} Spectro DMG. Hold Kỹ Năng Echo để duy trì hình dạng Echo và lao về phía kẻ địch, gây {1} Spectro DMG.\nHồi chiêu: {2} giây."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "PhantomSkill_200080_SimplyDescription",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến thành Nổi Giận Trước Tượng Đài và gây Spectro DMG lên kẻ địch. Hold Kỹ Năng Echo để lao về phía kẻ địch, gây Spectro DMG."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "PhantomSkill_200081_DescriptionEx",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến thành Hurriclaw và lao về phía trước, gây {0} Sát Thương Hệ Aero khi trúng mục tiêu, cộng thêm {1} Sát Thương Hệ Aero với đòn quét. Hold Kỹ Năng Echo để tiếp tục lao về phía trước. Dùng lại Kỹ Năng Echo trong khi lao để thực hiện đòn quét.\nHồi chiêu: {2} giây."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "PhantomSkill_200082_DescriptionEx",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến thành La Guardia và tấn công các mục tiêu gần đó, gây {0} Sát Thương Physical.\nHold Kỹ Năng Echo để duy trì dạng Echo trong một khoảng thời gian, chém kẻ địch và bắn một đòn tấn công tầm xa về phía trước. Đòn chém gây {1} Sát Thương Physical, và đòn tấn công tầm xa gây {3} Sát Thương Physical tối đa {2} lần.\nHồi chiêu: {4} giây."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "PhantomSkill_200082_SimplyDescription",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến thành La Guardia và gây Sát Thương Physical lên kẻ địch. Hold Kỹ Năng Vang Âm để phóng đòn tấn công tầm xa gây Sát Thương Physical."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "PhantomSkill_280002_SimplyDescription",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến thành Inferno Rider để thực hiện các đòn tấn công liên tiếp, gây Fusion DMG và tăng Fusion DMG cùng Sát Thương Basic Attack. Hold Kỹ Năng Echo để vào Chế Độ Cưỡi."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "PhantomSkill_280023_DescriptionEx",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến Đổi Nightmare: Inferno Rider và nhảy lên tấn công kẻ địch phía trước, gây {0} Fusion DMG.\nResonator trang bị Echo này ở vị trí chính sẽ nhận {1} Fusion DMG Bonus và {2} Tăng Sát Thương Resonance Skill.\nHold Kỹ Năng Echo để biến hình thành Nightmare: Inferno Rider và vào Chế Độ Cưỡi. Khi thoát Chế Độ Cưỡi, gây {3} Fusion DMG cho kẻ địch phía trước.\nHồi chiêu: {4} giây."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "PhantomSkill_280023_SimplyDescription",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến Đổi Nightmare: Inferno Rider và gây Fusion DMG cho kẻ địch. Trang bị Echo này ở vị trí chính sẽ tăng Fusion DMG và Sát Thương Resonance Skill.\nHold Kỹ Năng Echo để biến hình thành Nightmare: Inferno Rider và vào Chế Độ Cưỡi."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "RoleSkillInput_1102_DescList_1",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold Basic Attack và quan sát con trỏ di chuyển trên Thanh Forte"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "RoleSkillInput_1104_DescList_2",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold hoặc nhấn Basic Attack khi Thanh Forte đầy để vào trạng thái tăng cường"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "RoleSkillInput_1106_DescList_1",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold nút Normal Attack để nạp Thanh Forte. Khi Thanh Forte đầy, thả ra để thi triển Heavy Attack và nhận một Món Đồ Cổ ngẫu nhiên."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "RoleSkillInput_1203_DescList_1",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold Basic Attack ở trạng thái bình thường khi Thanh Forte đầy để thi triển Heavy Attack được tăng cường"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "RoleSkillInput_1203_DescList_2",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold Basic Attack trong trạng thái Resonance Liberation khi Thanh Forte đầy để thi triển Đòn Resonance Liberation được tăng cường"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "RoleSkillInput_1302_DescList_2",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold Basic Attack để thi triển Đòn Attack được tăng cường khi Thanh Forte đầy"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "RoleSkillInput_1405_DescList_2",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold Basic Attack để bắt đầu tích năng và liên tục nhận khiên khi Thanh Forte đầy."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "RoleSkillInput_1602_DescList_2",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold Basic Attack để tung đòn Heavy Attack được tăng cường và hồi HP nếu Thanh Forte còn ít nhất một nửa."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "RoleSkillInput_1605_DescList_2",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold Basic Attack để thi triển Heavy Attack và vào trạng thái tăng cường khi Thanh Forte đầy"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "SkillDescription_1508024_AttributeName",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Sát thương Hold Vòng Xẻ Rãnh"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "SkillDescription_1508064_AttributeName",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Chế Độ Chainsaw - Sát Thương Hold Dodge Đòn Phản Công"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "SkillInput_110203_Description",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Heavy Attack: Hold rồi thả {0}"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "Skill_1000207_SkillDescribe",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "<size=40><color=Title>Resonance Skill: DAKA DAKA!</color></size>\nHold <color=Highlight>Whizzing Fight Spirit</color> để进入 trạng thái <color=Highlight>DAKA DAKA!</color>. Trong trạng thái này:\n- Chixia liên tục sử dụng \"Thermobaric Bullets\" để tấn công mục tiêu, gây <color=Fire>Fusion DMG</color>, được tính là Sát Thương Resonance Skill.\n- Nhấn <color=Highlight>Basic Attack</color> để thi triển <color=Highlight>Basic Attack 4</color>, gây <color=Fire>Fusion DMG</color>, được tính là Sát Thương Basic Attack. Sau đó, cô sẽ thoát khỏi trạng thái \"DAKA DAKA!\".\n- Nếu đã bắn {0} \"Thermobaric Bullets\" khi kích hoạt <color=Highlight>Basic Attack</color>, Chixia sẽ thi triển Resonance Skill <color=Highlight>Boom Boom</color> và thoát khỏi trạng thái \"DAKA DAKA!\".\n- Chixia thoát khỏi trạng thái \"DAKA DAKA!\" khi hết \"Thermobaric Bullets\".\n<size=10> </size>\n<size=40><color=Title>Resonance Skill: Boom Boom</color></size>\nGây <color=Fire>Fusion DMG</color>, được tính là Sát Thương Resonance Skill.\n<s"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "Skill_1000901_SkillDescribe",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=Dark>Havoc DMG</color>.\n<size=10> </size>\n<size=40><color=Title>Heavy Attack</color></size>\nTiêu hao Stamina để gây <color=Dark>Havoc DMG</color>.\nHold Basic Attack để vào trạng thái <color=Highlight>Rocksteady Defense</color>.\n<size=10> </size>\n<size=40><color=Title>Rocksteady Defense</color></size>\n- Taoqi giảm {0} sát thương nhận vào;\n- Khi bị tấn công trong trạng thái <color=Highlight>Rocksteady Defense</color>, cô sẽ tung ra <color=Highlight>Strategic Parry</color>;\n- <color=Highlight>Strategic Parry</color> sẽ tự động kích hoạt sau khi <color=Highlight>Rocksteady Defense</color> kéo dài {1} giây;\nNếu Taoqi bị tấn công khi đang dùng Resonance Skill <color=Highlight>Fortified Defense</color>, <color=Highlight>Strategic Parry</color> sẽ tự động kích hoạt.\n<size=10> </size>\n<size=40><color=Title>Strategic Parry</color></size>\nTấn công mục tiêu, gây <color=Dark>Havoc DMG</color>.\n<s"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "Skill_1002202_SkillDescribe",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Deal <color=Ice>Glacio DMG</color>. Nếu <te href=850028>Afflatus</te> từ 60 trở lên, tiêu hao 60 Afflatus để triệu hồi <color=Highlight><te href=850026>Phatasmic Imprint</te></color> và <color=Highlight>Phantasmic Imprint - Right</color>.\n-Nhấn nút trên mặt đất để triệu hồi Ấn Tượng Huyễn Ảnh trên mặt đất.\n-Hold nút trên mặt đất hoặc nhấn nút giữa không trung để triệu hồi Ấn Tượng Huyễn Ảnh giữa không trung."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "Skill_1002207_SkillDescribe",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "<size=40><color=Title>Phantasmic Imprint</color></size>\nZhezhi có thể triệu hồi <color=Highlight>Phantasmic Imprints</color> bằng cách tiêu hao Afflatus khi sử dụng Resonance Skill <color=Highlight>Manifestation</color> hoặc Heavy Attack <color=Highlight>Conjuration</color>.\nTối đa 1 của mỗi loại <color=Highlight>Phantasmic Imprint - Left</color>, <color=Highlight>Phantasmic Imprint - Middle</color> và <color=Highlight>Phantasmic Imprint - Right</color> có thể tồn tại đồng thời, mỗi loại kéo dài trong {0}s.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Conjuration</color></size>\n5 động tác dưới đây tiêu hao STA để thực hiện <color=Highlight>Conjuration</color> tấn công mục tiêu, gây <color=Ice>Glacio DMG</color>.\n-Hold <color=Highlight>Normal Attack button</color> ngay sau <color=Highlight>Basic Attack Stage 3</color>.\n-Nhấn <color=Highlight>Normal Attack button</color> ngay sau khi sử dụng Resonance Skill <color=Highlight>Manifestation</color>.\n-Hold <color=Highlight>Normal At"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "Skill_1002501_SkillDescribe",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=Light>Spectro DMG</color>. Mỗi đòn trúng đích tạo ra 1 <color=Highlight><te href=850022>Collapsed Core</te></color>.\n<size=10> </size>\n<size=40><color=Title>Heavy Attack</color></size>\nHold <color=Highlight>Normal Attack Button</color> để chuyển sang <color=Highlight>Unbound Form</color>, tiêu hao STA liên tục. Ở dạng này, Shorekeeper sẽ:\n- Tạo ra một đoạn <color=Highlight>Deductive Data</color> mỗi giây;\n- Tự động thu thập các vật phẩm thực vật gần đó.\nHết STA hoặc thực hiện hành động như <color=Highlight>Basic Attack</color> sẽ kết thúc <color=Highlight>Unbound Form</color> và gây <color=Light>Spectro DMG</color> lên mục tiêu. Mỗi đoạn <color=Highlight>Deductive Data</color> tích lũy sẽ chuyển thành Data Thực Nghiệm và tạo ra 1 <color=Highlight><te href=850022>Collapsed Core</te></color>.\n<size=10> </size>\n<size=40><color=Title>Mid-air Attack</color></size>\nTiêu hao STA để thực hiệ"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "PhantomSkill_280013_DescriptionEx",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Kích hoạt Kỹ Năng Echo để triệu hồi một phần sức mạnh của *Sai Lầm Vô Hồi*, gây vụ nổ trong phạm vi xung quanh, gây Spectro DMG bằng {0} HP tối đa. Sau đó, Resonator nhận 10% hồi năng lượng cộng thêm và toàn bộ thành viên đội nhận 10% Tấn Công cộng thêm trong 20 giây.\nHold Kỹ Năng Echo để tung ra hàng loạt đòn tấn công liên tiếp tiêu hao STA, mỗi đòn gây Spectro DMG bằng {1} HP tối đa; thả ra để kết thúc bằng một đòn mạnh, gây Spectro DMG bằng {2} HP tối đa.\nHồi chiêu: {3} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "PhantomSkill_200134_DescriptionEx",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Nhấn {Cus:Ipt,Touch=Ấn PC=Nhấn Gamepad=Nhấn} Kỹ Năng Echo để biến hình thành Voidwing Moth, gây {0} Spectro DMG lên kẻ địch xung quanh.\nHold Kỹ Năng Echo để tấn công liên tục, gây tối đa 12 lần {1} Spectro DMG.\nTrong vòng {2} giây sau khi dùng Kỹ Năng Echo này, sử dụng Outro Skill sẽ tăng Tấn Công của Resonator kế tiếp thêm {3} trong {4} giây.\nHồi chiêu: {5} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "PhantomSkill_200134_SimplyDescription",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Nhấn {Cus:Ipt,Touch=Ấn PC=Nhấn Gamepad=Nhấn} Kỹ Năng Echo để biến hình thành Voidwing Moth, gây Spectro DMG.\nHold Kỹ Năng Echo để tấn công liên tục, gây Spectro DMG.\nSử dụng Kỹ Năng Echo này sẽ tăng Tấn Công của Resonator kế tiếp."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "Skill_1000207_SkillResume",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "<size=40><color=Title>Resonance Skill: DAKA DAKA!</color></size>\nHold <color=Highlight>Whizzing Fight Spirit</color> để进入 trạng thái <color=Highlight>DAKA DAKA!</color>. Trong trạng thái này:\n- Chixia liên tục bắn Thermobaric Bullets tấn công mục tiêu, gây <color=Fire>Fusion DMG</color>.\n- Sử dụng <color=Highlight>Basic Attack</color> để thi triển <color=Highlight>Basic Attack 4</color>, gây <color=Fire>Fusion DMG</color> và thoát khỏi trạng thái DAKA DAKA!.\n- Nếu đã bắn {0} Thermobaric Bullets khi sử dụng <color=Highlight>Basic Attack</color>, Chixia sẽ thi triển Resonance Skill <color=Highlight>Boom Boom</color> và thoát khỏi trạng thái DAKA DAKA!.\n- Chixia thoát khỏi trạng thái DAKA DAKA! khi hết Thermobaric Bullets.\n<size=10></size>\n<size=40><color=Title>Resonance Skill: Boom Boom</color></size>\nDeal <color=Fire>Fusion DMG</color>.\n<size=10></size>\n<size=40><color=Title>Thermobaric Bullets</color></size>\nChixia có thể mang tối đa {1} Thermobaric Bullets.\nInherent Skill <color=Highl"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "Skill_1000901_SkillResume",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "<size=40><color=Title>Basic Attack</color></size>\nDeal <color=Dark>Havoc DMG</color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack</color></size>\nTiêu hao STA để gây <color=Dark>Havoc DMG</color>.\nHold Basic Attack để bước vào trạng thái <color=Highlight>Rocksteady Defense</color>.\n<size=10></size>\n<size=40><color=Title>Rocksteady Defense</color></size>\n- Sát thương nhận vào giảm {0}.\n- Khi Taoqi bị tấn công trong trạng thái <color=Highlight>Rocksteady Defense</color>, cô sẽ thi triển <color=Highlight>Strategic Parry</color>.\n- <color=Highlight>Strategic Parry</color> sẽ tự động thi triển sau {1} giây trong trạng thái <color=Highlight>Rocksteady Defense</color>.\n<size=10></size>\n<size=40><color=Title>Strategic Parry</color></size>\nDeal <color=Dark>Havoc DMG</color>.\n<size=10></size>\n<size=40><color=Title>Mid-air Attack</color></size>\nTiêu hao STA để gây <color=Dark>Havoc DMG</color>.\n<size=10></size>\n<size=40><color=Title>Dodge Counter</color></size>\nDeal <color=Dark>Havoc DMG</"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "Skill_1004602_SkillDescribe",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "<size=40><color=Title>Form Switch</color></size>\nAemeath có thể chuyển đổi hình dạng giữa bản thân và Mech. Mech kế thừa chỉ số của Aemeath và mở khóa các đòn tấn công mới.\nAemeath tự động thực hiện <color=Highlight>Basic Attack - Stage 1</color> khi sử dụng <color=Highlight>Form Switch</color>.\nKhi ở dạng Mech, Aemeath tự động thực hiện <color=Highlight>Mid-air Attack</color> khi sử dụng <color=Highlight>Form Switch</color> trên không.\n<size=10></size>\n<size=40><color=Title>Sync Strike: Armament Merge</color></size>\n{Cus:Ipt,Touch=tap PC=press Gamepad=press} <color=Highlight>Resonance Skill</color> ngay sau khi sử dụng <color=Highlight>Basic Attack - Aemeath Stage 2, 3 & 4</color>, <color=Highlight>Heavy Attack - Aemeath</color> hoặc <color=Highlight>Dodge Counter - Aemeath</color> để thực hiện <color=Highlight>Sync Strike: Armament Merge</color>, gây <color=Fire>Fusion DMG</color>.\nChuyển sang dạng Mech sau khi sử dụng kỹ năng này. {Cus:Ipt,Touch=tap PC=press Gamepad=press} nút <colo"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "Skill_1005201_SkillDescribe",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "<size=40><color=Title>Basic Attack - Present Self</color></size>\n{Cus:Ipt,Touch=tap PC=press Gamepad=press} <color=Highlight>Normal Attack</color> liên tiếp hoặc giữ để thực hiện tối đa 3 đòn tấn công liên tiếp, gây <color=Ice>Glacio DMG</color>.\n<color=Highlight>Basic Attack - Present Self Stage 3</color> áp dụng <color=Highlight><te href=850010>Glacio Chafe</te></color> 1 lần khi trúng đích.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Frost Splinter: Present Self</color></size>\nKhi <color=Highlight><te href=110801>Dedication</te></color> đạt 300 điểm, <color=Highlight>Heavy Attack - Frost Splinter: Present Self</color> sẽ khả dụng.\nGiữ <color=Highlight>Normal Attack</color> để bắn 3 mũi tên liên tiếp, tiêu hao STA, gây <color=Ice>Glacio DMG</color>, được tính là Sát Thương Resonance Liberation. Hiyuki miễn nhiễm với gián đoạn và sát thương đến trong thời gian này.\nKhi mũi tên cuối được bắn, 300 điểm <color=Highlight><te href=110801>Dedication</te></color> sẽ bị tiêu hao và "
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "Skill_1005203_SkillDescribe",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "<size=40><color=Title>Foreclaiming: Inward Vision</color></size>\n<color=Highlight>Foreclaiming: Inward Vision</color> sẽ khả dụng sau khi sử dụng <color=Highlight>Heavy Attack - Frost Splinter: Present Self</color>.\nKhi ở trạng thái <color=Highlight><te href=110806>Present Self</te></color>, {Cus:Ipt,Touch=tap PC=press Gamepad=press} <color=Highlight>Resonance Liberation</color> để kích hoạt kỹ năng này, gây <color=Ice>Glacio DMG</color>. Sau khi sử dụng, nhận 3 điểm <color=Highlight><te href=110803>Frostharden Iai</te></color>, trừ 300 điểm <color=Highlight><te href=110801>Dedication</te></color> và <color=Highlight><te href=110802>Frostheart</te></color>. Sau đó, chuyển sang trạng thái <color=Highlight><te href=110807>Foreclaimed Self</te></color> và hồi 50 điểm <color=Highlight><te href=110802>Frostheart</te></color>.\n<color=Highlight>Foreclaiming: Inward Vision</color> áp dụng 4 lớp <color=Highlight><te href=850010>Glacio Chafe</te></color> khi trúng đích.\nSử dụng <color=Highlight>"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "Skill_1005201_SkillResume",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "<size=40><color=Title>Heavy Attack - Frost Splinter: Present Self</color></size>\nKhi <color=Highlight>Dedication</color> đạt tối đa, <color=Highlight>Heavy Attack - Frost Splinter: Present Self</color> sẽ được kích hoạt.\nGiữ <color=Highlight>Normal Attack</color> để tiêu hao STA và <color=Highlight>Dedication</color>, gây <color=Ice>Glacio DMG</color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Foreclaimed Self</color></size>\nKhi ở trạng thái <color=Highlight>Foreclaimed Self</color>, giữ <color=Highlight>Normal Attack</color> để vào trạng thái <color=Highlight>Hold Breath</color>. Release <color=Highlight>Normal Attack</color> để gây <color=Ice>Glacio DMG</color> và chặn đòn tấn công sắp tới.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Bitterfrost: Foreclaimed Self</color></size>\nKhi <color=Highlight>Whiteout Bitterfrost</color> đạt tối đa, <color=Highlight>Heavy Attack - Foreclaimed Self</color> sẽ được thay thế bằng <color=Highlight>Heavy Attack -Bitterfrost: Fo"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "Skill_1005203_SkillResume",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "<size=40><color=Title>Foreclaiming: Inward Vision</color></size>\n<color=Highlight>Foreclaiming: Inward Vision</color> sẽ khả dụng sau khi sử dụng <color=Highlight>Heavy Attack - Frost Splinter: Present Self</color>.\nDeal <color=Ice>Glacio DMG</color>. Khi sử dụng, tiến vào trạng thái <color=Highlight>Foreclaimed Self</color>.\n<size=10></size>\n<size=40><color=Title>Foreclaiming: Blade Liberation</color></size>\nHold <color=Highlight>Resonance Liberation</color> để tiến vào trạng thái nạp năng lượng, liên tục tiêu hao <color=Highlight>Snowforged Blade</color>. Release <color=Highlight>Resonance Liberation</color> để gây <color=Ice>Glacio DMG</color>. Lượng <color=Highlight>Snowforged Blade</color> tiêu hao càng nhiều khi nạp, sát thương gây ra càng cao.\nSau khi sử dụng, thoát khỏi trạng thái <color=Highlight>Foreclaimed Self</color>."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "Morale_32_Activity_RewardName",
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Special Supplies"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "Achievement_200702_Name",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Unfinished Photo Album"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "RogueBuffPool_130601_BuffDesc_2_8_0",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "<color=Highlight>[Heavy Attack]</color>\n- Hold Basic Attack hoặc {Cus:Ipt,Touch=tap PC=click Gamepad=press} Basic Attack khi đang ở trên không để thi triển Heavy Attack - Thét Sấm: Thượng Đoạn, tiêu hao Prowess và nhận hiệu ứng tăng cường.\n- Hold Basic Attack sau khi thi triển Stage 2 của Basic Attack để thi triển Heavy Attack - Thét Sấm: Lùi Bước, tiêu hao Prowess."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "PhantomBattleEntryDes_4",
+    "patterns": [
+      "Gamepad=Press"
+    ],
+    "text": "Trong giai đoạn này, bạn có thể Deploy, Điều Chỉnh hoặc Biến Đổi một Echo. Bạn cũng có thể kéo Echo vào Khu Vực Tái Tạo để phục hồi Năng Lượng.\n- {Cus:Ipt,Touch=Nhấn PC=Click Gamepad=Press} \"Fight!\" để kết thúc giai đoạn này."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "TowerDefense_MainstageDesc_1-1",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Kịch Bản Mô Phỏng: Đàn Tacet Discord đang cố vượt cầu tấn công dân thường chưa kịp sơ tán. Hold vững phòng tuyến và tiêu diệt mọi kẻ địch xuất hiện."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "EpithetSourceDesc_Tafang",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Hold vững đến Hồi 15 và hoàn thành thành công \"Bài Kiểm Tra Defense Toàn Diện\" trong \"Mô Phỏng Defense Thủy Triều\".\nChỉ khả dụng trong thời gian nhận thưởng giới hạn của sự kiện."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "HonamiStoryTalent_6_CampUpgradeName",
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Premium Supplies I"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "HonamiStoryTalent_13_CampUpgradeName",
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Premium Supplies II"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "HonamiStoryTalent_20_CampUpgradeName",
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Premium Supplies III"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "HonamiStoryEffect_6_Title",
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Premium Supplies I Unlocked"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "HonamiStoryEffect_13_Title",
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Premium Supplies II Unlocked"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "HonamiStoryEffect_20_Title",
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Premium Supplies III Unlocked"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "RogueBuffPool_130601_BuffDesc_0",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "<color=Highlight>[Heavy Attack]</color>\n- Hold Basic Attack hoặc {Cus:Ipt,Touch=tap PC=click Gamepad=press} Basic Attack khi đang ở trên không để thi triển Heavy Attack - Thét Sấm: Thượng Đoạn, tiêu hao Prowess và nhận hiệu ứng tăng cường.\n- Hold Basic Attack sau khi thi triển Stage 2 của Basic Attack để thi triển Heavy Attack - Thét Sấm: Lùi Bước, tiêu hao Prowess."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "RogueBuffPool_130601_BuffDesc_33_0",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "<color=#c49e55>[Heavy Attack]</color>\n- Hold Basic Attack hoặc {Cus:Ipt,Touch=chạm PC=nhấn Gamepad=nhấn} trong không trung để sử dụng Đòn Trọng - Sấm Gầm: Attack Thượng Đoạn, tiêu hao Năng Lực và nhận hiệu ứng tăng cường.\n- Hold Basic Attack sau khi sử dụng Basic Attack Stage 2 để sử dụng Đòn Trọng - Sấm Gầm: Lùi Bước, tiêu hao Năng Lực."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "FavorGoods_121102_Content",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Một cuốn album ảnh được trang trí cầu kỳ, được gìn giữ cẩn thận. Nhìn thoáng qua cũng thấy chủ nhân trân trọng nó biết bao.\nCâu lạc bộ Nhiếp Photo tại <te href=851069>Startorch Academy</te> đã tặng mỗi thành viên một cuốn album cá nhân để lưu giữ những kỷ niệm quý giá dưới mái trường. Hầu hết các trang đều là ảnh tập thể, nơi Denia lặng lẽ mỉm cười ở góc ảnh... Đó đơn giản là cách cô kiếm điểm.\n\n<i>\"Vùng hoang dã không lời. Có lẽ nó chẳng nhìn thấy gì, chẳng nghe thấy gì, và cũng chẳng quan tâm đến những gì ta nói. Nó chỉ đơn thuần vươn mình, trải dài đến chân trời vô tận.\"</i>"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "ExploreProgress_62_Desc_Text",
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Thử thách Dodge các khối rơi. Lấy cảm hứng từ một trò chơi kinh điển, cậu cần lấp đầy một hàng để xóa nó. Hold vững vị trí đủ lâu, chiến thắng sẽ thuộc về cậu."
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "ErrorCode_700138_Text",
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Not Supplies"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "GenericPrompt_SavePathTips_TipsText",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo đã lưu vào thư mục /{0}"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "Text_FindAllConditionsFalse_Text",
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Chưa Chụp Photo Mục Tiêu"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "ItemMainType_1_Name",
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Supplies"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "ResonantChain_31038_Name",
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Portable Supplies I"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "ResonantChain_310381_Name",
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Portable Supplies II"
+  },
+  {
+    "source": "db",
+    "db": "lang_multi_text.db",
+    "table": "MultiText",
+    "id": "ResonantChain_310382_Name",
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Portable Supplies III"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 1,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Stonewall Brace và lao về phía trước, mỗi lần gây {0}% DMG. Hold nút kỹ năng để kéo dài thời gian lao tối đa {1} giây.\nConcerto Vibrancy: {2}\nCooldown: {3} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 2,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Stonewall Brace và lao về phía trước, mỗi lần gây {0}% DMG. Hold nút kỹ năng để kéo dài thời gian lao tối đa {1} giây.\nConcerto Vibrancy: {2}\nCooldown: {3} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 3,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Stonewall Brace và lao về phía trước, mỗi lần gây {0}% DMG. Hold nút kỹ năng để kéo dài thời gian lao tối đa {1} giây.\nConcerto Vibrancy: {2}\nCooldown: {3} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 4,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Stonewall Brace và lao về phía trước, mỗi lần gây {0}% DMG. Hold nút kỹ năng để kéo dài thời gian lao tối đa {1} giây.\nConcerto Vibrancy: {2}\nCooldown: {3} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 5,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Stonewall Brace và lao về phía trước, mỗi lần gây {0}% DMG. Hold nút kỹ năng để kéo dài thời gian lao tối đa {1} giây.\nConcerto Vibrancy: {2}\nCooldown: {3} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 6,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Stonewall Brace và lao về phía trước, mỗi lần gây {0}% DMG. Hold nút kỹ năng để kéo dài thời gian lao tối đa {1} giây.\nConcerto Vibrancy: {2}\nCooldown: {3} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 7,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Stonewall Brace và lao về phía trước, mỗi lần gây {0}% DMG. Hold nút kỹ năng để kéo dài thời gian lao tối đa {1} giây.\nConcerto Vibrancy: {2}\nCooldown: {3} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 8,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Stonewall Brace và lao về phía trước, mỗi lần gây {0}% DMG. Hold nút kỹ năng để kéo dài thời gian lao tối đa {1} giây.\nConcerto Vibrancy: {2}\nCooldown: {3} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 9,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Stonewall Brace và lao về phía trước, mỗi lần gây {0}% DMG. Hold nút kỹ năng để kéo dài thời gian lao tối đa {1} giây.\nConcerto Vibrancy: {2}\nCooldown: {3} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 10,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Stonewall Brace và lao về phía trước, mỗi lần gây {0}% DMG. Hold nút kỹ năng để kéo dài thời gian lao tối đa {1} giây.\nConcerto Vibrancy: {2}\nCooldown: {3} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 11,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Stonewall Brace và lao về phía trước, mỗi lần gây {0}% DMG. Hold nút kỹ năng để kéo dài thời gian lao tối đa {1} giây.\nConcerto Vibrancy: {2}\nCooldown: {3} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 12,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Stonewall Brace và lao về phía trước, mỗi lần gây {0}% DMG. Hold nút kỹ năng để kéo dài thời gian lao tối đa {1} giây.\nConcerto Vibrancy: {2}\nCooldown: {3} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 13,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Stonewall Brace và lao về phía trước, mỗi lần gây {0}% DMG. Hold nút kỹ năng để kéo dài thời gian lao tối đa {1} giây.\nConcerto Vibrancy: {2}\nCooldown: {3} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 14,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Stonewall Brace và lao về phía trước, mỗi lần gây {0}% DMG. Hold nút kỹ năng để kéo dài thời gian lao tối đa {1} giây.\nConcerto Vibrancy: {2}\nCooldown: {3} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 15,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Stonewall Brace và lao về phía trước, mỗi lần gây {0}% DMG. Hold nút kỹ năng để kéo dài thời gian lao tối đa {1} giây.\nConcerto Vibrancy: {2}\nCooldown: {3} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 16,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Stonewall Brace và lao về phía trước, mỗi lần gây {0}% DMG. Hold nút kỹ năng để kéo dài thời gian lao tối đa {1} giây.\nConcerto Vibrancy: {2}\nCooldown: {3} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 17,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Stonewall Brace và lao về phía trước, mỗi lần gây {0}% DMG. Hold nút kỹ năng để kéo dài thời gian lao tối đa {1} giây.\nConcerto Vibrancy: {2}\nCooldown: {3} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 18,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Stonewall Brace và lao về phía trước, mỗi lần gây {0}% DMG. Hold nút kỹ năng để kéo dài thời gian lao tối đa {1} giây.\nConcerto Vibrancy: {2}\nCooldown: {3} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 19,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Stonewall Brace và lao về phía trước, mỗi lần gây {0}% DMG. Hold nút kỹ năng để kéo dài thời gian lao tối đa {1} giây.\nConcerto Vibrancy: {2}\nCooldown: {3} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 20,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Stonewall Brace và lao về phía trước, mỗi lần gây {0}% DMG. Hold nút kỹ năng để kéo dài thời gian lao tối đa {1} giây.\nConcerto Vibrancy: {2}\nCooldown: {3} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 801,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Inferno Rider và tung ra một đòn đánh, gây {0}% Fusion DMG. Hold nút kỹ năng để tung thêm một đòn nữa, gây {1}% Fusion DMG. Sau đó kích hoạt vụ nổ, gây {2}% Fusion DMG.\nConcerto Vibrancy: {3}\nCooldown: {4} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 802,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Inferno Rider và tung ra một đòn đánh, gây {0}% Fusion DMG. Hold nút kỹ năng để tung thêm một đòn nữa, gây {1}% Fusion DMG. Sau đó kích hoạt vụ nổ, gây {2}% Fusion DMG.\nConcerto Vibrancy: {3}\nCooldown: {4} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 803,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Inferno Rider và tung ra một đòn đánh, gây {0}% Fusion DMG. Hold nút kỹ năng để tung thêm một đòn nữa, gây {1}% Fusion DMG. Sau đó kích hoạt vụ nổ, gây {2}% Fusion DMG.\nConcerto Vibrancy: {3}\nCooldown: {4} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 804,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Inferno Rider và tung ra một đòn đánh, gây {0}% Fusion DMG. Hold nút kỹ năng để tung thêm một đòn nữa, gây {1}% Fusion DMG. Sau đó kích hoạt vụ nổ, gây {2}% Fusion DMG.\nConcerto Vibrancy: {3}\nCooldown: {4} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 805,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Inferno Rider và tung ra một đòn đánh, gây {0}% Fusion DMG. Hold nút kỹ năng để tung thêm một đòn nữa, gây {1}% Fusion DMG. Sau đó kích hoạt vụ nổ, gây {2}% Fusion DMG.\nConcerto Vibrancy: {3}\nCooldown: {4} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 806,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Inferno Rider và tung ra một đòn đánh, gây {0}% Fusion DMG. Hold nút kỹ năng để tung thêm một đòn nữa, gây {1}% Fusion DMG. Sau đó kích hoạt vụ nổ, gây {2}% Fusion DMG.\nConcerto Vibrancy: {3}\nCooldown: {4} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 807,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Inferno Rider và tung ra một đòn đánh, gây {0}% Fusion DMG. Hold nút kỹ năng để tung thêm một đòn nữa, gây {1}% Fusion DMG. Sau đó kích hoạt vụ nổ, gây {2}% Fusion DMG.\nConcerto Vibrancy: {3}\nCooldown: {4} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 808,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Inferno Rider và tung ra một đòn đánh, gây {0}% Fusion DMG. Hold nút kỹ năng để tung thêm một đòn nữa, gây {1}% Fusion DMG. Sau đó kích hoạt vụ nổ, gây {2}% Fusion DMG.\nConcerto Vibrancy: {3}\nCooldown: {4} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 809,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Inferno Rider và tung ra một đòn đánh, gây {0}% Fusion DMG. Hold nút kỹ năng để tung thêm một đòn nữa, gây {1}% Fusion DMG. Sau đó kích hoạt vụ nổ, gây {2}% Fusion DMG.\nConcerto Vibrancy: {3}\nCooldown: {4} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 810,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Inferno Rider và tung ra một đòn đánh, gây {0}% Fusion DMG. Hold nút kỹ năng để tung thêm một đòn nữa, gây {1}% Fusion DMG. Sau đó kích hoạt vụ nổ, gây {2}% Fusion DMG.\nConcerto Vibrancy: {3}\nCooldown: {4} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 811,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Inferno Rider và tung ra một đòn đánh, gây {0}% Fusion DMG. Hold nút kỹ năng để tung thêm một đòn nữa, gây {1}% Fusion DMG. Sau đó kích hoạt vụ nổ, gây {2}% Fusion DMG.\nConcerto Vibrancy: {3}\nCooldown: {4} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 812,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Inferno Rider và tung ra một đòn đánh, gây {0}% Fusion DMG. Hold nút kỹ năng để tung thêm một đòn nữa, gây {1}% Fusion DMG. Sau đó kích hoạt vụ nổ, gây {2}% Fusion DMG.\nConcerto Vibrancy: {3}\nCooldown: {4} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 813,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Inferno Rider và tung ra một đòn đánh, gây {0}% Fusion DMG. Hold nút kỹ năng để tung thêm một đòn nữa, gây {1}% Fusion DMG. Sau đó kích hoạt vụ nổ, gây {2}% Fusion DMG.\nConcerto Vibrancy: {3}\nCooldown: {4} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 814,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Inferno Rider và tung ra một đòn đánh, gây {0}% Fusion DMG. Hold nút kỹ năng để tung thêm một đòn nữa, gây {1}% Fusion DMG. Sau đó kích hoạt vụ nổ, gây {2}% Fusion DMG.\nConcerto Vibrancy: {3}\nCooldown: {4} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 815,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Inferno Rider và tung ra một đòn đánh, gây {0}% Fusion DMG. Hold nút kỹ năng để tung thêm một đòn nữa, gây {1}% Fusion DMG. Sau đó kích hoạt vụ nổ, gây {2}% Fusion DMG.\nConcerto Vibrancy: {3}\nCooldown: {4} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 816,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Inferno Rider và tung ra một đòn đánh, gây {0}% Fusion DMG. Hold nút kỹ năng để tung thêm một đòn nữa, gây {1}% Fusion DMG. Sau đó kích hoạt vụ nổ, gây {2}% Fusion DMG.\nConcerto Vibrancy: {3}\nCooldown: {4} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 817,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Inferno Rider và tung ra một đòn đánh, gây {0}% Fusion DMG. Hold nút kỹ năng để tung thêm một đòn nữa, gây {1}% Fusion DMG. Sau đó kích hoạt vụ nổ, gây {2}% Fusion DMG.\nConcerto Vibrancy: {3}\nCooldown: {4} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 818,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Inferno Rider và tung ra một đòn đánh, gây {0}% Fusion DMG. Hold nút kỹ năng để tung thêm một đòn nữa, gây {1}% Fusion DMG. Sau đó kích hoạt vụ nổ, gây {2}% Fusion DMG.\nConcerto Vibrancy: {3}\nCooldown: {4} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 819,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Inferno Rider và tung ra một đòn đánh, gây {0}% Fusion DMG. Hold nút kỹ năng để tung thêm một đòn nữa, gây {1}% Fusion DMG. Sau đó kích hoạt vụ nổ, gây {2}% Fusion DMG.\nConcerto Vibrancy: {3}\nCooldown: {4} giây"
+  },
+  {
+    "source": "db",
+    "db": "lang_phantom.db",
+    "table": "PhantomSkill",
+    "id": 820,
+    "patterns": [
+      "Hold "
+    ],
+    "text": "Biến hình thành Inferno Rider và tung ra một đòn đánh, gây {0}% Fusion DMG. Hold nút kỹ năng để tung thêm một đòn nữa, gây {1}% Fusion DMG. Sau đó kích hoạt vụ nổ, gây {2}% Fusion DMG.\nConcerto Vibrancy: {3}\nCooldown: {4} giây"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_infodisplay\\lang_infodisplay__lore__part_0001.json",
+    "index": 0,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Rừng Mờ Photo chắc chắn là kho báu vĩ đại nhất ở Huanglong, không vùng đất nào sánh được về sự phong phú loài.\nChỉ cần đứng trước cổng vào, ta đã nghe rõ tiếng thì thầm của cây cối và lời mời gọi của chúng.\nMay mắn thay, những dữ liệu thực vật quý giá này lại nằm trong tầm tay! Thứ mà con tinh tinh đang cầm trên tay chính là hình ảnh của cây mã đề tên XXX trong tài liệu.\nGhi chép cho thấy loại quả này, được cả già lẫn trẻ ưa chuộng, từng được trồng rộng rãi trước Releasem Họa.\nTuy nhiên, với tư cách là một loài tam bội, XXX, giống như hầu hết các loại cây trồng thương mại đòi hỏi kỹ thuật nhân giống, đã biến mất sau Releasem Họa. Thông tin về loài sinh vật mỏng manh này giờ chỉ còn trong một số tài liệu lịch sử.\nDù đáng tiếc, đây cũng là quy luật tự nhiên của sự kế thừa. Theo định luật Verina, sự đình trệ là một trong những yếu tố quan trọng dẫn đến tuyệt chủng sinh học, và đây chính là kết cục tất yếu của XXX trong tự nhiên, khi khả năng sinh sản của nó đã bị con người tước đoạt."
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_infodisplay\\lang_infodisplay__lore__part_0001.json",
+    "index": 57,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Bức xạ Tacetite\nPhoto hưởng bức xạ Tacetite\nBệnh do bức xạ Tacetite kéo dài\nRối loạn nhận thức do bệnh Tacetite\nPhương pháp chữa bệnh Tacetite\n......"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0001.json",
+    "index": 153,
+    "id": null,
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Templates Supply Request Form    Người yêu cầu: Yizhu (ví dụ)   Bộ phận yêu cầu: Tuần Tra KU-Roro B (ví dụ)    Supplies yêu cầu và số lượng: 10 đạn mồi hiện đại (ví dụ)    Lý do yêu cầu: Phát hiện nhóm Save Dân gần đường cao tốc cảng (ví dụ, tóm tắt trong 80 từ trở xuống.)    Vui lòng nộp đơn qua Terminal của bạn.    Supplies yêu cầu sẽ được cấp trong ngày nộp đơn. Trong trường hợp khẩn cấp, hãy đến kho để xử lý nhanh."
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0001.json",
+    "index": 227,
+    "id": null,
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Templates Supply Request Form\nNgười yêu cầu: Yizhu (ví dụ)   Bộ phận yêu cầu: Tuần Tra KU-Roro B (ví dụ)\nSupplies yêu cầu và số lượng: 10 đạn mồi hiện đại (ví dụ)\nLý do yêu cầu: Phát hiện nhóm Save Dân gần đường cao tốc cảng (ví dụ, tóm tắt trong 80 từ trở xuống.)\n\nVui lòng nộp đơn qua Terminal của bạn.\nSupplies yêu cầu sẽ được cấp trong ngày nộp đơn. Trong trường hợp khẩn cấp, hãy đến kho để xử lý nhanh."
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0001.json",
+    "index": 417,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Tờ rơi Ngân hàng 1\nVì sao nên chọn chúng tôi quản lý tài sản của bạn?\nPhoto hưởng thương hiệu không đối thủ!\nLà ngân hàng hàng đầu tại Rinascita và một định chế thương mại thành công với bề dày lịch sử hàng thập kỷ, Averardo Bank đã giành được sự tin tưởng và trung thành của các khách hàng giá trị cao cũng như các đối tác tài chính trong và ngoài nước. Photo hưởng thương hiệu vô song cho phép chúng tôi cung cấp khả năng phân phối và bảo lãnh vượt trội trong lĩnh vực ngân hàng đầu tư, cùng mạng lưới nguồn vốn giá trị cao rộng khắp. Chúng tôi cam kết giúp khách hàng đạt được chiến lược tăng trưởng dài hạn thông qua đa dạng hóa đầu tư trên thị trường. Tại Rinascita, Averardo Bank là lựa chọn duy nhất của bạn.\nBình luận: Hiểu rồi. Ngân hàng duy nhất ở Rinascita, non trẻ nhưng được gia tộc Montelli hậu thuẫn. Dù muốn hay không, bạn cũng chỉ có thể chọn họ.\n\nT000000:::Tờ rơi Ngân hàng 2\nVì sao nên chọn chúng tôi quản lý tài sản của bạn?\nMạng lưới dịch vụ khách hàng cá nhân hóa!\nDịch vụ khách"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0001.json",
+    "index": 423,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Nghiên Cứu Toàn Diện Lịch Sử Kịch Nghệ Ragunnesi (Kèm Bình Luận)\nNghiên Cứu Toàn Diện Lịch Sử Kịch Nghệ Ragunnesi: Sự Tiến Hóa Của Sự Giao Thoa Văn hóa Bộ Lạc và Hệ thống Tín Ngưỡng\nNgười viết: DeLillo Quentin\nĐược đề xuất tài trợ: Dự án Nghiên cứu Area Hiệp hội Kịch nghệ Ragunna - Học bổng Aspire Scholars\nChủng viện Thần học Avinoleum, Ragunna, Rinascita\n\nTóm tắt: Bài nghiên cứu này tổng quan các xu hướng và phát triển nghiên cứu gần đây về nguồn gốc văn hóa kịch nghệ tại các vùng Ragunna và Septimont, đặc biệt tập trung vào những tiến bộ trong lĩnh vực \"khảo cổ học kịch nghệ\" trong thập kỷ qua. Dựa trên các nghiên cứu đa dạng và các nghiên cứu góc nhìn từ Liên bang New trong những năm gần đây, bài viết cũng kết hợp những hiểu biết từ kinh nghiệm khảo cổ của Huanglong trong việc nghiên cứu di tích lịch sử. Các nghiên cứu trường hợp được lựa chọn chủ yếu tập trung vào các vở kịch kinh điển và các sự kiện lịch sử quan trọng. Kết quả cho thấy văn hóa kịch nghệ Ragunnesi bắt nguồn từ các "
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0003.json",
+    "index": 385,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "\"Chào Rover, chào mừng đến với Triển lãm Photo Solaris!\"\nHành trình của cậu sẽ diễn ra như thế nào trong thế giới hoàn toàn mới này? Những cảnh sắc mơ ước, những người bạn mong gặp, và những câu chuyện sắp viết nên... ký ức sẽ hiện lên rực rỡ sắc màu, bắt đầu từ đây, từ chính cậu."
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0007.json",
+    "index": 16,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Nhưng mà nghĩ kỹ đi! Từ lên kế hoạch cho tựa đề mới, viết kịch bản, chỉnh sửa ảnh, rồi cả việc định dạng nữa... Quá nhiều việc luôn. Thà chúng ta cứ giữ nguyên cái tên \"Địa Điểm Chụp Photo Nổi Tiếng Lahai-Roi\" cho rồi."
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0007.json",
+    "index": 18,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Để chuẩn bị cho học kỳ mới sắp tới, kế hoạch ban đầu của chúng tớ là thực hiện một chuyên đề đặc biệt mang tên \"Địa Điểm Chụp Photo Được Yêu Thích Nhất Lahai-Roi\" để tăng độ phủ sóng. Chúng tớ đã có danh sách địa điểm và chuẩn bị bắt tay vào chụp ảnh rồi..."
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0007.json",
+    "index": 20,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Ôi, tớ hiểu ý cậu rồi! Ý cậu là thêm \"Cuộc Phỏng Vấn Đặc Biệt với Kỵ Sĩ Giun Hư Không\" lên trên \"Địa Điểm Chụp Photo Nổi Tiếng ở Lahai-Roi\". Tức là \"Hành Trình Khám Phá Điểm Nóng Lahai-Roi Của Kỵ Sĩ Giun Hư Không\"!"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0009.json",
+    "index": 406,
+    "id": null,
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Supplies, chăm sóc y tế, bảo trì trang thiết bị, quản lý nhân sự, hậu cần... Họ phải quản lý tất cả những việc này thật cẩn thận để hỗ trợ đắc lực cho các chiến binh của chúng ta."
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0017.json",
+    "index": 254,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Một cuốn album ảnh được trang trí cầu kỳ, được gìn giữ cẩn thận. Nhìn thoáng qua cũng thấy chủ nhân trân trọng nó biết bao.\nCâu lạc bộ Nhiếp Photo tại <te href=851069>Startorch Academy</te> đã tặng mỗi thành viên một cuốn album cá nhân để lưu giữ những kỷ niệm quý giá dưới mái trường. Hầu hết các trang đều là ảnh tập thể, nơi Denia lặng lẽ mỉm cười ở góc ảnh... Đó đơn giản là cách cô kiếm điểm.\n\n<i>\"Vùng hoang dã không lời. Có lẽ nó chẳng nhìn thấy gì, chẳng nghe thấy gì, và cũng chẳng quan tâm đến những gì ta nói. Nó chỉ đơn thuần vươn mình, trải dài đến chân trời vô tận.\"</i>"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_item\\lang_item__name_title__part_0001.json",
+    "index": 249,
+    "id": null,
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Monthly Development Supplies Pack"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_item\\lang_item__name_title__part_0001.json",
+    "index": 251,
+    "id": null,
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Weekly Development Supplies Pack"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_item\\lang_item__name_title__part_0001.json",
+    "index": 253,
+    "id": null,
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Beginner Development Supplies Pack"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0007.json",
+    "index": 294,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Nhiệm Vụ Photo Lollo Joy Album"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0007.json",
+    "index": 295,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Nhiệm Vụ Photo Lollo Joy Album"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0007.json",
+    "index": 301,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "\"Nhiệm Vụ Photo Lollo Joy Album\""
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0007.json",
+    "index": 302,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "\"Nhiệm Vụ Photo Lollo Joy Album\""
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0007.json",
+    "index": 308,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "\"Nhiệm Vụ Photo Lollo Joy Album\""
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0007.json",
+    "index": 309,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "\"Nhiệm Vụ Photo Lollo Joy Album\""
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0007.json",
+    "index": 315,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "\"Nhiệm Vụ Photo Lollo Joy Album\""
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0007.json",
+    "index": 316,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "\"Nhiệm Vụ Photo Lollo Joy Album\""
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0007.json",
+    "index": 322,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "\"Nhiệm Vụ Photo Lollo Joy Album\""
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0007.json",
+    "index": 323,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "\"Nhiệm Vụ Photo Lollo Joy Album\""
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0007.json",
+    "index": 329,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "\"Nhiệm Vụ Photo Lollo Joy Album\""
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0007.json",
+    "index": 330,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "\"Nhiệm Vụ Photo Lollo Joy Album\""
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0007.json",
+    "index": 336,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "\"Nhiệm Vụ Photo Lollo Joy Album\""
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0007.json",
+    "index": 337,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "\"Nhiệm Vụ Photo Lollo Joy Album\""
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0030.json",
+    "index": 454,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Bức Photo Nhóm Dưới Ánh Mặt Trời New"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0030.json",
+    "index": 455,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Bức Photo Nhóm Dưới Ánh Mặt Trời New"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0039.json",
+    "index": 120,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Studio"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0058.json",
+    "index": 339,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Asphodel Barrens Photo Spot"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0059.json",
+    "index": 365,
+    "id": null,
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Spacetrek Convoy Supplies"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0063.json",
+    "index": 369,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Shoot"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0064.json",
+    "index": 118,
+    "id": null,
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Spacetrek Convoy Supplies"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0064.json",
+    "index": 120,
+    "id": null,
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Spacetrek Convoy Supplies"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0073.json",
+    "index": 150,
+    "id": null,
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Special Supplies"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0075.json",
+    "index": 441,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Unfinished Photo Album"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0094.json",
+    "index": 225,
+    "id": null,
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Premium Supplies I"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0094.json",
+    "index": 232,
+    "id": null,
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Premium Supplies II"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0094.json",
+    "index": 239,
+    "id": null,
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Premium Supplies III"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0094.json",
+    "index": 325,
+    "id": null,
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Premium Supplies I Unlocked"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0094.json",
+    "index": 332,
+    "id": null,
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Premium Supplies II Unlocked"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0094.json",
+    "index": 339,
+    "id": null,
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Premium Supplies III Unlocked"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0104.json",
+    "index": 50,
+    "id": null,
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Not Supplies"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0112.json",
+    "index": 85,
+    "id": null,
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Supplies"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0113.json",
+    "index": 308,
+    "id": null,
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Portable Supplies I"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0114.json",
+    "index": 105,
+    "id": null,
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Portable Supplies II"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0114.json",
+    "index": 106,
+    "id": null,
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Portable Supplies III"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\quest\\lang_multi_text\\lang_multi_text__quest__part_0015.json",
+    "index": 158,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Qiuyuan viết (Bộ lọc: Noir)"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\quest\\lang_multi_text\\lang_multi_text__quest__part_0015.json",
+    "index": 184,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Iuno Thực Hiện Basic Attack Stage 3"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\quest\\lang_multi_text\\lang_multi_text__quest__part_0015.json",
+    "index": 185,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Iuno Thực Hiện Basic Attack Stage 3"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\quest\\lang_multi_text\\lang_multi_text__quest__part_0015.json",
+    "index": 198,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Qiuyuan đội nón tre"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\quest\\lang_multi_text\\lang_multi_text__quest__part_0015.json",
+    "index": 199,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Qiuyuan đội nón tre"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\quest\\lang_multi_text\\lang_multi_text__quest__part_0015.json",
+    "index": 203,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Zani Dodgem khiên vào kẻ địch"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\quest\\lang_multi_text\\lang_multi_text__quest__part_0015.json",
+    "index": 204,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Zani Dodgem khiên vào kẻ địch"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\quest\\lang_multi_text\\lang_multi_text__quest__part_0015.json",
+    "index": 212,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Jinhsi ngồi hoặc đứng trên kiếm"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\quest\\lang_multi_text\\lang_multi_text__quest__part_0015.json",
+    "index": 215,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Jinhsi ngồi hoặc đứng trên kiếm"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\quest\\lang_multi_text\\lang_multi_text__quest__part_0015.json",
+    "index": 222,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Galbrena bắn shotgun"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\quest\\lang_multi_text\\lang_multi_text__quest__part_0015.json",
+    "index": 223,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Galbrena tấn công bằng đôi cánh"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\quest\\lang_multi_text\\lang_multi_text__quest__part_0015.json",
+    "index": 225,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Galbrena bắn shotgun"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\quest\\lang_multi_text\\lang_multi_text__quest__part_0015.json",
+    "index": 226,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Galbrena tấn công bằng đôi cánh"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\quest\\lang_multi_text\\lang_multi_text__quest__part_0015.json",
+    "index": 230,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Jiyan cầm giáo"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\quest\\lang_multi_text\\lang_multi_text__quest__part_0015.json",
+    "index": 231,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Jiyan cầm giáo"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\quest\\lang_multi_text\\lang_multi_text__quest__part_0015.json",
+    "index": 234,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Jiyan tạo hình Rồng từ gió"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\quest\\lang_multi_text\\lang_multi_text__quest__part_0015.json",
+    "index": 235,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Jiyan tạo hình Rồng từ gió"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\quest\\lang_multi_text\\lang_multi_text__quest__part_0015.json",
+    "index": 239,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Hecate tấn công bằng roi"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\quest\\lang_multi_text\\lang_multi_text__quest__part_0015.json",
+    "index": 240,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Hecate tấn công bằng roi"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\quest\\lang_multi_text\\lang_multi_text__quest__part_0015.json",
+    "index": 241,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Phrolova khiêu vũ cùng Hecate"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\quest\\lang_multi_text\\lang_multi_text__quest__part_0015.json",
+    "index": 242,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Phrolova khiêu vũ cùng Hecate"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\quest\\lang_multi_text\\lang_multi_text__quest__part_0015.json",
+    "index": 243,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Phrolova biến hình thành Hecate để tấn công"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\quest\\lang_multi_text\\lang_multi_text__quest__part_0015.json",
+    "index": 244,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Phrolova biến hình thành Hecate để tấn công"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\quest\\lang_multi_text\\lang_multi_text__quest__part_0015.json",
+    "index": 248,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Iuno sử dụng Moonring"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\quest\\lang_multi_text\\lang_multi_text__quest__part_0015.json",
+    "index": 249,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Iuno sử dụng Moonring"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\quest\\lang_multi_text\\lang_multi_text__quest__part_0015.json",
+    "index": 250,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Iuno sử dụng Moonbow"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\quest\\lang_multi_text\\lang_multi_text__quest__part_0015.json",
+    "index": 251,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Iuno sử dụng Moonbow"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\quest\\lang_multi_text\\lang_multi_text__quest__part_0015.json",
+    "index": 252,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Iuno nằm trên vũ khí"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\quest\\lang_multi_text\\lang_multi_text__quest__part_0015.json",
+    "index": 253,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Iuno nằm trên vũ khí"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0004.json",
+    "index": 135,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Iuno Thực Hiện Basic Attack Stage 3"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0004.json",
+    "index": 139,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Qiuyuan đội nón tre\n\nMẹo nóng từ C-MOSS: Đã ở trạng thái đặc biệt, giữ Normal Attack để tung chiêu Thus Spoke the Blade: To Teach\n(Cứ tự do khám phá các cách khác để hoàn thành thử thách nhé)"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0004.json",
+    "index": 140,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press",
+      "Photo "
+    ],
+    "text": "Photo Zani Dodgem khiên vào kẻ địch\n\nMẹo nóng từ C-MOSS: {Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack 3 lần và {Cus:Ipt,Touch=tap PC=press Gamepad=press} Normal Attack đúng lúc để tung ra Basic Attack - Đột Phá\n(Các bạn có thể khám phá những cách khác để hoàn thành thử thách)"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0004.json",
+    "index": 142,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Zani nghỉ ngơi trên ghế\n\nLời nhắc từ C-MOSS: Giai đoạn 3 của Basic Attack\n(Các bạn có thể khám phá những cách khác để hoàn thành thử thách)"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0004.json",
+    "index": 143,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Jinhsi ngồi hoặc đạp lên thanh kiếm của mình\n\nMẹo nóng từ C-MOSS: Resonance Skill được tăng cường sau Basic Attack Stage 4\n(Cứ tự do khám phá các cách khác để hoàn thành thử thách nhé)"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0004.json",
+    "index": 148,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Galbrena tấn công bằng đôi cánh\n\nMẹo nóng từ C-MOSS: Đã ở trạng thái đặc biệt, giờ hãy dùng Basic Attack\n(Tự do khám phá các cách khác để hoàn thành thử thách)"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0004.json",
+    "index": 149,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Jiyan cầm thương\n\nMẹo nóng từ C-MOSS: Resonance Skill\n(Cứ tự do khám phá các cách khác để hoàn thành thử thách nhé)"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0004.json",
+    "index": 151,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Jiyan tạo hình Rồng từ gió\n\nMẹo nóng từ C-MOSS: Basic Attack trong trạng thái Resonance Liberation\n(Cứ tự do khám phá các cách khác để hoàn thành thử thách nhé)"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0004.json",
+    "index": 152,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Phrolova hóa thân thành Hecate để tấn công\n\nMẹo nóng từ C-MOSS: Dùng Resonance Skill sau Stage 3 của Basic Attack\n(Cứ tự do khám phá các cách khác để hoàn thành thử thách nhé)"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0004.json",
+    "index": 153,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Phrolova nhảy múa cùng Hecate\n\nLời nhắc từ C-MOSS: Stage 2 của Basic Attack\n(Cứ tự do khám phá các cách khác để hoàn thành thử thách nhé)"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0004.json",
+    "index": 154,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Iuno sử dụng Moonring\n\nMẹo hay từ C-MOSS: Basic Attack ở trạng thái bình thường\n(Cứ tự do khám phá các cách khác để hoàn thành thử thách nhé)"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0004.json",
+    "index": 155,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Iuno sử dụng Moonbow\n\nMẹo hay từ C-MOSS: Đã ở trạng thái đặc biệt, hãy dùng Resonance Liberation ngay\n(Cứ tự do khám phá các cách khác để hoàn thành thử thách nhé)"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0005.json",
+    "index": 132,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<color=Highlight>Wide Field Observation Mode</color> kéo dài trong {11} giây.\n- Khi bước vào <color=Highlight>Wide Field Observation Mode</color>, Mornye tạo ra một <color=Highlight>Trường Resonance</color>.\n- Trong <color=Highlight>Wide Field Observation Mode</color>, Mornye nhận được <color=Highlight>Relative Momentum</color>.\n- Nếu <color=Highlight>Relative Momentum</color> dưới {0} khi giữ <color=Highlight>Normal Attack</color>, thực hiện <color=Highlight>Basic Attack - Wide Field Observation Mode Stage 1 đến 3</color> theo thứ tự. Nếu <color=Highlight>Relative Momentum</color> đạt {0} trong lúc này, thay vào đó sẽ tung ra <color=Highlight>Heavy Attack - Inversion</color>.\n- Khi di chuyển, Mornye liên tục tiêu hao STA. STA không thể hồi phục trong <color=Highlight>Wide Field Observation Mode</color>.\n- Khi Dodge có nhập hướng, Mornye sẽ bay với tốc độ cao, hiệu ứng kéo dài tối đa 10 giây hoặc cho đến khi STA cạn kiệt hoặc <color=Highlight>Wide Field Observation Mode</color> kết thú"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0009.json",
+    "index": 429,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "Trong trạng thái <color=Highlight>Kaleidoscopic Parade</color>, <color=Highlight>Basic Attack</color> của Lynae sẽ được thay thế bằng <color=Highlight>Kaleidoscopic Parade - Basic Attack</color>. {Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack liên tiếp để thực hiện tối đa 5 đòn đánh liên tục, gây <color=Light>Spectro DMG</color>."
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0010.json",
+    "index": 370,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "Sau khi kích hoạt <color=Highlight>Lunar Cycle</color> với Closing Refrain, {Cus:Ipt,Touch=tap PC=press Gamepad=press} Jump để tung đòn <color=Highlight>Heavy Attack - Flux</color> và chuyển sang <color=Highlight>Lunar Cycle - New Moon</color>.\nTrong trạng thái này, Iuno tấn công bằng <color=Highlight>Moonbow</color> với chi phí Forte Gauge, gây <color=Wind>Aero DMG</color>.\n{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Jump thêm lần nữa để chuyển về <color=Highlight>Lunar Cycle - Half Moon</color>."
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0010.json",
+    "index": 383,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "Khi <color=Highlight>Prowess</color> đạt tối đa, <color=Highlight>Heavy Attack - Steelclash</color> sẽ được thay thế bằng <color=Highlight>Heavy Attack - Thunderoar: Backstep</color>, gây <color=Thunder>Electro DMG</color> và tiêu hao toàn bộ Uy Lực. Trong hành động, <color=Highlight>{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack</color> để thi triển <color=Highlight>Heavy Attack - Thunderoar: Spinslash</color>."
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0010.json",
+    "index": 394,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "Khi <color=Highlight>Ascendancy</color> đạt tối đa:\n- {Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Resonance Skill liên tục để thi triển các kỹ năng theo thứ tự:\n<color=Highlight>Resonance Skill - Undying Sunlight: Strike</color>, <color=Highlight>Resonance Skill - Undying Sunlight: Leap</color>, và <color=Highlight>Resonance Skill - Undying Sunlight: Plunge</color>."
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0011.json",
+    "index": 469,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Về sự kiện\n\"Xin chào, Rover, chào mừng đến với Triển Lãm Photo Solaris!\"\nHành trình của cậu trong thế giới hoàn toàn mới này sẽ diễn ra như thế nào? Những cảnh sắc mơ ước, những người bạn mong gặp, những câu chuyện sắp viết nên... tất cả ký ức sẽ hiện lên rực rỡ sắc màu, bắt đầu từ đây, từ chính cậu.\n \nĐiều kiện tham gia\nTạo hồ sơ nhân vật sau bản cập nhật Phiên bản 2.4 và đạt Cấp Liên Minh 5.\n \nThời gian diễn ra\nLễ kỷ niệm Hành Trình New Solaris sẽ mở khóa khi đạt đủ điều kiện. Event kéo dài 30 ngày.\n \nQuy tắc sự kiện\nEvent gồm bốn loại nhiệm vụ: Tidal Memories, Combat Scenes, Scenic Wonders và Lộ Trình Trưởng Thành. Hoàn thành nhiệm vụ để nhận phần thưởng vật phẩm và Points Hoạt Náo Kỷ Niệm.\nTích lũy Points Hoạt Náo để mở khóa những phần thưởng giá trị. Tiếp tục cố gắng để nhận được <color=#ffd12f>standard 5-star Resonator of your choice</color>!\nNếu sự kiện kết thúc mà cậu vẫn còn phần thưởng chưa nhận, hãy đăng nhập trong vòng 30 ngày sau đó để nhận qua thư.\nNếu trong sự kiện cậu k"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0012.json",
+    "index": 454,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=Fire>Fusion DMG</color>. Sát thương từ Basic Attack Stage 1-3 được tính là <color=Highlight>Heavy Attack DMG</color>, còn Basic Attack Stage 4 là <color=Highlight>Echo Skill DMG</color>.\n{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack ngay sau khi thực hiện <color=Highlight>Basic Attack Stage 4</color> để thực hiện <color=Highlight>Basic Attack Stage 2</color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Volley of Death</color></size>\nTiêu hao STA để tấn công mục tiêu và thực hiện tối đa 3 đòn liên tiếp, gây <color=Fire>Fusion DMG</color>. Sát thương Stage 3 được tính là <color=Highlight>Echo Skill DMG</color>.\n{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack ngay sau khi thực hiện <color=Highlight>Heavy Attack - Volley of Death Stage 1</color> để thực hiện <color=Highlight>Basic Attack Stage 2</color>. {Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal A"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0012.json",
+    "index": 467,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Threshold State</color></size>\nMặc định, Galbrena ở <color=Highlight>Threshold State</color>, và trong trạng thái này, cô tích lũy <color=Highlight>Afterflame</color> và <color=Highlight>Sinflame</color>.\n<size=10></size>\n<size=40><color=Title>Demon Hypostasis</color></size>\nKhi ở <color=Highlight>Demon Hypostasis</color>, Basic Attack, Heavy Attack, Attack Holda Không, Dodge Counter và Resonance Skill được tăng cường, tiêu hao <color=Highlight>Purging Flame</color> khi trúng đích.\nKhi ở <color=Highlight>Demon Hypostasis</color>, lượng <color=Highlight>Afterflame</color> của Galbrena càng nhiều, kẻ địch càng chịu nhiều sát thương từ <color=Highlight>various enhanced moves</color>.\nKhi <color=Highlight>Purging Flame</color> cạn kiệt, Galbrena sẽ tự động thoát khỏi <color=Highlight>Demon Hypostasis</color>.\n<size=10></size>\n<size=40><color=Title>Enhanced Basic Attack</color></size>\nDeal <color=Fire>Fusion DMG</color>.\n<size=10></size>\n<size=40><color=Title>Enhanced "
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0012.json",
+    "index": 491,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Eye of Unraveling</color></size>\nGây Trì Trệ và gây <color=Dark>Havoc DMG</color>.\n- Khi không ở trong <color=Highlight>Chainsaw Mode</color>, sau khi sử dụng kỹ năng này, {Cus:Ipt,Touch=tap PC=press Gamepad=press} <color=Highlight>Normal Attack</color> trên mặt đất hoặc sử dụng <color=Highlight>Normal Attack</color> giữa không trung để tung ra <color=Highlight>Rending Lunge</color>. Hiệu ứng này sẽ bị loại bỏ khi Chisa bước vào <color=Highlight>Chainsaw Mode</color>.\n- Khi ở trong <color=Highlight>Chainsaw Mode</color> và trên mặt đất, {Cus:Ipt,Touch=tap PC=press Gamepad=press} <color=Highlight>Normal Attack</color> ngay sau khi sử dụng kỹ năng này để tung ra <color=Highlight>Sawring - Blitz Stage 2</color>.\nCó thể sử dụng giữa không trung.\n<size=10></size>\n<size=40><color=Title>Serrated Loop</color></size>\nKhi ở trên mặt đất và <color=Highlight><te href=150803>Ring of Chainsaw</te></color> đã đầy, <color=Highlight>Resonance Skill</color> sẽ được thay thế bằng <c"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0013.json",
+    "index": 6,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=Fire>Fusion DMG</color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack</color></size>\nTiêu hao STA để tấn công mục tiêu, gây <color=Fire>Fusion DMG</color>.\n<size=10></size>\n<size=40><color=Title>Basic Attack - Wide Field Observation Mode</color></size>\nKhi ở trong <color=Highlight><te href=120902>Wide Field Observation Mode</te></color>, <color=Highlight>Basic Attack</color> sẽ được thay thế bằng <color=Highlight>Basic Attack - Wide Field Observation Mode</color>.\nThực hiện tối đa 3 đòn tấn công liên tiếp, gây <color=Fire>Fusion DMG</color>.\n<size=10></size>\n<size=40><color=Title>Mid-air Attack</color></size>\nTiêu hao STA để thực hiện Đòn Hạ Cánh, gây <color=Fire>Fusion DMG</color>. {Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> trong khoảng thời gian nhất định sau đó để tung ra <color=Highlight>Basic Attack Stage 3</color>.\n<size=10></size>"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0013.json",
+    "index": 18,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Baseline Mode</color></size>\nKhi ở <color=Highlight>Baseline Mode</color>, Mornye nhận <color=Highlight><te href=120903>Năng Lượng Khối Lượng Nghỉ</te></color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Shift Địa Thế</color></size>\nKhi <color=Highlight><te href=120903>Năng Lượng Khối Lượng Nghỉ</te></color> đạt {0} điểm, Heavy Attack sẽ được thay thế bằng <color=Highlight>Heavy Attack - Shift Địa Thế</color>.\nThực hiện <color=Highlight>Heavy Attack - Shift Địa Thế</color> để gây <color=Fire>Fusion DMG</color>, được tính là Sát Thương Heavy Attack. Sau đó, Mornye sẽ nhảy lên không trung, tiêu hao toàn bộ <color=Highlight><te href=120903>Năng Lượng Khối Lượng Nghỉ</te></color> và chuyển sang <color=Highlight><te href=120902>Wide Field Observation Mode</te></color>.\n<size=10></size>\n<size=40><color=Title>Wide Field Observation Mode</color></size>\n<color=Highlight>Wide Field Observation Mode</color> kéo dài trong {11} giây.\n- Khi vào <color=Highlight>Wide "
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0013.json",
+    "index": 26,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Basic Attack</color></size>\n{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} hoặc giữ Normal Attack để thực hiện tối đa 3 đòn tấn công liên tiếp, gây <color=Light>Spectro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Mid-air Attack</color></size>\nTiêu hao STA để thực hiện Plunging Attack, gây <color=Light>Spectro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Dodge Counter</color></size>\n{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack ngay sau khi Dodge thành công để tấn công mục tiêu, gây <color=Light>Spectro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Basic Attack - Spark Collision</color></size>\nKhi <color=Highlight><te href=150905>Overflow</te></color> trong <color=Highlight><te href=150901>Optical Sampling Stage</te></color> đạt tối đa, giữ Normal Attack để进入 trạng thái sạc.\nTrong trạng thái này, 15 điểm <color=Highlight><te href=150905>Overflow</te></color> sẽ được chuyển đổi thành 12.5% <color=Highlight><te href=150906>Lumiflow</te><"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0013.json",
+    "index": 30,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "Deal <color=Light>Spectro DMG</color>. Khi sử dụng kỹ năng này, tăng {0} sát thương cho tất cả Resonators gần đó trong đội trong {1} giây.\n<size=10></size>\n<size=40><color=Title>Basic Attack - To a Vivid Tomorrow!</color></size>\n{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack trong khoảng thời gian nhất định sau khi sử dụng <color=Highlight>Resonance Liberation - Prismatic Overblast</color> để thi triển <color=Highlight>Basic Attack - To a Vivid Tomorrow!</color>, gây <color=Light>Spectro DMG</color>.\nKhi ở trạng thái <color=Highlight><te href=150902>Kaleidoscopic Parade</te></color>, {Cus:Ipt,Touch=tap PC=press Gamepad=press} Normal Attack trong khoảng thời gian nhất định để thi triển <color=Highlight>Kaleidoscopic Parade - Basic Attack Stage 2</color>."
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0013.json",
+    "index": 38,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Optical Sampling Stage</color></size>\nTheo mặc định, Lynae ở trong <color=Highlight><te href=150901>Optical Sampling Stage</te></color>. Trong trạng thái này, <color=Highlight><te href=150905>Overflow</te></color> sẽ hồi phục khi sử dụng một số kỹ năng nhất định.\n<size=10></size>\n<size=40><color=Title>Kaleidoscopic Parade</color></size>\nSử dụng <color=Highlight>Basic Attack - Spark Collision</color> sẽ đưa Lynae vào trạng thái <color=Highlight><te href=150902>Kaleidoscopic Parade</te></color>. Trong trạng thái này, Lynae liên tục hồi phục <color=Highlight><te href=150906>Lumiflow</te></color> khi di chuyển trên mặt đất hoặc trong một số khoảng thời gian nhất định của một số kỹ năng. Lynae sẽ không thể Đi Bộ trong trạng thái này, và việc Chạy hoặc Tăng Tốc sẽ được thay thế bằng <color=Highlight>Free Skating</color> và <color=Highlight>Speed Skating</color> nhanh hơn.\n<size=10></size>\n<size=40><color=Title>Basic Attack - Polychrome Leap</color></size>\nTrong trạng th"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0013.json",
+    "index": 46,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=Light>Spectro DMG</color>.\nỞ Stage 3, phóng ra một lưỡi hái xoay tròn, biến mất khi Luuk Herssen sử dụng kỹ năng khác có thể gây sát thương hoặc rời khỏi chiến trường.\n<size=10></size>\n<size=40><color=Title>Heavy Attack</color></size>\nTiêu hao STA để nhảy lên không trung, gây <color=Light>Spectro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Mid-air Attack</color></size>\nThực hiện tối đa 4 đòn tấn công liên tiếp trên không, gây <color=Light>Spectro DMG</color>. Stage 4 là Đòn Lao Xuống tiêu hao STA.\n<color=Highlight>{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack</color> hoặc <color=Highlight>Jump</color> để thực hiện <color=Highlight>Basic Attack</color> Giai Đoạn {0} và 3 trên không.\nLuuk Herssen tấn công bằng <color=Highlight>Scythe: Dissection</color> khi nhập lệnh <color=Highlight>Normal Attack</color>.\nLuuk Herssen tấn công bằng <color=Highlight>Scythe: Resectio"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0013.json",
+    "index": 56,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "Deal <color=Light>Spectro DMG</color>. Dodgem một lưỡi <color=Highlight><te href=151004>Ichor Blade</te></color> và gây hiệu ứng <color=Highlight><te href=100003>Tune Strain - Shifting</te></color> lên mục tiêu.\n<color=Highlight>{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack</color> sau kỹ năng này để thi triển <color=Highlight>Mid-air Attack Stage 2 - Scythe: Dissection</color> hoặc <color=Highlight>Jump</color> để thi triển <color=Highlight>Mid-air Attack Stage 2 - Scythe: Resection</color>."
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0013.json",
+    "index": 57,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "Gây <color=Light>Spectro DMG</color> và áp dụng <color=Highlight>Tune Strain - Shifting</color>.\n<color=Highlight>{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack or Jump</color> sau khi sử dụng kỹ năng này để thi triển <color=Highlight>Mid-air Attack Stage 2</color>."
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0013.json",
+    "index": 258,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=Thunder>Electro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Mountain Over Thunder</color></size>\n<color=Highlight>Giữ Normal Attack</color> để tiêu hao hai quẻ được đánh dấu - Núi và Sấm từ trái sang phải và tung ra <color=Highlight>Heavy Attack - Mountain Over Thunder</color>, gây <color=Thunder>Electro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Thunder Over Mountain</color></size>\n<color=Highlight>Giữ Normal Attack</color> để tiêu hao hai quẻ được đánh dấu - Sấm và Núi từ trái sang phải và tung ra <color=Highlight>Heavy Attack - Thunder Over Mountain</color>, gây một lượng nhỏ <color=Thunder>Electro DMG</color> và đồng thời giảm Vibration Strength của mục tiêu.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Twin Mountains</color></size>\n<color=Highlight>Giữ Normal Attack</color> để tiêu hao hai quẻ được đánh dấu - Núi từ trái sa"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0013.json",
+    "index": 339,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "Khi Thăng Hoa đạt tối đa:\n{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} {1} + {Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} {1}/{0} + {Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} {1}/{0} để thực hiện các kỹ năng theo thứ tự:\n- <color=Highlight>Resonance Skill - Undying Sunlight: Strike</color>, <color=Highlight>Resonance Skill - Undying Sunlight: Leap</color>, và <color=Highlight>Resonance Skill - Undying Sunlight: Plunge</color>."
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0017.json",
+    "index": 22,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<color=Highlight>{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press}</color> {0} ngay sau khi sử dụng <color=Highlight>Resonance Skill</color> để thực hiện Stage 4 Basic Attack và nhận được Trigram - Lôi."
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0018.json",
+    "index": 229,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 3 đòn tấn công liên tiếp, gây <color=Dark>Havoc DMG</color>.\n<size=10> </size>\n<size=40><color=Title>Heavy Attack</color></size>\nTiêu hao STA để tấn công mục tiêu, gây <color=Dark>Havoc DMG</color>.\n<size=10> </size>\n<size=40><color=Title>Heavy Attack - Delusive Dive</color></size>\nKhi Cantarella ở trạng thái Trance, <color=Highlight>Heavy Attack</color> sẽ trở thành <color=Highlight>Delusive Dive</color>, gây <color=Dark>Havoc DMG</color> cho mục tiêu, sau đó Cantarella bước vào <color=Highlight><te href=850054>Mirage</te></color>. Khi ở trạng thái <color=Highlight>Mirage</color>, sử dụng <color=Highlight>Delusive Dive</color> sẽ không kích hoạt lại <color=Highlight>Mirage</color>.\nCó thể sử dụng dưới nước.\n<size=10> </size>\n<size=40><color=Title>Mid-air Attack</color></size>\nTiêu hao STA để thực hiện Đòn Hạ Gục, gây <color=Dark>Havoc DMG</color>.\n<size=10> </size>\n<size=40><color=Title>Dodge Counter</color></size>\n{Cu"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0018.json",
+    "index": 244,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=Wind>Aero DMG</color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack</color></size>\nTiêu hao STA để tấn công mục tiêu, gây <color=Wind>Aero DMG</color>.\n- {Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> ngay sau khi sử dụng kỹ năng để thực hiện <color=Highlight>Basic Attack Stage 3</color> trực tiếp.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Razor Wind</color></size>\nGiữ <color=Highlight>Normal Attack</color> sau khi sử dụng <color=Highlight>Basic Attack Stage 3</color>, <color=Highlight>Dodge Counter</color> hoặc <color=Highlight>Heavy Attack</color> để thi triển Heavy Attack <color=Highlight>Razor Wind</color>. Tiêu hao STA để tấn công mục tiêu, gây <color=Wind>Aero DMG</color>.\n<size=10></size>\n<size=40><color=Title>Mid-air Attack</color></size>\nTiêu hao STA để thực hiện Attack Lao Xuống, gây <color=Wind>Aero DMG</color>.\n- {Cus"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0018.json",
+    "index": 256,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Mid-air Attack - Cloudburst Dance</color></size>\nThực hiện tối đa 2 đòn tấn công liên tiếp, gây <color=Wind>Aero DMG</color> (được tính là Sát Thương Resonance Skill) và hồi phục HP cho tất cả Resonators trong đội ở gần. Có thể kích hoạt theo 3 cách sau:\n- {Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> ngay sau khi sử dụng Resonance Skill <color=Highlight>Awakening Gale</color>.\n- {Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> ngay sau khi sử dụng <color=Highlight>Intro Skill</color>.\n- {Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> ngay sau khi sử dụng Heavy Attack <color=Highlight>Razor Wind</color>.\nKhi kích hoạt Mid-air Attack <color=Highlight>Cloudburst Dance</color>, giữ <color=Highlight>Normal Attack</color> để thực hiện <color=Highlight>Mid-air Attack</color>.\n<size=10></size>\n<size=40><color=Title>Resonance Skill - Unbound Flow</color></size>\nKhi Wi"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0018.json",
+    "index": 279,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=Wind>Aero DMG</color>. Basic Attack giai đoạn 4 gây 1 tầng <color=Highlight><te href=850009>Aero Erosion</te></color> lên mục tiêu trúng đòn.\n- Khi ba giai đoạn đầu của Basic Attack của Ciaccona bị gián đoạn do Dodge, {Cus:Ipt,Touch=tap PC=press Gamepad=press} Basic Attack kịp thời để tiếp tục chu kỳ tấn công và thực hiện giai đoạn Basic Attack tương ứng.\n- Sau Basic Attack giai đoạn 4, Ciaccona bắt đầu <color=Highlight>Solo Concert</color>. Nếu Basic Attack giai đoạn 4 hoặc <color=Highlight>Solo Concert</color> của Ciaccona kết thúc sớm (chủ động hoặc bị gián đoạn), một <color=Highlight>Ensemble Sylph</color> sẽ được tạo ra.\n\n<size=40><color=Title>Solo Concert</color></size>\nKhi Ciaccona hoặc Ensemble Sylph thực hiện Solo Concert, họ sẽ tăng 24% Aero DMG Bonus cho tất cả Resonators gần đó trong đội. Hiệu ứng này không thể cộng dồn.\n\n<size=40><color=Title>Ensemble Sylph</color></size"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0018.json",
+    "index": 313,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=Fire>Fusion DMG</color>.\n- Sau Basic Attack Stage 3, {Cus:Ipt,Touch=tap PC=press Gamepad=press} Normal Attack đúng thời điểm để thực hiện <color=Highlight>Mid-air Attack Stage 1</color>.\n- Sau <color=Highlight>Dodge Counter</color>, Basic Attack <color=Highlight>Starfall</color>, Resonance Skill <color=Highlight>Shewolf's Hunt</color> hoặc Resonance Skill <color=Highlight>Feral Fang</color>, {Cus:Ipt,Touch=tap PC=press Gamepad=press} Normal Attack đúng thời điểm để thực hiện <color=Highlight>Basic Attack Stage 2</color>.\n\n<size=40><color=Title>Heavy Attack</color></size>\nTiêu hao STA để tấn công mục tiêu, gây <color=Fire>Fusion DMG</color>.\n\n<size=40><color=Title>Heavy Attack - Wolf's Gnawing</color></size>\nKhi <te href=850174>Wolflame</te> đạt {0} điểm, <color=Highlight>Heavy Attack</color> sẽ được thay thế bằng <color=Highlight>Wolf's Gnawing</color>, tiêu hao STA để tấn công mục t"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0018.json",
+    "index": 331,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 3 đòn tấn công liên tiếp, gây <color=Dark>Havoc DMG</color>.\nKhi thực hiện <color=Highlight>Basic Attack Stage 3</color>, bước vào trạng thái <color=Highlight><te href=160805>Reincarnate</te></color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack</color></size>\nTiêu hao STA để tấn công mục tiêu, gây <color=Dark>Havoc DMG</color>.\n{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> ngay sau khi sử dụng kỹ năng này để thực hiện <color=Highlight>Basic Attack Stage 2</color>.\n<size=10></size>\n<size=40><color=Title>Scarlet Coda</color></size>\nPhrolova bước vào trạng thái <color=Highlight>Compose</color> mỗi {1} giây.\nKhi đáp ứng đủ 3 điều kiện sau, <color=Highlight>Heavy Attack</color> sẽ được thay thế bằng <color=Highlight>Scarlet Coda</color>:\n- Có 6 <color=Highlight><te href=160801>Volatile Notes</te></color>.\n- Đang ở trạng thái <color=Highlight>Compose</color>.\n- Không ở trạng thái <"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0018.json",
+    "index": 335,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Waltz of Forsaken Depths</color></size>\nNăng lượng Cộng hưởng tối đa của Phrolova là 0. <color=Highlight>Waltz of Forsaken Depths</color> không tiêu hao Resonance Energy.\nKhi ở trạng thái <color=Highlight><te href=160802>Resolving Chord</te></color>, <color=Highlight>Waltz of Forsaken Depths</color> sẽ khả dụng.\nSử dụng kỹ năng này sẽ kết thúc trạng thái <color=Highlight>Resolving Chord</color> và Phrolova bước vào trạng thái <color=Highlight>Maestro</color> trong {0}s.\n<size=10></size>\n<size=40><color=Title>Maestro</color></size>\nNhận tăng {5} ATK.\nPhrolova lơ lửng trên không và điều khiển Hecate chiến đấu. Hecate sẽ thừa hưởng chỉ số và trạng thái của Phrolova, và sát thương gây ra bởi Hecate sẽ được tính là đến từ Phrolova. Các đòn tấn công của Hecate sẽ không loại bỏ trạng thái Hazy Dream của mục tiêu.\nTrong thời gian này, Phrolova lần lượt chơi các <color=Highlight><te href=160801>Volatile Notes</te></color>. Mỗi <color=Highlight>Volatile Ghi chú</color> duy "
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0018.json",
+    "index": 349,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Moonring - Basic Attack</color></size>\nThực hiện tối đa 3 đòn tấn công liên tiếp bằng <color=Highlight>Moonring</color>, gây <color=Wind>Aero DMG</color>.\n<size=10></size>\n<size=40><color=Title>Mid-air Attack</color></size>\nTiêu hao STA để thực hiện Đòn Hạ Gục, gây <color=Wind>Aero DMG</color>.\n<size=10></size>\n<size=40><color=Title>Moonring - Dodge Counter</color></size>\n{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack ngay sau khi Dodge thành công để tấn công mục tiêu bằng <color=Highlight>Moonring</color>, gây <color=Wind>Aero DMG</color>. {Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack một lần nữa ngay sau khi sử dụng kỹ năng này để thực hiện Vòng Trăng - Basic Attack Stage 3.\n\n<size=40><color=Title>Moonbow - Basic Attack</color></size>\nNhập <color=Highlight><te href=141001>Lunar Cycle</te></color> bằng cách sử dụng <color=Highlight>Heavy Attack - Flux: Moonring</color>. Khi ở trạng thái này, Iuno sẽ tấn công bằng <color=Highlight>Moonbow</c"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0018.json",
+    "index": 368,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=Thunder>Electro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Steelclash</color></size>\nTiêu hao STA để tấn công mục tiêu, gây <color=Thunder>Electro DMG</color>. <color=Highlight>{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack</color> ngay sau khi thực hiện Heavy Attack để thực hiện <color=Highlight>Basic Attack Stage 2</color>.\n<size=10></size>\n<size=40><color=Title>Mid-air Attack</color></size>\nTiêu hao STA để thực hiện Attack Lao Xuống từ giữa không trung, gây <color=Thunder>Electro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Dodge Counter</color></size>\n<color=Highlight>{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack</color> sau khi Dodge thành công để tấn công mục tiêu, gây <color=Thunder>Electro DMG</color>.\n<size=10></size>\n<size=40><color=Title>Mid-air Dodge Counter</color></size>\n<color=Highlight>{Cus:Ipt,Touch=Chạm PC=Press "
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0018.json",
+    "index": 372,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Resonance Liberation - Kiếm of Eternal Oath</color></size>\n<color=Highlight>{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} and release Resonance Liberation</color> để thi triển kỹ năng. Augusta sẽ vung Lưỡi Broadblade về phía trước, gây <color=Thunder>Electro DMG</color>, được tính là Sát Thương Heavy Attack.\n<size=10></size>\n<size=40><color=Title>Resonance Liberation - Sublime is the Sun</color></size>\nKhi <te href=130604>Majesty</te> đạt {0} tầng, <color=Highlight>hold Resonance Liberation</color> để thi triển <color=Highlight>Resonance Liberation - Sublime is the Sun</color>. Việc thi triển <color=Highlight>Resonance Liberation - Sublime is the Sun</color> không tốn Resonance Energy mà thay vào đó là {0} tầng Oai Phong.\n- Khi thi triển <color=Highlight>Resonance Liberation - Sublime is the Sun</color>, Augusta tạo ra <color=Highlight><te href=130605>Ruler's Realm</te></color> và bước vào trạng thái <color=Highlight><te href=130606>Sworn Allegiance</te></color> tro"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0018.json",
+    "index": 373,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Resonance Liberation - Kiếm of Eternal Oath</color></size>\n<color=Highlight>{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} and release Resonance Liberation</color> để thi triển kỹ năng này.\n<size=10></size>\n<size=40><color=Title>Resonance Liberation - Sublime is the Sun</color></size>\nKhi Majesty đạt tối đa, <color=Highlight>hold Resonance Liberation</color> để thi triển kỹ năng và bước vào trạng thái <color=Highlight>Sworn Allegiance</color> trong {1} giây.\n- Trong trạng thái <color=Highlight>Sworn Allegiance</color>, <color=Highlight>{Cus:Ipt,Touch=tap PC=press Gamepad=press}</color> hoặc <color=Highlight>giữ Normal Attack</color> để thực hiện tối đa {2} đòn đánh, mở khóa đòn kết thúc mạnh mẽ. Khi ở trạng thái <color=Highlight>Sworn Allegiance</color>, <color=Highlight>hold Resonance Liberation</color> để thi triển đòn kết thúc sớm.\n<size=10></size>\n<size=40><color=Title>Majesty</color></size>\n- Augusta nhận 1 tầng Majesty khi thi triển <color=Highlight>Resonance S"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0018.json",
+    "index": 379,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Resonance Skill - Undying Sunlight: Strike</color></size>\nKhi <te href=130603>Ascendancy</te> đạt tối đa, <color=Highlight>Resonance Skill - Warrior's Blade</color> sẽ được thay thế bằng <color=Highlight>Resonance Skill - Undying Sunlight: Strike</color>, gây <color=Thunder>Electro DMG</color>.\n- Trong khi thi triển, <color=Highlight>{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack or Resonance Skill</color> để sử dụng <color=Highlight>Resonance Skill - Undying Sunlight: Leap</color>.\n- <color=Highlight>Resonance Skill - Undying Sunlight: Strike</color> có thể được sử dụng lại ngay sau khi bị gián đoạn.\n- <color=Highlight>Resonance Skill - Undying Sunlight: Leap</color> có thể được sử dụng lại sau một khoảng thời gian ngắn nếu bị gián đoạn.\n- Can be cast mid-air.\n<size=10></size>\n<size=40><color=Title>Resonance Skill - Undying Sunlight: Leap</color></size>\nGây <color=Thunder>Electro DMG</color>.\n- Trong khi thi triển, <color=Highlight>{Cus:Ipt,Touch=Chạm "
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0020.json",
+    "index": 238,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Basic Attack</color></size>\nThực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=Wind>Aero DMG</color>.\nEnter trạng thái <color=Highlight>Decipher</color> trong {0}s sau khi sử dụng <color=Highlight>Basic Attack Stage 4</color>. Hiệu ứng này sẽ kết thúc sớm nếu Sigrika rời khỏi chiến trường.\nKhi Sigrika có ít nhất <SapTag=1>{1}</SapTag> {Cus:Sap,S=điểm P=điểm SapTag=1} <color=Highlight><te href=141202>Full Stop</te></color>, chu kỳ Basic Attack của cô sẽ bắt đầu từ Stage 2.\n<size=10></size>\n<size=40><color=Title>Basic Attack - Elucidated</color></size>\nTrong trạng thái <color=Highlight><te href=141207>Decipher</te></color>, {Cus:Ipt,Touch=chạm PC=nhấn Gamepad=nhấn} Normal Attack trên mặt đất để sử dụng <color=Highlight>Basic Attack - Elucidated</color>, gây <color=Wind>Aero DMG</color> (được tính là Echo Skill DMG).\nRời khỏi trạng thái <color=Highlight><te href=141207>Decipher</te></color> sau khi sử dụng kỹ năng này.\n<size=10></size>\n<size=40><color=Title>Heavy "
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0020.json",
+    "index": 239,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>BOOMY BOOM!</color></size>\nTấn công mục tiêu, gây <color=Wind>Aero DMG</color>.\n<color=Highlight>{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack</color> ngay sau khi sử dụng <color=Highlight>BOOMY BOOM!</color> để tung ra <color=Highlight>Basic Attack Stage 3</color>.\n<size=10></size>\n<size=40><color=Title>BIG BOOMY BOOM!</color></size>\nKhi ở trạng thái <color=Highlight><te href=141207>Decipher</te></color>, <color=Highlight>{Cus:Ipt,Touch=tap PC=press Gamepad=press} Resonance Skill</color> trên mặt đất để sử dụng <color=Highlight>BIG BOOMY BOOM!</color>, gây <color=Wind>Aero DMG</color> (được tính là Sát Thương Kỹ Năng Vang Âm).\nRời khỏi trạng thái <color=Highlight><te href=141207>Decipher</te></color> sau khi sử dụng kỹ năng này.\n<size=10></size>\n<size=40><color=Title>Soliskin to the Aid</color></size>\nKhi ở trạng thái <color=Highlight><te href=141207>Decipher</te></color>, với ít nhất <SapTag=0>{0}</SapTag> {Cus:Sap,S=điểm P=điểm SapTag=0} <color=High"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0020.json",
+    "index": 243,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "Deal <color=Wind>Aero DMG</color>.\n<color=Highlight>{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack</color> ngay sau khi sử dụng <color=Highlight>Intro Skill</color> để thực hiện <color=Highlight>Basic Attack Stage 2</color>."
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0020.json",
+    "index": 247,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Form Switch</color></size>\nAemeath có thể chuyển đổi hình dạng giữa bản thân và Mech. Mech kế thừa chỉ số của Aemeath và mở khóa các đòn tấn công mới.\nAemeath tự động thực hiện <color=Highlight>Basic Attack - Stage 1</color> khi sử dụng <color=Highlight>Form Switch</color>.\nKhi ở dạng Mech, Aemeath tự động thực hiện <color=Highlight>Mid-air Attack</color> khi sử dụng <color=Highlight>Form Switch</color> trên không.\n<size=10></size>\n<size=40><color=Title>Sync Strike: Armament Merge</color></size>\n{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} <color=Highlight>Resonance Skill</color> ngay sau khi sử dụng <color=Highlight>Basic Attack - Aemeath Stage 2, 3 & 4</color>, <color=Highlight>Heavy Attack - Aemeath</color> hoặc <color=Highlight>Dodge Counter - Aemeath</color> để thực hiện <color=Highlight>Sync Strike: Armament Merge</color>, gây <color=Fire>Fusion DMG</color>.\nChuyển sang dạng Mech sau khi sử dụng kỹ năng này. {Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} nút <co"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0020.json",
+    "index": 264,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Basic Attack - Present Self</color></size>\n{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> liên tiếp hoặc giữ để thực hiện tối đa 3 đòn tấn công liên tiếp, gây <color=Ice>Glacio DMG</color>.\n<color=Highlight>Basic Attack - Present Self Stage 3</color> áp dụng <color=Highlight><te href=850010>Glacio Chafe</te></color> 1 lần khi trúng đích.\n<size=10></size>\n<size=40><color=Title>Heavy Attack - Frost Splinter: Present Self</color></size>\nKhi <color=Highlight><te href=110801>Dedication</te></color> đạt 300 điểm, <color=Highlight>Heavy Attack - Frost Splinter: Present Self</color> sẽ khả dụng.\nGiữ <color=Highlight>Normal Attack</color> để bắn 3 mũi tên liên tiếp, tiêu hao STA, gây <color=Ice>Glacio DMG</color>, được tính là Sát Thương Resonance Liberation. Hiyuki miễn nhiễm với gián đoạn và sát thương đến trong thời gian này.\nKhi mũi tên cuối được bắn, 300 điểm <color=Highlight><te href=110801>Dedication</te></color> sẽ bị tiêu hao và"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0020.json",
+    "index": 265,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Resonance Skill - Present Self</color></size>\nDeal <color=Ice>Glacio DMG</color>.\nSử dụng kỹ năng này sẽ tăng cường <color=Highlight>Basic Attack - Present Self Stage 3</color> tiếp theo, giúp hồi 100 điểm <color=Highlight><te href=110801>Dedication</te></color> khi sử dụng. Chuyển đổi sang Resonator khác sẽ kết thúc hiệu ứng này.\n{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} hoặc giữ <color=Highlight>Normal Attack</color> trong một khoảng thời gian sau khi sử dụng kỹ năng này để thực hiện <color=Highlight>Basic Attack - Present Self Stage 3</color>.\n<size=10></size>\nKhi ở trạng thái <color=Highlight>Foreclaimed Self</color>, <color=Highlight>Resonance Skill - Present Self</color> sẽ được thay thế bởi <color=Highlight>Frostblight: Jade Cleave</color> và <color=Highlight>Frostblight: Petalfall</color>:\n<size=10></size>\n<size=40><color=Title>Frostblight: Jade Cleave</color></size>\nKhi ở trên mặt đất, {Cus:Ipt,Touch=tap PC=press Gamepad=press} <color=Highlight>Resonanc"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0020.json",
+    "index": 279,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "<size=40><color=Title>Glacio Bite</color></size>\nKhi Hiyuki có mặt trong đội, <color=Highlight>Glacio Chafe</color> gây bởi Resonators gần đó trong đội sẽ được thay thế bằng <color=Highlight>Glacio Bite</color>.\nKhi <color=Highlight>Foreclaiming: Inward Vision</color> hoặc <color=Highlight>Basic Attack - Iai</color> trúng mục tiêu, nếu mục tiêu có từ 10 tầng <color=Highlight>Glacio Bite</color> trở lên, xóa 10 tầng và kích hoạt <color=Highlight>Frostbind</color> một lần.\n<size=10></size>\n<size=40><color=Title>Present Self</color></size>\nHiyuki bắt đầu ở trạng thái <color=Highlight>Present Self</color>.\n<size=10></size>\n<size=40><color=Title>Foreclaimed Self</color></size>\nHiyuki chuyển sang <color=Highlight>Foreclaimed Self</color> sau khi sử dụng <color=Highlight>Foreclaiming: Inward Vision</color>. Khi ở <color=Highlight>Foreclaimed Self</color>, các dạng kỹ năng mới sẽ được mở khóa.\n<size=10></size>\n<size=40><color=Title>Iai Stance</color></size>\nGiữ <color=Highlight>Resonance Skill"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0020.json",
+    "index": 311,
+    "id": null,
+    "patterns": [
+      "PC=Press",
+      "Gamepad=Press"
+    ],
+    "text": "Khi <color=Highlight>Off-Tune Level</color> của mục tiêu đạt tối đa, Sigrika có thể sử dụng <color=Highlight><te href=100001>Tune Break</te></color> lên mục tiêu.\n<color=Highlight>{Cus:Ipt,Touch=Chạm PC=Press Gamepad=Press} Normal Attack</color> ngay sau khi sử dụng <color=Highlight><te href=100001>Tune Break</te></color> để tung ra <color=Highlight>Basic Attack Stage 3</color>."
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0027.json",
+    "index": 232,
+    "id": null,
+    "patterns": [
+      "Gamepad=Press"
+    ],
+    "text": "Trong giai đoạn này, bạn có thể Deploy, Điều Chỉnh hoặc Biến Đổi một Echo. Bạn cũng có thể kéo Echo vào Khu Vực Tái Tạo để phục hồi Năng Lượng.\n- {Cus:Ipt,Touch=Chạm PC=Nhấp Gamepad=Press} \"Fight!\" để kết thúc giai đoạn này."
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\skill_description\\lang_multi_text\\lang_multi_text__skill_description__part_0030.json",
+    "index": 441,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Chưa Chụp Photo Mục Tiêu"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0229.json",
+    "index": 171,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo đã lưu vào thư mục /{0}"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\ui\\lang_generic_tips\\lang_generic_tips__ui__part_0001.json",
+    "index": 135,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo đã lưu vào thư mục /{0}"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\ui\\lang_multi_text\\lang_multi_text__ui__part_0004.json",
+    "index": 215,
+    "id": null,
+    "patterns": [
+      "Supplies"
+    ],
+    "text": "Supplies"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\ui\\lang_multi_text\\lang_multi_text__ui__part_0013.json",
+    "index": 55,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Qiuyuan viết (Bộ lọc: Noir)"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\ui\\lang_multi_text\\lang_multi_text__ui__part_0013.json",
+    "index": 75,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Iuno Thực Hiện Basic Attack Stage 3"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\ui\\lang_multi_text\\lang_multi_text__ui__part_0013.json",
+    "index": 79,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Qiuyuan đội nón tre"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\ui\\lang_multi_text\\lang_multi_text__ui__part_0013.json",
+    "index": 80,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Zani Dodgem khiên vào kẻ địch"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\ui\\lang_multi_text\\lang_multi_text__ui__part_0013.json",
+    "index": 83,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Jinhsi ngồi hoặc đứng trên kiếm"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\ui\\lang_multi_text\\lang_multi_text__ui__part_0013.json",
+    "index": 86,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Galbrena bắn súng lục lộn ngược"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\ui\\lang_multi_text\\lang_multi_text__ui__part_0013.json",
+    "index": 87,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Galbrena bắn shotgun"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\ui\\lang_multi_text\\lang_multi_text__ui__part_0013.json",
+    "index": 88,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Galbrena tấn công bằng đôi cánh"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\ui\\lang_multi_text\\lang_multi_text__ui__part_0013.json",
+    "index": 89,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Jiyan cầm giáo"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\ui\\lang_multi_text\\lang_multi_text__ui__part_0013.json",
+    "index": 91,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Jiyan tạo hình Rồng từ gió"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\ui\\lang_multi_text\\lang_multi_text__ui__part_0013.json",
+    "index": 92,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Phrolova biến hình thành Hecate để tấn công"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\ui\\lang_multi_text\\lang_multi_text__ui__part_0013.json",
+    "index": 93,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Hecate tấn công bằng roi"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\ui\\lang_multi_text\\lang_multi_text__ui__part_0013.json",
+    "index": 94,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Phrolova khiêu vũ cùng Hecate"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\ui\\lang_multi_text\\lang_multi_text__ui__part_0013.json",
+    "index": 95,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Camellya ở Chế độ Nở Hoa"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\ui\\lang_multi_text\\lang_multi_text__ui__part_0013.json",
+    "index": 96,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Camellya ở trạng thái bình thường"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\ui\\lang_multi_text\\lang_multi_text__ui__part_0013.json",
+    "index": 97,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Hoa Crimson"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\ui\\lang_multi_text\\lang_multi_text__ui__part_0013.json",
+    "index": 98,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Iuno sử dụng Moonring"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\ui\\lang_multi_text\\lang_multi_text__ui__part_0013.json",
+    "index": 99,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Iuno sử dụng Moonbow"
+  },
+  {
+    "source": "json",
+    "path": "mistral_translate_work\\split_by_prompt\\json\\ui\\lang_multi_text\\lang_multi_text__ui__part_0013.json",
+    "index": 100,
+    "id": null,
+    "patterns": [
+      "Photo "
+    ],
+    "text": "Photo Iuno nằm trên vũ khí"
+  }
+]

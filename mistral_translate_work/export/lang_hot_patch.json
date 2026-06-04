@@ -1,0 +1,1592 @@
+[
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "NetworkConnect",
+    "column": "Content",
+    "source_en": "Connecting",
+    "source_hash": "c1f3b71fdf887f2ff479cb5f828cdba74b99990e",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "PatchDown",
+    "column": "Content",
+    "source_en": "Downloading: {0} Speed: {1} Size: {2}/{3}",
+    "source_hash": "274ffe9c40974281233dfb71316d0dd386b43405",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "PatchDownTips",
+    "column": "Content",
+    "source_en": "You can minimize game client during download",
+    "source_hash": "1bc2c8e1f6bb76645aa8f5008472b368840471a7",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Install",
+    "column": "Content",
+    "source_en": "Installing Update Resources",
+    "source_hash": "a528675a54d665b006c8d47c0d2d248e7f52058a",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "InstallTips",
+    "column": "Content",
+    "source_en": "Please do not close the game during installation",
+    "source_hash": "cea25149c624c505f55aade69308a22af84e84a7",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "CheckIntegrity",
+    "column": "Content",
+    "source_en": "Verifying files integrity: {0}%",
+    "source_hash": "57b629bee89d08215fe51970a482cf7cd9ec0a1b",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "NoNetwork",
+    "column": "Content",
+    "source_en": "No internet connection. Please check and try again",
+    "source_hash": "99c3f4c2d61d0be5caff9bdf0e723a64c9070635",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "GetUpdateInfoFail",
+    "column": "Content",
+    "source_en": "Failed to get update details",
+    "source_hash": "d411832944e2f60fe0809c0718701fda3be54eb8",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "HotFixTipsTitle",
+    "column": "Content",
+    "source_en": "Notice",
+    "source_hash": "5256fffffb868a37e07fc3a3a770a754b7273025",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "HotFixQuit",
+    "column": "Content",
+    "source_en": "Exit",
+    "source_hash": "f83b6fe3aebf13744e866019556d9129cd7a55be",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "HotFixRetry",
+    "column": "Content",
+    "source_en": "Retry",
+    "source_hash": "9f5cd8a2e8807d73efa02c844bfbca9fe552b283",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "HotFixNewPatch",
+    "column": "Content",
+    "source_en": "A new update {0} is now available. You're using mobile data for download. Do you wish to proceed?",
+    "source_hash": "c16378419c3d8f34b840ae742a0e49a7d64be656",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "HotFixUseNetworkDownload",
+    "column": "Content",
+    "source_en": "Use Mobile Data",
+    "source_hash": "f808a027849ecb6691b983b80a7022723ff6b6da",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "HotFixRestartToCompleteHotFix",
+    "column": "Content",
+    "source_en": "Patching complete. Please restart the game.",
+    "source_hash": "7557254279a4cda2d37ef1c0cf25e1f1972e9d92",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "HotFixRestartToRepairFiles",
+    "column": "Content",
+    "source_en": "Repair complete. Please restart the game.",
+    "source_hash": "bf6e66dd9d3b14dc0a56ce2d95c1c92ebf009246",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "HotFixWriteStorageTips",
+    "column": "Content",
+    "source_en": "Please allow storage access in Settings > Application and restart the game to save update resources.",
+    "source_hash": "8308e082f3697118c5c4f4e63d4f6633f25aed00",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "HotFixNotEnoughSpace",
+    "column": "Content",
+    "source_en": "Insufficient storage space for {0} update resources. Please remove files to free up space and tap on \"Continue\" to proceed with the download.",
+    "source_hash": "b0cdfbc84bd5bb8ecbf01edfd705f61c4bebe149",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "HotFixContinue",
+    "column": "Content",
+    "source_en": "Continue",
+    "source_hash": "2e02623966f9391facf6eaefc8b079ed5b630bee",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "HotFixCancel",
+    "column": "Content",
+    "source_en": "Cancel",
+    "source_hash": "77dfd2135f4db726c47299bb55be26f7f4525a46",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "HotFixNetworkChange",
+    "column": "Content",
+    "source_en": "You've changed your network connection to mobile network. Do you wish to proceed with the download using mobile data?",
+    "source_hash": "99b6726aa10fe47532a94aa4e776d7ab0380bf40",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "SplashCautionTitle",
+    "column": "Content",
+    "source_en": "Photosensitive Seizure Warning",
+    "source_hash": "bde2fe66b4cf29fe27c261c794390ec958381ea8",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "SplashCautionContent",
+    "column": "Content",
+    "source_en": "When exposed to certain visual stimuli or flashing lights, a very small percentage of people (including those with epilepsy and some undiagnosed individuals) may experience seizures, with symptoms such as dizziness, facial discoloration, eye or face twitching, foaming at the mouth, confusion or loss of consciousness, or uncontrollable muscle spasms. If you, your family, or other household members experience similar symptoms, please consult a doctor before playing the game. If you experience any of the above symptoms while playing, immediately stop playing, seek medical attention as soon as possible, and follow your doctor's advice.",
+    "source_hash": "1c2594c0da78178b076c5991576e62189329db4f",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "SplashLoading",
+    "column": "Content",
+    "source_en": "Game loading...",
+    "source_hash": "d3894283656be2739f6a9eb0d4be7f82ab81de0f",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "SplashHealthyGamingAdvisory",
+    "column": "Content",
+    "source_en": "Say no to inappropriate game content or pirated games.\nKeep your personal information private to avoid scams.\nPlay responsibly for a safe and fun gaming experience.\nArrange your time reasonably for a healthy lifestyle.",
+    "source_hash": "9d3eea2ff047134e56cfa66e68e6e7d5d0a7fbd3",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "SplashCopyrightInformation",
+    "column": "Content",
+    "source_en": "License & ISBN: 国新出审〔2023〕1802号 ISBN 978-7-498-12761-7 Publisher: 成都盈众九州网络科技有限公司 Copyright: 广州库洛科技有限公司",
+    "source_hash": "e6e87d5e6ad9e0380a0639522b7946280b453fc5",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "GetRemoteConfigFailed",
+    "column": "Content",
+    "source_en": "Failed to apply Remote Configuration. Please check your network connection and restart the game client.",
+    "source_hash": "5d53e8b9a89d7b7a9c435ff15ab7d9a7f2e50ed5",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "StartHotFix",
+    "column": "Content",
+    "source_en": "Initializing Hotfix...",
+    "source_hash": "43cc33e6b6175fce9677e02b99d069cdf2e69e87",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "GetRemoteVersion",
+    "column": "Content",
+    "source_en": "Applying Remote Configuration...",
+    "source_hash": "0514b97cff083ed6763f10f21abaf6108f5530ab",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "GetRemoteVersionFailed",
+    "column": "Content",
+    "source_en": "Failed to apply Remote Configuration",
+    "source_hash": "4373e2aec026ec42e765d9d53c3374728fead3cb",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "CheckAppUpdate",
+    "column": "Content",
+    "source_en": "Checking for app updates...",
+    "source_hash": "f6101d12b7ce1470c8c35ad083e33d3ad4ade1d6",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "CheckResourceVersion",
+    "column": "Content",
+    "source_en": "Checking {0} version...",
+    "source_hash": "74112927a557a1aa0260e979d4a2254c32bbd820",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "ResolveIndexFile",
+    "column": "Content",
+    "source_en": "Analyzing patch resources...",
+    "source_hash": "92b9ece9c92cdfda63d979d3de53262c9cc8f2c5",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "MountPak",
+    "column": "Content",
+    "source_en": "Applying resource patches...",
+    "source_hash": "44ef321f03704be091cfde978ec1bfa9a48a1b97",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "CompleteHotFix",
+    "column": "Content",
+    "source_en": "Patching Complete",
+    "source_hash": "c234db1f7e7150b30561d7d4257a1d83d8c62ca2",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "DownloadIndexFileFailed",
+    "column": "Content",
+    "source_en": "Failed to get patch list: {0}",
+    "source_hash": "31f22291c0b0fb7d9dd958532db502123971df05",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "DownloadResourcePatchFailed",
+    "column": "Content",
+    "source_en": "Failed to download patch resources: {0}",
+    "source_hash": "e295d2366e084d9906e2920463a2d34bdef936c8",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "EvaluateDownloadResourcePatchFailed",
+    "column": "Content",
+    "source_en": "Failed to download patch resources: {0}",
+    "source_hash": "e295d2366e084d9906e2920463a2d34bdef936c8",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "GetResourceInfoFailed",
+    "column": "Content",
+    "source_en": "Failed to load patch type",
+    "source_hash": "2f064790698327a8f93b5192459239a6c7c1360a",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "ResolveIndexFileFailed",
+    "column": "Content",
+    "source_en": "Failed to analyze patch list. Please restart the game client and try again or contact customer service.",
+    "source_hash": "a28fad4658b5b9979b03c4db04643194b2dd9a8d",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "ValidateResourceFailed",
+    "column": "Content",
+    "source_en": "Failed to verify file integrity. Please restart the game client and try again or contact customer service.",
+    "source_hash": "bc6d23eee684364ca447afbda17e8971c46308ca",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "DownloadStateNone",
+    "column": "Content",
+    "source_en": "Unknown Error",
+    "source_hash": "1213fad41fab8f7f644a9845a102315b47a2c67b",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "DownloadStateHttpError",
+    "column": "Content",
+    "source_en": "Network Error",
+    "source_hash": "da3f76ce18df949027547675c2be39cfbae42c22",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "DownloadStateFileRenameError",
+    "column": "Content",
+    "source_en": "File Rename Error",
+    "source_hash": "508529172626714833a7415483284d61040a83e2",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "DownloadStateValidateError",
+    "column": "Content",
+    "source_en": "Integrity verification failed",
+    "source_hash": "a38a9c811c053ae4efec448dc22c51ae1576b685",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "DownloadStateOpenToWriteError",
+    "column": "Content",
+    "source_en": "Failed to store files",
+    "source_hash": "1e4fbba8fb7af2e9edac0c31288c75643257f2e2",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "DownloadStateNotEnoughSpace",
+    "column": "Content",
+    "source_en": "Insufficient Storage Space",
+    "source_hash": "7443344fd37dcff26299fef438faa607b70eb5b7",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "DownloadStateDownloadCanceled",
+    "column": "Content",
+    "source_en": "Download Canceled",
+    "source_hash": "82cc3c0a3bec45b29c842783243a6de3964eab81",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "DownloadStateSuccess",
+    "column": "Content",
+    "source_en": "Download Success",
+    "source_hash": "92662034856a033abe082923d5c9d49ad31d958b",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "CompilingShader",
+    "column": "Content",
+    "source_en": "Compiling Shader: {0}",
+    "source_hash": "a44db1969b1aaae767c9af40e73383aa1bf52f68",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "GetRemotePackageConfigFail",
+    "column": "Content",
+    "source_en": "Failed to apply Remote Configuration. Please check your network connection and restart the game client.",
+    "source_hash": "5d53e8b9a89d7b7a9c435ff15ab7d9a7f2e50ed5",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "NewVersionDetailDesc",
+    "column": "Content",
+    "source_en": "Update Details",
+    "source_hash": "84915f61ef34ddac0473106e8de6590f186355b6",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "NewVersionDetailDownloadGetReward",
+    "column": "Content",
+    "source_en": "A new update is now available. Please download and install it. Log in afterward to claim your rewards: <color=#c49e55ff>300 Astrites and 2 Crystal Solvents</color>.",
+    "source_hash": "64ace17ea756d31124666175ed2957d99e9d42ba",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "ConfirmText",
+    "column": "Content",
+    "source_en": "Confirm",
+    "source_hash": "04a212215ef9fbf686d280802eb81ee7a6e681cd",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "FirstDownloadTip",
+    "column": "Content",
+    "source_en": "{0} resources will be downloaded for the update. Continue?",
+    "source_hash": "59dea3457150f4e118d1eaa67719c3dc65269745",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "DownloadTitle",
+    "column": "Content",
+    "source_en": "Download Resources",
+    "source_hash": "0a3dad388b92b2f0f81141a4e9221774571aaacb",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "PatchDownload",
+    "column": "Content",
+    "source_en": "Downloading: {0}/{1}",
+    "source_hash": "eb37d02ff31d00c36508f798a377aad771e3beb0",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "PatchDownID",
+    "column": "Content",
+    "source_en": "{0}",
+    "source_hash": "0b0c6f90d172b22857fdb7c4e16d3dd858581acc",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "PatchDownSpeed",
+    "column": "Content",
+    "source_en": "Download Speed: {0}",
+    "source_hash": "111414b13ea7e0e2bbb5ab28d22cd66d09935483",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "MobileDriverOutOfVersion",
+    "column": "Content",
+    "source_en": "Your phone driver version is outdated (GL driver version < 378). This may cause game crashes during your play. To ensure a smooth gaming experience, you're recommended to update system version or GL driver.",
+    "source_hash": "75948020e1d55444963139f993a9b547a2fe1a1a",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "DownloadContinue",
+    "column": "Content",
+    "source_en": "Tap on the blank area to continue",
+    "source_hash": "8bfa46419f396f7c5780716c1a34b1123a790e64",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "PatchClear",
+    "column": "Content",
+    "source_en": "Local patch resources will be cleared and re-downloaded. Do you wish to proceed?",
+    "source_hash": "acb7414cf94bd14d20ee06c3894e99c1b06fbeac",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "PatchClearTitle",
+    "column": "Content",
+    "source_en": "Clear Patch",
+    "source_hash": "270cadff6ebfd200f86263ff60969f45e4954ab8",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "PatchClearbutton",
+    "column": "Content",
+    "source_en": "Repair",
+    "source_hash": "5f60b1c2e60520c1f682899a32ca18639a5431e4",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "MobileChipOutOfVersion",
+    "column": "Content",
+    "source_en": "Your device is using an older version processor. You are very likely to encounter client crashing. Please consider switching to a different device for your gaming experience.",
+    "source_hash": "a8f1239c0a69408ebd580b7039e8c9825ea2df82",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "UserProtocol",
+    "column": "Content",
+    "source_en": "Terms of Use",
+    "source_hash": "97738411d629b01052974cc98ddb83a2cb4f8182",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "PrivacyPolicy",
+    "column": "Content",
+    "source_en": "Privacy Policy",
+    "source_hash": "9db108ba6b7f6571356060929e37dae65878cfca",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "ChildProtocol",
+    "column": "Content",
+    "source_en": "Children's Privacy Policy",
+    "source_hash": "24ac14e1501808ee55200bea459cfac4a8bb439e",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "SdkProtocolDesc",
+    "column": "Content",
+    "source_en": "To ensure your gaming experience, you're about to link your account for PlayStation™Network with your Kuro Games account.\nYou may unlink your account via our official website or customer service.",
+    "source_hash": "13763a462624b313c31c6e1de165fc3ea92a55f3",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "SdkProtocolTitle",
+    "column": "Content",
+    "source_en": "Notice on Terms of Use and Privacy Policy",
+    "source_hash": "ada270f34b2c36b3383efb9078af55c753e6c395",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "SdkProtocolConfirm",
+    "column": "Content",
+    "source_en": "Yes",
+    "source_hash": "5397e0583f14f6c88de06b1ef28f460a1fb5b0ae",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "SdkProtocolRefuse",
+    "column": "Content",
+    "source_en": "No",
+    "source_hash": "816c52fd2bdd94a63cd0944823a6c0aa9384c103",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "EquipmentDriveOutOfVersion",
+    "column": "Content",
+    "source_en": "Your device's driver is outdated, which may cause frequent game crashes. For a better experience, please consider upgrading your device.",
+    "source_hash": "4eb14c190b1bb72872d5d3e261e7e1cf7c51a67b",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "SdkInitializeFail",
+    "column": "Content",
+    "source_en": "Failed to start the game. Please check the status of your PlayStation™ Network account.",
+    "source_hash": "564fb74342839f1bfe87485ed5a4c95d509300e9",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "NewVersionDownloadTips",
+    "column": "Content",
+    "source_en": "A game update is available. Please exit the game to apply the update.",
+    "source_hash": "917d6d4b3279b2eb2f301be4c76907ab8758d2d5",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "NetworkDetection_Title",
+    "column": "Content",
+    "source_en": "Network Test",
+    "source_hash": "6f10fb8735b04fad5d2209de675b2f160238a6d1",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "NetworkDetection_Proxy",
+    "column": "Content",
+    "source_en": "Proxy Test",
+    "source_hash": "8b8c11a01dd7bfeaf12d8fcd6be06472cd77df8a",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "NetworkDetection_Domain",
+    "column": "Content",
+    "source_en": "DNS Resolution",
+    "source_hash": "47cfe2f04ffd9e89d12e082f7cf2097d8ec0de10",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "NetworkDetection_Ping",
+    "column": "Content",
+    "source_en": "Ping Test",
+    "source_hash": "b87f97526eabff78aed64ae6aae39eb74df7f78b",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "NetworkDetection_Http",
+    "column": "Content",
+    "source_en": "Web Access Test",
+    "source_hash": "34a728eb3c34f14f2c2af07fa6d12c7fcffaf2dd",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "NetworkDetection_Udp",
+    "column": "Content",
+    "source_en": "UDP Connectivity Test",
+    "source_hash": "a06f7032dd39c78be44672aa440c48e7e84a714f",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "NetworkDetection_Start",
+    "column": "Content",
+    "source_en": "Start Test",
+    "source_hash": "dc642d879f938969b7ee93bc3ea61a4e9ead4d70",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "NetworkDetection_Ing",
+    "column": "Content",
+    "source_en": "Testing…",
+    "source_hash": "95c4564a945f8629effca0f3e8ea4ecfcc4e035f",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "NetworkDetection_Submit",
+    "column": "Content",
+    "source_en": "Submit data and contact customer service",
+    "source_hash": "9ef6b0cada66b5ed5287d138d66db5e28f0c9217",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "NetworkDetection_tips",
+    "column": "Content",
+    "source_en": "Network test in progress. Tapping again will stop the test and exit this page.",
+    "source_hash": "be39d5487627679becbed23d7eb436e53a94ab7f",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "NetworkDetection_Proxy_Wrong",
+    "column": "Content",
+    "source_en": "Proxy connection error. Please verify your proxy settings.",
+    "source_hash": "8cc2efea536e085b52602695b88592bdcc2f3475",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "NetworkDetection_Domain_Wrong",
+    "column": "Content",
+    "source_en": "DNS resolution error. Error code:",
+    "source_hash": "2534586d505210e27f12b902b1b38203e8525c39",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "NetworkDetection_Ping_Wrong",
+    "column": "Content",
+    "source_en": "Ping Results:",
+    "source_hash": "d876405ff883e93a55dc1bd0f04f2acaaaa8ddb8",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "NetworkDetection_Http_Wrong",
+    "column": "Content",
+    "source_en": "Web access error. Error code:",
+    "source_hash": "7e724ed0177b736be746627a2a40bfcb2a0b74f4",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "NetworkDetection_Udp_Wrong",
+    "column": "Content",
+    "source_en": "UDP port connection error. Error code:",
+    "source_hash": "0c08ca46838567237c96258932e428af2d1cab5c",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "NetworkDetection_Start_Tips",
+    "column": "Content",
+    "source_en": "Tap the button to begin network test.",
+    "source_hash": "65bc6c80d77981e35d9ac639b8e457df4e02aa86",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "NetworkDetection_Trace_Id",
+    "column": "Content",
+    "source_en": "Trace ID:",
+    "source_hash": "73255d6b23fbdb65111f6dcf6388ad45dc575762",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "NetworkDetection_Submiting",
+    "column": "Content",
+    "source_en": "Test results copied. Submitting error report…",
+    "source_hash": "fcf22c8c9237a2e5bab34f4cd6eaf21369bb0d4a",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "NetworkDetection_Select",
+    "column": "Content",
+    "source_en": "Select Server",
+    "source_hash": "40c1854fb1b04450d19bc3f7a0fe6740243900f7",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "NetworkDetection_Cancel",
+    "column": "Content",
+    "source_en": "Cancel",
+    "source_hash": "77dfd2135f4db726c47299bb55be26f7f4525a46",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "BinPatchFailed",
+    "column": "Content",
+    "source_en": "Binary patch installation failed. Reason: {0}",
+    "source_hash": "96cfc13ddf0c28f9602f3aaa61791a2ed53388b6",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "BinPatchProgress",
+    "column": "Content",
+    "source_en": "Patching progress {0}%",
+    "source_hash": "85abbbb4f48bac0fc01fb77ac25691931b9dc99a",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "MoveFilesFailed",
+    "column": "Content",
+    "source_en": "Failed to move file.",
+    "source_hash": "1f00b2dd5358d854f6868a8a4f25500f1a281cbf",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "NetworkDetection_Error",
+    "column": "Content",
+    "source_en": "Network configuration initialization failed. Please try again later.",
+    "source_hash": "4746c0aaa5a257ca808b987481ed9a8ba5ec7b07",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "NetworkDetection_Hotfix_Submit",
+    "column": "Content",
+    "source_en": "Upload Data",
+    "source_hash": "741fcd88aeb8970a3bf5f5e213399c21be08be5a",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Ps5_Cilck_Continue",
+    "column": "Content",
+    "source_en": "Press {0} to continue",
+    "source_hash": "81fa78db3f82774246e5d8b77acbe400e1eae07d",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Notice_Btn_Text",
+    "column": "Content",
+    "source_en": "Notice",
+    "source_hash": "5256fffffb868a37e07fc3a3a770a754b7273025",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "DownLoadText_LeftSpace",
+    "column": "Content",
+    "source_en": "Storage space available: {0}",
+    "source_hash": "840bef0ca5c0cf5ffca8810c6b07fa09324f769f",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "DownLoadText_NeedSpace",
+    "column": "Content",
+    "source_en": "Storage space required: {0}",
+    "source_hash": "e7e36b26689cb003694fe5a5598db55fb6f8f59c",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Download_SimpleBagTag",
+    "column": "Content",
+    "source_en": "Download Basic Resources",
+    "source_hash": "46571f29515407a00c4e2ab2102ec0559969401b",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Download_SimpleBagTitle",
+    "column": "Content",
+    "source_en": "Basic Resources",
+    "source_hash": "f491500813132b282e675b4de39690831495c48f",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Download_SimpleBagDesc",
+    "column": "Content",
+    "source_en": "Basic Resources include only resources to be installed to start the game. The remaining resources may be downloaded in the background as you play in the game.",
+    "source_hash": "4c26db9e1fd835a2a43bf9516b17eb9194c6b9ee",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Download_FullBagTag",
+    "column": "Content",
+    "source_en": "Download Full Resources",
+    "source_hash": "00ab3ac02c4749e265e0331cdad32f893e3be7fa",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Download_FullBagTitle",
+    "column": "Content",
+    "source_en": "Full Resources",
+    "source_hash": "67346b891c6c80db6a453feb627957927d7411b7",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Download_FullBagDesc",
+    "column": "Content",
+    "source_en": "Download all game resources to experience the game in full.",
+    "source_hash": "46d25b78479c7abba8a3f641b5547f5d2f756802",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "PrefabTextItem_1851234659_Text",
+    "column": "Content",
+    "source_en": "Download Resources",
+    "source_hash": "0a3dad388b92b2f0f81141a4e9221774571aaacb",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Download_DownLoadBtnText",
+    "column": "Content",
+    "source_en": "Download",
+    "source_hash": "a479c9c34e878d07b4d67a73a48f432ad7dc53c8",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Download_NoSpace",
+    "column": "Content",
+    "source_en": "Insufficient storage space",
+    "source_hash": "7671e0513e6f5220a51a68781aa839b0efacebce",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Download_Retry",
+    "column": "Content",
+    "source_en": "Insufficient storage space. Please clear up some space and try again.",
+    "source_hash": "378e57c59f20c975a4324e2adabd2b9321fa2888",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Download_DownLoadBtnCancel",
+    "column": "Content",
+    "source_en": "Cancel",
+    "source_hash": "77dfd2135f4db726c47299bb55be26f7f4525a46",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Download_DownLoadBtnRetry",
+    "column": "Content",
+    "source_en": "Retry",
+    "source_hash": "9f5cd8a2e8807d73efa02c844bfbca9fe552b283",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "ConfirmBox_362_Content",
+    "column": "Content",
+    "source_en": "Insufficient storage space detected. Required free space for incremental download and processing: {0}. Please free up enough space to proceed with Incremental Download or choose Full Download based on your current available storage.\n\nIncremental package size: {1}\nFull package size: {2}",
+    "source_hash": "ae0e5f41688a1b320cd0d00eb3b184f409d1da86",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "ConfirmBox_362_ButtonText_0",
+    "column": "Content",
+    "source_en": "Incremental Download",
+    "source_hash": "4a59036d3f7478964dc0e200b6586cd830335bde",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "ConfirmBox_362_ButtonText_1",
+    "column": "Content",
+    "source_en": "Full Download",
+    "source_hash": "6aa032cf3f87612b3a81c69727d7e4f34d3d9b6f",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "HotFixRestartToCompleteHotFixWin",
+    "column": "Content",
+    "source_en": "Patching complete. The game is restarting.",
+    "source_hash": "91f49c421c44687dbae5ff1b6f4bedeee9a28f32",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "HotFixRestartToRepairFilesWin",
+    "column": "Content",
+    "source_en": "Repair complete. The game is restarting.",
+    "source_hash": "d95089942b11c804d00be7587ba48a0f83cbac35",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Exit_Btn_Text",
+    "column": "Content",
+    "source_en": "Leave",
+    "source_hash": "7e3520a9733111c30f7ea9191099a8c7d144a4d8",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Exchange_Btn_Text",
+    "column": "Content",
+    "source_en": "Switch Account",
+    "source_hash": "42960879864806c0b701abceb5185a327a6c194c",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "SignIn_Btn_Text",
+    "column": "Content",
+    "source_en": "Login",
+    "source_hash": "4e5a2893bdcc7d239c1db72e4c4ffbe4bea73174",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "SubPackageHttp_Fail_Content",
+    "column": "Content",
+    "source_en": "Upgraded data loading failed. Please retry or full download.",
+    "source_hash": "58be2f8c412df178bfd0f5e48c7a7b604a53e6e5",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "SubPackageHttp_Fail_ButtonText_0",
+    "column": "Content",
+    "source_en": "Full Download",
+    "source_hash": "6aa032cf3f87612b3a81c69727d7e4f34d3d9b6f",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "SubPackageHttp_Fail_ButtonText_1",
+    "column": "Content",
+    "source_en": "Retry",
+    "source_hash": "9f5cd8a2e8807d73efa02c844bfbca9fe552b283",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "NetworkDetection_Route_Detection",
+    "column": "Content",
+    "source_en": "Route Detection",
+    "source_hash": "997621db8ce8485c84a19916f95b9177dc93912a",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "HotFixSubPackageClearTipsTitle_1",
+    "column": "Content",
+    "source_en": "Storyline Resources",
+    "source_hash": "a9c27f5bc69cde957d673f7011e2b8801c3b93f3",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "HotFixSubPackageClearTipsTitle_2",
+    "column": "Content",
+    "source_en": "Environment Resources",
+    "source_hash": "37893aa3bde87db42a4d92473d12936bb3c0fb77",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "HotFixSubPackageClearTipsTitle_TipsTitle_1",
+    "column": "Content",
+    "source_en": "Storyline Resources",
+    "source_hash": "a9c27f5bc69cde957d673f7011e2b8801c3b93f3",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "HotFixSubPackageClearTipsTitle_TipsTitle_2",
+    "column": "Content",
+    "source_en": "Environment Resources",
+    "source_hash": "37893aa3bde87db42a4d92473d12936bb3c0fb77",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "HotFixSubPackageClearTipsTitle_TipsDes_1",
+    "column": "Content",
+    "source_en": "Past storyline resources will not be used again. All videos from past quests can be cleared.",
+    "source_hash": "2324a466814caf66a5656ddc0ae1d27c45c661a7",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "HotFixSubPackageClearTipsTitle_TipsDes_2",
+    "column": "Content",
+    "source_en": "Based on Rover's story progress, location, and other factors, the environment resources required for Rover's current state will be retained. All other non-essential environment resources can be cleared.\nAfter environment resources are cleared, they can still be redownloaded in-game via Terminal - Settings - Download Resources.",
+    "source_hash": "a9322710448f7ae28f310ee4f069bd340eebd794",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "HotFixSubPackageClearTipsTitle",
+    "column": "Content",
+    "source_en": "Resource Cleanup",
+    "source_hash": "5359c7103c52a5e888eecfe3dea13d57458b1f70",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "HotFixSubPackageClearTipsTitle_AutoClear",
+    "column": "Content",
+    "source_en": "Allow auto-cleanup for previous quest resources",
+    "source_hash": "1d8f8f4413e48673c677bc847c863f97c36d83f0",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "HotFixSubPackageClearButton",
+    "column": "Content",
+    "source_en": "Clear Resources ({0}/{1})",
+    "source_hash": "fa6e5faed4ad95bb7d08e74c9623503e7040b793",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Source_Title_Main",
+    "column": "Content",
+    "source_en": "Core Package",
+    "source_hash": "e971fc684d3d4b71b427dd73389d3e302bd36119",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Source_Title_Sex",
+    "column": "Content",
+    "source_en": "Rover Appearance Switch assets",
+    "source_hash": "ed1d6c1913385302363dac7670da7fd748ab4fe7",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Source_Title_1",
+    "column": "Content",
+    "source_en": "[Storyline] Regional storyline assets",
+    "source_hash": "f30fc1cd8174766f43b4ff8d7d52547cf75fcc21",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Source_Title_2",
+    "column": "Content",
+    "source_en": "[Environment] Jinzhou and other areas",
+    "source_hash": "0b351e8ec7479cd0872bea0a9b0f5d93984798ab",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Source_Title_3",
+    "column": "Content",
+    "source_en": "[Environment] Tethys' Deep",
+    "source_hash": "746505dcaf010f7cf7573cff2bbef4c4a0d19712",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Source_Title_4",
+    "column": "Content",
+    "source_en": "[Storyline] Storyline assets in Ragunna and other areas",
+    "source_hash": "f7116db6712fd7b41d534c3732187051dace96f1",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Source_Title_5",
+    "column": "Content",
+    "source_en": "[Environment] Ragunna and other areas",
+    "source_hash": "38a643a49fe042808aed0e754ce650e6593d9fdb",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Source_Title_6",
+    "column": "Content",
+    "source_en": "[Environment] Septimont and other areas",
+    "source_hash": "edbb227137d523b30232a420bee9482ac85c1346",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Source_Title_7",
+    "column": "Content",
+    "source_en": "[Storyline] Storyline assets in Septimont and other areas",
+    "source_hash": "c137b100192bf9e7a3612dc4c783799c4c34cb37",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Source_Title_8",
+    "column": "Content",
+    "source_en": "[Storyline] Lahai-Roi Storyline Assets",
+    "source_hash": "e1fb363b3a7a967352fac7b310e0827442f02db7",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Source_Title_9",
+    "column": "Content",
+    "source_en": "[Region] Lahai-Roi",
+    "source_hash": "4c7b52cfb8b96698542bd59cc3e4e1a277afb573",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Source_Title_10",
+    "column": "Content",
+    "source_en": "[Storyline] Storyline assets in Roya Frostlands and other areas",
+    "source_hash": "40238fa7584ecf9ef58f5ecd6960631c0fb44bef",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Source_Title_11",
+    "column": "Content",
+    "source_en": "[Region] Roya Frostlands",
+    "source_hash": "d858ff65231411b2e089919c8f268c79a817113f",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Source_Title_12",
+    "column": "Content",
+    "source_en": "[Storyline] Storyline assets in the Dimmr Plains and other areas",
+    "source_hash": "01edd252542a49b0752c9ddc8dea8b5b0495adac",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Source_Title_13",
+    "column": "Content",
+    "source_en": "[Region] Dimmr Plains",
+    "source_hash": "8dcb0af02204e90a0dd000148957c11c42715c41",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Source_Title_Land_1",
+    "column": "Content",
+    "source_en": "Huanglong and other areas",
+    "source_hash": "099719a24cf8d8db2f4b44fbb15992982728b5d8",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Source_Title_Land_2",
+    "column": "Content",
+    "source_en": "Rinascita and other areas",
+    "source_hash": "f56e41d30e88ff66574feb5e4de61687d66158fe",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "Source_Title_Land_3",
+    "column": "Content",
+    "source_en": "Roya Frostlands and other areas",
+    "source_hash": "472ab5e2942b11c21ff42d414f921bdc9c0e7a20",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "HotFixSubPackageClearButton_Out",
+    "column": "Content",
+    "source_en": "Clear Resources ({0})",
+    "source_hash": "22b6fd0e9b731bb6746a5e19c37a5c6642fb3c38",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "HotFixSubPackageClearConfirmContent",
+    "column": "Content",
+    "source_en": "After clearing environment resources, you can redownload them in the game. Continue?",
+    "source_hash": "6d345bd93fdf75e3c23942e1b1e95bcdeb07d452",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "HotFixSubPackageHaveNoSpaceClear",
+    "column": "Content",
+    "source_en": "No resources to clean",
+    "source_hash": "42ef7724eaa4f1c7dd883747946d08433e0977e3",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "HotFixSubPackageHaveNoQuestSpaceClear",
+    "column": "Content",
+    "source_en": "No resources to clean",
+    "source_hash": "42ef7724eaa4f1c7dd883747946d08433e0977e3",
+    "category": "general"
+  },
+  {
+    "database": "lang_hot_patch.db",
+    "table": "HotPatchText",
+    "primary_key_column": "Id",
+    "primary_key": "HotFixSubPackageClearTips_Plot_Item_Info",
+    "column": "Content",
+    "source_en": "Previous Quest Resources",
+    "source_hash": "5fe498b0a2c37adb870de64198f7fdad300c715a",
+    "category": "general"
+  }
+]

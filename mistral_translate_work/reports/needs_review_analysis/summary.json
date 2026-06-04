@@ -1,0 +1,527 @@
+{
+  "total": 2659,
+  "by_file": [
+    {
+      "file": "lang_multi_text.json",
+      "count": 2649
+    },
+    {
+      "file": "lang_infodisplay.json",
+      "count": 7
+    },
+    {
+      "file": "lang_multi_text_2ndhalf.json",
+      "count": 2
+    },
+    {
+      "file": "lang_item.json",
+      "count": 1
+    }
+  ],
+  "by_kind": [
+    {
+      "kind": "likely_false_positive_english_name",
+      "count": 1991
+    },
+    {
+      "kind": "token_or_tag_missing",
+      "count": 621
+    },
+    {
+      "kind": "ai_review_flag",
+      "count": 23
+    },
+    {
+      "kind": "added_curly_brace",
+      "count": 20
+    },
+    {
+      "kind": "added_angle_bracket",
+      "count": 4
+    }
+  ],
+  "top_issues": [
+    {
+      "issues": "",
+      "count": 2014
+    },
+    {
+      "issues": "missing_token:{0}",
+      "count": 169
+    },
+    {
+      "issues": "missing_token:{message}",
+      "count": 80
+    },
+    {
+      "issues": "missing_token:\\n",
+      "count": 69
+    },
+    {
+      "issues": "missing_token:<i>|missing_token:</i>",
+      "count": 63
+    },
+    {
+      "issues": "added_curly_brace",
+      "count": 20
+    },
+    {
+      "issues": "missing_token:<color=#e8aa32>|missing_token:<te href=750034>|missing_token:</te>|missing_token:\\n|missing_token:\\n",
+      "count": 16
+    },
+    {
+      "issues": "missing_token:{PlayerName}",
+      "count": 12
+    },
+    {
+      "issues": "missing_token:<color=#c49e55>|missing_token:</color>",
+      "count": 11
+    },
+    {
+      "issues": "missing_token:<color=Highlight>|missing_token:</color>",
+      "count": 11
+    },
+    {
+      "issues": "missing_token:<color=#ffd12f>",
+      "count": 11
+    },
+    {
+      "issues": "missing_token:<color=#ffd12f>|missing_token:</color>",
+      "count": 10
+    },
+    {
+      "issues": "missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n",
+      "count": 9
+    },
+    {
+      "issues": "missing_token:<te href=850122>|missing_token:</te>",
+      "count": 6
+    },
+    {
+      "issues": "missing_token:<te href=851007>",
+      "count": 6
+    },
+    {
+      "issues": "missing_token:<texture=/Game/Aki/UI/UIResources/Common/Image/Com/T_RichTextLock.T_RichTextLock/>",
+      "count": 6
+    },
+    {
+      "issues": "missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n",
+      "count": 4
+    },
+    {
+      "issues": "missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n",
+      "count": 4
+    },
+    {
+      "issues": "added_angle_bracket",
+      "count": 4
+    },
+    {
+      "issues": "missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n",
+      "count": 3
+    },
+    {
+      "issues": "missing_token:\\n|missing_token:\\n|missing_token:\\n",
+      "count": 3
+    },
+    {
+      "issues": "missing_token:<i>|missing_token:</i>|missing_token:<i>|missing_token:</i>",
+      "count": 2
+    },
+    {
+      "issues": "missing_token:\\n|missing_token:<s>|missing_token:</s>|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:<s>|missing_token:</s>|missing_token:\\n|missing_token:\\n|missing_token:\\n",
+      "count": 2
+    },
+    {
+      "issues": "missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n",
+      "count": 2
+    },
+    {
+      "issues": "missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:<ano=the Exostrider>|missing_token:</ano>|missing_token:<ano=the Threnodian>|missing_token:</ano>|missing_token:\\n|missing_token:\\n|missing_token:<ano=the Exostrider>|missing_token:</ano>|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:<ano=the Threnodian>|missing_token:</ano>|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:<ano=the Threnodian>|missing_token:</ano>|missing_token:\\n|missing_token:\\n|missing_token:\\n",
+      "count": 2
+    },
+    {
+      "issues": "missing_token:<ano=frequency>",
+      "count": 2
+    },
+    {
+      "issues": "missing_token:\\n|missing_token:\\n",
+      "count": 2
+    },
+    {
+      "issues": "missing_token:<te href=850109>|missing_token:</te>",
+      "count": 2
+    },
+    {
+      "issues": "missing_token:<color=#ffd12f>|missing_token:\\n",
+      "count": 2
+    },
+    {
+      "issues": "missing_token:<color=Highlight>",
+      "count": 2
+    },
+    {
+      "issues": "missing_token:\\n|missing_token:{0}|missing_token:{1}",
+      "count": 2
+    },
+    {
+      "issues": "missing_token:<te href=700009>",
+      "count": 2
+    },
+    {
+      "issues": "missing_token:<Comment No. 010>|missing_token:\\n|missing_token:\\n|missing_token:<i>|missing_token:</i>|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:<Comment No. 025>|missing_token:\\n|missing_token:<i>|missing_token:</i>|missing_token:\\n",
+      "count": 1
+    },
+    {
+      "issues": "missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n",
+      "count": 1
+    },
+    {
+      "issues": "missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n|missing_token:\\n",
+      "count": 1
+    },
+    {
+      "issues": "missing_token:<color=Ice>",
+      "count": 1
+    },
+    {
+      "issues": "missing_token:<te href=800030>|missing_token:</te>",
+      "count": 1
+    },
+    {
+      "issues": "missing_token:<texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_Anniversary2ndCelebration01_UI.T_IconA80_Act_Anniversary2ndCelebration01_UI,0.5/>",
+      "count": 1
+    },
+    {
+      "issues": "missing_token:<Petal Rating: Five Stars>|missing_token:<Petal Rating: Four Stars>",
+      "count": 1
+    },
+    {
+      "issues": "missing_token:<Audience Review: ★★★★★>|missing_token:<Audience Review: ★★★★☆>",
+      "count": 1
+    }
+  ],
+  "top_prefixes": [
+    {
+      "prefix": "Zuoyequnxing",
+      "count": 1364
+    },
+    {
+      "prefix": "Main",
+      "count": 621
+    },
+    {
+      "prefix": "GuideFocusNew",
+      "count": 120
+    },
+    {
+      "prefix": "Speaker",
+      "count": 84
+    },
+    {
+      "prefix": "DIY",
+      "count": 53
+    },
+    {
+      "prefix": "RogueBuffPool",
+      "count": 28
+    },
+    {
+      "prefix": "FavorStory",
+      "count": 27
+    },
+    {
+      "prefix": "GuideTips",
+      "count": 26
+    },
+    {
+      "prefix": "SkillDescription",
+      "count": 20
+    },
+    {
+      "prefix": "TrapDefenseBdBuff",
+      "count": 16
+    },
+    {
+      "prefix": "InfoDisplay",
+      "count": 14
+    },
+    {
+      "prefix": "Character",
+      "count": 14
+    },
+    {
+      "prefix": "RogueRes",
+      "count": 14
+    },
+    {
+      "prefix": "FavorWord",
+      "count": 14
+    },
+    {
+      "prefix": "Farm",
+      "count": 14
+    },
+    {
+      "prefix": "Event",
+      "count": 13
+    },
+    {
+      "prefix": "PhotoMemory",
+      "count": 11
+    },
+    {
+      "prefix": "FavorRoleInfo",
+      "count": 9
+    },
+    {
+      "prefix": "POI",
+      "count": 8
+    },
+    {
+      "prefix": "RogueResSynergyName",
+      "count": 8
+    },
+    {
+      "prefix": "Side",
+      "count": 7
+    },
+    {
+      "prefix": "HelpText",
+      "count": 7
+    },
+    {
+      "prefix": "PhantomBattleCardCount",
+      "count": 7
+    },
+    {
+      "prefix": "ErrorCode",
+      "count": 7
+    },
+    {
+      "prefix": "MonsterInfo",
+      "count": 6
+    },
+    {
+      "prefix": "HD",
+      "count": 6
+    },
+    {
+      "prefix": "Condition",
+      "count": 6
+    },
+    {
+      "prefix": "MAIN",
+      "count": 5
+    },
+    {
+      "prefix": "NPC",
+      "count": 5
+    },
+    {
+      "prefix": "Huanglong",
+      "count": 5
+    },
+    {
+      "prefix": "Morale",
+      "count": 5
+    },
+    {
+      "prefix": "Text",
+      "count": 5
+    },
+    {
+      "prefix": "RogueHotEntry",
+      "count": 4
+    },
+    {
+      "prefix": "FavorGoods",
+      "count": 4
+    },
+    {
+      "prefix": "AbyssRoute",
+      "count": 4
+    },
+    {
+      "prefix": "Quest",
+      "count": 4
+    },
+    {
+      "prefix": "PrefabTextItem",
+      "count": 3
+    },
+    {
+      "prefix": "InstanceDungeon",
+      "count": 3
+    },
+    {
+      "prefix": "Dango",
+      "count": 3
+    },
+    {
+      "prefix": "Heihaian",
+      "count": 3
+    },
+    {
+      "prefix": "XJXYDTK",
+      "count": 3
+    },
+    {
+      "prefix": "PhantomBattle",
+      "count": 3
+    },
+    {
+      "prefix": "ElementalReaction",
+      "count": 2
+    },
+    {
+      "prefix": "RoguelikeView",
+      "count": 2
+    },
+    {
+      "prefix": "RogueInfoViewShopPriceWithDiscount",
+      "count": 2
+    },
+    {
+      "prefix": "Guide",
+      "count": 2
+    },
+    {
+      "prefix": "XJXYSDJ",
+      "count": 2
+    },
+    {
+      "prefix": "zhuiyuejie",
+      "count": 2
+    },
+    {
+      "prefix": "TZZNQ",
+      "count": 2
+    },
+    {
+      "prefix": "HuanglongXZ",
+      "count": 2
+    },
+    {
+      "prefix": "SPsence",
+      "count": 2
+    },
+    {
+      "prefix": "LianjiPaokuEvaluation",
+      "count": 2
+    },
+    {
+      "prefix": "AbyssInst",
+      "count": 2
+    },
+    {
+      "prefix": "DangoTagMaxValueFormat",
+      "count": 2
+    },
+    {
+      "prefix": "30",
+      "count": 1
+    },
+    {
+      "prefix": "38",
+      "count": 1
+    },
+    {
+      "prefix": "60",
+      "count": 1
+    },
+    {
+      "prefix": "76",
+      "count": 1
+    },
+    {
+      "prefix": "114",
+      "count": 1
+    },
+    {
+      "prefix": "158",
+      "count": 1
+    },
+    {
+      "prefix": "226",
+      "count": 1
+    },
+    {
+      "prefix": "941",
+      "count": 1
+    },
+    {
+      "prefix": "Term850010",
+      "count": 1
+    },
+    {
+      "prefix": "RogueResSynergyDesc",
+      "count": 1
+    },
+    {
+      "prefix": "TowerChallengeBuff",
+      "count": 1
+    },
+    {
+      "prefix": "NpcHeadInfo",
+      "count": 1
+    },
+    {
+      "prefix": "CoopActivity",
+      "count": 1
+    },
+    {
+      "prefix": "Chengxiaoshan",
+      "count": 1
+    },
+    {
+      "prefix": "Daily",
+      "count": 1
+    },
+    {
+      "prefix": "BVBHD",
+      "count": 1
+    },
+    {
+      "prefix": "XJXYBC",
+      "count": 1
+    },
+    {
+      "prefix": "HRQDGNQST",
+      "count": 1
+    },
+    {
+      "prefix": "BYZF",
+      "count": 1
+    },
+    {
+      "prefix": "ZLXYBLZ",
+      "count": 1
+    },
+    {
+      "prefix": "SXHCDLC",
+      "count": 1
+    },
+    {
+      "prefix": "WFLKDJS",
+      "count": 1
+    },
+    {
+      "prefix": "AYJJWD",
+      "count": 1
+    },
+    {
+      "prefix": "FGGQDJX",
+      "count": 1
+    },
+    {
+      "prefix": "DYHD",
+      "count": 1
+    },
+    {
+      "prefix": "Flow",
+      "count": 1
+    }
+  ]
+}

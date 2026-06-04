@@ -1,0 +1,2132 @@
+[
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "1",
+    "column": "Content",
+    "source_en": "Audio",
+    "source_hash": "acdac205f5e24cb75113c4b281a2c13f08b75159",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "2",
+    "column": "Content",
+    "source_en": "Master Volume",
+    "source_hash": "ad50e3dc5798ff491dc20b686d2d136c1f763ec8",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "3",
+    "column": "Content",
+    "source_en": "Audio",
+    "source_hash": "acdac205f5e24cb75113c4b281a2c13f08b75159",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "4",
+    "column": "Content",
+    "source_en": "Dialog Volume",
+    "source_hash": "06e3238e7a9a3d09af9c57d9e35dfd94be711148",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "5",
+    "column": "Content",
+    "source_en": "Audio",
+    "source_hash": "acdac205f5e24cb75113c4b281a2c13f08b75159",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "6",
+    "column": "Content",
+    "source_en": "Music Volume",
+    "source_hash": "3d6052382b675f945a50526c90b12e73c9b11a45",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "7",
+    "column": "Content",
+    "source_en": "Audio",
+    "source_hash": "acdac205f5e24cb75113c4b281a2c13f08b75159",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "8",
+    "column": "Content",
+    "source_en": "Sound Effects Volume",
+    "source_hash": "01edd0cdc467c5d568e553d9e9fff2b79060e917",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "9",
+    "column": "Content",
+    "source_en": "General",
+    "source_hash": "9239ee2cda84eca4c3440e2a7b50148af67da3d4",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "10",
+    "column": "Content",
+    "source_en": "Texture Quality",
+    "source_hash": "96e585a50ae1a94c3de5d200e7d1eddb0c6f3ccc",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "11",
+    "column": "Content",
+    "source_en": "Low",
+    "source_hash": "a124947cbd2d1d92b47e027274c3269ff0c7a84b",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "12",
+    "column": "Content",
+    "source_en": "Medium",
+    "source_hash": "d404968ea90b07f16774ce75c7978d6ff60962f2",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "13",
+    "column": "Content",
+    "source_en": "High",
+    "source_hash": "b1a5954a483f8f8b0207385095f74aeb409b3f80",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "14",
+    "column": "Content",
+    "source_en": "General",
+    "source_hash": "9239ee2cda84eca4c3440e2a7b50148af67da3d4",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "15",
+    "column": "Content",
+    "source_en": "Display Mode",
+    "source_hash": "ab106677edc710cdc60bdcafbf540064c07200ec",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "16",
+    "column": "Content",
+    "source_en": "Fullscreen",
+    "source_hash": "bb08d10b00a6114f53ac03b662cd5c0fa2fadf2c",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "17",
+    "column": "Content",
+    "source_en": "Windowed",
+    "source_hash": "7d22ecce0385c959845f551d5a3b5ab183398dfa",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "18",
+    "column": "Content",
+    "source_en": "General",
+    "source_hash": "9239ee2cda84eca4c3440e2a7b50148af67da3d4",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "19",
+    "column": "Content",
+    "source_en": "Display Resolution",
+    "source_hash": "d88878d10256b1a17214c0039578da9b4857e4e4",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "29",
+    "column": "Content",
+    "source_en": "General",
+    "source_hash": "9239ee2cda84eca4c3440e2a7b50148af67da3d4",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "30",
+    "column": "Content",
+    "source_en": "Display Resolution",
+    "source_hash": "d88878d10256b1a17214c0039578da9b4857e4e4",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "35",
+    "column": "Content",
+    "source_en": "General",
+    "source_hash": "9239ee2cda84eca4c3440e2a7b50148af67da3d4",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "37",
+    "column": "Content",
+    "source_en": "Setup",
+    "source_hash": "cdd7bb2816b7a8f88bce0e47be39943bc369516b",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "38",
+    "column": "Content",
+    "source_en": "Custom",
+    "source_hash": "081ae3fdc403609cf6e760849ebb14117b7a50cb",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "39",
+    "column": "Content",
+    "source_en": "Maximum Frame Rate",
+    "source_hash": "6212f6b207dd33bac85151f45fe72adb75b23ee1",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "40",
+    "column": "Content",
+    "source_en": "30fps",
+    "source_hash": "a53372facc4a3f1ef809834dc653d06c3aa098a9",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "41",
+    "column": "Content",
+    "source_en": "60fps",
+    "source_hash": "d18347a7032d9cea21faca8ee600c14defa6751b",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "42",
+    "column": "Content",
+    "source_en": "Custom",
+    "source_hash": "081ae3fdc403609cf6e760849ebb14117b7a50cb",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "44",
+    "column": "Content",
+    "source_en": "On",
+    "source_hash": "e0049a66519cae71159800bb77a35007bc2d76d3",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "45",
+    "column": "Content",
+    "source_en": "Off",
+    "source_hash": "e3de5ab0ca4c69dbf00e86d2558843e8d806bb49",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "46",
+    "column": "Content",
+    "source_en": "Custom",
+    "source_hash": "081ae3fdc403609cf6e760849ebb14117b7a50cb",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "47",
+    "column": "Content",
+    "source_en": "Shadow Quality",
+    "source_hash": "c300d6d4334060c89ec88da62b5a9f0161c0b5a5",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "48",
+    "column": "Content",
+    "source_en": "Low",
+    "source_hash": "a124947cbd2d1d92b47e027274c3269ff0c7a84b",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "49",
+    "column": "Content",
+    "source_en": "Medium",
+    "source_hash": "d404968ea90b07f16774ce75c7978d6ff60962f2",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "50",
+    "column": "Content",
+    "source_en": "High",
+    "source_hash": "b1a5954a483f8f8b0207385095f74aeb409b3f80",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "51",
+    "column": "Content",
+    "source_en": "Custom",
+    "source_hash": "081ae3fdc403609cf6e760849ebb14117b7a50cb",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "52",
+    "column": "Content",
+    "source_en": "Special Effects",
+    "source_hash": "11470c2b486b1e098943bb529e57c2d25b1ce6a4",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "53",
+    "column": "Content",
+    "source_en": "Low",
+    "source_hash": "a124947cbd2d1d92b47e027274c3269ff0c7a84b",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "54",
+    "column": "Content",
+    "source_en": "High",
+    "source_hash": "b1a5954a483f8f8b0207385095f74aeb409b3f80",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "55",
+    "column": "Content",
+    "source_en": "Custom",
+    "source_hash": "081ae3fdc403609cf6e760849ebb14117b7a50cb",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "56",
+    "column": "Content",
+    "source_en": "Texture Details",
+    "source_hash": "0157a704d486c8878a795810c6ca15a189e35e8b",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "57",
+    "column": "Content",
+    "source_en": "Low",
+    "source_hash": "a124947cbd2d1d92b47e027274c3269ff0c7a84b",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "58",
+    "column": "Content",
+    "source_en": "Medium",
+    "source_hash": "d404968ea90b07f16774ce75c7978d6ff60962f2",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "59",
+    "column": "Content",
+    "source_en": "High",
+    "source_hash": "b1a5954a483f8f8b0207385095f74aeb409b3f80",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "60",
+    "column": "Content",
+    "source_en": "Custom",
+    "source_hash": "081ae3fdc403609cf6e760849ebb14117b7a50cb",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "61",
+    "column": "Content",
+    "source_en": "Anti-Aliasing",
+    "source_hash": "666c1b860b0fb3ff43acbec5d2749e665078705e",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "62",
+    "column": "Content",
+    "source_en": "On",
+    "source_hash": "e0049a66519cae71159800bb77a35007bc2d76d3",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "63",
+    "column": "Content",
+    "source_en": "Off",
+    "source_hash": "e3de5ab0ca4c69dbf00e86d2558843e8d806bb49",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "64",
+    "column": "Content",
+    "source_en": "Custom",
+    "source_hash": "081ae3fdc403609cf6e760849ebb14117b7a50cb",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "65",
+    "column": "Content",
+    "source_en": "AO",
+    "source_hash": "0a26223ff3d685a13b073c07e5c3de4c21b9b5fa",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "66",
+    "column": "Content",
+    "source_en": "On",
+    "source_hash": "e0049a66519cae71159800bb77a35007bc2d76d3",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "67",
+    "column": "Content",
+    "source_en": "Off",
+    "source_hash": "e3de5ab0ca4c69dbf00e86d2558843e8d806bb49",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "68",
+    "column": "Content",
+    "source_en": "Custom",
+    "source_hash": "081ae3fdc403609cf6e760849ebb14117b7a50cb",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "70",
+    "column": "Content",
+    "source_en": "On",
+    "source_hash": "e0049a66519cae71159800bb77a35007bc2d76d3",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "71",
+    "column": "Content",
+    "source_en": "Off",
+    "source_hash": "e3de5ab0ca4c69dbf00e86d2558843e8d806bb49",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "72",
+    "column": "Content",
+    "source_en": "Custom",
+    "source_hash": "081ae3fdc403609cf6e760849ebb14117b7a50cb",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "74",
+    "column": "Content",
+    "source_en": "On",
+    "source_hash": "e0049a66519cae71159800bb77a35007bc2d76d3",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "75",
+    "column": "Content",
+    "source_en": "Off",
+    "source_hash": "e3de5ab0ca4c69dbf00e86d2558843e8d806bb49",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "76",
+    "column": "Content",
+    "source_en": "Custom",
+    "source_hash": "081ae3fdc403609cf6e760849ebb14117b7a50cb",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "78",
+    "column": "Content",
+    "source_en": "On",
+    "source_hash": "e0049a66519cae71159800bb77a35007bc2d76d3",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "79",
+    "column": "Content",
+    "source_en": "Off",
+    "source_hash": "e3de5ab0ca4c69dbf00e86d2558843e8d806bb49",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "80",
+    "column": "Content",
+    "source_en": "Operate",
+    "source_hash": "3c1a1d23ebd6c997142d91a6ffff1ae8eb1f4d80",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "81",
+    "column": "Content",
+    "source_en": "Move Forwards",
+    "source_hash": "0669acb61d4fe9416a7f2539b9e314253cd49f92",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "82",
+    "column": "Content",
+    "source_en": "W",
+    "source_hash": "e2415cb7f63df0c9de23362326ad3c37a9adfc96",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "83",
+    "column": "Content",
+    "source_en": "Operate",
+    "source_hash": "3c1a1d23ebd6c997142d91a6ffff1ae8eb1f4d80",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "84",
+    "column": "Content",
+    "source_en": "Move Backwards",
+    "source_hash": "03f28397d052ff177d48f14af7d99065851c27bf",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "85",
+    "column": "Content",
+    "source_en": "S",
+    "source_hash": "02aa629c8b16cd17a44f3a0efec2feed43937642",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "86",
+    "column": "Content",
+    "source_en": "Operate",
+    "source_hash": "3c1a1d23ebd6c997142d91a6ffff1ae8eb1f4d80",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "87",
+    "column": "Content",
+    "source_en": "Move Left",
+    "source_hash": "f28eba1986a7d37e0de739db5fa59dd1ba03ae34",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "88",
+    "column": "Content",
+    "source_en": "A",
+    "source_hash": "6dcd4ce23d88e2ee9568ba546c007c63d9131c1b",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "89",
+    "column": "Content",
+    "source_en": "Operate",
+    "source_hash": "3c1a1d23ebd6c997142d91a6ffff1ae8eb1f4d80",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "90",
+    "column": "Content",
+    "source_en": "Move Right",
+    "source_hash": "efd7f2861659d644b1325edf60e2fb3b29964655",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "91",
+    "column": "Content",
+    "source_en": "D",
+    "source_hash": "50c9e8d5fc98727b4bbc93cf5d64a68db647f04f",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "92",
+    "column": "Content",
+    "source_en": "Operate",
+    "source_hash": "3c1a1d23ebd6c997142d91a6ffff1ae8eb1f4d80",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "93",
+    "column": "Content",
+    "source_en": "Toggle Walk/Run",
+    "source_hash": "2b8fda2323c7263ba59e3bbba76522799e589bb4",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "94",
+    "column": "Content",
+    "source_en": "Left Ctrl",
+    "source_hash": "d5eea28930c613ce50b0d344d405924a29603056",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "95",
+    "column": "Content",
+    "source_en": "Operate",
+    "source_hash": "3c1a1d23ebd6c997142d91a6ffff1ae8eb1f4d80",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "96",
+    "column": "Content",
+    "source_en": "Normal Attack",
+    "source_hash": "277cb0404106d0c48e8c53a2d1a5dd51f502a6b2",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "97",
+    "column": "Content",
+    "source_en": "Left Mouse Click",
+    "source_hash": "6a0310aa7a73d3af3febab2d1c0d6ae249caf66e",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "98",
+    "column": "Content",
+    "source_en": "Operate",
+    "source_hash": "3c1a1d23ebd6c997142d91a6ffff1ae8eb1f4d80",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "99",
+    "column": "Content",
+    "source_en": "Target Lock-On",
+    "source_hash": "fcf3a77362adaf139c142ff8e82d9836782c05e3",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "100",
+    "column": "Content",
+    "source_en": "MMB",
+    "source_hash": "975c3f8a111ba6a7c65a5aa978cc69e7759fcd65",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "101",
+    "column": "Content",
+    "source_en": "Operate",
+    "source_hash": "3c1a1d23ebd6c997142d91a6ffff1ae8eb1f4d80",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "102",
+    "column": "Content",
+    "source_en": "Disengage Target Lock-On",
+    "source_hash": "45a7137fbfe06f58e6f743c3ca1d3adef4c7e92a",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "103",
+    "column": "Content",
+    "source_en": "Hold MMB",
+    "source_hash": "bf32402355a45e045df9fd412530a457a91c2baa",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "104",
+    "column": "Content",
+    "source_en": "Operate",
+    "source_hash": "3c1a1d23ebd6c997142d91a6ffff1ae8eb1f4d80",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "105",
+    "column": "Content",
+    "source_en": "Resonance Skill",
+    "source_hash": "fd79b44c1607c4a73b27e640f922d42d88aabf60",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "106",
+    "column": "Content",
+    "source_en": "E",
+    "source_hash": "e0184adedf913b076626646d3f52c3b49c39ad6d",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "107",
+    "column": "Content",
+    "source_en": "Operate",
+    "source_hash": "3c1a1d23ebd6c997142d91a6ffff1ae8eb1f4d80",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "108",
+    "column": "Content",
+    "source_en": "Resonance Liberation",
+    "source_hash": "a0c893cf14cb2783295e40c4b919253fa04e18cc",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "109",
+    "column": "Content",
+    "source_en": "R",
+    "source_hash": "06576556d1ad802f247cad11ae748be47b70cd9c",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "110",
+    "column": "Content",
+    "source_en": "Operate",
+    "source_hash": "3c1a1d23ebd6c997142d91a6ffff1ae8eb1f4d80",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "111",
+    "column": "Content",
+    "source_en": "Sprint/Evade",
+    "source_hash": "120f8fba72b4ef09fbdd2423cf47565ab771aa99",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "112",
+    "column": "Content",
+    "source_en": "Left Shift",
+    "source_hash": "494064e70529e54389ad678d759801779c5c72df",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "113",
+    "column": "Content",
+    "source_en": "Operate",
+    "source_hash": "3c1a1d23ebd6c997142d91a6ffff1ae8eb1f4d80",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "114",
+    "column": "Content",
+    "source_en": "Sprint/Evade",
+    "source_hash": "120f8fba72b4ef09fbdd2423cf47565ab771aa99",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "115",
+    "column": "Content",
+    "source_en": "Right Mouse Click",
+    "source_hash": "d3e8a9f31196e6ed7a53a85ff18b8de57e208829",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "116",
+    "column": "Content",
+    "source_en": "Operate",
+    "source_hash": "3c1a1d23ebd6c997142d91a6ffff1ae8eb1f4d80",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "117",
+    "column": "Content",
+    "source_en": "Exploration Tools",
+    "source_hash": "af0c3d70fa6020a6914c1f2edc1d79cce51b8eb3",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "118",
+    "column": "Content",
+    "source_en": "T",
+    "source_hash": "c2c53d66948214258a26ca9ca845d7ac0c17f8e7",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "119",
+    "column": "Content",
+    "source_en": "Operate",
+    "source_hash": "3c1a1d23ebd6c997142d91a6ffff1ae8eb1f4d80",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "120",
+    "column": "Content",
+    "source_en": "Echo Ability",
+    "source_hash": "ca2580e991a7394d0bc80cfeb9dde0c9e9b29342",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "121",
+    "column": "Content",
+    "source_en": "Q",
+    "source_hash": "c3156e00d3c2588c639e0d3cf6821258b05761c7",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "122",
+    "column": "Content",
+    "source_en": "Operate",
+    "source_hash": "3c1a1d23ebd6c997142d91a6ffff1ae8eb1f4d80",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "123",
+    "column": "Content",
+    "source_en": "Toggle Aiming Mode",
+    "source_hash": "b76ca91a1932082418ffdbaf84277312d5f3aff6",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "124",
+    "column": "Content",
+    "source_en": "G",
+    "source_hash": "a36a6718f54524d846894fb04b5b885b4e43e63b",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "125",
+    "column": "Content",
+    "source_en": "Operate",
+    "source_hash": "3c1a1d23ebd6c997142d91a6ffff1ae8eb1f4d80",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "126",
+    "column": "Content",
+    "source_en": "Jump",
+    "source_hash": "1eba140fdd9c6860a1730c408e3064aa417ca2a3",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "127",
+    "column": "Content",
+    "source_en": "Space",
+    "source_hash": "6d8c9b124d521027647b4f270cb2872798f9264e",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "128",
+    "column": "Content",
+    "source_en": "Operate",
+    "source_hash": "3c1a1d23ebd6c997142d91a6ffff1ae8eb1f4d80",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "129",
+    "column": "Content",
+    "source_en": "Drop",
+    "source_hash": "0a088b3115056ef6acd3ab4b406c823e1724e216",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "130",
+    "column": "Content",
+    "source_en": "X",
+    "source_hash": "c032adc1ff629c9b66f22749ad667e6beadf144b",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "131",
+    "column": "Content",
+    "source_en": "Operate",
+    "source_hash": "3c1a1d23ebd6c997142d91a6ffff1ae8eb1f4d80",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "132",
+    "column": "Content",
+    "source_en": "Side Sprint",
+    "source_hash": "ee855654b74950bf22a463e9f642e72c2d7b68d1",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "133",
+    "column": "Content",
+    "source_en": "Right Mouse Click",
+    "source_hash": "d3e8a9f31196e6ed7a53a85ff18b8de57e208829",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "134",
+    "column": "Content",
+    "source_en": "Operate",
+    "source_hash": "3c1a1d23ebd6c997142d91a6ffff1ae8eb1f4d80",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "135",
+    "column": "Content",
+    "source_en": "Collect/Interact",
+    "source_hash": "434bc02a0753f9325e46c61d38b78efcc5bac0ee",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "136",
+    "column": "Content",
+    "source_en": "F",
+    "source_hash": "e69f20e9f683920d3fb4329abd951e878b1f9372",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "137",
+    "column": "Content",
+    "source_en": "Operate",
+    "source_hash": "3c1a1d23ebd6c997142d91a6ffff1ae8eb1f4d80",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "138",
+    "column": "Content",
+    "source_en": "Switch to Team Member 1",
+    "source_hash": "393d97d5be9c9e4c163b3c3ba878c0ab3439d5c0",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "139",
+    "column": "Content",
+    "source_en": "1",
+    "source_hash": "356a192b7913b04c54574d18c28d46e6395428ab",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "140",
+    "column": "Content",
+    "source_en": "Operate",
+    "source_hash": "3c1a1d23ebd6c997142d91a6ffff1ae8eb1f4d80",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "141",
+    "column": "Content",
+    "source_en": "Switch to Team Member 2",
+    "source_hash": "ffc15bf22cca54b88483b900441dd53a81bca61e",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "142",
+    "column": "Content",
+    "source_en": "2",
+    "source_hash": "da4b9237bacccdf19c0760cab7aec4a8359010b0",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "143",
+    "column": "Content",
+    "source_en": "Operate",
+    "source_hash": "3c1a1d23ebd6c997142d91a6ffff1ae8eb1f4d80",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "144",
+    "column": "Content",
+    "source_en": "Switch to Team Member 3",
+    "source_hash": "736dacecc242c412d4152948fc2ba6b11f3d2bb9",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "145",
+    "column": "Content",
+    "source_en": "3",
+    "source_hash": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "146",
+    "column": "Content",
+    "source_en": "Menu",
+    "source_hash": "57f5f5efbc5990f5230aa95359042338b856707b",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "147",
+    "column": "Content",
+    "source_en": "Mail",
+    "source_hash": "92379cbb8ecf696194b47b619a87e9e4f9a75db2",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "148",
+    "column": "Content",
+    "source_en": "N",
+    "source_hash": "b51a60734da64be0e618bacbea2865a8a7dcd669",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "149",
+    "column": "Content",
+    "source_en": "Menu",
+    "source_hash": "57f5f5efbc5990f5230aa95359042338b856707b",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "150",
+    "column": "Content",
+    "source_en": "Map",
+    "source_hash": "ab478f3efc840eebab919dff1b9512286f70c10c",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "151",
+    "column": "Content",
+    "source_en": "M",
+    "source_hash": "c63ae6dd4fc9f9dda66970e827d13f7c73fe841c",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "152",
+    "column": "Content",
+    "source_en": "Menu",
+    "source_hash": "57f5f5efbc5990f5230aa95359042338b856707b",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "153",
+    "column": "Content",
+    "source_en": "Open Task Terminal",
+    "source_hash": "73fc09427029b931a767513e9151fddf176a5022",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "154",
+    "column": "Content",
+    "source_en": "J",
+    "source_hash": "58668e7669fd564d99db5d581fcdb6a5618440b5",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "155",
+    "column": "Content",
+    "source_en": "Menu",
+    "source_hash": "57f5f5efbc5990f5230aa95359042338b856707b",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "156",
+    "column": "Content",
+    "source_en": "Open Menu",
+    "source_hash": "cefa47c924e7076edaee706aaeb00547d902edf9",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "157",
+    "column": "Content",
+    "source_en": "Esc",
+    "source_hash": "1f7a4f9e2f70d0b81cffc15ab30fd344aeb34fb3",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "158",
+    "column": "Content",
+    "source_en": "Menu",
+    "source_hash": "57f5f5efbc5990f5230aa95359042338b856707b",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "159",
+    "column": "Content",
+    "source_en": "Open Team Setup Screen",
+    "source_hash": "f8428866b87ad7328ee946d2d867a138716dfcee",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "160",
+    "column": "Content",
+    "source_en": "L",
+    "source_hash": "d160e0986aca4714714a16f29ec605af90be704d",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "161",
+    "column": "Content",
+    "source_en": "Menu",
+    "source_hash": "57f5f5efbc5990f5230aa95359042338b856707b",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "162",
+    "column": "Content",
+    "source_en": "Backpack",
+    "source_hash": "0ccf90eb09d636ea32ff4f5a104e0287d3dc7b7c",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "163",
+    "column": "Content",
+    "source_en": "B",
+    "source_hash": "ae4f281df5a5d0ff3cad6371f76d5c29b6d953ec",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "164",
+    "column": "Content",
+    "source_en": "Menu",
+    "source_hash": "57f5f5efbc5990f5230aa95359042338b856707b",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "165",
+    "column": "Content",
+    "source_en": "Open Resonator Interface",
+    "source_hash": "afe4682a7db8d4ddbe74817b4274c6adbeeb6430",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "166",
+    "column": "Content",
+    "source_en": "C",
+    "source_hash": "32096c2e0eff33d844ee6d675407ace18289357d",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "167",
+    "column": "Content",
+    "source_en": "Menu",
+    "source_hash": "57f5f5efbc5990f5230aa95359042338b856707b",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "168",
+    "column": "Content",
+    "source_en": "Open Exploration Utilities Wheel",
+    "source_hash": "5274382df2b622a62756106dc9c27cc379b648d0",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "169",
+    "column": "Content",
+    "source_en": "Tab",
+    "source_hash": "fe06eb6459c87f0e497ce1805f076f104bfecf78",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "170",
+    "column": "Content",
+    "source_en": "Menu",
+    "source_hash": "57f5f5efbc5990f5230aa95359042338b856707b",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "171",
+    "column": "Content",
+    "source_en": "Configure Exploration Utilities",
+    "source_hash": "283b9da161620d37fa856731c80413e8d31121a4",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "172",
+    "column": "Content",
+    "source_en": "P",
+    "source_hash": "511993d3c99719e38a6779073019dacd7178ddb9",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "173",
+    "column": "Content",
+    "source_en": "In-Game Text Language",
+    "source_hash": "ac2a9e6ec9a984438048fe42d03a67c46e633667",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "174",
+    "column": "Content",
+    "source_en": "Language Selection",
+    "source_hash": "6fc35daf6e8116452cf7af7998b1099dbd985372",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "175",
+    "column": "Content",
+    "source_en": "简体中文",
+    "source_hash": "93659150d0e56377fc3a57cb9bb7d958fd637a74",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "176",
+    "column": "Content",
+    "source_en": "English",
+    "source_hash": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "177",
+    "column": "Content",
+    "source_en": "日本語",
+    "source_hash": "c12140a0ffb4e56481b4fe0a7a25040c2eafa9ca",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "178",
+    "column": "Content",
+    "source_en": "Voice-Over Language",
+    "source_hash": "5549986f8fa4e7ac4818e35760caa5cabedb6672",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "179",
+    "column": "Content",
+    "source_en": "Voice-Over Language Selection",
+    "source_hash": "fdb606ca61b3fdae82b5b348290bffe1815458d3",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "180",
+    "column": "Content",
+    "source_en": "普通话",
+    "source_hash": "91c62e00dd24e91561bcf976f6ed41882cbec112",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "181",
+    "column": "Content",
+    "source_en": "English",
+    "source_hash": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "182",
+    "column": "Content",
+    "source_en": "日本語",
+    "source_hash": "c12140a0ffb4e56481b4fe0a7a25040c2eafa9ca",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "183",
+    "column": "Content",
+    "source_en": "Voice-Over Language",
+    "source_hash": "5549986f8fa4e7ac4818e35760caa5cabedb6672",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "184",
+    "column": "Content",
+    "source_en": "Manage Voice-Over Files",
+    "source_hash": "1fde95dc6352804bc44d329d1681cff138eb0fb4",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "185",
+    "column": "Content",
+    "source_en": "普通话",
+    "source_hash": "91c62e00dd24e91561bcf976f6ed41882cbec112",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "186",
+    "column": "Content",
+    "source_en": "English",
+    "source_hash": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "187",
+    "column": "Content",
+    "source_en": "日本語",
+    "source_hash": "c12140a0ffb4e56481b4fe0a7a25040c2eafa9ca",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "188",
+    "column": "Content",
+    "source_en": "Setup",
+    "source_hash": "cdd7bb2816b7a8f88bce0e47be39943bc369516b",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "191",
+    "column": "Content",
+    "source_en": "Open",
+    "source_hash": "cf9b77061f7b3126b49d50a6fa68f7ca8c26b7a3",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "192",
+    "column": "Content",
+    "source_en": "Close",
+    "source_hash": "bbfa773e5a63a5ea58c9b6207e608ca0120e592a",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "193",
+    "column": "Content",
+    "source_en": "Menu",
+    "source_hash": "57f5f5efbc5990f5230aa95359042338b856707b",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "196",
+    "column": "Content",
+    "source_en": "Menu",
+    "source_hash": "57f5f5efbc5990f5230aa95359042338b856707b",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "199",
+    "column": "Content",
+    "source_en": "Audio",
+    "source_hash": "acdac205f5e24cb75113c4b281a2c13f08b75159",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "201",
+    "column": "Content",
+    "source_en": "Audio",
+    "source_hash": "acdac205f5e24cb75113c4b281a2c13f08b75159",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "203",
+    "column": "Content",
+    "source_en": "Audio",
+    "source_hash": "acdac205f5e24cb75113c4b281a2c13f08b75159",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "208",
+    "column": "Content",
+    "source_en": "High",
+    "source_hash": "b1a5954a483f8f8b0207385095f74aeb409b3f80",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "212",
+    "column": "Content",
+    "source_en": "Close",
+    "source_hash": "bbfa773e5a63a5ea58c9b6207e608ca0120e592a",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "213",
+    "column": "Content",
+    "source_en": "Open",
+    "source_hash": "cf9b77061f7b3126b49d50a6fa68f7ca8c26b7a3",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "216",
+    "column": "Content",
+    "source_en": "Close",
+    "source_hash": "bbfa773e5a63a5ea58c9b6207e608ca0120e592a",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "217",
+    "column": "Content",
+    "source_en": "Open",
+    "source_hash": "cf9b77061f7b3126b49d50a6fa68f7ca8c26b7a3",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "220",
+    "column": "Content",
+    "source_en": "Close",
+    "source_hash": "bbfa773e5a63a5ea58c9b6207e608ca0120e592a",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "221",
+    "column": "Content",
+    "source_en": "Open",
+    "source_hash": "cf9b77061f7b3126b49d50a6fa68f7ca8c26b7a3",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "224",
+    "column": "Content",
+    "source_en": "Close",
+    "source_hash": "bbfa773e5a63a5ea58c9b6207e608ca0120e592a",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "225",
+    "column": "Content",
+    "source_en": "Open",
+    "source_hash": "cf9b77061f7b3126b49d50a6fa68f7ca8c26b7a3",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "236",
+    "column": "Content",
+    "source_en": "Custom",
+    "source_hash": "081ae3fdc403609cf6e760849ebb14117b7a50cb",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "238",
+    "column": "Content",
+    "source_en": "Low",
+    "source_hash": "a124947cbd2d1d92b47e027274c3269ff0c7a84b",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "239",
+    "column": "Content",
+    "source_en": "High",
+    "source_hash": "b1a5954a483f8f8b0207385095f74aeb409b3f80",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "240",
+    "column": "Content",
+    "source_en": "Custom",
+    "source_hash": "081ae3fdc403609cf6e760849ebb14117b7a50cb",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "245",
+    "column": "Content",
+    "source_en": "Custom",
+    "source_hash": "081ae3fdc403609cf6e760849ebb14117b7a50cb",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "247",
+    "column": "Content",
+    "source_en": "Close",
+    "source_hash": "bbfa773e5a63a5ea58c9b6207e608ca0120e592a",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "248",
+    "column": "Content",
+    "source_en": "Open",
+    "source_hash": "cf9b77061f7b3126b49d50a6fa68f7ca8c26b7a3",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "249",
+    "column": "Content",
+    "source_en": "Custom",
+    "source_hash": "081ae3fdc403609cf6e760849ebb14117b7a50cb",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "251",
+    "column": "Content",
+    "source_en": "Close",
+    "source_hash": "bbfa773e5a63a5ea58c9b6207e608ca0120e592a",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "252",
+    "column": "Content",
+    "source_en": "Open",
+    "source_hash": "cf9b77061f7b3126b49d50a6fa68f7ca8c26b7a3",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "253",
+    "column": "Content",
+    "source_en": "Custom",
+    "source_hash": "081ae3fdc403609cf6e760849ebb14117b7a50cb",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "255",
+    "column": "Content",
+    "source_en": "Close",
+    "source_hash": "bbfa773e5a63a5ea58c9b6207e608ca0120e592a",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "256",
+    "column": "Content",
+    "source_en": "Open",
+    "source_hash": "cf9b77061f7b3126b49d50a6fa68f7ca8c26b7a3",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "261",
+    "column": "Content",
+    "source_en": "Custom",
+    "source_hash": "081ae3fdc403609cf6e760849ebb14117b7a50cb",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "263",
+    "column": "Content",
+    "source_en": "Custom",
+    "source_hash": "081ae3fdc403609cf6e760849ebb14117b7a50cb",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "265",
+    "column": "Content",
+    "source_en": "Close",
+    "source_hash": "bbfa773e5a63a5ea58c9b6207e608ca0120e592a",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "266",
+    "column": "Content",
+    "source_en": "Open",
+    "source_hash": "cf9b77061f7b3126b49d50a6fa68f7ca8c26b7a3",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "268",
+    "column": "Content",
+    "source_en": "Operate",
+    "source_hash": "3c1a1d23ebd6c997142d91a6ffff1ae8eb1f4d80",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "270",
+    "column": "Content",
+    "source_en": "Setup",
+    "source_hash": "cdd7bb2816b7a8f88bce0e47be39943bc369516b",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "271",
+    "column": "Content",
+    "source_en": "Custom",
+    "source_hash": "081ae3fdc403609cf6e760849ebb14117b7a50cb",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "273",
+    "column": "Content",
+    "source_en": "Close",
+    "source_hash": "bbfa773e5a63a5ea58c9b6207e608ca0120e592a",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MenuConfig",
+    "primary_key_column": "Id",
+    "primary_key": "274",
+    "column": "Content",
+    "source_en": "Open",
+    "source_hash": "cf9b77061f7b3126b49d50a6fa68f7ca8c26b7a3",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MainType",
+    "primary_key_column": "Id",
+    "primary_key": "1",
+    "column": "Content",
+    "source_en": "Sound",
+    "source_hash": "b4e3efeba10e84f7148da9f7efe85e07057d7c7a",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MainType",
+    "primary_key_column": "Id",
+    "primary_key": "2",
+    "column": "Content",
+    "source_en": "Graphic",
+    "source_hash": "5830308226d270e1253e6b1eae67c6913a886f05",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MainType",
+    "primary_key_column": "Id",
+    "primary_key": "3",
+    "column": "Content",
+    "source_en": "Keys",
+    "source_hash": "e5651c683f14c95aa972cfdbc300d9fecfe02019",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MainType",
+    "primary_key_column": "Id",
+    "primary_key": "4",
+    "column": "Content",
+    "source_en": "Language",
+    "source_hash": "89b86ab0e66f527166d98df92ddbcf5416ed58f6",
+    "category": "ui"
+  },
+  {
+    "database": "lang_menu.db",
+    "table": "MainType",
+    "primary_key_column": "Id",
+    "primary_key": "5",
+    "column": "Content",
+    "source_en": "Others",
+    "source_hash": "8d7bf5bf136e81f9388c1f4eca050d6d94e965d7",
+    "category": "ui"
+  }
+]

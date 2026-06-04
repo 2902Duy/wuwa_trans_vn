@@ -1,0 +1,27 @@
+[
+  {
+    "split_id": "SKILL_DESCRIPTION_0016240",
+    "source_file": "lang_resonate_chain.json",
+    "original_index": 0,
+    "prompt_domain": "skill_description",
+    "prompt_file": "skill_description_prompt.md",
+    "database": "lang_resonate_chain.db",
+    "table": "ResonantChain",
+    "primary_key_column": "Id",
+    "primary_key": "852",
+    "column": "Content",
+    "category": "general",
+    "status": "translated",
+    "issues": "",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
+    "ai_decision": "",
+    "ai_score": "",
+    "ai_reason": "",
+    "source_en": "Upon becoming shrouded, Aerodynamics DMG Bonus increases 50% for 6 seconds.",
+    "review_note": "",
+    "new_translation_vi": "Khi bị bao phủ, Aero DMG Bonus tăng 50% trong 6 giây.",
+    "translator_note": ""
+  }
+]

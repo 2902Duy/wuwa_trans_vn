@@ -77,7 +77,39 @@ Tài liệu này định nghĩa các nhóm dòng văn bản không cần gửi �
 
 ---
 
-## 4. Tên Nút Cộng Hưởng / Resonance Chain (RC Nodes)
+## 4. Waveplate, tài nguyên và tiền tệ trong game
+
+* **Tệp tin áp dụng**: các bảng vật phẩm, shop, pay shop, UI, reward và mọi dòng mô tả có nhắc tài nguyên/tiền tệ.
+* **Điều kiện lọc**:
+  - Dòng là tên tài nguyên/tiền tệ/vé quay/vật phẩm shop.
+  - Hoặc cụm xuất hiện trong câu mô tả nhưng là tên tài nguyên chính thức của game.
+
+> [!TIP]
+> **Ví dụ giữ nguyên:**
+> - `Waveplate`
+> - `Waveplate Crystal`
+> - `Astrite`
+> - `Lunite`
+> - `Lunite Subscription`
+> - `Lustrous Tide`
+> - `Radiant Tide`
+> - `Forging Tide`
+> - `Shell Credit`
+> - `Oscillated Coral`
+> - `Afterglow Coral`
+> - `Crystal Solvent`
+> - `Voucher`
+
+> [!WARNING]
+> **Không được dịch các cụm này thành:**
+> - `Waveplate` -> `Đĩa Sóng`, `Sóng Đĩa`, `Tấm Sóng`
+> - `Astrite` -> `Pha Lê`, `Tinh Thạch`
+> - `Shell Credit` -> `Xu`, `Tiền`, `Tín Dụng Vỏ`
+> - `Lustrous Tide` / `Radiant Tide` / `Forging Tide` -> `Vé quay`
+
+---
+
+## 5. Tên Nút Cộng Hưởng / Resonance Chain (RC Nodes)
 
 * **Tệp tin áp dụng**: `lang_multi_text.json`
 * **Điều kiện lọc**:
@@ -91,7 +123,7 @@ Tài liệu này định nghĩa các nhóm dòng văn bản không cần gửi �
 
 ---
 
-## 5. Tên Kỹ Năng Nhân Vật (Character Skill Names)
+## 6. Tên Kỹ Năng Nhân Vật (Character Skill Names)
 
 * **Tệp tin áp dụng**:
   - `lang_multi_text.json`

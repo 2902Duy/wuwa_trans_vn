@@ -1,0 +1,22 @@
+[
+  {
+    "database": "lang_help.db",
+    "table": "HelpText",
+    "primary_key_column": "Id",
+    "primary_key": "73",
+    "column": "Content",
+    "source_en": "Progressing Base",
+    "source_hash": "888c15345bc1668cd0751b3e0d9a2031919c5661",
+    "category": "general"
+  },
+  {
+    "database": "lang_help.db",
+    "table": "HelpText",
+    "primary_key_column": "Id",
+    "primary_key": "75",
+    "column": "Content",
+    "source_en": "Zero Point Research Station",
+    "source_hash": "5dcf627030c0e493bf81ad5322123e96f9e3201a",
+    "category": "general"
+  }
+]

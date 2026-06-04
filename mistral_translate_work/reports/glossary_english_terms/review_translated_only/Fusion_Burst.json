@@ -1,0 +1,31 @@
+{
+  "count": 2,
+  "hits": [
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 177367,
+      "primary_key": "RoleSkillInput_1211_SkillDescList_2",
+      "status": "translated",
+      "keep": "Fusion Burst",
+      "matched_source_term": "Fusion Burst",
+      "bad_terms": [
+        "Nổ Fusion"
+      ],
+      "source_en": "When in <color=Highlight>Resonance Mode - Fusion Burst</color>, Denia can inflict <color=Highlight>Fusion Burst</color> more frequently and boost the DMG dealt by a Fusion Burst team.",
+      "translation_vi": "Khi ở <color=Highlight>Chế Độ Cộng Hưởng - Bùng Nổ Fusion</color>, Denia có thể gây <color=Highlight>Bùng Nổ Fusion</color> thường xuyên hơn và tăng sát thương cho đội Bùng Nổ Fusion."
+    },
+    {
+      "file": "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+      "index": 182214,
+      "primary_key": "Skill_1004603_SkillResume",
+      "status": "translated",
+      "keep": "Fusion Burst",
+      "matched_source_term": "Fusion Burst",
+      "bad_terms": [
+        "Nổ Fusion"
+      ],
+      "source_en": "<size=40><color=Title>Resonance Liberation</color></size>\nDeal <color=Fire>Fusion DMG</color>. Switch into the Mech form after casting this skill and unlock the <color=Highlight>Resonance Liberation Finisher</color>.\nCasting this skill sends Aemeath into the <color=Highlight>Enhanced Sync Attack Boost</color> state.\n<size=10></size>\nWhen <color=Highlight>Resonance Liberation Finisher</color> is unlocked and <color=Highlight>Resonance Rate</color> reaches the limit, enter the <color=Highlight>Heavy Attack Boost</color> state. In this state, <color=Highlight>Heavy Attack</color> charges faster and recovers <color=Highlight>Synchronization Rate</color> to the max.\n<size=10></size>\n<size=40><color=Title>Enhanced Sync Attack Boost</color></size>\nThe next {0} <color=Highlight>Enhanced Sync Attacks</color> grant the following effects:\n- When in <color=Highlight>Resonance Mode - Tune Rupture</color>, <color=Highlight>Enhanced Sync Attack</color> increases the additional instances of <color=Highlight>Tune Rupture DMG</color> dealt.\n- When in <color=Highlight>Resonance Mode - Fusion Burst</color>, the DMG Multiplier of <color=Highlight>Fusion Burst</color> triggered by <color=Highlight>Enhanced Sync Attack</color> is additionally increased against the main target.\n<size=10></size>\n<size=40><color=Title>Resonance Liberation Finisher</color></size>\nWhen both <color=Highlight>Synchronization Rate</color> and <color=Highlight>Resonance Rate</color> reach the limit, <color=Highlight>Resonance Liberation Finisher</color> becomes available, dealing massive <color=Fire>Fusion DMG</color> and switching back to Aemeath form.",
+      "translation_vi": "<size=40><color=Title>Giải Phóng Cộng Hưởng</color></size>\nGây <color=Fire>Sát Thương Fusion</color>. Chuyển sang dạng Cơ Giới sau khi sử dụng kỹ năng này và mở khóa <color=Highlight>Đòn Kết Thúc Giải Phóng Cộng Hưởng</color>.\nSử dụng kỹ năng này đưa Aemeath vào trạng thái <color=Highlight>Tăng Cường Đồng Bộ Tấn Công</color>.\n<size=10></size>\nKhi <color=Highlight>Đòn Kết Thúc Giải Phóng Cộng Hưởng</color> được mở khóa và <color=Highlight>Tần Số Cộng Hưởng</color> đạt giới hạn, bước vào trạng thái <color=Highlight>Tăng Cường Đòn Tấn Công Nặng</color>. Trong trạng thái này, <color=Highlight>Đòn Tấn Công Nặng</color> nạp nhanh hơn và hồi <color=Highlight>Tỷ Lệ Đồng Bộ</color> về tối đa.\n<size=10></size>\n<size=40><color=Title>Tăng Cường Đồng Bộ Tấn Công</color></size>\n{0} <color=Highlight>Đòn Đồng Bộ Tăng Cường</color> tiếp theo sẽ mang lại các hiệu ứng sau:\n- Khi ở <color=Highlight>Chế Độ Cộng Hưởng - Đột Phá Giai Điệu</color>, <color=Highlight>Đòn Đồng Bộ Tăng Cường</color> tăng thêm số lần gây <color=Highlight>Sát Thương Đột Phá Giai Điệu</color>.\n- Khi ở <color=Highlight>Chế Độ Cộng Hưởng - Bùng Nổ Fusion</color>, Hệ Số Sát Thương của <color=Highlight>Bùng Nổ Fusion</color> kích hoạt bởi <color=Highlight>Đòn Đồng Bộ Tăng Cường</color> sẽ được tăng thêm đối với mục tiêu chính.\n<size=10></size>\n<size=40><color=Title>Đòn Kết Thúc Giải Phóng Cộng Hưởng</color></size>\nKhi cả <color=Highlight>Tỷ Lệ Đồng Bộ</color> và <color=Highlight>Tần Số Cộng Hưởng</color> đạt giới hạn, <color=Highlight>Đòn Kết Thúc Giải Phóng Cộng Hưởng</color> sẽ sẵn sàng, gây <color=Fire>Sát Thương Fusion</color> khủng khiếp và chuyển về dạng Aemeath."
+    }
+  ]
+}

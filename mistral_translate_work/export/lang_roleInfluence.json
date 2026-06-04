@@ -1,0 +1,32 @@
+[
+  {
+    "database": "lang_roleInfluence.db",
+    "table": "RoleInfluence",
+    "primary_key_column": "Id",
+    "primary_key": "1",
+    "column": "Content",
+    "source_en": "All",
+    "source_hash": "6a72085653e4c5be8c7640c868ef787cbcf063d1",
+    "category": "general"
+  },
+  {
+    "database": "lang_roleInfluence.db",
+    "table": "RoleInfluence",
+    "primary_key_column": "Id",
+    "primary_key": "2",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "general"
+  },
+  {
+    "database": "lang_roleInfluence.db",
+    "table": "RoleInfluence",
+    "primary_key_column": "Id",
+    "primary_key": "3",
+    "column": "Content",
+    "source_en": "Black Shores",
+    "source_hash": "d417ecae8508aff4a0bbf663756d99618730c600",
+    "category": "general"
+  }
+]

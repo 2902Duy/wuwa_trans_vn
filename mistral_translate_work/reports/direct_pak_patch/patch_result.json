@@ -1,0 +1,320 @@
+{
+  "patched": [
+    {
+      "db": "lang_accesspath.db",
+      "offset": 53,
+      "old_region_size": 12288,
+      "new_db_size": 12288,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_area.db",
+      "offset": 16490,
+      "old_region_size": 12288,
+      "new_db_size": 12288,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_cgVideo.db",
+      "offset": 32927,
+      "old_region_size": 12288,
+      "new_db_size": 12288,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_compose.db",
+      "offset": 49364,
+      "old_region_size": 45056,
+      "new_db_size": 45056,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_cook.db",
+      "offset": 123145,
+      "old_region_size": 53248,
+      "new_db_size": 53248,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_country.db",
+      "offset": 180542,
+      "old_region_size": 20480,
+      "new_db_size": 20480,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_detection.db",
+      "offset": 205171,
+      "old_region_size": 65536,
+      "new_db_size": 65536,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_element_info.db",
+      "offset": 299432,
+      "old_region_size": 28672,
+      "new_db_size": 28672,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_explore_skill.db",
+      "offset": 336349,
+      "old_region_size": 12288,
+      "new_db_size": 12288,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_favor.db",
+      "offset": 352786,
+      "old_region_size": 90112,
+      "new_db_size": 90112,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_forge.db",
+      "offset": 455239,
+      "old_region_size": 12288,
+      "new_db_size": 12288,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_function.db",
+      "offset": 471676,
+      "old_region_size": 28672,
+      "new_db_size": 28672,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_generic_tips.db",
+      "offset": 508593,
+      "old_region_size": 36864,
+      "new_db_size": 36864,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_guide_new.db",
+      "offset": 549606,
+      "old_region_size": 102400,
+      "new_db_size": 102400,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_help.db",
+      "offset": 684827,
+      "old_region_size": 12288,
+      "new_db_size": 12288,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_handbook.db",
+      "offset": 701264,
+      "old_region_size": 143360,
+      "new_db_size": 143360,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_hot_patch.db",
+      "offset": 865157,
+      "old_region_size": 36864,
+      "new_db_size": 36864,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_country.db",
+      "offset": 906170,
+      "old_region_size": 20480,
+      "new_db_size": 20480,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_instance_dungeon_entrance.db",
+      "offset": 930799,
+      "old_region_size": 12288,
+      "new_db_size": 12288,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_loadingtips.db",
+      "offset": 947236,
+      "old_region_size": 12288,
+      "new_db_size": 12288,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_infodisplay.db",
+      "offset": 963673,
+      "old_region_size": 110592,
+      "new_db_size": 110592,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_map_mark.db",
+      "offset": 1184910,
+      "old_region_size": 77824,
+      "new_db_size": 77824,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_monster_Info.db",
+      "offset": 1324227,
+      "old_region_size": 65536,
+      "new_db_size": 65536,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_item.db",
+      "offset": 1422584,
+      "old_region_size": 229376,
+      "new_db_size": 229376,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_multi_text_2ndhalf.db",
+      "offset": 1807661,
+      "old_region_size": 159744,
+      "new_db_size": 159744,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_multi_text_1sthalf.db",
+      "offset": 2094434,
+      "old_region_size": 311296,
+      "new_db_size": 311296,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_once_tower_challenge.db",
+      "offset": 2676119,
+      "old_region_size": 45056,
+      "new_db_size": 45056,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_property.db",
+      "offset": 2725324,
+      "old_region_size": 20480,
+      "new_db_size": 20480,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_quest_chapter.db",
+      "offset": 2758145,
+      "old_region_size": 12288,
+      "new_db_size": 12288,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_revive.db",
+      "offset": 2774582,
+      "old_region_size": 12288,
+      "new_db_size": 12288,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_phantom.db",
+      "offset": 2791019,
+      "old_region_size": 266240,
+      "new_db_size": 266240,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_skillTree.db",
+      "offset": 3290784,
+      "old_region_size": 61440,
+      "new_db_size": 61440,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": "mistral_translate_work\\reports\\direct_pak_patch\\compact_dbs\\lang_skillTree.db.compact.db"
+    },
+    {
+      "db": "lang_time_of_day.db",
+      "offset": 3372757,
+      "old_region_size": 12288,
+      "new_db_size": 12288,
+      "padding": 0,
+      "quick_check": "ok",
+      "used_compact_db": ""
+    },
+    {
+      "db": "lang_weapon.db",
+      "offset": 3389194,
+      "old_region_size": 65536,
+      "new_db_size": 57344,
+      "padding": 8192,
+      "quick_check": "ok",
+      "used_compact_db": "mistral_translate_work\\reports\\direct_pak_patch\\compact_dbs\\lang_weapon.db.compact.db"
+    },
+    {
+      "db": "lang_multi_text.db",
+      "offset": 7030424,
+      "old_region_size": 46342144,
+      "new_db_size": 43401216,
+      "padding": 2940928,
+      "quick_check": "ok",
+      "used_compact_db": "mistral_translate_work\\reports\\direct_pak_patch\\compact_dbs\\lang_multi_text.db.compact.db"
+    }
+  ],
+  "skipped": []
+}

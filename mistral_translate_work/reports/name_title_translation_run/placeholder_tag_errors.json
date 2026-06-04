@@ -1,0 +1,276 @@
+{
+  "count": 24,
+  "errors": [
+    {
+      "split_id": "NAME_TITLE_0035148",
+      "json_path": "C:\\Users\\tduy2\\Documents\\antigravity\\silly-darwin\\mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0068.json",
+      "classification": "translate_short_title",
+      "source_en": "Unique Effect: Triggering Counterattack Amplifies all DMG by <color=Highlight>{0}</color> for <color=Highlight>{1}</color>s and additionally reduces <color=Highlight>{2}</color> of the target's Max Vibration Strength. This effect can be triggered <color=Highlight><SapTag=4>{4}</SapTag></color> {Cus:Sap,S=time P=times SapTag=4} every <color=Highlight>{3}</color>s.",
+      "translation_vi": "Hiệu ứng Đặc biệt: Kích hoạt Phản Đòn Tăng cường sẽ tăng tất cả DMG thêm <color=Highlight>{0}</color> trong <color=Highlight>{1}</color> giây và giảm thêm <color=Highlight>{2}</color> Sức Mạnh Rung Động Tối Đa của mục tiêu. Hiệu ứng này có thể kích hoạt <color=Highlight><SapTag=4>{4}</SapTag></color> {Cus:Sap,S=lần P=lần SapTag=4} mỗi <color=Highlight>{3}</color> giây.",
+      "issues": [
+        "missing_token:{Cus:Sap,S=time P=times SapTag=4}"
+      ],
+      "batch": 568
+    },
+    {
+      "split_id": "NAME_TITLE_0035149",
+      "json_path": "C:\\Users\\tduy2\\Documents\\antigravity\\silly-darwin\\mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0068.json",
+      "classification": "translate_short_title",
+      "source_en": "Unique Effect: Dealing damage to enemies inflicted with Status - Waveworn Bane inflicts <color=Highlight><SapTag=0>{0}</SapTag></color> additional {Cus:Sap,S=stack P=stacks SapTag=0} of Aero Erosion on them and instantly triggers Aero Erosion DMG <color=Highlight><SapTag=1>{1}</SapTag></color> {Cus:Sap,S=time P=times SapTag=1}. This effect can be triggered <color=Highlight><SapTag=2>{2}</SapTag></color> {Cus:Sap,S=time P=times SapTag=2} per second.",
+      "translation_vi": "Hiệu ứng Đặc biệt: Gây sát thương lên kẻ địch đang chịu trạng thái Waveworn Bane sẽ gây thêm <color=Highlight><SapTag=0>{0}</SapTag></color> tầng Aero Erosion và kích hoạt ngay sát thương Aero Erosion <color=Highlight><SapTag=1>{1}</SapTag></color> {Cus:Sap,S=lần P=lần SapTag=1}. Hiệu ứng này có thể kích hoạt <color=Highlight><SapTag=2>{2}</SapTag></color> {Cus:Sap,S=lần P=lần SapTag=2} mỗi giây.",
+      "issues": [
+        "missing_token:{Cus:Sap,S=stack P=stacks SapTag=0}",
+        "missing_token:{Cus:Sap,S=time P=times SapTag=1}",
+        "missing_token:{Cus:Sap,S=time P=times SapTag=2}",
+        "missing_glossary_term:DMG"
+      ],
+      "batch": 568
+    },
+    {
+      "split_id": "NAME_TITLE_0035150",
+      "json_path": "C:\\Users\\tduy2\\Documents\\antigravity\\silly-darwin\\mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0068.json",
+      "classification": "translate_short_title",
+      "source_en": "Unique Effect: Dealing damage to enemies inflicted with Status - Waveworn Bane inflicts <color=Highlight><SapTag=0>{0}</SapTag></color> additional {Cus:Sap,S=stack P=stacks SapTag=0} of Spectro Frazzle on them and instantly triggers Spectro Frazzle DMG <color=Highlight><SapTag=1>{1}</SapTag></color> {Cus:Sap,S=time P=times SapTag=1}. This effect can be triggered <color=Highlight><SapTag=2>{2}</SapTag></color> {Cus:Sap,S=time P=times SapTag=2} per second.",
+      "translation_vi": "Hiệu ứng Đặc biệt: Gây sát thương lên kẻ địch đang chịu trạng thái Waveworn Bane sẽ gây thêm <color=Highlight><SapTag=0>{0}</SapTag></color> tầng Spectro Frazzle và kích hoạt ngay sát thương Spectro Frazzle <color=Highlight><SapTag=1>{1}</SapTag></color> {Cus:Sap,S=lần P=lần SapTag=1}. Hiệu ứng này có thể kích hoạt <color=Highlight><SapTag=2>{2}</SapTag></color> {Cus:Sap,S=lần P=lần SapTag=2} mỗi giây.",
+      "issues": [
+        "missing_token:{Cus:Sap,S=stack P=stacks SapTag=0}",
+        "missing_token:{Cus:Sap,S=time P=times SapTag=1}",
+        "missing_token:{Cus:Sap,S=time P=times SapTag=2}",
+        "missing_glossary_term:DMG"
+      ],
+      "batch": 568
+    },
+    {
+      "split_id": "NAME_TITLE_0035151",
+      "json_path": "C:\\Users\\tduy2\\Documents\\antigravity\\silly-darwin\\mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0068.json",
+      "classification": "translate_short_title",
+      "source_en": "Unique Effect: Dealing damage to enemies inflicted with <color=Highlight>{0}</color> or more stacks of Status - Waveworn Bane inflicts an additional instance of damage equal to <color=Highlight>{1}</color> of the Resonator's ATK, triggered <color=Highlight><SapTag=2>{2}</SapTag></color> {Cus:Sap,S=time P=times SapTag=2} per second.",
+      "translation_vi": "Hiệu ứng Đặc biệt: Gây sát thương lên kẻ địch đang chịu <color=Highlight>{0}</color> tầng trạng thái Waveworn Bane trở lên sẽ gây thêm một lần sát thương bằng <color=Highlight>{1}</color> ATK của Resonator, kích hoạt <color=Highlight><SapTag=2>{2}</SapTag></color> {Cus:Sap,S=lần P=lần SapTag=2} mỗi giây.",
+      "issues": [
+        "missing_token:{Cus:Sap,S=time P=times SapTag=2}"
+      ],
+      "batch": 568
+    },
+    {
+      "split_id": "NAME_TITLE_0035152",
+      "json_path": "C:\\Users\\tduy2\\Documents\\antigravity\\silly-darwin\\mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0068.json",
+      "classification": "translate_short_ui_title",
+      "source_en": "Unique Effect: After Resonance Skill is cast, the next Resonance Liberation grants <color=Highlight>{0}</color> all DMG Amplification for <color=Highlight>{1}</color>s, triggered <color=Highlight><SapTag=2>{2}</SapTag></color> {Cus:Sap,S=time P=times SapTag=2} per second.",
+      "translation_vi": "Hiệu ứng Đặc biệt: Sau khi sử dụng Resonance Skill, Resonance Liberation tiếp theo sẽ tăng <color=Highlight>{0}</color> khuếch đại tất cả DMG trong <color=Highlight>{1}</color> giây, kích hoạt <color=Highlight><SapTag=2>{2}</SapTag></color> {Cus:Sap,S=lần P=lần SapTag=2} mỗi giây.",
+      "issues": [
+        "missing_token:{Cus:Sap,S=time P=times SapTag=2}"
+      ],
+      "batch": 568
+    },
+    {
+      "split_id": "NAME_TITLE_0035157",
+      "json_path": "C:\\Users\\tduy2\\Documents\\antigravity\\silly-darwin\\mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0068.json",
+      "classification": "translate_short_ui_title",
+      "source_en": "Unique Effect: After Resonance Skill is cast, the next Resonance Liberation grants <color=Highlight>{0}</color> all DMG Amplification for <color=Highlight>{1}</color>s, triggered <color=Highlight><SapTag=2>{2}</SapTag></color> {Cus:Sap,S=time P=times SapTag=2} per second.",
+      "translation_vi": "Hiệu ứng Đặc biệt: Sau khi sử dụng Resonance Skill, Resonance Liberation tiếp theo sẽ tăng <color=Highlight>{0}</color> khuếch đại tất cả DMG trong <color=Highlight>{1}</color> giây, kích hoạt <color=Highlight><SapTag=2>{2}</SapTag></color> {Cus:Sap,S=lần P=lần SapTag=2} mỗi giây.",
+      "issues": [
+        "missing_token:{Cus:Sap,S=time P=times SapTag=2}"
+      ],
+      "batch": 568
+    },
+    {
+      "split_id": "NAME_TITLE_0035167",
+      "json_path": "C:\\Users\\tduy2\\Documents\\antigravity\\silly-darwin\\mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0068.json",
+      "classification": "translate_short_title",
+      "source_en": "Unique Effect: Dealing damage <color=Highlight>{0}</color> times grants <color=Highlight>{1}</color> Resonance Skill DMG Bonus and Resonance Liberation DMG Bonus for <color=Highlight>{2}s</color>. Cooldown: <color=Highlight>{3}s</color>. (All instances of damage dealt within <color=Highlight>{4}s</color> are counted as <color=Highlight><SapTag=5>{5}</SapTag></color> {Cus:Sap,S=hit P=hits SapTag=5} hit only.)",
+      "translation_vi": "Hiệu ứng Đặc biệt: Gây sát thương <color=Highlight>{0}</color> lần sẽ nhận <color=Highlight>{1}</color> Resonance Skill DMG Bonus và Resonance Liberation DMG Bonus trong <color=Highlight>{2}</color> giây. Cooldown: <color=Highlight>{3}</color> giây. (Tất cả các lần gây sát thương trong vòng <color=Highlight>{4}</color> giây chỉ được tính là <color=Highlight><SapTag=5>{5}</SapTag></color> {Cus:Sap,S=lần P=lần SapTag=5} gây sát thương.)",
+      "issues": [
+        "missing_token:{Cus:Sap,S=hit P=hits SapTag=5}"
+      ],
+      "batch": 569
+    },
+    {
+      "split_id": "NAME_TITLE_0035171",
+      "json_path": "C:\\Users\\tduy2\\Documents\\antigravity\\silly-darwin\\mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0068.json",
+      "classification": "translate_short_title",
+      "source_en": "Unique Effect: Every <color=Highlight><SapTag=0>{0}</SapTag></color> {Cus:Sap,S=time P=times SapTag=0} a Combo skill deals damage, it inflicts <color=Highlight><SapTag=1>{1}</SapTag></color> additional {Cus:Sap,S=instance P=instances SapTag=1} of damage equal to <color=Highlight>{2}</color> of the Resonator's ATK.",
+      "translation_vi": "Hiệu ứng Đặc biệt: Mỗi <color=Highlight><SapTag=0>{0}</SapTag></color> {Cus:Sap,S=lần P=lần SapTag=0} Combo skill gây sát thương, nó sẽ gây thêm <color=Highlight><SapTag=1>{1}</SapTag></color> {Cus:Sap,S=lần P=lần SapTag=1} sát thương bằng <color=Highlight>{2}</color> ATK của Resonator.",
+      "issues": [
+        "missing_token:{Cus:Sap,S=time P=times SapTag=0}",
+        "missing_token:{Cus:Sap,S=instance P=instances SapTag=1}"
+      ],
+      "batch": 569
+    },
+    {
+      "split_id": "NAME_TITLE_0035174",
+      "json_path": "C:\\Users\\tduy2\\Documents\\antigravity\\silly-darwin\\mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0068.json",
+      "classification": "translate_short_title",
+      "source_en": "Unique Effect: Gaining a Shield launches <color=Highlight>{0}</color> <color=Highlight><te href=851100>Combo - Rice Dango Missiles</te></color> to targets around, triggered <color=Highlight><SapTag=2>{2}</SapTag></color> {Cus:Sap,S=time P=times SapTag=2} every <color=Highlight>{1}s</color>.",
+      "translation_vi": "Hiệu ứng Đặc biệt: Nhận khiên sẽ phóng <color=Highlight>{0}</color> <color=Highlight><te href=851100>Combo - Rice Dango Missiles</te></color> vào các mục tiêu xung quanh, kích hoạt <color=Highlight><SapTag=2>{2}</SapTag></color> {Cus:Sap,S=lần P=lần SapTag=2} mỗi <color=Highlight>{1}</color> giây.",
+      "issues": [
+        "missing_token:{Cus:Sap,S=time P=times SapTag=2}"
+      ],
+      "batch": 569
+    },
+    {
+      "split_id": "NAME_TITLE_0035176",
+      "json_path": "C:\\Users\\tduy2\\Documents\\antigravity\\silly-darwin\\mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0068.json",
+      "classification": "translate_short_title",
+      "source_en": "Unique Effect: Hitting enemies with Burst skills reduces all Namipon Support Skill Cooldowns by <color=Highlight>{0}</color>s, triggered <color=Highlight><SapTag=2>{2}</SapTag></color> {Cus:Sap,S=time P=times SapTag=2} every <color=Highlight>{1}s</color>.",
+      "translation_vi": "Hiệu ứng Đặc biệt: Đánh trúng kẻ địch bằng Burst skill sẽ giảm tất cả Cooldown của Namipon Support Skill đi <color=Highlight>{0}</color> giây, kích hoạt <color=Highlight><SapTag=2>{2}</SapTag></color> {Cus:Sap,S=lần P=lần SapTag=2} mỗi <color=Highlight>{1}</color> giây.",
+      "issues": [
+        "missing_token:{Cus:Sap,S=time P=times SapTag=2}"
+      ],
+      "batch": 569
+    },
+    {
+      "split_id": "NAME_TITLE_0035177",
+      "json_path": "C:\\Users\\tduy2\\Documents\\antigravity\\silly-darwin\\mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0068.json",
+      "classification": "translate_short_title",
+      "source_en": "Unique Effect: Gaining a Shield releases <color=Highlight><te href=851102>Burst - Blazing Pillar</te></color> to targets around, triggered <color=Highlight><SapTag=0>{0}</SapTag></color> {Cus:Sap,S=time P=times SapTag=0} per second.",
+      "translation_vi": "Hiệu ứng Đặc biệt: Nhận khiên sẽ giải phóng <color=Highlight><te href=851102>Burst - Blazing Pillar</te></color> vào các mục tiêu xung quanh, kích hoạt <color=Highlight><SapTag=0>{0}</SapTag></color> {Cus:Sap,S=lần P=lần SapTag=0} mỗi giây.",
+      "issues": [
+        "missing_token:{Cus:Sap,S=time P=times SapTag=0}"
+      ],
+      "batch": 569
+    },
+    {
+      "split_id": "NAME_TITLE_0035178",
+      "json_path": "C:\\Users\\tduy2\\Documents\\antigravity\\silly-darwin\\mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0068.json",
+      "classification": "translate_short_title",
+      "source_en": "Unique Effect: A successful Dodge releases <color=Highlight><te href=851116>Burst - Shock Impact</te></color> to targets nearby, triggered <color=Highlight><SapTag=0>{0}</SapTag></color> {Cus:Sap,S=time P=times SapTag=0} per second.",
+      "translation_vi": "Hiệu ứng Đặc biệt: Né thành công sẽ giải phóng <color=Highlight><te href=851116>Burst - Shock Impact</te></color> vào các mục tiêu gần đó, kích hoạt <color=Highlight><SapTag=0>{0}</SapTag></color> {Cus:Sap,S=lần P=lần SapTag=0} mỗi giây.",
+      "issues": [
+        "missing_token:{Cus:Sap,S=time P=times SapTag=0}"
+      ],
+      "batch": 569
+    },
+    {
+      "split_id": "NAME_TITLE_0035179",
+      "json_path": "C:\\Users\\tduy2\\Documents\\antigravity\\silly-darwin\\mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0068.json",
+      "classification": "translate_short_title",
+      "source_en": "Unique Effect: Every <color=Highlight><SapTag=0>{0}</SapTag></color> {Cus:Sap,S=enemy P=enemies SapTag=0} defeated by any Resonator in the team increases Max Stability by <color=Highlight>{1}</color> points, stacking up to <color=Highlight>{2}</color> times.",
+      "translation_vi": "Hiệu ứng Đặc biệt: Mỗi <color=Highlight><SapTag=0>{0}</SapTag></color> {Cus:Sap,S=kẻ địch P=kẻ địch SapTag=0} bị đánh bại bởi bất kỳ Resonator nào trong đội sẽ tăng Max Stability thêm <color=Highlight>{1}</color> điểm, cộng dồn tối đa <color=Highlight>{2}</color> lần.",
+      "issues": [
+        "missing_token:{Cus:Sap,S=enemy P=enemies SapTag=0}"
+      ],
+      "batch": 569
+    },
+    {
+      "split_id": "NAME_TITLE_0035184",
+      "json_path": "C:\\Users\\tduy2\\Documents\\antigravity\\silly-darwin\\mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0068.json",
+      "classification": "translate_short_title",
+      "source_en": "Unique Effect: Basic Attack recovers <color=Highlight><SapTag=0>{0}</SapTag></color> more {Cus:Sap,S=point P=points SapTag=0} of Concerto Energy. Cooldown: <color=Highlight>{1}</color>s.",
+      "translation_vi": "Hiệu ứng Đặc biệt: Basic Attack phục hồi thêm <color=Highlight><SapTag=0>{0}</SapTag></color> {Cus:Sap,S=điểm P=điểm SapTag=0} Concerto Energy. Cooldown: <color=Highlight>{1}</color> giây.",
+      "issues": [
+        "missing_token:{Cus:Sap,S=point P=points SapTag=0}"
+      ],
+      "batch": 569
+    },
+    {
+      "split_id": "NAME_TITLE_0035190",
+      "json_path": "C:\\Users\\tduy2\\Documents\\antigravity\\silly-darwin\\mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0068.json",
+      "classification": "translate_short_title",
+      "source_en": "Unique Effect: Every <color=Highlight><SapTag=0>{0}</SapTag></color> {Cus:Sap,S=enemy P=enemies SapTag=0} defeated by any Resonator in the team increases Max Stability by <color=Highlight>{1}</color> points, stacking up to <color=Highlight>{2}</color> times.",
+      "translation_vi": "Hiệu ứng Đặc biệt: Mỗi <color=Highlight><SapTag=0>{0}</SapTag></color> {Cus:Sap,S=kẻ địch P=kẻ địch SapTag=0} bị đánh bại bởi bất kỳ Resonator nào trong đội sẽ tăng Stability tối đa thêm <color=Highlight>{1}</color> điểm, cộng dồn tối đa <color=Highlight>{2}</color> lần.",
+      "issues": [
+        "missing_token:{Cus:Sap,S=enemy P=enemies SapTag=0}"
+      ],
+      "batch": 570
+    },
+    {
+      "split_id": "NAME_TITLE_0035192",
+      "json_path": "C:\\Users\\tduy2\\Documents\\antigravity\\silly-darwin\\mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0068.json",
+      "classification": "translate_short_title",
+      "source_en": "Unique Effect: When Stability reaches the Critical State, all Resonators in the team gain a Shield equal to <color=Highlight>{0}</color> of the Max HP and become immune to Stability DMG for <color=Highlight>{1}</color>s. This effect can only be triggered <color=Highlight><SapTag=2>{2}</SapTag></color> {Cus:Sap,S=time P=times SapTag=2} per exploration.",
+      "translation_vi": "Hiệu ứng Đặc biệt: Khi Stability đạt trạng thái Critical, tất cả Resonator trong đội nhận được một lá chắn bằng <color=Highlight>{0}</color> HP tối đa và miễn nhiễm Stability DMG trong <color=Highlight>{1}</color> giây. Hiệu ứng này chỉ có thể kích hoạt <color=Highlight><SapTag=2>{2}</SapTag></color> {Cus:Sap,S=lần P=lần SapTag=2} mỗi lần khám phá.",
+      "issues": [
+        "missing_token:{Cus:Sap,S=time P=times SapTag=2}"
+      ],
+      "batch": 570
+    },
+    {
+      "split_id": "NAME_TITLE_0035193",
+      "json_path": "C:\\Users\\tduy2\\Documents\\antigravity\\silly-darwin\\mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0068.json",
+      "classification": "translate_short_title",
+      "source_en": "Unique Effect: When Stability reaches Critical State, Resonance Skill Cooldown is reduced by <color=Highlight>{0}s</color> each time Basic Attack is cast, triggered <color=Highlight><SapTag=1>{1}</SapTag></color> {Cus:Sap,S=time P=times SapTag=1} per second.",
+      "translation_vi": "Hiệu ứng Đặc biệt: Khi Stability đạt trạng thái Critical, thời gian Cooldown của Resonance Skill giảm <color=Highlight>{0}</color> giây mỗi khi sử dụng Basic Attack, kích hoạt <color=Highlight><SapTag=1>{1}</SapTag></color> {Cus:Sap,S=lần P=lần SapTag=1} mỗi giây.",
+      "issues": [
+        "missing_token:{Cus:Sap,S=time P=times SapTag=1}"
+      ],
+      "batch": 570
+    },
+    {
+      "split_id": "NAME_TITLE_0035195",
+      "json_path": "C:\\Users\\tduy2\\Documents\\antigravity\\silly-darwin\\mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0068.json",
+      "classification": "translate_short_title",
+      "source_en": "Unique Effect: When Stability reaches the Critical State, all Resonators in the team gain a Shield equal to <color=Highlight>{0}</color> of the Max HP and become immune to Stability DMG for <color=Highlight>{1}</color>s. This effect can only be triggered <color=Highlight><SapTag=2>{2}</SapTag></color> {Cus:Sap,S=time P=times SapTag=2} per exploration.",
+      "translation_vi": "Hiệu ứng Đặc biệt: Khi Stability đạt trạng thái Critical, tất cả Resonator trong đội nhận được một lá chắn bằng <color=Highlight>{0}</color> HP tối đa và miễn nhiễm Stability DMG trong <color=Highlight>{1}</color> giây. Hiệu ứng này chỉ có thể kích hoạt <color=Highlight><SapTag=2>{2}</SapTag></color> {Cus:Sap,S=lần P=lần SapTag=2} mỗi lần khám phá.",
+      "issues": [
+        "missing_token:{Cus:Sap,S=time P=times SapTag=2}"
+      ],
+      "batch": 570
+    },
+    {
+      "split_id": "NAME_TITLE_0035201",
+      "json_path": "C:\\Users\\tduy2\\Documents\\antigravity\\silly-darwin\\mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0068.json",
+      "classification": "translate_short_title",
+      "source_en": "Unique Effect: Gaining a Shield releases <color=Highlight><te href=851102>Burst - Blazing Pillar</te></color> to targets around, triggered <color=Highlight><SapTag=0>{0}</SapTag></color> {Cus:Sap,S=time P=times SapTag=0} per second.",
+      "translation_vi": "Hiệu ứng Đặc biệt: Nhận lá chắn sẽ giải phóng <color=Highlight><te href=851102>Burst - Blazing Pillar</te></color> vào các mục tiêu xung quanh, kích hoạt <color=Highlight><SapTag=0>{0}</SapTag></color> {Cus:Sap,S=lần P=lần SapTag=0} mỗi giây.",
+      "issues": [
+        "missing_token:{Cus:Sap,S=time P=times SapTag=0}"
+      ],
+      "batch": 570
+    },
+    {
+      "split_id": "NAME_TITLE_0035202",
+      "json_path": "C:\\Users\\tduy2\\Documents\\antigravity\\silly-darwin\\mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0068.json",
+      "classification": "translate_short_title",
+      "source_en": "Unique Effect: When healed, the Resonator releases <color=Highlight><te href=851102>Burst - Blazing Pillar</te></color> to surrounding targets, triggered <color=Highlight><SapTag=1>{1}</SapTag></color> {Cus:Sap,S=time P=times SapTag=1} every <color=Highlight>{0}s</color>.",
+      "translation_vi": "Hiệu ứng Đặc biệt: Khi được hồi máu, Resonator sẽ giải phóng <color=Highlight><te href=851102>Burst - Blazing Pillar</te></color> vào các mục tiêu xung quanh, kích hoạt <color=Highlight><SapTag=1>{1}</SapTag></color> {Cus:Sap,S=lần P=lần SapTag=1} mỗi <color=Highlight>{0}</color> giây.",
+      "issues": [
+        "missing_token:{Cus:Sap,S=time P=times SapTag=1}"
+      ],
+      "batch": 570
+    },
+    {
+      "split_id": "NAME_TITLE_0035203",
+      "json_path": "C:\\Users\\tduy2\\Documents\\antigravity\\silly-darwin\\mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0068.json",
+      "classification": "translate_short_title",
+      "source_en": "Unique Effect: Casting Resonance Liberation resets its Cooldown and recovers all Resonance Energy, triggered <color=Highlight><SapTag=1>{1}</SapTag></color> {Cus:Sap,S=time P=times SapTag=1} every <color=Highlight>{0}s</color>.",
+      "translation_vi": "Hiệu ứng Đặc biệt: Kích hoạt Resonance Liberation sẽ đặt lại Cooldown và phục hồi toàn bộ Resonance Energy, kích hoạt <color=Highlight><SapTag=1>{1}</SapTag></color> {Cus:Sap,S=lần P=lần SapTag=1} mỗi <color=Highlight>{0}</color> giây.",
+      "issues": [
+        "missing_token:{Cus:Sap,S=time P=times SapTag=1}"
+      ],
+      "batch": 570
+    },
+    {
+      "split_id": "NAME_TITLE_0035204",
+      "json_path": "C:\\Users\\tduy2\\Documents\\antigravity\\silly-darwin\\mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0068.json",
+      "classification": "translate_short_title",
+      "source_en": "Unique Effect: When under attack or healing and HP is at <color=Highlight>{0}</color>, the Resonator enters <color=Highlight><te href=851112>Boost - Satisfaction</te></color>, triggered <color=Highlight><SapTag=2>{2}</SapTag></color> {Cus:Sap,S=time P=times SapTag=2} every <color=Highlight>{1}s</color>.",
+      "translation_vi": "Hiệu ứng Đặc biệt: Khi bị tấn công hoặc hồi máu và HP ở mức <color=Highlight>{0}</color>, Resonator sẽ vào trạng thái <color=Highlight><te href=851112>Boost - Satisfaction</te></color>, kích hoạt <color=Highlight><SapTag=2>{2}</SapTag></color> {Cus:Sap,S=lần P=lần SapTag=2} mỗi <color=Highlight>{1}</color> giây.",
+      "issues": [
+        "missing_token:{Cus:Sap,S=time P=times SapTag=2}"
+      ],
+      "batch": 570
+    },
+    {
+      "split_id": "NAME_TITLE_0035269",
+      "json_path": "C:\\Users\\tduy2\\Documents\\antigravity\\silly-darwin\\mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0068.json",
+      "classification": "translate_short_title",
+      "source_en": "Unique Effect: When Stability reaches Critical State, all Resonators in the team gain a Shield and become immune to Stability DMG. This effect can only be triggered <color=Highlight><SapTag=2>{2}</SapTag></color> {Cus:Sap,S=time P=times SapTag=2} per exploration.",
+      "translation_vi": "Hiệu ứng Đặc biệt: Khi **Stability** đạt trạng thái **Critical State**, tất cả **Resonator** trong đội nhận **Shield** và miễn nhiễm **Stability DMG**. Hiệu ứng này chỉ có thể kích hoạt <color=Highlight><SapTag=2>{2}</SapTag></color> {Cus:Sap,S=lần P=lần SapTag=2} mỗi lần khám phá.",
+      "issues": [
+        "missing_token:{Cus:Sap,S=time P=times SapTag=2}"
+      ],
+      "batch": 573
+    },
+    {
+      "split_id": "NAME_TITLE_0035272",
+      "json_path": "C:\\Users\\tduy2\\Documents\\antigravity\\silly-darwin\\mistral_translate_work\\split_by_prompt\\json\\name_title\\lang_multi_text\\lang_multi_text__name_title__part_0068.json",
+      "classification": "translate_short_title",
+      "source_en": "Unique Effect: When Stability reaches the Critical State, all Resonators in the team gain a Shield and become immune to Stability DMG. This effect can only be triggered <color=Highlight><SapTag=2>{2}</SapTag></color> {Cus:Sap,S=time P=times SapTag=2} per exploration.",
+      "translation_vi": "Hiệu ứng Đặc biệt: Khi **Stability** đạt trạng thái **Critical State**, tất cả **Resonator** trong đội nhận **Shield** và miễn nhiễm **Stability DMG**. Hiệu ứng này chỉ có thể kích hoạt <color=Highlight><SapTag=2>{2}</SapTag></color> {Cus:Sap,S=lần P=lần SapTag=2} mỗi lần khám phá.",
+      "issues": [
+        "missing_token:{Cus:Sap,S=time P=times SapTag=2}"
+      ],
+      "batch": 573
+    }
+  ]
+}

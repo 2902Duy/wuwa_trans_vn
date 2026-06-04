@@ -1,0 +1,540 @@
+﻿database,table,primary_key_column,primary_key,column,category,status,issues,rule_decision,rule_score,rule_issues,ai_decision,ai_score,ai_reason,source_en,translation_vi,review_note
+lang_guide_new.db,GuideTips,Id,1,Content,quest,translated,,PASS,10,,,,,"Hold {0}, {1} to move back and forth.
+Hold {2}, {3} to move left and right.","Giữ {0}, {1} để di chuyển tiến/lùi.
+Giữ {2}, {3} để di chuyển trái/phải.",
+lang_guide_new.db,GuideTips,Id,2,Content,quest,translated,,PASS,10,,,,,Tap {0} to jump.,Nhấn {0} để nhảy.,
+lang_guide_new.db,GuideTips,Id,3,Content,quest,translated,,PASS,10,,,,,"Hold {0} and {1}/{2}
+Start to sprint.","Giữ {0} và {1}/{2}
+Bắt đầu chạy nước rút.",
+lang_guide_new.db,GuideTips,Id,4,Content,quest,translated,,PASS,10,,,,,"Hold (Joystick) and (Evade)
+Start to sprint.","Giữ (Joystick) và (Né Tránh)
+Bắt đầu chạy nước rút.",
+lang_guide_new.db,GuideTips,Id,5,Content,quest,translated,,PASS,10,,,,,Stand beside the walls and hold {0} to climb.,Đứng cạnh tường và giữ {0} để leo lên.,
+lang_guide_new.db,GuideTips,Id,6,Content,quest,translated,,PASS,10,,,,,Tap {0} to use Normal Attack.,Nhấn {0} để sử dụng Kỹ Năng Tấn Công Cơ Bản.,
+lang_guide_new.db,GuideTips,Id,7,Content,quest,translated,,PASS,10,,,,,Tap {0} to use Resonance Skill.,Nhấn {0} để sử dụng Resonance Skill.,
+lang_guide_new.db,GuideTips,Id,8,Content,quest,translated,,PASS,10,,,,,Stand next to Echo and tap {0} while the interface shows up to absorb the Echo.,Đứng cạnh Echo và chạm {0} khi giao diện hiện lên để hấp thụ Echo.,
+lang_guide_new.db,GuideTips,Id,9,Content,quest,translated,,PASS,10,,,,,Tap {0} to use Echo Skill.,Nhấn {0} để sử dụng Kỹ Năng Echo.,
+lang_guide_new.db,GuideTips,Id,10,Content,quest,translated,,PASS,10,,,,,Tap {0} to use Resonance Liberation.,Nhấn {0} để sử dụng Resonance Liberation.,
+lang_guide_new.db,GuideTips,Id,11,Content,quest,translated,,PASS,10,,,,,Tap {0} while in the air to glide.,Nhấn {0} khi đang ở trên không để lướt.,
+lang_guide_new.db,GuideTips,Id,12,Content,quest,translated,,PASS,10,,,,,Tap {0} to aim.,Nhấn {0} để ngắm.,
+lang_guide_new.db,GuideTips,Id,13,Content,quest,translated,,PASS,10,,,,,Tap {0}/{1} now to trigger extreme evasion.,Nhấn {0}/{1} ngay bây giờ để kích hoạt né tránh cực hạn.,
+lang_guide_new.db,GuideTips,Id,14,Content,quest,translated,,PASS,10,,,,,Tap {0} now to fend the attack.,Nhấn {0} ngay để chống đỡ đòn tấn công.,
+lang_guide_new.db,GuideTips,Id,15,Content,quest,translated,,PASS,10,,,,,"Time Setting Guide.
+Tap {0} to open the System Menu.","Hướng dẫn Cài đặt Thời Gian.
+Nhấn {0} để mở Menu Hệ thống.",
+lang_guide_new.db,GuideTips,Id,16,Content,quest,translated,,PASS,10,,,,,Hold {0} to move to the edge of the cliff.,Giữ {0} để di chuyển đến mép vách đá.,
+lang_guide_new.db,GuideTips,Id,17,Content,quest,translated,,PASS,10,,,,,Hold (Joystick) to move to the edge of the cliff.,Giữ (Joystick) để di chuyển đến mép vách đá.,
+lang_guide_new.db,GuideTips,Id,18,Content,quest,translated,,PASS,10,,,,,Gain full [Chilling Vein],Nhận đầy [Mạch Lạnh],
+lang_guide_new.db,GuideTips,Id,19,Content,quest,translated,,PASS,10,,,,,Gain full [Chilling Vein],Nhận đầy [Mạch Lạnh],
+lang_guide_new.db,GuideTips,Id,20,Content,quest,translated,,PASS,10,,,,,"Tap {0} to use Resonance Skill.
+Consume [Chilling Vein] to recover HP for the party. Consuming more [Chilling Vein] will recover more HP.","Nhấn {0} để sử dụng Resonance Skill.
+Tiêu hao [Chilling Vein] để hồi phục HP cho cả đội. Tiêu hao càng nhiều [Chilling Vein], HP hồi phục càng nhiều.",
+lang_guide_new.db,GuideTips,Id,21,Content,quest,translated,,PASS,10,,,,,"Fourth Normal Attack.
+Yangyang will get 1 Cleaving Wind if her last normal attack hits a target.","Đòn tấn công thường thứ tư.
+Nếu đòn tấn công thường cuối cùng của Yangyang trúng mục tiêu, cô sẽ nhận được 1 [Gió Chém].",
+lang_guide_new.db,GuideTips,Id,22,Content,quest,translated,,PASS,10,,,,,"Fourth Normal Attack.
+Yangyang will get 1 Cleaving Wind if her last normal attack hits a target.","Đòn tấn công thường thứ tư.
+Nếu đòn tấn công thường cuối cùng của Yangyang trúng mục tiêu, cô sẽ nhận được 1 [Gió Chém].",
+lang_guide_new.db,GuideTips,Id,23,Content,quest,translated,,PASS,10,,,,,"While special energy remain, hold [Normal Attack] to use Dual Shooting.
+Dual Shooting will continuously consume special energy.","Khi năng lượng đặc biệt còn lại, giữ [Basic Attack] để sử dụng Song Kích.
+Song Kích sẽ liên tục tiêu hao năng lượng đặc biệt.",
+lang_guide_new.db,GuideTips,Id,24,Content,quest,translated,,PASS,10,,,,,"While special energy remain, hold [Normal Attack] to use Dual Shooting.
+Dual Shooting will continuously consume special energy.","Khi năng lượng đặc biệt còn lại, giữ [Basic Attack] để sử dụng Song Kích.
+Song Kích sẽ liên tục tiêu hao năng lượng đặc biệt.",
+lang_guide_new.db,GuideTips,Id,25,Content,quest,translated,,PASS,10,,,,,"Tap {0} to use Resonance Skill.
+Yangyang can gain 2 Cleaving Winds by using Resonance Skill to hit a target.","Nhấn {0} để sử dụng Resonance Skill.
+Yangyang có thể nhận 2 Cleaving Winds khi dùng Resonance Skill trúng mục tiêu.",
+lang_guide_new.db,GuideTips,Id,26,Content,quest,translated,,PASS,10,,,,,"Hold [Normal Attack] to charge for Heavy Attack.
+After getting all 3 Cleaving Winds. Yangyang's Heavy Attack will raise target into air.","Giữ [Basic Attack] để tích lực cho Đòn Tấn Công Mạnh.
+Sau khi thu thập đủ 3 Luồng Gió Xé, Đòn Tấn Công Mạnh của Yangyang sẽ hất tung mục tiêu lên không.",
+lang_guide_new.db,GuideTips,Id,27,Content,quest,translated,,PASS,10,,,,,"Hold [Normal Attack] to charge for Heavy Attack.
+After getting all 3 Cleaving Winds. Yangyang's Heavy Attack will raise target into air.","Giữ [Basic Attack] để tích lực cho Đòn Tấn Công Mạnh.
+Sau khi thu thập đủ 3 Luồng Gió Xé, Đòn Tấn Công Mạnh của Yangyang sẽ hất tung mục tiêu lên không.",
+lang_guide_new.db,GuideTips,Id,28,Content,quest,translated,,PASS,10,,,,,"Stand beside the walls and hold {0} and {1}/{2} to start Side Sprint.
+Side Sprint will continuously consume Stamina. Characters will fall if ran out of Stamina.","Đứng cạnh tường và giữ {0} cùng {1}/{2} để bắt đầu Tiến Bên.
+Tiến Bên sẽ liên tục tiêu hao Thể lực. Nhân vật sẽ rơi nếu hết Thể lực.",
+lang_guide_new.db,GuideTips,Id,29,Content,quest,translated,,PASS,10,,,,,"Stand beside the walls and hold (Joystick) and (Evade)/ to start Side Sprint.
+Side Sprint will continuously consume Stamina. Characters will fall if ran out of Stamina.","Đứng cạnh tường và giữ (Tay điều khiển) cùng (Né tránh)/ để bắt đầu Tiến Bên.
+Tiến Bên sẽ liên tục tiêu hao Thể lực. Nhân vật sẽ rơi nếu hết Thể lực.",
+lang_guide_new.db,GuideTips,Id,30,Content,quest,translated,,PASS,10,,,,,"Weapon Switching Guide.
+Tap {0} to open Resonator page.","Hướng dẫn Chuyển Vũ Khí.
+Nhấn {0} để mở trang Resonator.",
+lang_guide_new.db,GuideTips,Id,31,Content,quest,translated,,PASS,10,,,,,"Resonator Upgrade Guide.
+Tap {0} to open Resonator page.","Hướng dẫn Nâng cấp Resonator.
+Nhấn {0} để mở trang Resonator.",
+lang_guide_new.db,GuideTips,Id,32,Content,quest,translated,,PASS,10,,,,,"Teleport Guide.
+Tap {0} to open Map.","Hướng dẫn Dịch Chuyển.
+Nhấn {0} để mở Bản Đồ.",
+lang_guide_new.db,GuideTips,Id,33,Content,quest,translated,,PASS,10,,,,,"While in midair, tap {0}/{1} to evade in the air.","Khi đang ở trên không, nhấn {0}/{1} để né tránh.",
+lang_guide_new.db,GuideTips,Id,34,Content,quest,translated,,PASS,10,,,,,While in midair. Tap [Evade] to evade in the air.,"Khi đang ở trên không, nhấn [Né Tránh] để né tránh.",
+lang_guide_new.db,GuideTips,Id,35,Content,quest,translated,,PASS,10,,,,,Hold {0} to open Exploration Tools Wheel.,Giữ {0} để mở Bánh Xe Công Cụ Khám Phá.,
+lang_guide_new.db,GuideTips,Id,36,Content,quest,translated,,PASS,10,,,,,"Select Scanning Tool
+Drag toward Scanning Tool section and release {0} to select it.","Chọn Công cụ Quét
+Kéo đến mục Công cụ Quét và thả {0} để chọn.",
+lang_guide_new.db,GuideTips,Id,37,Content,quest,translated,,PASS,10,,,,,Tap {0} to use Scanning Tool.,Nhấn {0} để sử dụng Công Cụ Quét.,
+lang_guide_new.db,GuideTips,Id,38,Content,quest,translated,,PASS,10,,,,,"Select Scanning Tool.
+Drag towards the Scanning Tool section and release to select it.","Chọn Công cụ Quét.
+Kéo đến mục Công cụ Quét và thả để chọn.",
+lang_guide_new.db,GuideTips,Id,39,Content,quest,translated,,PASS,10,,,,,Hold {0} to open Exploration Tools Wheel.,Giữ {0} để mở Bánh Xe Công Cụ Khám Phá.,
+lang_guide_new.db,GuideTips,Id,40,Content,quest,translated,,PASS,10,,,,,"Select Grapple Tool
+Drag your mouse towards the Grapple Tool section and release {0}.","Chọn Công cụ Móc
+Kéo chuột đến mục Công cụ Móc và thả {0}.",
+lang_guide_new.db,GuideTips,Id,41,Content,quest,translated,,PASS,10,,,,,Tap {0} to use Grapple.,Nhấn {0} để sử dụng Móc Câu.,
+lang_guide_new.db,GuideTips,Id,42,Content,quest,translated,,PASS,10,,,,,"Select Grapple.
+Drag towards the Grapple Tools to select it.","Chọn Móc.
+Kéo đến Công cụ Móc để chọn.",
+lang_guide_new.db,GuideTips,Id,43,Content,quest,translated,,PASS,10,,,,,Hold {0} to open Exploration Tools Wheel.,Giữ {0} để mở Bánh Xe Công Cụ Khám Phá.,
+lang_guide_new.db,GuideTips,Id,44,Content,quest,translated,,PASS,10,,,,,"Select Levitation Tool
+Drag towards the Levitation Tool and release {0} to select it.","Chọn Công cụ Bay
+Kéo đến Công cụ Bay và thả {0} để chọn.",
+lang_guide_new.db,GuideTips,Id,45,Content,quest,translated,,PASS,10,,,,,Tap {0} to use Levitation Tool.,Nhấn {0} để sử dụng Công Cụ Bay Lượn.,
+lang_guide_new.db,GuideTips,Id,46,Content,quest,translated,,PASS,10,,,,,Tap {0} now to throw.,Nhấn {0} ngay để ném.,
+lang_guide_new.db,GuideTips,Id,47,Content,quest,translated,,PASS,10,,,,,"Select Levitation Tool.
+Drag towards the Levitation Tool section to select it.","Chọn Công cụ Bay.
+Kéo đến mục Công cụ Bay để chọn.",
+lang_guide_new.db,GuideTips,Id,48,Content,quest,translated,,PASS,10,,,,,"Solo Record Guide.
+Tap {0} to open mission page.","Hướng dẫn Ghi Solo.
+Chạm {0} để mở trang nhiệm vụ.",
+lang_guide_new.db,GuideTips,Id,49,Content,quest,translated,,PASS,10,,,,,Tap {0} to aim.,Nhấn {0} để ngắm.,
+lang_guide_new.db,GuideTips,Id,58,Content,quest,translated,,PASS,10,,,,,Tap {0} to jump.,Nhấn {0} để nhảy.,
+lang_guide_new.db,GuideTips,Id,59,Content,quest,translated,,PASS,10,,,,,"Hold {0}, {1} to move back and forth.
+Hold {2}, {3} to move left and right.","Giữ {0}, {1} để di chuyển tiến/lùi.
+Giữ {2}, {3} để di chuyển trái/phải.",
+lang_guide_new.db,GuideTips,Id,60,Content,quest,translated,,PASS,10,,,,,Tap {0} to use Normal Attack.,Nhấn {0} để sử dụng Kỹ Năng Tấn Công Cơ Bản.,
+lang_guide_new.db,GuideTips,Id,61,Content,quest,translated,,PASS,10,,,,,"Hold {0} and {1}/{2}
+Start to sprint.","Giữ {0} và {1}/{2}
+Bắt đầu chạy nước rút.",
+lang_guide_new.db,GuideTutorial,Id,1,Content,quest,translated,,PASS,10,,,,,Concerto Effect,Hiệu ứng Concerto,
+lang_guide_new.db,GuideTutorial,Id,2,Content,quest,translated,,PASS,10,,,,,Glacio-Thermo Interference,Giao Thoa Nhiệt-Lạnh,
+lang_guide_new.db,GuideTutorial,Id,3,Content,quest,translated,,PASS,10,,,,,Glacio-Electro Interference,Giao Thoa Glacio-Electro,
+lang_guide_new.db,GuideTutorial,Id,4,Content,quest,translated,,PASS,10,,,,,Glacio-Aero Interference,Giao Thoa Glacio-Aero,
+lang_guide_new.db,GuideTutorial,Id,5,Content,quest,translated,,PASS,10,,,,,Thermo-Electro Interference,Giao Thoa Nhiệt - Electro,
+lang_guide_new.db,GuideTutorial,Id,6,Content,quest,translated,,PASS,10,,,,,Thermo-Aero Interference,Giao Thoa Nhiệt - Aero,
+lang_guide_new.db,GuideTutorial,Id,7,Content,quest,translated,,PASS,10,,,,,Electro-Aero Interference,Giao Thoa Điện-Khí,
+lang_guide_new.db,GuideTutorial,Id,8,Content,quest,translated,,PASS,10,,,,,Glacio Polymerization,Đông Kết Glacio,
+lang_guide_new.db,GuideTutorial,Id,9,Content,quest,translated,,PASS,10,,,,,Fusion Polymerization,Hợp Thể Polymer,
+lang_guide_new.db,GuideTutorial,Id,10,Content,quest,translated,,PASS,10,,,,,Impulse Polymerization,Trùng Hợp Xung Động,
+lang_guide_new.db,GuideTutorial,Id,11,Content,quest,translated,,PASS,10,,,,,Pneuma Polymerization,Hợp Thể Pneuma,
+lang_guide_new.db,GuideTutorial,Id,12,Content,quest,translated,,PASS,10,,,,,Spectra polymerization,Tổng hợp Phổ,
+lang_guide_new.db,GuideTutorial,Id,13,Content,quest,translated,,PASS,10,,,,,Dissociation polymerization,Tổng Hợp Phân Ly,
+lang_guide_new.db,GuideTutorial,Id,14,Content,quest,translated,,PASS,10,,,,,Frozen Concerto,Khúc Giao Hưởng Đông Cứng,
+lang_guide_new.db,GuideTutorial,Id,15,Content,quest,translated,,PASS,10,,,,,Thermal-Conduct Concerto,Khúc hòa tấu Dẫn Nhiệt.,
+lang_guide_new.db,GuideTutorial,Id,16,Content,quest,translated,,PASS,10,,,,,Electro-Diffusion Concerto,Hòa Tấu Khuếch Tán Electro,
+lang_guide_new.db,GuideTutorial,Id,17,Content,quest,translated,,PASS,10,,,,,Dispersal Concerto,Khúc Phân Tán,
+lang_guide_new.db,GuideTutorial,Id,18,Content,quest,translated,,PASS,10,,,,,Frostbite Concerto,Khúc Giao Hưởng Băng Giá,
+lang_guide_new.db,GuideTutorial,Id,19,Content,quest,translated,,REVIEW,6,same_as_source,,,,Pyrolysis Concerto,Pyrolysis Concerto,
+lang_guide_new.db,GuideTutorial,Id,20,Content,quest,translated,,PASS,10,,,,,Electrolysis Concerto,Hòa Tấu Điện Phân,
+lang_guide_new.db,GuideTutorial,Id,21,Content,quest,translated,,PASS,10,,,,,Vaporize Concerto,Khúc Giao Hưởng Hóa Hơi,
+lang_guide_new.db,GuideTutorial,Id,22,Content,quest,translated,,PASS,10,,,,,Phase 2 Concerto,Giao Hưởng Pha 2,
+lang_guide_new.db,GuideTutorial,Id,23,Content,quest,translated,,PASS,10,,,,,Crownless,Vô Đỉnh,
+lang_guide_new.db,GuideTutorial,Id,24,Content,quest,translated,,PASS,10,,,,,Bell-Borne Geochelone,Rùa Địa Chấn Chuông,
+lang_guide_new.db,GuideTutorial,Id,25,Content,quest,translated,,PASS,10,,,,,Thunder Squama,Vảy Sấm Sét,
+lang_guide_new.db,GuideTutorial,Id,26,Content,quest,translated,,PASS,10,,,,,Inferno Rider,Kỵ Sĩ Hỏa Ngục,
+lang_guide_new.db,GuideTutorial,Id,27,Content,quest,translated,,PASS,10,,,,,Gleamtender,Ánh Sáng Dịu Dàng,
+lang_guide_new.db,GuideTutorial,Id,28,Content,quest,translated,,REVIEW,6,same_as_source,,,,Feilian Beringal,Feilian Beringal,
+lang_guide_new.db,GuideTutorial,Id,29,Content,quest,translated,,PASS,10,,,,,Impermanence Heron,Diệc Vô Thường,
+lang_guide_new.db,GuideTutorial,Id,30,Content,quest,translated,,PASS,10,,,,,Fusion Prism,Lăng Kính Fusion,
+lang_guide_new.db,GuideTutorial,Id,31,Content,quest,translated,,PASS,10,,,,,Glacio Prism,Lăng Kính Glacio,
+lang_guide_new.db,GuideTutorial,Id,32,Content,quest,translated,,PASS,10,,,,,Spectra Prism,Lăng Kính Phổ,
+lang_guide_new.db,GuideTutorial,Id,33,Content,quest,translated,,PASS,10,,,,,Rupture Prism,Lăng Kính Đột Phá,
+lang_guide_new.db,GuideTutorial,Id,34,Content,quest,translated,,PASS,10,,,,,Flute Instrumentalist,Nghệ Nhân Sáo,
+lang_guide_new.db,GuideTutorial,Id,35,Content,quest,translated,,PASS,10,,,,,Tambourine Instrumentalist,Nghệ Sĩ Trống Lắc,
+lang_guide_new.db,GuideTutorial,Id,36,Content,quest,translated,,PASS,10,,,,,Rocksteady Guardian,Người Bảo Vệ Vững Chắc,
+lang_guide_new.db,GuideTutorial,Id,37,Content,quest,translated,,PASS,10,,,,,Chasm Guardian,Người Bảo Vệ Vực Sâu,
+lang_guide_new.db,GuideTutorial,Id,38,Content,quest,translated,,PASS,10,,,,,Stonewall Bracer,Băng Tay Đá Tảng,
+lang_guide_new.db,GuideTutorial,Id,39,Content,quest,translated,,PASS,10,,,,,Fusion Warrior,Chiến Binh Fusion,
+lang_guide_new.db,GuideTutorial,Id,40,Content,quest,translated,,PASS,10,,,,,Roseshroom (Mature),Nấm Hồng (Trưởng Thành),
+lang_guide_new.db,GuideTutorial,Id,41,Content,quest,translated,,REVIEW,6,same_as_source,,,,Excarat,Excarat,
+lang_guide_new.db,GuideTutorial,Id,42,Content,quest,translated,,REVIEW,6,same_as_source,,,,Gulpuff,Gulpuff,
+lang_guide_new.db,GuideTutorial,Id,43,Content,quest,translated,,REVIEW,6,same_as_source,,,,Chirpuff,Chirpuff,
+lang_guide_new.db,GuideTutorial,Id,44,Content,quest,translated,,PASS,10,,,,,Cyan-Feathered Heron,Diệc Lông Xanh,
+lang_guide_new.db,GuideTutorial,Id,45,Content,quest,translated,,PASS,10,,,,,Violet-Feathered Heron,Diệc Lông Tím,
+lang_guide_new.db,GuideTutorial,Id,46,Content,quest,translated,,REVIEW,6,same_as_source,,,,Lil Geohide Saurian,Lil Geohide Saurian,
+lang_guide_new.db,GuideTutorial,Id,47,Content,quest,translated,,PASS,10,,,,,Sabyr Boar,Lợn Rừng Sabyr,
+lang_guide_new.db,GuideTutorial,Id,48,Content,quest,translated,,REVIEW,6,same_as_source,,,,Hoochief,Hoochief,
+lang_guide_new.db,GuideTutorial,Id,49,Content,quest,translated,,PASS,10,,,,,Spearback Ursa,Gấu Gai Lưng,
+lang_guide_new.db,GuideTutorial,Id,50,Content,quest,translated,,PASS,10,,,,,Frostbite Tertoise,Rùa Băng Giá,
+lang_guide_new.db,GuideTutorial,Id,51,Content,quest,translated,,PASS,10,,,,,Cyrscorpion,Bọ Cạp Cyr,
+lang_guide_new.db,GuideTutorial,Id,52,Content,quest,translated,,PASS,10,,,,,Shadow Dreadmane,Ác Mộng Bóng Tối,
+lang_guide_new.db,GuideTutorial,Id,53,Content,quest,translated,,PASS,10,,,,,Exile Leader,Thủ Lĩnh Lưu Đày,
+lang_guide_new.db,GuideTutorial,Id,54,Content,quest,translated,,PASS,10,,,,,Resonator Exile,Lưu Đày Resonator,
+lang_guide_new.db,GuideTutorial,Id,55,Content,quest,translated,,PASS,10,,,,,Fractsidus Executioner,Đao Phủ Fractsidus,
+lang_guide_new.db,GuideTutorial,Id,56,Content,quest,translated,,PASS,10,,,,,Thermo Dreadmane,Quái Thú Nhiệt Dreadmane,
+lang_guide_new.db,GuideTutorial,Id,57,Content,quest,translated,,PASS,10,,,,,Exile Commoner,Dân Lưu Đày Thường,
+lang_guide_new.db,GuideTutorial,Id,59,Content,quest,translated,,PASS,10,,,,,Snip Snap,Kẹp Kẹp,
+lang_guide_new.db,GuideTutorial,Id,60,Content,quest,translated,,PASS,10,,,,,Whiff Whoosh,Vút Vèo,
+lang_guide_new.db,GuideTutorial,Id,61,Content,quest,translated,,REVIEW,6,same_as_source,,,,Tic Tac,Tic Tac,
+lang_guide_new.db,GuideTutorial,Id,62,Content,quest,translated,,REVIEW,6,same_as_source,,,,Fission Junrock,Fission Junrock,
+lang_guide_new.db,GuideTutorial,Id,63,Content,quest,translated,,REVIEW,6,same_as_source,,,,Chaserazor,Chaserazor,
+lang_guide_new.db,GuideTutorial,Id,64,Content,quest,translated,,PASS,10,,,,,Mourning Aix,Aix Than Khóc,
+lang_guide_new.db,GuideTutorial,Id,65,Content,quest,translated,,PASS,10,,,,,Cruisewing,Cánh Tuần Thám,
+lang_guide_new.db,GuideTutorial,Id,66,Content,quest,translated,,PASS,10,,,,,Union Level,Cấp Độ Liên Minh,
+lang_guide_new.db,GuideTutorial,Id,67,Content,quest,translated,,PASS,10,,,,,Exploration Tools,Dụng Cụ Thám Hiểm,
+lang_guide_new.db,GuideTutorial,Id,68,Content,quest,translated,,PASS,10,,,,,Fast Travel,D?ch chuy?n nhanh,
+lang_guide_new.db,GuideTutorial,Id,69,Content,quest,translated,,PASS,10,,,,,Choral Calculus Center,Trung Tâm Giải Tích Hợp Ca,
+lang_guide_new.db,GuideTutorial,Id,70,Content,quest,translated,,PASS,10,,,,,Situation restoration,Khôi phục tình hình,
+lang_guide_new.db,GuideTutorial,Id,71,Content,quest,translated,,PASS,10,,,,,Attack vulnerability,Điểm yếu tấn công,
+lang_guide_new.db,GuideTutorial,Id,73,Content,quest,translated,,PASS,10,,,,,Tacet Field,Tổ Tacet,
+lang_guide_new.db,GuideTutorial,Id,75,Content,quest,translated,,PASS,10,,,,,Wutrelic Absorption,Hấp thụ Di Vật Tacet,
+lang_guide_new.db,GuideTutorial,Id,76,Content,quest,translated,,PASS,10,,,,,Resonance Skill and Resonance Discharge,Resonance Skill và Resonance Liberation,
+lang_guide_new.db,GuideTutorial,Id,77,Content,quest,translated,,PASS,10,,,,,Counter-Attack,Phản Công,
+lang_guide_new.db,GuideTutorial,Id,78,Content,quest,translated,,PASS,10,,,,,Grapple Point,Điểm Neo Bám,
+lang_guide_new.db,GuideTutorial,Id,79,Content,quest,translated,,PASS,10,,,,,Fragile block,Vật cản dễ vỡ,
+lang_guide_new.db,GuideTutorial,Id,80,Content,quest,translated,,REVIEW,6,same_as_source,,,,Tacetite Fulminate,Tacetite Fulminate,
+lang_guide_new.db,GuideTutorial,Id,81,Content,quest,translated,,REVIEW,6,same_as_source,,,,Mutterfly,Mutterfly,
+lang_guide_new.db,GuideTutorial,Id,82,Content,quest,translated,,PASS,10,,,,,General-purpose training facility,Cơ sở huấn luyện đa năng,
+lang_guide_new.db,GuideTutorial,Id,83,Content,quest,translated,,PASS,10,,,,,Training target,Mục tiêu Huấn luyện,
+lang_guide_new.db,GuideTutorial,Id,84,Content,quest,translated,,PASS,10,,,,,Gravity Stream,Dòng Trọng Lực,
+lang_guide_new.db,GuideTutorial,Id,85,Content,quest,translated,,PASS,10,,,,,Blobfly,Ruồi Bóng,
+lang_guide_new.db,GuideTutorial,Id,86,Content,quest,translated,,PASS,10,,,,,Induced Energy Storage Module,Mô-đun Lưu Trữ Năng Lượng Cảm Ứng,
+lang_guide_new.db,GuideTutorial,Id,87,Content,quest,translated,,PASS,10,,,,,Hologram Projector,Máy Chiếu Hologram,
+lang_guide_new.db,GuideTutorial,Id,88,Content,quest,translated,,PASS,10,,,,,Parasitic vines and Wutherized neurotransmitter,Dây leo ký sinh và chất dẫn truyền thần kinh Wutherized,
+lang_guide_new.db,GuideTutorial,Id,89,Content,quest,translated,,PASS,10,,,,,Flowing Tacetite,Tacetite Lưu Chuyển,
+lang_guide_new.db,GuideTutorial,Id,90,Content,quest,translated,,PASS,10,,,,,Audio Casket,Rương Âm Thanh,
+lang_guide_new.db,GuideTutorial,Id,91,Content,quest,translated,,PASS,10,,,,,Wutherium-related Lightning & molten Tacetite,Sấm sét liên quan Wutherium & Tacetite nóng chảy,
+lang_guide_new.db,GuideTutorial,Id,92,Content,quest,translated,,PASS,10,,,,,Acoustic Meter,Đồng hồ Âm thanh,
+lang_guide_new.db,GuideTutorial,Id,93,Content,quest,translated,,PASS,10,,,,,Thorn Trap,Bẫy Gai,
+lang_guide_new.db,GuideTutorial,Id,94,Content,quest,translated,,PASS,10,,,,,Pressure-sensitive machines,Máy cảm biến áp suất,
+lang_guide_new.db,GuideTutorial,Id,95,Content,quest,translated,,PASS,10,,,,,Sea of Incinero Petals,Biển Cánh Hoa Incinero,
+lang_guide_new.db,GuideTutorial,Id,104,Content,quest,translated,,PASS,10,,,,,Concerto Effect: Interference,Hiệu Ứng Concerto: Giao Thoa,
+lang_guide_new.db,GuideTutorial,Id,105,Content,quest,translated,,PASS,10,,,,,Concerto Effect: Polymerization,Hiệu Ứng Concerto: Trùng Hợp,
+lang_guide_new.db,GuideTutorial,Id,106,Content,quest,translated,,PASS,10,,,,,Concerto Effect: Decomposition,Hiệu Ứng Concerto: Phân Giải,
+lang_guide_new.db,GuideTutorial,Id,107,Content,quest,translated,,PASS,10,,,,,Concerto Effect: Stimulation,Hiệu ứng Concerto: Kích thích,
+lang_guide_new.db,GuideTutorial,Id,109,Content,quest,translated,,PASS,10,,,,,Exploration tool: Scan,Dụng cụ thám hiểm: Quét,
+lang_guide_new.db,GuideTutorial,Id,110,Content,quest,translated,,PASS,10,,,,,Exploration tool: Grappling Hook,Dụng cụ thám hiểm: Móc câu,
+lang_guide_new.db,GuideTutorial,Id,111,Content,quest,translated,,PASS,10,,,,,Exploration tool: Levitation,Dụng cụ thám hiểm: Bay lơ lửng,
+lang_guide_new.db,GuideTutorial,Id,112,Content,quest,translated,,PASS,10,,,,,Concerto Effect,Hiệu ứng Concerto,
+lang_guide_new.db,GuideTutorial,Id,113,Content,quest,translated,,PASS,10,,,,,Concerto Effect,Hiệu ứng Concerto,
+lang_guide_new.db,GuideTutorial,Id,114,Content,quest,translated,,PASS,10,,,,,Concerto Effect,Hiệu ứng Concerto,
+lang_guide_new.db,GuideTutorial,Id,115,Content,quest,translated,,PASS,10,,,,,Concerto Effect,Hiệu ứng Concerto,
+lang_guide_new.db,GuideTutorial,Id,116,Content,quest,translated,,PASS,10,,,,,Concerto Effect,Hiệu ứng Concerto,
+lang_guide_new.db,GuideTutorial,Id,117,Content,quest,translated,,PASS,10,,,,,Concerto Effect,Hiệu ứng Concerto,
+lang_guide_new.db,GuideTutorial,Id,118,Content,quest,translated,,PASS,10,,,,,Attack vulnerability,Điểm yếu tấn công,
+lang_guide_new.db,GuideTutorial,Id,121,Content,quest,translated,,PASS,10,,,,,Union Level,Cấp Độ Liên Minh,
+lang_guide_new.db,GuideTutorial,Id,122,Content,quest,translated,,PASS,10,,,,,Exploration tool: Scan,Dụng cụ thám hiểm: Quét,
+lang_guide_new.db,GuideTutorial,Id,123,Content,quest,translated,,PASS,10,,,,,Exploration tool: Scan,Dụng cụ thám hiểm: Quét,
+lang_guide_new.db,GuideTutorialPage,Id,1,Content,quest,translated,,PASS,10,,,,,"All <color=#8c7e51>Combat Actions</color> can accumulate Concerto Vibrancy, when you switch characters if the energy is full, the existing Concerto Vibrancy will be consumed and the corresponding Concerto Effect will be triggered automatically according to the <color=#8c7e51>Element type of the switched character</color>.","Tất cả <color=#8c7e51>Hành động Chiến đấu</color> đều tích lũy Độ rung Concerto. Khi chuyển đổi nhân vật, nếu năng lượng đã đầy, Độ rung Concerto hiện có sẽ được tiêu thụ và hiệu ứng Concerto tương ứng sẽ tự động kích hoạt theo <color=#8c7e51>thuộc tính Nguyên tố của nhân vật được chuyển đổi</color>.",
+lang_guide_new.db,GuideTutorialPage,Id,2,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters with Glacio and Fusion elements is called <color=#8c7e51>Glacio-Fusion Interference</color>.
+Glacio-Fusion Interference can attach Glacio and Fusion status to enemies in a wide area. For a certain period of time, enemies with this status will trigger additional effects when they receive different types of elemental damage (Glacio, Fusion, Electro, and Aero damage).","Hiệu ứng Concerto được kích hoạt bởi các Cộng Hưởng Giả mang nguyên tố Glacio và Fusion gọi là <color=#8c7e51>Giao Thoa Glacio-Fusion</color>.
+Giao Thoa Glacio-Fusion có thể gắn trạng thái Glacio và Fusion lên kẻ địch trong phạm vi rộng. Trong một khoảng thời gian nhất định, kẻ địch mang trạng thái này sẽ kích hoạt hiệu ứng bổ sung khi nhận các loại sát thương nguyên tố khác nhau (sát thương Glacio, Fusion, Electro và Aero).",
+lang_guide_new.db,GuideTutorialPage,Id,3,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters with Glacio and Electro elements is called <color=#8c7e51>Glacio-Electro Interference</color>.
+Glacio-Electro Interference can attach Glacio and Electro status to enemies in a wide area. For a certain period of time, enemies with this status will trigger additional effects when they receive different types of elemental damage (Glacio, Fusion, Electro, and Aero damage).","Hiệu ứng Concerto được kích hoạt bởi các Cộng Hưởng Giả mang nguyên tố Glacio và Electro gọi là <color=#8c7e51>Giao Thoa Glacio-Electro</color>.
+Giao Thoa Glacio-Electro có thể gắn trạng thái Glacio và Electro lên kẻ địch trong phạm vi rộng. Trong một khoảng thời gian nhất định, kẻ địch mang trạng thái này sẽ kích hoạt hiệu ứng bổ sung khi nhận các loại sát thương nguyên tố khác nhau (sát thương Glacio, Fusion, Electro và Aero).",
+lang_guide_new.db,GuideTutorialPage,Id,4,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters with Glacio and Aero elements is called <color=#8c7e51>Glacio-Aero Interference</color>.
+Glacio-Aero Interference can attach Glacio and Aero status to enemies in a wide area. For a certain period of time, enemies with this status will trigger additional effects when they receive different types of elemental damage (Glacio, Fusion, Electro, and Aero damage).","Hiệu ứng Concerto được kích hoạt bởi các Cộng Hưởng Giả mang nguyên tố Glacio và Aero gọi là <color=#8c7e51>Giao Thoa Glacio-Aero</color>.
+Giao Thoa Glacio-Aero có thể gắn trạng thái Glacio và Aero lên kẻ địch trong phạm vi rộng. Trong một khoảng thời gian nhất định, kẻ địch mang trạng thái này sẽ kích hoạt hiệu ứng bổ sung khi nhận các loại sát thương nguyên tố khác nhau (sát thương Glacio, Fusion, Electro và Aero).",
+lang_guide_new.db,GuideTutorialPage,Id,5,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters with Fusion and Electro elements is called <color=#8c7e51>Fusion-Electro Interference</color>.
+Fusion-Electro Interference can attach Fusion and Electro status to enemies in a wide area. For a certain period of time, enemies with this status will trigger additional effects when they receive different types of elemental damage (Glacio, Fusion, Electro, and Aero damage).","Hiệu ứng Concerto được kích hoạt bởi các Cộng Hưởng Giả mang nguyên tố Fusion và Electro gọi là <color=#8c7e51>Giao Thoa Fusion-Electro</color>.
+Giao Thoa Fusion-Electro có thể gắn trạng thái Fusion và Electro lên kẻ địch trong phạm vi rộng. Trong một khoảng thời gian nhất định, kẻ địch mang trạng thái này sẽ kích hoạt hiệu ứng bổ sung khi nhận các loại sát thương nguyên tố khác nhau (sát thương Glacio, Fusion, Electro và Aero).",
+lang_guide_new.db,GuideTutorialPage,Id,6,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters with Fusion and Aero elements is called <color=#8c7e51>Fusion-Aero Interference</color>.
+Fusion-Aero Interference can attach Fusion and Aero status to enemies in a wide area. For a certain period of time, enemies with this status will trigger additional effects when they receive different types of elemental damage (Glacio, Fusion, Electro, and Aero damage).","Hiệu ứng Concerto kích hoạt bởi Cộng Hưởng Giả mang nguyên tố Fusion và Aero được gọi là <color=#8c7e51>Fusion-Aero Interference</color>.
+Fusion-Aero Interference có thể gắn trạng thái Fusion và Aero lên kẻ địch trong phạm vi rộng. Trong một khoảng thời gian nhất định, kẻ địch mang trạng thái này sẽ kích hoạt hiệu ứng bổ sung khi chịu các loại sát thương nguyên tố khác nhau (Glacio, Fusion, Electro và Aero).",
+lang_guide_new.db,GuideTutorialPage,Id,7,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters with Electro and Aero elements is called <color=#8c7e51>Electro-Aero Interference</color>.
+Electro-Aero Interference can attach Electro and Aero status to enemies in a wide area. For a certain period of time, enemies with this status will trigger additional effects when they receive different types of elemental damage (Glacio, Fusion, Electro, and Aero damage).","Hiệu ứng Concerto kích hoạt bởi Cộng Hưởng Giả mang nguyên tố Electro và Aero được gọi là <color=#8c7e51>Electro-Aero Interference</color>.
+Electro-Aero Interference có thể gắn trạng thái Electro và Aero lên kẻ địch trong phạm vi rộng. Trong một khoảng thời gian nhất định, kẻ địch mang trạng thái này sẽ kích hoạt hiệu ứng bổ sung khi chịu các loại sát thương nguyên tố khác nhau (Glacio, Fusion, Electro và Aero).",
+lang_guide_new.db,GuideTutorialPage,Id,8,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters both bearing the Glacio element is called <color=#8c7e51>Glacio Polymerization</color>.
+Characters who participate in the Glacio Polymerization reaction receive a boost in damage for the Glacio element and gain a certain amount of Resonance Energy.","Hiệu ứng Concerto kích hoạt bởi hai Resonator mang nguyên tố Glacio được gọi là <color=#8c7e51>Glacio Polymerization</color>.
+Các Resonator tham gia phản ứng Glacio Polymerization sẽ nhận được tăng DMG nguyên tố Glacio và một lượng Resonance Energy nhất định.",
+lang_guide_new.db,GuideTutorialPage,Id,9,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters both bearing the Fusion element is called <color=#8c7e51>Fusion Polymerization</color>.
+Characters who participate in the Fusion Polymerization reaction receive a boost in damage for the Fusion element and gain a certain amount of Resonance Energy.","Hiệu ứng Concerto kích hoạt bởi hai Resonator mang nguyên tố Fusion được gọi là <color=#8c7e51>Fusion Polymerization</color>.
+Các Resonator tham gia phản ứng Fusion Polymerization sẽ nhận được tăng DMG nguyên tố Fusion và một lượng Resonance Energy nhất định.",
+lang_guide_new.db,GuideTutorialPage,Id,10,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters both bearing Electro element is called <color=#8c7e51>Electro Polymerization</color>.
+Characters who participate in the Electro Polymerization reaction receive a boost in damage for the Electro element and gain a certain amount of Resonance Energy.","Hiệu ứng Concerto kích hoạt bởi các nhân vật mang nguyên tố Electro được gọi là <color=#8c7e51>Electro Polymerization</color>.
+Các Resonator tham gia phản ứng Electro Polymerization sẽ được tăng DMG nguyên tố Electro và nhận một lượng Resonance Energy nhất định.",
+lang_guide_new.db,GuideTutorialPage,Id,11,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters both bearing Aero element is called <color=#8c7e51>Aero Polymerization</color>.
+Characters who participate in the Aero Polymerization reaction receive a boost in damage for the Aero element and gain a certain amount of Resonance Energy.","Hiệu ứng Concerto kích hoạt bởi các nhân vật mang nguyên tố Aero được gọi là <color=#8c7e51>Aero Polymerization</color>.
+Các Resonator tham gia phản ứng Aero Polymerization sẽ được tăng DMG nguyên tố Aero và nhận một lượng Resonance Energy nhất định.",
+lang_guide_new.db,GuideTutorialPage,Id,12,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters both bearing the Spectra element is called <color=#8c7e51>Spectra Polymerization</color>.
+Characters who participate in the Spectra Polymerization reaction receive a boost in damage for the Spectra element and gain a certain amount of Resonance Energy.","Hiệu ứng Concerto kích hoạt bởi hai Resonator mang nguyên tố Spectro được gọi là <color=#8c7e51>Spectra Polymerization</color>.
+Các Resonator tham gia phản ứng Spectra Polymerization sẽ nhận được tăng DMG nguyên tố Spectro và một lượng Resonance Energy nhất định.",
+lang_guide_new.db,GuideTutorialPage,Id,13,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters both bearing the Havoc element is called <color=#8c7e51>Havoc Polymerization</color>.
+Characters who participate in the Havoc Polymerization reaction receive a boost in damage for the Havoc element and gain a certain amount of Resonance Energy.","Hiệu ứng Concerto kích hoạt bởi hai Resonator mang nguyên tố Havoc được gọi là <color=#8c7e51>Havoc Polymerization</color>.
+Các Resonator tham gia phản ứng Havoc Polymerization sẽ nhận được tăng DMG nguyên tố Havoc và một lượng Resonance Energy nhất định.",
+lang_guide_new.db,GuideTutorialPage,Id,14,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters with Glacio and Spectra elements is called <color=#8c7e51>Glacio Stimulation</color>.
+Glacio Stimulation can cause an area of time stopping effect for a short period of time, before amplifying the Glacio effect applied onto enemies into Overcooled within a certain range.","Hiệu ứng Concerto được kích hoạt bởi các Cộng Hưởng Giả mang nguyên tố Glacio và Spectro gọi là <color=#8c7e51>Kích Thích Glacio</color>.
+Kích Thích Glacio có thể tạo ra hiệu ứng dừng thời gian trong một khu vực ngắn, sau đó khuếch đại hiệu ứng Glacio trên kẻ địch thành trạng thái Quá Lạnh trong phạm vi nhất định.",
+lang_guide_new.db,GuideTutorialPage,Id,15,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters with Fusion and Spectra elements is called <color=#8c7e51>Fusion Stimulation</color>.
+Fusion Stimulation can cause an area of time stopping effect for a short period of time, before amplifying the Fusion effect applied onto enemies into Overheated within a certain range.","Hiệu ứng Concerto được kích hoạt bởi các Cộng Hưởng Giả mang nguyên tố Fusion và Spectro gọi là <color=#8c7e51>Kích Thích Fusion</color>.
+Kích Thích Fusion có thể tạo ra hiệu ứng dừng thời gian trong một khu vực ngắn, sau đó khuếch đại hiệu ứng Fusion trên kẻ địch thành trạng thái Quá Nhiệt trong phạm vi nhất định.",
+lang_guide_new.db,GuideTutorialPage,Id,16,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters with Electro and Spectra elements is called <color=#8c7e51>Electro Stimulation</color>.
+Electro Stimulation can cause an area of time stopping effect for a short period of time, before amplifying the Electro effect applied onto enemies into Hyper-Electrified within a certain range.","Hiệu ứng Concerto kích hoạt bởi Cộng Hưởng Giả mang nguyên tố Electro và Spectro được gọi là <color=#8c7e51>Electro Stimulation</color>.
+Electro Stimulation có thể tạo ra hiệu ứng dừng thời gian trong khu vực ngắn hạn, sau đó khuếch đại hiệu ứng Electro tác động lên kẻ địch thành Hyper-Electrified trong phạm vi nhất định.",
+lang_guide_new.db,GuideTutorialPage,Id,17,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters with Aero and Spectra elements is called <color=#8c7e51>Aero Stimulation</color>.
+Aero Stimulation can cause an area of time stopping effect for a short period of time, before amplifying the Aero effect applied onto enemies into 
+Hyper-Pneumatic within a certain range.","Hiệu ứng Concerto kích hoạt bởi Cộng Hưởng Giả mang nguyên tố Aero và Spectro được gọi là <color=#8c7e51>Aero Stimulation</color>.
+Aero Stimulation có thể tạo ra hiệu ứng dừng thời gian trong khu vực ngắn hạn, sau đó khuếch đại hiệu ứng Aero tác động lên kẻ địch thành Hyper-Pneumatic trong phạm vi nhất định.",
+lang_guide_new.db,GuideTutorialPage,Id,18,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters with Glacio and Havoc elements is called <color=#8c7e51>Glacio Decomposition</color>.
+Glacio Decomposition reduces the Glacio Damage Resistance of enemies within a certain range.","Hiệu ứng Concerto được kích hoạt bởi các Cộng Hưởng Giả mang nguyên tố Glacio và Havoc gọi là <color=#8c7e51>Phân Rã Glacio</color>.
+Phân Rã Glacio làm giảm Kháng sát thương Glacio của kẻ địch trong một phạm vi nhất định.",
+lang_guide_new.db,GuideTutorialPage,Id,19,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters with Fusion and Havoc elements is called <color=#8c7e51>Fusion Decomposition</color>.
+Fusion Decomposition reduces the Fusion Damage Resistance of enemies within a certain range.","Hiệu ứng Concerto được kích hoạt bởi các Cộng Hưởng Giả mang nguyên tố Fusion và Havoc gọi là <color=#8c7e51>Phân Rã Fusion</color>.
+Phân Rã Fusion làm giảm Kháng sát thương Fusion của kẻ địch trong một phạm vi nhất định.",
+lang_guide_new.db,GuideTutorialPage,Id,20,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters with Electro and Havoc elements is called <color=#8c7e51>Electro Decomposition</color>.
+Electro Decomposition reduces the Electro Damage Resistance of enemies within a certain range.","Hiệu ứng Concerto kích hoạt bởi Cộng Hưởng Giả mang nguyên tố Electro và Havoc được gọi là <color=#8c7e51>Electro Decomposition</color>.
+Electro Decomposition làm giảm Kháng sát thương Electro của kẻ địch trong phạm vi nhất định.",
+lang_guide_new.db,GuideTutorialPage,Id,21,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters with Aero and Havoc elements is called <color=#8c7e51>Pneuma Decomposition</color>.
+Pneuma Decomposition reduces the Aero Damage Resistance of enemies within a certain range.","Hiệu ứng Concerto kích hoạt bởi Cộng Hưởng Giả mang nguyên tố Aero và Havoc được gọi là <color=#8c7e51>Pneuma Decomposition</color>.
+Pneuma Decomposition làm giảm Kháng sát thương Aero của kẻ địch trong phạm vi nhất định.",
+lang_guide_new.db,GuideTutorialPage,Id,23,Content,quest,translated,,PASS,10,,,,,"Such Tacet Discord does not immediately engage its opponent at the beginning of the battle, prefers to test the their strengths and weaknesses. By taking hits, the TD will gradually figure out the opponent's attack pattern and begin to evade. Once it has fully engaged, most of its attacks can be parried with Counter-Attacks.","Loại Tacet Discord này không tấn công đối thủ ngay khi trận đấu bắt đầu, mà thích thử nghiệm sức mạnh và điểm yếu của đối phương. Khi chịu đòn, TD sẽ dần nắm bắt được kiểu tấn công của đối thủ và bắt đầu né tránh. Khi đã hoàn toàn tham chiến, hầu hết các đòn tấn công của nó đều có thể đỡ bằng Phản Công.",
+lang_guide_new.db,GuideTutorialPage,Id,24,Content,quest,translated,,PASS,10,,,,,"The shell of this Mutant Organism seems indestructible, only the ancient bell on its back has a few cracks present, perhaps the key in defeating it lies beneath its bell?","Lớp vỏ của Sinh Vật Đột Biến này dường như bất khả xâm phạm, chỉ có chiếc chuông cổ trên lưng là xuất hiện vài vết nứt. Có lẽ chìa khóa để đánh bại nó nằm ở bên dưới chiếc chuông đó?",
+lang_guide_new.db,GuideTutorialPage,Id,25,Content,quest,translated,,PASS,10,,,,,"This Tacet Discord will usually test its enemy through constant flash attacks at the beginning of the battle, these attacks can repelled with <color=#8c7e51>Counter-Attack</color>, a successful Counter will immobilize the Td. Once it stops its probing its foe, it will engage in close range attacks, make use of <color=#8c7e51>Counter-Attacks</color> to repel its attacks.","Tacet Discord này thường thử thách đối thủ bằng những đòn tấn công chớp nhoáng ngay từ đầu trận. Những đòn này có thể bị đẩy lùi bằng <color=#8c7e51>Phản Đòn</color>, và một Phản Đòn thành công sẽ khiến nó bị choáng. Khi ngừng thăm dò đối thủ, nó sẽ chuyển sang tấn công cận chiến, hãy tận dụng <color=#8c7e51>Phản Đòn</color> để đẩy lùi các đòn tấn công của nó.",
+lang_guide_new.db,GuideTutorialPage,Id,26,Content,quest,translated,,PASS,10,,,,,"This TD would put its mount's flexibility into good use for charging and rapid slashing, be careful with its blade attack. If it abandoned its ride and get close to you, you can use <color=#8c7e51>Counter Attack</color> to fend its attack.","Tacet Discord này tận dụng tối đa sự linh hoạt của phương tiện cưỡi để lao tới và chém nhanh, hãy cẩn thận với đòn tấn công bằng lưỡi kiếm của nó. Nếu nó bỏ phương tiện và tiến lại gần, bạn có thể dùng <color=#8c7e51>Phản Đòn</color> để đẩy lùi đòn tấn công của nó.",
+lang_guide_new.db,GuideTutorialPage,Id,27,Content,quest,translated,,PASS,10,,,,,This TD will aggressively search for target and launch range attack while flying. It will cause area damage upon <color=#8c7e51>Landing</color> and can only be avoided by <color=#8c7e51>moving to high ground</color>. The <color=#8c7e51>Core on its tail</color> is its weakness. Attacking the core will drag it down to earth.,Tacet Discord này sẽ chủ động tìm kiếm mục tiêu và tấn công từ xa khi bay. Nó gây sát thương khu vực khi <color=#8c7e51>hạ cánh</color> và chỉ có thể tránh bằng cách <color=#8c7e51>di chuyển lên địa hình cao</color>. <color=#8c7e51>Lõi trên đuôi</color> là điểm yếu của nó. Tấn công vào lõi sẽ kéo nó xuống đất.,
+lang_guide_new.db,GuideTutorialPage,Id,28,Content,quest,translated,,PASS,10,,,,,This MO uses the pillar trapping it as weapon. So the pillar is the threat yet also the weak point. Attacking the pillar may have unexpected result.,"Sinh Vật Đột Biến này sử dụng cột giam giữ nó làm vũ khí. Vì vậy, cột chính là mối đe dọa nhưng cũng là điểm yếu. Tấn công vào cột có thể mang lại kết quả bất ngờ.",
+lang_guide_new.db,GuideTutorialPage,Id,29,Content,quest,translated,,PASS,10,,,,,The powerful Mutant Organism that inhabit theDesorock Highlands. Often found on the tops of towering mountains and have a strong sense of owning a territory.,Sinh Vật Đột Biến hùng mạnh sinh sống tại Cao Nguyên Desorock. Chúng thường xuất hiện trên đỉnh những ngọn núi cao chót vót và có ý thức lãnh thổ rất mạnh.,
+lang_guide_new.db,GuideTutorialPage,Id,34,Content,quest,translated,,PASS,10,,,,,"Though Flute Instrumentalist may the first to flash in front of you, they will not attack you directly. They always play a tune to turn their allies into rage state. If they're under attack, they will teleport immediately to escape.","Dù Nhạc Công Sáo có thể xuất hiện trước tiên, nhưng chúng sẽ không tấn công trực tiếp. Chúng luôn chơi một bản nhạc để kích động đồng minh vào trạng thái cuồng nộ. Nếu bị tấn công, chúng sẽ lập tức dịch chuyển để thoát thân.",
+lang_guide_new.db,GuideTutorialPage,Id,35,Content,quest,translated,,PASS,10,,,,,Tambourine Instrumentalists can play a tune to create energy ball of Rapture energy to hinder your actions.,Những Nhạc Công Tambourine có thể chơi giai điệu tạo ra quả cầu năng lượng Rapture để cản trở hành động của bạn.,
+lang_guide_new.db,GuideTutorialPage,Id,36,Content,quest,translated,,PASS,10,,,,,"The Tacetrite core on the chest of the Rocksteady Guardian is its weak point, use <color=#8c7e51>Aiming Mode</color> to deal high amounts of damage.","Lõi Tacetrite trên ngực của Rocksteady Guardian là điểm yếu của nó, hãy sử dụng <color=#8c7e51>Chế Độ Ngắm</color> để gây sát thương cao.",
+lang_guide_new.db,GuideTutorialPage,Id,37,Content,quest,translated,,PASS,10,,,,,"The Tacetrite core on the chest of the Chasm Guardian is its weak point, use <color=#8c7e51>Aiming Mode</color> to deal high amounts of damage.","Lõi Tacetrite trên ngực của Chasm Guardian là điểm yếu của nó, hãy sử dụng <color=#8c7e51>Chế Độ Ngắm</color> để gây sát thương cao.",
+lang_guide_new.db,GuideTutorialPage,Id,39,Content,quest,translated,,PASS,10,,,,,"Fusion Warriors can defend and bounce off close range attacks received from the direction they're facing, and will immediately thrust at the enemy if done successfully, however the thrust attack can be parried.","Chiến binh Hợp Thể có thể phòng thủ và phản đòn các đòn tấn công cận chiến từ phía trước, đồng thời sẽ lập tức đâm về phía kẻ địch nếu thành công, nhưng đòn đâm này có thể bị đỡ gạt.",
+lang_guide_new.db,GuideTutorialPage,Id,41,Content,quest,translated,,PASS,10,,,,,"When an Excaratte burrows into the ground, use drop attacks to knock it out of the ground.","Khi Excaratte đào xuống đất, hãy dùng đòn tấn công từ trên cao để đánh bật nó lên.",
+lang_guide_new.db,GuideTutorialPage,Id,44,Content,quest,translated,,PASS,10,,,,,"Herons regain all of its health after devouring Cluster Prisms of various elements, before entering an empowered state of its corresponding element, dealing more powerful attacks.","Herons hồi phục toàn bộ HP sau khi nuốt chửng Cluster Prisms thuộc các nguyên tố khác nhau, rồi bước vào trạng thái được tăng cường tương ứng, tung ra những đòn tấn công mạnh mẽ hơn.",
+lang_guide_new.db,GuideTutorialPage,Id,45,Content,quest,translated,,PASS,10,,,,,"Herons regain all of its health after devouring Cluster Prisms of various elements, before entering an empowered state of its corresponding element, dealing more powerful attacks.","Herons hồi phục toàn bộ HP sau khi nuốt chửng Cluster Prisms thuộc các nguyên tố khác nhau, rồi bước vào trạng thái được tăng cường tương ứng, tung ra những đòn tấn công mạnh mẽ hơn.",
+lang_guide_new.db,GuideTutorialPage,Id,46,Content,quest,translated,,PASS,10,,,,,"Using a pistol to strike the Tacetrite core on the Geohide Saurian's back will cause it to receive a great shock, putting it in a paralyzed state.","Dùng súng ngắn bắn vào lõi Tacetrite trên lưng Geohide Saurian sẽ khiến nó bị choáng nặng, rơi vào trạng thái tê liệt.",
+lang_guide_new.db,GuideTutorialPage,Id,47,Content,quest,translated,,PASS,10,,,,,"Sabyr Boar's main method of attack is to charge and ram their targets, it will fall to its sides and left stunned once hitting an object on the way. If it fails to hit anything, it will flexibly turn arounf and continue to charge again until it is taken down. By making us of this characteristic, you should be able to defeat it more easily, right?","Lợn rừng Sabyr tấn công chủ yếu bằng cách lao và húc mục tiêu. Khi va vào vật cản, nó sẽ ngã nghiêng và choáng. Nếu không trúng gì, nó sẽ nhanh chóng quay lại và tiếp tục lao tới cho đến khi bị hạ gục. Nắm bắt đặc điểm này sẽ giúp bạn đánh bại nó dễ dàng hơn, phải không?",
+lang_guide_new.db,GuideTutorialPage,Id,48,Content,quest,translated,,PASS,10,,,,,"Hoochiefs are usually found in groups, their minors will join along in fights, but they tend to flee and play dead after taking some damage. At this point, if there are adults nearby, you can quickly stop them from fleeing and inspire them to rejoin the fight.","Hoochief thường đi theo bầy, những con nhỏ sẽ tham gia chiến đấu cùng, nhưng chúng có xu hướng bỏ chạy và giả chết sau khi chịu một ít sát thương. Lúc này, nếu có con trưởng thành ở gần, bạn có thể nhanh chóng ngăn chúng bỏ chạy và khích lệ chúng quay lại chiến đấu.",
+lang_guide_new.db,GuideTutorialPage,Id,49,Content,quest,translated,,PASS,10,,,,,Spearback Ursa's front paws are covered with Tacetite with extremely strong physical durability.,Hai chân trước của Spearback Ursa được bao phủ bởi Tacetite có độ bền vật lý cực cao.,
+lang_guide_new.db,GuideTutorialPage,Id,51,Content,quest,translated,,PASS,10,,,,,"Cyrscorpion will use its pincers to shield itself when dealt with a frontal attack, which is an opportunity to use pistols to strike the Tacetrite core on its back, defeating it more quickly.","Cyrscorpion sẽ dùng càng để che chắn khi bị tấn công trực diện, đây là cơ hội để dùng súng ngắn bắn vào lõi Tacetrite trên lưng nó, hạ gục nhanh hơn.",
+lang_guide_new.db,GuideTutorialPage,Id,52,Content,quest,translated,,PASS,10,,,,,"Havoc Dreadmanes can cleverly dodge enemy attacks even before they make a move, but it doesn't work every time. When endured with enough damage, the Dreadmane enters a enraged state and can encourage its nearby companions with its howl, at the same time, its own attacks will generate additional Havoc infused crystals for long-range attacks.","Havoc Dreadmanes có thể né tránh đòn tấn công của kẻ địch ngay cả trước khi chúng ra tay, nhưng khả năng này không phải lúc nào cũng hiệu quả. Khi chịu đủ sát thương, Dreadmane sẽ bước vào trạng thái giận dữ, gầm rú khích lệ đồng đội xung quanh, đồng thời tạo ra thêm các tinh thể Havoc để tấn công tầm xa.",
+lang_guide_new.db,GuideTutorialPage,Id,53,Content,quest,translated,,PASS,10,,,,,"After taking a certain amount of damage, the Exile Leader will have a significantly increased desire to attack due to suffered pain and anger.","Sau khi chịu một lượng sát thương nhất định, Thủ lĩnh Lưu đày sẽ trở nên hung hãn hơn do đau đớn và cơn thịnh nộ.",
+lang_guide_new.db,GuideTutorialPage,Id,54,Content,quest,translated,,PASS,10,,,,,Exile Craftsmans can protect their fellow members with shields and strengthens it further when taking a certain amount of damage.,Thợ thủ công Exile sẽ bảo vệ đồng đội bằng khiên và tăng cường sức mạnh khiên khi chịu một lượng sát thương nhất định.,
+lang_guide_new.db,GuideTutorialPage,Id,55,Content,quest,translated,,PASS,10,,,,,"Executioners who have suffered some injuries are keenly aware of the dangers on the battlefield and unleashes their true potential - Fades away into the darkness, slowly approaching their prey, and strike.","Những Executioner bị thương sẽ nhận thức rõ mối nguy hiểm trên chiến trường và bộc lộ tiềm năng thực sự - hòa vào bóng tối, tiếp cận con mồi từ từ rồi ra đòn.",
+lang_guide_new.db,GuideTutorialPage,Id,56,Content,quest,translated,,PASS,10,,,,,"Fusion Dreadmanes can cleverly dodge enemy attacks even before they make a move, but it doesn't work every time.","Dreadmane Hợp Thể có thể né tránh đòn tấn công của kẻ địch ngay cả trước khi chúng ra tay, nhưng khả năng này không phải lúc nào cũng hiệu quả.",
+lang_guide_new.db,GuideTutorialPage,Id,57,Content,quest,translated,,PASS,10,,,,,"Exile Commoners will pick up any weapon at their disposal to engage enemies, but upon taking damage, their weapons will be knocked out of their hands, you can grab these weapons to fight back, but they're quite old, and likely to break mid-fight.","Dân thường Exile sẽ nhặt bất kỳ vũ khí nào trong tầm tay để chống trả kẻ thù, nhưng khi bị thương, vũ khí sẽ rơi khỏi tay họ. Bạn có thể nhặt những vũ khí này để phản công, nhưng chúng khá cũ và dễ gãy giữa trận.",
+lang_guide_new.db,GuideTutorialPage,Id,66,Content,quest,translated,,PASS,10,,,,,"Rover can absorb and feel all sounds, being closely connected to the world. All of Rover's actions of explorations within the world can raise the Union Level.","Rover có thể hấp thụ và cảm nhận mọi âm thanh, gắn bó mật thiết với thế giới. Mọi hành động khám phá của Rover trong thế giới đều có thể nâng cao Cấp Liên Minh.",
+lang_guide_new.db,GuideTutorialPage,Id,67,Content,quest,translated,,PASS,10,,,,,"The Resonance Terminal can be installed with various Exploration Utilities, which not only makes traveling easier, but also making good use of them may lead to more discoveries.","Thiết bị đầu cuối Resonance có thể được lắp đặt nhiều Tiện Ích Thám Hiểm khác nhau, không chỉ giúp di chuyển dễ dàng hơn mà còn có thể khám phá thêm nhiều điều mới mẻ nếu biết tận dụng chúng.",
+lang_guide_new.db,GuideTutorialPage,Id,68,Content,quest,translated,,PASS,10,,,,,"Scanning can reveal valuable content within a certain range of area, such as collectible items. It can also scan monsters and reveal their weak spots. When you encounter a black fog of unknown origin, using this utility may also be effective.","Quét có thể phát hiện nội dung giá trị trong phạm vi nhất định, như vật phẩm thu thập. Nó cũng có thể quét quái vật và tiết lộ điểm yếu của chúng. Khi gặp sương mù đen bí ẩn, sử dụng tính năng này có thể hiệu quả.",
+lang_guide_new.db,GuideTutorialPage,Id,69,Content,quest,translated,,PASS,10,,,,,"An ability useful for crossing over terrains. Can be used directly in leaping upwards, or you can look for Grapple Points in the map for even further travels.",Kỹ năng hữu ích để vượt địa hình. Có thể dùng để nhảy lên cao hoặc tìm Điểm Móc treo trên bản đồ để di chuyển xa hơn.,
+lang_guide_new.db,GuideTutorialPage,Id,70,Content,quest,translated,,PASS,10,,,,,"The character has the ability to control certain objects in the field bearing specific appearances or are marked with a special marker. After using the ability to grab the object, you can also lock on to the matching target in the scene and throw it, which can produce a variety of effects.","Nhân vật có khả năng điều khiển một số vật thể trong khu vực có hình dạng đặc biệt hoặc được đánh dấu bằng ký hiệu riêng. Sau khi dùng kỹ năng để nắm lấy vật thể, bạn có thể khóa mục tiêu tương ứng trong cảnh và ném nó đi, tạo ra nhiều hiệu ứng khác nhau.",
+lang_guide_new.db,GuideTutorialPage,Id,71,Content,quest,translated,,PASS,10,,,,,"After activating the Choral Beacon, open the map interface and select the activated Choral Beacon for fast travel.","Sau khi kích hoạt Đèn hiệu Choral, mở giao diện bản đồ và chọn Đèn hiệu Choral đã kích hoạt để di chuyển tức thời.",
+lang_guide_new.db,GuideTutorialPage,Id,72,Content,quest,translated,,PASS,10,,,,,"Access to the corresponding map data.
+The Choral Calculus Center stores information about the surrounding area and can be activated to obtain the corresponding map data.
+Potential Recovery.
+Injured or unconscious Resonators can rest and recuperate at the Choral Calculus Center in order to recover to their optimal state.","Truy cập dữ liệu bản đồ tương ứng.
+Trung tâm Choral Calculus lưu trữ thông tin khu vực xung quanh và có thể kích hoạt để nhận dữ liệu bản đồ.
+Khả năng hồi phục.
+Resonator bị thương hoặc bất tỉnh có thể nghỉ ngơi và hồi phục tại Trung tâm Choral Calculus để trở lại trạng thái tốt nhất.",
+lang_guide_new.db,GuideTutorialPage,Id,73,Content,quest,translated,,PASS,10,,,,,"Injured or unconscious Resonators can rest and recuperate at the Choral Calculus Center in order to recover to their optimal state.
+If you are unable to reach the nearest C.C.C. due to various circumstances, you can also cook and make food out of the ingredients you have collected.","Các Resonator bị thương hoặc bất tỉnh có thể nghỉ ngơi và hồi phục tại Trung Tâm Choral Calculus để lấy lại trạng thái tốt nhất.
+Nếu không thể đến Trung Tâm C.C.C. gần nhất vì nhiều lý do, bạn cũng có thể nấu nướng và chế biến thức ăn từ nguyên liệu đã thu thập.",
+lang_guide_new.db,GuideTutorialPage,Id,74,Content,quest,translated,,PASS,10,,,,,"A database integrated within the Resonance Terminal. When encountering an enemy, use the scanner to discover the enemy's weaknesses, and use specific means to attack the weak points to inflict further damage.","Cơ sở dữ liệu tích hợp trong Thiết bị đầu cuối Cộng hưởng. Khi gặp kẻ địch, hãy dùng máy quét để phát hiện điểm yếu của chúng, rồi tấn công vào đó để gây thêm sát thương.",
+lang_guide_new.db,GuideTutorialPage,Id,84,Content,quest,translated,,PASS,10,,,,,"A wide range of Grapple Points found across the lands, cast your Grappling Hook travel through long distances quickly.","Nhiều Điểm Móc treo rải rác khắp nơi, hãy sử dụng Móc câu để di chuyển nhanh qua những khoảng cách xa.",
+lang_guide_new.db,GuideTutorialPage,Id,85,Content,quest,translated,,PASS,10,,,,,Fragile obstacles that can be broken down by means of ordinary attacks and other various methods. Maybe there will be some unexpected goodies behind it?,Những vật cản mỏng manh có thể bị phá hủy bằng các đòn tấn công thường hoặc nhiều phương pháp khác. Liệu có món đồ bất ngờ nào đang chờ phía sau?,
+lang_guide_new.db,GuideTutorialPage,Id,86,Content,quest,translated,,PASS,10,,,,,Certain obstacles that have been eroded with Wutherons cannot be destroyed using normal methods. It can only be broken by using Levitation to grab a nearby Tacetite Fulminates to trigger an explosion by throwing onto it.,Một số chướng ngại vật bị xói mòn bởi Wutheron không thể phá hủy bằng phương pháp thông thường. Chỉ có thể phá vỡ bằng cách dùng Khả Năng Bay để nhặt Tacetite Fulminates gần đó và ném vào để kích nổ.,
+lang_guide_new.db,GuideTutorialPage,Id,122,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters with Fusion and Aero elements is called <color=#8c7e51>Fusion-Aero Interference</color>.
+Fusion-Aero Interference can attach Fusion and Aero status to enemies in a wide area. For a certain period of time, enemies with this status will trigger additional effects when they receive different types of elemental damage (Glacio, Fusion, Electro, and Aero damage).","Hiệu ứng Concerto kích hoạt bởi Cộng Hưởng Giả mang nguyên tố Fusion và Aero được gọi là <color=#8c7e51>Fusion-Aero Interference</color>.
+Fusion-Aero Interference có thể gắn trạng thái Fusion và Aero lên kẻ địch trong phạm vi rộng. Trong một khoảng thời gian nhất định, kẻ địch mang trạng thái này sẽ kích hoạt hiệu ứng bổ sung khi chịu các loại sát thương nguyên tố khác nhau (Glacio, Fusion, Electro và Aero).",
+lang_guide_new.db,GuideTutorialPage,Id,123,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters with Glacio and Fusion elements is called <color=#8c7e51>Glacio-Fusion Interference</color>.
+Glacio-Fusion Interference can attach Glacio and Fusion status to enemies in a wide area. For a certain period of time, enemies with this status will trigger additional effects when they receive different types of elemental damage (Glacio, Fusion, Electro, and Aero damage).","Hiệu ứng Concerto được kích hoạt bởi các Cộng Hưởng Giả mang nguyên tố Glacio và Fusion gọi là <color=#8c7e51>Giao Thoa Glacio-Fusion</color>.
+Giao Thoa Glacio-Fusion có thể gắn trạng thái Glacio và Fusion lên kẻ địch trong phạm vi rộng. Trong một khoảng thời gian nhất định, kẻ địch mang trạng thái này sẽ kích hoạt hiệu ứng bổ sung khi nhận các loại sát thương nguyên tố khác nhau (sát thương Glacio, Fusion, Electro và Aero).",
+lang_guide_new.db,GuideTutorialPage,Id,124,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters with Glacio and Electro elements is called <color=#8c7e51>Glacio-Electro Interference</color>.
+Glacio-Electro Interference can attach Glacio and Electro status to enemies in a wide area. For a certain period of time, enemies with this status will trigger additional effects when they receive different types of elemental damage (Glacio, Fusion, Electro, and Aero damage).","Hiệu ứng Concerto được kích hoạt bởi các Cộng Hưởng Giả mang nguyên tố Glacio và Electro gọi là <color=#8c7e51>Giao Thoa Glacio-Electro</color>.
+Giao Thoa Glacio-Electro có thể gắn trạng thái Glacio và Electro lên kẻ địch trong phạm vi rộng. Trong một khoảng thời gian nhất định, kẻ địch mang trạng thái này sẽ kích hoạt hiệu ứng bổ sung khi nhận các loại sát thương nguyên tố khác nhau (sát thương Glacio, Fusion, Electro và Aero).",
+lang_guide_new.db,GuideTutorialPage,Id,125,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters with Glacio and Aero elements is called <color=#8c7e51>Glacio-Aero Interference</color>.
+Glacio-Aero Interference can attach Glacio and Aero status to enemies in a wide area. For a certain period of time, enemies with this status will trigger additional effects when they receive different types of elemental damage (Glacio, Fusion, Electro, and Aero damage).","Hiệu ứng Concerto được kích hoạt bởi các Cộng Hưởng Giả mang nguyên tố Glacio và Aero gọi là <color=#8c7e51>Giao Thoa Glacio-Aero</color>.
+Giao Thoa Glacio-Aero có thể gắn trạng thái Glacio và Aero lên kẻ địch trong phạm vi rộng. Trong một khoảng thời gian nhất định, kẻ địch mang trạng thái này sẽ kích hoạt hiệu ứng bổ sung khi nhận các loại sát thương nguyên tố khác nhau (sát thương Glacio, Fusion, Electro và Aero).",
+lang_guide_new.db,GuideTutorialPage,Id,126,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters with Fusion and Electro elements is called <color=#8c7e51>Fusion-Electro Interference</color>.
+Fusion-Electro Interference can attach Fusion and Electro status to enemies in a wide area. For a certain period of time, enemies with this status will trigger additional effects when they receive different types of elemental damage (Glacio, Fusion, Electro, and Aero damage).","Hiệu ứng Concerto được kích hoạt bởi các Cộng Hưởng Giả mang nguyên tố Fusion và Electro gọi là <color=#8c7e51>Giao Thoa Fusion-Electro</color>.
+Giao Thoa Fusion-Electro có thể gắn trạng thái Fusion và Electro lên kẻ địch trong phạm vi rộng. Trong một khoảng thời gian nhất định, kẻ địch mang trạng thái này sẽ kích hoạt hiệu ứng bổ sung khi nhận các loại sát thương nguyên tố khác nhau (sát thương Glacio, Fusion, Electro và Aero).",
+lang_guide_new.db,GuideTutorialPage,Id,127,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters with Electro and Aero elements is called <color=#8c7e51>Electro-Aero Interference</color>.
+Electro-Aero Interference can attach Electro and Aero status to enemies in a wide area. For a certain period of time, enemies with this status will trigger additional effects when they receive different types of elemental damage (Glacio, Fusion, Electro, and Aero damage).","Hiệu ứng Concerto kích hoạt bởi Cộng Hưởng Giả mang nguyên tố Electro và Aero được gọi là <color=#8c7e51>Electro-Aero Interference</color>.
+Electro-Aero Interference có thể gắn trạng thái Electro và Aero lên kẻ địch trong phạm vi rộng. Trong một khoảng thời gian nhất định, kẻ địch mang trạng thái này sẽ kích hoạt hiệu ứng bổ sung khi chịu các loại sát thương nguyên tố khác nhau (Glacio, Fusion, Electro và Aero).",
+lang_guide_new.db,GuideTutorialPage,Id,128,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters both bearing the Havoc element is called <color=#8c7e51>Havoc Polymerization</color>.
+Characters who participate in the Havoc Polymerization reaction receive a boost in damage for the Havoc element and gain a certain amount of Resonance Energy.","Hiệu ứng Concerto kích hoạt bởi hai Resonator mang nguyên tố Havoc được gọi là <color=#8c7e51>Havoc Polymerization</color>.
+Các Resonator tham gia phản ứng Havoc Polymerization sẽ nhận được tăng DMG nguyên tố Havoc và một lượng Resonance Energy nhất định.",
+lang_guide_new.db,GuideTutorialPage,Id,129,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters both bearing the Glacio element is called <color=#8c7e51>Glacio Polymerization</color>.
+Characters who participate in the Glacio Polymerization reaction receive a boost in damage for the Glacio element and gain a certain amount of Resonance Energy.","Hiệu ứng Concerto kích hoạt bởi hai Resonator mang nguyên tố Glacio được gọi là <color=#8c7e51>Glacio Polymerization</color>.
+Các Resonator tham gia phản ứng Glacio Polymerization sẽ nhận được tăng DMG nguyên tố Glacio và một lượng Resonance Energy nhất định.",
+lang_guide_new.db,GuideTutorialPage,Id,130,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters both bearing the Fusion element is called <color=#8c7e51>Fusion Polymerization</color>.
+Characters who participate in the Fusion Polymerization reaction receive a boost in damage for the Fusion element and gain a certain amount of Resonance Energy.","Hiệu ứng Concerto kích hoạt bởi hai Resonator mang nguyên tố Fusion được gọi là <color=#8c7e51>Fusion Polymerization</color>.
+Các Resonator tham gia phản ứng Fusion Polymerization sẽ nhận được tăng DMG nguyên tố Fusion và một lượng Resonance Energy nhất định.",
+lang_guide_new.db,GuideTutorialPage,Id,131,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters both bearing Electro element is called <color=#8c7e51>Electro Polymerization</color>.
+Characters who participate in the Electro Polymerization reaction receive a boost in damage for the Electro element and gain a certain amount of Resonance Energy.","Hiệu ứng Concerto kích hoạt bởi các nhân vật mang nguyên tố Electro được gọi là <color=#8c7e51>Electro Polymerization</color>.
+Các Resonator tham gia phản ứng Electro Polymerization sẽ được tăng DMG nguyên tố Electro và nhận một lượng Resonance Energy nhất định.",
+lang_guide_new.db,GuideTutorialPage,Id,132,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters both bearing Aero element is called <color=#8c7e51>Aero Polymerization</color>.
+Characters who participate in the Aero Polymerization reaction receive a boost in damage for the Aero element and gain a certain amount of Resonance Energy.","Hiệu ứng Concerto kích hoạt bởi các nhân vật mang nguyên tố Aero được gọi là <color=#8c7e51>Aero Polymerization</color>.
+Các Resonator tham gia phản ứng Aero Polymerization sẽ được tăng DMG nguyên tố Aero và nhận một lượng Resonance Energy nhất định.",
+lang_guide_new.db,GuideTutorialPage,Id,133,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters both bearing the Spectra element is called <color=#8c7e51>Spectra Polymerization</color>.
+Characters who participate in the Spectra Polymerization reaction receive a boost in damage for the Spectra element and gain a certain amount of Resonance Energy.","Hiệu ứng Concerto kích hoạt bởi hai Resonator mang nguyên tố Spectro được gọi là <color=#8c7e51>Spectra Polymerization</color>.
+Các Resonator tham gia phản ứng Spectra Polymerization sẽ nhận được tăng DMG nguyên tố Spectro và một lượng Resonance Energy nhất định.",
+lang_guide_new.db,GuideTutorialPage,Id,134,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters with Aero and Havoc elements is called <color=#8c7e51>Pneuma Decomposition</color>.
+Pneuma Decomposition reduces the Aero Damage Resistance of enemies within a certain range.","Hiệu ứng Concerto kích hoạt bởi Cộng Hưởng Giả mang nguyên tố Aero và Havoc được gọi là <color=#8c7e51>Pneuma Decomposition</color>.
+Pneuma Decomposition làm giảm Kháng sát thương Aero của kẻ địch trong phạm vi nhất định.",
+lang_guide_new.db,GuideTutorialPage,Id,135,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters with Glacio and Havoc elements is called <color=#8c7e51>Glacio Decomposition</color>.
+Glacio Decomposition reduces the Glacio Damage Resistance of enemies within a certain range.","Hiệu ứng Concerto được kích hoạt bởi các Cộng Hưởng Giả mang nguyên tố Glacio và Havoc gọi là <color=#8c7e51>Phân Rã Glacio</color>.
+Phân Rã Glacio làm giảm Kháng sát thương Glacio của kẻ địch trong một phạm vi nhất định.",
+lang_guide_new.db,GuideTutorialPage,Id,136,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters with Fusion and Havoc elements is called <color=#8c7e51>Fusion Decomposition</color>.
+Fusion Decomposition reduces the Fusion Damage Resistance of enemies within a certain range.","Hiệu ứng Concerto được kích hoạt bởi các Cộng Hưởng Giả mang nguyên tố Fusion và Havoc gọi là <color=#8c7e51>Phân Rã Fusion</color>.
+Phân Rã Fusion làm giảm Kháng sát thương Fusion của kẻ địch trong một phạm vi nhất định.",
+lang_guide_new.db,GuideTutorialPage,Id,137,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters with Electro and Havoc elements is called <color=#8c7e51>Electro Decomposition</color>.
+Electro Decomposition reduces the Electro Damage Resistance of enemies within a certain range.","Hiệu ứng Concerto kích hoạt bởi Cộng Hưởng Giả mang nguyên tố Electro và Havoc được gọi là <color=#8c7e51>Electro Decomposition</color>.
+Electro Decomposition làm giảm Kháng sát thương Electro của kẻ địch trong phạm vi nhất định.",
+lang_guide_new.db,GuideTutorialPage,Id,138,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters with Aero and Spectra elements is called <color=#8c7e51>Aero Stimulation</color>.
+Aero Stimulation can cause an area of time stopping effect for a short period of time, before amplifying the Aero effect applied onto enemies into 
+Hyper-Pneumatic within a certain range.","Hiệu ứng Concerto kích hoạt bởi Cộng Hưởng Giả mang nguyên tố Aero và Spectro được gọi là <color=#8c7e51>Aero Stimulation</color>.
+Aero Stimulation có thể tạo ra hiệu ứng dừng thời gian trong khu vực ngắn hạn, sau đó khuếch đại hiệu ứng Aero tác động lên kẻ địch thành Hyper-Pneumatic trong phạm vi nhất định.",
+lang_guide_new.db,GuideTutorialPage,Id,139,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters with Glacio and Spectra elements is called <color=#8c7e51>Glacio Stimulation</color>.
+Glacio Stimulation can cause an area of time stopping effect for a short period of time, before amplifying the Glacio effect applied onto enemies into Overcooled within a certain range.","Hiệu ứng Concerto được kích hoạt bởi các Cộng Hưởng Giả mang nguyên tố Glacio và Spectro gọi là <color=#8c7e51>Kích Thích Glacio</color>.
+Kích Thích Glacio có thể tạo ra hiệu ứng dừng thời gian trong một khu vực ngắn, sau đó khuếch đại hiệu ứng Glacio trên kẻ địch thành trạng thái Quá Lạnh trong phạm vi nhất định.",
+lang_guide_new.db,GuideTutorialPage,Id,140,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters with Fusion and Spectra elements is called <color=#8c7e51>Fusion Stimulation</color>.
+Fusion Stimulation can cause an area of time stopping effect for a short period of time, before amplifying the Fusion effect applied onto enemies into Overheated within a certain range.","Hiệu ứng Concerto được kích hoạt bởi các Cộng Hưởng Giả mang nguyên tố Fusion và Spectro gọi là <color=#8c7e51>Kích Thích Fusion</color>.
+Kích Thích Fusion có thể tạo ra hiệu ứng dừng thời gian trong một khu vực ngắn, sau đó khuếch đại hiệu ứng Fusion trên kẻ địch thành trạng thái Quá Nhiệt trong phạm vi nhất định.",
+lang_guide_new.db,GuideTutorialPage,Id,141,Content,quest,translated,,PASS,10,,,,,"The Concerto Effect triggered by characters with Electro and Spectra elements is called <color=#8c7e51>Electro Stimulation</color>.
+Electro Stimulation can cause an area of time stopping effect for a short period of time, before amplifying the Electro effect applied onto enemies into Hyper-Electrified within a certain range.","Hiệu ứng Concerto kích hoạt bởi Cộng Hưởng Giả mang nguyên tố Electro và Spectro được gọi là <color=#8c7e51>Electro Stimulation</color>.
+Electro Stimulation có thể tạo ra hiệu ứng dừng thời gian trong khu vực ngắn hạn, sau đó khuếch đại hiệu ứng Electro tác động lên kẻ địch thành Hyper-Electrified trong phạm vi nhất định.",
+lang_guide_new.db,GuideTutorialPage,Id,143,Content,quest,translated,,PASS,10,,,,,"Scanning can reveal valuable content within a certain range of area, such as collectible items. It can also scan monsters and reveal their weak spots. When you encounter a black fog of unknown origin, using this utility may also be effective.","Quét có thể phát hiện nội dung giá trị trong phạm vi nhất định, như vật phẩm thu thập. Nó cũng có thể quét quái vật và tiết lộ điểm yếu của chúng. Khi gặp sương mù đen bí ẩn, sử dụng tính năng này có thể hiệu quả.",
+lang_guide_new.db,GuideTutorialPage,Id,144,Content,quest,translated,,PASS,10,,,,,"An ability useful for crossing over terrains. Can be used directly in leaping upwards, or you can look for Grapple Points in the map for even further travels.",Kỹ năng hữu ích để vượt địa hình. Có thể dùng để nhảy lên cao hoặc tìm Điểm Móc treo trên bản đồ để di chuyển xa hơn.,
+lang_guide_new.db,GuideTutorialPage,Id,145,Content,quest,translated,,PASS,10,,,,,"All Combat Actions can accumulate Concerto Vibrancy, when you switch characters if the energy is full, the existing Concerto Vibrancy will be consumed and the corresponding Concerto Effect will be triggered automatically according to the Element type of the switched character.","Tất cả hành động chiến đấu đều tích lũy Độ rung Concerto. Khi chuyển đổi nhân vật, nếu năng lượng đã đầy, Độ rung Concerto hiện có sẽ được tiêu thụ và hiệu ứng Concerto tương ứng sẽ tự động kích hoạt theo thuộc tính Nguyên tố của nhân vật được chuyển đổi.",
+lang_guide_new.db,GuideTutorialPage,Id,146,Content,quest,translated,,PASS,10,,,,,"All Combat Actions can accumulate Concerto Vibrancy, when you switch characters if the energy is full, the existing Concerto Vibrancy will be consumed and the corresponding Concerto Effect will be triggered automatically according to the Element type of the switched character.","Tất cả hành động chiến đấu đều tích lũy Độ rung Concerto. Khi chuyển đổi nhân vật, nếu năng lượng đã đầy, Độ rung Concerto hiện có sẽ được tiêu thụ và hiệu ứng Concerto tương ứng sẽ tự động kích hoạt theo thuộc tính Nguyên tố của nhân vật được chuyển đổi.",
+lang_guide_new.db,GuideTutorialPage,Id,147,Content,quest,translated,,PASS,10,,,,,"The character has the ability to control certain objects in the field bearing specific appearances or are marked with a special marker. After using the ability to grab the object, you can also lock on to the matching target in the scene and throw it, which can produce a variety of effects.","Nhân vật có khả năng điều khiển một số vật thể trong khu vực có hình dạng đặc biệt hoặc được đánh dấu bằng ký hiệu riêng. Sau khi dùng kỹ năng để nắm lấy vật thể, bạn có thể khóa mục tiêu tương ứng trong cảnh và ném nó đi, tạo ra nhiều hiệu ứng khác nhau.",
+lang_guide_new.db,GuideTutorialPage,Id,148,Content,quest,translated,,PASS,10,,,,,"All Combat Actions can accumulate Concerto Vibrancy, when you switch characters if the energy is full, the existing Concerto Vibrancy will be consumed and the corresponding Concerto Effect will be triggered automatically according to the Element type of the switched character.","Tất cả hành động chiến đấu đều tích lũy Độ rung Concerto. Khi chuyển đổi nhân vật, nếu năng lượng đã đầy, Độ rung Concerto hiện có sẽ được tiêu thụ và hiệu ứng Concerto tương ứng sẽ tự động kích hoạt theo thuộc tính Nguyên tố của nhân vật được chuyển đổi.",
+lang_guide_new.db,GuideTutorialPage,Id,149,Content,quest,translated,,PASS,10,,,,,"All Combat Actions can accumulate Concerto Vibrancy, when you switch characters if the energy is full, the existing Concerto Vibrancy will be consumed and the corresponding Concerto Effect will be triggered automatically according to the Element type of the switched character.","Tất cả hành động chiến đấu đều tích lũy Độ rung Concerto. Khi chuyển đổi nhân vật, nếu năng lượng đã đầy, Độ rung Concerto hiện có sẽ được tiêu thụ và hiệu ứng Concerto tương ứng sẽ tự động kích hoạt theo thuộc tính Nguyên tố của nhân vật được chuyển đổi.",
+lang_guide_new.db,GuideTutorialPage,Id,150,Content,quest,translated,,PASS,10,,,,,"All Combat Actions can accumulate Concerto Vibrancy, when you switch characters if the energy is full, the existing Concerto Vibrancy will be consumed and the corresponding Concerto Effect will be triggered automatically according to the Element type of the switched character.","Tất cả hành động chiến đấu đều tích lũy Độ rung Concerto. Khi chuyển đổi nhân vật, nếu năng lượng đã đầy, Độ rung Concerto hiện có sẽ được tiêu thụ và hiệu ứng Concerto tương ứng sẽ tự động kích hoạt theo thuộc tính Nguyên tố của nhân vật được chuyển đổi.",
+lang_guide_new.db,GuideTutorialPage,Id,151,Content,quest,translated,,PASS,10,,,,,"All Combat Actions can accumulate Concerto Vibrancy, when you switch characters if the energy is full, the existing Concerto Vibrancy will be consumed and the corresponding Concerto Effect will be triggered automatically according to the Element type of the switched character.","Tất cả hành động chiến đấu đều tích lũy Độ rung Concerto. Khi chuyển đổi nhân vật, nếu năng lượng đã đầy, Độ rung Concerto hiện có sẽ được tiêu thụ và hiệu ứng Concerto tương ứng sẽ tự động kích hoạt theo thuộc tính Nguyên tố của nhân vật được chuyển đổi.",
+lang_guide_new.db,GuideTutorialPage,Id,152,Content,quest,translated,,PASS,10,,,,,"A database integrated within the Resonance Terminal. When encountering an enemy, use the scanner to discover the enemy's weaknesses, and use specific means to attack the weak points to inflict further damage.","Cơ sở dữ liệu tích hợp trong Thiết bị đầu cuối Cộng hưởng. Khi gặp kẻ địch, hãy dùng máy quét để phát hiện điểm yếu của chúng, rồi tấn công vào đó để gây thêm sát thương.",
+lang_guide_new.db,GuideTutorialPage,Id,157,Content,quest,translated,,PASS,10,,,,,"Rover can absorb and feel all sounds, being closely connected to the world. All of Rover's actions of explorations within the world can raise the Union Level.","Rover có thể hấp thụ và cảm nhận mọi âm thanh, gắn bó mật thiết với thế giới. Mọi hành động khám phá của Rover trong thế giới đều có thể nâng cao Cấp Liên Minh.",
+lang_guide_new.db,GuideTutorialPage,Id,158,Content,quest,translated,,PASS,10,,,,,"The Resonance Terminal can be installed with various Exploration Utilities, which not only makes traveling easier, but also making good use of them may lead to more discoveries.","Thiết bị đầu cuối Resonance có thể được lắp đặt nhiều Tiện Ích Thám Hiểm khác nhau, không chỉ giúp di chuyển dễ dàng hơn mà còn có thể khám phá thêm nhiều điều mới mẻ nếu biết tận dụng chúng.",
+lang_guide_new.db,GuideTutorialPage,Id,159,Content,quest,translated,,PASS,10,,,,,"Scanning can reveal valuable content within a certain range of area, such as collectible items. It can also scan monsters and reveal their weak spots. When you encounter a black fog of unknown origin, using this utility may also be effective.","Quét có thể phát hiện nội dung giá trị trong phạm vi nhất định, như vật phẩm thu thập. Nó cũng có thể quét quái vật và tiết lộ điểm yếu của chúng. Khi gặp sương mù đen bí ẩn, sử dụng tính năng này có thể hiệu quả.",
+lang_guide_new.db,GuideTutorialPage,Id,160,Content,quest,translated,,PASS,10,,,,,"An ability useful for crossing over terrains. Can be used directly in leaping upwards, or you can look for Grapple Points in the map for even further travels.",Kỹ năng hữu ích để vượt địa hình. Có thể dùng để nhảy lên cao hoặc tìm Điểm Móc treo trên bản đồ để di chuyển xa hơn.,
+lang_guide_new.db,GuideTutorialPage,Id,161,Content,quest,translated,,PASS,10,,,,,"Scanning can reveal valuable content within a certain range of area, such as collectible items. It can also scan monsters and reveal their weak spots. When you encounter a black fog of unknown origin, using this utility may also be effective.","Quét có thể phát hiện nội dung giá trị trong phạm vi nhất định, như vật phẩm thu thập. Nó cũng có thể quét quái vật và tiết lộ điểm yếu của chúng. Khi gặp sương mù đen bí ẩn, sử dụng tính năng này có thể hiệu quả.",
+lang_guide_new.db,GuideTutorialPage,Id,162,Content,quest,translated,,PASS,10,,,,,"An ability useful for crossing over terrains. Can be used directly in leaping upwards, or you can look for Grapple Points in the map for even further travels.",Kỹ năng hữu ích để vượt địa hình. Có thể dùng để nhảy lên cao hoặc tìm Điểm Móc treo trên bản đồ để di chuyển xa hơn.,
+lang_guide_new.db,GuideFocusNew,Id,1,Content,quest,translated,,PASS,10,,,,,Drag to move,Kéo để di chuyển,
+lang_guide_new.db,GuideFocusNew,Id,2,Content,quest,translated,,PASS,10,,,,,Tap to jump,Nhấn để nhảy,
+lang_guide_new.db,GuideFocusNew,Id,3,Content,quest,translated,,PASS,10,,,,,Stand beside the walls and drag to move will allow you to climb.,Đứng cạnh tường và kéo để di chuyển sẽ giúp bạn leo lên.,
+lang_guide_new.db,GuideFocusNew,Id,4,Content,quest,translated,,PASS,10,,,,,Tap here to use normal attack,Nhấn vào đây để tấn công bình thường,
+lang_guide_new.db,GuideFocusNew,Id,5,Content,quest,translated,,PASS,10,,,,,Tap here to use Resonance Skill,Nhấn vào đây để sử dụng Resonance Skill,
+lang_guide_new.db,GuideFocusNew,Id,6,Content,quest,translated,,PASS,10,,,,,Tap to absorb the Echo.,Nhấn để hấp thụ Echo.,
+lang_guide_new.db,GuideFocusNew,Id,7,Content,quest,translated,,PASS,10,,,,,Tap to use Echo Skill,Nhấn để sử dụng Kỹ Năng Echo,
+lang_guide_new.db,GuideFocusNew,Id,8,Content,quest,translated,,PASS,10,,,,,Tap here to use Resonance Liberation,Nhấn vào đây để sử dụng Resonance Liberation,
+lang_guide_new.db,GuideFocusNew,Id,9,Content,quest,translated,,PASS,10,,,,,Tap jump again in the air will allow you to glide.,Nhấn nhảy thêm lần nữa khi đang ở trên không để lướt.,
+lang_guide_new.db,GuideFocusNew,Id,10,Content,quest,translated,,PASS,10,,,,,Tap {0} to switch Resonators.,Nhấn {0} để đổi Resonator.,
+lang_guide_new.db,GuideFocusNew,Id,11,Content,quest,translated,,PASS,10,,,,,Tap here to switch Resonators.,Nhấn vào đây để đổi Resonator.,
+lang_guide_new.db,GuideFocusNew,Id,12,Content,quest,translated,,PASS,10,,,,,Tap here to aim.,Nhấn vào đây để ngắm bắn.,
+lang_guide_new.db,GuideFocusNew,Id,13,Content,quest,translated,,PASS,10,,,,,"Tap here to trigger extreme evasion.
+Evade right before enemy's attack about to hit you will allow you to trigger extreme evasion.","Nhấn vào đây để kích hoạt né tránh tối đa.
+Né tránh ngay trước khi đòn tấn công của kẻ địch sắp trúng bạn sẽ kích hoạt né tránh tối đa.",
+lang_guide_new.db,GuideFocusNew,Id,14,Content,quest,translated,,PASS,10,,,,,"Tap {0} to lock the camera.
+Hold to unlock the camera.","Nhấn {0} để khóa góc nhìn.
+Giữ để mở khóa góc nhìn.",
+lang_guide_new.db,GuideFocusNew,Id,15,Content,quest,translated,,PASS,10,,,,,"Tap to lock the camera.
+Hold to unlock the camera","Nhấn để khóa góc nhìn.
+Giữ để mở khóa góc nhìn",
+lang_guide_new.db,GuideFocusNew,Id,16,Content,quest,translated,,PASS,10,,,,,"Tap here to fend the attack.
+Fending attack can reduce enemy's resilient","Nhấn vào đây để đỡ đòn.
+Đỡ đòn có thể làm giảm sức chịu đựng của kẻ địch.",
+lang_guide_new.db,GuideFocusNew,Id,17,Content,quest,translated,,PASS,10,,,,,Tap {0} to track the mission.,Nhấn {0} để theo dõi nhiệm vụ.,
+lang_guide_new.db,GuideFocusNew,Id,18,Content,quest,translated,,PASS,10,,,,,Tao to open System Menu.,Nhấn Tao để mở Menu Hệ Thống.,
+lang_guide_new.db,GuideFocusNew,Id,19,Content,quest,translated,,PASS,10,,,,,Tap here to open Time Setting.,Nhấn vào đây để mở Cài Đặt Thời Gian.,
+lang_guide_new.db,GuideFocusNew,Id,20,Content,quest,translated,,PASS,10,,,,,"Tap here to set the list.
+Tap Confirm to finish the setting.","Nhấn vào đây để thiết lập danh sách.
+Nhấn Xác Nhận để hoàn tất cài đặt.",
+lang_guide_new.db,GuideFocusNew,Id,21,Content,quest,translated,,PASS,10,,,,,"Time Setting Guide.
+Tap to open the System Menu.","Hướng dẫn Cài đặt Thời Gian.
+Chạm để mở Menu Hệ thống.",
+lang_guide_new.db,GuideFocusNew,Id,22,Content,quest,translated,,PASS,10,,,,,Tap here to open Time Setting.,Nhấn vào đây để mở Cài Đặt Thời Gian.,
+lang_guide_new.db,GuideFocusNew,Id,23,Content,quest,translated,,PASS,10,,,,,"Tap here to set the list.
+Tap Confirm to finish the setting.","Nhấn vào đây để thiết lập danh sách.
+Nhấn Xác Nhận để hoàn tất cài đặt.",
+lang_guide_new.db,GuideFocusNew,Id,24,Content,quest,translated,,PASS,10,,,,,Resonators can deal damage to gain Concerto Vibrancy. Full Concerto Vibrancy will convert into an energy ball.,Resonator gây DMG để tích lũy Độ rung Concerto. Khi đầy Độ rung Concerto sẽ chuyển hóa thành quả cầu năng lượng.,
+lang_guide_new.db,GuideFocusNew,Id,25,Content,quest,translated,,PASS,10,,,,,Switching characters will consume current Concerto Vibrancy ball and trigger Concerto Effect.,Chuyển đổi nhân vật sẽ tiêu hao quả cầu Concerto Vibrancy hiện tại và kích hoạt Hiệu ứng Concerto.,
+lang_guide_new.db,GuideFocusNew,Id,26,Content,quest,translated,,PASS,10,,,,,Resonators can deal damage to gain Concerto Vibrancy. Full Concerto Vibrancy will convert into an energy ball.,Resonator gây DMG để tích lũy Độ rung Concerto. Khi đầy Độ rung Concerto sẽ chuyển hóa thành quả cầu năng lượng.,
+lang_guide_new.db,GuideFocusNew,Id,27,Content,quest,translated,,PASS,10,,,,,Switching characters will consume current Concerto Vibrancy ball and trigger Concerto Effect.,Chuyển đổi nhân vật sẽ tiêu hao quả cầu Concerto Vibrancy hiện tại và kích hoạt Hiệu ứng Concerto.,
+lang_guide_new.db,GuideFocusNew,Id,28,Content,quest,translated,,PASS,10,,,,,Resonators can deal damage to gain Concerto Vibrancy. Full Concerto Vibrancy will convert into an energy ball.,Resonator gây DMG để tích lũy Độ rung Concerto. Khi đầy Độ rung Concerto sẽ chuyển hóa thành quả cầu năng lượng.,
+lang_guide_new.db,GuideFocusNew,Id,29,Content,quest,translated,,PASS,10,,,,,Switching characters will consume current Concerto Vibrancy ball and trigger Concerto Effect.,Chuyển đổi nhân vật sẽ tiêu hao quả cầu Concerto Vibrancy hiện tại và kích hoạt Hiệu ứng Concerto.,
+lang_guide_new.db,GuideFocusNew,Id,30,Content,quest,translated,,PASS,10,,,,,Resonators can deal damage to gain Concerto Vibrancy. Full Concerto Vibrancy will convert into an energy ball.,Resonator gây DMG để tích lũy Độ rung Concerto. Khi đầy Độ rung Concerto sẽ chuyển hóa thành quả cầu năng lượng.,
+lang_guide_new.db,GuideFocusNew,Id,31,Content,quest,translated,,PASS,10,,,,,Switching characters will consume current Concerto Vibrancy ball and trigger Concerto Effect.,Chuyển đổi nhân vật sẽ tiêu hao quả cầu Concerto Vibrancy hiện tại và kích hoạt Hiệu ứng Concerto.,
+lang_guide_new.db,GuideFocusNew,Id,32,Content,quest,translated,,PASS,10,,,,,Resonators can deal damage to gain Concerto Vibrancy. Full Concerto Vibrancy will convert into an energy ball.,Resonator gây DMG để tích lũy Độ rung Concerto. Khi đầy Độ rung Concerto sẽ chuyển hóa thành quả cầu năng lượng.,
+lang_guide_new.db,GuideFocusNew,Id,33,Content,quest,translated,,PASS,10,,,,,Switching characters will consume current Concerto Vibrancy ball and trigger Concerto Effect.,Chuyển đổi nhân vật sẽ tiêu hao quả cầu Concerto Vibrancy hiện tại và kích hoạt Hiệu ứng Concerto.,
+lang_guide_new.db,GuideFocusNew,Id,34,Content,quest,translated,,PASS,10,,,,,Resonators can deal damage to gain Concerto Vibrancy. Full Concerto Vibrancy will convert into an energy ball.,Resonator gây DMG để tích lũy Độ rung Concerto. Khi đầy Độ rung Concerto sẽ chuyển hóa thành quả cầu năng lượng.,
+lang_guide_new.db,GuideFocusNew,Id,35,Content,quest,translated,,PASS,10,,,,,Switching characters will consume current Concerto Vibrancy ball and trigger Concerto Effect.,Chuyển đổi nhân vật sẽ tiêu hao quả cầu Concerto Vibrancy hiện tại và kích hoạt Hiệu ứng Concerto.,
+lang_guide_new.db,GuideFocusNew,Id,36,Content,quest,translated,,PASS,10,,,,,Bailian dealing first damage to target will apply Frost Bite effect to target and recover Chilling Vein.,Bailian gây sát thương đầu tiên lên mục tiêu sẽ áp dụng hiệu ứng Frost Bite và hồi phục Chilling Vein.,
+lang_guide_new.db,GuideFocusNew,Id,37,Content,quest,translated,,PASS,10,,,,,Bailian dealing first damage to target will apply Frost Bite effect to target and recover Chilling Vein.,Bailian gây sát thương đầu tiên lên mục tiêu sẽ áp dụng hiệu ứng Frost Bite và hồi phục Chilling Vein.,
+lang_guide_new.db,GuideFocusNew,Id,38,Content,quest,translated,,PASS,10,,,,,"Tap to use Resonance Skill
+Consume Chilling Vein to recover HP for the party. Consuming more Chilling Vein will recover more HP.","Nhấn để sử dụng Resonance Skill
+Tiêu hao Chilling Vein để hồi HP cho cả đội. Tiêu hao càng nhiều Chilling Vein, lượng HP hồi phục càng lớn.",
+lang_guide_new.db,GuideFocusNew,Id,40,Content,quest,translated,,PASS,10,,,,,"Tap to use Resonance Skill
+Consume Chilling Vein to recover HP for the party. Consuming more Chilling Vein will recover more HP.","Nhấn để sử dụng Resonance Skill
+Tiêu hao Chilling Vein để hồi HP cho cả đội. Tiêu hao càng nhiều Chilling Vein, lượng HP hồi phục càng lớn.",
+lang_guide_new.db,GuideFocusNew,Id,41,Content,quest,translated,,PASS,10,,,,,Yangyang can use different attack to gain and consume Cleaving Wind.,Yangyang có thể sử dụng các đòn tấn công khác nhau để tích lũy và tiêu hao Gió Chẻ.,
+lang_guide_new.db,GuideFocusNew,Id,42,Content,quest,translated,,PASS,10,,,,,Yangyang can use different attack to gain and consume Cleaving Wind.,Yangyang có thể sử dụng các đòn tấn công khác nhau để tích lũy và tiêu hao Gió Chẻ.,
+lang_guide_new.db,GuideFocusNew,Id,43,Content,quest,translated,,PASS,10,,,,,Chixia can gain special energy by using normal attack and Resonance Skill,Chixia có thể tích lũy năng lượng đặc biệt bằng cách sử dụng Basic Attack và Resonance Skill,
+lang_guide_new.db,GuideFocusNew,Id,44,Content,quest,translated,,PASS,10,,,,,Chixia can gain special energy by using normal attack and Resonance Skill,Chixia có thể tích lũy năng lượng đặc biệt bằng cách sử dụng Basic Attack và Resonance Skill,
+lang_guide_new.db,GuideFocusNew,Id,45,Content,quest,translated,,PASS,10,,,,,"Tap to use Resonance Skill.
+Yangyang can gain 2 Cleaving Winds by using Resonance Skill to hit a target.","Nhấn để sử dụng Resonance Skill.
+Yangyang sẽ nhận được 2 Cleaving Winds khi dùng Resonance Skill trúng mục tiêu.",
+lang_guide_new.db,GuideFocusNew,Id,46,Content,quest,translated,,PASS,10,,,,,"Mid-air normal attack.
+Once Yangyang gain all 3 Cleaving Winds. Using plunging attack will consume all of them to enhance the attack.","Normal Attack giữa không trung.
+Khi Yangyang tích đủ 3 Lưỡi Gió Xé, sử dụng tấn công bổ nhào sẽ tiêu hao toàn bộ để tăng cường đòn đánh.",
+lang_guide_new.db,GuideFocusNew,Id,47,Content,quest,translated,,PASS,10,,,,,"Mid-air normal attack.
+Once Yangyang gain all 3 Cleaving Winds. Using plunging attack will consume all of them to enhance the attack.","Normal Attack giữa không trung.
+Khi Yangyang tích đủ 3 Lưỡi Gió Xé, sử dụng tấn công bổ nhào sẽ tiêu hao toàn bộ để tăng cường đòn đánh.",
+lang_guide_new.db,GuideFocusNew,Id,48,Content,quest,translated,,PASS,10,,,,,Tap to open Modulation.,Nhấn để mở Điều Chỉnh.,
+lang_guide_new.db,GuideFocusNew,Id,49,Content,quest,translated,,PASS,10,,,,,Tap to open Modulation.,Nhấn để mở Điều Chỉnh.,
+lang_guide_new.db,GuideFocusNew,Id,50,Content,quest,translated,,PASS,10,,,,,Tap to open Weapon page.,Nhấn để mở trang Vũ Khí.,
+lang_guide_new.db,GuideFocusNew,Id,51,Content,quest,translated,,PASS,10,,,,,Tap Switch.,Nhấn để chuyển đổi.,
+lang_guide_new.db,GuideFocusNew,Id,52,Content,quest,translated,,PASS,10,,,,,Tap to select the weapon,Nhấn để chọn vũ khí,
+lang_guide_new.db,GuideFocusNew,Id,53,Content,quest,translated,,PASS,10,,,,,Tap to switch weapon,Nhấn để đổi vũ khí,
+lang_guide_new.db,GuideFocusNew,Id,54,Content,quest,translated,,PASS,10,,,,,Tap to open Character page.,Nhấn để mở trang Nhân Vật.,
+lang_guide_new.db,GuideFocusNew,Id,55,Content,quest,translated,,PASS,10,,,,,Tap to use this item.,Nhấn để sử dụng vật phẩm này.,
+lang_guide_new.db,GuideFocusNew,Id,56,Content,quest,translated,,PASS,10,,,,,Tap to open Weapon page.,Nhấn để mở trang Vũ Khí.,
+lang_guide_new.db,GuideFocusNew,Id,57,Content,quest,translated,,PASS,10,,,,,Tap Switch.,Nhấn để chuyển đổi.,
+lang_guide_new.db,GuideFocusNew,Id,58,Content,quest,translated,,PASS,10,,,,,Tap to select the weapon,Nhấn để chọn vũ khí,
+lang_guide_new.db,GuideFocusNew,Id,59,Content,quest,translated,,PASS,10,,,,,Tap to switch weapon,Nhấn để đổi vũ khí,
+lang_guide_new.db,GuideFocusNew,Id,60,Content,quest,translated,,PASS,10,,,,,Tao to open System Menu.,Nhấn Tao để mở Menu Hệ Thống.,
+lang_guide_new.db,GuideFocusNew,Id,61,Content,quest,translated,,PASS,10,,,,,Tap to open Character page.,Nhấn để mở trang Nhân Vật.,
+lang_guide_new.db,GuideFocusNew,Id,62,Content,quest,translated,,PASS,10,,,,,Tap to use this item.,Nhấn để sử dụng vật phẩm này.,
+lang_guide_new.db,GuideFocusNew,Id,63,Content,quest,translated,,PASS,10,,,,,Tao to open System Menu.,Nhấn Tao để mở Menu Hệ Thống.,
+lang_guide_new.db,GuideFocusNew,Id,64,Content,quest,translated,,PASS,10,,,,,Tap activated Beacon to teleport to it.,Nhấn vào Đèn Hiệu kích hoạt để dịch chuyển đến đó.,
+lang_guide_new.db,GuideFocusNew,Id,65,Content,quest,translated,,PASS,10,,,,,Tap to open Map.,Nhấn để mở Bản Đồ.,
+lang_guide_new.db,GuideFocusNew,Id,66,Content,quest,translated,,PASS,10,,,,,Tap activated Beacon to teleport to it.,Nhấn vào Đèn Hiệu kích hoạt để dịch chuyển đến đó.,
+lang_guide_new.db,GuideFocusNew,Id,67,Content,quest,translated,,PASS,10,,,,,Tap to open Character page.,Nhấn để mở trang Nhân Vật.,
+lang_guide_new.db,GuideFocusNew,Id,68,Content,quest,translated,,PASS,10,,,,,Tap here to open Journal,Nhấn vào đây để mở Nhật Ký,
+lang_guide_new.db,GuideFocusNew,Id,69,Content,quest,translated,,PASS,10,,,,,Tap here to track the mission.,Nhấn vào đây để theo dõi nhiệm vụ.,
+lang_guide_new.db,GuideFocusNew,Id,70,Content,quest,translated,,PASS,10,,,,,Tao to open System Menu.,Nhấn Tao để mở Menu Hệ Thống.,
+lang_guide_new.db,GuideFocusNew,Id,71,Content,quest,translated,,PASS,10,,,,,Tap to open Character page.,Nhấn để mở trang Nhân Vật.,
+lang_guide_new.db,GuideFocusNew,Id,72,Content,quest,translated,,PASS,10,,,,,Tap here to open Journal,Nhấn vào đây để mở Nhật Ký,
+lang_guide_new.db,GuideFocusNew,Id,73,Content,quest,translated,,PASS,10,,,,,Tap here to track the mission.,Nhấn vào đây để theo dõi nhiệm vụ.,
+lang_guide_new.db,GuideFocusNew,Id,74,Content,quest,translated,,PASS,10,,,,,Tao to open System Menu.,Nhấn Tao để mở Menu Hệ Thống.,
+lang_guide_new.db,GuideFocusNew,Id,75,Content,quest,translated,,PASS,10,,,,,"Force Prestige is available now, you can tap to open it.","Hiện đã mở tính năng Uy Thế Cưỡng Bách, bạn có thể chạm để mở.",
+lang_guide_new.db,GuideFocusNew,Id,76,Content,quest,translated,,PASS,10,,,,,Tap to open Forces Prestige,Nhấn để mở Danh Vọng Thế Lực.,
+lang_guide_new.db,GuideFocusNew,Id,77,Content,quest,translated,,PASS,10,,,,,"Force Prestige is available now, you can tap to open it.","Hiện đã mở tính năng Uy Thế Cưỡng Bách, bạn có thể chạm để mở.",
+lang_guide_new.db,GuideFocusNew,Id,78,Content,quest,translated,,PASS,10,,,,,Tap to open Forces Prestige,Nhấn để mở Danh Vọng Thế Lực.,
+lang_guide_new.db,GuideFocusNew,Id,79,Content,quest,translated,,PASS,10,,,,,"Resonance Record is available now, you can tap to open it.","Nhật Ký Cộng Hưởng đã có sẵn, chạm để mở.",
+lang_guide_new.db,GuideFocusNew,Id,80,Content,quest,translated,,PASS,10,,,,,Tap here to open Resonance Record.,Nhấn vào đây để mở Hồ Sơ Cộng Hưởng.,
+lang_guide_new.db,GuideFocusNew,Id,81,Content,quest,translated,,PASS,10,,,,,Tap here to open Converging Upload.,Nhấn vào đây để mở Kết Nạp Đồng Bộ.,
+lang_guide_new.db,GuideFocusNew,Id,82,Content,quest,translated,,PASS,10,,,,,Tap here to check mission progress and stage rewards.,Nhấn vào đây để kiểm tra tiến trình nhiệm vụ và phần thưởng giai đoạn.,
+lang_guide_new.db,GuideFocusNew,Id,83,Content,quest,translated,,PASS,10,,,,,"Force Prestige is available now, you can tap to open it.","Hiện đã mở tính năng Uy Thế Cưỡng Bách, bạn có thể chạm để mở.",
+lang_guide_new.db,GuideFocusNew,Id,84,Content,quest,translated,,PASS,10,,,,,Tap here to open Resonance Record.,Nhấn vào đây để mở Hồ Sơ Cộng Hưởng.,
+lang_guide_new.db,GuideFocusNew,Id,85,Content,quest,translated,,PASS,10,,,,,Tap here to open Converging Upload.,Nhấn vào đây để mở Kết Nạp Đồng Bộ.,
+lang_guide_new.db,GuideFocusNew,Id,86,Content,quest,translated,,PASS,10,,,,,Tap here to check mission progress and stage rewards.,Nhấn vào đây để kiểm tra tiến trình nhiệm vụ và phần thưởng giai đoạn.,
+lang_guide_new.db,GuideFocusNew,Id,88,Content,quest,translated,,PASS,10,,,,,Tap here to change to Scanning Tool,Nhấn vào đây để chuyển sang Công Cụ Quét.,
+lang_guide_new.db,GuideFocusNew,Id,90,Content,quest,translated,,PASS,10,,,,,Tap here to change to Grapple Tool,Nhấn vào đây để chuyển sang Công Cụ Móc Treo.,
+lang_guide_new.db,GuideFocusNew,Id,92,Content,quest,translated,,PASS,10,,,,,Tap here to change to Levitation Tool,Nhấn vào đây để chuyển sang Công Cụ Bay Lượn.,
+lang_guide_new.db,GuideFocusNew,Id,93,Content,quest,translated,,PASS,10,,,,,Tap here to throw,Nhấn vào đây để ném,
+lang_guide_new.db,GuideFocusNew,Id,94,Content,quest,translated,,PASS,10,,,,,"Tap here to open Solo Record.
+You can check and receive relative mission in Solo Record.","Nhấn vào đây để mở Hồ Sơ Solo.
+Bạn có thể kiểm tra và nhận nhiệm vụ tương ứng trong Hồ Sơ Solo.",
+lang_guide_new.db,GuideFocusNew,Id,95,Content,quest,translated,,PASS,10,,,,,"Solo Record Guide.
+Tap here to open System Menu","Hướng dẫn Ghi Solo.
+Chạm vào đây để mở Menu Hệ thống",
+lang_guide_new.db,GuideFocusNew,Id,96,Content,quest,translated,,PASS,10,,,,,Tap here to open Journal,Nhấn vào đây để mở Nhật Ký,
+lang_guide_new.db,GuideFocusNew,Id,97,Content,quest,translated,,PASS,10,,,,,"Tap here to open Solo Record.
+You can check and receive relative mission in Solo Record.","Nhấn vào đây để mở Hồ Sơ Solo.
+Bạn có thể kiểm tra và nhận nhiệm vụ tương ứng trong Hồ Sơ Solo.",
+lang_guide_new.db,GuideFocusNew,Id,98,Content,quest,translated,,PASS,10,,,,,Tap here to aim.,Nhấn vào đây để ngắm bắn.,
+lang_guide_new.db,GuideFocusNew,Id,107,Content,quest,translated,,PASS,10,,,,,Resonators can deal damage to gain Concerto Vibrancy. Full Concerto Vibrancy will convert into an energy ball.,Resonator gây DMG để tích lũy Độ rung Concerto. Khi đầy Độ rung Concerto sẽ chuyển hóa thành quả cầu năng lượng.,
+lang_guide_new.db,GuideFocusNew,Id,108,Content,quest,translated,,PASS,10,,,,,Resonators can deal damage to gain Concerto Vibrancy. Full Concerto Vibrancy will convert into an energy ball.,Resonator gây DMG để tích lũy Độ rung Concerto. Khi đầy Độ rung Concerto sẽ chuyển hóa thành quả cầu năng lượng.,
+lang_guide_new.db,GuideFocusNew,Id,113,Content,quest,translated,,PASS,10,,,,,Resonators can deal damage to gain Concerto Vibrancy. Full Concerto Vibrancy will convert into an energy ball.,Resonator gây DMG để tích lũy Độ rung Concerto. Khi đầy Độ rung Concerto sẽ chuyển hóa thành quả cầu năng lượng.,
+lang_guide_new.db,GuideFocusNew,Id,114,Content,quest,translated,,PASS,10,,,,,Resonators can deal damage to gain Concerto Vibrancy. Full Concerto Vibrancy will convert into an energy ball.,Resonator gây DMG để tích lũy Độ rung Concerto. Khi đầy Độ rung Concerto sẽ chuyển hóa thành quả cầu năng lượng.,
+lang_guide_new.db,GuideFocusNew,Id,121,Content,quest,translated,,PASS,10,,,,,Resonators can deal damage to gain Concerto Vibrancy. Full Concerto Vibrancy will convert into an energy ball.,Resonator gây DMG để tích lũy Độ rung Concerto. Khi đầy Độ rung Concerto sẽ chuyển hóa thành quả cầu năng lượng.,
+lang_guide_new.db,GuideFocusNew,Id,122,Content,quest,translated,,PASS,10,,,,,Resonators can deal damage to gain Concerto Vibrancy. Full Concerto Vibrancy will convert into an energy ball.,Resonator gây DMG để tích lũy Độ rung Concerto. Khi đầy Độ rung Concerto sẽ chuyển hóa thành quả cầu năng lượng.,
+lang_guide_new.db,GuideFocusNew,Id,129,Content,quest,translated,,PASS,10,,,,,Resonators can deal damage to gain Concerto Vibrancy. Full Concerto Vibrancy will convert into an energy ball.,Resonator gây DMG để tích lũy Độ rung Concerto. Khi đầy Độ rung Concerto sẽ chuyển hóa thành quả cầu năng lượng.,
+lang_guide_new.db,GuideFocusNew,Id,130,Content,quest,translated,,PASS,10,,,,,Resonators can deal damage to gain Concerto Vibrancy. Full Concerto Vibrancy will convert into an energy ball.,Resonator gây DMG để tích lũy Độ rung Concerto. Khi đầy Độ rung Concerto sẽ chuyển hóa thành quả cầu năng lượng.,
+lang_guide_new.db,GuideFocusNew,Id,137,Content,quest,translated,,PASS,10,,,,,Resonators can deal damage to gain Concerto Vibrancy. Full Concerto Vibrancy will convert into an energy ball.,Resonator gây DMG để tích lũy Độ rung Concerto. Khi đầy Độ rung Concerto sẽ chuyển hóa thành quả cầu năng lượng.,
+lang_guide_new.db,GuideFocusNew,Id,138,Content,quest,translated,,PASS,10,,,,,Resonators can deal damage to gain Concerto Vibrancy. Full Concerto Vibrancy will convert into an energy ball.,Resonator gây DMG để tích lũy Độ rung Concerto. Khi đầy Độ rung Concerto sẽ chuyển hóa thành quả cầu năng lượng.,
+lang_guide_new.db,GuideFocusNew,Id,145,Content,quest,translated,,PASS,10,,,,,Resonators can deal damage to gain Concerto Vibrancy. Full Concerto Vibrancy will convert into an energy ball.,Resonator gây DMG để tích lũy Độ rung Concerto. Khi đầy Độ rung Concerto sẽ chuyển hóa thành quả cầu năng lượng.,
+lang_guide_new.db,GuideFocusNew,Id,147,Content,quest,translated,,PASS,10,,,,,Resonators can deal damage to gain Concerto Vibrancy. Full Concerto Vibrancy will convert into an energy ball.,Resonator gây DMG để tích lũy Độ rung Concerto. Khi đầy Độ rung Concerto sẽ chuyển hóa thành quả cầu năng lượng.,
+lang_guide_new.db,GuideFocusNew,Id,148,Content,quest,translated,,PASS,10,,,,,Switching characters will consume current Concerto Vibrancy ball and trigger Concerto Effect.,Chuyển đổi nhân vật sẽ tiêu hao quả cầu Concerto Vibrancy hiện tại và kích hoạt Hiệu ứng Concerto.,
+lang_guide_new.db,GuideFocusNew,Id,149,Content,quest,translated,,PASS,10,,,,,Resonators can deal damage to gain Concerto Vibrancy. Full Concerto Vibrancy will convert into an energy ball.,Resonator gây DMG để tích lũy Độ rung Concerto. Khi đầy Độ rung Concerto sẽ chuyển hóa thành quả cầu năng lượng.,
+lang_guide_new.db,GuideFocusNew,Id,151,Content,quest,translated,,PASS,10,,,,,Resonators can deal damage to gain Concerto Vibrancy. Full Concerto Vibrancy will convert into an energy ball.,Resonator gây DMG để tích lũy Độ rung Concerto. Khi đầy Độ rung Concerto sẽ chuyển hóa thành quả cầu năng lượng.,
+lang_guide_new.db,GuideFocusNew,Id,152,Content,quest,translated,,PASS,10,,,,,Switching characters will consume current Concerto Vibrancy ball and trigger Concerto Effect.,Chuyển đổi nhân vật sẽ tiêu hao quả cầu Concerto Vibrancy hiện tại và kích hoạt Hiệu ứng Concerto.,

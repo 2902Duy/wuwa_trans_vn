@@ -1,0 +1,5 @@
+﻿database,table,primary_key_column,primary_key,column,category,status,issues,rule_decision,rule_score,rule_issues,ai_decision,ai_score,ai_reason,source_en,translation_vi,review_note
+lang_time_of_day.db,DaySelectPreset,Id,1,Content,general,translated,,PASS,10,,,,,Default,Mặc định,
+lang_time_of_day.db,DaySelectPreset,Id,2,Content,general,translated,,PASS,10,,,,,Next Day,Ngày tiếp theo,
+lang_time_of_day.db,DaySelectPreset,Id,3,Content,general,translated,,PASS,10,,,,,2 Days Later,2 Ngày Sau,
+lang_time_of_day.db,DaySelectPreset,Id,4,Content,general,translated,,PASS,10,,,,,3 Days Later,3 Ngày Sau,

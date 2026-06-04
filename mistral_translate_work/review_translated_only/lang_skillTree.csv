@@ -1,0 +1,92 @@
+﻿database,table,primary_key_column,primary_key,column,category,status,issues,rule_decision,rule_score,rule_issues,ai_decision,ai_score,ai_reason,source_en,translation_vi,review_note
+lang_skillTree.db,SkillCondition,Id,1,Content,item,translated,,PASS,10,,,,,Activate predecessor node to unlock,Kích hoạt nút tiền nhiệm để mở khóa,
+lang_skillTree.db,SkillCondition,Id,2,Content,item,translated,,PASS,10,,,,,Reach Level 1 for previous skill to unlock,Đạt Cấp 1 cho kỹ năng trước để mở khóa,
+lang_skillTree.db,SkillCondition,Id,3,Content,item,translated,,PASS,10,,,,,Reach Level 2 for previous skill to unlock,Đạt Cấp 2 cho kỹ năng trước để mở khóa,
+lang_skillTree.db,SkillCondition,Id,4,Content,item,translated,,PASS,10,,,,,Reach Level 2 for previous skill to unlock,Đạt Cấp 2 cho kỹ năng trước để mở khóa,
+lang_skillTree.db,SkillCondition,Id,5,Content,item,translated,,PASS,10,,,,,Reach Level 1 for previous skill to unlock,Đạt Cấp 1 cho kỹ năng trước để mở khóa,
+lang_skillTree.db,SkillCondition,Id,6,Content,item,translated,,PASS,10,,,,,Reach Level 2 for previous skill to unlock,Đạt Cấp 2 cho kỹ năng trước để mở khóa,
+lang_skillTree.db,RoleSkillTreeInfo,Id,1,Content,item,translated,,PASS,10,,,,,Of Wind and Feathers,Of Wind and Feathers,
+lang_skillTree.db,RoleSkillTreeInfo,Id,3,Content,item,translated,,PASS,10,,,,,The Ever Burning Flame,The Ever Burning Flame,
+lang_skillTree.db,RoleSkillTreeInfo,Id,7,Content,item,translated,,PASS,10,,,,,Vessel of Sound,Vessel of Sound,
+lang_skillTree.db,RoleSkillTreeInfo,Id,9,Content,item,translated,,PASS,10,,,,,Snow Dance Flora,Snow Dance Flora,
+lang_skillTree.db,RoleSkillTreeInfo,Id,11,Content,item,translated,,PASS,10,,,,,Power of Xuanwu,Power of Xuanwu,
+lang_skillTree.db,RoleSkillTreeInfo,Id,13,Content,item,translated,,PASS,10,,,,,Vessel of Sound,Vessel of Sound,
+lang_skillTree.db,RoleSkillTreeInfo,Id,15,Content,item,translated,,PASS,10,,,,,Sadness Enshroud,Sadness Enshroud,
+lang_skillTree.db,RoleSkillTreeInfo,Id,17,Content,item,translated,,PASS,10,,,,,Yin Yang Sheep,Yin Yang Sheep,
+lang_skillTree.db,RoleSkillTreeInfo,Id,19,Content,item,translated,,PASS,10,,,,,Crimson Blades,Crimson Blades,
+lang_skillTree.db,SkillInput,Id,1,Content,item,translated,,PASS,10,,,,,"Floating Sound Wave - Revolve: {1} when having 50 Sound Fragments.
+Normal Attack - Echo: {0} when effect triggered after using Floating Sound Wave - Revolve.","Sóng Âm Lơ Lửng - Xoay Vòng: {1} khi có 50 Mảnh Âm Thanh.
+Kỹ Năng Cơ Bản - Echo: {0} khi hiệu ứng kích hoạt sau khi sử dụng Sóng Âm Lơ Lửng - Xoay Vòng.",
+lang_skillTree.db,SkillInput,Id,2,Content,item,translated,,PASS,10,,,,,"Sound Blade - Normal Attack: {0}{0}{0}{0}
+Sound Blade - Heavy Attack: Hold {0}
+Sound Blade - Midair Attack: {0} in midair
+Sound Blade - Sonata: {0} while the effect trigger after Heavy attack/the 3rd normal attack
+Sound Blade - Reverberation"" {0} after hitting with Sonata.","Kiếm Âm - Kỹ Năng Cơ Bản: {0}{0}{0}{0}
+Kiếm Âm - Heavy Attack: Giữ {0}
+Kiếm Âm - Mid-air Attack: {0} trên không
+Kiếm Âm - Sonata: {0} khi kích hoạt hiệu ứng sau Heavy Attack/lần tấn công cơ bản thứ 3
+Kiếm Âm - Dư Âm: {0} sau khi trúng đích bằng Sonata.",
+lang_skillTree.db,SkillInput,Id,3,Content,item,translated,,PASS,10,,,,,Floating Sound Wave: {0},Sóng Âm Lơ Lửng: {0},
+lang_skillTree.db,SkillInput,Id,4,Content,item,translated,,PASS,10,,,,,Extreme Sound: {0} after fully charging,Âm Thanh Cực Độ: {0} sau khi sạc đầy,
+lang_skillTree.db,SkillInput,Id,5,Content,item,translated,,PASS,10,,,,,"Tremor: After fully charging Concerto Vibrancy, {0} within limited time.","Chấn Động: Sau khi nạp đầy Concerto Vibrancy, dùng {0} trong thời gian giới hạn.",
+lang_skillTree.db,SkillInput,Id,6,Content,item,translated,,PASS,10,,,,,"Stifle Fire: Hold {0} when have Thermobaric Bullet remain.
+Boom: Tap {1} after consuming 50 Thermobaric Bullets.","Dập Lửa: Giữ {0} khi còn Đạn Nhiệt Áp.
+Nổ: Nhấn {1} sau khi tiêu hao 50 Đạn Nhiệt Áp.",
+lang_skillTree.db,SkillInput,Id,7,Content,item,translated,,PASS,10,,,,,"Take This - Normal Attack: {0}{0}{0}{0}
+Take This - Heavy Attack: Hold {0} then release
+Take This - Midair Attack: Continuously tap {0} in midair","Nhận Đây - Kỹ Năng Cơ Bản: {0}{0}{0}{0}
+Nhận Đây - Heavy Attack: Giữ {0} rồi thả
+Nhận Đây - Mid-air Attack: Nhấn liên tục {0} trên không",
+lang_skillTree.db,SkillInput,Id,8,Content,item,translated,,PASS,10,,,,,Fighting Spirit: Tap {0},Tinh Thần Chiến Đấu: Nhấn {0},
+lang_skillTree.db,SkillInput,Id,9,Content,item,translated,,PASS,10,,,,,Let It Burn: {0} after fully charged,Hãy Cháy Lên: {0} sau khi sạc đầy,
+lang_skillTree.db,SkillInput,Id,10,Content,item,translated,,PASS,10,,,,,"Hero Landing: After fully charging Concerto Vibrancy, {0} within limited time.","Hạ Cánh Anh Hùng: Sau khi sạc đầy Concerto Vibrancy, {0} trong thời gian giới hạn.",
+lang_skillTree.db,SkillInput,Id,11,Content,item,translated,,PASS,10,,,,,"Sound of the Winds - Wind Strike: Hold {0} when having 3 Cleaving Winds.
+Sound of the Winds - Wind Strike: Tap {0} in midair when having 3 Cleaving Winds.","Âm Thanh Gió - Đòn Gió: Giữ {0} khi có 3 Lưỡi Gió.
+Âm Thanh Gió - Đòn Gió: Nhấn {0} trên không khi có 3 Lưỡi Gió.",
+lang_skillTree.db,SkillInput,Id,12,Content,item,translated,,PASS,10,,,,,"Wind Blade - Normal Attack: {0}{0}{0}{0}
+Wind Blade - Holding {0} and then release.
+Wind Blade - Midair Attack: {0} in midair","Lưỡi Gió - Normal Attack: {0}{0}{0}{0}
+Lưỡi Gió - Giữ {0} rồi thả.
+Lưỡi Gió - Mid-air Attack: {0} giữa không trung",
+lang_skillTree.db,SkillInput,Id,13,Content,item,translated,,PASS,10,,,,,Carrying Winds: {0},Gió Mang Theo: {0},
+lang_skillTree.db,SkillInput,Id,14,Content,item,translated,,PASS,10,,,,,New Wind Breeze: {0} after fully charging,Cơn Gió Mới: {0} sau khi sạc đầy,
+lang_skillTree.db,SkillInput,Id,15,Content,item,translated,,PASS,10,,,,,"Azure Hymn: After fully charging Concerto Vibrancy, {0} within limited time.","Thánh Ca Xanh: Sau khi sạc đầy Concerto Vibrancy, {0} trong thời gian giới hạn.",
+lang_skillTree.db,SkillInput,Id,16,Content,item,translated,,PASS,10,,,,,Icy Lotus: {0} when having Chilling Veins remain.,Hoa Sen Băng: {0} khi còn Chilling Veins.,
+lang_skillTree.db,SkillInput,Id,17,Content,item,translated,,PASS,10,,,,,"Draw the Line - Normal Attack: {0}{0}{0}{0}
+Draw the Line - Holding {0} and then release.
+Draw the Line - Midair Attack: {0} in midair","Kẻ Vạch Giới - Normal Attack: {0}{0}{0}{0}
+Kẻ Vạch Giới - Giữ {0} rồi thả.
+Kẻ Vạch Giới - Mid-air Attack: {0} giữa không trung",
+lang_skillTree.db,SkillInput,Id,18,Content,item,translated,,PASS,10,,,,,Fading Warmth: {0},Hơi Ấm Phai Dần: {0},
+lang_skillTree.db,SkillInput,Id,19,Content,item,translated,,PASS,10,,,,,Fading Warmth: {0},Hơi Ấm Phai Dần: {0},
+lang_skillTree.db,SkillInput,Id,20,Content,item,translated,,PASS,10,,,,,Don't Bother: Concerto Vibrancy reach {0},Đừng Làm Phiền: Concerto Vibrancy đạt {0},
+lang_skillTree.db,SkillInput,Id,23,Content,item,translated,,PASS,10,,,,,Don't Bother: Concerto Vibrancy reach {0},Đừng Làm Phiền: Concerto Vibrancy đạt {0},
+lang_skillTree.db,SkillInput,Id,24,Content,item,translated,,PASS,10,,,,,Don't Bother: Concerto Vibrancy reach {0},Đừng Làm Phiền: Concerto Vibrancy đạt {0},
+lang_skillTree.db,SkillInput,Id,25,Content,item,translated,,PASS,10,,,,,Don't Bother: Concerto Vibrancy reach {0},Đừng Làm Phiền: Concerto Vibrancy đạt {0},
+lang_skillTree.db,SkillInput,Id,28,Content,item,translated,,PASS,10,,,,,Don't Bother: Concerto Vibrancy reach {0},Đừng Làm Phiền: Concerto Vibrancy đạt {0},
+lang_skillTree.db,SkillInput,Id,29,Content,item,translated,,PASS,10,,,,,Don't Bother: Concerto Vibrancy reach {0},Đừng Làm Phiền: Concerto Vibrancy đạt {0},
+lang_skillTree.db,SkillInput,Id,30,Content,item,translated,,PASS,10,,,,,Don't Bother: Concerto Vibrancy reach {0},Đừng Làm Phiền: Concerto Vibrancy đạt {0},
+lang_skillTree.db,SkillInput,Id,32,Content,item,translated,,PASS,10,,,,,Don't Bother: Concerto Vibrancy reach {0},Đừng Làm Phiền: Concerto Vibrancy đạt {0},
+lang_skillTree.db,SkillInput,Id,33,Content,item,translated,,PASS,10,,,,,Don't Bother: Concerto Vibrancy reach {0},Đừng Làm Phiền: Concerto Vibrancy đạt {0},
+lang_skillTree.db,SkillInput,Id,34,Content,item,translated,,PASS,10,,,,,Don't Bother: Concerto Vibrancy reach {0},Đừng Làm Phiền: Concerto Vibrancy đạt {0},
+lang_skillTree.db,SkillInput,Id,35,Content,item,translated,,PASS,10,,,,,Don't Bother: Concerto Vibrancy reach {0},Đừng Làm Phiền: Concerto Vibrancy đạt {0},
+lang_skillTree.db,SkillInput,Id,38,Content,item,translated,,PASS,10,,,,,Don't Bother: Concerto Vibrancy reach {0},Đừng Làm Phiền: Concerto Vibrancy đạt {0},
+lang_skillTree.db,SkillInput,Id,39,Content,item,translated,,PASS,10,,,,,Don't Bother: Concerto Vibrancy reach {0},Đừng Làm Phiền: Concerto Vibrancy đạt {0},
+lang_skillTree.db,SkillInput,Id,40,Content,item,translated,,PASS,10,,,,,Don't Bother: Concerto Vibrancy reach {0},Đừng Làm Phiền: Concerto Vibrancy đạt {0},
+lang_skillTree.db,SkillInput,Id,42,Content,item,translated,,PASS,10,,,,,Don't Bother: Concerto Vibrancy reach {0},Đừng Làm Phiền: Concerto Vibrancy đạt {0},
+lang_skillTree.db,SkillInput,Id,43,Content,item,translated,,PASS,10,,,,,Don't Bother: Concerto Vibrancy reach {0},Đừng Làm Phiền: Concerto Vibrancy đạt {0},
+lang_skillTree.db,SkillInput,Id,44,Content,item,translated,,PASS,10,,,,,Don't Bother: Concerto Vibrancy reach {0},Đừng Làm Phiền: Concerto Vibrancy đạt {0},
+lang_skillTree.db,SkillInput,Id,45,Content,item,translated,,PASS,10,,,,,Don't Bother: Concerto Vibrancy reach {0},Đừng Làm Phiền: Concerto Vibrancy đạt {0},
+lang_skillTree.db,SkillInput,Id,47,Content,item,translated,,PASS,10,,,,,Don't Bother: Concerto Vibrancy reach {0},Đừng Làm Phiền: Concerto Vibrancy đạt {0},
+lang_skillTree.db,SkillInput,Id,48,Content,item,translated,,PASS,10,,,,,Don't Bother: Concerto Vibrancy reach {0},Đừng Làm Phiền: Concerto Vibrancy đạt {0},
+lang_skillTree.db,SkillInput,Id,49,Content,item,translated,,PASS,10,,,,,Don't Bother: Concerto Vibrancy reach {0},Đừng Làm Phiền: Concerto Vibrancy đạt {0},
+lang_skillTree.db,SkillInput,Id,50,Content,item,translated,,PASS,10,,,,,Don't Bother: Concerto Vibrancy reach {0},Đừng Làm Phiền: Concerto Vibrancy đạt {0},
+lang_skillTree.db,SkillInput,Id,51,Content,item,translated,,PASS,10,,,,,Don't Bother: Concerto Vibrancy reach {0},Đừng Làm Phiền: Concerto Vibrancy đạt {0},
+lang_skillTree.db,SkillInput,Id,52,Content,item,translated,,PASS,10,,,,,Don't Bother: Concerto Vibrancy reach {0},Đừng Làm Phiền: Concerto Vibrancy đạt {0},
+lang_skillTree.db,SkillInput,Id,54,Content,item,translated,,PASS,10,,,,,Don't Bother: Concerto Vibrancy reach {0},Đừng Làm Phiền: Concerto Vibrancy đạt {0},
+lang_skillTree.db,SkillInput,Id,55,Content,item,translated,,PASS,10,,,,,Don't Bother: Concerto Vibrancy reach {0},Đừng Làm Phiền: Concerto Vibrancy đạt {0},
+lang_skillTree.db,SkillInput,Id,59,Content,item,translated,,PASS,10,,,,,Don't Bother: Concerto Vibrancy reach {0},Đừng Làm Phiền: Concerto Vibrancy đạt {0},
+lang_skillTree.db,SkillInput,Id,60,Content,item,translated,,PASS,10,,,,,Don't Bother: Concerto Vibrancy reach {0},Đừng Làm Phiền: Concerto Vibrancy đạt {0},
+lang_skillTree.db,SkillInput,Id,63,Content,item,translated,,PASS,10,,,,,Don't Bother: Concerto Vibrancy reach {0},Đừng Làm Phiền: Concerto Vibrancy đạt {0},
+lang_skillTree.db,SkillInput,Id,65,Content,item,translated,,PASS,10,,,,,Don't Bother: Concerto Vibrancy reach {0},Đừng Làm Phiền: Concerto Vibrancy đạt {0},
+lang_skillTree.db,SkillInput,Id,69,Content,item,translated,,PASS,10,,,,,Don't Bother: Concerto Vibrancy reach {0},Đừng Làm Phiền: Concerto Vibrancy đạt {0},

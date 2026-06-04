@@ -1,0 +1,130 @@
+{
+  "db_updates": [
+    {
+      "db": "work_db_vi_mistral\\lang_multi_text.db",
+      "changes": 26,
+      "sample": [
+        {
+          "table": "MultiText",
+          "keys": {
+            "Id": "ReignsCard_700039_CardDesc"
+          },
+          "columns": [
+            "Content"
+          ]
+        },
+        {
+          "table": "MultiText",
+          "keys": {
+            "Id": "POI_HSBD_9_8"
+          },
+          "columns": [
+            "Content"
+          ]
+        },
+        {
+          "table": "MultiText",
+          "keys": {
+            "Id": "Main_Rinascita_2_11_8_6"
+          },
+          "columns": [
+            "Content"
+          ]
+        },
+        {
+          "table": "MultiText",
+          "keys": {
+            "Id": "Main_Rinascita_2_12_44_7"
+          },
+          "columns": [
+            "Content"
+          ]
+        },
+        {
+          "table": "MultiText",
+          "keys": {
+            "Id": "XJXYBGSST_28_3"
+          },
+          "columns": [
+            "Content"
+          ]
+        },
+        {
+          "table": "MultiText",
+          "keys": {
+            "Id": "BYZF_45_13"
+          },
+          "columns": [
+            "Content"
+          ]
+        },
+        {
+          "table": "MultiText",
+          "keys": {
+            "Id": "CD_TNWZ_17_8"
+          },
+          "columns": [
+            "Content"
+          ]
+        },
+        {
+          "table": "MultiText",
+          "keys": {
+            "Id": "MAIN_YHX_88_4"
+          },
+          "columns": [
+            "Content"
+          ]
+        },
+        {
+          "table": "MultiText",
+          "keys": {
+            "Id": "Main_LahaiRoi_YXBLDHJ_30_38"
+          },
+          "columns": [
+            "Content"
+          ]
+        },
+        {
+          "table": "MultiText",
+          "keys": {
+            "Id": "Main_LahaiRoi_YXBLDHJ_72_15"
+          },
+          "columns": [
+            "Content"
+          ]
+        }
+      ]
+    }
+  ],
+  "json_updates": [
+    "mistral_translate_work\\review\\lang_multi_text.json",
+    "mistral_translate_work\\review_translated_only\\lang_multi_text.json",
+    "mistral_translate_work\\split_by_prompt\\json\\story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0031.json",
+    "mistral_translate_work\\split_by_prompt\\json\\story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0082.json",
+    "mistral_translate_work\\split_by_prompt\\json\\story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0090.json",
+    "mistral_translate_work\\split_by_prompt\\json\\story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0116.json",
+    "mistral_translate_work\\split_by_prompt\\json\\story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0120.json",
+    "mistral_translate_work\\split_by_prompt\\json\\story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0123.json",
+    "mistral_translate_work\\split_by_prompt\\json\\story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0126.json",
+    "mistral_translate_work\\split_by_prompt\\json\\story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0127.json",
+    "mistral_translate_work\\split_by_prompt\\json\\story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0144.json",
+    "mistral_translate_work\\split_by_prompt\\json\\story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0151.json",
+    "mistral_translate_work\\split_by_prompt\\json\\story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0160.json",
+    "mistral_translate_work\\split_by_prompt\\json\\story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0162.json",
+    "mistral_translate_work\\split_by_prompt\\json\\story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0176.json",
+    "mistral_translate_work\\split_by_prompt\\json\\story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0217.json",
+    "mistral_translate_work\\split_by_prompt\\json\\story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0218.json",
+    "mistral_translate_work\\split_by_prompt\\json\\story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0225.json",
+    "mistral_translate_work\\split_by_prompt\\json\\story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0227.json",
+    "mistral_translate_work\\split_by_prompt\\json\\story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0228.json",
+    "mistral_translate_work\\split_by_prompt\\json\\story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0231.json",
+    "mistral_translate_work\\split_by_prompt\\json\\story_dialogue\\lang_multi_text\\lang_multi_text__story_dialogue__part_0232.json",
+    "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0001.json",
+    "mistral_translate_work\\split_by_prompt\\json\\lore\\lang_multi_text\\lang_multi_text__lore__part_0012.json"
+  ],
+  "csv_updates": [
+    "mistral_translate_work\\review\\lang_multi_text.csv",
+    "mistral_translate_work\\review_translated_only\\lang_multi_text.csv"
+  ]
+}

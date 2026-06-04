@@ -1,0 +1,4 @@
+*.pak filter=lfs diff=lfs merge=lfs -text
+mistral_translate_work/cache_mistral.json filter=lfs diff=lfs merge=lfs -text
+mistral_translate_work/review/*.json filter=lfs diff=lfs merge=lfs -text
+mistral_translate_work/review_translated_only/*.json filter=lfs diff=lfs merge=lfs -text

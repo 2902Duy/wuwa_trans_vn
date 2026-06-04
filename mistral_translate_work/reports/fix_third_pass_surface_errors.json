@@ -1,0 +1,38 @@
+{
+  "changes": [
+    {
+      "kind": "json",
+      "file": "name_title/lang_multi_text/lang_multi_text__name_title__part_0105.json",
+      "index": 88,
+      "split_id": "NAME_TITLE_0053531",
+      "primary_key": "Text_EditFormationFighting_Text",
+      "before": "Deployed",
+      "after": "Đã triển khai"
+    },
+    {
+      "kind": "json",
+      "file": "lore/lang_multi_text/lang_multi_text__lore__part_0003.json",
+      "index": 141,
+      "split_id": "LORE_0001427",
+      "primary_key": "MapMark_3018_MarkDesc",
+      "before": "\"Gió thì thầm, nước róc rách, chim líu lo. Mỗi âm thanh là một nốt nhạc tinh tế trong bản giao hưởng của những kỷ niệm đã qua.\"\nGather Windchimers và giao cho Xian'ge sẽ nhận được nhiều phần quà hấp dẫn.\nHãy tìm lại những Windchimers thất lạc và để giai điệu ấy ngân vang một lần nữa.",
+      "after": "\"Gió thì thầm, nước róc rách, chim líu lo. Mỗi âm thanh là một nốt nhạc tinh tế trong bản giao hưởng của những kỷ niệm đã qua.\"\nThu thập Windchimers và giao cho Xian'ge sẽ nhận được nhiều phần quà hấp dẫn.\nHãy tìm lại những Windchimers thất lạc và để giai điệu ấy ngân vang một lần nữa."
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "MapMark_3018_MarkDesc",
+      "before": "\"Gió thì thầm, nước róc rách, chim líu lo. Mỗi âm thanh là một nốt nhạc tinh tế trong bản giao hưởng của những kỷ niệm đã qua.\"\nGather Windchimers và giao cho Xian'ge sẽ nhận được nhiều phần quà hấp dẫn.\nHãy tìm lại những Windchimers thất lạc và để giai điệu ấy ngân vang một lần nữa.",
+      "after": "\"Gió thì thầm, nước róc rách, chim líu lo. Mỗi âm thanh là một nốt nhạc tinh tế trong bản giao hưởng của những kỷ niệm đã qua.\"\nThu thập Windchimers và giao cho Xian'ge sẽ nhận được nhiều phần quà hấp dẫn.\nHãy tìm lại những Windchimers thất lạc và để giai điệu ấy ngân vang một lần nữa."
+    },
+    {
+      "kind": "db",
+      "db": "lang_multi_text.db",
+      "table": "MultiText",
+      "id": "Text_EditFormationFighting_Text",
+      "before": "Deployed",
+      "after": "Đã triển khai"
+    }
+  ]
+}

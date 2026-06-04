@@ -1,0 +1,811 @@
+{
+  "count": 62,
+  "hits": [
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 43207,
+      "primary_key": "Bossch_detail_80",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Statuses",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "[Resistance]: This enemy has a higher <color=Fire>Fusion RES</color>.\n\n[Red Shift]: Reactor Husk enters the Huntfire state upon recovering from Immobilization for the first time. While in this state, the Vulnerable Core on its left arm will no longer be exposed under Negative Statuses. When the Vulnerable Core is exposed, Reactor Husk takes increased DMG. Huntfire ends when Reactor Husk is Immobilized again or when its left-arm armor is destroyed.\n\n[Death's Dance]: 3 minutes after the battle begins, Resonators' ATK is increased by 10% every 10s, up to 100%. The DMG taken by Resonators will also increase by 10% every 10s, with no stacking limit. All Resonators in the team lose 10% of their Max HP every 2s, until their HP reaches 20%.",
+      "translation_vi": "[Kháng Cự]: Kẻ địch này có <color=Fire>Kháng Fusion</color> cao hơn.\n\n[Dịch Chuyển Đỏ]: Khi hồi phục khỏi Trạng Thái Bất Động lần đầu, Reactor Husk bước vào trạng thái Săn Lửa. Trong trạng thái này, Lõi Dễ Tổn Thương trên cánh tay trái sẽ không còn lộ ra khi chịu Trạng Thái Tiêu Cực. Khi Lõi Dễ Tổn Thương lộ ra, Reactor Husk nhận sát thương tăng thêm. Trạng thái Săn Lửa kết thúc khi Reactor Husk bị Bất Động lần nữa hoặc khi giáp cánh tay trái bị phá hủy.\n\n[Điệu Nhảy Tử Thần]: Sau 3 phút giao tranh, Tấn Công của Cộng Hưởng Giả tăng 10% mỗi 10 giây, tối đa 100%. Sát thương nhận vào cũng tăng 10% mỗi 10 giây, không giới hạn chồng. Tất cả Cộng Hưởng Giả trong đội mất 10% HP tối đa mỗi 2 giây, cho đến khi HP còn dưới 20%."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 45741,
+      "primary_key": "TowerChallengeBuff_92008110_Desc",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Statuses",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Resonators ignore 25% of the enemy's DEF when dealing damage. When enemies are affected by Negative Statuses, their DMG taken is Amplified by 20%.",
+      "translation_vi": "Cộng Hưởng Giả bỏ qua 25% Phòng Ngự của kẻ địch khi gây sát thương. Khi kẻ địch bị Trạng Thái Tiêu Cực, sát thương nhận vào sẽ tăng 20%."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 46378,
+      "primary_key": "MonsterInfo_320000570_DiscoveredDes",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Statuses",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "This enemy has a <color=HighlightB>higher RES</color> to <color=Ice>Glacio DMG</color>.\n\nFrostbite Coleoid is immune to Glacio Chafe, but takes 80% more total DMG taken from other Negative Statuses and Echo Skill.\n\nA parasitic creature that lives inside Whisperin Tacet Discords, using the host's body as a cocoon and feeds on its frequency. Infection by Frostbite Coleoids causes combative behavior and a compulsion to feed on the frequencies of other Tacet Discords. After an incubation period, the Frostbite Coleoid abandons its host by breaking free from the host's back.",
+      "translation_vi": "Kẻ địch này có <color=HighlightB>kháng</color> <color=Ice>Sát Thương Glacio</color> cao hơn.\n\nBăng Giá Coleoid miễn nhiễm với Trạng Thái Tiêu Cực Glacio Chafe, nhưng chịu thêm 80% tổng sát thương từ các Trạng Thái Tiêu Cực khác và Kỹ Năng Echo.\n\nMột sinh vật ký sinh sống bên trong Tacet Discord Whisperin, dùng cơ thể vật chủ như kén và hấp thụ tần số của nó. Nhiễm Băng Giá Coleoid khiến vật chủ trở nên hung hãn và thôi thúc chúng hấp thụ tần số của các Tacet Discord khác. Sau thời gian ủ bệnh, Băng Giá Coleoid sẽ rời khỏi vật chủ bằng cách phá vỡ lưng nó."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 46381,
+      "primary_key": "MonsterInfo_320000580_DiscoveredDes",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Statuses",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "This enemy has a <color=HighlightB>higher RES</color> to <color=Wind>Aero DMG </color>.\n\nThe Windlash Coleoid is immune to Aero Erosion, but takes 80% more total DMG taken from other Negative Statuses and Echo Skill.\n\nA parasitic creature that lives inside Whisperin Tacet Discords, using the host's body as a cocoon and feeds on its frequency. Infection by Windlash Coleoids causes combative behavior and a compulsion to feed on the frequencies of other Tacet Discords. After an incubation period, the Windlash Coleoid abandons its host by breaking free from the host's back.",
+      "translation_vi": "Kẻ địch này có <color=HighlightB>kháng</color> <color=Wind>Sát Thương Aero</color> cao hơn.\n\nWindlash Coleoid miễn nhiễm với Aero Erosion, nhưng chịu thêm 80% tổng Sát Thương từ các Trạng Thái Tiêu Cực và Kỹ Năng Echo khác.\n\nMột sinh vật ký sinh sống bên trong Whisperin Tacet Discord, sử dụng cơ thể vật chủ như kén và hút lấy tần số của nó. Nhiễm Windlash Coleoid khiến vật chủ trở nên hung hăng và thôi thúc ăn tần số của các Tacet Discord khác. Sau thời gian ủ bệnh, Windlash Coleoid sẽ rời vật chủ bằng cách phá vỡ lưng nó."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 46397,
+      "primary_key": "MonsterInfo_340000220_DiscoveredDes",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Statuses",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "This enemy has a <color=HighlightB>higher RES</color> to <color=Fire>Fusion DMG</color>.\n\nReactor Husk's special ranged attack, Cinder Cut, can be deflected back, dealing damage to the Reactor Husk in return and reducing its Vibration Strength.\n\nAfter attacking or taking Counterattacks several times, a Vulnerable Core will be exposed on Reactor Husk's left arm. Attacking the exposed core will destroy Reactor Husk's armor, rendering it unable to attack.\n\nInflicting Negative Statuses on Reactor Husk immediately exposes the Vulnerable Core. If Reactor Husk's armor is destroyed while it is inflicted with Negative Statuses, then it takes 100% more total DMG from Negative Statuses for 30s. During this effect's period, the core will no longer be exposed.\n\nAfter the Reactor Drive was set above Lahai-Roi by the Exostrider, it remained on high alert to the activities of Aleph-1. \n\nWhen the Drive's immune response is triggered, a mechanized \"Reactor Husk\" will arise from the depths of the energy well, with the sole purpose of eliminating intruders at all costs.\n\nResearch by Spacetrek Collective shows that Reactor Husk was once part of the Exostrider. Both share a mission to resist the Threnodian threat and safeguard civilization.",
+      "translation_vi": "Kẻ địch này có <color=HighlightB>kháng cao</color> với <color=Fire>Sát Thương Fusion</color>.\n\nĐòn tấn công tầm xa đặc biệt Cinder Cut của Reactor Husk có thể bị phản đòn, gây sát thương ngược lại và giảm Vibration Strength của nó.\n\nSau khi tấn công hoặc chịu phản đòn nhiều lần, một Lõi Dễ Tổn Thương sẽ lộ ra trên cánh tay trái của Reactor Husk. Tấn công lõi này sẽ phá hủy giáp của Reactor Husk, khiến nó không thể tấn công.\n\nGây Trạng Thái Tiêu Cực cho Reactor Husk sẽ ngay lập tức lộ ra Lõi Dễ Tổn Thương. Nếu giáp của Reactor Husk bị phá hủy trong khi đang chịu Trạng Thái Tiêu Cực, tổng sát thương từ các Trạng Thái Tiêu Cực sẽ tăng 100% trong 30 giây. Trong thời gian hiệu ứng này, lõi sẽ không còn lộ ra.\n\nSau khi Reactor Drive được Exostrider thiết lập phía trên Lahai-Roi, nó luôn cảnh giác cao độ với các hoạt động của Aleph-1.\n\nKhi phản ứng miễn dịch của Drive được kích hoạt, một \"Reactor Husk\" cơ khí sẽ trỗi dậy từ lòng giếng năng lượng, với mục đích duy nhất là tiêu diệt kẻ xâm nhập bằng mọi giá.\n\nNghiên cứu của Spacetrek Collective cho thấy Reactor Husk từng là một phần của Exostrider. Cả hai đều chung sứ mệnh chống lại mối đe dọa Threnodian và bảo vệ nền văn minh."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 46449,
+      "primary_key": "MonsterInfo_340000280_DiscoveredDes",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Statuses",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "This enemy has a <color=HighlightB>higher RES</color> to <color=Fire>Fusion DMG</color>.\nDenia takes 25% more DMG from all Negative Statuses.\nShe takes 30% more total DMG for 15s under Frostbind.\n\n\"A Department of Voidmatters student at Startorch Academy. Also, a professional slacker who has mastered the art of dozing through courses. Still, she hardly misses any campus event, always there to flash her 'gentle' smile to one and all.\"\nAnd yet her name, her identity, her Resonance Ability, even the ties she claimed to others... all of it was a lie.\nBetween you and the Keystone stands nothing more but a puppet who came into existence only because of Aleph-1.",
+      "translation_vi": "Kẻ địch này có <color=HighlightB>kháng cao</color> với <color=Fire>Sát Thương Fusion</color>.\nDenia chịu thêm 25% sát thương từ tất cả Trạng Thái Tiêu Cực.\nCô chịu thêm 30% tổng sát thương trong 15 giây khi bị Frostbind.\n\n\"Một sinh viên Khoa Vật Chất Hư Không tại Học viện Startorch. Đồng thời là một kẻ lười biếng chuyên nghiệp, tinh thông nghệ thuật ngủ gật trong giờ học. Dù vậy, cô hầu như không bỏ lỡ sự kiện nào của trường, luôn xuất hiện với nụ cười 'dịu dàng' dành cho mọi người.\"\nNhưng tên tuổi, danh tính, Năng Lực Cộng Hưởng, thậm chí cả những mối quan hệ mà cô từng tuyên bố... tất cả đều là dối trá.\nGiữa ngươi và Keystone giờ chỉ còn một con rối, sinh ra chỉ vì Aleph-1."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 47386,
+      "primary_key": "TowerChallengeBuff_92008087_Desc",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Statuses",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "When inflicted with Negative Statuses, the enemy's DEF is increased by 10% and ATK is increased by 10% for 5s, stacking up to 3 times.",
+      "translation_vi": "Khi bị ảnh hưởng bởi Trạng Thái Tiêu Cực, DEF của kẻ địch tăng 10% và ATK tăng 10% trong 5 giây, có thể chồng chất lên đến 3 lần."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 47389,
+      "primary_key": "TowerChallengeBuff_92008090_Desc",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "All DMG other than Negative Status DMG taken by the enemies is reduced by 10%. This effect is inactive on enemies with Negative Statuses.",
+      "translation_vi": "Sát thương nhận vào (trừ sát thương Trạng Thái Tiêu Cực) của kẻ địch giảm 10%. Hiệu ứng này không hoạt động với kẻ địch đang mang Trạng Thái Tiêu Cực."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 47390,
+      "primary_key": "TowerChallengeBuff_92008091_Desc",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Resonators ignore 30% of the enemy's DEF when dealing damage. Negative Status DMG dealt by Resonators in the team is Amplified by 30%. When enemies are affected by Havoc Bane, their DMG taken is Amplified by 30%.",
+      "translation_vi": "Cộng Hưởng Giả bỏ qua 30% Phòng Ngự của kẻ địch khi gây sát thương. Sát Thương Trạng Thái Tiêu Cực do Cộng Hưởng Giả trong đội gây ra tăng 30%. Khi kẻ địch bị Nguyền Rủa Havoc, sát thương nhận vào sẽ tăng 30%."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 47393,
+      "primary_key": "TowerChallengeBuff_92008094_Desc",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Enemies take 40% more Resonance Liberation DMG. Enemies' Vibration Strength Reduction Rate is increased by 50%. When enemies are affected by Negative Status, their Vibration Strength Reduction Rate is additionally increased by 50%. When Resonators attack Immobilized enemies, their total DMG is increased by 50% for 20s. Retriggering the effect resets its duration.",
+      "translation_vi": "Kẻ địch chịu thêm 40% Sát Thương Resonance Liberation. Tỷ lệ Giảm Sức Rung của kẻ địch tăng thêm 50%. Khi bị Trạng Thái Tiêu Cực, tỷ lệ Giảm Sức Rung của chúng tăng thêm 50%. Khi Cộng Hưởng Giả tấn công kẻ địch Bất Động, tổng Sát Thương của họ tăng thêm 50% trong 20 giây. Kích hoạt lại hiệu ứng sẽ làm mới thời gian."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 47395,
+      "primary_key": "TowerChallengeBuff_92008096_Desc",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Enemies' take 40% increased Echo DMG, and Negative Status DMG is Amplified by 60%.\nCasting an Echo Skill grants Resonators in the team 1 stack of Crest Enhancement, stacking up to 5 times. The same Resonator cannot repeatedly trigger this effect with Echoes of the same name.\nAt stack 1/2/3/4/5, total DMG dealt is increased by 15%/20%/25%/30%/40%.",
+      "translation_vi": "Kẻ địch chịu Sát Thương Echo tăng 40%, và Sát Thương Trạng Thái Tiêu Cực được khuếch đại thêm 60%.\nSử dụng kỹ năng Echo sẽ giúp Cộng Hưởng Giả trong đội nhận 1 tầng Crest Enhancement, tối đa 5 tầng. Cộng Hưởng Giả không thể kích hoạt hiệu ứng này nhiều lần với Echo cùng tên.\nỞ tầng 1/2/3/4/5, tổng sát thương gây ra tăng lần lượt 15%/20%/25%/30%/40%."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 47407,
+      "primary_key": "TowerChallengeBuff_92008151_Desc",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Enemies' All-Attribute RES is increased by 15%. When the enemies take Negative Status DMG or are inflicted with Tunability - Shifting, this effect is removed.",
+      "translation_vi": "Kháng toàn thuộc tính của kẻ địch tăng 15%. Hiệu ứng này sẽ bị loại bỏ khi chúng chịu Sát Thương Trạng Thái Tiêu Cực hoặc bị ảnh hưởng bởi Tune Strain - Shifting."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 175288,
+      "primary_key": "GuideTutorialPage_34276_Content",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Statuses",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "In the Dimmr Plains Void Storm Zones, when a Resonator takes enemy damage, they gain 1 stack of Warp, increasing all DMG taken by 10%.\nCasting Tune Break Skill on the second wave of enemies restores HP to the Resonator and removes Warp. When the Resonator attacks enemies or inflicts Negative Statuses, enemies lose HP over time for a certain duration. This effect can stack.",
+      "translation_vi": "Trong các Khu Vực Bão Hư Không tại Đồng Bằng Dimmr, khi Cộng Hưởng Giả chịu sát thương từ kẻ địch, họ sẽ nhận 1 lớp Hư Không, làm tăng 10% toàn bộ sát thương nhận vào.\nSử dụng Kỹ Năng Phá Âm ở đợt kẻ địch thứ hai sẽ phục hồi HP cho Cộng Hưởng Giả và loại bỏ Hư Không. Khi Cộng Hưởng Giả tấn công kẻ địch hoặc gây Trạng Thái Tiêu Cực, kẻ địch sẽ mất HP theo thời gian trong một khoảng thời gian nhất định. Hiệu ứng này có thể chồng chất."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 175890,
+      "primary_key": "Skill_1004208_MultiSkillDescribe",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Grant <color=Highlight>Resonant Thread of Closure</color> to all nearby Resonators in the team for {0}s.\nWhile in <color=Highlight>Resonant Thread of Closure</color>:\n- When an attack hits, increase the max stacks of <color=Highlight><te href=850180>Negative Status</te></color> and <color=Highlight><te href=150806>Electro Rage</te></color> the target can receive by {1} for {2}s. Unstackable.\n- Inflicting <color=Highlight><te href=850180>Negative Status</te></color> or dealing <color=Highlight><te href=150811>Negative Status DMG</te></color> grants <color=Highlight><te href=150802>Thread of Bane</te></color> for {3}s.",
+      "translation_vi": "Trao <color=Highlight>Sợi Dây Cộng Hưởng Kết Thúc</color> cho tất cả Cộng Hưởng Giả gần đó trong đội trong {0} giây.\nKhi ở trong <color=Highlight>Sợi Dây Cộng Hưởng Kết Thúc</color>:\n- Khi tấn công trúng, tăng số tầng tối đa của <color=Highlight><te href=850180>Trạng Thái Tiêu Cực</te></color> và <color=Highlight><te href=150806>Điên Cuồng Điện</te></color> mục tiêu có thể nhận thêm {1} trong {2} giây. Không thể chồng chất.\n- Gây <color=Highlight><te href=850180>Trạng Thái Tiêu Cực</te></color> hoặc gây <color=Highlight><te href=150811>Sát Thương Trạng Thái Tiêu Cực</te></color> sẽ nhận <color=Highlight><te href=150802>Sợi Dây Tai Họa</te></color> trong {3} giây."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 175896,
+      "primary_key": "Skill_1004209_SkillResume",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "All Resonators in the nearby team obtain the following effects:\n- When an attack hits, increase the max stacks of <color=Highlight>Negative Status</color> and <color=Highlight>Electro Rage</color> the target can receive.\n- Inflicting <color=Highlight>Negative Status</color> or dealing <color=Highlight>Negative Status DMG</color> grants <color=Highlight>Thread of Bane</color>.\n<size=10></size>\n<size=40><color=Title>Thread of Bane</color></size>\nIgnore some of the marked targets' DEF when dealing damage.",
+      "translation_vi": "Tất cả Cộng Hưởng Giả trong đội gần đó nhận các hiệu ứng sau:\n- Khi tấn công trúng mục tiêu, tăng số tầng tối đa của <color=Highlight>Trạng Thái Tiêu Cực</color> và <color=Highlight>Điên Cuồng Electro</color> mà mục tiêu có thể chịu.\n- Gây <color=Highlight>Trạng Thái Tiêu Cực</color> hoặc gây <color=Highlight>Sát Thương Trạng Thái Tiêu Cực</color> sẽ nhận được <color=Highlight>Sợi Chỉ Tà Ác</color>.\n<size=10></size>\n<size=40><color=Title>Sợi Chỉ Tà Ác</color></size>\nBỏ qua một phần Phòng Ngự của mục tiêu đã đánh dấu khi gây sát thương."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 175998,
+      "primary_key": "WeaponConf_21010056_Desc",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Statuses",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "ATK is increased by {0}. When the wielder casts Intro Skill or inflicts Negative Statuses, they gain {1} Resonance Liberation DMG Bonus, stacking up to {2} times for {3}s.\nAt max stacks, when Resonators in the team inflict Negative Statuses, they gain {4} All-Attribute DMG Bonus for {5}s. Effects of the same name cannot be stacked.",
+      "translation_vi": "Tấn Công tăng thêm {0}. Khi người sử dụng thi triển Kỹ Năng Giới Thiệu hoặc gây Trạng Thái Tiêu Cực, họ nhận thêm {1} Sát Thương Giải Phóng Cộng Hưởng, có thể tích lũy tối đa {2} lần trong {3} giây.\nKhi đạt tối đa lượt tích lũy, nếu Cộng Hưởng Giả trong đội gây Trạng Thái Tiêu Cực, họ sẽ nhận thêm {4} Tăng Sát Thương Toàn Thuộc Tính trong {5} giây. Hiệu ứng cùng tên không thể chồng chất."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 180109,
+      "primary_key": "Skill_1003509_SkillResume",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Statuses",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "<color=Wind>Aero DMG</color> dealt by other active Resonators in the team to targets with <color=Highlight>Negative Statuses</color> is Amplified.",
+      "translation_vi": "Sát thương <color=Wind>Aero</color> gây ra bởi các Cộng Hưởng Giả khác trong đội lên mục tiêu có <color=Highlight>Trạng Thái Tiêu Cực</color> được Khuếch Đại."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 182148,
+      "primary_key": "WheelBattle_1_Boss3_Desc",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Statuses",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "<color=Highlight>Sentry Construct</color>\n - For 15s after defeating Sentry Construct, all Resonators in the team are immune to damage.\n - When Sentry Construct is in mid-air, it deals 30% more DMG. If it's affected by <color=Highlight>Negative Statuses</color> or <color=Highlight>Tunability - Shifting</color>, Resonators' Vibration Strength Reduction Rate is increased by 50%.\n [Unlocked in Round 2] Sentry Construct's behavior changes. Counterattacks can no longer knock it down from mid-air.",
+      "translation_vi": "<color=Highlight>Sentry Construct</color>\n- Trong 15 giây sau khi đánh bại Sentry Construct, tất cả Cộng Hưởng Giả trong đội miễn nhiễm sát thương.\n- Khi Sentry Construct ở trên không, nó gây thêm 30% Sát Thương. Nếu bị ảnh hưởng bởi <color=Highlight>Trạng Thái Tiêu Cực</color> hoặc <color=Highlight>Tunability - Shifting</color>, tỷ lệ giảm Sức Mạnh Rung Động của Cộng Hưởng Giả tăng 50%.\n[Mở khóa ở Vòng 2] Hành vi của Sentry Construct thay đổi. Đòn phản công không còn hạ gục nó khỏi không trung."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 182152,
+      "primary_key": "WheelBattle_2_Boss3_Desc",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Statuses",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "<color=Highlight>Sentry Construct</color>\n- For 15s after defeating Sentry Construct, all Resonators in the team are immune to damage.\n- When Sentry Construct is in mid-air, it deals 30% more DMG. If it's affected by <color=Highlight>Negative Statuses</color> or <color=Highlight>Tunability - Shifting</color>, Resonators' Vibration Strength Reduction Rate is increased by 50%.\n- Sentry Construct's behavior changes. Counterattacks can no longer knock it down from mid-air.",
+      "translation_vi": "<color=Highlight>Sentry Construct</color>\n- Sau khi đánh bại Sentry Construct, tất cả Cộng Hưởng Giả trong đội sẽ miễn nhiễm sát thương trong 15 giây.\n- Khi Sentry Construct ở trên không, sát thương gây ra tăng 30%. Nếu bị ảnh hưởng bởi <color=Highlight>Trạng Thái Tiêu Cực</color> hoặc <color=Highlight>Tunability - Shifting</color>, tỷ lệ giảm Sức Mạnh Rung Động của Cộng Hưởng Giả tăng 50%.\n- Hành vi của Sentry Construct thay đổi. Các đòn phản công không còn khiến nó bị hất ngã khi đang trên không."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 182154,
+      "primary_key": "WheelBattle_BUFF1_Name",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Enhancement: Negative Status",
+      "translation_vi": "Nâng Cấp: Trạng Thái Tiêu Cực"
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 182300,
+      "primary_key": "WheelBattle_1_Boss6_Desc",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Statuses",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "<color=Highlight>Sentry Construct</color>\n- For 15s after defeating Sentry Construct, all Resonators in the team are immune to damage.\n- Vibration Strength Reduction taken by Sentry Construct is reduced by 25%. When Sentry Construct is in mid-air, it deals 30% more DMG. If it's affected by <color=Highlight>Negative Statuses</color> or <color=Highlight>Tunability - Shifting</color>, Resonators' Vibration Strength Reduction Rate is increased by 50%.\n[Unlocked in Round 2] Sentry Construct's ATK is increased by 3% every 5s, stacking up to 10 times. Immobilizing it clears all stacks and pauses the stacking.",
+      "translation_vi": "<color=Highlight>Sentry Construct</color>\n- Sau khi đánh bại Sentry Construct, tất cả Cộng Hưởng Giả trong đội sẽ miễn nhiễm sát thương trong 15 giây.\n- Mức giảm Sức Mạnh Rung Động mà Sentry Construct phải chịu giảm 25%. Khi Sentry Construct ở trên không, sát thương gây ra tăng 30%. Nếu bị ảnh hưởng bởi <color=Highlight>Trạng Thái Tiêu Cực</color> hoặc <color=Highlight>Tunability - Shifting</color>, tỷ lệ giảm Sức Mạnh Rung Động của Cộng Hưởng Giả tăng 50%.\n[Mở khóa ở Vòng 2] Tấn Công của Sentry Construct tăng 3% mỗi 5 giây, tối đa 10 lần cộng dồn. Bị hóa đá sẽ xóa toàn bộ cộng dồn và tạm dừng hiệu ứng."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 182302,
+      "primary_key": "WheelBattle_2_Boss6_Desc",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Statuses",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "<color=Highlight>Sentry Construct</color>\n- For 15s after defeating Sentry Construct, all Resonators in the team are immune to damage.\n- Vibration Strength Reduction taken by Sentry Construct is reduced by 25%. When Sentry Construct is in mid-air, it deals 30% more DMG. If it's affected by <color=Highlight>Negative Statuses</color> or <color=Highlight>Tunability - Shifting</color>, Resonators' Vibration Strength Reduction Rate is increased by 50%.\n- Sentry Construct's ATK is increased by 3% every 5s, stacking up to 10 times. Immobilizing it clears all stacks and pauses the stacking.",
+      "translation_vi": "<color=Highlight>Sentry Construct</color>\n- Sau khi đánh bại Sentry Construct, tất cả Cộng Hưởng Giả trong đội sẽ miễn nhiễm sát thương trong 15 giây.\n- Mức giảm Sức Mạnh Rung Động mà Sentry Construct phải chịu giảm 25%. Khi Sentry Construct ở trên không, sát thương gây ra tăng 30%. Nếu bị ảnh hưởng bởi <color=Highlight>Trạng Thái Tiêu Cực</color> hoặc <color=Highlight>Tunability - Shifting</color>, tỷ lệ giảm Sức Mạnh Rung Động của Cộng Hưởng Giả tăng 50%.\n- Tấn Công của Sentry Construct tăng 3% mỗi 5 giây, tối đa 10 lần cộng dồn. Bị hóa đá sẽ xóa toàn bộ cộng dồn và tạm dừng hiệu ứng."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 182306,
+      "primary_key": "WheelBattle_BUFF10_Name",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Enhancement: Negative Status",
+      "translation_vi": "Nâng Cấp: Trạng Thái Tiêu Cực"
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 182364,
+      "primary_key": "WheelBattle_BUFF14_Name",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Enhancement: Negative Status",
+      "translation_vi": "Nâng Cấp: Trạng Thái Tiêu Cực"
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 182401,
+      "primary_key": "WheelBattle_BUFF18_Name",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Enhancement: Negative Status",
+      "translation_vi": "Nâng Cấp: Trạng Thái Tiêu Cực"
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 182411,
+      "primary_key": "WheelBattle_1_Boss12_Desc",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Reactor Husk's ATK is increased by 20%. After taking Negative Status DMG, Reactor Husk's ATK is decreased by 20% instead.",
+      "translation_vi": "Tấn Công của Vỏ Lò Phản Ứng tăng 20%. Sau khi chịu Sát Thương Trạng Thái Tiêu Cực, thay vào đó, Tấn Công của Vỏ Lò Phản Ứng sẽ giảm 20%."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 182412,
+      "primary_key": "WheelBattle_1_Boss13_Desc",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "When Scar hits a Resonator, the Resonator loses 3% of Max HP per second for 6s when they are on the field. This effect cannot reduce HP to 0.\nWhen a Resonator's HP is full, their Vibration Strength Reduction Rate is increased by 40%.\nFusion Burst DMG taken by Scar is increased by 100%. Upon taking Negative Status DMG, Scar's attacks no longer inflict the HP depletion effect.",
+      "translation_vi": "Khi Scar tấn công Cộng Hưởng Giả, mục tiêu sẽ mất 3% HP tối đa mỗi giây trong 6 giây khi ở trên chiến trường. Hiệu ứng này không thể hạ HP xuống 0.\nKhi HP của Cộng Hưởng Giả ở mức đầy, Tỷ Lệ Giảm Sức Rung của họ tăng 40%.\nScar chịu thêm 100% Sát Thương Fusion Burst. Sau khi nhận Sát Thương Trạng Thái Tiêu Cực, các đòn tấn công của Scar sẽ không còn gây hiệu ứng giảm HP."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 186415,
+      "primary_key": "RogueResSynergyName_1001007_2",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "<color=Highlight>Activated if the team's active Resonator is Rover</color>\nRover gains different bonuses specific to the Attribute:\n- Rover: Spectro: Hitting a target with Basic Attack inflicts <SapTag=0>{0}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=0} of Spectro Frazzle, triggered once every {1}s. Rover's Crit. DMG is increased by {2} every time targets take DMG from a Negative Status, stacking up to {3} times.\n- Rover: Havoc: Reduce Resonance Skill cooldown by {4}. Damage dealt by Rover's Resonance Skill restores HP equal to {5} of ATK, triggered once every {6}s.\n- Rover: Aero: Increase Crit. DMG by {7} when Rover is in mid-air.",
+      "translation_vi": "<color=Highlight>Kích hoạt nếu Cộng Hưởng Giả đang hoạt động trong đội là Rover</color>\nRover nhận các hiệu ứng thưởng đặc trưng theo Thuộc Tính:\n- Rover: Spectro: Khi đánh trúng mục tiêu bằng Đòn Cơ Bản, gây <SapTag=0>{0}</SapTag> {Cus:Sap,S= tầng P= tầng} Spectro Frazzle, kích hoạt mỗi {1} giây một lần. Sát Thương Bạo Kích của Rover tăng {2} mỗi khi mục tiêu chịu Sát Thương từ Trạng Thái Tiêu Cực, tối đa {3} tầng.\n- Rover: Havoc: Giảm thời gian hồi chiêu của Kỹ Năng Cộng Hưởng đi {4}. Sát Thương gây ra bởi Kỹ Năng Cộng Hưởng của Rover hồi phục HP bằng {5} Tấn Công, kích hoạt mỗi {6} giây một lần.\n- Rover: Aero: Tăng Sát Thương Bạo Kích thêm {7} khi Rover ở trên không."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 186447,
+      "primary_key": "RogueResSynergyName_1001015_L1",
+      "status": "needs_review",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Statuses",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "<color=Highlight>Activated upon having 3 Bond Members in the team</color>\nWhen in Synergy Burst:\nAfter inflicting Negative Statuses <SapTag=0>{0}</SapTag> {Cus:Sap,S=time P=times SapTag=0} on a target, summon 1 Sword of Divinity, dealing Aero DMG equal to {1} of ATK to nearby targets.",
+      "translation_vi": "Kích hoạt khi đội hình có 3 thành viên Liên Kết\nKhi ở trạng thái Đồng Bộ Bùng Nổ:\nSau khi gây hiệu ứng Trạng Thái Tiêu Cực <SapTag=0>{0}</SapTag> lần lên mục tiêu, triệu hồi 1 Kiếm Thần Thánh, gây sát thương Aero bằng {1} Tấn Công lên các mục tiêu xung quanh."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 186563,
+      "primary_key": "BabelDebuff_10000112_BuffDesc",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Enemies' <color=#5cc96aff>Attribute RES is reduced by 30%</color>. Dealing <color=#b72924ff>Resonance Skill DMG</color> to enemies with any <color=#b72924ff>Negative Status</color> inflicts <color=#b72924ff>5</color> stacks of <color=#b72924ff>Spectro Frazzle</color> on the Resonator.",
+      "translation_vi": "<color=#5cc96aff>Kháng Thuộc Tính của kẻ địch giảm 30%</color>. Gây <color=#b72924ff>Sát Thương Kỹ Năng Cộng Hưởng</color> lên kẻ địch đang mang <color=#b72924ff>Trạng Thái Tiêu Cực</color> sẽ áp đặt <color=#b72924ff>5</color> tầng <color=#b72924ff>Spectro Frazzle</color> lên Cộng Hưởng Giả."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 186564,
+      "primary_key": "BabelDebuff_10000113_BuffDesc",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Enemies' <color=#b72924ff>Attribute RES is increased by 30%</color>. Dealing damage to enemies with any <color=#5cc96aff>Negative Status</color> removes all <color=#5cc96aff>Negative Statuses</color> on Resonators themselves.",
+      "translation_vi": "<color=#b72924ff>Kháng Thuộc Tính của kẻ địch tăng 30%</color>. Gây sát thương lên kẻ địch đang mang <color=#5cc96aff>Trạng Thái Tiêu Cực</color> sẽ xóa toàn bộ <color=#5cc96aff>Trạng Thái Tiêu Cực</color> trên bản thân Cộng Hưởng Giả."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 188623,
+      "primary_key": "Activity_1162_Description",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "All Negative Status DMG is Amplified by 100%.",
+      "translation_vi": "Tất cả sát thương Trạng Thái Tiêu Cực được khuếch đại thêm 100%."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 188624,
+      "primary_key": "Activity_1163_Description",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Statuses",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Defeating targets affected by <color=Highlight>Negative Statuses</color> leaves behind Ceaseless Chant.",
+      "translation_vi": "Tiêu diệt mục tiêu bị ảnh hưởng bởi <color=Highlight>Trạng Thái Tiêu Cực</color> sẽ để lại Ceaseless Chant."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 188650,
+      "primary_key": "InstanceDungeon_8724_Tips",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Hypnotic Chant\nLv. 0: All <color=Highlight>Negative Status</color> DMG is Amplified by 100%. Cannot be downed during the challenge.\nLv. 1: Defeating a target affected by <color=Highlight>Negative Statuses</color> leaves behind a Ceaseless Chant, dealing <color=Ice>Glacio DMG</color> per second to nearby targets.\nLv. 2: Damage dealt to enemies affected by <color=Highlight>Negative Statuses</color> is Amplified by 100%. Defeating such enemies applies 1 stack of the same <color=Highlight>Negative Status</color> to nearby targets. Ceaseless Chant DMG is increased by 100%.\nLv. 3: Ceaseless Chant DMG is further increased. It explodes every 4s, dealing additional damage and increasing affected targets' <color=Highlight>Negative Status</color> stacks by 1.",
+      "translation_vi": "Thánh Ca Thôi Miên\nCấp 0: Tất cả <color=Highlight>Sát Thương Trạng Thái Tiêu Cực</color> được Khuếch Đại thêm 100%. Không thể bị hạ gục trong thử thách.\nCấp 1: Khi đánh bại mục tiêu chịu <color=Highlight>Trạng Thái Tiêu Cực</color>, sẽ để lại một Bản Thánh Ca Bất Tận, gây <color=Ice>Sát Thương Glacio</color> mỗi giây lên các mục tiêu xung quanh.\nCấp 2: Sát thương gây ra lên kẻ địch chịu <color=Highlight>Trạng Thái Tiêu Cực</color> được Khuếch Đại thêm 100%. Khi đánh bại chúng, sẽ áp dụng 1 tầng <color=Highlight>Trạng Thái Tiêu Cực</color> tương tự lên các mục tiêu xung quanh. Sát thương Bản Thánh Ca Bất Tận tăng thêm 100%.\nCấp 3: Sát thương Bản Thánh Ca Bất Tận tiếp tục tăng. Mỗi 4 giây, nó sẽ phát nổ, gây thêm sát thương và tăng 1 tầng <color=Highlight>Trạng Thái Tiêu Cực</color> cho các mục tiêu bị ảnh hưởng."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 188833,
+      "primary_key": "Morale_32_RoleBuffDesc0_13",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Attacks have a chance to inflict Negative Statuses on hit. DMG is Amplified for each stack of Negative Status inflicted.",
+      "translation_vi": "Đòn tấn công có xác suất gây Trạng Thái Tiêu Cực khi trúng đích. Sát Thương sẽ được Khuếch Đại theo từng lớp Trạng Thái Tiêu Cực."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 188846,
+      "primary_key": "Morale_32_RoleBuffDesc1_13",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Your attacks have a chance to inflict <color=Highlight>1</color> stack of either Fusion Burst, Aero Erosion, Spectro Frazzle, Electro Flare, or Havoc Bane on hit. This effect can be triggered <color=Highlight>once</color> every <color=Highlight>0.5s</color>. Gain <color=Highlight>1%</color> DMG Amplification for each stack of Negative Status inflicted on the target for <color=Highlight>4s</color>, stacking up to <color=Highlight>30</color> times.",
+      "translation_vi": "Các đòn tấn công của cậu có xác suất gây <color=Highlight>1</color> tầng hiệu ứng Fusion Burst, Aero Erosion, Spectro Frazzle, Electro Flare hoặc Havoc Bane khi trúng mục tiêu. Hiệu ứng này chỉ kích hoạt <color=Highlight>một lần</color> mỗi <color=Highlight>0.5 giây</color>. Mỗi tầng Trạng Thái Tiêu Cực trên mục tiêu sẽ tăng <color=Highlight>1%</color> Khuếch Đại Sát Thương cho cậu trong <color=Highlight>4 giây</color>, tối đa <color=Highlight>30</color> tầng."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 189136,
+      "primary_key": "Morale_32_FlagDescLv4_8",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "This enemy has a <color=HighlightB>higher RES</color> to <color=Ice>Glacio DMG</color>, and can inflict Glacio Chafe to its target upon hit. Resonators can remove, and in turn inflict Glacio Chafe when applying the enemy with Negative Status.\n\nA precise and powerful battle machine that has been refitted with special technology. It carries out its master's commands with absolute loyalty.\n\nAny trace of its original form has faded, leaving only finely honed combat instincts within its frequencies. As an unyielding guardian, it adapts seamlessly to all types of combat. When needed, it activates a unique component to enhance mobility or unleashes all its energy in a devastating blast.\n\nThe Montelli Family, voyaging from distant shores, has seen a wider world—and they are willing to pay any price to gain the strength needed to revive their homeland.",
+      "translation_vi": "Kẻ địch này có <color=HighlightB>kháng cao</color> với <color=Ice>Sát Thương Glacio</color> và có thể gây Glacio Chafe lên mục tiêu khi tấn công. Cộng Hưởng Giả có thể loại bỏ và gây lại Glacio Chafe khi áp dụng Trạng Thái Tiêu Cực lên kẻ địch.\n\nMột cỗ máy chiến đấu chính xác và mạnh mẽ được cải tiến bằng công nghệ đặc biệt. Nó thực hiện mệnh lệnh của chủ nhân với lòng trung thành tuyệt đối.\n\nMọi dấu vết về hình dáng ban đầu đều đã phai mờ, chỉ còn lại bản năng chiến đấu được mài giũa tinh tế trong tần số của nó. Là một vệ sĩ bất khuất, nó thích nghi hoàn hảo với mọi loại hình chiến đấu. Khi cần, nó kích hoạt một bộ phận đặc biệt để tăng cường khả năng di chuyển hoặc giải phóng toàn bộ năng lượng trong một vụ nổ hủy diệt.\n\nGia tộc Montelli, những kẻ du hành từ phương xa, đã chứng kiến một thế giới rộng lớn hơn—và họ sẵn sàng trả bất cứ giá nào để có được sức mạnh cần thiết hồi sinh quê hương."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 189474,
+      "primary_key": "RougeMiraclecreation_13005008_BriefDescribe",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Statuses",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "When nearby enemies take DMG from Negative Statuses, instantly reduces specific skill Cooldowns and restores Resonance Energy.",
+      "translation_vi": "Khi kẻ địch gần đó chịu Sát Thương từ Trạng Thái Tiêu Cực, sẽ giảm ngay thời gian hồi chiêu của một số kỹ năng nhất định và hồi Năng Lượng Cộng Hưởng."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 189512,
+      "primary_key": "RougeMiraclecreation_13005008_Describe",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Statuses",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "When nearby enemies take DMG from Negative Statuses, instantly reduces <color=Highlight>Resonance Liberation</color> Cooldown and <color=Highlight>Resonance Skill</color> Cooldown by {0} and restores {1} points of <color=Highlight>Resonance Energy</color>. This effect is triggered once every second.",
+      "translation_vi": "Khi kẻ địch gần đó chịu Sát Thương từ Trạng Thái Tiêu Cực, sẽ giảm ngay thời gian hồi chiêu của <color=Highlight>Giải Phóng Cộng Hưởng</color> và <color=Highlight>Kỹ Năng Cộng Hưởng</color> đi {0} giây và hồi {1} điểm <color=Highlight>Năng Lượng Cộng Hưởng</color>. Hiệu ứng này kích hoạt mỗi giây một lần."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 191062,
+      "primary_key": "RogueBuffPool_335302_BuffDesc",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Dealing Negative Status DMG on an enemy additionally inflicts {0} stacks of Chaos at the next attack.",
+      "translation_vi": "Gây Sát Thương Trạng Thái Tiêu Cực lên kẻ địch sẽ cộng thêm {0} lớp Hỗn Loạn vào đòn tấn công tiếp theo."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 191063,
+      "primary_key": "RogueBuffPool_335303_BuffDesc",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Each time an enemy takes Negative Status DMG, restores all team members' HP equal to {0} of their Max HP.",
+      "translation_vi": "Mỗi khi kẻ địch chịu Sát Thương Trạng Thái Tiêu Cực, tất cả thành viên trong đội sẽ hồi HP bằng {0} HP tối đa của họ."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 191074,
+      "primary_key": "RogueBuffPool_335102_BuffDesc",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Each time an enemy takes Negative Status DMG, restores the active Resonator's HP equal to {0} of their ATK, triggered once every {1}s.",
+      "translation_vi": "Mỗi khi kẻ địch chịu Sát Thương Trạng Thái Tiêu Cực, Cộng Hưởng Giả đang hoạt động sẽ hồi HP bằng {0} Tấn Công của bản thân, kích hoạt mỗi {1} giây một lần."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 191212,
+      "primary_key": "RogueBuffPool_335302_BuffDesc_0",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Dealing Negative Status DMG on an enemy additionally inflicts Chaos.",
+      "translation_vi": "Gây Sát Thương Trạng Thái Tiêu Cực lên kẻ địch còn gây thêm hiệu ứng Hỗn Loạn."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 191213,
+      "primary_key": "RogueBuffPool_335303_BuffDesc_0",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Each time an enemy takes Negative Status DMG, restores all team members' HP.",
+      "translation_vi": "Mỗi khi kẻ địch chịu Sát Thương Trạng Thái Tiêu Cực, tất cả thành viên trong đội sẽ được hồi HP."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 191221,
+      "primary_key": "RogueBuffPool_335207_BuffDesc_0",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Enemies take more DMG for each type of Negative Status they have.",
+      "translation_vi": "Kẻ địch chịu thêm sát thương tương ứng với mỗi loại Trạng Thái Tiêu Cực mà chúng đang mang."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 191224,
+      "primary_key": "RogueBuffPool_335102_BuffDesc_0",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Each time an enemy takes Negative Status DMG, restores the active Resonator's HP.",
+      "translation_vi": "Mỗi khi kẻ địch chịu Sát Thương Trạng Thái Tiêu Cực, Cộng Hưởng Giả đang hoạt động sẽ được hồi HP."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 191272,
+      "primary_key": "RogueBuffPool_6002_BuffDesc",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Dark Slash deals additional DMG equal to {0} of ATK and Amplifies Negative Status DMG dealt to the target by {1} for {2}s.",
+      "translation_vi": "Đòn Kiếm Bóng Tối gây thêm Sát Thương bằng {0} Tấn Công và Khuếch Đại Sát Thương Trạng Thái Tiêu Cực tác động lên mục tiêu thêm {1} trong {2} giây."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 191275,
+      "primary_key": "RogueBuffPool_6001_BuffDesc_0",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Dark Slash deals extra DMG on hit. The target takes increased DMG for every stack of Negative Status they have. It also inflicts various types of Negative Status.",
+      "translation_vi": "Đòn Kiếm Bóng Tối gây thêm Sát Thương khi trúng đích. Mục tiêu chịu nhiều Sát Thương hơn với mỗi tầng Trạng Thái Tiêu Cực. Kỹ năng này còn gây ra nhiều loại Trạng Thái Tiêu Cực khác nhau."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 191276,
+      "primary_key": "RoguePokemonDesc_shenwang",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "[Negative Status] False Sovereign inflicts every Negative Status type on enemies, dealing massive damage that scales with the total number of stacks they possess.",
+      "translation_vi": "[\"Trạng Thái Tiêu Cực\"] False Sovereign giáng mọi loại Trạng Thái Tiêu Cực lên kẻ địch, gây sát thương khủng khiếp tỉ lệ thuận với tổng số lượt cộng dồn chúng đang mang."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 200960,
+      "primary_key": "RogueBuffPool_6002_BuffDesc_0",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Dark Slash deals additional DMG and Amplifies Negative Status DMG dealt to the target.",
+      "translation_vi": "Đòn Kiếm Bóng Tối gây thêm Sát Thương và Khuếch Đại Sát Thương Trạng Thái Tiêu Cực tác động lên mục tiêu."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 200961,
+      "primary_key": "RogueBuffPool_6003_BuffDesc_0",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Constantly inflicting Negative Status on the target summons False Sovereign to cast Deluge Judgment.",
+      "translation_vi": "Liên tục gây Trạng Thái Tiêu Cực lên mục tiêu sẽ triệu hồi False Sovereign để thi triển Deluge Judgment."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 200966,
+      "primary_key": "RogueBuffPool_933312000001_BuffDesc_0",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Significantly increases Negative Status DMG.",
+      "translation_vi": "Tăng đáng kể sát thương Trạng Thái Tiêu Cực."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 208920,
+      "primary_key": "RogueBuffPool_26100803_BuffDesc",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "The total DMG dealt to targets afflicted with any Negative Status is increased by 50%. Another 50% increase is granted while in [Divined Dream].",
+      "translation_vi": "Tổng Sát Thương gây ra lên mục tiêu bị ảnh hưởng bởi Trạng Thái Tiêu Cực sẽ tăng thêm 50%. Khi ở trong [Divined Dream], hiệu ứng này tăng thêm 50% nữa."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 208965,
+      "primary_key": "RogueBuffPool_26100803_BuffDesc_0",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Deal more total DMG to targets under [Negative Status], with additional DMG boost when in [Divined Dream].",
+      "translation_vi": "Gây tổng sát thương cao hơn lên mục tiêu đang chịu [Trạng Thái Tiêu Cực], cộng thêm tăng sát thương khi ở trong [Giấc Mơ Tiên Tri]."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 224636,
+      "primary_key": "ItemInfo_71500057_AttributesDescription",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Ignore 20% of the target's DEF when dealing DMG to enemies inflicted with Negative Statuses.\nResonators who inflict Negative Statuses on enemies recover additional Ember, triggered once every second.\nWhile in the Burning Waves state, Resonators deal 50% more DMG, and the Negative Status on the target is raised to max stacks upon hit.\n\nThis Token can be used up to <color=#fee388>2</color> times in Whimpering Wastes.",
+      "translation_vi": "Bỏ qua 20% DEF của mục tiêu khi gây sát thương lên kẻ địch đang chịu hiệu ứng Trạng Thái Tiêu Cực.\nCộng Hưởng Giả gây Trạng Thái Tiêu Cực lên kẻ địch sẽ hồi phục thêm Lửa Than, kích hoạt mỗi giây một lần.\nKhi ở trạng thái Sóng Lửa Bùng Cháy, Cộng Hưởng Giả gây thêm 50% sát thương, và Trạng Thái Tiêu Cực trên mục tiêu sẽ đạt tối đa tầng tích lũy khi trúng đòn.\n\nMã thông báo này có thể sử dụng tối đa <color=#fee388>2</color> lần tại Vùng Đất Than Thở."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 224639,
+      "primary_key": "ItemInfo_71500057_ObtainedShowDescription",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Ignore 20% of the target's DEF when dealing DMG to enemies inflicted with Negative Statuses. \nResonators who inflict Negative Statuses on enemies recover additional Ember, triggered once every second.\nWhile in the Burning Waves state, Resonators deal 50% more DMG, and the Negative Status on the target is raised to max stacks upon hit.",
+      "translation_vi": "Bỏ qua 20% Phòng Ngự của mục tiêu khi gây Sát Thương lên kẻ địch đang chịu Trạng Thái Tiêu Cực. \nCộng Hưởng Giả gây Trạng Thái Tiêu Cực lên kẻ địch sẽ hồi phục thêm Lửa Đỏ, kích hoạt mỗi giây một lần.\nKhi ở trạng thái Sóng Lửa, Cộng Hưởng Giả gây thêm 50% Sát Thương, và Trạng Thái Tiêu Cực trên mục tiêu sẽ đạt tối đa tầng tích lũy khi trúng đòn."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 230230,
+      "primary_key": "ItemInfo_71501004_AttributesDescription",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Enemies take 15% more total DMG. Inflicting Negative Status on the enemies increases total DMG by 15% for 30s.\n\nThis Token can be used up to <color=#fee388>2</color> times in Whimpering Wastes.",
+      "translation_vi": "Kẻ địch chịu thêm 15% tổng Sát Thương. Gây Trạng Thái Tiêu Cực lên kẻ địch sẽ tăng tổng Sát Thương thêm 15% trong 30 giây.\n\nMảnh này có thể sử dụng tối đa <color=#fee388>2</color> lần tại Whimpering Wastes."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 230231,
+      "primary_key": "ItemInfo_71501004_ObtainedShowDescription",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Enemies take 15% more total DMG. Inflicting Negative Status on the enemies increases total DMG by 15% for 30s.",
+      "translation_vi": "Kẻ địch chịu thêm 15% tổng Sát Thương. Gây Trạng Thái Tiêu Cực lên kẻ địch sẽ tăng tổng Sát Thương thêm 15% trong 30 giây."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 230497,
+      "primary_key": "ItemInfo_71500081_ObtainedShowDescription",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Statuses",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Resonators recover additional Ember when they inflict Negative Statuses on enemies, triggered up to once per second.\nResonators in the team gain 50% Glacio DMG Bonus and Spectro DMG Bonus. Enemies take 200% more total Glacio Chafe DMG.",
+      "translation_vi": "Cộng Hưởng Giả hồi phục thêm Than Hồng khi gây Trạng Thái Tiêu Cực cho kẻ địch, kích hoạt tối đa một lần mỗi giây.\nCác Cộng Hưởng Giả trong đội nhận thêm 50% Tăng Sát Thương Glacio và Spectro. Kẻ địch chịu thêm 200% tổng Sát Thương Chafe Glacio."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 230498,
+      "primary_key": "ItemInfo_71500081_AttributesDescription",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Statuses",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Resonators recover additional Ember when they inflict Negative Statuses on enemies, triggered up to once per second.\nResonators in the team gain 50% Glacio DMG Bonus and Spectro DMG Bonus. Enemies take 200% more total Glacio Chafe DMG.\n\nThis Token can be used up to <color=#fee388>2</color> times in Whimpering Wastes.",
+      "translation_vi": "Cộng Hưởng Giả hồi phục thêm Lửa Đỏ khi gây Trạng Thái Tiêu Cực lên kẻ địch, kích hoạt tối đa một lần mỗi giây.\nCác Cộng Hưởng Giả trong đội nhận thêm 50% Tăng Sát Thương Glacio và Spectro. Kẻ địch chịu thêm 200% tổng Sát Thương Chafe Glacio.\n\nMảnh này có thể sử dụng tối đa <color=#fee388>2</color> lần tại Whimpering Wastes."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 230650,
+      "primary_key": "ItemInfo_71500083_AttributesDescription",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Enemies take 30% more total Fusion DMG and 100% more total Fusion Burst DMG.\nInflicting Negative Status on the enemies increases ATK by 20% for 5s.\n\nThis Token can be used up to <color=#fee388>2</color> times in Whimpering Wastes.",
+      "translation_vi": "Kẻ địch chịu thêm 30% tổng Sát Thương Fusion và 100% tổng Sát Thương Fusion Burst.\nGây Trạng Thái Tiêu Cực lên kẻ địch sẽ tăng Tấn Công thêm 20% trong 5 giây.\n\nMảnh này có thể sử dụng tối đa <color=#fee388>2</color> lần tại Whimpering Wastes."
+    },
+    {
+      "file": "mistral_translate_work\\review\\lang_multi_text.json",
+      "index": 230651,
+      "primary_key": "ItemInfo_71500083_ObtainedShowDescription",
+      "status": "translated",
+      "keep": "Negative Status",
+      "matched_source_term": "Negative Status",
+      "bad_terms": [
+        "Trạng Thái Tiêu Cực"
+      ],
+      "source_en": "Enemies take 30% more total Fusion DMG and 100% more total Fusion Burst DMG.\nInflicting Negative Status on the enemies increases ATK by 20% for 5s. Enemies take 100% more total Fusion Burst DMG.",
+      "translation_vi": "Kẻ địch chịu thêm 30% tổng Sát Thương Fusion và 100% tổng Sát Thương Fusion Burst.\nGây Trạng Thái Tiêu Cực lên kẻ địch sẽ tăng Tấn Công thêm 20% trong 5 giây. Kẻ địch chịu thêm 100% tổng Sát Thương Fusion Burst."
+    }
+  ]
+}

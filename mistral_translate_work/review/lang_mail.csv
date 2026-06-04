@@ -1,0 +1,4 @@
+﻿database,table,primary_key_column,primary_key,column,category,status,issues,rule_decision,rule_score,rule_issues,ai_decision,ai_score,ai_reason,source_en,translation_vi,review_note
+lang_mail.db,MailCommonText,Id,1,Content,ui,translated,,PASS,10,,,,,Mail,Thư,
+lang_mail.db,MailCommonText,Id,9,Content,ui,translated,,PASS,10,,,,,Back,Quay lại,
+lang_mail.db,MailCommonText,Id,29,Content,ui,translated,,PASS,10,,,,,Confirm,Xác nhận,

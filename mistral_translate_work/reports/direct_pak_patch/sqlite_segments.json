@@ -1,0 +1,1214 @@
+[
+  {
+    "index": 0,
+    "offset": 53,
+    "page_size": 4096,
+    "page_count": 3,
+    "size": 12288,
+    "quick_check": "ok",
+    "tables": [
+      "AccessPath"
+    ],
+    "size_name_candidates": [
+      "lang_accesspath.db",
+      "lang_area.db",
+      "lang_battlepass.db",
+      "lang_cgVideo.db",
+      "lang_combo_teaching.db",
+      "lang_common_param.db",
+      "lang_custom_sequence.db",
+      "lang_dragon_ball.db",
+      "lang_explore_progress.db",
+      "lang_explore_skill.db",
+      "lang_flow.db",
+      "lang_flow_text.db",
+      "lang_forge.db",
+      "lang_formation.db",
+      "lang_friend.db",
+      "lang_gacha.db",
+      "lang_handbook_entrance.db",
+      "lang_help.db",
+      "lang_instance_dungeon_entrance.db",
+      "lang_instance_dungeon_step.db",
+      "lang_loadingtips.db",
+      "lang_mapnote.db",
+      "lang_mapping.db",
+      "lang_monsterDisplay.db",
+      "lang_motion.db",
+      "lang_npc_headinfo.db",
+      "lang_occupation.db",
+      "lang_parkourchallenge.db",
+      "lang_personal.db",
+      "lang_personal_card.db",
+      "lang_quest.db",
+      "lang_questtype.db",
+      "lang_quest_chapter.db",
+      "lang_revive.db",
+      "lang_roleDescription.db",
+      "lang_roleInfluence.db",
+      "lang_roleQuest.db",
+      "lang_role_training_degree.db",
+      "lang_scenegameplay.db",
+      "lang_scenestep.db",
+      "lang_time_of_day.db",
+      "lang_ui.db",
+      "Sneak.db"
+    ],
+    "table_name_candidates": [
+      "lang_accesspath.db"
+    ],
+    "matched_db": "lang_accesspath.db"
+  },
+  {
+    "index": 1,
+    "offset": 16490,
+    "page_size": 4096,
+    "page_count": 3,
+    "size": 12288,
+    "quick_check": "ok",
+    "tables": [
+      "Area"
+    ],
+    "size_name_candidates": [
+      "lang_accesspath.db",
+      "lang_area.db",
+      "lang_battlepass.db",
+      "lang_cgVideo.db",
+      "lang_combo_teaching.db",
+      "lang_common_param.db",
+      "lang_custom_sequence.db",
+      "lang_dragon_ball.db",
+      "lang_explore_progress.db",
+      "lang_explore_skill.db",
+      "lang_flow.db",
+      "lang_flow_text.db",
+      "lang_forge.db",
+      "lang_formation.db",
+      "lang_friend.db",
+      "lang_gacha.db",
+      "lang_handbook_entrance.db",
+      "lang_help.db",
+      "lang_instance_dungeon_entrance.db",
+      "lang_instance_dungeon_step.db",
+      "lang_loadingtips.db",
+      "lang_mapnote.db",
+      "lang_mapping.db",
+      "lang_monsterDisplay.db",
+      "lang_motion.db",
+      "lang_npc_headinfo.db",
+      "lang_occupation.db",
+      "lang_parkourchallenge.db",
+      "lang_personal.db",
+      "lang_personal_card.db",
+      "lang_quest.db",
+      "lang_questtype.db",
+      "lang_quest_chapter.db",
+      "lang_revive.db",
+      "lang_roleDescription.db",
+      "lang_roleInfluence.db",
+      "lang_roleQuest.db",
+      "lang_role_training_degree.db",
+      "lang_scenegameplay.db",
+      "lang_scenestep.db",
+      "lang_time_of_day.db",
+      "lang_ui.db",
+      "Sneak.db"
+    ],
+    "table_name_candidates": [
+      "lang_area.db"
+    ],
+    "matched_db": "lang_area.db"
+  },
+  {
+    "index": 2,
+    "offset": 32927,
+    "page_size": 4096,
+    "page_count": 3,
+    "size": 12288,
+    "quick_check": "ok",
+    "tables": [
+      "VideoCaption"
+    ],
+    "size_name_candidates": [
+      "lang_accesspath.db",
+      "lang_area.db",
+      "lang_battlepass.db",
+      "lang_cgVideo.db",
+      "lang_combo_teaching.db",
+      "lang_common_param.db",
+      "lang_custom_sequence.db",
+      "lang_dragon_ball.db",
+      "lang_explore_progress.db",
+      "lang_explore_skill.db",
+      "lang_flow.db",
+      "lang_flow_text.db",
+      "lang_forge.db",
+      "lang_formation.db",
+      "lang_friend.db",
+      "lang_gacha.db",
+      "lang_handbook_entrance.db",
+      "lang_help.db",
+      "lang_instance_dungeon_entrance.db",
+      "lang_instance_dungeon_step.db",
+      "lang_loadingtips.db",
+      "lang_mapnote.db",
+      "lang_mapping.db",
+      "lang_monsterDisplay.db",
+      "lang_motion.db",
+      "lang_npc_headinfo.db",
+      "lang_occupation.db",
+      "lang_parkourchallenge.db",
+      "lang_personal.db",
+      "lang_personal_card.db",
+      "lang_quest.db",
+      "lang_questtype.db",
+      "lang_quest_chapter.db",
+      "lang_revive.db",
+      "lang_roleDescription.db",
+      "lang_roleInfluence.db",
+      "lang_roleQuest.db",
+      "lang_role_training_degree.db",
+      "lang_scenegameplay.db",
+      "lang_scenestep.db",
+      "lang_time_of_day.db",
+      "lang_ui.db",
+      "Sneak.db"
+    ],
+    "table_name_candidates": [
+      "lang_cgVideo.db"
+    ],
+    "matched_db": "lang_cgVideo.db"
+  },
+  {
+    "index": 3,
+    "offset": 49364,
+    "page_size": 4096,
+    "page_count": 11,
+    "size": 45056,
+    "quick_check": "ok",
+    "tables": [
+      "SynthesisFormula",
+      "SynthesisLevel"
+    ],
+    "size_name_candidates": [
+      "lang_advice.db",
+      "lang_compose.db",
+      "lang_once_tower_challenge.db",
+      "lang_shop.db"
+    ],
+    "table_name_candidates": [
+      "lang_compose.db"
+    ],
+    "matched_db": "lang_compose.db"
+  },
+  {
+    "index": 4,
+    "offset": 123145,
+    "page_size": 4096,
+    "page_count": 13,
+    "size": 53248,
+    "quick_check": "ok",
+    "tables": [
+      "CookFixTool",
+      "CookFormula",
+      "CookLevel",
+      "CookProcessMsg",
+      "CookProcessed",
+      "SpecialCook"
+    ],
+    "size_name_candidates": [
+      "lang_cook.db"
+    ],
+    "table_name_candidates": [
+      "lang_cook.db"
+    ],
+    "matched_db": "lang_cook.db"
+  },
+  {
+    "index": 5,
+    "offset": 180542,
+    "page_size": 4096,
+    "page_count": 5,
+    "size": 20480,
+    "quick_check": "ok",
+    "tables": [
+      "Country",
+      "Influence"
+    ],
+    "size_name_candidates": [
+      "lang_activity.db",
+      "lang_adventuretask.db",
+      "lang_areaquest.db",
+      "lang_country.db",
+      "lang_gm.db",
+      "lang_influence.db",
+      "lang_map.db",
+      "lang_photograph.db",
+      "lang_property.db",
+      "lang_report.db",
+      "lang_UiHotKot.db"
+    ],
+    "table_name_candidates": [
+      "lang_country.db",
+      "lang_influence.db"
+    ],
+    "matched_db": "lang_country.db"
+  },
+  {
+    "index": 6,
+    "offset": 205171,
+    "page_size": 4096,
+    "page_count": 16,
+    "size": 65536,
+    "quick_check": "ok",
+    "tables": [
+      "DetectionText",
+      "DungeonDetection",
+      "GuideData",
+      "MonsterDetection",
+      "SilentAreaDetection"
+    ],
+    "size_name_candidates": [
+      "lang_detection.db",
+      "lang_monster_Info.db"
+    ],
+    "table_name_candidates": [
+      "lang_detection.db"
+    ],
+    "matched_db": "lang_detection.db"
+  },
+  {
+    "index": 7,
+    "offset": 299432,
+    "page_size": 4096,
+    "page_count": 7,
+    "size": 28672,
+    "quick_check": "ok",
+    "tables": [
+      "ElementInfo",
+      "ElementalReaction"
+    ],
+    "size_name_candidates": [
+      "lang_achievement.db",
+      "lang_bag.db",
+      "lang_calabash.db",
+      "lang_chat.db",
+      "lang_confirmbox.db",
+      "lang_cycle_tower.db",
+      "lang_element_info.db",
+      "lang_function.db",
+      "lang_mail.db",
+      "lang_quest_step.db"
+    ],
+    "table_name_candidates": [
+      "lang_element_info.db"
+    ],
+    "matched_db": "lang_element_info.db"
+  },
+  {
+    "index": 8,
+    "offset": 336349,
+    "page_size": 4096,
+    "page_count": 3,
+    "size": 12288,
+    "quick_check": "ok",
+    "tables": [
+      "ExploreTools"
+    ],
+    "size_name_candidates": [
+      "lang_accesspath.db",
+      "lang_area.db",
+      "lang_battlepass.db",
+      "lang_cgVideo.db",
+      "lang_combo_teaching.db",
+      "lang_common_param.db",
+      "lang_custom_sequence.db",
+      "lang_dragon_ball.db",
+      "lang_explore_progress.db",
+      "lang_explore_skill.db",
+      "lang_flow.db",
+      "lang_flow_text.db",
+      "lang_forge.db",
+      "lang_formation.db",
+      "lang_friend.db",
+      "lang_gacha.db",
+      "lang_handbook_entrance.db",
+      "lang_help.db",
+      "lang_instance_dungeon_entrance.db",
+      "lang_instance_dungeon_step.db",
+      "lang_loadingtips.db",
+      "lang_mapnote.db",
+      "lang_mapping.db",
+      "lang_monsterDisplay.db",
+      "lang_motion.db",
+      "lang_npc_headinfo.db",
+      "lang_occupation.db",
+      "lang_parkourchallenge.db",
+      "lang_personal.db",
+      "lang_personal_card.db",
+      "lang_quest.db",
+      "lang_questtype.db",
+      "lang_quest_chapter.db",
+      "lang_revive.db",
+      "lang_roleDescription.db",
+      "lang_roleInfluence.db",
+      "lang_roleQuest.db",
+      "lang_role_training_degree.db",
+      "lang_scenegameplay.db",
+      "lang_scenestep.db",
+      "lang_time_of_day.db",
+      "lang_ui.db",
+      "Sneak.db"
+    ],
+    "table_name_candidates": [
+      "lang_explore_skill.db"
+    ],
+    "matched_db": "lang_explore_skill.db"
+  },
+  {
+    "index": 9,
+    "offset": 352786,
+    "page_size": 4096,
+    "page_count": 22,
+    "size": 90112,
+    "quick_check": "ok",
+    "tables": [
+      "FavorBehavior",
+      "FavorGoods",
+      "FavorRoleInfo",
+      "FavorStory",
+      "FavorWord"
+    ],
+    "size_name_candidates": [
+      "lang_favor.db",
+      "lang_ui_prefabTextItem.db"
+    ],
+    "table_name_candidates": [
+      "lang_favor.db"
+    ],
+    "matched_db": "lang_favor.db"
+  },
+  {
+    "index": 10,
+    "offset": 455239,
+    "page_size": 4096,
+    "page_count": 3,
+    "size": 12288,
+    "quick_check": "ok",
+    "tables": [
+      "ForgeFormula"
+    ],
+    "size_name_candidates": [
+      "lang_accesspath.db",
+      "lang_area.db",
+      "lang_battlepass.db",
+      "lang_cgVideo.db",
+      "lang_combo_teaching.db",
+      "lang_common_param.db",
+      "lang_custom_sequence.db",
+      "lang_dragon_ball.db",
+      "lang_explore_progress.db",
+      "lang_explore_skill.db",
+      "lang_flow.db",
+      "lang_flow_text.db",
+      "lang_forge.db",
+      "lang_formation.db",
+      "lang_friend.db",
+      "lang_gacha.db",
+      "lang_handbook_entrance.db",
+      "lang_help.db",
+      "lang_instance_dungeon_entrance.db",
+      "lang_instance_dungeon_step.db",
+      "lang_loadingtips.db",
+      "lang_mapnote.db",
+      "lang_mapping.db",
+      "lang_monsterDisplay.db",
+      "lang_motion.db",
+      "lang_npc_headinfo.db",
+      "lang_occupation.db",
+      "lang_parkourchallenge.db",
+      "lang_personal.db",
+      "lang_personal_card.db",
+      "lang_quest.db",
+      "lang_questtype.db",
+      "lang_quest_chapter.db",
+      "lang_revive.db",
+      "lang_roleDescription.db",
+      "lang_roleInfluence.db",
+      "lang_roleQuest.db",
+      "lang_role_training_degree.db",
+      "lang_scenegameplay.db",
+      "lang_scenestep.db",
+      "lang_time_of_day.db",
+      "lang_ui.db",
+      "Sneak.db"
+    ],
+    "table_name_candidates": [
+      "lang_forge.db"
+    ],
+    "matched_db": "lang_forge.db"
+  },
+  {
+    "index": 11,
+    "offset": 471676,
+    "page_size": 4096,
+    "page_count": 7,
+    "size": 28672,
+    "quick_check": "ok",
+    "tables": [
+      "FunctionCondition",
+      "FunctionMenu"
+    ],
+    "size_name_candidates": [
+      "lang_achievement.db",
+      "lang_bag.db",
+      "lang_calabash.db",
+      "lang_chat.db",
+      "lang_confirmbox.db",
+      "lang_cycle_tower.db",
+      "lang_element_info.db",
+      "lang_function.db",
+      "lang_mail.db",
+      "lang_quest_step.db"
+    ],
+    "table_name_candidates": [
+      "lang_function.db"
+    ],
+    "matched_db": "lang_function.db"
+  },
+  {
+    "index": 12,
+    "offset": 508593,
+    "page_size": 4096,
+    "page_count": 9,
+    "size": 36864,
+    "quick_check": "ok",
+    "tables": [
+      "GeneralTipsTypes",
+      "GenericPrompt",
+      "GenericPromptTypes"
+    ],
+    "size_name_candidates": [
+      "lang_generic_tips.db",
+      "lang_hot_patch.db",
+      "lang_menu.db",
+      "lang_payshop.db",
+      "lang_role_reson.db"
+    ],
+    "table_name_candidates": [
+      "lang_generic_tips.db"
+    ],
+    "matched_db": "lang_generic_tips.db"
+  },
+  {
+    "index": 13,
+    "offset": 549606,
+    "page_size": 4096,
+    "page_count": 25,
+    "size": 102400,
+    "quick_check": "ok",
+    "tables": [
+      "GuideFocusNew",
+      "GuideTips",
+      "GuideTutorial",
+      "GuideTutorialPage"
+    ],
+    "size_name_candidates": [
+      "lang_guide_new.db"
+    ],
+    "table_name_candidates": [
+      "lang_guide_new.db"
+    ],
+    "matched_db": "lang_guide_new.db"
+  },
+  {
+    "index": 14,
+    "offset": 684827,
+    "page_size": 4096,
+    "page_count": 3,
+    "size": 12288,
+    "quick_check": "ok",
+    "tables": [
+      "HelpText"
+    ],
+    "size_name_candidates": [
+      "lang_accesspath.db",
+      "lang_area.db",
+      "lang_battlepass.db",
+      "lang_cgVideo.db",
+      "lang_combo_teaching.db",
+      "lang_common_param.db",
+      "lang_custom_sequence.db",
+      "lang_dragon_ball.db",
+      "lang_explore_progress.db",
+      "lang_explore_skill.db",
+      "lang_flow.db",
+      "lang_flow_text.db",
+      "lang_forge.db",
+      "lang_formation.db",
+      "lang_friend.db",
+      "lang_gacha.db",
+      "lang_handbook_entrance.db",
+      "lang_help.db",
+      "lang_instance_dungeon_entrance.db",
+      "lang_instance_dungeon_step.db",
+      "lang_loadingtips.db",
+      "lang_mapnote.db",
+      "lang_mapping.db",
+      "lang_monsterDisplay.db",
+      "lang_motion.db",
+      "lang_npc_headinfo.db",
+      "lang_occupation.db",
+      "lang_parkourchallenge.db",
+      "lang_personal.db",
+      "lang_personal_card.db",
+      "lang_quest.db",
+      "lang_questtype.db",
+      "lang_quest_chapter.db",
+      "lang_revive.db",
+      "lang_roleDescription.db",
+      "lang_roleInfluence.db",
+      "lang_roleQuest.db",
+      "lang_role_training_degree.db",
+      "lang_scenegameplay.db",
+      "lang_scenestep.db",
+      "lang_time_of_day.db",
+      "lang_ui.db",
+      "Sneak.db"
+    ],
+    "table_name_candidates": [
+      "lang_help.db"
+    ],
+    "matched_db": "lang_help.db"
+  },
+  {
+    "index": 15,
+    "offset": 701264,
+    "page_size": 4096,
+    "page_count": 35,
+    "size": 143360,
+    "quick_check": "ok",
+    "tables": [
+      "AnimalHandBook",
+      "ChipHandBook",
+      "ChipType",
+      "GeographyHandBook",
+      "GeographyType",
+      "ItemHandBook",
+      "ItemHandBookType",
+      "MonsterHandBook",
+      "MonsterHandBookType",
+      "PhantomHandBook",
+      "PhotographHandBook",
+      "PlotType"
+    ],
+    "size_name_candidates": [
+      "lang_handbook.db"
+    ],
+    "table_name_candidates": [
+      "lang_handbook.db"
+    ],
+    "matched_db": "lang_handbook.db"
+  },
+  {
+    "index": 16,
+    "offset": 865157,
+    "page_size": 4096,
+    "page_count": 9,
+    "size": 36864,
+    "quick_check": "ok",
+    "tables": [
+      "HotPatchText"
+    ],
+    "size_name_candidates": [
+      "lang_generic_tips.db",
+      "lang_hot_patch.db",
+      "lang_menu.db",
+      "lang_payshop.db",
+      "lang_role_reson.db"
+    ],
+    "table_name_candidates": [
+      "lang_hot_patch.db"
+    ],
+    "matched_db": "lang_hot_patch.db"
+  },
+  {
+    "index": 17,
+    "offset": 906170,
+    "page_size": 4096,
+    "page_count": 5,
+    "size": 20480,
+    "quick_check": "ok",
+    "tables": [
+      "Country",
+      "Influence"
+    ],
+    "size_name_candidates": [
+      "lang_activity.db",
+      "lang_adventuretask.db",
+      "lang_areaquest.db",
+      "lang_country.db",
+      "lang_gm.db",
+      "lang_influence.db",
+      "lang_map.db",
+      "lang_photograph.db",
+      "lang_property.db",
+      "lang_report.db",
+      "lang_UiHotKot.db"
+    ],
+    "table_name_candidates": [
+      "lang_country.db",
+      "lang_influence.db"
+    ],
+    "matched_db": "lang_country.db"
+  },
+  {
+    "index": 18,
+    "offset": 930799,
+    "page_size": 4096,
+    "page_count": 3,
+    "size": 12288,
+    "quick_check": "ok",
+    "tables": [
+      "InstanceDungeonEntrance"
+    ],
+    "size_name_candidates": [
+      "lang_accesspath.db",
+      "lang_area.db",
+      "lang_battlepass.db",
+      "lang_cgVideo.db",
+      "lang_combo_teaching.db",
+      "lang_common_param.db",
+      "lang_custom_sequence.db",
+      "lang_dragon_ball.db",
+      "lang_explore_progress.db",
+      "lang_explore_skill.db",
+      "lang_flow.db",
+      "lang_flow_text.db",
+      "lang_forge.db",
+      "lang_formation.db",
+      "lang_friend.db",
+      "lang_gacha.db",
+      "lang_handbook_entrance.db",
+      "lang_help.db",
+      "lang_instance_dungeon_entrance.db",
+      "lang_instance_dungeon_step.db",
+      "lang_loadingtips.db",
+      "lang_mapnote.db",
+      "lang_mapping.db",
+      "lang_monsterDisplay.db",
+      "lang_motion.db",
+      "lang_npc_headinfo.db",
+      "lang_occupation.db",
+      "lang_parkourchallenge.db",
+      "lang_personal.db",
+      "lang_personal_card.db",
+      "lang_quest.db",
+      "lang_questtype.db",
+      "lang_quest_chapter.db",
+      "lang_revive.db",
+      "lang_roleDescription.db",
+      "lang_roleInfluence.db",
+      "lang_roleQuest.db",
+      "lang_role_training_degree.db",
+      "lang_scenegameplay.db",
+      "lang_scenestep.db",
+      "lang_time_of_day.db",
+      "lang_ui.db",
+      "Sneak.db"
+    ],
+    "table_name_candidates": [
+      "lang_instance_dungeon_entrance.db"
+    ],
+    "matched_db": "lang_instance_dungeon_entrance.db"
+  },
+  {
+    "index": 19,
+    "offset": 947236,
+    "page_size": 4096,
+    "page_count": 3,
+    "size": 12288,
+    "quick_check": "ok",
+    "tables": [
+      "LoadingTipsText"
+    ],
+    "size_name_candidates": [
+      "lang_accesspath.db",
+      "lang_area.db",
+      "lang_battlepass.db",
+      "lang_cgVideo.db",
+      "lang_combo_teaching.db",
+      "lang_common_param.db",
+      "lang_custom_sequence.db",
+      "lang_dragon_ball.db",
+      "lang_explore_progress.db",
+      "lang_explore_skill.db",
+      "lang_flow.db",
+      "lang_flow_text.db",
+      "lang_forge.db",
+      "lang_formation.db",
+      "lang_friend.db",
+      "lang_gacha.db",
+      "lang_handbook_entrance.db",
+      "lang_help.db",
+      "lang_instance_dungeon_entrance.db",
+      "lang_instance_dungeon_step.db",
+      "lang_loadingtips.db",
+      "lang_mapnote.db",
+      "lang_mapping.db",
+      "lang_monsterDisplay.db",
+      "lang_motion.db",
+      "lang_npc_headinfo.db",
+      "lang_occupation.db",
+      "lang_parkourchallenge.db",
+      "lang_personal.db",
+      "lang_personal_card.db",
+      "lang_quest.db",
+      "lang_questtype.db",
+      "lang_quest_chapter.db",
+      "lang_revive.db",
+      "lang_roleDescription.db",
+      "lang_roleInfluence.db",
+      "lang_roleQuest.db",
+      "lang_role_training_degree.db",
+      "lang_scenegameplay.db",
+      "lang_scenestep.db",
+      "lang_time_of_day.db",
+      "lang_ui.db",
+      "Sneak.db"
+    ],
+    "table_name_candidates": [
+      "lang_loadingtips.db"
+    ],
+    "matched_db": "lang_loadingtips.db"
+  },
+  {
+    "index": 20,
+    "offset": 963673,
+    "page_size": 4096,
+    "page_count": 27,
+    "size": 110592,
+    "quick_check": "ok",
+    "tables": [
+      "InfoDisplay"
+    ],
+    "size_name_candidates": [
+      "lang_infodisplay.db"
+    ],
+    "table_name_candidates": [
+      "lang_infodisplay.db"
+    ],
+    "matched_db": "lang_infodisplay.db"
+  },
+  {
+    "index": 21,
+    "offset": 1184910,
+    "page_size": 4096,
+    "page_count": 19,
+    "size": 77824,
+    "quick_check": "ok",
+    "tables": [
+      "MapMark"
+    ],
+    "size_name_candidates": [
+      "lang_map_mark.db"
+    ],
+    "table_name_candidates": [
+      "lang_map_mark.db"
+    ],
+    "matched_db": "lang_map_mark.db"
+  },
+  {
+    "index": 22,
+    "offset": 1324227,
+    "page_size": 4096,
+    "page_count": 16,
+    "size": 65536,
+    "quick_check": "ok",
+    "tables": [
+      "MonsterInfo",
+      "MonsterPerch",
+      "MonsterRarity"
+    ],
+    "size_name_candidates": [
+      "lang_detection.db",
+      "lang_monster_Info.db"
+    ],
+    "table_name_candidates": [
+      "lang_monster_Info.db"
+    ],
+    "matched_db": "lang_monster_Info.db"
+  },
+  {
+    "index": 23,
+    "offset": 1422584,
+    "page_size": 4096,
+    "page_count": 56,
+    "size": 229376,
+    "quick_check": "ok",
+    "tables": [
+      "ItemInfo",
+      "ItemShowType",
+      "PreviewItem",
+      "QualityInfo"
+    ],
+    "size_name_candidates": [
+      "lang_item.db"
+    ],
+    "table_name_candidates": [
+      "lang_item.db"
+    ],
+    "matched_db": "lang_item.db"
+  },
+  {
+    "index": 24,
+    "offset": 1807661,
+    "page_size": 4096,
+    "page_count": 39,
+    "size": 159744,
+    "quick_check": "ok",
+    "tables": [
+      "MultiText"
+    ],
+    "size_name_candidates": [
+      "lang_multi_text_2ndhalf.db"
+    ],
+    "table_name_candidates": [
+      "lang_multi_text.db",
+      "lang_multi_text_1sthalf.db",
+      "lang_multi_text_2ndhalf.db"
+    ],
+    "matched_db": "lang_multi_text_2ndhalf.db"
+  },
+  {
+    "index": 25,
+    "offset": 2094434,
+    "page_size": 4096,
+    "page_count": 76,
+    "size": 311296,
+    "quick_check": "ok",
+    "tables": [
+      "MultiText"
+    ],
+    "size_name_candidates": [
+      "lang_multi_text_1sthalf.db"
+    ],
+    "table_name_candidates": [
+      "lang_multi_text.db",
+      "lang_multi_text_1sthalf.db",
+      "lang_multi_text_2ndhalf.db"
+    ],
+    "matched_db": "lang_multi_text_1sthalf.db"
+  },
+  {
+    "index": 26,
+    "offset": 2676119,
+    "page_size": 4096,
+    "page_count": 11,
+    "size": 45056,
+    "quick_check": "ok",
+    "tables": [
+      "TowerChallengeBuff",
+      "TowerChallengeConfig",
+      "TowerChallengeTypeInfo",
+      "TowerGroupInfo"
+    ],
+    "size_name_candidates": [
+      "lang_advice.db",
+      "lang_compose.db",
+      "lang_once_tower_challenge.db",
+      "lang_shop.db"
+    ],
+    "table_name_candidates": [
+      "lang_once_tower_challenge.db"
+    ],
+    "matched_db": "lang_once_tower_challenge.db"
+  },
+  {
+    "index": 27,
+    "offset": 2725324,
+    "page_size": 4096,
+    "page_count": 5,
+    "size": 20480,
+    "quick_check": "ok",
+    "tables": [
+      "PropertyIndex"
+    ],
+    "size_name_candidates": [
+      "lang_activity.db",
+      "lang_adventuretask.db",
+      "lang_areaquest.db",
+      "lang_country.db",
+      "lang_gm.db",
+      "lang_influence.db",
+      "lang_map.db",
+      "lang_photograph.db",
+      "lang_property.db",
+      "lang_report.db",
+      "lang_UiHotKot.db"
+    ],
+    "table_name_candidates": [
+      "lang_property.db"
+    ],
+    "matched_db": "lang_property.db"
+  },
+  {
+    "index": 28,
+    "offset": 2758145,
+    "page_size": 4096,
+    "page_count": 3,
+    "size": 12288,
+    "quick_check": "ok",
+    "tables": [
+      "QuestChapter"
+    ],
+    "size_name_candidates": [
+      "lang_accesspath.db",
+      "lang_area.db",
+      "lang_battlepass.db",
+      "lang_cgVideo.db",
+      "lang_combo_teaching.db",
+      "lang_common_param.db",
+      "lang_custom_sequence.db",
+      "lang_dragon_ball.db",
+      "lang_explore_progress.db",
+      "lang_explore_skill.db",
+      "lang_flow.db",
+      "lang_flow_text.db",
+      "lang_forge.db",
+      "lang_formation.db",
+      "lang_friend.db",
+      "lang_gacha.db",
+      "lang_handbook_entrance.db",
+      "lang_help.db",
+      "lang_instance_dungeon_entrance.db",
+      "lang_instance_dungeon_step.db",
+      "lang_loadingtips.db",
+      "lang_mapnote.db",
+      "lang_mapping.db",
+      "lang_monsterDisplay.db",
+      "lang_motion.db",
+      "lang_npc_headinfo.db",
+      "lang_occupation.db",
+      "lang_parkourchallenge.db",
+      "lang_personal.db",
+      "lang_personal_card.db",
+      "lang_quest.db",
+      "lang_questtype.db",
+      "lang_quest_chapter.db",
+      "lang_revive.db",
+      "lang_roleDescription.db",
+      "lang_roleInfluence.db",
+      "lang_roleQuest.db",
+      "lang_role_training_degree.db",
+      "lang_scenegameplay.db",
+      "lang_scenestep.db",
+      "lang_time_of_day.db",
+      "lang_ui.db",
+      "Sneak.db"
+    ],
+    "table_name_candidates": [
+      "lang_quest_chapter.db"
+    ],
+    "matched_db": "lang_quest_chapter.db"
+  },
+  {
+    "index": 29,
+    "offset": 2774582,
+    "page_size": 4096,
+    "page_count": 3,
+    "size": 12288,
+    "quick_check": "ok",
+    "tables": [
+      "Revive"
+    ],
+    "size_name_candidates": [
+      "lang_accesspath.db",
+      "lang_area.db",
+      "lang_battlepass.db",
+      "lang_cgVideo.db",
+      "lang_combo_teaching.db",
+      "lang_common_param.db",
+      "lang_custom_sequence.db",
+      "lang_dragon_ball.db",
+      "lang_explore_progress.db",
+      "lang_explore_skill.db",
+      "lang_flow.db",
+      "lang_flow_text.db",
+      "lang_forge.db",
+      "lang_formation.db",
+      "lang_friend.db",
+      "lang_gacha.db",
+      "lang_handbook_entrance.db",
+      "lang_help.db",
+      "lang_instance_dungeon_entrance.db",
+      "lang_instance_dungeon_step.db",
+      "lang_loadingtips.db",
+      "lang_mapnote.db",
+      "lang_mapping.db",
+      "lang_monsterDisplay.db",
+      "lang_motion.db",
+      "lang_npc_headinfo.db",
+      "lang_occupation.db",
+      "lang_parkourchallenge.db",
+      "lang_personal.db",
+      "lang_personal_card.db",
+      "lang_quest.db",
+      "lang_questtype.db",
+      "lang_quest_chapter.db",
+      "lang_revive.db",
+      "lang_roleDescription.db",
+      "lang_roleInfluence.db",
+      "lang_roleQuest.db",
+      "lang_role_training_degree.db",
+      "lang_scenegameplay.db",
+      "lang_scenestep.db",
+      "lang_time_of_day.db",
+      "lang_ui.db",
+      "Sneak.db"
+    ],
+    "table_name_candidates": [
+      "lang_revive.db"
+    ],
+    "matched_db": "lang_revive.db"
+  },
+  {
+    "index": 30,
+    "offset": 2791019,
+    "page_size": 4096,
+    "page_count": 65,
+    "size": 266240,
+    "quick_check": "ok",
+    "tables": [
+      "PhantomFetter",
+      "PhantomItem",
+      "PhantomSkill",
+      "PhantomSkillType"
+    ],
+    "size_name_candidates": [
+      "lang_phantom.db"
+    ],
+    "table_name_candidates": [
+      "lang_phantom.db"
+    ],
+    "matched_db": "lang_phantom.db"
+  },
+  {
+    "index": 31,
+    "offset": 3290784,
+    "page_size": 4096,
+    "page_count": 15,
+    "size": 61440,
+    "quick_check": "ok",
+    "tables": [
+      "RoleSkillTreeDesc",
+      "RoleSkillTreeInfo",
+      "SkillCondition",
+      "SkillInput",
+      "SkillTree"
+    ],
+    "size_name_candidates": [],
+    "table_name_candidates": [
+      "lang_skillTree.db"
+    ],
+    "matched_db": "lang_skillTree.db"
+  },
+  {
+    "index": 32,
+    "offset": 3372757,
+    "page_size": 4096,
+    "page_count": 3,
+    "size": 12288,
+    "quick_check": "ok",
+    "tables": [
+      "DaySelectPreset"
+    ],
+    "size_name_candidates": [
+      "lang_accesspath.db",
+      "lang_area.db",
+      "lang_battlepass.db",
+      "lang_cgVideo.db",
+      "lang_combo_teaching.db",
+      "lang_common_param.db",
+      "lang_custom_sequence.db",
+      "lang_dragon_ball.db",
+      "lang_explore_progress.db",
+      "lang_explore_skill.db",
+      "lang_flow.db",
+      "lang_flow_text.db",
+      "lang_forge.db",
+      "lang_formation.db",
+      "lang_friend.db",
+      "lang_gacha.db",
+      "lang_handbook_entrance.db",
+      "lang_help.db",
+      "lang_instance_dungeon_entrance.db",
+      "lang_instance_dungeon_step.db",
+      "lang_loadingtips.db",
+      "lang_mapnote.db",
+      "lang_mapping.db",
+      "lang_monsterDisplay.db",
+      "lang_motion.db",
+      "lang_npc_headinfo.db",
+      "lang_occupation.db",
+      "lang_parkourchallenge.db",
+      "lang_personal.db",
+      "lang_personal_card.db",
+      "lang_quest.db",
+      "lang_questtype.db",
+      "lang_quest_chapter.db",
+      "lang_revive.db",
+      "lang_roleDescription.db",
+      "lang_roleInfluence.db",
+      "lang_roleQuest.db",
+      "lang_role_training_degree.db",
+      "lang_scenegameplay.db",
+      "lang_scenestep.db",
+      "lang_time_of_day.db",
+      "lang_ui.db",
+      "Sneak.db"
+    ],
+    "table_name_candidates": [
+      "lang_time_of_day.db"
+    ],
+    "matched_db": "lang_time_of_day.db"
+  },
+  {
+    "index": 33,
+    "offset": 3389194,
+    "page_size": 4096,
+    "page_count": 14,
+    "size": 57344,
+    "quick_check": "ok",
+    "tables": [
+      "WeaponConf",
+      "WeaponQualityInfo",
+      "WeaponReson"
+    ],
+    "size_name_candidates": [
+      "lang_instance_dungeon.db"
+    ],
+    "table_name_candidates": [
+      "lang_weapon.db"
+    ],
+    "matched_db": "lang_instance_dungeon.db"
+  },
+  {
+    "index": 34,
+    "offset": 7030424,
+    "page_size": 4096,
+    "page_count": 10596,
+    "size": 43401216,
+    "quick_check": "ok",
+    "tables": [
+      "MultiText"
+    ],
+    "size_name_candidates": [],
+    "table_name_candidates": [
+      "lang_multi_text.db",
+      "lang_multi_text_1sthalf.db",
+      "lang_multi_text_2ndhalf.db"
+    ],
+    "matched_db": "lang_multi_text.db"
+  }
+]

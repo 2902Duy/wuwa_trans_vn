@@ -1,0 +1,152 @@
+{
+  "total": 59336,
+  "counts": {
+    "proper_name_translated_or_changed": 26517,
+    "translatable_title_translated": 18886,
+    "proper_name_kept": 7479,
+    "short_text_translated": 4187,
+    "short_text_kept": 1422,
+    "translatable_title_still_english": 644,
+    "short_text_changed_non_vi": 117,
+    "glossary_name_translated": 58,
+    "translatable_title_changed_non_vi": 19,
+    "missing_translation": 7
+  },
+  "by_file": {
+    "lang_area.json": {
+      "proper_name_translated_or_changed": 63,
+      "short_text_translated": 2,
+      "translatable_title_translated": 1,
+      "proper_name_kept": 1
+    },
+    "lang_bag.json": {
+      "translatable_title_translated": 1,
+      "translatable_title_still_english": 1,
+      "proper_name_translated_or_changed": 1
+    },
+    "lang_compose.json": {
+      "proper_name_translated_or_changed": 50,
+      "short_text_translated": 18,
+      "translatable_title_translated": 5
+    },
+    "lang_cook.json": {
+      "proper_name_translated_or_changed": 35,
+      "short_text_translated": 1
+    },
+    "lang_country.json": {
+      "short_text_translated": 10,
+      "proper_name_translated_or_changed": 6,
+      "translatable_title_translated": 2,
+      "proper_name_kept": 2
+    },
+    "lang_cycle_tower.json": {
+      "proper_name_translated_or_changed": 28
+    },
+    "lang_element_info.json": {
+      "proper_name_kept": 25,
+      "translatable_title_still_english": 5,
+      "short_text_kept": 2
+    },
+    "lang_forge.json": {
+      "proper_name_translated_or_changed": 4,
+      "short_text_translated": 1
+    },
+    "lang_guide_new.json": {
+      "proper_name_translated_or_changed": 75,
+      "translatable_title_translated": 28,
+      "short_text_translated": 15,
+      "proper_name_kept": 12
+    },
+    "lang_handbook.json": {
+      "proper_name_translated_or_changed": 157,
+      "translatable_title_translated": 130,
+      "proper_name_kept": 113,
+      "short_text_translated": 36
+    },
+    "lang_infodisplay.json": {
+      "translatable_title_translated": 28,
+      "proper_name_translated_or_changed": 24,
+      "short_text_translated": 18
+    },
+    "lang_item.json": {
+      "proper_name_translated_or_changed": 317,
+      "translatable_title_translated": 99,
+      "short_text_translated": 39,
+      "proper_name_kept": 7
+    },
+    "lang_monster_Info.json": {
+      "proper_name_translated_or_changed": 64,
+      "proper_name_kept": 13,
+      "translatable_title_translated": 2,
+      "short_text_translated": 1
+    },
+    "lang_multi_text.json": {
+      "proper_name_translated_or_changed": 25606,
+      "translatable_title_translated": 18483,
+      "proper_name_kept": 7061,
+      "short_text_translated": 3935,
+      "short_text_kept": 1399,
+      "translatable_title_still_english": 442,
+      "short_text_changed_non_vi": 117,
+      "glossary_name_translated": 57,
+      "translatable_title_changed_non_vi": 19,
+      "missing_translation": 7
+    },
+    "lang_multi_text_1sthalf.json": {
+      "translatable_title_translated": 9,
+      "proper_name_translated_or_changed": 1,
+      "short_text_translated": 1,
+      "proper_name_kept": 1
+    },
+    "lang_npc_headinfo.json": {
+      "proper_name_translated_or_changed": 9,
+      "translatable_title_translated": 2
+    },
+    "lang_occupation.json": {
+      "proper_name_kept": 2
+    },
+    "lang_phantom.json": {
+      "translatable_title_still_english": 189,
+      "proper_name_kept": 184,
+      "short_text_kept": 3
+    },
+    "lang_role.json": {
+      "short_text_translated": 40,
+      "translatable_title_translated": 23,
+      "proper_name_kept": 16,
+      "proper_name_translated_or_changed": 9
+    },
+    "lang_roleInfluence.json": {
+      "proper_name_translated_or_changed": 2,
+      "proper_name_kept": 1
+    },
+    "lang_skill.json": {
+      "proper_name_kept": 2,
+      "translatable_title_still_english": 1
+    },
+    "lang_skillTree.json": {
+      "proper_name_kept": 5,
+      "proper_name_translated_or_changed": 5,
+      "translatable_title_translated": 4,
+      "short_text_kept": 3,
+      "short_text_translated": 3,
+      "translatable_title_still_english": 1
+    },
+    "lang_speaker.json": {
+      "proper_name_kept": 15,
+      "proper_name_translated_or_changed": 9,
+      "short_text_translated": 3,
+      "translatable_title_translated": 2,
+      "glossary_name_translated": 1
+    },
+    "lang_weapon.json": {
+      "translatable_title_translated": 67,
+      "short_text_translated": 64,
+      "proper_name_translated_or_changed": 52,
+      "proper_name_kept": 19,
+      "short_text_kept": 15,
+      "translatable_title_still_english": 5
+    }
+  },
+  "report_dir": "C:\\Users\\tduy2\\Documents\\antigravity\\silly-darwin\\mistral_translate_work\\reports\\name_title_analysis"
+}

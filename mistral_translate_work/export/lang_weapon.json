@@ -1,0 +1,3622 @@
+[
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "3",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "4",
+    "column": "Content",
+    "source_en": "A blade born of service to the law. Ornamentation resembling the law is engraved on its body. Swear on the alliance, glory shall come!",
+    "source_hash": "eca0d402c6f00a6b3cbfc8e6fec3252389186a7c",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "5",
+    "column": "Content",
+    "source_en": "A blade born of service to the law. Ornamentation resembling the law is engraved on its body. Swear on the alliance, glory shall come!",
+    "source_hash": "eca0d402c6f00a6b3cbfc8e6fec3252389186a7c",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "6",
+    "column": "Content",
+    "source_en": "A broadblade that hosts the collective will. Wherever it passes, it manifests an unbreakable power of unity.",
+    "source_hash": "19a90f9e22866306a88765b6fba8b089060f2309",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "8",
+    "column": "Content",
+    "source_en": "Increases ATK by {2}%. Each time you deal damage to a target, a stack is accumulated for 5 seconds, 10 stacks max.. Only 1 stack every 0.4 seconds. Each stack increases ATK by {0}%. When there are 10 stacks, ATK is increased by an additional {1}%.",
+    "source_hash": "52ff16feb4220e14a5fba4e0956bf18de2e915b7",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "9",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "10",
+    "column": "Content",
+    "source_en": "A blade born of service to the law. Ornamentation resembling the law is engraved on its body. It bears the supreme will of its user.",
+    "source_hash": "798cf1ad8106582c8cc19b9c31fbc9bb8fc186e2",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "11",
+    "column": "Content",
+    "source_en": "A blade born of service to the law. Ornamentation resembling the law is engraved on its body. It bears the supreme will of its user.",
+    "source_hash": "798cf1ad8106582c8cc19b9c31fbc9bb8fc186e2",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "12",
+    "column": "Content",
+    "source_en": "A blade born of service to the law. Ornamentation resembling the law is engraved on its body.",
+    "source_hash": "96bc07ff66e43803cc69574fa7f4e612e011a860",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "14",
+    "column": "Content",
+    "source_en": "DMG of all attributes are raised by {0}%. When normal attacks land, ATK and DEF are raised by {1}%, which lasts for {2} seconds. This can be stacked for max. {3} times and triggered once every {4} seconds.",
+    "source_hash": "a6c22e35b954cccd3692dbeda5cfec932567d9f1",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "15",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "16",
+    "column": "Content",
+    "source_en": "A gun specially made for crime sanction. Its historic users are all extraordinarily faithful to justice. Maybe... weapons pick their users, in their way.",
+    "source_hash": "1e238378464071afce0ce92abdc0a69d3822a9e2",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "17",
+    "column": "Content",
+    "source_en": "A gun specially made for crime sanction. Its historic users are all extraordinarily faithful to justice. Maybe... weapons pick their users, in their way.",
+    "source_hash": "1e238378464071afce0ce92abdc0a69d3822a9e2",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "18",
+    "column": "Content",
+    "source_en": "A gun specially made for crime sanction. Its historic users are all extraordinarily faithful to justice.",
+    "source_hash": "1aaeee8089b0aa655e077929dfe7f4a579ed0164",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "21",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "26",
+    "column": "Content",
+    "source_en": "Healing effects are raised by {0}%. When normal attacks or charged attacks land, ATK is raised by {1}% for all characters. Lasts for 12 seconds. This can be stacked for max. 5 times.",
+    "source_hash": "d7614ebbf1e6cd39484206c06fafb50586f1bc09",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "27",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "28",
+    "column": "Content",
+    "source_en": "A creation of technology, made for the defense of idea. With strong firepower and range, it reveals and defends the truth that it believes.",
+    "source_hash": "162b9e3c07e5aac882ecc0df8997179128f35d4c",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "29",
+    "column": "Content",
+    "source_en": "A creation of technology, made for the defense of idea. With strong firepower and range, it reveals and defends the truth that it believes.",
+    "source_hash": "162b9e3c07e5aac882ecc0df8997179128f35d4c",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "30",
+    "column": "Content",
+    "source_en": "With strong firepower and range, it reveals and defends the truth that it believes.",
+    "source_hash": "b1fbd33c07c3c9a081765c782e451273b8b8784e",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "31",
+    "column": "Content",
+    "source_en": "Ultrasonic Judgement",
+    "source_hash": "6e75955ce0dd6d8d64d2dcbe898677c56287307f",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "33",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "34",
+    "column": "Content",
+    "source_en": "A smith technique before the Lament is used, giving the blade a relatively light usability with its cumbersome-looking body. Buzzing sounds can be heard when slashing, like a croon from eternity.",
+    "source_hash": "bd61314f7f3bfed703adfb6f05bc5a8ff6df1679",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "35",
+    "column": "Content",
+    "source_en": "A smith technique before the Lament is used, giving the blade a relatively light usability with its cumbersome-looking body. Buzzing sounds can be heard when slashing, like a croon from eternity.",
+    "source_hash": "bd61314f7f3bfed703adfb6f05bc5a8ff6df1679",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "36",
+    "column": "Content",
+    "source_en": "A smith technique before the Lament is used, giving the blade a relatively light usability with its cumbersome-looking body.",
+    "source_hash": "d1b7150b2cd1bd1f806f7fc127d96070852214bc",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "37",
+    "column": "Content",
+    "source_en": "Ultrasonic Blade",
+    "source_hash": "76bca42c58d3767f985702afb1439bf63b22528c",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "39",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "40",
+    "column": "Content",
+    "source_en": "A sword of recognized blessing since it accompanies multiple fighters' triumphs. So, may victory be with you.",
+    "source_hash": "56531028724c2f4efac54d8ab4d3b79ac8dd23d4",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "41",
+    "column": "Content",
+    "source_en": "A sword of recognized blessing since it accompanies multiple fighters' triumphs. So, may victory be with you.",
+    "source_hash": "56531028724c2f4efac54d8ab4d3b79ac8dd23d4",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "42",
+    "column": "Content",
+    "source_en": "A sword of recognized blessing since it accompanies multiple fighters' triumphs.",
+    "source_hash": "26519f553669312e7888c13e4b44374dfe3f7d9e",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "43",
+    "column": "Content",
+    "source_en": "Ultrasonic Hellen",
+    "source_hash": "451214e406875501c091a9816efdaedf8362b4a7",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "45",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "46",
+    "column": "Content",
+    "source_en": "A gun known for its strong firepower. Impassioned convictions will rise when this gun is held on the battlefield.",
+    "source_hash": "4e4800cb5d932039c1d544af0a96fad2e3e5a0a9",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "47",
+    "column": "Content",
+    "source_en": "A gun known for its strong firepower. Impassioned convictions will rise when this gun is held on the battlefield.",
+    "source_hash": "4e4800cb5d932039c1d544af0a96fad2e3e5a0a9",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "48",
+    "column": "Content",
+    "source_en": "A gun known for its strong firepower. Impassioned convictions will rise when this gun is held on the battlefield.",
+    "source_hash": "4e4800cb5d932039c1d544af0a96fad2e3e5a0a9",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "49",
+    "column": "Content",
+    "source_en": "Ultrasonic rockbreaker",
+    "source_hash": "b1e7b73fe5dda81685cb693cdfac69dee0424bd9",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "51",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "52",
+    "column": "Content",
+    "source_en": "A pair of sound gauntlets with a brutal weight and ultimate reliability. It can unleash huge power enough to move mountains in the hands of proficient users.",
+    "source_hash": "3d7f1186253e801084a9786b11c44f60eb407088",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "53",
+    "column": "Content",
+    "source_en": "A pair of sound gauntlets with a brutal weight and ultimate reliability. It can unleash huge power enough to move mountains in the hands of proficient users.",
+    "source_hash": "3d7f1186253e801084a9786b11c44f60eb407088",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "54",
+    "column": "Content",
+    "source_en": "A pair of sound gauntlets with a brutal weight and ultimate reliability. It can unleash huge power enough to move mountains in the hands of proficient users.",
+    "source_hash": "3d7f1186253e801084a9786b11c44f60eb407088",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "55",
+    "column": "Content",
+    "source_en": "Ultrasonic Matrix",
+    "source_hash": "c8c5f347bc56a44b6a5c0b27e58423d2f8c1f68e",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "57",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "58",
+    "column": "Content",
+    "source_en": "An arm inspired by floating lamps in dramas. Carrying relatively advanced matrix chain technology, it shall make perfect operations masterpieces worthy of appreciation.",
+    "source_hash": "f59deb7ab8fc022c72263d46168b9e2cef2f7d48",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "59",
+    "column": "Content",
+    "source_en": "An arm inspired by floating lamps in dramas. Carrying relatively advanced matrix chain technology, it shall make perfect operations masterpieces worthy of appreciation.",
+    "source_hash": "f59deb7ab8fc022c72263d46168b9e2cef2f7d48",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "60",
+    "column": "Content",
+    "source_en": "Carrying relatively advanced matrix chain technology, it shall make perfect operations masterpieces worthy of appreciation.",
+    "source_hash": "b769a475488a8b7fbe6f595426d375e33c64ebd4",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "61",
+    "column": "Content",
+    "source_en": "Scale: hetero",
+    "source_hash": "0c33561b9680f41770609a98863b6dfcd1498bcd",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "62",
+    "column": "Content",
+    "source_en": "For every Resonance Skill used, restore {0} Concerto Vibrancy. Can be triggered every 20 seconds.",
+    "source_hash": "4d778cd3c7b90aa49fbcfa1d9619308e3cad2a74",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "63",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "64",
+    "column": "Content",
+    "source_en": "With descending scale, equip this blade to dominate the battle with strange sounds. Curtain never falls.",
+    "source_hash": "546524d6dc4e35b28df0f4edfdf16ed3eb0f3a4f",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "65",
+    "column": "Content",
+    "source_en": "With descending scale, equip this blade to dominate the battle with strange sounds. Curtain never falls.",
+    "source_hash": "546524d6dc4e35b28df0f4edfdf16ed3eb0f3a4f",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "66",
+    "column": "Content",
+    "source_en": "With descending scale, equip this blade to dominate the battle with strange sounds. Curtain never falls.",
+    "source_hash": "546524d6dc4e35b28df0f4edfdf16ed3eb0f3a4f",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "67",
+    "column": "Content",
+    "source_en": "Scale: chop of sound",
+    "source_hash": "f8ef4a31b88dd661c55b40957aa302c6d48fe948",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "68",
+    "column": "Content",
+    "source_en": "For every Resonance Skill used, restore {0} Concerto Vibrancy. Can be triggered every 20 seconds.",
+    "source_hash": "4d778cd3c7b90aa49fbcfa1d9619308e3cad2a74",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "69",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "70",
+    "column": "Content",
+    "source_en": "With ascending scale, equip this blade to make pleasant sounds and compose gorgeous preludes.",
+    "source_hash": "bd5b2da20346f9562726d497e7415655d1f0a063",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "71",
+    "column": "Content",
+    "source_en": "With ascending scale, equip this blade to make pleasant sounds and compose gorgeous preludes.",
+    "source_hash": "bd5b2da20346f9562726d497e7415655d1f0a063",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "72",
+    "column": "Content",
+    "source_en": "With ascending scale, equip this blade to make pleasant sounds and compose gorgeous preludes.",
+    "source_hash": "bd5b2da20346f9562726d497e7415655d1f0a063",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "73",
+    "column": "Content",
+    "source_en": "Scale: through the air",
+    "source_hash": "be54f56bfcec3ba54b415dc63c1ac3c88bf8304f",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "74",
+    "column": "Content",
+    "source_en": "For every Resonance Skill used, restore {0} Concerto Vibrancy. Can be triggered every 20 seconds.",
+    "source_hash": "4d778cd3c7b90aa49fbcfa1d9619308e3cad2a74",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "75",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "76",
+    "column": "Content",
+    "source_en": "With ascending scale, equip this gun to strike thunders through the air and play wonderful movements.",
+    "source_hash": "371be88c5cade5b3e1bf156a8fc795520d774552",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "77",
+    "column": "Content",
+    "source_en": "With ascending scale, equip this gun to strike thunders through the air and play wonderful movements.",
+    "source_hash": "371be88c5cade5b3e1bf156a8fc795520d774552",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "78",
+    "column": "Content",
+    "source_en": "With ascending scale, equip this gun to strike thunders through the air and play wonderful movements.",
+    "source_hash": "371be88c5cade5b3e1bf156a8fc795520d774552",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "79",
+    "column": "Content",
+    "source_en": "Scale: wave",
+    "source_hash": "3b65f7c16c302cda160f2ccd9df9b870d1bca44d",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "80",
+    "column": "Content",
+    "source_en": "For every Resonance Skill used, restore {0} Concerto Vibrancy. Can be triggered every 20 seconds.",
+    "source_hash": "4d778cd3c7b90aa49fbcfa1d9619308e3cad2a74",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "81",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "82",
+    "column": "Content",
+    "source_en": "With a descending scale, equip this gauntlet to roar and rage with the sound of huge waves and forge high-pitched symphony.",
+    "source_hash": "026642e3d08c4e3b6e7399f9dc9f699ed25b6c04",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "83",
+    "column": "Content",
+    "source_en": "With a descending scale, equip this gauntlet to roar and rage with the sound of huge waves and forge high-pitched symphony.",
+    "source_hash": "026642e3d08c4e3b6e7399f9dc9f699ed25b6c04",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "84",
+    "column": "Content",
+    "source_en": "With a descending scale, equip this gauntlet to roar and rage with the sound of huge waves and forge high-pitched symphony.",
+    "source_hash": "026642e3d08c4e3b6e7399f9dc9f699ed25b6c04",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "85",
+    "column": "Content",
+    "source_en": "Scale: Introduction",
+    "source_hash": "98cf74ca19f4d729f21ae2cca0ea4da1c9ae8c88",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "86",
+    "column": "Content",
+    "source_en": "For every Resonance Skill used, restore {0} Concerto Vibrancy. Can be triggered every 20 seconds.",
+    "source_hash": "4d778cd3c7b90aa49fbcfa1d9619308e3cad2a74",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "87",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "88",
+    "column": "Content",
+    "source_en": "With descending scale, equip this to find a tactic with insightful vision. Pitch will be shifted for the concerto.",
+    "source_hash": "82c94ec889d14b60bc9589c1ad4b1410468754bc",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "89",
+    "column": "Content",
+    "source_en": "With descending scale, equip this to find a tactic with insightful vision. Pitch will be shifted for the concerto.",
+    "source_hash": "82c94ec889d14b60bc9589c1ad4b1410468754bc",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "90",
+    "column": "Content",
+    "source_en": "With descending scale, equip this to find a tactic with insightful vision. Pitch will be shifted for the concerto.",
+    "source_hash": "82c94ec889d14b60bc9589c1ad4b1410468754bc",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "91",
+    "column": "Content",
+    "source_en": "Broadblade of night",
+    "source_hash": "961ac5a437dea7aadc40bda2961ced47dea41db1",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "92",
+    "column": "Content",
+    "source_en": "When flick is triggered, character's ATK is raised by {0}%. Lasts for {1} second. This effect can be stacked for max. {2} times.",
+    "source_hash": "6841c41fc9f431dcb976b1ad25af273e43564ee4",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "93",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "94",
+    "column": "Content",
+    "source_en": "\"Through the long night, triumph.\" Inscribed on the Broadsword is not only oath of guard, but fighter's resolution.",
+    "source_hash": "97a5b7ee36e2406e0a7e3533422ffe8374721737",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "95",
+    "column": "Content",
+    "source_en": "\"Through the long night, triumph.\" Inscribed on the Broadsword is not only oath of guard, but fighter's resolution.",
+    "source_hash": "97a5b7ee36e2406e0a7e3533422ffe8374721737",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "96",
+    "column": "Content",
+    "source_en": "A wide sword that weighs over a thousand pounds. Only the turbulence from its wielding is enough to tear its foes.",
+    "source_hash": "5392322757f858fdb266cca7fe21660c26737b23",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "97",
+    "column": "Content",
+    "source_en": "Smallblade of night",
+    "source_hash": "740956d83d868feb40818e276ddcc0d13d194189",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "98",
+    "column": "Content",
+    "source_en": "When enemy is defeated, restore {0}% HP.",
+    "source_hash": "46ac939fb58ed12d0526562e3e59cf4f62568b1e",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "99",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "100",
+    "column": "Content",
+    "source_en": "\"Through the long night, triumph.\" Inscribed on the Smallblade is not only oath of guard, but warrior's ambitions.",
+    "source_hash": "cde6fdda2259347f24e05d0760d2a94bb948b890",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "101",
+    "column": "Content",
+    "source_en": "\"Through the long night, triumph.\" Inscribed on the Smallblade is not only oath of guard, but warrior's ambitions.",
+    "source_hash": "cde6fdda2259347f24e05d0760d2a94bb948b890",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "102",
+    "column": "Content",
+    "source_en": "A sharp blades that shines with silver glitz, ready to strike its target at any time.",
+    "source_hash": "6c9b0010659314ca0d99335f14300039ab50c83f",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "103",
+    "column": "Content",
+    "source_en": "Gun of night",
+    "source_hash": "e8659c8ded64124c83276713eab80b6cc21bdcba",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "104",
+    "column": "Content",
+    "source_en": "When HP is lower than {0}%, the character's HP raises by {1}%.",
+    "source_hash": "ce365410252e18d4381ce373023ea80ef2ab80cf",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "105",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "106",
+    "column": "Content",
+    "source_en": "\"Through the long night, triumph.\" Inscribed on the pistol is not only oath of guard, but hope of rejuvenation.",
+    "source_hash": "8d5e5a9269f8bfc8573c339b620bd62363e45e99",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "107",
+    "column": "Content",
+    "source_en": "\"Through the long night, triumph.\" Inscribed on the pistol is not only oath of guard, but hope of rejuvenation.",
+    "source_hash": "8d5e5a9269f8bfc8573c339b620bd62363e45e99",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "108",
+    "column": "Content",
+    "source_en": "A masterpiece by a gun designer's improvement effort. Part of the bullet's power is sacrificed for enhanced accuracy and firing rate.",
+    "source_hash": "83c3fae0656dab9749791e1dfc04f17612b1d51e",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "109",
+    "column": "Content",
+    "source_en": "Gauntlet of night",
+    "source_hash": "9319f31f0b7b16f9d93df680a27991fa408eb194",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "111",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "112",
+    "column": "Content",
+    "source_en": "\"Through the long night, triumph.\" Inscribed on the gauntlet is not only oath of guard, but selfless dedication.",
+    "source_hash": "77899448e6f2dd97b0b47965db73568f1f9c7ec2",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "113",
+    "column": "Content",
+    "source_en": "\"Through the long night, triumph.\" Inscribed on the gauntlet is not only oath of guard, but selfless dedication.",
+    "source_hash": "77899448e6f2dd97b0b47965db73568f1f9c7ec2",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "114",
+    "column": "Content",
+    "source_en": "\"Through the long night, triumph.\" Inscribed on the gauntlet is not only oath of guard, but selfless dedication.",
+    "source_hash": "77899448e6f2dd97b0b47965db73568f1f9c7ec2",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "115",
+    "column": "Content",
+    "source_en": "Matrix of night",
+    "source_hash": "c1ba4b28a302b86b4fbfa035b317f8b59cbbaf3f",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "116",
+    "column": "Content",
+    "source_en": "When HP is higher than {0}%, the character's critical hit chance raises by {1}%.",
+    "source_hash": "df29663a1fec9a92e9f38b96b18a6cb2d03bc404",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "117",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "118",
+    "column": "Content",
+    "source_en": "\"Through the long night, triumph.\" Inscribed on the Rectifier is not only oath of guard, but burning confidence.",
+    "source_hash": "f896f4dc62918dbb6c46ea677b565e2c127266fc",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "119",
+    "column": "Content",
+    "source_en": "\"Through the long night, triumph.\" Inscribed on the Rectifier is not only oath of guard, but burning confidence.",
+    "source_hash": "f896f4dc62918dbb6c46ea677b565e2c127266fc",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "120",
+    "column": "Content",
+    "source_en": "Special-purpose arm that focuses on flexibility, capable of delivering multiples strikes on target.",
+    "source_hash": "7b3099792a517cf56b43c290b5cbffc3a56574eb",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "121",
+    "column": "Content",
+    "source_en": "Primordial Broadblade",
+    "source_hash": "6ded8911049decbfa63957abdd571d002021669a",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "122",
+    "column": "Content",
+    "source_en": "ATK raises {0}%.",
+    "source_hash": "a0e18835fa08a43cccca79ff008b5abcb34f2652",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "123",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "124",
+    "column": "Content",
+    "source_en": "The Beginning of Competition for Peak. A Broadblade specially made for beginner Resonators. Contains a power not to be underestimated under its simple outlook.",
+    "source_hash": "1719df128e1cbe03b57bbddf1b58733e8c7fe7d0",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "125",
+    "column": "Content",
+    "source_en": "The Beginning of Competition for Peak. A Broadblade specially made for beginner Resonators. Contains a power not to be underestimated under its simple outlook.",
+    "source_hash": "1719df128e1cbe03b57bbddf1b58733e8c7fe7d0",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "126",
+    "column": "Content",
+    "source_en": "A Broadblade specially made for beginner Resonators. Contains a power not to be underestimated under its simple outlook.",
+    "source_hash": "2cfa109c4d6954625bd86c649a4d14cc9f82fded",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "127",
+    "column": "Content",
+    "source_en": "Primordial Smallblade",
+    "source_hash": "2b042d416f3f649633fd43ce3acaa2362847a1a0",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "128",
+    "column": "Content",
+    "source_en": "ATK raises {0}%.",
+    "source_hash": "a0e18835fa08a43cccca79ff008b5abcb34f2652",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "129",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "130",
+    "column": "Content",
+    "source_en": "The Beginning of Revolution Waves. A Smallblade specially made for beginner Resonators. Contains a power not to be underestimated under its simple outlook.",
+    "source_hash": "3ae09c7cc47a209bb89ab87cd3f98d6b31c9b16f",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "131",
+    "column": "Content",
+    "source_en": "The Beginning of Revolution Waves. A Smallblade specially made for beginner Resonators. Contains a power not to be underestimated under its simple outlook.",
+    "source_hash": "3ae09c7cc47a209bb89ab87cd3f98d6b31c9b16f",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "132",
+    "column": "Content",
+    "source_en": "A Smallblade specially made for beginner Resonators. Contains a power not to be underestimated under its simple outlook.",
+    "source_hash": "1e012eca305d97a22083a852737504b91d6463f6",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "133",
+    "column": "Content",
+    "source_en": "Primordial gun",
+    "source_hash": "cb1e77ff4a940e579b8151ce7616197ee7ffac81",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "134",
+    "column": "Content",
+    "source_en": "ATK raises {0}%.",
+    "source_hash": "a0e18835fa08a43cccca79ff008b5abcb34f2652",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "135",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "136",
+    "column": "Content",
+    "source_en": "The Beginning of Powerhouse's Expedition. A gun specially made for beginner Resonators. Contains a power not to be underestimated under its simple outlook.",
+    "source_hash": "f65586bc1a4732e427f1f60117e10b133ad8dc36",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "137",
+    "column": "Content",
+    "source_en": "The Beginning of Powerhouse's Expedition. A gun specially made for beginner Resonators. Contains a power not to be underestimated under its simple outlook.",
+    "source_hash": "f65586bc1a4732e427f1f60117e10b133ad8dc36",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "138",
+    "column": "Content",
+    "source_en": "A Gun specially made for beginner Resonators. Contains a power not to be underestimated under its simple outlook.",
+    "source_hash": "7047765e133d3763362d66a21a05358fba5c4ccb",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "139",
+    "column": "Content",
+    "source_en": "Primordial Gauntlet",
+    "source_hash": "ac23da442b29d920e0d89373551462f0b3387737",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "140",
+    "column": "Content",
+    "source_en": "ATK raises {0}%.",
+    "source_hash": "a0e18835fa08a43cccca79ff008b5abcb34f2652",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "141",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "145",
+    "column": "Content",
+    "source_en": "Primordial Rectifier",
+    "source_hash": "c7ff698cb7bb24918c16a191a8b37a54339b4b24",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "146",
+    "column": "Content",
+    "source_en": "ATK raises {0}%.",
+    "source_hash": "a0e18835fa08a43cccca79ff008b5abcb34f2652",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "147",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "148",
+    "column": "Content",
+    "source_en": "The Beginning of All's Creation. A Rectifier specially made for beginner Resonators. Contains a power not to be underestimated under its simple outlook.",
+    "source_hash": "b6272a5857b3e3e3b68e6d40d44ccf622427130c",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "149",
+    "column": "Content",
+    "source_en": "The Beginning of All's Creation. A Rectifier specially made for beginner Resonators. Contains a power not to be underestimated under its simple outlook.",
+    "source_hash": "b6272a5857b3e3e3b68e6d40d44ccf622427130c",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "150",
+    "column": "Content",
+    "source_en": "A Rectifier specially made for beginner Resonators. Contains a power not to be underestimated under its simple outlook.",
+    "source_hash": "30217d3be3f1a63644006b44d7140bdf994a41d5",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "151",
+    "column": "Content",
+    "source_en": "Training Broadblade",
+    "source_hash": "31d892cf3cde5f8f58209d9b6e928ccfb89f3b4a",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "152",
+    "column": "Content",
+    "source_en": "ATK raises {0}%.",
+    "source_hash": "a0e18835fa08a43cccca79ff008b5abcb34f2652",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "153",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "154",
+    "column": "Content",
+    "source_en": "A Broadblade made for training and teaching. Only essential capabilities.",
+    "source_hash": "06f7810c7e4d88517c0df0d6318d6dbc0e4a12c4",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "155",
+    "column": "Content",
+    "source_en": "A Broadblade made for training and teaching. Only essential capabilities.",
+    "source_hash": "06f7810c7e4d88517c0df0d6318d6dbc0e4a12c4",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "156",
+    "column": "Content",
+    "source_en": "A Broadblade made for battle training, only used for simple battle moves.",
+    "source_hash": "8a029b3946d5d5396852fb2106b134591934ce9e",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "157",
+    "column": "Content",
+    "source_en": "Training Smallblade",
+    "source_hash": "821d8ea24b14a2f7e2701633c6430ab28b2600cf",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "158",
+    "column": "Content",
+    "source_en": "ATK raises {0}%.",
+    "source_hash": "a0e18835fa08a43cccca79ff008b5abcb34f2652",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "159",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "160",
+    "column": "Content",
+    "source_en": "A Smallblade made for training and teaching. Only essential capabilities.",
+    "source_hash": "5dc32e3d256b2597105bdf34ec5d8db97c5fee89",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "161",
+    "column": "Content",
+    "source_en": "A Smallblade made for training and teaching. Only essential capabilities.",
+    "source_hash": "5dc32e3d256b2597105bdf34ec5d8db97c5fee89",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "162",
+    "column": "Content",
+    "source_en": "A Smallblade made for battle training. Only used for basic battles.",
+    "source_hash": "914eb072bbf43872e3d3c422d84b73de72bc5e00",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "163",
+    "column": "Content",
+    "source_en": "Training gun",
+    "source_hash": "0a0d05ce09435846b05446f589b51a4e5e6fe8cd",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "164",
+    "column": "Content",
+    "source_en": "ATK raises {0}%.",
+    "source_hash": "a0e18835fa08a43cccca79ff008b5abcb34f2652",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "165",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "166",
+    "column": "Content",
+    "source_en": "A Pistol made for training and teaching. Only essential capabilities.",
+    "source_hash": "e81b4c504644b7e74b4e7b04b930680c0cb166a0",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "167",
+    "column": "Content",
+    "source_en": "A Pistol made for training and teaching. Only essential capabilities.",
+    "source_hash": "e81b4c504644b7e74b4e7b04b930680c0cb166a0",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "168",
+    "column": "Content",
+    "source_en": "A Gun made for battle training. Only used for basic battles.",
+    "source_hash": "dbb510734125c5ea5677351f3dd1e0ee1f3bd4a4",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "169",
+    "column": "Content",
+    "source_en": "Training Gauntlet",
+    "source_hash": "a0d61f2b541828a4bc54f69b72eac8676b76a0e1",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "170",
+    "column": "Content",
+    "source_en": "ATK raises {0}%.",
+    "source_hash": "a0e18835fa08a43cccca79ff008b5abcb34f2652",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "171",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "172",
+    "column": "Content",
+    "source_en": "A Gauntlet made for training and teaching. Only essential capabilities.",
+    "source_hash": "ba0cab5d9bd4edc50c6f2aa04b87a50e62f5b29c",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "173",
+    "column": "Content",
+    "source_en": "A Gauntlet made for training and teaching. Only essential capabilities.",
+    "source_hash": "ba0cab5d9bd4edc50c6f2aa04b87a50e62f5b29c",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "174",
+    "column": "Content",
+    "source_en": "A Gauntlet made for battle training. Only used for basic battles.",
+    "source_hash": "372067cb95065ad830d5a57def6fa221a271881b",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "175",
+    "column": "Content",
+    "source_en": "Training Rectifier",
+    "source_hash": "b6918e163e732a812984d4ae4adb634643ef5fe2",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "176",
+    "column": "Content",
+    "source_en": "ATK raises {0}%.",
+    "source_hash": "a0e18835fa08a43cccca79ff008b5abcb34f2652",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "177",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "178",
+    "column": "Content",
+    "source_en": "A Rectifier made for training and teaching. Only essential capabilities.",
+    "source_hash": "d6df6cd992e39a68794dc9e046dae93d1c188657",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "179",
+    "column": "Content",
+    "source_en": "A Rectifier made for training and teaching. Only essential capabilities.",
+    "source_hash": "d6df6cd992e39a68794dc9e046dae93d1c188657",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "180",
+    "column": "Content",
+    "source_en": "A Rectifier made for battle training. Only used for basic battles.",
+    "source_hash": "a3dff2b16ed3f7b67f3e261b37efce2e694459b0",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "181",
+    "column": "Content",
+    "source_en": "Broadblade prototype: REGULARIZATION",
+    "source_hash": "847647b521da4ebe94fb2d695507c436fcedd6eb",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "183",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "184",
+    "column": "Content",
+    "source_en": "Code-name REGULARIZATION, Broadblade prototype, from the Huanglong next-gen mass-production weaponry project.",
+    "source_hash": "ab665f44e59aaf5b087ddb827a4b6bd5ceb05b29",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "185",
+    "column": "Content",
+    "source_en": "Code-name REGULARIZATION, Broadblade prototype, from the Huanglong next-gen mass-production weaponry project.",
+    "source_hash": "ab665f44e59aaf5b087ddb827a4b6bd5ceb05b29",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "186",
+    "column": "Content",
+    "source_en": "Code-name REGULARIZATION, Broadblade prototype, from the Huanglong next-gen mass-production weaponry project.",
+    "source_hash": "ab665f44e59aaf5b087ddb827a4b6bd5ceb05b29",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "187",
+    "column": "Content",
+    "source_en": "Smallblade prototype: SPEAR",
+    "source_hash": "de248bad2232fdfdb760c1beadec25af8ba70dee",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "189",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "190",
+    "column": "Content",
+    "source_en": "Code-name SPEAR, Smallblade prototype, from the Huanglong next-gen mass-production weaponry project.",
+    "source_hash": "4c821800b184478303d4f406294fd3258e25f13b",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "191",
+    "column": "Content",
+    "source_en": "Code-name SPEAR, Smallblade prototype, from the Huanglong next-gen mass-production weaponry project.",
+    "source_hash": "4c821800b184478303d4f406294fd3258e25f13b",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "192",
+    "column": "Content",
+    "source_en": "Code-name SPEAR, Smallblade prototype, from the Huanglong next-gen mass-production weaponry project.",
+    "source_hash": "4c821800b184478303d4f406294fd3258e25f13b",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "193",
+    "column": "Content",
+    "source_en": "Rectifier prototype: SEQUENCE",
+    "source_hash": "26c2b81148b686bd0d387ace0b202bf71c997fb0",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "195",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "196",
+    "column": "Content",
+    "source_en": "Code-name SEQUENCE, Rectifier prototype, from the Huanglong next-gen mass-production weaponry project.",
+    "source_hash": "a135563ffa25cf56bae1c4791b2fbedc45fef49b",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "197",
+    "column": "Content",
+    "source_en": "Code-name SEQUENCE, Rectifier prototype, from the Huanglong next-gen mass-production weaponry project.",
+    "source_hash": "a135563ffa25cf56bae1c4791b2fbedc45fef49b",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "198",
+    "column": "Content",
+    "source_en": "Code-name SEQUENCE, Rectifier prototype, from the Huanglong next-gen mass-production weaponry project.",
+    "source_hash": "a135563ffa25cf56bae1c4791b2fbedc45fef49b",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "199",
+    "column": "Content",
+    "source_en": "Broadblade improved: regularization II",
+    "source_hash": "0f535170833099b31a4f8e23b1b4e8931d79ac4e",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "201",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "202",
+    "column": "Content",
+    "source_en": "Improved version of a Broadblade prototype from the Huanglong next-gen mass production weaponry project. With strong performance and novel technologies, this dragon carries a weight only to be wielded by warriors of years of training.",
+    "source_hash": "155977f5291e053c315aeb9654a09871a5278989",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "203",
+    "column": "Content",
+    "source_en": "Improved version of a Broadblade prototype from the Huanglong next-gen mass production weaponry project. With strong performance and novel technologies, this dragon carries a weight only to be wielded by warriors of years of training.",
+    "source_hash": "155977f5291e053c315aeb9654a09871a5278989",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "204",
+    "column": "Content",
+    "source_en": "Improved version of a Broadblade prototype from the Huanglong next-gen mass production weaponry project. With strong performance and novel technologies, this dragon carries a weight only to be wielded by warriors of years of training.",
+    "source_hash": "155977f5291e053c315aeb9654a09871a5278989",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "205",
+    "column": "Content",
+    "source_en": "Smallblade improved: Spear II",
+    "source_hash": "c2dfe29ade919a82a6f233ab85e3e6613b6f62f5",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "207",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "208",
+    "column": "Content",
+    "source_en": "Improved version of a Smallblade prototype from the Huanglong next-gen mass production weaponry project. With streamline blade and extra-simple design, it fits only in the palm of seasoned swordsmen.",
+    "source_hash": "48c1ca3386734525f0f336d18d3ccdf9522a368a",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "209",
+    "column": "Content",
+    "source_en": "Improved version of a Smallblade prototype from the Huanglong next-gen mass production weaponry project. With streamline blade and extra-simple design, it fits only in the palm of seasoned swordsmen.",
+    "source_hash": "48c1ca3386734525f0f336d18d3ccdf9522a368a",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "210",
+    "column": "Content",
+    "source_en": "Improved version of a Smallblade prototype from the Huanglong next-gen mass production weaponry project. With streamline blade and extra-simple design, it fits only in the palm of seasoned swordsmen.",
+    "source_hash": "48c1ca3386734525f0f336d18d3ccdf9522a368a",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "211",
+    "column": "Content",
+    "source_en": "Rectifier improved: SEQUENCE II",
+    "source_hash": "b6869de4de282a28e0df12523f247b75f3a3b966",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "213",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "214",
+    "column": "Content",
+    "source_en": "Improved version of a Broadblade prototype from the Huanglong next-gen mass production weaponry project. With surging power and highly purified lens, its sound is only played by the wise of steel-like will.",
+    "source_hash": "b0cc374eddf8b6c4392315fe27f537d1d04ce438",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "215",
+    "column": "Content",
+    "source_en": "Improved version of a Broadblade prototype from the Huanglong next-gen mass production weaponry project. With surging power and highly purified lens, its sound is only played by the wise of steel-like will.",
+    "source_hash": "b0cc374eddf8b6c4392315fe27f537d1d04ce438",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "216",
+    "column": "Content",
+    "source_en": "Improved version of a Broadblade prototype from the Huanglong next-gen mass production weaponry project. With surging power and highly purified lens, its sound is only played by the wise of steel-like will.",
+    "source_hash": "b0cc374eddf8b6c4392315fe27f537d1d04ce438",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "217",
+    "column": "Content",
+    "source_en": "May the long night be ever lit.",
+    "source_hash": "0f50f7c7255478cc197a0ef1d1cbf7ea738025cc",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "219",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "220",
+    "column": "Content",
+    "source_en": "A weapon specially made for the Midnight Rangers to commemorate their constant preparedness. A poem appreciates them: \"autumn dims in endless nights, starry spots stand ready.\"",
+    "source_hash": "c62993f42b8226782c0524c475503519d2dca912",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "221",
+    "column": "Content",
+    "source_en": "A weapon specially made for the Midnight Rangers to commemorate their constant preparedness. A poem appreciates them: \"autumn dims in endless nights, starry spots stand ready.\"",
+    "source_hash": "c62993f42b8226782c0524c475503519d2dca912",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "222",
+    "column": "Content",
+    "source_en": "A weapon specially made for the Midnight Rangers to commemorate their constant preparedness. A poem appreciates them: \"autumn dims in endless nights, starry spots stand ready.\"",
+    "source_hash": "c62993f42b8226782c0524c475503519d2dca912",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "223",
+    "column": "Content",
+    "source_en": "Commando of Conviction",
+    "source_hash": "b418f05a0f5107cca12a4d81d4ab33643502c5f1",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "225",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "226",
+    "column": "Content",
+    "source_en": "A weapon specially made for the Midnight Rangers to commemorate their courage. A poem appreciates them: \"A thousand noise transmit the news of war, and all the men are united in Gorges of spirit.",
+    "source_hash": "c56a9e1b7f3dacc39a75a60dc7387973154d84ff",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "227",
+    "column": "Content",
+    "source_en": "A weapon specially made for the Midnight Rangers to commemorate their courage. A poem appreciates them: \"A thousand noise transmit the news of war, and all the men are united in Gorges of spirit.",
+    "source_hash": "c56a9e1b7f3dacc39a75a60dc7387973154d84ff",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "228",
+    "column": "Content",
+    "source_en": "A weapon specially made for the Midnight Rangers to commemorate their courage. A poem appreciates them: \"A thousand noise transmit the news of war, and all the men are united in Gorges of spirit.",
+    "source_hash": "c56a9e1b7f3dacc39a75a60dc7387973154d84ff",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "229",
+    "column": "Content",
+    "source_en": "Undying Flame",
+    "source_hash": "cffaf08f20361ea70c4942b4155f5caea57b0a86",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "231",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "232",
+    "column": "Content",
+    "source_en": "A weapon specially made for the Midnight Rangers, to commemorate their dedication. A poem appreciates them: \"should my body be lit, the flame will burn evil.\"",
+    "source_hash": "6c09333b8882a7e4bfa2569a6b8f24e8003847fd",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "233",
+    "column": "Content",
+    "source_en": "A weapon specially made for the Midnight Rangers, to commemorate their dedication. A poem appreciates them: \"should my body be lit, the flame will burn evil.\"",
+    "source_hash": "6c09333b8882a7e4bfa2569a6b8f24e8003847fd",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "234",
+    "column": "Content",
+    "source_en": "A weapon specially made for the Midnight Rangers, to commemorate their dedication. A poem appreciates them: \"should my body be lit, the flame will burn evil.\"",
+    "source_hash": "6c09333b8882a7e4bfa2569a6b8f24e8003847fd",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "235",
+    "column": "Content",
+    "source_en": "Bonds of Comrade",
+    "source_hash": "83c40fcb5f6e9bf6367174fe3f8affff9dcc3ca7",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "237",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "238",
+    "column": "Content",
+    "source_en": "A weapon specially made for the Midnight Rangers, to commemorate their solid friendship. A poem appreciates them: \"Though thin clothes hardly resist frosty moons, armors take chill stars.\"",
+    "source_hash": "8f8034529dcc3d31f68a4afcefa2784476c9b917",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "239",
+    "column": "Content",
+    "source_en": "A weapon specially made for the Midnight Rangers, to commemorate their solid friendship. A poem appreciates them: \"Though thin clothes hardly resist frosty moons, armors take chill stars.\"",
+    "source_hash": "8f8034529dcc3d31f68a4afcefa2784476c9b917",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "240",
+    "column": "Content",
+    "source_en": "A weapon specially made for the Midnight Rangers, to commemorate their solid friendship. A poem appreciates them: \"Though thin clothes hardly resist frosty moons, armors take chill stars.\"",
+    "source_hash": "8f8034529dcc3d31f68a4afcefa2784476c9b917",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "241",
+    "column": "Content",
+    "source_en": "Tiancheng Watch",
+    "source_hash": "e5251d3379e984143956d0a1205799a2791b0b0d",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "243",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "244",
+    "column": "Content",
+    "source_en": "A weapon specially made for the Midnight Rangers, to commemorate their guard for Tiancheng. A poem appreciates them: \"Look north of the city of lake to Desorocks, steamy rains hinder the the gates.\"",
+    "source_hash": "8a3c741f4a4b9ddc348598f27e4e27b8eb9f1705",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "245",
+    "column": "Content",
+    "source_en": "A weapon specially made for the Midnight Rangers, to commemorate their guard for Tiancheng. A poem appreciates them: \"Look north of the city of lake to Desorocks, steamy rains hinder the the gates.\"",
+    "source_hash": "8a3c741f4a4b9ddc348598f27e4e27b8eb9f1705",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "246",
+    "column": "Content",
+    "source_en": "A weapon specially made for the Midnight Rangers, to commemorate their guard for Tiancheng. A poem appreciates them: \"Look north of the city of lake to Desorocks, steamy rains hinder the the gates.\"",
+    "source_hash": "8a3c741f4a4b9ddc348598f27e4e27b8eb9f1705",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "249",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "255",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "261",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "267",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponConf",
+    "primary_key_column": "Id",
+    "primary_key": "273",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "1",
+    "column": "Content",
+    "source_en": "Focus",
+    "source_hash": "fe7f55b8bf68fd47d248a271d541e7e183621010",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "2",
+    "column": "Content",
+    "source_en": "Focus",
+    "source_hash": "fe7f55b8bf68fd47d248a271d541e7e183621010",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "3",
+    "column": "Content",
+    "source_en": "Focus",
+    "source_hash": "fe7f55b8bf68fd47d248a271d541e7e183621010",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "4",
+    "column": "Content",
+    "source_en": "Focus",
+    "source_hash": "fe7f55b8bf68fd47d248a271d541e7e183621010",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "5",
+    "column": "Content",
+    "source_en": "Focus",
+    "source_hash": "fe7f55b8bf68fd47d248a271d541e7e183621010",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "6",
+    "column": "Content",
+    "source_en": "Rocks into pieces",
+    "source_hash": "ee38bb1d29eebe6cc14fe0a786f8e5d77f806fa4",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "7",
+    "column": "Content",
+    "source_en": "Rocks into pieces",
+    "source_hash": "ee38bb1d29eebe6cc14fe0a786f8e5d77f806fa4",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "8",
+    "column": "Content",
+    "source_en": "Rocks into pieces",
+    "source_hash": "ee38bb1d29eebe6cc14fe0a786f8e5d77f806fa4",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "9",
+    "column": "Content",
+    "source_en": "Rocks into pieces",
+    "source_hash": "ee38bb1d29eebe6cc14fe0a786f8e5d77f806fa4",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "10",
+    "column": "Content",
+    "source_en": "Rocks into pieces",
+    "source_hash": "ee38bb1d29eebe6cc14fe0a786f8e5d77f806fa4",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "11",
+    "column": "Content",
+    "source_en": "Endless adoring",
+    "source_hash": "52f6214ecf8044a0330784b326d82ffd38f7c0b0",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "12",
+    "column": "Content",
+    "source_en": "Endless adoring",
+    "source_hash": "52f6214ecf8044a0330784b326d82ffd38f7c0b0",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "13",
+    "column": "Content",
+    "source_en": "Endless adoring",
+    "source_hash": "52f6214ecf8044a0330784b326d82ffd38f7c0b0",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "14",
+    "column": "Content",
+    "source_en": "Endless adoring",
+    "source_hash": "52f6214ecf8044a0330784b326d82ffd38f7c0b0",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "15",
+    "column": "Content",
+    "source_en": "Endless adoring",
+    "source_hash": "52f6214ecf8044a0330784b326d82ffd38f7c0b0",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "16",
+    "column": "Content",
+    "source_en": "Heart of purity",
+    "source_hash": "cc847d6de54bd0480846d70b94a3e6e776fae10a",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "17",
+    "column": "Content",
+    "source_en": "Heart of purity",
+    "source_hash": "cc847d6de54bd0480846d70b94a3e6e776fae10a",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "18",
+    "column": "Content",
+    "source_en": "Heart of purity",
+    "source_hash": "cc847d6de54bd0480846d70b94a3e6e776fae10a",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "19",
+    "column": "Content",
+    "source_en": "Heart of purity",
+    "source_hash": "cc847d6de54bd0480846d70b94a3e6e776fae10a",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "20",
+    "column": "Content",
+    "source_en": "Heart of purity",
+    "source_hash": "cc847d6de54bd0480846d70b94a3e6e776fae10a",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "21",
+    "column": "Content",
+    "source_en": "chords",
+    "source_hash": "e4c78fb51106eadd93fc6223a4d6f3d6e8f7da79",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "22",
+    "column": "Content",
+    "source_en": "chords",
+    "source_hash": "e4c78fb51106eadd93fc6223a4d6f3d6e8f7da79",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "23",
+    "column": "Content",
+    "source_en": "chords",
+    "source_hash": "e4c78fb51106eadd93fc6223a4d6f3d6e8f7da79",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "24",
+    "column": "Content",
+    "source_en": "chords",
+    "source_hash": "e4c78fb51106eadd93fc6223a4d6f3d6e8f7da79",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "25",
+    "column": "Content",
+    "source_en": "chords",
+    "source_hash": "e4c78fb51106eadd93fc6223a4d6f3d6e8f7da79",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "26",
+    "column": "Content",
+    "source_en": "set sail",
+    "source_hash": "92c7addd46d821c12ea87c9a78f72e06b72c4690",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "27",
+    "column": "Content",
+    "source_en": "set sail",
+    "source_hash": "92c7addd46d821c12ea87c9a78f72e06b72c4690",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "28",
+    "column": "Content",
+    "source_en": "set sail",
+    "source_hash": "92c7addd46d821c12ea87c9a78f72e06b72c4690",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "29",
+    "column": "Content",
+    "source_en": "set sail",
+    "source_hash": "92c7addd46d821c12ea87c9a78f72e06b72c4690",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "30",
+    "column": "Content",
+    "source_en": "set sail",
+    "source_hash": "92c7addd46d821c12ea87c9a78f72e06b72c4690",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "31",
+    "column": "Content",
+    "source_en": "Work hard",
+    "source_hash": "c3e230e50685ec423247608fa51afe3f40bfa262",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "32",
+    "column": "Content",
+    "source_en": "Work hard",
+    "source_hash": "c3e230e50685ec423247608fa51afe3f40bfa262",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "33",
+    "column": "Content",
+    "source_en": "Work hard",
+    "source_hash": "c3e230e50685ec423247608fa51afe3f40bfa262",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "34",
+    "column": "Content",
+    "source_en": "Work hard",
+    "source_hash": "c3e230e50685ec423247608fa51afe3f40bfa262",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "35",
+    "column": "Content",
+    "source_en": "Work hard",
+    "source_hash": "c3e230e50685ec423247608fa51afe3f40bfa262",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "36",
+    "column": "Content",
+    "source_en": "Discipline",
+    "source_hash": "14877e80cbce09cfd525595284d9e22b555bdeb2",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "37",
+    "column": "Content",
+    "source_en": "Discipline",
+    "source_hash": "14877e80cbce09cfd525595284d9e22b555bdeb2",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "38",
+    "column": "Content",
+    "source_en": "Discipline",
+    "source_hash": "14877e80cbce09cfd525595284d9e22b555bdeb2",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "39",
+    "column": "Content",
+    "source_en": "Discipline",
+    "source_hash": "14877e80cbce09cfd525595284d9e22b555bdeb2",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "40",
+    "column": "Content",
+    "source_en": "Discipline",
+    "source_hash": "14877e80cbce09cfd525595284d9e22b555bdeb2",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "41",
+    "column": "Content",
+    "source_en": "Judgement",
+    "source_hash": "38b60e8ff27269b178cb0eea3f097f4a320e032f",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "42",
+    "column": "Content",
+    "source_en": "Judgement",
+    "source_hash": "38b60e8ff27269b178cb0eea3f097f4a320e032f",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "43",
+    "column": "Content",
+    "source_en": "Judgement",
+    "source_hash": "38b60e8ff27269b178cb0eea3f097f4a320e032f",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "44",
+    "column": "Content",
+    "source_en": "Judgement",
+    "source_hash": "38b60e8ff27269b178cb0eea3f097f4a320e032f",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "45",
+    "column": "Content",
+    "source_en": "Judgement",
+    "source_hash": "38b60e8ff27269b178cb0eea3f097f4a320e032f",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "46",
+    "column": "Content",
+    "source_en": "Revelation",
+    "source_hash": "a7acb6fae59000aeab5e29ebf5dbe669c2044a45",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "47",
+    "column": "Content",
+    "source_en": "Revelation",
+    "source_hash": "a7acb6fae59000aeab5e29ebf5dbe669c2044a45",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "48",
+    "column": "Content",
+    "source_en": "Revelation",
+    "source_hash": "a7acb6fae59000aeab5e29ebf5dbe669c2044a45",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "49",
+    "column": "Content",
+    "source_en": "Revelation",
+    "source_hash": "a7acb6fae59000aeab5e29ebf5dbe669c2044a45",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "50",
+    "column": "Content",
+    "source_en": "Revelation",
+    "source_hash": "a7acb6fae59000aeab5e29ebf5dbe669c2044a45",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "51",
+    "column": "Content",
+    "source_en": "Dance",
+    "source_hash": "1b9f359ce4804d04078f0dcb89978a1e6e3b597b",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "52",
+    "column": "Content",
+    "source_en": "Dance",
+    "source_hash": "1b9f359ce4804d04078f0dcb89978a1e6e3b597b",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "53",
+    "column": "Content",
+    "source_en": "Dance",
+    "source_hash": "1b9f359ce4804d04078f0dcb89978a1e6e3b597b",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "54",
+    "column": "Content",
+    "source_en": "Dance",
+    "source_hash": "1b9f359ce4804d04078f0dcb89978a1e6e3b597b",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "55",
+    "column": "Content",
+    "source_en": "Dance",
+    "source_hash": "1b9f359ce4804d04078f0dcb89978a1e6e3b597b",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "56",
+    "column": "Content",
+    "source_en": "Hum",
+    "source_hash": "2e05f37e54c6803410600920acda03c149f45a35",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "57",
+    "column": "Content",
+    "source_en": "Hum",
+    "source_hash": "2e05f37e54c6803410600920acda03c149f45a35",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "58",
+    "column": "Content",
+    "source_en": "Hum",
+    "source_hash": "2e05f37e54c6803410600920acda03c149f45a35",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "59",
+    "column": "Content",
+    "source_en": "Hum",
+    "source_hash": "2e05f37e54c6803410600920acda03c149f45a35",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "60",
+    "column": "Content",
+    "source_en": "Hum",
+    "source_hash": "2e05f37e54c6803410600920acda03c149f45a35",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "61",
+    "column": "Content",
+    "source_en": "The chanting goes on and never ends",
+    "source_hash": "387d72140b9849b0faa25e1dbc464751833a8a5d",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "62",
+    "column": "Content",
+    "source_en": "The chanting goes on and never ends",
+    "source_hash": "387d72140b9849b0faa25e1dbc464751833a8a5d",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "63",
+    "column": "Content",
+    "source_en": "The chanting goes on and never ends",
+    "source_hash": "387d72140b9849b0faa25e1dbc464751833a8a5d",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "64",
+    "column": "Content",
+    "source_en": "The chanting goes on and never ends",
+    "source_hash": "387d72140b9849b0faa25e1dbc464751833a8a5d",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "65",
+    "column": "Content",
+    "source_en": "The chanting goes on and never ends",
+    "source_hash": "387d72140b9849b0faa25e1dbc464751833a8a5d",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "66",
+    "column": "Content",
+    "source_en": "Will to battle",
+    "source_hash": "f2d6a1136dca3ab24b411289790cc1177afdc2c0",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "67",
+    "column": "Content",
+    "source_en": "Will to battle",
+    "source_hash": "f2d6a1136dca3ab24b411289790cc1177afdc2c0",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "68",
+    "column": "Content",
+    "source_en": "Will to battle",
+    "source_hash": "f2d6a1136dca3ab24b411289790cc1177afdc2c0",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "69",
+    "column": "Content",
+    "source_en": "Will to battle",
+    "source_hash": "f2d6a1136dca3ab24b411289790cc1177afdc2c0",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "70",
+    "column": "Content",
+    "source_en": "Will to battle",
+    "source_hash": "f2d6a1136dca3ab24b411289790cc1177afdc2c0",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "71",
+    "column": "Content",
+    "source_en": "Triumph",
+    "source_hash": "1f04a67e44cfe83a6af08e6aed48e71ba925ee62",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "72",
+    "column": "Content",
+    "source_en": "Triumph",
+    "source_hash": "1f04a67e44cfe83a6af08e6aed48e71ba925ee62",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "73",
+    "column": "Content",
+    "source_en": "Triumph",
+    "source_hash": "1f04a67e44cfe83a6af08e6aed48e71ba925ee62",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "74",
+    "column": "Content",
+    "source_en": "Triumph",
+    "source_hash": "1f04a67e44cfe83a6af08e6aed48e71ba925ee62",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "75",
+    "column": "Content",
+    "source_en": "Triumph",
+    "source_hash": "1f04a67e44cfe83a6af08e6aed48e71ba925ee62",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "76",
+    "column": "Content",
+    "source_en": "Oblivion",
+    "source_hash": "b107d71c6d00765f0c76461f45aa9037b4f7981a",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "77",
+    "column": "Content",
+    "source_en": "Oblivion",
+    "source_hash": "b107d71c6d00765f0c76461f45aa9037b4f7981a",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "78",
+    "column": "Content",
+    "source_en": "Oblivion",
+    "source_hash": "b107d71c6d00765f0c76461f45aa9037b4f7981a",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "79",
+    "column": "Content",
+    "source_en": "Oblivion",
+    "source_hash": "b107d71c6d00765f0c76461f45aa9037b4f7981a",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "80",
+    "column": "Content",
+    "source_en": "Oblivion",
+    "source_hash": "b107d71c6d00765f0c76461f45aa9037b4f7981a",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "81",
+    "column": "Content",
+    "source_en": "No return",
+    "source_hash": "753aff2ab39e7f19de35a94526b38ff687189351",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "82",
+    "column": "Content",
+    "source_en": "No return",
+    "source_hash": "753aff2ab39e7f19de35a94526b38ff687189351",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "83",
+    "column": "Content",
+    "source_en": "No return",
+    "source_hash": "753aff2ab39e7f19de35a94526b38ff687189351",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "84",
+    "column": "Content",
+    "source_en": "No return",
+    "source_hash": "753aff2ab39e7f19de35a94526b38ff687189351",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "85",
+    "column": "Content",
+    "source_en": "No return",
+    "source_hash": "753aff2ab39e7f19de35a94526b38ff687189351",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "86",
+    "column": "Content",
+    "source_en": "Take their town",
+    "source_hash": "4eb6e65a91ea0b6df74a382b8f3a8c9e3be150f1",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "87",
+    "column": "Content",
+    "source_en": "Take their town",
+    "source_hash": "4eb6e65a91ea0b6df74a382b8f3a8c9e3be150f1",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "88",
+    "column": "Content",
+    "source_en": "Take their town",
+    "source_hash": "4eb6e65a91ea0b6df74a382b8f3a8c9e3be150f1",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "89",
+    "column": "Content",
+    "source_en": "Take their town",
+    "source_hash": "4eb6e65a91ea0b6df74a382b8f3a8c9e3be150f1",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "90",
+    "column": "Content",
+    "source_en": "Take their town",
+    "source_hash": "4eb6e65a91ea0b6df74a382b8f3a8c9e3be150f1",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "91",
+    "column": "Content",
+    "source_en": "Wipe their men",
+    "source_hash": "d2c212f7fe393fd6f8db48a618dec007d7588c50",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "92",
+    "column": "Content",
+    "source_en": "Wipe their men",
+    "source_hash": "d2c212f7fe393fd6f8db48a618dec007d7588c50",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "93",
+    "column": "Content",
+    "source_en": "Wipe their men",
+    "source_hash": "d2c212f7fe393fd6f8db48a618dec007d7588c50",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "94",
+    "column": "Content",
+    "source_en": "Wipe their men",
+    "source_hash": "d2c212f7fe393fd6f8db48a618dec007d7588c50",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "95",
+    "column": "Content",
+    "source_en": "Wipe their men",
+    "source_hash": "d2c212f7fe393fd6f8db48a618dec007d7588c50",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "96",
+    "column": "Content",
+    "source_en": "Lead horse to water",
+    "source_hash": "e2805fb0b70f712b5b7ce6e6011fac7d0cb5215c",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "97",
+    "column": "Content",
+    "source_en": "Lead horse to water",
+    "source_hash": "e2805fb0b70f712b5b7ce6e6011fac7d0cb5215c",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "98",
+    "column": "Content",
+    "source_en": "Lead horse to water",
+    "source_hash": "e2805fb0b70f712b5b7ce6e6011fac7d0cb5215c",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "99",
+    "column": "Content",
+    "source_en": "Lead horse to water",
+    "source_hash": "e2805fb0b70f712b5b7ce6e6011fac7d0cb5215c",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "100",
+    "column": "Content",
+    "source_en": "Lead horse to water",
+    "source_hash": "e2805fb0b70f712b5b7ce6e6011fac7d0cb5215c",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "101",
+    "column": "Content",
+    "source_en": "Carve the stone",
+    "source_hash": "ef16f75497d83996af7df6f9581e729c7ff46a0d",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "102",
+    "column": "Content",
+    "source_en": "Carve the stone",
+    "source_hash": "ef16f75497d83996af7df6f9581e729c7ff46a0d",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "103",
+    "column": "Content",
+    "source_en": "Carve the stone",
+    "source_hash": "ef16f75497d83996af7df6f9581e729c7ff46a0d",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "104",
+    "column": "Content",
+    "source_en": "Carve the stone",
+    "source_hash": "ef16f75497d83996af7df6f9581e729c7ff46a0d",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "105",
+    "column": "Content",
+    "source_en": "Carve the stone",
+    "source_hash": "ef16f75497d83996af7df6f9581e729c7ff46a0d",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "106",
+    "column": "Content",
+    "source_en": "Assemble",
+    "source_hash": "fb22c3c1f968c3ef564c70d9b8dd5f027957cb5b",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "107",
+    "column": "Content",
+    "source_en": "Assemble",
+    "source_hash": "fb22c3c1f968c3ef564c70d9b8dd5f027957cb5b",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "108",
+    "column": "Content",
+    "source_en": "Assemble",
+    "source_hash": "fb22c3c1f968c3ef564c70d9b8dd5f027957cb5b",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "109",
+    "column": "Content",
+    "source_en": "Assemble",
+    "source_hash": "fb22c3c1f968c3ef564c70d9b8dd5f027957cb5b",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "110",
+    "column": "Content",
+    "source_en": "Assemble",
+    "source_hash": "fb22c3c1f968c3ef564c70d9b8dd5f027957cb5b",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "111",
+    "column": "Content",
+    "source_en": "Conquer",
+    "source_hash": "f5737eb3251947134ce1ac93de1b8da32984d6a2",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "112",
+    "column": "Content",
+    "source_en": "Temper",
+    "source_hash": "9ed9c607366b792c1343206ecc18932bd2b6e117",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "113",
+    "column": "Content",
+    "source_en": "Conquer",
+    "source_hash": "f5737eb3251947134ce1ac93de1b8da32984d6a2",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "114",
+    "column": "Content",
+    "source_en": "Conquer",
+    "source_hash": "f5737eb3251947134ce1ac93de1b8da32984d6a2",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "115",
+    "column": "Content",
+    "source_en": "Conquer",
+    "source_hash": "f5737eb3251947134ce1ac93de1b8da32984d6a2",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "116",
+    "column": "Content",
+    "source_en": "Dawn from the east",
+    "source_hash": "fffdd448a232632fff9d9ec63d3180710bab2a4c",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "117",
+    "column": "Content",
+    "source_en": "Guard at Frontier",
+    "source_hash": "ea208e9d9e9bc6856c652e46d4d72a4661a6645b",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "118",
+    "column": "Content",
+    "source_en": "Dawn from the east",
+    "source_hash": "fffdd448a232632fff9d9ec63d3180710bab2a4c",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "119",
+    "column": "Content",
+    "source_en": "Dawn from the east",
+    "source_hash": "fffdd448a232632fff9d9ec63d3180710bab2a4c",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "120",
+    "column": "Content",
+    "source_en": "Dawn from the east",
+    "source_hash": "fffdd448a232632fff9d9ec63d3180710bab2a4c",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "121",
+    "column": "Content",
+    "source_en": "Star across the sun",
+    "source_hash": "a07a1d0ee3d3a76f8223eda3dc5e1fff563d5ac5",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "122",
+    "column": "Content",
+    "source_en": "Star across the sun",
+    "source_hash": "a07a1d0ee3d3a76f8223eda3dc5e1fff563d5ac5",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "123",
+    "column": "Content",
+    "source_en": "Ready for battle",
+    "source_hash": "00e55f7189731558426ae3ceb8a7e90cdc2dfa3d",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "124",
+    "column": "Content",
+    "source_en": "Stops at nothing",
+    "source_hash": "ed6cc9387de0a6e147fe2b993779e764f3c9612c",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "125",
+    "column": "Content",
+    "source_en": "Loyalty in bone",
+    "source_hash": "367fedf66269488a2b9e888d65bc54a42f398cc4",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "126",
+    "column": "Content",
+    "source_en": "Ambitious determination to the sky",
+    "source_hash": "636475a9f1417b189669c01189de9b9299fb6d09",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "127",
+    "column": "Content",
+    "source_en": "Ever-lightened lone lamp",
+    "source_hash": "7aa39421c5e8ced6b244fcd0ca47ac8ae74ae0dd",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "128",
+    "column": "Content",
+    "source_en": "Unmatched broken blade",
+    "source_hash": "cc60e0804a97ca99bb0eb3955173206286631435",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "129",
+    "column": "Content",
+    "source_en": "Forceful hymn for the brave",
+    "source_hash": "43a87564eec4fd8a1466b26a453a16b7641e05a8",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "130",
+    "column": "Content",
+    "source_en": "Ambitious determination to the sky",
+    "source_hash": "636475a9f1417b189669c01189de9b9299fb6d09",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "131",
+    "column": "Content",
+    "source_en": "Gates on heavens",
+    "source_hash": "b05c860827efbab9750e9e5bea9ea2f413d09ef0",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "132",
+    "column": "Content",
+    "source_en": "Break the chill wind",
+    "source_hash": "596f02bbd6a6834509797f2347a7882c170c9d17",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "133",
+    "column": "Content",
+    "source_en": "Edgy across dusk",
+    "source_hash": "410a313c9d33e43512b5938a55f391dc1b33c8a9",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "134",
+    "column": "Content",
+    "source_en": "Break the skies",
+    "source_hash": "c4134f9d3da826745d3e2afaa01c439cd3771a22",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "135",
+    "column": "Content",
+    "source_en": "Gates on heavens",
+    "source_hash": "b05c860827efbab9750e9e5bea9ea2f413d09ef0",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "136",
+    "column": "Content",
+    "source_en": "Ground Rainbow Hanging",
+    "source_hash": "5a142e23c3a69ebcb9508337c8a254ee265be89c",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "137",
+    "column": "Content",
+    "source_en": "Ground Rainbow Hanging",
+    "source_hash": "5a142e23c3a69ebcb9508337c8a254ee265be89c",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "138",
+    "column": "Content",
+    "source_en": "Ground Rainbow Hanging",
+    "source_hash": "5a142e23c3a69ebcb9508337c8a254ee265be89c",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "139",
+    "column": "Content",
+    "source_en": "Ground Rainbow Hanging",
+    "source_hash": "5a142e23c3a69ebcb9508337c8a254ee265be89c",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponReson",
+    "primary_key_column": "Id",
+    "primary_key": "140",
+    "column": "Content",
+    "source_en": "Ground Rainbow Hanging",
+    "source_hash": "5a142e23c3a69ebcb9508337c8a254ee265be89c",
+    "category": "item"
+  },
+  {
+    "database": "lang_weapon.db",
+    "table": "WeaponQualityInfo",
+    "primary_key_column": "Id",
+    "primary_key": "1",
+    "column": "Content",
+    "source_en": "R",
+    "source_hash": "06576556d1ad802f247cad11ae748be47b70cd9c",
+    "category": "item"
+  }
+]

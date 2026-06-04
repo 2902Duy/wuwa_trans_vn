@@ -1,0 +1,392 @@
+[
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "56",
+    "column": "Content",
+    "source_en": "Exit in {0} secs",
+    "source_hash": "b76f9e2dc4e696552bd00c96b4445c56e99c7334",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "78",
+    "column": "Content",
+    "source_en": "You need set at least one character in the team",
+    "source_hash": "f6153ed6d9a0962f672bbaae46f3c059678e0dc0",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "120",
+    "column": "Content",
+    "source_en": "Standard Class",
+    "source_hash": "3e0db7ebab3018f0df56d273e6e28c6d8a1175bb",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "121",
+    "column": "Content",
+    "source_en": "Elite Class",
+    "source_hash": "a05063eea07b497b2f8a5c0f1ece9cb430586ce0",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "122",
+    "column": "Content",
+    "source_en": "Overlord Class",
+    "source_hash": "79529e1040d0d73dd68ca5e02a0a9a2677d895b7",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "123",
+    "column": "Content",
+    "source_en": "Calamity Class",
+    "source_hash": "3f804e641e70364b2a8a620fc645900309102c17",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "132",
+    "column": "Content",
+    "source_en": "Resonance Terminal",
+    "source_hash": "0b89259fd74da9b3aae29583932cdc583b84e829",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "148",
+    "column": "Content",
+    "source_en": "Insufficient materials.",
+    "source_hash": "7f5e469847543c14ca89d5a92de91e7c138e847e",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "149",
+    "column": "Content",
+    "source_en": "Insufficient Tacetite",
+    "source_hash": "55c9537d8455a5313133d85fb9caf73c6a9e3d5a",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "242",
+    "column": "Content",
+    "source_en": "All",
+    "source_hash": "6a72085653e4c5be8c7640c868ef787cbcf063d1",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "330",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "347",
+    "column": "Content",
+    "source_en": "Fast Travel",
+    "source_hash": "196c06228d3c47f9b9c97ca508f147aeb0b7f088",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "366",
+    "column": "Content",
+    "source_en": "Next Day",
+    "source_hash": "31e64a6c0047690eeaad3846b7598d61ed89c8f0",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "370",
+    "column": "Content",
+    "source_en": "Choral Rank",
+    "source_hash": "a8406220577e620ea558d950b76e68a64172e3af",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "387",
+    "column": "Content",
+    "source_en": "Frozen",
+    "source_hash": "939f868537a1088b70c53e0adbb068379bfb2aa8",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "388",
+    "column": "Content",
+    "source_en": "Smelt",
+    "source_hash": "7f5f8c4521f29dcfa120e9bde198efc9e81aca23",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "389",
+    "column": "Content",
+    "source_en": "Conduction",
+    "source_hash": "d543e0c2db04d5508f08b74584ccf5ddc3966fb2",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "390",
+    "column": "Content",
+    "source_en": "Aerodynamic",
+    "source_hash": "09754ac7f11dd4534fb766438d1e51a2ec6d1ef0",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "391",
+    "column": "Content",
+    "source_en": "Diffusion",
+    "source_hash": "7866cbf9cb7f045e6e8f237f047a62d24d17a294",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "392",
+    "column": "Content",
+    "source_en": "Dissociation",
+    "source_hash": "ee2e8ee59feb2cf92230e04dfbd410bea690f875",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "411",
+    "column": "Content",
+    "source_en": "Insufficient materials.",
+    "source_hash": "7f5e469847543c14ca89d5a92de91e7c138e847e",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "447",
+    "column": "Content",
+    "source_en": "Friends",
+    "source_hash": "c11d5e1d35fb7e158e57f09ec98d28e19d6cb900",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "512",
+    "column": "Content",
+    "source_en": "Backed by the creditworthiness of the Exchange, it is agreed that the underlying assets will be traded on a monthly basis at a fixed price, and the price will be made up daily before the maturity date based on the difference, with compensation in the form of acceptance privileges or cast tide notes, and no physical delivery is involved.",
+    "source_hash": "4740ccbfadbc3bfcedbc3bd942f68002028c741a",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "522",
+    "column": "Content",
+    "source_en": "Weapon",
+    "source_hash": "ead533685e262eab09b5c9013bee5d4c120fcd26",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "585",
+    "column": "Content",
+    "source_en": "Grapple Cord",
+    "source_hash": "c01cd9797d1315e75e9519ea514ed3be46aa153d",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "676",
+    "column": "Content",
+    "source_en": "Cooking",
+    "source_hash": "adc0752adbfda6b3ef82749db7442cd223b6747a",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "679",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "686",
+    "column": "Content",
+    "source_en": "Recipe",
+    "source_hash": "1dcda804c96da3cc7e73e8a1672d4379a741f11a",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "690",
+    "column": "Content",
+    "source_en": "Cooking",
+    "source_hash": "adc0752adbfda6b3ef82749db7442cd223b6747a",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "736",
+    "column": "Content",
+    "source_en": "Bond",
+    "source_hash": "6fb393447ae7e3c2e1c629efff24bd1991ac1368",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "795",
+    "column": "Content",
+    "source_en": "Challenge Complete",
+    "source_hash": "bff0c0d1a518afca0e2479eba9384735f683aa4a",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "796",
+    "column": "Content",
+    "source_en": "Challenge Complete",
+    "source_hash": "bff0c0d1a518afca0e2479eba9384735f683aa4a",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "805",
+    "column": "Content",
+    "source_en": "Insufficient materials.",
+    "source_hash": "7f5e469847543c14ca89d5a92de91e7c138e847e",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "848",
+    "column": "Content",
+    "source_en": "Material",
+    "source_hash": "d8169782b57c7a9e9f0104c69acc402891ffee68",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "862",
+    "column": "Content",
+    "source_en": "Reverberation waveband",
+    "source_hash": "33bdc028a915cb13794c6d00328312b2b249cbfd",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "863",
+    "column": "Content",
+    "source_en": "Details",
+    "source_hash": "dc3decbb93847518f1a049dcf49d0d7c6560bcc6",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "864",
+    "column": "Content",
+    "source_en": "Modulation",
+    "source_hash": "f3c1a2d24016671055196a86b20c8d5b504dd770",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "869",
+    "column": "Content",
+    "source_en": "General Tasks",
+    "source_hash": "10710a3635cbebc5aa9df6e8e1881e9a5fd7ff97",
+    "category": "general"
+  },
+  {
+    "database": "lang_text.db",
+    "table": "Text",
+    "primary_key_column": "Id",
+    "primary_key": "909",
+    "column": "Content",
+    "source_en": "Gallery",
+    "source_hash": "9c30a3485a5887f1ba5abd2a291d304a01863e55",
+    "category": "general"
+  }
+]

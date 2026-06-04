@@ -1,0 +1,32 @@
+[
+  {
+    "database": "lang_mail.db",
+    "table": "MailCommonText",
+    "primary_key_column": "Id",
+    "primary_key": "1",
+    "column": "Content",
+    "source_en": "Mail",
+    "source_hash": "92379cbb8ecf696194b47b619a87e9e4f9a75db2",
+    "category": "ui"
+  },
+  {
+    "database": "lang_mail.db",
+    "table": "MailCommonText",
+    "primary_key_column": "Id",
+    "primary_key": "9",
+    "column": "Content",
+    "source_en": "Back",
+    "source_hash": "b52b36b7269fbfc58ec24bb724691951a3decbe8",
+    "category": "ui"
+  },
+  {
+    "database": "lang_mail.db",
+    "table": "MailCommonText",
+    "primary_key_column": "Id",
+    "primary_key": "29",
+    "column": "Content",
+    "source_en": "Confirm",
+    "source_hash": "04a212215ef9fbf686d280802eb81ee7a6e681cd",
+    "category": "ui"
+  }
+]

@@ -1,0 +1,4932 @@
+[
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "1",
+    "column": "Content",
+    "source_en": "Vanguard Junrock",
+    "source_hash": "ad96b9cd32baf77103694cb90f30fb9a4c4b4c06",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "3",
+    "column": "Content",
+    "source_en": "Binomial name \"Resinacrustidum lapis\", member of the Resinacrustidum species. This Tacet Discord is often found active in packs within mines and mountainous areas, along with other Fission Junrocks, relatively low danger level.",
+    "source_hash": "db279f047820d3791827fa7e120829a065a8904c",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "5",
+    "column": "Content",
+    "source_en": "Fission Junrock",
+    "source_hash": "db5c29214d20c88461e63b762005eb96e13c9082",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "7",
+    "column": "Content",
+    "source_en": "Binomial name \"Resinacrustidum lapis\", part of the Resinacrustidum species. This Tacet Discord is often found active, along with Vanguard Junrocks, relatively low danger level.",
+    "source_hash": "826b87ff8ce60b24a3d1d085815979afaecc9eac",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "9",
+    "column": "Content",
+    "source_en": "Impulse Predator",
+    "source_hash": "65e1f50f8310b26121cefa5da9ebaa159e7c2943",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "11",
+    "column": "Content",
+    "source_en": "Binomial name \"Devorsonidum impulsio\", Devourer specis. The left upper limb of the Impulse Predators has evolved into a bow and arrow, which can gather conductive energy to shoot at longer distances.",
+    "source_hash": "42ab37071b939b6fb850ab8c1f76fbb8fa0e8d23",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "13",
+    "column": "Content",
+    "source_en": "Glacio Predator",
+    "source_hash": "fd3d0b8c9fc1e3b176a7ce2ddee3104b14e8bb73",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "15",
+    "column": "Content",
+    "source_en": "Binomial name \"Devorsonidum glacies\", Devourer specis, has evolved a body structure similar to a human \"cape\", which is presumed to gather condensation energy more quickly to form a \"projectile \"long-range attack.",
+    "source_hash": "7f9d509781b296ae4587fec6ecf8dd1689b33c11",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "17",
+    "column": "Content",
+    "source_en": "Pneuma Predator",
+    "source_hash": "f3b20ed2af9e560a4cc7e6a93695bd35b337ae24",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "19",
+    "column": "Content",
+    "source_en": "Binomial name \"Devorsonidum spiritalis\", a member of the genus Devorsonidum. The Pneuma Predator's throwing weapon is part of its body structure, and can be recovered using its own pneumatic energy after being thrown.",
+    "source_hash": "dc0282d69c3af50fd6132cbbcbf737e9bfb3bfea",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "21",
+    "column": "Content",
+    "source_en": "Fusion Warrior",
+    "source_hash": "f369469bf19606d8ee39e4c66bfa76557c5533dc",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "23",
+    "column": "Content",
+    "source_en": "Binomial name \"Devorsonidum fusio\", a member of the genus Devorsonidum. Bilateral upper limbs resemble long and short spears respectively, and can attack by stabbing and chopping. Moderate danger level.",
+    "source_hash": "2e7714e23ba17e632bd7a16829aef48ae145b52d",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "25",
+    "column": "Content",
+    "source_en": "Rupture Warrior",
+    "source_hash": "e077f4be34e0134c53d17d84c5a3045ff1ef6e4b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "27",
+    "column": "Content",
+    "source_en": "Binomial name \"Devorsonidum ruptura\", a member of the genus Disorder. Its appearance resembles that of a human, with a strong desire to attack and a certain degree of danger.",
+    "source_hash": "3d8c452372f61a00211f4aecb256b24e213bfd12",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "29",
+    "column": "Content",
+    "source_en": "Snip Snap",
+    "source_hash": "3b2a518ce41fb9f00edc9c7cef790c90f7a0633a",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "31",
+    "column": "Content",
+    "source_en": "Binomial name \"Strepoplasmidum fusio\", a member of the genus Strepoplasmidum. Does not possess any intelligence, due of its plier-shape body, occasionally called the \"plier beast\".",
+    "source_hash": "c5ed589d870add383aadd8450b99194d7eba2c94",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "33",
+    "column": "Content",
+    "source_en": "Zig Zag",
+    "source_hash": "48a6a2a791bda47e75167eb0ea952aef5a816412",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "35",
+    "column": "Content",
+    "source_en": "Scientifically named the \"Strepoplasmidum spectrum\", a member of the genus Strepoplasmidum. Gained its name due to the lack of intelligence and simple behavioral logic.",
+    "source_hash": "9e5224af4c44040e38ceed0468efb497008e6628",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "37",
+    "column": "Content",
+    "source_en": "Whiff Whoosh",
+    "source_hash": "c1c45fec68285b0dced87cfd79383477b6b96d7d",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "39",
+    "column": "Content",
+    "source_en": "Binomial name \"Strepoplasmidum spiritalis\", a member of the genus Strepoplasmidum. Possesses no intelligence, due to the Aero energy mass gathered in its \"head\" emitting sound similar to that of a gust of wind, hence the name \"Whiff Whoosh\".",
+    "source_hash": "3bdda8a6ce70d4fbbd7a51667ad24a95a21966d1",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "41",
+    "column": "Content",
+    "source_en": "Tic Tac",
+    "source_hash": "fad1fc1de6d52a5d2d5f6898c0d34faa3f1a9383",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "43",
+    "column": "Content",
+    "source_en": "Binomial name \"Strepoplasmidum ruptura\", a member of the genus Strepoplasmidum. Can use Havoc energy in simple ways to attacks, possesses no intelligence.",
+    "source_hash": "5c96450aea3e1840b8532cddda33c6f89ccdd0f3",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "45",
+    "column": "Content",
+    "source_en": "Gulpuff",
+    "source_hash": "d961da28e6084390493fd4622359ddba6d575940",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "47",
+    "column": "Content",
+    "source_en": "Binomial name \"Tetraodon lateo\", a Mutant Organism of the genus Tetraodon.",
+    "source_hash": "55bb47caa3c3468d764f2721dbef79347db15cde",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "49",
+    "column": "Content",
+    "source_en": "Chirpuff",
+    "source_hash": "dfd867647953be61866e40bd3c0e666f0c24b730",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "51",
+    "column": "Content",
+    "source_en": "Binomial name \"Tetraodon spiritalis\", a Mutant Organism of the genus Tetraodon. Theorieds suggests it is a relative to the Gurglepuff, but the ecological zones of the two are slightly different.",
+    "source_hash": "c9b97ec37bdb4af9e74420531900acd57e949425",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "53",
+    "column": "Content",
+    "source_en": "Glacio Prism",
+    "source_hash": "01e4572b39f92f6b51e4954432a9d13c2603ab3a",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "55",
+    "column": "Content",
+    "source_en": "Binomial name \"Resinacrustidum convenire\", a member of the genus Resinacrustidum. One of many low danger level Tacet Discords that are widely found across the world.",
+    "source_hash": "ca492dd3c4f4c4b9b53107860efb617427c4d261",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "57",
+    "column": "Content",
+    "source_en": "Fusion Prism",
+    "source_hash": "778b74631007a6d03c7d432ee689774064e3019f",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "59",
+    "column": "Content",
+    "source_en": "Binomial name \"Resinacrustidum convenire\", a member of the genus Resinacrustidum. One of many low danger level Tacet Discords that are widely found across the world.",
+    "source_hash": "ca492dd3c4f4c4b9b53107860efb617427c4d261",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "61",
+    "column": "Content",
+    "source_en": "Spectra Prism",
+    "source_hash": "3fe1af501401ca644dd381321157b6559fde5119",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "63",
+    "column": "Content",
+    "source_en": "Binomial name \"Resinacrustidum convenire\", a member of the genus Resinacrustidum. One of many low danger level Tacet Discords that are widely found across the world.",
+    "source_hash": "ca492dd3c4f4c4b9b53107860efb617427c4d261",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "65",
+    "column": "Content",
+    "source_en": "Rupture Prism",
+    "source_hash": "a5e280247b8fb1d82cc828014dea6301f231f3a3",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "67",
+    "column": "Content",
+    "source_en": "Binomial name \"Resinacrustidum convenire\", a member of the genus Resinacrustidum. One of many low danger level Tacet Discords that are widely found across the world.",
+    "source_hash": "ca492dd3c4f4c4b9b53107860efb617427c4d261",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "69",
+    "column": "Content",
+    "source_en": "Cruisewing",
+    "source_hash": "fff6284a8a2294880428a063abdf3167822914a0",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "71",
+    "column": "Content",
+    "source_en": "Binomial name \"Acanthacorydalis squapenna\", a member of the genus Resinacrustidum. Commonly found on waterfronts in warm and humid areas throughout Huanglong. Although slightly aggressive, they are easily preyed upon by Geohide Saurians and others, and are not very dangerous. Relatively low danger level.",
+    "source_hash": "5a47e257116097322d9c47249174d4b741fd808c",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "73",
+    "column": "Content",
+    "source_en": "Sabyr Boar",
+    "source_hash": "f37065d9fdfb2ef70b6efa20f9c2d4b4d7a5750a",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "75",
+    "column": "Content",
+    "source_en": "Binomial name \"Babyrousa fractden\", a Mutant Organism the genus Babyrousa. An omnivore Mutant Organism commonly seen everywhere. Although its diet is mainly of vegetative origin, but the temperament is unlike the ordinary herbivores.",
+    "source_hash": "1c0fe6d0d27834088a8a06810b0fdaa49858c82a",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "77",
+    "column": "Content",
+    "source_en": "Excarat",
+    "source_hash": "9275c63e5e422d45721bcd55e71b41de31cf4076",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "79",
+    "column": "Content",
+    "source_en": "Binomial name \"Myospalax actinoaftia\", a Mutant Organism the genus Myospalax. A common small rodent Mutant Organism, mostly found in grasslands or temperate forests and mountains.",
+    "source_hash": "0e902dee1081d4944d170f8195c56895428ac1fb",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "81",
+    "column": "Content",
+    "source_en": "Lil Geohide Saurian",
+    "source_hash": "e116ef8fb2c6abebd30e341f4a2425a98738602e",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "83",
+    "column": "Content",
+    "source_en": "Binomial name \"Aigialosauridae lapis\", a Mutant Organism the genus Aigialosauridae. The lizards have no natural habit of caring for their younglings, thus hatchlings can only survive by imitating the hunting behavior of the adults, scavenging the remains of their food and, if necessary, using other hatchlings as targets for prey.",
+    "source_hash": "41cf51bc384479912188de0370e3722e5b3bae57",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "85",
+    "column": "Content",
+    "source_en": "Roseshroom (Immature)",
+    "source_hash": "6c721ee95da001712a8a027ccec284428f6dfbd8",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "87",
+    "column": "Content",
+    "source_en": "Binomial name \"Agaricus mimetikos\", a Mutant Organism the genus Agaricus. In its immatured stage, the Roseshroom does not yet possess the ability to absorb nutrients from Tacetites, thus needing to gather nutrients from nearby matured Roseshrooms in order to survive.",
+    "source_hash": "2b004c8a9d8b9ff681ae824311e2a845e7bc62c0",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "89",
+    "column": "Content",
+    "source_en": "Exile Commoner",
+    "source_hash": "5037fd7de4e2f0fc6c8c647742695882fd13db68",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "91",
+    "column": "Content",
+    "source_en": "The name \"Exile\" bears an unforgivable felony. They can not enter towns, thus left wandering in the wilderness. Although most of the Exiles only paid for their past misdeeds, considering that not all trials in various nations are \"fair\", there are quite a number who were wrongfully exiled and are rebelling with a sense of fury in mind",
+    "source_hash": "4bd6ebd6a1006044f3f7f77908dfd907f35728b3",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "92",
+    "column": "Content",
+    "source_en": "Exile Commoners will pick up any weapon at their disposal to engage enemies, but upon taking damage, their weapons will be knocked out of their hands, you can grab these weapons to fight back, but they're quite old, and likely to break mid-fight.",
+    "source_hash": "9e35777b049ef3c94f431f40a96169bc294b28ee",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "93",
+    "column": "Content",
+    "source_en": "Exile Commoner",
+    "source_hash": "5037fd7de4e2f0fc6c8c647742695882fd13db68",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "95",
+    "column": "Content",
+    "source_en": "The name \"Exile\" bears an unforgivable felony. They can not enter towns, thus left wandering in the wilderness. Although most of the Exiles only paid for their past misdeeds, considering that not all trials in various nations are \"fair\", there are quite a number who were wrongfully exiled and are rebelling with a sense of fury in mind",
+    "source_hash": "4bd6ebd6a1006044f3f7f77908dfd907f35728b3",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "96",
+    "column": "Content",
+    "source_en": "Exile Commoners will pick up any weapon at their disposal to engage enemies, but upon taking damage, their weapons will be knocked out of their hands, you can grab these weapons to fight back, but they're quite old, and likely to break mid-fight.",
+    "source_hash": "9e35777b049ef3c94f431f40a96169bc294b28ee",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "97",
+    "column": "Content",
+    "source_en": "Hoochief",
+    "source_hash": "2ad4b131abf8e5ea1dc7ee4524019d331726bbf9",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "99",
+    "column": "Content",
+    "source_en": "Binomial name \"Hoolock vexo\", a Mutant Organism the genus Hoolock. Hooscamps, though physically incomparable to the more adult Hoochiefs, but the intellectual development has been no different, the Hoochiefs tends to teach Hooscamps to hunt and ambush passers-by in the Dim Forest.",
+    "source_hash": "ae75eb7bfc7710212e8f2539ee1fec76ce78da1d",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "103",
+    "column": "Content",
+    "source_en": "The Cyrscorpion is one of the few Mutant Organisms that shares the same common name and scientific classification.",
+    "source_hash": "61e11ddbbca5bb0bb18eec8cd5fb1929afdabc22",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "105",
+    "column": "Content",
+    "source_en": "Frostbite Tertoise",
+    "source_hash": "a1af393a2de1742eb3e4e97b33bb13b09cbeae32",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "107",
+    "column": "Content",
+    "source_en": "Binomial name \"Chelydra frigidus \", a Mutant Organism the genus Chelydra.",
+    "source_hash": "d4a8e54a1176fc0e1f1e21524580126e8a3764c1",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "111",
+    "column": "Content",
+    "source_en": "Trinomial name \"Chrysocyon brachyurus terreo\", a Mutant Organism the subspecies Chrysocyon brachyurus.",
+    "source_hash": "58bb2c8406a7100b6783cdc2100e053947acd70b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "113",
+    "column": "Content",
+    "source_en": "Stonewall Bracer",
+    "source_hash": "c8cd6b627cf67ad0ad5db155c9115c5694d6e81a",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "115",
+    "column": "Content",
+    "source_en": "Binomial name \"Resinacrustidum lapis\", a member of the genus Resinacrustidum.",
+    "source_hash": "9aaf123d72edd52770ed6595ef3c952da63b5590",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "117",
+    "column": "Content",
+    "source_en": "Violet-Feathered Heron",
+    "source_hash": "65fcf8cd9ce6f46e38c3b244ae8198e713936de7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "119",
+    "column": "Content",
+    "source_en": "Trinomial name \"Ardea purpurea bipenna\", a subspecies of Ardea purpurea uniquely found in Huanglong.",
+    "source_hash": "8a0a71dc1c9e36098cadc494bf85a4c6385a0929",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "121",
+    "column": "Content",
+    "source_en": "Cyan-Feathered Heron",
+    "source_hash": "e689290395a634400ae3dd181e8460f1ac3ce424",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "123",
+    "column": "Content",
+    "source_en": "Trinomial name \"Ardea purpurea bipenna\", a subspecies of Ardea purpurea uniquely found in Huanglong.",
+    "source_hash": "8a0a71dc1c9e36098cadc494bf85a4c6385a0929",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "125",
+    "column": "Content",
+    "source_en": "Flute Instrumentalist",
+    "source_hash": "d96a96708e7b82d06c7cf1e4af6230708705c862",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "127",
+    "column": "Content",
+    "source_en": "Binomial name \"Devorsonidum impulsio\", a member of the genus Devorsonidum.",
+    "source_hash": "82c4073cf4fc1196a26b4d094c9188c07f57805b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "129",
+    "column": "Content",
+    "source_en": "Tambourine Instrumentalist",
+    "source_hash": "54a1a9b60257fb9a643bcd06e20a09db1afba472",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "131",
+    "column": "Content",
+    "source_en": "Binomial name \"Devorsonidum ruptura\", a member of the genus Devorsonidum.",
+    "source_hash": "199db356e160b5620e1db6ae1b48f3895ff6f27c",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "133",
+    "column": "Content",
+    "source_en": "Rocksteady Guardian",
+    "source_hash": "0e767133ab7295f3c66b378141ee8464e1cfd79c",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "135",
+    "column": "Content",
+    "source_en": "Binomial name \"Devorsonidum spectrum\", a member of the genus Devorsonidum.",
+    "source_hash": "d0be5622399b70455f21d18b4d49934d6d60b976",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "137",
+    "column": "Content",
+    "source_en": "Chasm Guardian",
+    "source_hash": "b983f79507f38d20e16839cb12529be6d26881dd",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "139",
+    "column": "Content",
+    "source_en": "Binomial name \"Devorsonidum ruptura\", a member of the genus Devorsonidum.",
+    "source_hash": "199db356e160b5620e1db6ae1b48f3895ff6f27c",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "141",
+    "column": "Content",
+    "source_en": "Lil Geohide Saurian",
+    "source_hash": "e116ef8fb2c6abebd30e341f4a2425a98738602e",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "143",
+    "column": "Content",
+    "source_en": "Binomial name \"Aigialosauridae lapis\", a Mutant Organism of the genus Aigialosauridae.",
+    "source_hash": "75f0b15c2c470e93a49661ff86553dc15bb2d8b9",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "145",
+    "column": "Content",
+    "source_en": "Roseshroom (Mature)",
+    "source_hash": "c12c4be1704decde76445bf172d0b951a837c8c2",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "147",
+    "column": "Content",
+    "source_en": "Binomial name \"Agaricus mimicus\". Prefers shade and humidity, tend to gather in groups of two or three in west caves rich in Tacetite.",
+    "source_hash": "54d2c85d5779a170ae6df6830bcba624d93af8e1",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "149",
+    "column": "Content",
+    "source_en": "Rupture Dreadmane Major",
+    "source_hash": "884341a2f36e3ab53034afb5b8526c4fa8c409bc",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "151",
+    "column": "Content",
+    "source_en": "Trinomial name \"Chrysocyon brachyurus terreo\". Adult Dreadmanes are larger in size, ambulant and nocturnal, and lives in packs, with strong social and aggressive characteristics.",
+    "source_hash": "5804d0899d866809fbb377c24029fbc210413c49",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "153",
+    "column": "Content",
+    "source_en": "Hoochief",
+    "source_hash": "2ad4b131abf8e5ea1dc7ee4524019d331726bbf9",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "155",
+    "column": "Content",
+    "source_en": "Binomial name \"Hoolock vexo\". There are only sightings in the Dim Forest, Mutant Organism with the highest level of intelligence found in Huanglong.",
+    "source_hash": "ee33dade3b9ed118b2f58f8ff0822a5c2ad8b57c",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "157",
+    "column": "Content",
+    "source_en": "Spearback Ursa",
+    "source_hash": "dc2de4960eadcb6b5d12cb504629aa3b8fc5c3c7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "159",
+    "column": "Content",
+    "source_en": "Trinomial name \"Ursus spelaeus sagispina\", mainly found inhabiting the Huanglong Forest. This Mutant Organism has poor eyesight and relies mainly on hearing for hunting.",
+    "source_hash": "808ad5a87f888462359a6244caa7b2a588a82b15",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "160",
+    "column": "Content",
+    "source_en": "Spearback Ursa's front paws are covered with Tacetite with extremely strong physical durability.",
+    "source_hash": "4151e35ee3cb98f3d38ca594fa2e385890149b21",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "161",
+    "column": "Content",
+    "source_en": "Chaserazor",
+    "source_hash": "f9e2421f8277c2b5341e95ac131a3a6358da469b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "163",
+    "column": "Content",
+    "source_en": "Part of th artificial species, only found in the Dim Forest. Th Tacet Discord usually uses abandoned vehicles as a host shell, and moves quickly, and once it has set eyes on its prey, it will never give up, hence the name \"wind chasing blade scythe\". This claim is not very credible, according to the analysis of this equipment, most likely because the prey chased by it fled as fast as the \"wind\".",
+    "source_hash": "205043764081ea19ee7151851b7ee42041e3ac33",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "165",
+    "column": "Content",
+    "source_en": "Exile Leader",
+    "source_hash": "70fa29d7920d72ef9cecf23e6d4e7dc13bd6f9db",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "167",
+    "column": "Content",
+    "source_en": "Exile Leaders are mostly Resonators. In the Huanglong region, for example, the Exile Leaders are usually those who have been expelled from the Mornguard for various reasons, and their combat experience and abilities cannot be compared with those of ordinary Exiles.",
+    "source_hash": "3bb048a671a5e005acbb326c982887ed9fa9adcc",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "169",
+    "column": "Content",
+    "source_en": "Exile Craftsman",
+    "source_hash": "5f65f3051ac820937782388724ccc1a8a6ee12a2",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "171",
+    "column": "Content",
+    "source_en": "Skilled Exiles who assume the functions of a military officers and mechanics in their respective groups. Their slender appearance was once misunderstood as a lack of combat ability, but those who had this misunderstanding invariably suffered greatly.",
+    "source_hash": "522c80ac176970f7009a718cb92dccc02fbe9a5c",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "173",
+    "column": "Content",
+    "source_en": "Fractsidus Executioner",
+    "source_hash": "5de19b53201666be7ae114051271a900e49fac0f",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "175",
+    "column": "Content",
+    "source_en": "The Executioner unit takes direct orders from the Fractsidus Leader, all of which are all highly trained Resonators. Executioners who has not perished through countless battles will be given the opportunity to be promoted and even become an candidate to \"The Twelve\", but from the available information, the chances of this are slim.",
+    "source_hash": "dacb7504124c21b240f2fe5347fb6c00efa19ef1",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "181",
+    "column": "Content",
+    "source_en": "Thunder Squama",
+    "source_hash": "ab75d92296f4cce572545b9ef56b3f958b2230cf",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "183",
+    "column": "Content",
+    "source_en": "The Thunder Squama resembles the fusion of a human and a lizard. It is able to use Wutherons within the Tacet Field for high-speed maneuvers. Initially, it is judged to be the result of the natural evolution of TDs,.",
+    "source_hash": "23208d8262da797290adef0a9a8cd19a02bc8d52",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "185",
+    "column": "Content",
+    "source_en": "Inferno Rider",
+    "source_hash": "dd9b371bf2a4b15e23ef69201ed64f80e6e4612e",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "187",
+    "column": "Content",
+    "source_en": "The usual Tacet Discords does not require a \"vehicle\" for movement, but the appearance of the Inferno Rider resembles a rider on a motorcycle, presumably this form is derived from a poor imitation of human behavior. The TD's crazy rampage in the \"vehicle\" is secretly known as \"Flames of Fury\" by Huanglong.",
+    "source_hash": "711ee561050fe3d11e93394efef3af7b9e73a2ae",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "189",
+    "column": "Content",
+    "source_en": "Impermanence Heron",
+    "source_hash": "8b1f9e09dd18efa73f93c29a7f3daf7eba78fe79",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "191",
+    "column": "Content",
+    "source_en": "\"The Impermanence Heron has three heads\" is not an accurate depiction of the beast. Although the nervous system is independent of each other, the \"heads\" on the left and right sides are similar to the mutant organs that protect the main brain. When the situation is critical, the main \"head\" will devour them to strengthen its own combat abilities.",
+    "source_hash": "5cecc93e02c0d174fbfc8e2d72bd8046477d8946",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "193",
+    "column": "Content",
+    "source_en": "Gleamtender",
+    "source_hash": "f8084b98aef63a4bef114afdcd0d223fce281adb",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "195",
+    "column": "Content",
+    "source_en": "The Gleamtender is a collection of small insect-like TDs called \"Glowflies\" that are highly sensitive to different sound frequencies. It can determine the location of prey by sound, and can also absorb and imitate their frequency.",
+    "source_hash": "b250b5856f9cdc52d9ea42e8488cd15c1a9463b3",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "197",
+    "column": "Content",
+    "source_en": "Feilian Beringal",
+    "source_hash": "45517aced9d4cf3fe342b56923ce9a743637138c",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "199",
+    "column": "Content",
+    "source_en": "Once a tool of amusement for humans, later being hunted and became a nuisance for humans, imprisoned in the forest.",
+    "source_hash": "e9fd2cdf54a579e84235ecfa82ab06d83a7431c4",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "203",
+    "column": "Content",
+    "source_en": "The Mourning Aix is elegant in form, bearing a bird-like appearance. Originally found in pairs, however, the other aix was defeated by the humans, with its remains forming a \"pillar\" where the Mourning Aix nests itself.",
+    "source_hash": "3d71b55bb47f6360cc910fef8749060f7d28cb58",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "205",
+    "column": "Content",
+    "source_en": "Crownless",
+    "source_hash": "05a0e4c3075efbdc656f2f91654f68a9406bab7d",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "207",
+    "column": "Content",
+    "source_en": "A copy of the Threnodian \"Crownless\". It resembles a white-armored knight in appearance, and when risen in power, it extends its blood-red wings, presumably because it briefly manipulates the structure of Wutherons in its body, instantly increasing its mobility and attack power. Recently, it has also been observed that it can produce a body structure that mimics human \"weapons\".",
+    "source_hash": "b58d7c99ebe501726c78a7b2c8f644a185be3455",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "209",
+    "column": "Content",
+    "source_en": "Bell-Borne Geochelone",
+    "source_hash": "76f800c3442c02192c9999459762f5851ae18c3b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "MonsterHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "211",
+    "column": "Content",
+    "source_en": "The ancient bell on the back of the Geochelone hides its Tacetreite core, which resonates with the core when struck, exploding into a sound wave of Glacio energy.",
+    "source_hash": "d5bae2f1ba8919d9a8f425c657940c7b43c5c43a",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "3",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "7",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "11",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "15",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "19",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "23",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "27",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "31",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "35",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "39",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "43",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "47",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "51",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "55",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "59",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "61",
+    "column": "Content",
+    "source_en": "Many-Banded Gecko",
+    "source_hash": "84df19c253ed5204ab51f49c2c94fab3d9f38422",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "63",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "65",
+    "column": "Content",
+    "source_en": "Azure Iguana",
+    "source_hash": "b3afad0b7d50fb345eab019985c11627a580827c",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "67",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "69",
+    "column": "Content",
+    "source_en": "Green Pit Lizard",
+    "source_hash": "ef233a235d87b7a0687cfde5e3cf05cece7c343c",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "71",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "73",
+    "column": "Content",
+    "source_en": "Black-Striped Frog",
+    "source_hash": "ddec7894896ae3b1dd712726c298ea986ee1a7b8",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "75",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "76",
+    "column": "Content",
+    "source_en": "The Black-Striped Frog is an amphibian of the amphibian order Frogidae, a family of chordates. The frog has short limbs, a green body with a large number of patterns, a white abdomen, slightly bulging eardrums on both sides of the head, smooth skin and warts, and a small amount of Tacetite on its back. Widely found in rivers, lakes, wetlands etc.",
+    "source_hash": "37559f549d13bb56cfc246c7b81973b0c7e39f91",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "77",
+    "column": "Content",
+    "source_en": "Goldenback Frog",
+    "source_hash": "864e1b4a5391d6f784982aac27629fb080a2fd53",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "79",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "81",
+    "column": "Content",
+    "source_en": "Phoenix Butterfly",
+    "source_hash": "8ea78c3bf42a1ec7673a5b899e91721dc17b3ee8",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "83",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "85",
+    "column": "Content",
+    "source_en": "Red Feather Butterfly",
+    "source_hash": "8974548bfa2a7c0e1b34d9fea41546f4a2225ff0",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "87",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "89",
+    "column": "Content",
+    "source_en": "Blue Feather Butterfly",
+    "source_hash": "957c7a8f043790939804e8b0c6011b7f0fe62263",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "91",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "93",
+    "column": "Content",
+    "source_en": "Chrysopa",
+    "source_hash": "9db90a33d0818b0885c04d52fabcff2c013ac2dd",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "95",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "97",
+    "column": "Content",
+    "source_en": "Golden-ringed Dragonfly",
+    "source_hash": "8c7f3694c61de942e8a467debb10434ad5f3d2f1",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "99",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "AnimalHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "100",
+    "column": "Content",
+    "source_en": "The Golden-ringed Dragonfly is an invertebrate that belongs to the insect order Dragonfly. It is black in color, surrounded by yellow patterns. The base of the hind wings is slightly larger than the base of the forewings, and the wing veins are also slightly different. When resting, the four wings are spread and placed flat on the sides. It likes moist environment and often moves around in rivers or wetlands.",
+    "source_hash": "ccd51540ee016f8b27c5a98dcf45c1e9fa051f96",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ChipHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "1",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ChipHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "2",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ChipHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "3",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ChipHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "4",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ChipHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "5",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ChipHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "6",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ChipHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "7",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ChipHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "8",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ChipHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "9",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ChipHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "10",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ChipHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "11",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ChipHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "12",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ChipHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "13",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ChipHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "14",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "GeographyHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "31",
+    "column": "Content",
+    "source_en": "Hukou Mine",
+    "source_hash": "9fbfc522ad2716d63128f917fc1366884b185f93",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "GeographyType",
+    "primary_key_column": "Id",
+    "primary_key": "1",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "1",
+    "column": "Content",
+    "source_en": "Vanguard Junrock",
+    "source_hash": "ad96b9cd32baf77103694cb90f30fb9a4c4b4c06",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "3",
+    "column": "Content",
+    "source_en": "Standard Class",
+    "source_hash": "3e0db7ebab3018f0df56d273e6e28c6d8a1175bb",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "4",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "9",
+    "column": "Content",
+    "source_en": "Fission Junrock",
+    "source_hash": "db5c29214d20c88461e63b762005eb96e13c9082",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "11",
+    "column": "Content",
+    "source_en": "Standard Class",
+    "source_hash": "3e0db7ebab3018f0df56d273e6e28c6d8a1175bb",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "12",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "17",
+    "column": "Content",
+    "source_en": "Fusion Warrior",
+    "source_hash": "f369469bf19606d8ee39e4c66bfa76557c5533dc",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "19",
+    "column": "Content",
+    "source_en": "Standard Class",
+    "source_hash": "3e0db7ebab3018f0df56d273e6e28c6d8a1175bb",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "20",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "25",
+    "column": "Content",
+    "source_en": "Rupture Warrior",
+    "source_hash": "e077f4be34e0134c53d17d84c5a3045ff1ef6e4b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "27",
+    "column": "Content",
+    "source_en": "Standard Class",
+    "source_hash": "3e0db7ebab3018f0df56d273e6e28c6d8a1175bb",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "28",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "33",
+    "column": "Content",
+    "source_en": "Snip Snap",
+    "source_hash": "3b2a518ce41fb9f00edc9c7cef790c90f7a0633a",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "35",
+    "column": "Content",
+    "source_en": "Standard Class",
+    "source_hash": "3e0db7ebab3018f0df56d273e6e28c6d8a1175bb",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "36",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "41",
+    "column": "Content",
+    "source_en": "Zig Zag",
+    "source_hash": "48a6a2a791bda47e75167eb0ea952aef5a816412",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "43",
+    "column": "Content",
+    "source_en": "Standard Class",
+    "source_hash": "3e0db7ebab3018f0df56d273e6e28c6d8a1175bb",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "44",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "49",
+    "column": "Content",
+    "source_en": "Whiff Whoosh",
+    "source_hash": "c1c45fec68285b0dced87cfd79383477b6b96d7d",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "51",
+    "column": "Content",
+    "source_en": "Standard Class",
+    "source_hash": "3e0db7ebab3018f0df56d273e6e28c6d8a1175bb",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "52",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "57",
+    "column": "Content",
+    "source_en": "Tic Tac",
+    "source_hash": "fad1fc1de6d52a5d2d5f6898c0d34faa3f1a9383",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "59",
+    "column": "Content",
+    "source_en": "Standard Class",
+    "source_hash": "3e0db7ebab3018f0df56d273e6e28c6d8a1175bb",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "60",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "65",
+    "column": "Content",
+    "source_en": "Impulse Predator",
+    "source_hash": "65e1f50f8310b26121cefa5da9ebaa159e7c2943",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "67",
+    "column": "Content",
+    "source_en": "Standard Class",
+    "source_hash": "3e0db7ebab3018f0df56d273e6e28c6d8a1175bb",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "68",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "73",
+    "column": "Content",
+    "source_en": "Glacio Predator",
+    "source_hash": "fd3d0b8c9fc1e3b176a7ce2ddee3104b14e8bb73",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "75",
+    "column": "Content",
+    "source_en": "Standard Class",
+    "source_hash": "3e0db7ebab3018f0df56d273e6e28c6d8a1175bb",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "76",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "81",
+    "column": "Content",
+    "source_en": "Gulpuff",
+    "source_hash": "d961da28e6084390493fd4622359ddba6d575940",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "83",
+    "column": "Content",
+    "source_en": "Standard Class",
+    "source_hash": "3e0db7ebab3018f0df56d273e6e28c6d8a1175bb",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "84",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "89",
+    "column": "Content",
+    "source_en": "Violet-Feathered Heron",
+    "source_hash": "65fcf8cd9ce6f46e38c3b244ae8198e713936de7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "91",
+    "column": "Content",
+    "source_en": "Elite Class",
+    "source_hash": "a05063eea07b497b2f8a5c0f1ece9cb430586ce0",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "92",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "97",
+    "column": "Content",
+    "source_en": "Cyan-Feathered Heron",
+    "source_hash": "e689290395a634400ae3dd181e8460f1ac3ce424",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "99",
+    "column": "Content",
+    "source_en": "Elite Class",
+    "source_hash": "a05063eea07b497b2f8a5c0f1ece9cb430586ce0",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "100",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "105",
+    "column": "Content",
+    "source_en": "Glacio Prism",
+    "source_hash": "01e4572b39f92f6b51e4954432a9d13c2603ab3a",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "107",
+    "column": "Content",
+    "source_en": "Elite Class",
+    "source_hash": "a05063eea07b497b2f8a5c0f1ece9cb430586ce0",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "108",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "113",
+    "column": "Content",
+    "source_en": "Fusion Prism",
+    "source_hash": "778b74631007a6d03c7d432ee689774064e3019f",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "115",
+    "column": "Content",
+    "source_en": "Elite Class",
+    "source_hash": "a05063eea07b497b2f8a5c0f1ece9cb430586ce0",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "116",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "121",
+    "column": "Content",
+    "source_en": "Spectra Prism",
+    "source_hash": "3fe1af501401ca644dd381321157b6559fde5119",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "123",
+    "column": "Content",
+    "source_en": "Elite Class",
+    "source_hash": "a05063eea07b497b2f8a5c0f1ece9cb430586ce0",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "124",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "129",
+    "column": "Content",
+    "source_en": "Rupture Prism",
+    "source_hash": "a5e280247b8fb1d82cc828014dea6301f231f3a3",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "131",
+    "column": "Content",
+    "source_en": "Elite Class",
+    "source_hash": "a05063eea07b497b2f8a5c0f1ece9cb430586ce0",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "132",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "137",
+    "column": "Content",
+    "source_en": "Stonewall Bracer",
+    "source_hash": "c8cd6b627cf67ad0ad5db155c9115c5694d6e81a",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "139",
+    "column": "Content",
+    "source_en": "Elite Class",
+    "source_hash": "a05063eea07b497b2f8a5c0f1ece9cb430586ce0",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "140",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "145",
+    "column": "Content",
+    "source_en": "Flute Instrumentalist",
+    "source_hash": "d96a96708e7b82d06c7cf1e4af6230708705c862",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "147",
+    "column": "Content",
+    "source_en": "Elite Class",
+    "source_hash": "a05063eea07b497b2f8a5c0f1ece9cb430586ce0",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "148",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "153",
+    "column": "Content",
+    "source_en": "Tambourine Instrumentalist",
+    "source_hash": "54a1a9b60257fb9a643bcd06e20a09db1afba472",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "155",
+    "column": "Content",
+    "source_en": "Elite Class",
+    "source_hash": "a05063eea07b497b2f8a5c0f1ece9cb430586ce0",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "156",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "161",
+    "column": "Content",
+    "source_en": "Chasm Guardian",
+    "source_hash": "b983f79507f38d20e16839cb12529be6d26881dd",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "163",
+    "column": "Content",
+    "source_en": "Elite Class",
+    "source_hash": "a05063eea07b497b2f8a5c0f1ece9cb430586ce0",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "164",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "169",
+    "column": "Content",
+    "source_en": "Thunder Squama",
+    "source_hash": "ab75d92296f4cce572545b9ef56b3f958b2230cf",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "171",
+    "column": "Content",
+    "source_en": "Overlord Class",
+    "source_hash": "79529e1040d0d73dd68ca5e02a0a9a2677d895b7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "172",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "177",
+    "column": "Content",
+    "source_en": "Pneuma Predator",
+    "source_hash": "f3b20ed2af9e560a4cc7e6a93695bd35b337ae24",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "179",
+    "column": "Content",
+    "source_en": "Standard Class",
+    "source_hash": "3e0db7ebab3018f0df56d273e6e28c6d8a1175bb",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "180",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "185",
+    "column": "Content",
+    "source_en": "Rocksteady Guardian",
+    "source_hash": "0e767133ab7295f3c66b378141ee8464e1cfd79c",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "187",
+    "column": "Content",
+    "source_en": "Elite Class",
+    "source_hash": "a05063eea07b497b2f8a5c0f1ece9cb430586ce0",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "188",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "193",
+    "column": "Content",
+    "source_en": "Cruisewing",
+    "source_hash": "fff6284a8a2294880428a063abdf3167822914a0",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "195",
+    "column": "Content",
+    "source_en": "Standard Class",
+    "source_hash": "3e0db7ebab3018f0df56d273e6e28c6d8a1175bb",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "196",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "201",
+    "column": "Content",
+    "source_en": "Sabyr Boar",
+    "source_hash": "f37065d9fdfb2ef70b6efa20f9c2d4b4d7a5750a",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "203",
+    "column": "Content",
+    "source_en": "Standard Class",
+    "source_hash": "3e0db7ebab3018f0df56d273e6e28c6d8a1175bb",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "204",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "209",
+    "column": "Content",
+    "source_en": "Excarat",
+    "source_hash": "9275c63e5e422d45721bcd55e71b41de31cf4076",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "211",
+    "column": "Content",
+    "source_en": "Standard Class",
+    "source_hash": "3e0db7ebab3018f0df56d273e6e28c6d8a1175bb",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "212",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "217",
+    "column": "Content",
+    "source_en": "Lil Geohide Saurian",
+    "source_hash": "e116ef8fb2c6abebd30e341f4a2425a98738602e",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "219",
+    "column": "Content",
+    "source_en": "Standard Class",
+    "source_hash": "3e0db7ebab3018f0df56d273e6e28c6d8a1175bb",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "220",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "225",
+    "column": "Content",
+    "source_en": "Lil Geohide Saurian",
+    "source_hash": "e116ef8fb2c6abebd30e341f4a2425a98738602e",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "227",
+    "column": "Content",
+    "source_en": "Elite Class",
+    "source_hash": "a05063eea07b497b2f8a5c0f1ece9cb430586ce0",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "228",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "233",
+    "column": "Content",
+    "source_en": "Roseshroom (Immature)",
+    "source_hash": "6c721ee95da001712a8a027ccec284428f6dfbd8",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "235",
+    "column": "Content",
+    "source_en": "Standard Class",
+    "source_hash": "3e0db7ebab3018f0df56d273e6e28c6d8a1175bb",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "236",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "241",
+    "column": "Content",
+    "source_en": "Roseshroom (Mature)",
+    "source_hash": "c12c4be1704decde76445bf172d0b951a837c8c2",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "243",
+    "column": "Content",
+    "source_en": "Elite Class",
+    "source_hash": "a05063eea07b497b2f8a5c0f1ece9cb430586ce0",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "244",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "249",
+    "column": "Content",
+    "source_en": "Inferno Rider",
+    "source_hash": "dd9b371bf2a4b15e23ef69201ed64f80e6e4612e",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "251",
+    "column": "Content",
+    "source_en": "Overlord Class",
+    "source_hash": "79529e1040d0d73dd68ca5e02a0a9a2677d895b7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "252",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "257",
+    "column": "Content",
+    "source_en": "Spearback Ursa",
+    "source_hash": "dc2de4960eadcb6b5d12cb504629aa3b8fc5c3c7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "259",
+    "column": "Content",
+    "source_en": "Elite Class",
+    "source_hash": "a05063eea07b497b2f8a5c0f1ece9cb430586ce0",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "260",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "265",
+    "column": "Content",
+    "source_en": "Frostbite Tertoise",
+    "source_hash": "a1af393a2de1742eb3e4e97b33bb13b09cbeae32",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "267",
+    "column": "Content",
+    "source_en": "Standard Class",
+    "source_hash": "3e0db7ebab3018f0df56d273e6e28c6d8a1175bb",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "268",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "273",
+    "column": "Content",
+    "source_en": "Rupture Dreadmane Major",
+    "source_hash": "884341a2f36e3ab53034afb5b8526c4fa8c409bc",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "275",
+    "column": "Content",
+    "source_en": "Elite Class",
+    "source_hash": "a05063eea07b497b2f8a5c0f1ece9cb430586ce0",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "276",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "281",
+    "column": "Content",
+    "source_en": "Fusion Dreadmane Minor",
+    "source_hash": "9d9c66f151cdb3798f3f415619c01552c1ec96f8",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "283",
+    "column": "Content",
+    "source_en": "Standard Class",
+    "source_hash": "3e0db7ebab3018f0df56d273e6e28c6d8a1175bb",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "284",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "289",
+    "column": "Content",
+    "source_en": "Bell-Borne Geochelone",
+    "source_hash": "76f800c3442c02192c9999459762f5851ae18c3b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "291",
+    "column": "Content",
+    "source_en": "Calamity Class",
+    "source_hash": "3f804e641e70364b2a8a620fc645900309102c17",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "292",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "297",
+    "column": "Content",
+    "source_en": "Hooscamp",
+    "source_hash": "f441a93de0fa1dcf163f27c9d9cb21a090c5ee18",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "299",
+    "column": "Content",
+    "source_en": "Standard Class",
+    "source_hash": "3e0db7ebab3018f0df56d273e6e28c6d8a1175bb",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "300",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "307",
+    "column": "Content",
+    "source_en": "Overlord Class",
+    "source_hash": "79529e1040d0d73dd68ca5e02a0a9a2677d895b7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "308",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "313",
+    "column": "Content",
+    "source_en": "Hoochief",
+    "source_hash": "2ad4b131abf8e5ea1dc7ee4524019d331726bbf9",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "315",
+    "column": "Content",
+    "source_en": "Elite Class",
+    "source_hash": "a05063eea07b497b2f8a5c0f1ece9cb430586ce0",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "316",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "323",
+    "column": "Content",
+    "source_en": "Standard Class",
+    "source_hash": "3e0db7ebab3018f0df56d273e6e28c6d8a1175bb",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "324",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "331",
+    "column": "Content",
+    "source_en": "Calamity Class",
+    "source_hash": "3f804e641e70364b2a8a620fc645900309102c17",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "332",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "337",
+    "column": "Content",
+    "source_en": "Feilian Beringal",
+    "source_hash": "45517aced9d4cf3fe342b56923ce9a743637138c",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "339",
+    "column": "Content",
+    "source_en": "Overlord Class",
+    "source_hash": "79529e1040d0d73dd68ca5e02a0a9a2677d895b7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "340",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "345",
+    "column": "Content",
+    "source_en": "Gleamtender",
+    "source_hash": "f8084b98aef63a4bef114afdcd0d223fce281adb",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "347",
+    "column": "Content",
+    "source_en": "Overlord Class",
+    "source_hash": "79529e1040d0d73dd68ca5e02a0a9a2677d895b7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "348",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "355",
+    "column": "Content",
+    "source_en": "Overlord Class",
+    "source_hash": "79529e1040d0d73dd68ca5e02a0a9a2677d895b7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "356",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "361",
+    "column": "Content",
+    "source_en": "Chaserazor",
+    "source_hash": "f9e2421f8277c2b5341e95ac131a3a6358da469b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "363",
+    "column": "Content",
+    "source_en": "Elite Class",
+    "source_hash": "a05063eea07b497b2f8a5c0f1ece9cb430586ce0",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "364",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "369",
+    "column": "Content",
+    "source_en": "Chirpuff",
+    "source_hash": "dfd867647953be61866e40bd3c0e666f0c24b730",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "371",
+    "column": "Content",
+    "source_en": "Standard Class",
+    "source_hash": "3e0db7ebab3018f0df56d273e6e28c6d8a1175bb",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "PhantomHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "372",
+    "column": "Content",
+    "source_en": "Huanglong",
+    "source_hash": "ffd746905c6b661bde0663e70843667b0d821026",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "1",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "2",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "3",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "4",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "5",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "6",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "7",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "8",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "9",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "10",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "11",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "12",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "13",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "14",
+    "column": "Content",
+    "source_en": "Comsumable",
+    "source_hash": "c928c9ac06161658f1f809b9ee2f8f6e9420afea",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "15",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "16",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "17",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "18",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "19",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "20",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "21",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "22",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "23",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "24",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "25",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "26",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "27",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "28",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "29",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "30",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "31",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "32",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "33",
+    "column": "Content",
+    "source_en": "Material",
+    "source_hash": "d8169782b57c7a9e9f0104c69acc402891ffee68",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "34",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "35",
+    "column": "Content",
+    "source_en": "Material",
+    "source_hash": "d8169782b57c7a9e9f0104c69acc402891ffee68",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "36",
+    "column": "Content",
+    "source_en": "Material",
+    "source_hash": "d8169782b57c7a9e9f0104c69acc402891ffee68",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "37",
+    "column": "Content",
+    "source_en": "Material",
+    "source_hash": "d8169782b57c7a9e9f0104c69acc402891ffee68",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "38",
+    "column": "Content",
+    "source_en": "Material",
+    "source_hash": "d8169782b57c7a9e9f0104c69acc402891ffee68",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "39",
+    "column": "Content",
+    "source_en": "Material",
+    "source_hash": "d8169782b57c7a9e9f0104c69acc402891ffee68",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "40",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "41",
+    "column": "Content",
+    "source_en": "Material",
+    "source_hash": "d8169782b57c7a9e9f0104c69acc402891ffee68",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "42",
+    "column": "Content",
+    "source_en": "Material",
+    "source_hash": "d8169782b57c7a9e9f0104c69acc402891ffee68",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "43",
+    "column": "Content",
+    "source_en": "Material",
+    "source_hash": "d8169782b57c7a9e9f0104c69acc402891ffee68",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "44",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "45",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "46",
+    "column": "Content",
+    "source_en": "Material",
+    "source_hash": "d8169782b57c7a9e9f0104c69acc402891ffee68",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "47",
+    "column": "Content",
+    "source_en": "Material",
+    "source_hash": "d8169782b57c7a9e9f0104c69acc402891ffee68",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "48",
+    "column": "Content",
+    "source_en": "Material",
+    "source_hash": "d8169782b57c7a9e9f0104c69acc402891ffee68",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "49",
+    "column": "Content",
+    "source_en": "Material",
+    "source_hash": "d8169782b57c7a9e9f0104c69acc402891ffee68",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "50",
+    "column": "Content",
+    "source_en": "food ingredient",
+    "source_hash": "6ee0a2f44650ccae1a712b3124b53c0bc19c4a40",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "51",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "52",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "53",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "54",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "55",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "56",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "57",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "58",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "59",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "60",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "61",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "62",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "63",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "64",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "65",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "66",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "67",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "68",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "69",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "70",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "71",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "72",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "73",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "74",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "75",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "76",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "77",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "78",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "79",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "80",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "81",
+    "column": "Content",
+    "source_en": "Dish",
+    "source_hash": "78cdf1800701276a60f0b49919d7714c8c087e39",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "82",
+    "column": "Content",
+    "source_en": "Comsumable",
+    "source_hash": "c928c9ac06161658f1f809b9ee2f8f6e9420afea",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "83",
+    "column": "Content",
+    "source_en": "Comsumable",
+    "source_hash": "c928c9ac06161658f1f809b9ee2f8f6e9420afea",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "84",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "85",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "86",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "87",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "88",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "89",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "90",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "91",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "92",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "93",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "94",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "95",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "96",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "97",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "98",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "99",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "100",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "101",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "102",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "103",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "104",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "105",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "106",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "107",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "108",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "109",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "110",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "111",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "112",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "113",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "114",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "115",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "116",
+    "column": "Content",
+    "source_en": "Breakthrough material for Resonator",
+    "source_hash": "a5e52e984c328c8a1cd0684906594a8dda719fd5",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "117",
+    "column": "Content",
+    "source_en": "Development material for Resonator",
+    "source_hash": "ed45ab32959d67a4457cd52fd4235a7e7e174b2b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "118",
+    "column": "Content",
+    "source_en": "Development material for Resonator",
+    "source_hash": "ed45ab32959d67a4457cd52fd4235a7e7e174b2b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "119",
+    "column": "Content",
+    "source_en": "Development material for Resonator",
+    "source_hash": "ed45ab32959d67a4457cd52fd4235a7e7e174b2b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "120",
+    "column": "Content",
+    "source_en": "Development material for Resonator",
+    "source_hash": "ed45ab32959d67a4457cd52fd4235a7e7e174b2b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "121",
+    "column": "Content",
+    "source_en": "Development material for Resonator",
+    "source_hash": "ed45ab32959d67a4457cd52fd4235a7e7e174b2b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "122",
+    "column": "Content",
+    "source_en": "Development material for Resonator",
+    "source_hash": "ed45ab32959d67a4457cd52fd4235a7e7e174b2b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "123",
+    "column": "Content",
+    "source_en": "Development material for Resonator",
+    "source_hash": "ed45ab32959d67a4457cd52fd4235a7e7e174b2b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "124",
+    "column": "Content",
+    "source_en": "Development material for Resonator",
+    "source_hash": "ed45ab32959d67a4457cd52fd4235a7e7e174b2b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "125",
+    "column": "Content",
+    "source_en": "Development material for Resonator",
+    "source_hash": "ed45ab32959d67a4457cd52fd4235a7e7e174b2b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "126",
+    "column": "Content",
+    "source_en": "Development material for Resonator",
+    "source_hash": "ed45ab32959d67a4457cd52fd4235a7e7e174b2b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "127",
+    "column": "Content",
+    "source_en": "Development material for Resonator",
+    "source_hash": "ed45ab32959d67a4457cd52fd4235a7e7e174b2b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "128",
+    "column": "Content",
+    "source_en": "Development material for Resonator",
+    "source_hash": "ed45ab32959d67a4457cd52fd4235a7e7e174b2b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "129",
+    "column": "Content",
+    "source_en": "Development material for Resonator",
+    "source_hash": "ed45ab32959d67a4457cd52fd4235a7e7e174b2b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "130",
+    "column": "Content",
+    "source_en": "Development material for Resonator",
+    "source_hash": "ed45ab32959d67a4457cd52fd4235a7e7e174b2b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "131",
+    "column": "Content",
+    "source_en": "Development material for Resonator",
+    "source_hash": "ed45ab32959d67a4457cd52fd4235a7e7e174b2b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "132",
+    "column": "Content",
+    "source_en": "Development material for Resonator",
+    "source_hash": "ed45ab32959d67a4457cd52fd4235a7e7e174b2b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "133",
+    "column": "Content",
+    "source_en": "Development material for Resonator",
+    "source_hash": "ed45ab32959d67a4457cd52fd4235a7e7e174b2b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "134",
+    "column": "Content",
+    "source_en": "Development material for Resonator",
+    "source_hash": "ed45ab32959d67a4457cd52fd4235a7e7e174b2b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "135",
+    "column": "Content",
+    "source_en": "Development material for Resonator",
+    "source_hash": "ed45ab32959d67a4457cd52fd4235a7e7e174b2b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "136",
+    "column": "Content",
+    "source_en": "Development material for Resonator",
+    "source_hash": "ed45ab32959d67a4457cd52fd4235a7e7e174b2b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "137",
+    "column": "Content",
+    "source_en": "Development material for Resonator",
+    "source_hash": "ed45ab32959d67a4457cd52fd4235a7e7e174b2b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "138",
+    "column": "Content",
+    "source_en": "Development material for Resonator",
+    "source_hash": "ed45ab32959d67a4457cd52fd4235a7e7e174b2b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "139",
+    "column": "Content",
+    "source_en": "Development material for Resonator",
+    "source_hash": "ed45ab32959d67a4457cd52fd4235a7e7e174b2b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "140",
+    "column": "Content",
+    "source_en": "Development material for Resonator",
+    "source_hash": "ed45ab32959d67a4457cd52fd4235a7e7e174b2b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "141",
+    "column": "Content",
+    "source_en": "Level-up material for Wutherium Battling",
+    "source_hash": "788a8bd00f3faeebd722ad2634dd1082d2f363d7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "142",
+    "column": "Content",
+    "source_en": "Level-up material for Wutherium Battling",
+    "source_hash": "788a8bd00f3faeebd722ad2634dd1082d2f363d7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "143",
+    "column": "Content",
+    "source_en": "Level-up material for Wutherium Battling",
+    "source_hash": "788a8bd00f3faeebd722ad2634dd1082d2f363d7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "144",
+    "column": "Content",
+    "source_en": "EXP material for Resonator",
+    "source_hash": "548cc2833b1a82938261a9ebe3e355589ebc57ab",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "145",
+    "column": "Content",
+    "source_en": "EXP material for Resonator",
+    "source_hash": "548cc2833b1a82938261a9ebe3e355589ebc57ab",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "146",
+    "column": "Content",
+    "source_en": "EXP material for Resonator",
+    "source_hash": "548cc2833b1a82938261a9ebe3e355589ebc57ab",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "147",
+    "column": "Content",
+    "source_en": "EXP material for Resonator",
+    "source_hash": "548cc2833b1a82938261a9ebe3e355589ebc57ab",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "148",
+    "column": "Content",
+    "source_en": "Level-up material for Wutherium Battling",
+    "source_hash": "788a8bd00f3faeebd722ad2634dd1082d2f363d7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "149",
+    "column": "Content",
+    "source_en": "Level-up material for Wutherium Battling",
+    "source_hash": "788a8bd00f3faeebd722ad2634dd1082d2f363d7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "150",
+    "column": "Content",
+    "source_en": "Level-up material for Wutherium Battling",
+    "source_hash": "788a8bd00f3faeebd722ad2634dd1082d2f363d7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "151",
+    "column": "Content",
+    "source_en": "Level-up material for Wutherium Battling",
+    "source_hash": "788a8bd00f3faeebd722ad2634dd1082d2f363d7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "152",
+    "column": "Content",
+    "source_en": "Level-up material for Wutherium Battling",
+    "source_hash": "788a8bd00f3faeebd722ad2634dd1082d2f363d7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "153",
+    "column": "Content",
+    "source_en": "Level-up material for Wutherium Battling",
+    "source_hash": "788a8bd00f3faeebd722ad2634dd1082d2f363d7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "154",
+    "column": "Content",
+    "source_en": "Level-up material for Wutherium Battling",
+    "source_hash": "788a8bd00f3faeebd722ad2634dd1082d2f363d7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "155",
+    "column": "Content",
+    "source_en": "Level-up material for Wutherium Battling",
+    "source_hash": "788a8bd00f3faeebd722ad2634dd1082d2f363d7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "156",
+    "column": "Content",
+    "source_en": "Level-up material for Wutherium Battling",
+    "source_hash": "788a8bd00f3faeebd722ad2634dd1082d2f363d7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "157",
+    "column": "Content",
+    "source_en": "Level-up material for Wutherium Battling",
+    "source_hash": "788a8bd00f3faeebd722ad2634dd1082d2f363d7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "158",
+    "column": "Content",
+    "source_en": "Level-up material for Wutherium Battling",
+    "source_hash": "788a8bd00f3faeebd722ad2634dd1082d2f363d7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "159",
+    "column": "Content",
+    "source_en": "Level-up material for Wutherium Battling",
+    "source_hash": "788a8bd00f3faeebd722ad2634dd1082d2f363d7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "160",
+    "column": "Content",
+    "source_en": "Level-up material for Wutherium Battling",
+    "source_hash": "788a8bd00f3faeebd722ad2634dd1082d2f363d7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "161",
+    "column": "Content",
+    "source_en": "Level-up material for Wutherium Battling",
+    "source_hash": "788a8bd00f3faeebd722ad2634dd1082d2f363d7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "162",
+    "column": "Content",
+    "source_en": "Level-up material for Wutherium Battling",
+    "source_hash": "788a8bd00f3faeebd722ad2634dd1082d2f363d7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "163",
+    "column": "Content",
+    "source_en": "Level-up material for Wutherium Battling",
+    "source_hash": "788a8bd00f3faeebd722ad2634dd1082d2f363d7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "164",
+    "column": "Content",
+    "source_en": "Level-up material for Wutherium Battling",
+    "source_hash": "788a8bd00f3faeebd722ad2634dd1082d2f363d7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "165",
+    "column": "Content",
+    "source_en": "Level-up material for Wutherium Battling",
+    "source_hash": "788a8bd00f3faeebd722ad2634dd1082d2f363d7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "166",
+    "column": "Content",
+    "source_en": "Level-up material for Wutherium Battling",
+    "source_hash": "788a8bd00f3faeebd722ad2634dd1082d2f363d7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "167",
+    "column": "Content",
+    "source_en": "Level-up material for Wutherium Battling",
+    "source_hash": "788a8bd00f3faeebd722ad2634dd1082d2f363d7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "168",
+    "column": "Content",
+    "source_en": "Level-up material for Wutherium Battling",
+    "source_hash": "788a8bd00f3faeebd722ad2634dd1082d2f363d7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "169",
+    "column": "Content",
+    "source_en": "Level-up material for Wutherium Battling",
+    "source_hash": "788a8bd00f3faeebd722ad2634dd1082d2f363d7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "170",
+    "column": "Content",
+    "source_en": "Level-up material for Wutherium Battling",
+    "source_hash": "788a8bd00f3faeebd722ad2634dd1082d2f363d7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "171",
+    "column": "Content",
+    "source_en": "Level-up material for Wutherium Battling",
+    "source_hash": "788a8bd00f3faeebd722ad2634dd1082d2f363d7",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "172",
+    "column": "Content",
+    "source_en": "EXP material for weapon",
+    "source_hash": "34dedd239c92eeb7405ad797ea12b3558cc2da9b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "173",
+    "column": "Content",
+    "source_en": "EXP material for weapon",
+    "source_hash": "34dedd239c92eeb7405ad797ea12b3558cc2da9b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "174",
+    "column": "Content",
+    "source_en": "EXP material for weapon",
+    "source_hash": "34dedd239c92eeb7405ad797ea12b3558cc2da9b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "175",
+    "column": "Content",
+    "source_en": "EXP material for weapon",
+    "source_hash": "34dedd239c92eeb7405ad797ea12b3558cc2da9b",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "176",
+    "column": "Content",
+    "source_en": "Breakthrough Material for weapon",
+    "source_hash": "7471bf3fdb4fc20eade1fb48b81743d65aefd627",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "177",
+    "column": "Content",
+    "source_en": "Breakthrough Material for weapon",
+    "source_hash": "7471bf3fdb4fc20eade1fb48b81743d65aefd627",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "178",
+    "column": "Content",
+    "source_en": "Breakthrough Material for weapon",
+    "source_hash": "7471bf3fdb4fc20eade1fb48b81743d65aefd627",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "179",
+    "column": "Content",
+    "source_en": "Breakthrough Material for weapon",
+    "source_hash": "7471bf3fdb4fc20eade1fb48b81743d65aefd627",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "180",
+    "column": "Content",
+    "source_en": "Breakthrough Material for weapon",
+    "source_hash": "7471bf3fdb4fc20eade1fb48b81743d65aefd627",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "181",
+    "column": "Content",
+    "source_en": "Breakthrough Material for weapon",
+    "source_hash": "7471bf3fdb4fc20eade1fb48b81743d65aefd627",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "182",
+    "column": "Content",
+    "source_en": "Breakthrough Material for weapon",
+    "source_hash": "7471bf3fdb4fc20eade1fb48b81743d65aefd627",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "183",
+    "column": "Content",
+    "source_en": "Breakthrough Material for weapon",
+    "source_hash": "7471bf3fdb4fc20eade1fb48b81743d65aefd627",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "184",
+    "column": "Content",
+    "source_en": "Breakthrough Material for weapon",
+    "source_hash": "7471bf3fdb4fc20eade1fb48b81743d65aefd627",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "185",
+    "column": "Content",
+    "source_en": "Breakthrough Material for weapon",
+    "source_hash": "7471bf3fdb4fc20eade1fb48b81743d65aefd627",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "186",
+    "column": "Content",
+    "source_en": "Breakthrough Material for weapon",
+    "source_hash": "7471bf3fdb4fc20eade1fb48b81743d65aefd627",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "187",
+    "column": "Content",
+    "source_en": "Breakthrough Material for weapon",
+    "source_hash": "7471bf3fdb4fc20eade1fb48b81743d65aefd627",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "188",
+    "column": "Content",
+    "source_en": "Breakthrough Material for weapon",
+    "source_hash": "7471bf3fdb4fc20eade1fb48b81743d65aefd627",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "189",
+    "column": "Content",
+    "source_en": "Breakthrough Material for weapon",
+    "source_hash": "7471bf3fdb4fc20eade1fb48b81743d65aefd627",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "190",
+    "column": "Content",
+    "source_en": "Breakthrough Material for weapon",
+    "source_hash": "7471bf3fdb4fc20eade1fb48b81743d65aefd627",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "191",
+    "column": "Content",
+    "source_en": "Breakthrough Material for weapon",
+    "source_hash": "7471bf3fdb4fc20eade1fb48b81743d65aefd627",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "192",
+    "column": "Content",
+    "source_en": "Breakthrough Material for weapon",
+    "source_hash": "7471bf3fdb4fc20eade1fb48b81743d65aefd627",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "193",
+    "column": "Content",
+    "source_en": "Breakthrough Material for weapon",
+    "source_hash": "7471bf3fdb4fc20eade1fb48b81743d65aefd627",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "194",
+    "column": "Content",
+    "source_en": "Breakthrough Material for weapon",
+    "source_hash": "7471bf3fdb4fc20eade1fb48b81743d65aefd627",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "195",
+    "column": "Content",
+    "source_en": "Breakthrough Material for weapon",
+    "source_hash": "7471bf3fdb4fc20eade1fb48b81743d65aefd627",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "196",
+    "column": "Content",
+    "source_en": "Breakthrough Material for weapon",
+    "source_hash": "7471bf3fdb4fc20eade1fb48b81743d65aefd627",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "197",
+    "column": "Content",
+    "source_en": "Breakthrough Material for weapon",
+    "source_hash": "7471bf3fdb4fc20eade1fb48b81743d65aefd627",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "198",
+    "column": "Content",
+    "source_en": "Breakthrough Material for weapon",
+    "source_hash": "7471bf3fdb4fc20eade1fb48b81743d65aefd627",
+    "category": "lore"
+  },
+  {
+    "database": "lang_handbook.db",
+    "table": "ItemHandBook",
+    "primary_key_column": "Id",
+    "primary_key": "199",
+    "column": "Content",
+    "source_en": "Breakthrough Material for weapon",
+    "source_hash": "7471bf3fdb4fc20eade1fb48b81743d65aefd627",
+    "category": "lore"
+  }
+]
