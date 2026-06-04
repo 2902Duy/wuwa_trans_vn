@@ -51,6 +51,9 @@ Tài liệu này định nghĩa các nhóm dòng văn bản không cần gửi �
 > - `Seatrail Narwhal`
 > - `Inferno Rider`
 > - `Hoochief`
+> - `Sentinel`
+> - `Sentinel Jué`
+
 
 > [!WARNING]
 > **Không áp dụng quy tắc này cho:**
