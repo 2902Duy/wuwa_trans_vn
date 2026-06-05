@@ -521,7 +521,7 @@
     "ai_reason": "",
     "source_en": "Active Tactic ({0}): Display up to 3 cards with Transform from the deck. Add <SapTag=1>{1}</SapTag> of them to your hand. Shuffle the unselected {Cus:Sap,S=cards P=card SapTag=1} back into your deck.",
     "review_note": "",
-    "new_translation_vi": "Chiến Thuật Chủ Động ({0}): Hiển thị tối đa 3 lá bài có Transform từ bộ bài. Rút <SapTag=1>{1}</SapTag> lá vào tay. Trộn những lá không chọn {Cus:Sap,S=cards P=card SapTag=1} lại vào bộ bài.",
+    "new_translation_vi": "Chiến Thuật Chủ Động ({0}): Hiển thị tối đa 3 lá bài có Biến đổi từ bộ bài. Rút <SapTag=1>{1}</SapTag> lá vào tay. Trộn những lá không chọn {Cus:Sap,S=cards P=card SapTag=1} lại vào bộ bài.",
     "translator_note": ""
   },
   {
@@ -571,7 +571,7 @@
     "ai_reason": "",
     "source_en": "- When you Modulate this Echo, display up to 3 cards with Transform from the deck and add one of them to your hand. Shuffle the unselected cards back into your deck and gain <SapTag=0>{0}</SapTag> {Cus:Sap,S=point P=points SapTag=0} of Energy.",
     "review_note": "",
-    "new_translation_vi": "Khi ngươi Điều Chỉnh Tacet Discord này, lật lên tối đa 3 lá bài có Transform từ bộ bài và thêm 1 lá vào tay. Trộn các lá không chọn lại vào bộ bài và nhận <SapTag=0>{0}</SapTag> {Cus:Sap,S=điểm P=điểm SapTag=0} Năng Lượng.",
+    "new_translation_vi": "Khi ngươi Điều Chỉnh Tacet Discord này, lật lên tối đa 3 lá bài có Biến đổi từ bộ bài và thêm 1 lá vào tay. Trộn các lá không chọn lại vào bộ bài và nhận <SapTag=0>{0}</SapTag> {Cus:Sap,S=điểm P=điểm SapTag=0} Năng Lượng.",
     "translator_note": ""
   },
   {
@@ -2796,7 +2796,7 @@
     "ai_reason": "",
     "source_en": "<color=#e4c69b>Conversion</color> <color=#fb6464>(Unactivated)</color> - Each time you use Transform, you draw a card and then put a hand card back to the deck.",
     "review_note": "",
-    "new_translation_vi": "<color=#e4c69b>Conversion</color> <color=#fb6464>(Chưa kích hoạt)</color> - Mỗi khi sử dụng Transform, bạn rút một lá bài và sau đó đặt một lá bài trên tay trở lại bộ bài.",
+    "new_translation_vi": "<color=#e4c69b>Conversion</color> <color=#fb6464>(Chưa kích hoạt)</color> - Mỗi khi sử dụng Biến đổi, bạn rút một lá bài và sau đó đặt một lá bài trên tay trở lại bộ bài.",
     "translator_note": ""
   },
   {
@@ -5971,7 +5971,7 @@
     "ai_reason": "",
     "source_en": "When a <te href=851056><color=#c79f49>Roseshroom</color></te> Echo <te href=851041><color=#c79f49>Removes</color></te> or <te href=851007><color=#c79f49>Exchanges</color></te> itself, it is guaranteed to generate an <te href=851013><color=#c79f49>Item of Exchange</color></te>.",
     "review_note": "",
-    "new_translation_vi": "Khi một <te href=851056><color=#c79f49>Roseshroom</color></te> Echo <te href=851041><color=#c79f49>Loại bỏ</color></te> hoặc <te href=851007><color=#c79f49>Trao đổi</color></te> bản thân, nó chắc chắn sẽ tạo ra một <te href=851013><color=#c79f49>Item of Exchange</color></te>.",
+    "new_translation_vi": "Khi một <te href=851056><color=#c79f49>Roseshroom</color></te> Echo <te href=851041><color=#c79f49>Loại bỏ</color></te> hoặc <te href=851007><color=#c79f49>Trao đổi</color></te> bản thân, nó chắc chắn sẽ tạo ra một <te href=851013><color=#c79f49>Vật phẩm of Exchange</color></te>.",
     "translator_note": ""
   },
   {
@@ -9121,7 +9121,7 @@
     "ai_reason": "",
     "source_en": "<color=Highlight><te href=851106>Combo - Support Missile: Enhanced</te></color> now launches <color=Highlight>{1}</color> missiles per shot for <color=Highlight>{0}</color>s.",
     "review_note": "",
-    "new_translation_vi": "<color=Highlight><te href=851106>Combo - Support Missile: Enhanced</te></color> giờ bắn <color=Highlight>{1}</color> tên lửa mỗi lần trong <color=Highlight>{0}</color> giây.",
+    "new_translation_vi": "<color=Highlight><te href=851106>Combo - Tên lửa hỗ trợ: Cường hóa</te></color> giờ bắn <color=Highlight>{1}</color> tên lửa mỗi lần trong <color=Highlight>{0}</color> giây.",
     "translator_note": ""
   },
   {

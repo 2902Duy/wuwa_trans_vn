@@ -1796,7 +1796,7 @@
     "ai_reason": "",
     "source_en": "Transform into Fallacy of No Return and perform consecutive strikes forward, dealing a total of {0} <color=#ffd12f>Spectro DMG</color>.\nDealing DMG to enemies with this Echo Skill reduces Resonance Skill Cooldown by {1} for all nearby Resonators in the team and grants {2} Resonance Skill DMG Bonus for {4}s, stacking up to {3} times. Retriggering the effect resets its duration.\nCD: {5}s",
     "review_note": "",
-    "new_translation_vi": "Biến hình thành Ảo Tưởng Vô Hồi và thực hiện liên tiếp các đòn tấn công về phía trước, gây tổng cộng {0} <color=#ffd12f>Sát Thương Spectro</color>.\nGây DMG lên kẻ địch bằng Kỹ Năng Tiếng Vọng này sẽ giảm Thời gian hồi chiêu Resonance Skill {1} cho tất cả Resonator trong đội ở gần và tăng {2} Sát Thương Resonance Skill trong {4} giây, có thể tích lũy tối đa {3} lần. Kích hoạt lại hiệu ứng sẽ làm mới thời gian.\nThời gian hồi: {5} giây",
+    "new_translation_vi": "Biến hình thành Ảo Tưởng Vô Hồi và thực hiện liên tiếp các đòn tấn công về phía trước, gây tổng cộng {0} <color=#ffd12f>Sát Thương Spectro</color>.\nGây DMG lên kẻ địch bằng Kỹ Năng Tiếng Vọng này sẽ giảm Cooldown chiêu Resonance Skill {1} cho tất cả Resonator trong đội ở gần và tăng {2} Sát Thương Resonance Skill trong {4} giây, có thể tích lũy tối đa {3} lần. Kích hoạt lại hiệu ứng sẽ làm mới thời gian.\nCooldown: {5} giây",
     "translator_note": ""
   },
   {
@@ -1821,7 +1821,7 @@
     "ai_reason": "",
     "source_en": "Summon a Hocus Pocus to release Augmented Note 3 times. Each time, all nearby Resonators in the team gain {0} <color=#ffd12f>Resonance Energy</color> and {1} Resonance Liberation DMG Bonus for {2}s, and have their Resonance Liberation Cooldown reduced by {3}.\nCD: {4}s",
     "review_note": "",
-    "new_translation_vi": "Triệu hồi một Hocus Pocus giải phóng Nốt Tăng Cường 3 lần. Mỗi lần, tất cả Resonator trong đội gần đó nhận được {0} <color=#ffd12f>Resonance Energy</color> và {1} Tăng Sát Thương Resonance Liberation trong {2} giây, đồng thời giảm {3} giây Thời gian hồi Resonance Liberation.\nThời gian hồi: {4} giây",
+    "new_translation_vi": "Triệu hồi một Hocus Pocus giải phóng Nốt Tăng Cường 3 lần. Mỗi lần, tất cả Resonator trong đội gần đó nhận được {0} <color=#ffd12f>Resonance Energy</color> và {1} Tăng Sát Thương Resonance Liberation trong {2} giây, đồng thời giảm {3} giây Cooldown Resonance Liberation.\nCooldown: {4} giây",
     "translator_note": ""
   },
   {
@@ -2646,7 +2646,7 @@
     "ai_reason": "",
     "source_en": "<color=#b72924ff>Resonator switch Cooldown</color> is increased to <color=#b72924ff>3s</color> (Intro Skill not affected).",
     "review_note": "",
-    "new_translation_vi": "Thời gian hồi chiêu <color=#b72924ff>chuyển đổi Resonator</color> tăng lên <color=#b72924ff>3 giây</color> (Kỹ năng Khởi Động không bị ảnh hưởng).",
+    "new_translation_vi": "Cooldown chiêu <color=#b72924ff>chuyển đổi Resonator</color> tăng lên <color=#b72924ff>3 giây</color> (Kỹ năng Khởi Động không bị ảnh hưởng).",
     "translator_note": ""
   },
   {
@@ -2671,7 +2671,7 @@
     "ai_reason": "",
     "source_en": "<color=#b72924ff>Resonator switch Cooldown</color> is increased to <color=#b72924ff>5s</color> (Intro Skill not affected).",
     "review_note": "",
-    "new_translation_vi": "Thời gian hồi chiêu <color=#b72924ff>chuyển đổi Resonator</color> tăng lên <color=#b72924ff>5 giây</color> (Kỹ năng Khởi Động không bị ảnh hưởng).",
+    "new_translation_vi": "Cooldown chiêu <color=#b72924ff>chuyển đổi Resonator</color> tăng lên <color=#b72924ff>5 giây</color> (Kỹ năng Khởi Động không bị ảnh hưởng).",
     "translator_note": ""
   },
   {
@@ -5671,7 +5671,7 @@
     "ai_reason": "",
     "source_en": "Skill Cooldown",
     "review_note": "",
-    "new_translation_vi": "Thời gian hồi Kỹ năng",
+    "new_translation_vi": "Cooldown Kỹ năng",
     "translator_note": ""
   },
   {
@@ -5696,7 +5696,7 @@
     "ai_reason": "",
     "source_en": "Skill Cooldown",
     "review_note": "",
-    "new_translation_vi": "Thời gian hồi Kỹ năng",
+    "new_translation_vi": "Cooldown Kỹ năng",
     "translator_note": ""
   },
   {
@@ -10471,7 +10471,7 @@
     "ai_reason": "",
     "source_en": "Deployment Cooldown",
     "review_note": "",
-    "new_translation_vi": "Thời gian hồi triển khai",
+    "new_translation_vi": "Cooldown triển khai",
     "translator_note": ""
   },
   {

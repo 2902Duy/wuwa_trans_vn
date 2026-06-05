@@ -71,7 +71,7 @@
     "ai_reason": "",
     "source_en": "<color=Highlight>Sustained Combustion Protocol</color> is upgraded: Cooldown is reduced by <color=Highlight>{0}</color> at most.",
     "review_note": "",
-    "new_translation_vi": "<color=Highlight>Giao Thức Đốt Cháy Liên Tục</color> được nâng cấp: Thời gian hồi chiêu giảm tối đa <color=Highlight>{0}</color>.",
+    "new_translation_vi": "<color=Highlight>Giao Thức Đốt Cháy Liên Tục</color> được nâng cấp: Cooldown chiêu giảm tối đa <color=Highlight>{0}</color>.",
     "translator_note": ""
   },
   {
@@ -96,7 +96,7 @@
     "ai_reason": "",
     "source_en": "<color=Highlight>Guided Missile Protocol</color> is upgraded: The Support Droid deals <color=Highlight>{1}</color> more DMG, and Cooldown is increased by <color=Highlight>{0}</color>.",
     "review_note": "",
-    "new_translation_vi": "<color=Highlight>Giao Thức Tên Lửa Điều Khiển</color> được nâng cấp: DMG của Droid Hỗ Trợ tăng thêm <color=Highlight>{1}</color>, và Thời gian hồi chiêu tăng thêm <color=Highlight>{0}</color>.",
+    "new_translation_vi": "<color=Highlight>Giao Thức Tên Lửa Điều Khiển</color> được nâng cấp: DMG của Droid Hỗ Trợ tăng thêm <color=Highlight>{1}</color>, và Cooldown chiêu tăng thêm <color=Highlight>{0}</color>.",
     "translator_note": ""
   },
   {
@@ -221,7 +221,7 @@
     "ai_reason": "",
     "source_en": "<color=Highlight>Sustained Combustion Protocol</color> is upgraded: Cooldown is reduced by <color=Highlight>{0}</color> at most.",
     "review_note": "",
-    "new_translation_vi": "<color=Highlight>Giao Thức Đốt Cháy Liên Tục</color> được nâng cấp: Thời gian hồi chiêu giảm tối đa <color=Highlight>{0}</color>.",
+    "new_translation_vi": "<color=Highlight>Giao Thức Đốt Cháy Liên Tục</color> được nâng cấp: Cooldown chiêu giảm tối đa <color=Highlight>{0}</color>.",
     "translator_note": ""
   },
   {
@@ -246,7 +246,7 @@
     "ai_reason": "",
     "source_en": "<color=Highlight>Guided Missile Protocol</color> is upgraded: The Support Droid deals <color=Highlight>{1}</color> more DMG, and Cooldown is increased by <color=Highlight>{0}</color>.",
     "review_note": "",
-    "new_translation_vi": "<color=Highlight>Giao Thức Tên Lửa Điều Khiển</color> được nâng cấp: DMG của Droid Hỗ Trợ tăng thêm <color=Highlight>{1}</color>, và Thời gian hồi chiêu tăng thêm <color=Highlight>{0}</color>.",
+    "new_translation_vi": "<color=Highlight>Giao Thức Tên Lửa Điều Khiển</color> được nâng cấp: DMG của Droid Hỗ Trợ tăng thêm <color=Highlight>{1}</color>, và Cooldown chiêu tăng thêm <color=Highlight>{0}</color>.",
     "translator_note": ""
   },
   {
@@ -546,7 +546,7 @@
     "ai_reason": "",
     "source_en": "Cooldown -{0}",
     "review_note": "",
-    "new_translation_vi": "Thời gian hồi -{0}",
+    "new_translation_vi": "Cooldown -{0}",
     "translator_note": ""
   },
   {
@@ -796,7 +796,7 @@
     "ai_reason": "",
     "source_en": "Support Droid Cooldown -{0}",
     "review_note": "",
-    "new_translation_vi": "Thời gian hồi Chiêu của Droid Hỗ Trợ -{0}",
+    "new_translation_vi": "Cooldown Chiêu của Droid Hỗ Trợ -{0}",
     "translator_note": ""
   },
   {
@@ -921,7 +921,7 @@
     "ai_reason": "",
     "source_en": "Support Droid Cooldown reduced for {0}s",
     "review_note": "",
-    "new_translation_vi": "Thời gian hồi Chiêu của Droid Hỗ Trợ giảm trong {0} giây.",
+    "new_translation_vi": "Cooldown Chiêu của Droid Hỗ Trợ giảm trong {0} giây.",
     "translator_note": ""
   },
   {
@@ -1246,7 +1246,7 @@
     "ai_reason": "",
     "source_en": "Cooldown",
     "review_note": "",
-    "new_translation_vi": "Thời gian hồi",
+    "new_translation_vi": "Cooldown",
     "translator_note": ""
   },
   {
@@ -1946,7 +1946,7 @@
     "ai_reason": "",
     "source_en": "Upgrade Effect:\nDismount the motorbike and deal DMG equal to 1200% of the motorbike's ATK to targets within range while also slightly raising the targets' Off-Tune Level. Cooldown: 10s.",
     "review_note": "",
-    "new_translation_vi": "Hiệu ứng nâng cấp:\nXuống xe và gây Sát Thương bằng 1200% ATK của xe lên mục tiêu trong phạm vi, đồng thời tăng nhẹ Mức Độ Tần Số Lệch của chúng. Thời gian hồi: 10 giây.",
+    "new_translation_vi": "Hiệu ứng nâng cấp:\nXuống xe và gây Sát Thương bằng 1200% ATK của xe lên mục tiêu trong phạm vi, đồng thời tăng nhẹ Mức Độ Tần Số Lệch của chúng. Cooldown: 10 giây.",
     "translator_note": ""
   },
   {
@@ -2071,7 +2071,7 @@
     "ai_reason": "",
     "source_en": "Dismount the motorbike and pull in nearby targets within the range, dealing Physical DMG equal to 1200% of the motorbike's ATK while also slightly raising the targets' Off-Tune Level. Cooldown: 10s.",
     "review_note": "",
-    "new_translation_vi": "Xuống xe và kéo mục tiêu gần trong phạm vi về phía mình, gây Sát Thương Vật Lý bằng 1200% ATK của xe máy, đồng thời tăng nhẹ Mức Lệch Tần của mục tiêu. Thời gian hồi: 10 giây.",
+    "new_translation_vi": "Xuống xe và kéo mục tiêu gần trong phạm vi về phía mình, gây Sát Thương Vật Lý bằng 1200% ATK của xe máy, đồng thời tăng nhẹ Mức Lệch Tần của mục tiêu. Cooldown: 10 giây.",
     "translator_note": ""
   },
   {
@@ -2096,7 +2096,7 @@
     "ai_reason": "",
     "source_en": "Dismount the motorbike and pull in nearby targets within the range, dealing Physical DMG equal to 1600% of the motorbike's ATK while also moderately raising the targets' Off-Tune Level. Cooldown: 10s.",
     "review_note": "",
-    "new_translation_vi": "Xuống xe và kéo mục tiêu gần trong phạm vi về phía mình, gây Sát Thương Vật Lý bằng 1600% ATK của xe máy, đồng thời tăng vừa Mức Lệch Tần của mục tiêu. Thời gian hồi: 10 giây.",
+    "new_translation_vi": "Xuống xe và kéo mục tiêu gần trong phạm vi về phía mình, gây Sát Thương Vật Lý bằng 1600% ATK của xe máy, đồng thời tăng vừa Mức Lệch Tần của mục tiêu. Cooldown: 10 giây.",
     "translator_note": ""
   },
   {
@@ -2121,7 +2121,7 @@
     "ai_reason": "",
     "source_en": "Dismount the motorbike and pull in nearby targets within the range, dealing Physical DMG equal to 2000% of the motorbike's ATK while also moderately raising the targets' Off-Tune Level. Cooldown: 10s.",
     "review_note": "",
-    "new_translation_vi": "Xuống xe và kéo mục tiêu gần trong phạm vi về phía mình, gây Sát Thương Vật Lý bằng 2000% ATK của xe máy, đồng thời tăng vừa Mức Lệch Tần của mục tiêu. Thời gian hồi: 10 giây.",
+    "new_translation_vi": "Xuống xe và kéo mục tiêu gần trong phạm vi về phía mình, gây Sát Thương Vật Lý bằng 2000% ATK của xe máy, đồng thời tăng vừa Mức Lệch Tần của mục tiêu. Cooldown: 10 giây.",
     "translator_note": ""
   },
   {
@@ -2446,7 +2446,7 @@
     "ai_reason": "",
     "source_en": "Upgrade Effect:\nDismount the motorbike and pull in nearby targets, dealing Physical DMG equal to 1200% of the motorbike's ATK while also slightly increasing the targets' Off-Tune Level. Cooldown: 10s.",
     "review_note": "",
-    "new_translation_vi": "Hiệu ứng Nâng cấp:\nXuống xe và kéo các mục tiêu gần đó vào, gây Sát Thương Vật Lý bằng 1200% ATK của xe máy, đồng thời tăng nhẹ Mức Độ Lệch Tần của mục tiêu. Thời gian hồi chiêu: 10 giây.",
+    "new_translation_vi": "Hiệu ứng Nâng cấp:\nXuống xe và kéo các mục tiêu gần đó vào, gây Sát Thương Vật Lý bằng 1200% ATK của xe máy, đồng thời tăng nhẹ Mức Độ Lệch Tần của mục tiêu. Cooldown chiêu: 10 giây.",
     "translator_note": ""
   },
   {
@@ -3271,7 +3271,7 @@
     "ai_reason": "",
     "source_en": "<color=#c49e55>[Resonance Liberation]</color>\n- The total DMG of Resonance Liberation - Sword of Eternal Oath, Sublime is the Sun - Sunborne, and Sublime is the Sun - Everbright Protector is increased by {0}.\n- The Cooldown of Resonance Liberation - Sword of Eternal Oath is reduced by {1}s. Casting this Resonance Liberation recovers {2} of Ascendancy.",
     "review_note": "",
-    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\n- Tổng DMG của Resonance Liberation - Kiếm Lời Thề Vĩnh Cửu, Sublime is the Sun - Sunborne và Sublime is the Sun - Everbright Protector được tăng thêm {0}.\n- Thời gian hồi chiêu của Resonance Liberation - Kiếm Lời Thề Vĩnh Cửu giảm {1} giây. Sử dụng Resonance Liberation này sẽ phục hồi {2} Năng Lượng Thăng Hoa.",
+    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\n- Tổng DMG của Resonance Liberation - Kiếm Lời Thề Vĩnh Cửu, Sublime is the Sun - Sunborne và Sublime is the Sun - Everbright Protector được tăng thêm {0}.\n- Cooldown chiêu của Resonance Liberation - Kiếm Lời Thề Vĩnh Cửu giảm {1} giây. Sử dụng Resonance Liberation này sẽ phục hồi {2} Năng Lượng Thăng Hoa.",
     "translator_note": ""
   },
   {
@@ -3371,7 +3371,7 @@
     "ai_reason": "",
     "source_en": "<color=#c49e55>[Resonance Liberation]</color>\nThe Cooldown of Resonance Liberation - Beneath Lunar Tides is reduced by {0}s. This strike also shoots {1} Arrows of Clarity, each dealing Aero DMG equal to {2} of ATK and is considered Resonance Liberation DMG.",
     "review_note": "",
-    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\nGiảm Thời gian hồi chiêu của Resonance Liberation - Dưới Ánh Trăng {0} giây. Đòn tấn công này cũng bắn ra {1} Mũi Tên Minh Triết, mỗi mũi tên gây DMG Aero bằng {2} ATK và được tính là DMG Resonance Liberation.",
+    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\nGiảm Cooldown chiêu của Resonance Liberation - Dưới Ánh Trăng {0} giây. Đòn tấn công này cũng bắn ra {1} Mũi Tên Minh Triết, mỗi mũi tên gây DMG Aero bằng {2} ATK và được tính là DMG Resonance Liberation.",
     "translator_note": ""
   },
   {
@@ -3571,7 +3571,7 @@
     "ai_reason": "",
     "source_en": "<color=#c49e55>[Resonance Liberation]</color>\n- Resonance Liberation - Hellfire Absolution Cooldown is reduced by {0}s.\n- During the cast of this Resonance Liberation, every {1} points of Sinflame or Purging Flame gained restores {2} points of Afterflame and grants {3} DMG Bonus for {4}s.",
     "review_note": "",
-    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\n- Thời gian hồi chiêu của Resonance Liberation - Ân Xá Hỏa Ngục giảm {0} giây.\n- Trong quá trình sử dụng Resonance Liberation này, mỗi {1} điểm Ngọn Lửa Tội hoặc Ngọn Lửa Thanh Tẩy nhận được sẽ hồi phục {2} điểm Ngọn Lửa Dư và tăng {3} Sát Thương Bonus trong {4} giây.",
+    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\n- Cooldown chiêu của Resonance Liberation - Ân Xá Hỏa Ngục giảm {0} giây.\n- Trong quá trình sử dụng Resonance Liberation này, mỗi {1} điểm Ngọn Lửa Tội hoặc Ngọn Lửa Thanh Tẩy nhận được sẽ hồi phục {2} điểm Ngọn Lửa Dư và tăng {3} Sát Thương Bonus trong {4} giây.",
     "translator_note": ""
   },
   {
@@ -3671,7 +3671,7 @@
     "ai_reason": "",
     "source_en": "<color=#c49e55>[Resonance Skill]</color>\n- Resonance Skill - Through the Groves has its Cooldown reduced by {0}s and its total DMG increased by {1}. Casting this skill grants {2} Aero DMG Bonus for {3}s.\n- Resonance Skill - Through the Groves will be automatically cast when Qiuyuan is being hit, stagnating nearby enemies for {4}s and restoring {5} points of Swordster's Soliloquy.",
     "review_note": "",
-    "new_translation_vi": "<color=#c49e55>[Resonance Skill]</color>\n- Thời gian hồi chiêu của Resonance Skill - Through the Groves giảm {0} giây và tổng Sát Thương tăng thêm {1}. Thi triển kỹ năng này sẽ tăng {2} Sát Thương Aero trong {3} giây.\n- Resonance Skill - Through the Groves sẽ tự động thi triển khi Qiuyuan bị tấn công, làm chậm kẻ địch xung quanh trong {4} giây và khôi phục {5} điểm Swordster's Soliloquy.",
+    "new_translation_vi": "<color=#c49e55>[Resonance Skill]</color>\n- Cooldown chiêu của Resonance Skill - Through the Groves giảm {0} giây và tổng Sát Thương tăng thêm {1}. Thi triển kỹ năng này sẽ tăng {2} Sát Thương Aero trong {3} giây.\n- Resonance Skill - Through the Groves sẽ tự động thi triển khi Qiuyuan bị tấn công, làm chậm kẻ địch xung quanh trong {4} giây và khôi phục {5} điểm Swordster's Soliloquy.",
     "translator_note": ""
   },
   {
@@ -3696,7 +3696,7 @@
     "ai_reason": "",
     "source_en": "<color=#c49e55>[Resonance Liberation]</color>\nThe total DMG of Resonance Liberation - Sundering Strike is increased by {0} and its Cooldown is reduced by {1}s.",
     "review_note": "",
-    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\nTổng DMG của Resonance Liberation - Đòn Phá Hủy tăng thêm {0} và Thời gian hồi chiêu giảm {1} giây.",
+    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\nTổng DMG của Resonance Liberation - Đòn Phá Hủy tăng thêm {0} và Cooldown chiêu giảm {1} giây.",
     "translator_note": ""
   },
   {
@@ -3796,7 +3796,7 @@
     "ai_reason": "",
     "source_en": "<color=#c49e55>[Resonance Skill]</color>\n- Resonance Skill - Eye of Unraveling Cooldown is reduced by {0}s.\n- Casting Resonance Skill - Eye of Unraveling restores {1} points of Resonance Energy and grants {4} points of Ring of Chainsaw.\n- Casting Resonance Skill - Serrated Loop grants {2} Havoc DMG Bonus for {3}s.",
     "review_note": "",
-    "new_translation_vi": "<color=#c49e55>[Resonance Skill]</color>\n- Thời gian hồi chiêu của Resonance Skill - Eye of Unraveling giảm {0} giây.\n- Thi triển Resonance Skill - Eye of Unraveling sẽ khôi phục {1} điểm Resonance Energy và nhận {4} điểm Ring of Chainsaw.\n- Thi triển Resonance Skill - Serrated Loop sẽ tăng {2} Sát Thương Havoc trong {3} giây.",
+    "new_translation_vi": "<color=#c49e55>[Resonance Skill]</color>\n- Cooldown chiêu của Resonance Skill - Eye of Unraveling giảm {0} giây.\n- Thi triển Resonance Skill - Eye of Unraveling sẽ khôi phục {1} điểm Resonance Energy và nhận {4} điểm Ring of Chainsaw.\n- Thi triển Resonance Skill - Serrated Loop sẽ tăng {2} Sát Thương Havoc trong {3} giây.",
     "translator_note": ""
   },
   {
@@ -3821,7 +3821,7 @@
     "ai_reason": "",
     "source_en": "<color=#c49e55>[Resonance Liberation]</color>\nThe total DMG of Resonance Liberation - Moment of Nihility is increased by {0} and its Cooldown is reduced by {1}s.",
     "review_note": "",
-    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\nTổng DMG của Resonance Liberation - Khoảnh Khắc Hư Vô tăng thêm {0} và Thời gian hồi chiêu giảm {1} giây.",
+    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\nTổng DMG của Resonance Liberation - Khoảnh Khắc Hư Vô tăng thêm {0} và Cooldown chiêu giảm {1} giây.",
     "translator_note": ""
   },
   {
@@ -3996,7 +3996,7 @@
     "ai_reason": "",
     "source_en": "<color=#c49e55>[Resonance Liberation]</color>\nResonance Liberation has reduced Cooldown and can now additionally launch Arrows of Clarity.",
     "review_note": "",
-    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\nResonance Liberation có Thời gian hồi chiêu ngắn hơn và giờ đây có thể bắn thêm Mũi Tên Minh Triết.",
+    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\nResonance Liberation có Cooldown chiêu ngắn hơn và giờ đây có thể bắn thêm Mũi Tên Minh Triết.",
     "translator_note": ""
   },
   {
@@ -4196,7 +4196,7 @@
     "ai_reason": "",
     "source_en": "<color=#c49e55>[Resonance Liberation]</color>\n- The Cooldown of Resonance Liberation is reduced.\n- Casting Resonance Liberation additionally restores Afterflame and increases DMG dealt.",
     "review_note": "",
-    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\n- Thời gian hồi chiêu của Resonance Liberation được rút ngắn.\n- Sử dụng Resonance Liberation sẽ hồi phục thêm Ngọn Lửa Dư và tăng Sát Thương gây ra.",
+    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\n- Cooldown chiêu của Resonance Liberation được rút ngắn.\n- Sử dụng Resonance Liberation sẽ hồi phục thêm Ngọn Lửa Dư và tăng Sát Thương gây ra.",
     "translator_note": ""
   },
   {
@@ -4321,7 +4321,7 @@
     "ai_reason": "",
     "source_en": "<color=#c49e55>[Resonance Liberation]</color>\nResonance Liberation - Sundering Strike has higher total DMG and lower Cooldown.",
     "review_note": "",
-    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\nResonance Liberation - Đòn Phá Hủy có tổng DMG cao hơn và Thời gian hồi chiêu ngắn hơn.",
+    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\nResonance Liberation - Đòn Phá Hủy có tổng DMG cao hơn và Cooldown chiêu ngắn hơn.",
     "translator_note": ""
   },
   {
@@ -4421,7 +4421,7 @@
     "ai_reason": "",
     "source_en": "<color=#c49e55>[Forte Circuit]</color>\n- Cooldown of Resonance Skill - Eye of Unraveling is reduced.\n- Casting Resonance Skill - Eye of Unraveling restores Resonance Energy and grants Ring of Chainsaw.\n- Casting Resonance Skill - Serrated Loop grants Havoc DMG Bonus",
     "review_note": "",
-    "new_translation_vi": "<color=#c49e55>[Forte Circuit]</color>\n- Thời gian hồi chiêu của Resonance Skill - Eye of Unraveling được giảm.\n- Kích hoạt Resonance Skill - Eye of Unraveling sẽ phục hồi Resonance Energy và tạo ra Ring of Chainsaw.\n- Kích hoạt Resonance Skill - Serrated Loop sẽ tăng Sát Thương Havoc.",
+    "new_translation_vi": "<color=#c49e55>[Forte Circuit]</color>\n- Cooldown chiêu của Resonance Skill - Eye of Unraveling được giảm.\n- Kích hoạt Resonance Skill - Eye of Unraveling sẽ phục hồi Resonance Energy và tạo ra Ring of Chainsaw.\n- Kích hoạt Resonance Skill - Serrated Loop sẽ tăng Sát Thương Havoc.",
     "translator_note": ""
   },
   {
@@ -4446,7 +4446,7 @@
     "ai_reason": "",
     "source_en": "<color=#c49e55>[Resonance Liberation]</color>\nThe total DMG of Resonance Liberation - Moment of Nihility is increased and its Cooldown is reduced.",
     "review_note": "",
-    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\nTổng DMG của Resonance Liberation - Khoảnh Khắc Hư Vô được tăng lên và Thời gian hồi chiêu giảm đi.",
+    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\nTổng DMG của Resonance Liberation - Khoảnh Khắc Hư Vô được tăng lên và Cooldown chiêu giảm đi.",
     "translator_note": ""
   },
   {
@@ -4471,7 +4471,7 @@
     "ai_reason": "",
     "source_en": "<color=#c49e55>[Forte Circuit]</color>\n- Forte Circuit - Learn My True Name Cooldown becomes {0}s. {Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Normal Attack on the ground to perform Basic Attack Stage 3.\n- Gain Concurrent. Obtaining a Rune grants an extra Rune of the same type. When Sigrika has Concurrent, both Divergent and Convergent become ineffective. Casting Echo Skill grants {1} points of Soliskin Vitality.",
     "review_note": "",
-    "new_translation_vi": "<color=#c49e55>[Forte Circuit]</color>\n- Thời gian hồi của Forte Circuit - Learn My True Name giảm còn {0} giây. {Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} nút Normal Attack trên mặt đất để thực hiện Giai Đoạn Basic Attack 3.\n- Nhận trạng thái Concurrent. Nhận được một Rune sẽ nhận thêm một Rune cùng loại. Khi Sigrika có Concurrent, cả Divergent và Convergent đều không có hiệu lực. Dùng Kỹ Năng Echo sẽ nhận được {1} điểm Soliskin Vitality.",
+    "new_translation_vi": "<color=#c49e55>[Forte Circuit]</color>\n- Cooldown của Forte Circuit - Learn My True Name giảm còn {0} giây. {Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} nút Normal Attack trên mặt đất để thực hiện Giai Đoạn Basic Attack 3.\n- Nhận trạng thái Concurrent. Nhận được một Rune sẽ nhận thêm một Rune cùng loại. Khi Sigrika có Concurrent, cả Divergent và Convergent đều không có hiệu lực. Dùng Kỹ Năng Echo sẽ nhận được {1} điểm Soliskin Vitality.",
     "translator_note": ""
   },
   {
@@ -4571,7 +4571,7 @@
     "ai_reason": "",
     "source_en": "<color=#c49e55>[Resonance Liberation]</color>\n- Casting Resonance Liberation sends Sigrika into the Decipher state for {0}s. If Decipher is activated in this way, casting Basic Attack - Elucidated, Dodge Counter - Decipher, Resonance Skill - Big Boomy Boom, or Resonance Skill - Soliskin to the Aid does not end Decipher.\n- Casting Forte Circuit - Learn My True Name resets Resonance Liberation Cooldown and fully restores Resonance Energy.",
     "review_note": "",
-    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\n- Kích hoạt Resonance Liberation sẽ đưa Sigrika vào trạng thái Giải Mã trong {0} giây. Nếu Giải Mã được kích hoạt theo cách này, sử dụng Basic Attack - Giải Thích, Né Tránh Phản Công - Giải Mã, Resonance Skill - Big Boomy Boom hoặc Resonance Skill - Soliskin to the Aid sẽ không kết thúc Giải Mã.\n- Kích hoạt Forte Circuit - Learn My True Name sẽ đặt lại Thời gian hồi chiêu Resonance Liberation và phục hồi toàn bộ Resonance Energy.",
+    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\n- Kích hoạt Resonance Liberation sẽ đưa Sigrika vào trạng thái Giải Mã trong {0} giây. Nếu Giải Mã được kích hoạt theo cách này, sử dụng Basic Attack - Giải Thích, Né Tránh Phản Công - Giải Mã, Resonance Skill - Big Boomy Boom hoặc Resonance Skill - Soliskin to the Aid sẽ không kết thúc Giải Mã.\n- Kích hoạt Forte Circuit - Learn My True Name sẽ đặt lại Cooldown chiêu Resonance Liberation và phục hồi toàn bộ Resonance Energy.",
     "translator_note": ""
   },
   {
@@ -4596,7 +4596,7 @@
     "ai_reason": "",
     "source_en": "<color=#c49e55>[Forte Circuit]</color>\n- Forte Circuit - Learn My True Name Cooldown becomes {0}s. \n- Obtaining a Rune grants an extra Rune of the same type. Casting Echo Skill fully restores Soliskin Vitality.",
     "review_note": "",
-    "new_translation_vi": "<color=#c49e55>[Forte Circuit]</color>\n- Thời gian hồi của Forte Circuit - Learn My True Name giảm còn {0} giây.\n- Nhận được một Rune sẽ nhận thêm một Rune cùng loại. Dùng Kỹ Năng Echo sẽ hồi đầy Soliskin Vitality.",
+    "new_translation_vi": "<color=#c49e55>[Forte Circuit]</color>\n- Cooldown của Forte Circuit - Learn My True Name giảm còn {0} giây.\n- Nhận được một Rune sẽ nhận thêm một Rune cùng loại. Dùng Kỹ Năng Echo sẽ hồi đầy Soliskin Vitality.",
     "translator_note": ""
   },
   {
@@ -4721,7 +4721,7 @@
     "ai_reason": "",
     "source_en": "<color=#c49e55>[Resonance Liberation]</color>\n- The total DMG of Resonance Liberation - Sword of Eternal Oath, Sublime is the Sun - Sunborne, and Sublime is the Sun - Everbright Protector is increased by {0}.\n- The Cooldown of Resonance Liberation - Sword of Eternal Oath is reduced by {1}s. Casting this Resonance Liberation recovers {2} points of Ascendancy.",
     "review_note": "",
-    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\n- Tổng DMG của Resonance Liberation - Kiếm Lời Thề Vĩnh Cửu, Sublime is the Sun - Sunborne và Sublime is the Sun - Everbright Protector được tăng thêm {0}.\n- Thời gian hồi chiêu của Resonance Liberation - Kiếm Lời Thề Vĩnh Cửu giảm {1} giây. Sử dụng Resonance Liberation này sẽ phục hồi {2} điểm Năng Lượng Thăng Hoa.",
+    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\n- Tổng DMG của Resonance Liberation - Kiếm Lời Thề Vĩnh Cửu, Sublime is the Sun - Sunborne và Sublime is the Sun - Everbright Protector được tăng thêm {0}.\n- Cooldown chiêu của Resonance Liberation - Kiếm Lời Thề Vĩnh Cửu giảm {1} giây. Sử dụng Resonance Liberation này sẽ phục hồi {2} điểm Năng Lượng Thăng Hoa.",
     "translator_note": ""
   },
   {

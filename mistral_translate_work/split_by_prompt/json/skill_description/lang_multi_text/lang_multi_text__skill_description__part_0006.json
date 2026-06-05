@@ -2646,7 +2646,7 @@
     "ai_reason": "",
     "source_en": "When Resonators cast Resonance Liberation or hit the target with Dodge Counters, Resonance Skill Cooldown is reduced by 5s.",
     "review_note": "",
-    "new_translation_vi": "Khi Resonator kích hoạt Resonance Liberation hoặc trúng mục tiêu bằng Dodge Counter Tránh, Thời gian hồi chiêu Resonance Skill sẽ giảm 5 giây.",
+    "new_translation_vi": "Khi Resonator kích hoạt Resonance Liberation hoặc trúng mục tiêu bằng Dodge Counter Tránh, Cooldown chiêu Resonance Skill sẽ giảm 5 giây.",
     "translator_note": ""
   },
   {
@@ -2696,7 +2696,7 @@
     "ai_reason": "",
     "source_en": "When Resonators cast Resonance Liberation or hit the target with Counterattacks, Resonance Skill Cooldown is reduced by 5s.",
     "review_note": "",
-    "new_translation_vi": "Khi Resonator kích hoạt Resonance Liberation hoặc trúng mục tiêu bằng Phản Đòn, Thời gian hồi chiêu Resonance Skill sẽ giảm 5 giây.",
+    "new_translation_vi": "Khi Resonator kích hoạt Resonance Liberation hoặc trúng mục tiêu bằng Phản Đòn, Cooldown chiêu Resonance Skill sẽ giảm 5 giây.",
     "translator_note": ""
   },
   {
@@ -2771,7 +2771,7 @@
     "ai_reason": "",
     "source_en": "Casting Resonance Liberation or hitting the target with Dodge Counters apply a stagnation effect for 3s and mark the targets. Damage dealt to the marked targets is increased by 30%. The mark lasts for 10s. This effect has a Cooldown of 6s.",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Resonance Liberation hoặc đánh trúng mục tiêu bằng Dodge Counter Tránh sẽ gây hiệu ứng trì trệ trong 3 giây và đánh dấu mục tiêu. Sát thương gây ra lên mục tiêu bị đánh dấu tăng 30%. Dấu hiệu kéo dài 10 giây. Hiệu ứng này có Thời gian hồi chiêu 6 giây.",
+    "new_translation_vi": "Kích hoạt Resonance Liberation hoặc đánh trúng mục tiêu bằng Dodge Counter Tránh sẽ gây hiệu ứng trì trệ trong 3 giây và đánh dấu mục tiêu. Sát thương gây ra lên mục tiêu bị đánh dấu tăng 30%. Dấu hiệu kéo dài 10 giây. Hiệu ứng này có Cooldown chiêu 6 giây.",
     "translator_note": ""
   },
   {
@@ -4821,7 +4821,7 @@
     "ai_reason": "",
     "source_en": "<color=#e8aa32>[<te href=750021>Echo-Type Combat Machine</te>]</color>\n\nWhen a Hologram Echo: Hoartoise is in Cooldown, <color=Highlight>Echo-Type</color> Combat Machines in the nearby <color=Highlight>{0}</color> grids have their Attack Speed increased by <color=Highlight>{1}</color> and ATK increased by <color=Highlight>{2}</color>.",
     "review_note": "",
-    "new_translation_vi": "<color=#e8aa32>[<te href=750021>Máy Chiến Đấu Kiểu Echo</te>]</color>\n\nKhi Hologram Echo: Hoartoise đang trong Thời gian hồi chiêu, các Máy Chiến Đấu <color=Highlight>Kiểu Echo</color> trong phạm vi <color=Highlight>{0}</color> ô lưới xung quanh sẽ có Tốc Độ ATK tăng <color=Highlight>{1}</color> và ATK tăng <color=Highlight>{2}</color>.",
+    "new_translation_vi": "<color=#e8aa32>[<te href=750021>Máy Chiến Đấu Kiểu Echo</te>]</color>\n\nKhi Hologram Echo: Hoartoise đang trong Cooldown chiêu, các Máy Chiến Đấu <color=Highlight>Kiểu Echo</color> trong phạm vi <color=Highlight>{0}</color> ô lưới xung quanh sẽ có Tốc Độ ATK tăng <color=Highlight>{1}</color> và ATK tăng <color=Highlight>{2}</color>.",
     "translator_note": ""
   },
   {
@@ -4846,7 +4846,7 @@
     "ai_reason": "",
     "source_en": "<color=#e8aa32>[<te href=750021>Echo-Type Combat Machine</te>]</color>\n\nWhen a Hologram Echo: Hoartoise is in Cooldown, <color=Highlight>Echo-Type</color> Combat Machines in the nearby <color=Highlight>{0}</color> grids have their Attack Speed increased by <color=Highlight>{1}</color> and ATK increased by <color=Highlight>{2}</color>.",
     "review_note": "",
-    "new_translation_vi": "<color=#e8aa32>[<te href=750021>Máy Chiến Đấu Kiểu Echo</te>]</color>\n\nKhi Hologram Echo: Hoartoise đang trong Thời gian hồi chiêu, các Máy Chiến Đấu <color=Highlight>Kiểu Echo</color> trong phạm vi <color=Highlight>{0}</color> ô lưới xung quanh sẽ có Tốc Độ ATK tăng <color=Highlight>{1}</color> và ATK tăng <color=Highlight>{2}</color>.",
+    "new_translation_vi": "<color=#e8aa32>[<te href=750021>Máy Chiến Đấu Kiểu Echo</te>]</color>\n\nKhi Hologram Echo: Hoartoise đang trong Cooldown chiêu, các Máy Chiến Đấu <color=Highlight>Kiểu Echo</color> trong phạm vi <color=Highlight>{0}</color> ô lưới xung quanh sẽ có Tốc Độ ATK tăng <color=Highlight>{1}</color> và ATK tăng <color=Highlight>{2}</color>.",
     "translator_note": ""
   },
   {
@@ -6146,7 +6146,7 @@
     "ai_reason": "",
     "source_en": "When equipped with this Utility, leap from certain heights to take flight and soar at high speed by consuming a special type of STA.\n\nFlight is also available on the ground. While on the ground, jump into the air to take flight. Cooldown applies.",
     "review_note": "",
-    "new_translation_vi": "Khi trang bị Tiện Ích này, bạn có thể nhảy từ độ cao nhất định để bay lượn và tăng tốc bằng cách tiêu hao một loại STA đặc biệt.\n\nBạn cũng có thể bay khi đứng trên mặt đất. Khi ở trên mặt đất, hãy nhảy lên không trung để bắt đầu bay. Thời gian hồi chiêu sẽ được áp dụng.",
+    "new_translation_vi": "Khi trang bị Tiện Ích này, bạn có thể nhảy từ độ cao nhất định để bay lượn và tăng tốc bằng cách tiêu hao một loại STA đặc biệt.\n\nBạn cũng có thể bay khi đứng trên mặt đất. Khi ở trên mặt đất, hãy nhảy lên không trung để bắt đầu bay. Cooldown chiêu sẽ được áp dụng.",
     "translator_note": ""
   },
   {
@@ -10546,7 +10546,7 @@
     "ai_reason": "",
     "source_en": "Grapple Cooldown Reduction",
     "review_note": "",
-    "new_translation_vi": "Giảm Thời gian hồi Móc",
+    "new_translation_vi": "Giảm Cooldown Móc",
     "translator_note": ""
   },
   {
@@ -10946,7 +10946,7 @@
     "ai_reason": "",
     "source_en": "Grapple Cooldown is reduced by 50%.",
     "review_note": "",
-    "new_translation_vi": "Thời gian hồi Móc giảm 50%.",
+    "new_translation_vi": "Cooldown Móc giảm 50%.",
     "translator_note": ""
   },
   {
@@ -12246,7 +12246,7 @@
     "ai_reason": "",
     "source_en": "After using Grapple, its Cooldown is temporarily removed for {0}s. The Cooldown of this effect is {1}s.",
     "review_note": "",
-    "new_translation_vi": "Sau khi sử dụng Móc Câu, Thời gian hồi chiêu của nó tạm thời bị loại bỏ trong {0} giây. Thời gian hồi chiêu của hiệu ứng này là {1} giây.",
+    "new_translation_vi": "Sau khi sử dụng Móc Câu, Cooldown chiêu của nó tạm thời bị loại bỏ trong {0} giây. Cooldown chiêu của hiệu ứng này là {1} giây.",
     "translator_note": ""
   },
   {
@@ -12371,7 +12371,7 @@
     "ai_reason": "",
     "source_en": "Increase Movement Speed by {0}. Dashing grants additional Dash DMG for {1}s. This effect is removed upon switching to another Resonator and has a Cooldown of {2}s.",
     "review_note": "",
-    "new_translation_vi": "Tăng tốc độ di chuyển thêm {0}. Khi chạy nước rút, gây thêm DMG nước rút trong {1} giây. Hiệu ứng này sẽ mất khi chuyển sang Resonator khác và có Thời gian hồi chiêu {2} giây.",
+    "new_translation_vi": "Tăng tốc độ di chuyển thêm {0}. Khi chạy nước rút, gây thêm DMG nước rút trong {1} giây. Hiệu ứng này sẽ mất khi chuyển sang Resonator khác và có Cooldown chiêu {2} giây.",
     "translator_note": ""
   },
   {

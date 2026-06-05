@@ -121,7 +121,7 @@
     "ai_reason": "",
     "source_en": "Using Grapple grants a shield with durability equal to {0} of ATK. This effect has a Cooldown of {1}s.",
     "review_note": "",
-    "new_translation_vi": "Sử dụng Móc Neo tạo khiên có độ bền bằng {0} sức ATK. Hiệu ứng này có Thời gian hồi {1} giây.",
+    "new_translation_vi": "Sử dụng Móc Neo tạo khiên có độ bền bằng {0} sức ATK. Hiệu ứng này có Cooldown {1} giây.",
     "translator_note": ""
   },
   {
@@ -221,7 +221,7 @@
     "ai_reason": "",
     "source_en": "Casting Heavy Attack additionally restores Resonance Energy by {0} and reduces all team members' Resonance Liberation Cooldown by {1}s. This effect has a Cooldown of {2}s.",
     "review_note": "",
-    "new_translation_vi": "Khi sử dụng Đòn Heavy Attack, hồi phục thêm {0} Resonance Energy và giảm Thời gian hồi chiêu Resonance Liberation của tất cả thành viên trong đội đi {1} giây. Hiệu ứng này có Thời gian hồi chiêu là {2} giây.",
+    "new_translation_vi": "Khi sử dụng Đòn Heavy Attack, hồi phục thêm {0} Resonance Energy và giảm Cooldown chiêu Resonance Liberation của tất cả thành viên trong đội đi {1} giây. Hiệu ứng này có Cooldown chiêu là {2} giây.",
     "translator_note": ""
   },
   {
@@ -1096,7 +1096,7 @@
     "ai_reason": "",
     "source_en": "Counterattack increases Combat Rank's progression efficiency by {0}% for {1}s.\nRank ≥ B: Counterattack increases the DMG dealt by all team members by {2}% for {3}s.\nRank ≥ S: Counterattack resets the active Resonator's Resonance Skill Cooldown.",
     "review_note": "",
-    "new_translation_vi": "Phản công tăng hiệu suất tiến trình Hạng Chiến Đấu lên {0}% trong {1} giây.\nHạng ≥ B: Counterattack increases the DMG dealt by all team members by {2}% for {3}s.\nRank ≥ S: Counterattack resets the active Resonator's Resonance Skill Thời gian hồi.",
+    "new_translation_vi": "Phản công tăng hiệu suất tiến trình Hạng Chiến Đấu lên {0}% trong {1} giây.\nHạng ≥ B: Counterattack increases the DMG dealt by all team members by {2}% for {3}s.\nRank ≥ S: Counterattack resets the active Resonator's Resonance Skill Cooldown.",
     "translator_note": ""
   },
   {
@@ -1171,7 +1171,7 @@
     "ai_reason": "",
     "source_en": "Echo Skill increases Combat Rank's progression efficiency by {0}% for {1}s.\nRank ≥ B: Echo Skill Cooldown is decreased by {2}%.\nRank ≥ S: Echo Skill DMG is increased by {3}%.",
     "review_note": "",
-    "new_translation_vi": "Kỹ năng Echo tăng hiệu suất tiến trình Hạng Chiến Đấu lên {0}% trong {1} giây.\nHạng ≥ B: Thời gian hồi chiêu Kỹ năng Echo giảm {2}%.\nHạng ≥ S: DMG Kỹ năng Echo tăng {3}%.",
+    "new_translation_vi": "Kỹ năng Echo tăng hiệu suất tiến trình Hạng Chiến Đấu lên {0}% trong {1} giây.\nHạng ≥ B: Cooldown chiêu Kỹ năng Echo giảm {2}%.\nHạng ≥ S: DMG Kỹ năng Echo tăng {3}%.",
     "translator_note": ""
   },
   {
@@ -1321,7 +1321,7 @@
     "ai_reason": "",
     "source_en": "For {0}s, Echo Skill Cooldown is decreased by {1}%.",
     "review_note": "",
-    "new_translation_vi": "Trong {0} giây, Thời gian hồi chiêu Kỹ Năng Echo giảm {1}%.",
+    "new_translation_vi": "Trong {0} giây, Cooldown chiêu Kỹ Năng Echo giảm {1}%.",
     "translator_note": ""
   },
   {
@@ -9346,7 +9346,7 @@
     "ai_reason": "",
     "source_en": "{PlayerName}, I wish you a beautiful day. (Buff gained: Reduce the Cooldown of Grapple by 25% until 4 am)",
     "review_note": "",
-    "new_translation_vi": "Chúc cậu một ngày thật tuyệt vời, {PlayerName}. (Đã nhận hiệu ứng: Giảm Thời Gian hồi của Kỹ Năng Bám Đu lên 25% đến 4 giờ sáng)",
+    "new_translation_vi": "Chúc cậu một ngày thật tuyệt vời, {PlayerName}. (Đã nhận hiệu ứng: Giảm Thời Gian Cooldown của Kỹ Năng Bám Đu lên 25% đến 4 giờ sáng)",
     "translator_note": ""
   },
   {

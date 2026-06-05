@@ -96,7 +96,7 @@
     "ai_reason": "",
     "source_en": "<color=#f0c154>Dodge Counter reduces Skill Cooldown at high Symphony Rank.</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#f0c154>Né Phản Đòn giảm Thời gian hồi chiêu Kỹ năng ở Cấp Độ Giao Hưởng cao.</color>",
+    "new_translation_vi": "<color=#f0c154>Né Phản Đòn giảm Cooldown chiêu Kỹ năng ở Cấp Độ Giao Hưởng cao.</color>",
     "translator_note": ""
   },
   {
@@ -1246,7 +1246,7 @@
     "ai_reason": "",
     "source_en": "When nearby enemies take DMG from Negative Statuses, instantly reduces <color=Highlight>Resonance Liberation</color> Cooldown and <color=Highlight>Resonance Skill</color> Cooldown by {0} and restores {1} points of <color=Highlight>Resonance Energy</color>. This effect is triggered once every second.",
     "review_note": "",
-    "new_translation_vi": "Khi kẻ địch gần đó chịu Sát Thương từ Trạng Thái Tiêu Cực, sẽ giảm ngay Thời gian hồi chiêu của <color=Highlight>Resonance Liberation</color> và <color=Highlight>Resonance Skill</color> đi {0} giây và hồi {1} điểm <color=Highlight>Resonance Energy</color>. Hiệu ứng này kích hoạt mỗi giây một lần.",
+    "new_translation_vi": "Khi kẻ địch gần đó chịu Sát Thương từ Trạng Thái Tiêu Cực, sẽ giảm ngay Cooldown chiêu của <color=Highlight>Resonance Liberation</color> và <color=Highlight>Resonance Skill</color> đi {0} giây và hồi {1} điểm <color=Highlight>Resonance Energy</color>. Hiệu ứng này kích hoạt mỗi giây một lần.",
     "translator_note": ""
   },
   {
@@ -9196,7 +9196,7 @@
     "ai_reason": "",
     "source_en": "While the active Resonator is shielded, Basic or Heavy Attack summons an Ice Bell on hit, dealing DMG equal to {0} of Max HP. Cooldown: {1}s.",
     "review_note": "",
-    "new_translation_vi": "Khi Resonator đang hoạt động được bảo vệ bởi khiên, Đòn Tấn Công Cơ Bản hoặc Nặng sẽ triệu hồi Chuông Băng khi trúng đích, gây Sát Thương bằng {0} HP tối đa. Thời gian hồi: {1} giây.",
+    "new_translation_vi": "Khi Resonator đang hoạt động được bảo vệ bởi khiên, Đòn Tấn Công Cơ Bản hoặc Nặng sẽ triệu hồi Chuông Băng khi trúng đích, gây Sát Thương bằng {0} HP tối đa. Cooldown: {1} giây.",
     "translator_note": ""
   },
   {
@@ -9221,7 +9221,7 @@
     "ai_reason": "",
     "source_en": "While the active Resonator is shielded, taking damage summons an Ice Bell around them, dealing DMG equal to {0} of Max HP. Cooldown: {1}s.",
     "review_note": "",
-    "new_translation_vi": "Khi Resonator đang hoạt động được bảo vệ bởi khiên, mỗi lần chịu Sát Thương sẽ triệu hồi Chuông Băng xung quanh, gây Sát Thương bằng {0} HP tối đa. Thời gian hồi: {1} giây.",
+    "new_translation_vi": "Khi Resonator đang hoạt động được bảo vệ bởi khiên, mỗi lần chịu Sát Thương sẽ triệu hồi Chuông Băng xung quanh, gây Sát Thương bằng {0} HP tối đa. Cooldown: {1} giây.",
     "translator_note": ""
   },
   {
@@ -9246,7 +9246,7 @@
     "ai_reason": "",
     "source_en": "While the active Resonator is shielded, Resonance Skill or Resonance Liberation additionally summons an Ice Bell on hit, dealing DMG equal to {0} of Max HP. Cooldown: {1}s.",
     "review_note": "",
-    "new_translation_vi": "Khi Resonator đang hoạt động được bảo vệ bởi khiên, Resonance Skill hoặc Resonance Liberation sẽ triệu hồi thêm Chuông Băng khi trúng đích, gây Sát Thương bằng {0} HP tối đa. Thời gian hồi: {1} giây.",
+    "new_translation_vi": "Khi Resonator đang hoạt động được bảo vệ bởi khiên, Resonance Skill hoặc Resonance Liberation sẽ triệu hồi thêm Chuông Băng khi trúng đích, gây Sát Thương bằng {0} HP tối đa. Cooldown: {1} giây.",
     "translator_note": ""
   },
   {
@@ -9321,7 +9321,7 @@
     "ai_reason": "",
     "source_en": "Taking an attack grants a Shield equal to {0} of Max HP for {1}s. Cooldown: {2}s.",
     "review_note": "",
-    "new_translation_vi": "Nhận sát thương sẽ tạo khiên tương đương {0} HP tối đa trong {1} giây. Thời gian hồi: {2} giây.",
+    "new_translation_vi": "Nhận sát thương sẽ tạo khiên tương đương {0} HP tối đa trong {1} giây. Cooldown: {2} giây.",
     "translator_note": ""
   },
   {
@@ -9446,7 +9446,7 @@
     "ai_reason": "",
     "source_en": "Attack additionally deals DMG equal to {0} of current HP once. Cooldown: {1}s.",
     "review_note": "",
-    "new_translation_vi": "Tấn Công gây thêm DMG bằng {0} HP hiện tại một lần. Thời gian hồi: {1} giây.",
+    "new_translation_vi": "Tấn Công gây thêm DMG bằng {0} HP hiện tại một lần. Cooldown: {1} giây.",
     "translator_note": ""
   },
   {
@@ -9471,7 +9471,7 @@
     "ai_reason": "",
     "source_en": "Successful Dodge grants a Shield to the active Resonator for {0}s. Cooldown: {1}s.",
     "review_note": "",
-    "new_translation_vi": "Né tránh thành công sẽ tạo khiên cho Resonator đang hoạt động trong {0} giây. Thời gian hồi: {1} giây.",
+    "new_translation_vi": "Né tránh thành công sẽ tạo khiên cho Resonator đang hoạt động trong {0} giây. Cooldown: {1} giây.",
     "translator_note": ""
   },
   {
@@ -9746,7 +9746,7 @@
     "ai_reason": "",
     "source_en": "Reduces Resonance Liberation Cooldown by {0} and Max Resonance Energy by {1}.",
     "review_note": "",
-    "new_translation_vi": "Giảm {0} Thời gian hồi chiêu Resonance Liberation và {1} Resonance Energy tối đa.",
+    "new_translation_vi": "Giảm {0} Cooldown chiêu Resonance Liberation và {1} Resonance Energy tối đa.",
     "translator_note": ""
   },
   {
@@ -9771,7 +9771,7 @@
     "ai_reason": "",
     "source_en": "Resonance Skill additionally summons a Gold Shock on hit, dealing DMG equal to {0} of ATK. Cooldown: {1}s.",
     "review_note": "",
-    "new_translation_vi": "Resonance Skill khi trúng mục tiêu sẽ triệu hồi thêm một Gold Shock, gây DMG bằng {0} ATK. Thời gian hồi: {1} giây.",
+    "new_translation_vi": "Resonance Skill khi trúng mục tiêu sẽ triệu hồi thêm một Gold Shock, gây DMG bằng {0} ATK. Cooldown: {1} giây.",
     "translator_note": ""
   },
   {
@@ -9796,7 +9796,7 @@
     "ai_reason": "",
     "source_en": "Casting Resonance Liberation instantly resets Resonance Liberation Cooldown and restores all Resonance Energy. Cooldown: {0}s.",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Resonance Liberation lập tức đặt lại Thời gian hồi chiêu Resonance Liberation và hồi toàn bộ Resonance Energy. Thời gian hồi chiêu: {0} giây.",
+    "new_translation_vi": "Kích hoạt Resonance Liberation lập tức đặt lại Cooldown chiêu Resonance Liberation và hồi toàn bộ Resonance Energy. Cooldown chiêu: {0} giây.",
     "translator_note": ""
   },
   {
@@ -9946,7 +9946,7 @@
     "ai_reason": "",
     "source_en": "Every Basic Attack performed reduces Resonance Skill and Resonance Liberation Cooldown by {0}.",
     "review_note": "",
-    "new_translation_vi": "Mỗi Đòn Basic Attack thực hiện sẽ giảm Thời gian hồi chiêu của Resonance Skill và Resonance Liberation đi {0}.",
+    "new_translation_vi": "Mỗi Đòn Basic Attack thực hiện sẽ giảm Cooldown chiêu của Resonance Skill và Resonance Liberation đi {0}.",
     "translator_note": ""
   },
   {
@@ -10296,7 +10296,7 @@
     "ai_reason": "",
     "source_en": "The active Resonator restores {0} points of Resonance Energy after taking damage or losing HP. Cooldown: {1}s.",
     "review_note": "",
-    "new_translation_vi": "Resonator hiện tại phục hồi {0} điểm Resonance Energy sau khi chịu sát thương hoặc mất HP. Thời gian hồi chiêu: {1} giây.",
+    "new_translation_vi": "Resonator hiện tại phục hồi {0} điểm Resonance Energy sau khi chịu sát thương hoặc mất HP. Cooldown chiêu: {1} giây.",
     "translator_note": ""
   },
   {
@@ -10346,7 +10346,7 @@
     "ai_reason": "",
     "source_en": "Dealing Echo Skill DMG additionally summons Wind Gust 3 times, dealing DMG equal to {0} of ATK. Cooldown: {1}s.",
     "review_note": "",
-    "new_translation_vi": "Gây DMG bằng Kỹ Năng Echo sẽ triệu hồi thêm 3 lần Cơn Gió Đột Kích, gây DMG bằng {0} ATK. Thời gian hồi: {1} giây.",
+    "new_translation_vi": "Gây DMG bằng Kỹ Năng Echo sẽ triệu hồi thêm 3 lần Cơn Gió Đột Kích, gây DMG bằng {0} ATK. Cooldown: {1} giây.",
     "translator_note": ""
   },
   {
@@ -10396,7 +10396,7 @@
     "ai_reason": "",
     "source_en": "Intro Skill additionally summons Wind Gust 5 times on hit, dealing DMG equal to {0} of ATK. Cooldown: {1}s.",
     "review_note": "",
-    "new_translation_vi": "Kỹ năng Khởi Động còn triệu hồi Luồng Gió 5 lần khi trúng mục tiêu, gây Sát Thương bằng {0} ATK. Thời gian hồi chiêu: {1} giây.",
+    "new_translation_vi": "Kỹ năng Khởi Động còn triệu hồi Luồng Gió 5 lần khi trúng mục tiêu, gây Sát Thương bằng {0} ATK. Cooldown chiêu: {1} giây.",
     "translator_note": ""
   },
   {
@@ -10496,7 +10496,7 @@
     "ai_reason": "",
     "source_en": "Wind Gust restores {0} points of Concerto Energy on hit. Cooldown: {1}s.",
     "review_note": "",
-    "new_translation_vi": "Cơn Gió Giật hồi phục {0} Concerto Energy khi trúng đích. Thời gian hồi chiêu: {1} giây.",
+    "new_translation_vi": "Cơn Gió Giật hồi phục {0} Concerto Energy khi trúng đích. Cooldown chiêu: {1} giây.",
     "translator_note": ""
   },
   {
@@ -10521,7 +10521,7 @@
     "ai_reason": "",
     "source_en": "Dodge Counter restores {0} points of Concerto Energy and reduces Echo Skill Cooldown by {1}s. Cooldown: {2}s.",
     "review_note": "",
-    "new_translation_vi": "Dodge Counter phục hồi {0} điểm Năng Lượng Giao Hưởng và giảm {1} giây Thời gian hồi chiêu Kỹ Năng Vọng Âm. Thời gian hồi chiêu: {2} giây.",
+    "new_translation_vi": "Dodge Counter phục hồi {0} điểm Năng Lượng Giao Hưởng và giảm {1} giây Cooldown chiêu Kỹ Năng Vọng Âm. Cooldown chiêu: {2} giây.",
     "translator_note": ""
   },
   {
@@ -10646,7 +10646,7 @@
     "ai_reason": "",
     "source_en": "Reduces Echo Skill Cooldown by {0}.",
     "review_note": "",
-    "new_translation_vi": "Giảm Thời gian hồi chiêu Kỹ Năng Echo {0}.",
+    "new_translation_vi": "Giảm Cooldown chiêu Kỹ Năng Echo {0}.",
     "translator_note": ""
   },
   {
@@ -10721,7 +10721,7 @@
     "ai_reason": "",
     "source_en": "Defeating an enemy reduces Echo Skill Cooldown by {0}s, triggered once every {1}s.",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt kẻ địch sẽ giảm Thời gian hồi chiêu Kỹ Năng Echo đi {0} giây, kích hoạt mỗi {1} giây một lần.",
+    "new_translation_vi": "Tiêu diệt kẻ địch sẽ giảm Cooldown chiêu Kỹ Năng Echo đi {0} giây, kích hoạt mỗi {1} giây một lần.",
     "translator_note": ""
   },
   {
@@ -10821,7 +10821,7 @@
     "ai_reason": "",
     "source_en": "Casting Resonance Skill restores {0} points of Concerto Energy. Cooldown: {1}s.",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Resonance Skill sẽ hồi phục {0} điểm Concerto Energy. Thời gian hồi chiêu: {1} giây.",
+    "new_translation_vi": "Kích hoạt Resonance Skill sẽ hồi phục {0} điểm Concerto Energy. Cooldown chiêu: {1} giây.",
     "translator_note": ""
   },
   {
@@ -10846,7 +10846,7 @@
     "ai_reason": "",
     "source_en": "Casting Resonance Liberation restores {0} points of Concerto Energy. Cooldown: {1}s.",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Resonance Liberation hồi phục {0} Concerto Energy. Thời gian hồi chiêu: {1} giây.",
+    "new_translation_vi": "Kích hoạt Resonance Liberation hồi phục {0} Concerto Energy. Cooldown chiêu: {1} giây.",
     "translator_note": ""
   },
   {
@@ -11271,7 +11271,7 @@
     "ai_reason": "",
     "source_en": "Dealing damage to an enemy has a {0} chance to inflict 1 stack of Fusion Burst or Havoc Bane on it. Cooldown: {1}s.",
     "review_note": "",
-    "new_translation_vi": "Gây sát thương lên kẻ địch có {0}% khả năng gây 1 tầng Fusion Burst hoặc Havoc Bane cho nó. Thời gian hồi: {1} giây.",
+    "new_translation_vi": "Gây sát thương lên kẻ địch có {0}% khả năng gây 1 tầng Fusion Burst hoặc Havoc Bane cho nó. Cooldown: {1} giây.",
     "translator_note": ""
   },
   {
@@ -11296,7 +11296,7 @@
     "ai_reason": "",
     "source_en": "Dealing damage to an enemy has a {0} chance to inflict 1 stack of Spectro Frazzle or Aero Erosion on it. Cooldown: {1}s.",
     "review_note": "",
-    "new_translation_vi": "Gây sát thương lên kẻ địch có {0}% khả năng gây 1 tầng Spectro Frazzle hoặc Aero Erosion cho nó. Thời gian hồi: {1} giây.",
+    "new_translation_vi": "Gây sát thương lên kẻ địch có {0}% khả năng gây 1 tầng Spectro Frazzle hoặc Aero Erosion cho nó. Cooldown: {1} giây.",
     "translator_note": ""
   },
   {
@@ -11371,7 +11371,7 @@
     "ai_reason": "",
     "source_en": "Spectro Frazzle or Aero Erosion reduces Resonance Skill Cooldown by {0}s upon dealing damage. Cooldown: {1}s.",
     "review_note": "",
-    "new_translation_vi": "Rối Loạn Spectro hoặc Xói Mòn Aero giảm Thời gian hồi chiêu Resonance Skill {0} giây khi gây sát thương. Thời gian hồi chiêu: {1} giây.",
+    "new_translation_vi": "Rối Loạn Spectro hoặc Xói Mòn Aero giảm Cooldown chiêu Resonance Skill {0} giây khi gây sát thương. Cooldown chiêu: {1} giây.",
     "translator_note": ""
   },
   {
@@ -11521,7 +11521,7 @@
     "ai_reason": "",
     "source_en": "Performing Tune Break Skill on an enemy instantly removes its immunity to Mistuned state and reduces its DEF by {0} for {1}s. Cooldown: {2}s.",
     "review_note": "",
-    "new_translation_vi": "Khi sử dụng Kỹ Năng Phá Điệu lên kẻ địch, ngay lập tức loại bỏ khả năng miễn nhiễm trạng thái Lệch Điệu và giảm Phòng Ngự của nó đi {0} trong {1} giây. Thời gian hồi chiêu: {2} giây.",
+    "new_translation_vi": "Khi sử dụng Kỹ Năng Phá Điệu lên kẻ địch, ngay lập tức loại bỏ khả năng miễn nhiễm trạng thái Lệch Điệu và giảm Phòng Ngự của nó đi {0} trong {1} giây. Cooldown chiêu: {2} giây.",
     "translator_note": ""
   },
   {
@@ -11546,7 +11546,7 @@
     "ai_reason": "",
     "source_en": "Performing Tune Break Skill on an enemy inflicts Tune Rupture - Activation for {0}s. Dealing damage to enemies with Tune Rupture - Activation triggers Amber Lance twice. Cooldown: {1}s.",
     "review_note": "",
-    "new_translation_vi": "Khi sử dụng Kỹ Năng Phá Điệu lên kẻ địch, gây hiệu ứng Đứt Điệu - Kích Hoạt trong {0} giây. Gây sát thương lên kẻ địch đang bị Đứt Điệu - Kích Hoạt sẽ kích hoạt Ngọn Giáo Hổ Phách thêm 2 lần. Thời gian hồi chiêu: {1} giây.",
+    "new_translation_vi": "Khi sử dụng Kỹ Năng Phá Điệu lên kẻ địch, gây hiệu ứng Đứt Điệu - Kích Hoạt trong {0} giây. Gây sát thương lên kẻ địch đang bị Đứt Điệu - Kích Hoạt sẽ kích hoạt Ngọn Giáo Hổ Phách thêm 2 lần. Cooldown chiêu: {1} giây.",
     "translator_note": ""
   },
   {
@@ -11746,7 +11746,7 @@
     "ai_reason": "",
     "source_en": "Attacking Immobilized enemies triggers additional DMG equal to {0} of ATK once. Cooldown: {1}s.",
     "review_note": "",
-    "new_translation_vi": "ATK kẻ địch Bất Động sẽ kích hoạt DMG bổ sung bằng {0} ATK. Thời gian hồi: {1} giây.",
+    "new_translation_vi": "ATK kẻ địch Bất Động sẽ kích hoạt DMG bổ sung bằng {0} ATK. Cooldown: {1} giây.",
     "translator_note": ""
   },
   {
@@ -11821,7 +11821,7 @@
     "ai_reason": "",
     "source_en": "Dealing damage to enemies additionally increases their Off-Tune Level. Cooldown: {0}s.",
     "review_note": "",
-    "new_translation_vi": "Gây sát thương lên kẻ địch sẽ tăng thêm Mức Độ Mất Nhịp của chúng. Thời gian hồi: {0} giây.",
+    "new_translation_vi": "Gây sát thương lên kẻ địch sẽ tăng thêm Mức Độ Mất Nhịp của chúng. Cooldown: {0} giây.",
     "translator_note": ""
   },
   {

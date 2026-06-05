@@ -471,7 +471,7 @@
     "ai_reason": "",
     "source_en": "Reduces Resonance Liberation Cooldown and Max Resonance Energy.",
     "review_note": "",
-    "new_translation_vi": "Giảm Thời gian hồi chiêu Resonance Liberation và Resonance Energy tối đa.",
+    "new_translation_vi": "Giảm Cooldown chiêu Resonance Liberation và Resonance Energy tối đa.",
     "translator_note": ""
   },
   {
@@ -521,7 +521,7 @@
     "ai_reason": "",
     "source_en": "Casting Resonance Liberation instantly resets Resonance Liberation Cooldown and restores all Resonance Energy.",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Resonance Liberation lập tức đặt lại Thời gian hồi chiêu Resonance Liberation và hồi toàn bộ Resonance Energy.",
+    "new_translation_vi": "Kích hoạt Resonance Liberation lập tức đặt lại Cooldown chiêu Resonance Liberation và hồi toàn bộ Resonance Energy.",
     "translator_note": ""
   },
   {
@@ -671,7 +671,7 @@
     "ai_reason": "",
     "source_en": "Every Basic Attack performed reduces Resonance Skill and Resonance Liberation Cooldown.",
     "review_note": "",
-    "new_translation_vi": "Mỗi Đòn Basic Attack thực hiện sẽ giảm Thời gian hồi chiêu của Resonance Skill và Resonance Liberation.",
+    "new_translation_vi": "Mỗi Đòn Basic Attack thực hiện sẽ giảm Cooldown chiêu của Resonance Skill và Resonance Liberation.",
     "translator_note": ""
   },
   {
@@ -1246,7 +1246,7 @@
     "ai_reason": "",
     "source_en": "Dodge Counter restores Concerto Energy and reduces Echo Skill Cooldown.",
     "review_note": "",
-    "new_translation_vi": "Dodge Counter phục hồi Năng Lượng Giao Hưởng và giảm Thời gian hồi chiêu Kỹ Năng Vọng Âm.",
+    "new_translation_vi": "Dodge Counter phục hồi Năng Lượng Giao Hưởng và giảm Cooldown chiêu Kỹ Năng Vọng Âm.",
     "translator_note": ""
   },
   {
@@ -1371,7 +1371,7 @@
     "ai_reason": "",
     "source_en": "Reduces Echo Skill Cooldown.",
     "review_note": "",
-    "new_translation_vi": "Giảm Thời gian hồi chiêu Kỹ Năng Echo.",
+    "new_translation_vi": "Giảm Cooldown chiêu Kỹ Năng Echo.",
     "translator_note": ""
   },
   {
@@ -1446,7 +1446,7 @@
     "ai_reason": "",
     "source_en": "Defeating an enemy reduces Echo Skill Cooldown.",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt kẻ địch sẽ giảm Thời gian hồi chiêu Kỹ Năng Echo.",
+    "new_translation_vi": "Tiêu diệt kẻ địch sẽ giảm Cooldown chiêu Kỹ Năng Echo.",
     "translator_note": ""
   },
   {
@@ -2096,7 +2096,7 @@
     "ai_reason": "",
     "source_en": "Spectro Frazzle or Aero Erosion reduces Resonance Skill Cooldown upon dealing damage.",
     "review_note": "",
-    "new_translation_vi": "Rối Loạn Spectro hoặc Xói Mòn Aero giảm Thời gian hồi chiêu Resonance Skill khi gây sát thương.",
+    "new_translation_vi": "Rối Loạn Spectro hoặc Xói Mòn Aero giảm Cooldown chiêu Resonance Skill khi gây sát thương.",
     "translator_note": ""
   },
   {
@@ -2671,7 +2671,7 @@
     "ai_reason": "",
     "source_en": "Dealing damage with Heavy Attack, Resonance Skill, or Resonance Liberation grants {0}, {1}, or {2} stacks of Homebound Order respectively.\nReaching {3} stacks of Homebound Order consumes all stacks to summon Sigillum, dealing DMG equal to {4} of ATK {5} times. Cooldown: {6}s.",
     "review_note": "",
-    "new_translation_vi": "Gây DMG bằng Đòn Heavy Attack, Resonance Skill hoặc Resonance Liberation sẽ lần lượt nhận được {0}, {1} hoặc {2} tầng Lệnh Quy Hồi.\nKhi đạt {3} tầng Lệnh Quy Hồi, tất cả tầng sẽ được tiêu hao để triệu hồi Sigillum, gây DMG bằng {4} ATK {5} lần. Thời gian hồi chiêu: {6} giây.",
+    "new_translation_vi": "Gây DMG bằng Đòn Heavy Attack, Resonance Skill hoặc Resonance Liberation sẽ lần lượt nhận được {0}, {1} hoặc {2} tầng Lệnh Quy Hồi.\nKhi đạt {3} tầng Lệnh Quy Hồi, tất cả tầng sẽ được tiêu hao để triệu hồi Sigillum, gây DMG bằng {4} ATK {5} lần. Cooldown chiêu: {6} giây.",
     "translator_note": ""
   },
   {
@@ -2721,7 +2721,7 @@
     "ai_reason": "",
     "source_en": "Tune Break Skill on hit summons Sigillum to deal DMG equal to {0} of ATK {1} times plus DMG equal to {2} of ATK once. This attack resets the target's Immunity to the Mistuned state and maxes out their Off-Tune Level. Cooldown: {3}s.",
     "review_note": "",
-    "new_translation_vi": "Kỹ Năng Phá Tần khi trúng đích sẽ triệu hồi Sigillum gây DMG bằng {0} ATK, {1} lần cộng thêm DMG bằng {2} ATK một lần. Đòn tấn công này sẽ đặt lại Kháng Trạng Thái Lệch Tần của mục tiêu và đẩy Mức Độ Lệch Tần lên tối đa. Thời gian hồi chiêu: {3} giây.",
+    "new_translation_vi": "Kỹ Năng Phá Tần khi trúng đích sẽ triệu hồi Sigillum gây DMG bằng {0} ATK, {1} lần cộng thêm DMG bằng {2} ATK một lần. Đòn tấn công này sẽ đặt lại Kháng Trạng Thái Lệch Tần của mục tiêu và đẩy Mức Độ Lệch Tần lên tối đa. Cooldown chiêu: {3} giây.",
     "translator_note": ""
   },
   {
@@ -2896,7 +2896,7 @@
     "ai_reason": "",
     "source_en": "Every <SapTag=0>{0}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=0} of Negative Status inflicted on the target summons False Sovereign to cast Deluge Judgment, dealing DMG equal to {1} of ATK {2} times. Cooldown: {3}s.",
     "review_note": "",
-    "new_translation_vi": "Mỗi <SapTag=0>{0}</SapTag> {Cus:Sap,S=trạng thái tiêu cực P=trạng thái tiêu cực SapTag=0} gây ra trên mục tiêu sẽ triệu hồi Kẻ Giả Dối Hóa Vương để thi triển Phán Quyết Đại Hồng Thủy, gây DMG bằng {1} ATK, {2} lần. Thời gian hồi: {3} giây.",
+    "new_translation_vi": "Mỗi <SapTag=0>{0}</SapTag> {Cus:Sap,S=trạng thái tiêu cực P=trạng thái tiêu cực SapTag=0} gây ra trên mục tiêu sẽ triệu hồi Kẻ Giả Dối Hóa Vương để thi triển Phán Quyết Đại Hồng Thủy, gây DMG bằng {1} ATK, {2} lần. Cooldown: {3} giây.",
     "translator_note": ""
   },
   {
@@ -3421,7 +3421,7 @@
     "ai_reason": "",
     "source_en": "<color=#c49e55>[Resonance Liberation]</color>\n- Gain {0} Energy Regen. Within {1}s after casting Resonance Liberation - Flashing Thunder Spell: Harmony, enter the Heaven's Executioner state. Performing Heavy Attack in this state consumes {2} HP to generate {3} Thunder Arrays for {4}s, dealing Electro DMG equal to {6} of ATK every {5}s, considered Resonance Liberation DMG. Thunder Arrays continuously pull in nearby targets.\n- Thunder Array generates random thunder strikes that deal Electro DMG equal to {7} of ATK on hit, considered Resonance Liberation DMG.\n- Heaven's Executioner Cooldown is {8}s. This effect costs no HP when Buling has only {9} HP.",
     "review_note": "",
-    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\n- Nhận {0} Hồi Năng Lượng. Trong vòng {1} giây sau khi kích hoạt Resonance Liberation - Phép Thuật Sấm Chớp: Hòa Âm, bước vào trạng thái Thiên Sứ Trảm. Thực hiện Đòn Heavy Attack trong trạng thái này sẽ tiêu hao {2} HP để tạo ra {3} Mảng Sấm trong {4} giây, gây Sát Thương Electro bằng {6} ATK mỗi {5} giây, được tính là Sát Thương Resonance Liberation. Mảng Sấm liên tục hút mục tiêu xung quanh.\n- Mảng Sấm tạo ra các tia sét ngẫu nhiên gây Sát Thương Electro bằng {7} ATK khi trúng, được tính là Sát Thương Resonance Liberation.\n- Thời gian hồi chiêu của Thiên Sứ Trảm là {8} giây. Hiệu ứng này không tiêu hao HP khi Buling chỉ còn {9} HP.",
+    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\n- Nhận {0} Hồi Năng Lượng. Trong vòng {1} giây sau khi kích hoạt Resonance Liberation - Phép Thuật Sấm Chớp: Hòa Âm, bước vào trạng thái Thiên Sứ Trảm. Thực hiện Đòn Heavy Attack trong trạng thái này sẽ tiêu hao {2} HP để tạo ra {3} Mảng Sấm trong {4} giây, gây Sát Thương Electro bằng {6} ATK mỗi {5} giây, được tính là Sát Thương Resonance Liberation. Mảng Sấm liên tục hút mục tiêu xung quanh.\n- Mảng Sấm tạo ra các tia sét ngẫu nhiên gây Sát Thương Electro bằng {7} ATK khi trúng, được tính là Sát Thương Resonance Liberation.\n- Cooldown chiêu của Thiên Sứ Trảm là {8} giây. Hiệu ứng này không tiêu hao HP khi Buling chỉ còn {9} HP.",
     "translator_note": ""
   },
   {
@@ -3846,7 +3846,7 @@
     "ai_reason": "",
     "source_en": "<color=#c49e55>[Resonance Liberation]</color>\n- Resonance Liberation Cooldown is reduced. Gain Resonance Energy every second.\n- Casting Resonance Liberation generates a High Syntony Field that deals continuous DMG to enemies within its range.",
     "review_note": "",
-    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\n- Thời gian hồi chiêu của Resonance Liberation được rút ngắn. Nhận Resonance Energy mỗi giây.\n- Sử dụng Resonance Liberation sẽ tạo ra Trường Cộng Hưởng Cao gây Sát Thương liên tục lên kẻ địch trong phạm vi.",
+    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\n- Cooldown chiêu của Resonance Liberation được rút ngắn. Nhận Resonance Energy mỗi giây.\n- Sử dụng Resonance Liberation sẽ tạo ra Trường Cộng Hưởng Cao gây Sát Thương liên tục lên kẻ địch trong phạm vi.",
     "translator_note": ""
   },
   {
@@ -3921,7 +3921,7 @@
     "ai_reason": "",
     "source_en": "<color=#c49e55>[Resonance Liberation]</color>\n- When Resonance Skill - Expectation Error is in the Parry state, summon Hover Cannons to blast enemies {0} times, each dealing Fusion DMG equal to {1} of Mornye's DEF, considered Resonance Liberation DMG.\n- Resonance Skill - Distributed Array Cooldown is reduced by {2}s. Casting this skill additionally releases {3} lines of Hover Cannons forward, each hit dealing Fusion DMG equal to {4} of Mornye's DEF, considered Resonance Liberation DMG.",
     "review_note": "",
-    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\n- Khi Resonance Skill - Expectation Error ở trạng thái Né Tránh, triệu hồi Pháo Nổi để bắn kẻ địch {0} lần, mỗi lần gây DMG Fusion bằng {1} DEF của Mornye, được tính là DMG Resonance Liberation.\n- Thời gian hồi chiêu của Resonance Skill - Distributed Array giảm {2} giây. Sử dụng kỹ năng này sẽ bổ sung {3} đường Pháo Nổi bắn về phía trước, mỗi lần trúng mục tiêu gây DMG Fusion bằng {4} DEF của Mornye, được tính là DMG Resonance Liberation.",
+    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\n- Khi Resonance Skill - Expectation Error ở trạng thái Né Tránh, triệu hồi Pháo Nổi để bắn kẻ địch {0} lần, mỗi lần gây DMG Fusion bằng {1} DEF của Mornye, được tính là DMG Resonance Liberation.\n- Cooldown chiêu của Resonance Skill - Distributed Array giảm {2} giây. Sử dụng kỹ năng này sẽ bổ sung {3} đường Pháo Nổi bắn về phía trước, mỗi lần trúng mục tiêu gây DMG Fusion bằng {4} DEF của Mornye, được tính là DMG Resonance Liberation.",
     "translator_note": ""
   },
   {
@@ -3971,7 +3971,7 @@
     "ai_reason": "",
     "source_en": "<color=#c49e55>[Resonance Liberation]</color>\n- Resonance Liberation Cooldown is reduced by {0}s. Gain <SapTag=1>{1}</SapTag> {Cus:Sap,S=point P=points SapTag=1} of Resonance Energy every second.\n- Casting Resonance Liberation generates a High Syntony Field. Enemies within this field are afflicted with the Shockwave effect, taking Fusion DMG equal to {2} of Mornye's DEF every second, considered Resonance Liberation DMG. When attacking enemies under the Shockwave effect, Mornye deals {3} more total DMG.",
     "review_note": "",
-    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\n- Thời gian hồi chiêu của Resonance Liberation giảm {0} giây. Nhận <SapTag=1>{1}</SapTag> {Cus:Sap,S=điểm P=điểm SapTag=1} Resonance Energy mỗi giây.\n- Sử dụng Resonance Liberation sẽ tạo ra Trường Cộng Hưởng Cao. Kẻ địch trong trường này sẽ bị ảnh hưởng bởi hiệu ứng Sóng Xung Kích, chịu Sát Thương Fusion tương đương {2} Phòng Ngự của Mornye mỗi giây, được tính là Sát Thương Resonance Liberation. Khi tấn công kẻ địch chịu hiệu ứng Sóng Xung Kích, Mornye gây thêm {3} tổng Sát Thương.",
+    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\n- Cooldown chiêu của Resonance Liberation giảm {0} giây. Nhận <SapTag=1>{1}</SapTag> {Cus:Sap,S=điểm P=điểm SapTag=1} Resonance Energy mỗi giây.\n- Sử dụng Resonance Liberation sẽ tạo ra Trường Cộng Hưởng Cao. Kẻ địch trong trường này sẽ bị ảnh hưởng bởi hiệu ứng Sóng Xung Kích, chịu Sát Thương Fusion tương đương {2} Phòng Ngự của Mornye mỗi giây, được tính là Sát Thương Resonance Liberation. Khi tấn công kẻ địch chịu hiệu ứng Sóng Xung Kích, Mornye gây thêm {3} tổng Sát Thương.",
     "translator_note": ""
   },
   {
@@ -4071,7 +4071,7 @@
     "ai_reason": "",
     "source_en": "<color=#c49e55>[Resonance Liberation]</color>\nObtaining Resonance Rate reduces Resonance Liberation Cooldown and grants Fusion DMG Bonus and Resonance Liberation DMG Bonus.",
     "review_note": "",
-    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\nNhận được Tần Số Cộng Hưởng sẽ giảm Thời gian hồi chiêu Resonance Liberation và tăng thưởng Sát Thương Fusion cùng Sát Thương Resonance Liberation.",
+    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\nNhận được Tần Số Cộng Hưởng sẽ giảm Cooldown chiêu Resonance Liberation và tăng thưởng Sát Thương Fusion cùng Sát Thương Resonance Liberation.",
     "translator_note": ""
   },
   {
@@ -4196,7 +4196,7 @@
     "ai_reason": "",
     "source_en": "<color=#c49e55>[Resonance Liberation]</color>\nEach time Resonance Rate is obtained, the Cooldown of Resonance Liberation - Heavenfall Edict: Overdrive is reduced by {0}s. Additionally, obtain Good Wish, which grants {1} Fusion DMG Bonus and {2} Resonance Liberation DMG Bonus, stacking up to {3} times. Casting Heavenfall Edict: Finale removes this effect.",
     "review_note": "",
-    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\nMỗi lần nhận được Tần Số Cộng Hưởng, Thời gian hồi chiêu của Resonance Liberation - Thiên Lệnh Phán Quyết: Overdrive is reduced by {0}s. Additionally, obtain Good Wish, which grants {1} Fusion DMG Bonus and {2} Resonance Liberation DMG Bonus, stacking up to {3} times. Casting Heavenfall Edict: Finale removes this effect.",
+    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\nMỗi lần nhận được Tần Số Cộng Hưởng, Cooldown chiêu của Resonance Liberation - Thiên Lệnh Phán Quyết: Overdrive is reduced by {0}s. Additionally, obtain Good Wish, which grants {1} Fusion DMG Bonus and {2} Resonance Liberation DMG Bonus, stacking up to {3} times. Casting Heavenfall Edict: Finale removes this effect.",
     "translator_note": ""
   },
   {

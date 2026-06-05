@@ -1871,7 +1871,7 @@
     "ai_reason": "",
     "source_en": "<color=Highlight>Activated upon having 3 Bond Members in the team</color>\n- Additionally restore {0} of Max HP upon activating Synergy Burst. When in Synergy Burst, gain another {1} Healing Bonus and restore another {3} of Max HP every {2}s for the active Resonator.\n- When in Synergy Burst, Resonance Skill Cooldown is reduced by {4}.",
     "review_note": "",
-    "new_translation_vi": "<color=Highlight>Kích hoạt khi đội có 3 Thành Viên Liên Kết</color>\n- Khi kích hoạt Synergy Burst, hồi phục thêm {0} HP tối đa. Khi trong Synergy Burst, nhận thêm {1} Hiệu Quả Chữa Trị và hồi phục thêm {3} HP tối đa mỗi {2} giây cho Resonator đang hoạt động.\n- Khi trong Synergy Burst, Thời gian hồi chiêu của Resonance Skill giảm {4}.",
+    "new_translation_vi": "<color=Highlight>Kích hoạt khi đội có 3 Thành Viên Liên Kết</color>\n- Khi kích hoạt Synergy Burst, hồi phục thêm {0} HP tối đa. Khi trong Synergy Burst, nhận thêm {1} Hiệu Quả Chữa Trị và hồi phục thêm {3} HP tối đa mỗi {2} giây cho Resonator đang hoạt động.\n- Khi trong Synergy Burst, Cooldown chiêu của Resonance Skill giảm {4}.",
     "translator_note": ""
   },
   {
@@ -2096,7 +2096,7 @@
     "ai_reason": "",
     "source_en": "<color=Highlight>Activated upon having 3 Bond Members in the team</color>\nWhen in Synergy Burst:\nCasting Resonance Skill, Resonance Liberation, Dodge Counter and successful Dodge grant another <SapTag=0>{0}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=0} of Rebel's Flag, triggered once every {1}s.\nWhen Fool's Cannon deals damage, summon Fool's Wave that launches {2} attacks, each dealing Physical DMG equal to {3} of ATK. Resonance Skill Cooldown is reduced by {4}. Restore {5} Resonance Energy.",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt khi đội hình có 3 thành viên Liên Kết\nKhi ở trạng thái Đồng Bộ Bùng Nổ:\nKích hoạt Resonance Skill, Giải Cứu Cộng Hưởng, Dodge Counter hoặc né thành công sẽ nhận thêm <SapTag=0>{0}</SapTag> lớp Cờ Nổi Loạn, kích hoạt mỗi {1} giây một lần.\nKhi Pháo Dại gây DMG, triệu hồi Sóng Dại phóng {2} đòn tấn công, mỗi đòn gây DMG Vật Lý bằng {3} ATK. Thời gian hồi chiêu Resonance Skill giảm {4}. Phục hồi {5} Resonance Energy.",
+    "new_translation_vi": "Kích hoạt khi đội hình có 3 thành viên Liên Kết\nKhi ở trạng thái Đồng Bộ Bùng Nổ:\nKích hoạt Resonance Skill, Giải Cứu Cộng Hưởng, Dodge Counter hoặc né thành công sẽ nhận thêm <SapTag=0>{0}</SapTag> lớp Cờ Nổi Loạn, kích hoạt mỗi {1} giây một lần.\nKhi Pháo Dại gây DMG, triệu hồi Sóng Dại phóng {2} đòn tấn công, mỗi đòn gây DMG Vật Lý bằng {3} ATK. Cooldown chiêu Resonance Skill giảm {4}. Phục hồi {5} Resonance Energy.",
     "translator_note": ""
   },
   {
@@ -4496,7 +4496,7 @@
     "ai_reason": "",
     "source_en": "About Map Exploration\n \n[Events]\nThere are various types of events on the map, each with the following effects:\nStory Event: A mandatory event required to progress, including the main story and final challenge.\nBattle Event: Engage in battle and earn Dream Fragments based on the battle's difficulty.\nRandom Event: Trigger different outcomes.\nRecruitment Event: Spend Dream Fragments to recruit Resonators.\nRespite Event: Restore Film Rolls.\n \n[Film Roll]\nFilm Rolls are consumed by Battle Events, Random Events, and Story Events.\nIf you are defeated in a battle, use Film Rolls to restore your Resonators to their pre-battle state.\n \n[Bond]\nBonds can be formed between certain Resonators, and a Resonator can hold multiple Bonds.\nBonds provide combat buffs that apply to all Resonators unless specified otherwise.\nBond Level is based on the Star Ratings of all Resonators sharing the same Bond.\nIncrease the Bond Level to unlock its unique Synergy Burst.\n\n[Synergy Burst]\nWhen three Resonators with the same Bond are in the team, their Synergy Burst is triggered, providing the following effects:\n1. Targets are immediately immobilized.\n2. Resonance Skill and Resonance Liberation Cooldown are reset. Resonance Energy is recovered and 100 Concerto Energy is restored.",
     "review_note": "",
-    "new_translation_vi": "Về Khám Phá Bản Đồ\n \n[Sự Kiện]\nTrên bản đồ có nhiều loại sự kiện khác nhau, mỗi loại mang lại hiệu ứng như sau:\nSự Kiện Cốt Truyện: Sự kiện bắt buộc để tiến triển, bao gồm cốt truyện chính và thử thách cuối.\nSự Kiện Chiến Đấu: Tham gia chiến đấu và nhận Mảnh Giấc Mơ dựa trên độ khó của trận đánh.\nSự Kiện Ngẫu Nhiên: Kích hoạt các kết quả khác nhau.\nSự Kiện Tuyển Mộ: Dùng Mảnh Giấc Mơ để tuyển Resonator.\nSự Kiện Nghỉ Ngơi: Khôi phục Phim Cuộn.\n \n[Phim Cuộn]\nPhim Cuộn bị tiêu hao trong Sự Kiện Chiến Đấu, Sự Kiện Ngẫu Nhiên và Sự Kiện Cốt Truyện.\nNếu bị đánh bại trong trận chiến, dùng Phim Cuộn để đưa Resonator về trạng thái trước khi giao tranh.\n \n[Mối Liên Kết]\nMột số Resonator có thể hình thành Mối Liên Kết, và một Resonator có thể có nhiều Mối Liên Kết.\nMối Liên Kết mang lại hiệu ứng tăng cường chiến đấu áp dụng cho tất cả Resonator trừ khi có quy định khác.\nCấp Độ Mối Liên Kết dựa trên Xếp Hạng Sao của tất cả Resonator cùng chia sẻ Mối Liên Kết đó.\nTăng Cấp Độ Mối Liên Kết để mở khóa Kỹ Năng Đồng Điệu Đặc Biệt.\n\n[Kỹ Năng Đồng Điệu]\nKhi có ba Resonator cùng Mối Liên Kết trong đội, Kỹ Năng Đồng Điệu của họ sẽ được kích hoạt, mang lại các hiệu ứng sau:\n1. Mục tiêu bị bất động ngay lập tức.\n2. Thời gian hồi chiêu của Resonance Skill và Resonance Liberation được đặt lại. Resonance Energy được phục hồi và 100 Concerto Energy được khôi phục.",
+    "new_translation_vi": "Về Khám Phá Bản Đồ\n \n[Sự Kiện]\nTrên bản đồ có nhiều loại sự kiện khác nhau, mỗi loại mang lại hiệu ứng như sau:\nSự Kiện Cốt Truyện: Sự kiện bắt buộc để tiến triển, bao gồm cốt truyện chính và thử thách cuối.\nSự Kiện Chiến Đấu: Tham gia chiến đấu và nhận Mảnh Giấc Mơ dựa trên độ khó của trận đánh.\nSự Kiện Ngẫu Nhiên: Kích hoạt các kết quả khác nhau.\nSự Kiện Tuyển Mộ: Dùng Mảnh Giấc Mơ để tuyển Resonator.\nSự Kiện Nghỉ Ngơi: Khôi phục Phim Cuộn.\n \n[Phim Cuộn]\nPhim Cuộn bị tiêu hao trong Sự Kiện Chiến Đấu, Sự Kiện Ngẫu Nhiên và Sự Kiện Cốt Truyện.\nNếu bị đánh bại trong trận chiến, dùng Phim Cuộn để đưa Resonator về trạng thái trước khi giao tranh.\n \n[Mối Liên Kết]\nMột số Resonator có thể hình thành Mối Liên Kết, và một Resonator có thể có nhiều Mối Liên Kết.\nMối Liên Kết mang lại hiệu ứng tăng cường chiến đấu áp dụng cho tất cả Resonator trừ khi có quy định khác.\nCấp Độ Mối Liên Kết dựa trên Xếp Hạng Sao của tất cả Resonator cùng chia sẻ Mối Liên Kết đó.\nTăng Cấp Độ Mối Liên Kết để mở khóa Kỹ Năng Đồng Điệu Đặc Biệt.\n\n[Kỹ Năng Đồng Điệu]\nKhi có ba Resonator cùng Mối Liên Kết trong đội, Kỹ Năng Đồng Điệu của họ sẽ được kích hoạt, mang lại các hiệu ứng sau:\n1. Mục tiêu bị bất động ngay lập tức.\n2. Cooldown chiêu của Resonance Skill và Resonance Liberation được đặt lại. Resonance Energy được phục hồi và 100 Concerto Energy được khôi phục.",
     "translator_note": ""
   },
   {
@@ -5621,7 +5621,7 @@
     "ai_reason": "",
     "source_en": "When Coordinated Attack deals damage, Resonance Skill Cooldown of all Resonators in the team is reduced by {0}s. This effect can be triggered once every {1}s.",
     "review_note": "",
-    "new_translation_vi": "Khi Đòn Phối Hợp gây sát thương, Thời gian hồi chiêu Resonance Skill của tất cả Resonator trong đội sẽ giảm {0} giây. Hiệu ứng này chỉ có thể kích hoạt mỗi {1} giây một lần.",
+    "new_translation_vi": "Khi Đòn Phối Hợp gây sát thương, Cooldown chiêu Resonance Skill của tất cả Resonator trong đội sẽ giảm {0} giây. Hiệu ứng này chỉ có thể kích hoạt mỗi {1} giây một lần.",
     "translator_note": ""
   },
   {
@@ -5646,7 +5646,7 @@
     "ai_reason": "",
     "source_en": "When Coordinated Attack deals damage, Resonance Liberation Cooldown of all Resonators in the team is reduced by {0}s. This effect can be triggered once every {1}s.",
     "review_note": "",
-    "new_translation_vi": "Khi Đòn Phối Hợp gây sát thương, Thời gian hồi chiêu Resonance Liberation của tất cả Resonator trong đội sẽ giảm {0} giây. Hiệu ứng này chỉ có thể kích hoạt mỗi {1} giây một lần.",
+    "new_translation_vi": "Khi Đòn Phối Hợp gây sát thương, Cooldown chiêu Resonance Liberation của tất cả Resonator trong đội sẽ giảm {0} giây. Hiệu ứng này chỉ có thể kích hoạt mỗi {1} giây một lần.",
     "translator_note": ""
   },
   {
@@ -6021,7 +6021,7 @@
     "ai_reason": "",
     "source_en": "Each triggering of Reimbursement reduces the Cooldown of Resonance Skill and Resonance Liberation by {0}. This effect can be triggered once every {1}s.",
     "review_note": "",
-    "new_translation_vi": "Mỗi lần kích hoạt Hoàn Trả sẽ giảm Thời gian hồi Chiêu của Resonance Skill và Resonance Liberation đi {0}. Hiệu ứng này chỉ có thể kích hoạt mỗi {1} giây một lần.",
+    "new_translation_vi": "Mỗi lần kích hoạt Hoàn Trả sẽ giảm Cooldown Chiêu của Resonance Skill và Resonance Liberation đi {0}. Hiệu ứng này chỉ có thể kích hoạt mỗi {1} giây một lần.",
     "translator_note": ""
   },
   {
@@ -8071,7 +8071,7 @@
     "ai_reason": "",
     "source_en": "Impulse Tide Cooldown is reduced.",
     "review_note": "",
-    "new_translation_vi": "Thời gian hồi chiêu của Sóng Xung Kích đã giảm.",
+    "new_translation_vi": "Cooldown chiêu của Sóng Xung Kích đã giảm.",
     "translator_note": ""
   },
   {
@@ -8221,7 +8221,7 @@
     "ai_reason": "",
     "source_en": "<color=Highlight>Echo Skill</color> Cooldown is reduced by 85%.",
     "review_note": "",
-    "new_translation_vi": "Thời gian hồi chiêu của <color=Highlight>Kỹ Năng Echo</color> giảm 85%.",
+    "new_translation_vi": "Cooldown chiêu của <color=Highlight>Kỹ Năng Echo</color> giảm 85%.",
     "translator_note": ""
   },
   {
@@ -8796,7 +8796,7 @@
     "ai_reason": "",
     "source_en": "Casting Tune Break Skill reduces Resonance Liberation Cooldown and grants a large amount of Resonance Energy.",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Kỹ Năng Phá Điệu giảm Thời gian hồi chiêu Resonance Liberation và cung cấp một lượng lớn Resonance Energy.",
+    "new_translation_vi": "Kích hoạt Kỹ Năng Phá Điệu giảm Cooldown chiêu Resonance Liberation và cung cấp một lượng lớn Resonance Energy.",
     "translator_note": ""
   },
   {
@@ -9096,7 +9096,7 @@
     "ai_reason": "",
     "source_en": "Casting Tune Break Skill reduces Resonance Liberation Cooldown by <color=Highlight>50%</color>, and grants <color=Highlight>50%</color> Resonance Energy. This effect can be triggered <color=Highlight>once</color> every <color=Highlight>20s</color>.",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Kỹ Năng Phá Điệu giảm Thời gian hồi chiêu Resonance Liberation xuống <color=Highlight>50%</color> và cung cấp <color=Highlight>50%</color> Resonance Energy. Hiệu ứng này chỉ kích hoạt <color=Highlight>mỗi</color> <color=Highlight>20 giây</color> một lần.",
+    "new_translation_vi": "Kích hoạt Kỹ Năng Phá Điệu giảm Cooldown chiêu Resonance Liberation xuống <color=Highlight>50%</color> và cung cấp <color=Highlight>50%</color> Resonance Energy. Hiệu ứng này chỉ kích hoạt <color=Highlight>mỗi</color> <color=Highlight>20 giây</color> một lần.",
     "translator_note": ""
   },
   {
@@ -9271,7 +9271,7 @@
     "ai_reason": "",
     "source_en": "Resonance Skill Cooldown is reduced by <color=Highlight>50%</color>.",
     "review_note": "",
-    "new_translation_vi": "Thời gian hồi kỹ năng Cộng hưởng giảm <color=Highlight>50%</color>.",
+    "new_translation_vi": "Cooldown kỹ năng Cộng hưởng giảm <color=Highlight>50%</color>.",
     "translator_note": ""
   },
   {
@@ -11046,7 +11046,7 @@
     "ai_reason": "",
     "source_en": "Resonance Skill Cooldown is reduced by <color=Highlight>50%</color>.",
     "review_note": "",
-    "new_translation_vi": "Thời gian hồi kỹ năng Cộng hưởng giảm <color=Highlight>50%</color>.",
+    "new_translation_vi": "Cooldown kỹ năng Cộng hưởng giảm <color=Highlight>50%</color>.",
     "translator_note": ""
   },
   {

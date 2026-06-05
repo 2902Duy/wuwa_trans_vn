@@ -496,7 +496,7 @@
     "ai_reason": "",
     "source_en": "Cooldown of Resonance Skill reduced when attacks hit targets with \"Burn.\"",
     "review_note": "",
-    "new_translation_vi": "Thời gian hồi chiêu Kỹ năng Cộng hưởng giảm khi tấn công mục tiêu bị \"Bỏng\".",
+    "new_translation_vi": "Cooldown chiêu Kỹ năng Cộng hưởng giảm khi tấn công mục tiêu bị \"Bỏng\".",
     "translator_note": ""
   },
   {
@@ -796,7 +796,7 @@
     "ai_reason": "",
     "source_en": "[Bell-Borne Geochelone] [Cooldown]  Attacking frozen enemies reduces the cooldown of the Echo Skill by 50% (this effect has 15-second cooldown).",
     "review_note": "",
-    "new_translation_vi": "[\nRùa Địa Chất Mang Chuông] [Hồi Chiêu] Tấn công kẻ địch bị đóng băng sẽ giảm 50% Thời gian hồi chiêu của Kỹ Năng Vọng Âm (hiệu ứng này có Thời gian hồi 15 giây).",
+    "new_translation_vi": "[\nRùa Địa Chất Mang Chuông] [Hồi Chiêu] Tấn công kẻ địch bị đóng băng sẽ giảm 50% Cooldown chiêu của Kỹ Năng Vọng Âm (hiệu ứng này có Cooldown 15 giây).",
     "translator_note": ""
   },
   {
@@ -921,7 +921,7 @@
     "ai_reason": "",
     "source_en": "<color=#c49e55>[Forte Circuit]</color> Mid-Air Attacks deal a large amount of additional DMG to enemies with Punishment Mark, and the Cooldown of this additional DMG is reset when enhanced Heavy Attack is cast.",
     "review_note": "",
-    "new_translation_vi": "<color=#c49e55>[Forte Circuit]</color> Đòn tấn công giữa không khí gây thêm lượng lớn Sát Thương lên kẻ địch mang Dấu Trừng Phạt, và Thời gian hồi chiêu của lượng Sát Thương thêm này sẽ được đặt lại khi thi triển Đòn Heavy Attack được tăng cường.",
+    "new_translation_vi": "<color=#c49e55>[Forte Circuit]</color> Đòn tấn công giữa không khí gây thêm lượng lớn Sát Thương lên kẻ địch mang Dấu Trừng Phạt, và Cooldown chiêu của lượng Sát Thương thêm này sẽ được đặt lại khi thi triển Đòn Heavy Attack được tăng cường.",
     "translator_note": ""
   },
   {
@@ -1171,7 +1171,7 @@
     "ai_reason": "",
     "source_en": "Resonance Skill Cooldown reduced by 30%.",
     "review_note": "",
-    "new_translation_vi": "Thời gian hồi kỹ năng Cộng hưởng giảm 30%.",
+    "new_translation_vi": "Cooldown kỹ năng Cộng hưởng giảm 30%.",
     "translator_note": ""
   },
   {
@@ -1471,7 +1471,7 @@
     "ai_reason": "",
     "source_en": "Resonance Skill Cooldown reduced by 30%.",
     "review_note": "",
-    "new_translation_vi": "Thời gian hồi kỹ năng Cộng hưởng giảm 30%.",
+    "new_translation_vi": "Cooldown kỹ năng Cộng hưởng giảm 30%.",
     "translator_note": ""
   },
   {
@@ -1671,7 +1671,7 @@
     "ai_reason": "",
     "source_en": "A successful Dodge reduces the Cooldown of Resonance Skill and Resonance Liberation by 2s.",
     "review_note": "",
-    "new_translation_vi": "Né thành công sẽ giảm 2 giây Thời gian hồi chiêu của Resonance Skill và Resonance Liberation.",
+    "new_translation_vi": "Né thành công sẽ giảm 2 giây Cooldown chiêu của Resonance Skill và Resonance Liberation.",
     "translator_note": ""
   },
   {
@@ -1796,7 +1796,7 @@
     "ai_reason": "",
     "source_en": "Reduce Resonance Skill Cooldown by 30%.",
     "review_note": "",
-    "new_translation_vi": "Giảm 30% Thời gian hồi chiêu Resonance Skill.",
+    "new_translation_vi": "Giảm 30% Cooldown chiêu Resonance Skill.",
     "translator_note": ""
   },
   {
@@ -2896,7 +2896,7 @@
     "ai_reason": "",
     "source_en": "<color=#ffd12f>[Damage Increase]</color> ATK is increased by 50% after using Grapple. Cooldown of Grapple is reduced by 5s.",
     "review_note": "",
-    "new_translation_vi": "<color=#ffd12f>[Tăng Sát Thương]</color> ATK tăng 50% sau khi sử dụng Grapple. Thời gian hồi chiêu của Grapple giảm 5 giây.",
+    "new_translation_vi": "<color=#ffd12f>[Tăng Sát Thương]</color> ATK tăng 50% sau khi sử dụng Grapple. Cooldown chiêu của Grapple giảm 5 giây.",
     "translator_note": ""
   },
   {
@@ -2946,7 +2946,7 @@
     "ai_reason": "",
     "source_en": "<color=#ffd12f>[Shield]</color> Gain shield after using Grapple. Grapple Cooldown is reduced.",
     "review_note": "",
-    "new_translation_vi": "<color=#ffd12f>[Khiên]</color> Nhận khiên sau khi sử dụng Móc Câu. Thời gian hồi chiêu của Móc Câu giảm đi.",
+    "new_translation_vi": "<color=#ffd12f>[Khiên]</color> Nhận khiên sau khi sử dụng Móc Câu. Cooldown chiêu của Móc Câu giảm đi.",
     "translator_note": ""
   },
   {
@@ -2971,7 +2971,7 @@
     "ai_reason": "",
     "source_en": "<color=#ffd12f>[Shield]</color> Gain a shield equal to 5% of max HP after using Grapple. Cooldown of Grapple is reduced by 5s.",
     "review_note": "",
-    "new_translation_vi": "<color=#ffd12f>[Khiên]</color> Nhận khiên tương đương 5% HP tối đa sau khi sử dụng Móc Câu. Thời gian hồi chiêu của Móc Câu giảm 5 giây.",
+    "new_translation_vi": "<color=#ffd12f>[Khiên]</color> Nhận khiên tương đương 5% HP tối đa sau khi sử dụng Móc Câu. Cooldown chiêu của Móc Câu giảm 5 giây.",
     "translator_note": ""
   },
   {
@@ -3796,7 +3796,7 @@
     "ai_reason": "",
     "source_en": "<color=#c49e55>[Basic Attack]</color> Crit. Rate is increased by {0} and Crit. DMG by {1}. Basic Attack receives the following enhancements:\n- After Basic Attack Stage 3, using Basic Attack or Dodge Counter at the right time casts Chi Counter.\n- Each time Basic Attack hits a target, the Cooldown of Resonance Skill is reduced by {2}s.",
     "review_note": "",
-    "new_translation_vi": "<color=#c49e55>[Basic Attack]</color> Crit. Rate tăng {0} và Crit. DMG tăng {1}. Basic Attack nhận các tăng cường sau:\n- Sau Giai Đoạn 3 của Basic Attack, nếu dùng Basic Attack hoặc Né Tránh Phản Đòn đúng lúc sẽ kích hoạt Phản Đòn Chí.\n- Mỗi lần Basic Attack trúng mục tiêu, Thời gian hồi chiêu của Resonance Skill giảm {2} giây.",
+    "new_translation_vi": "<color=#c49e55>[Basic Attack]</color> Crit. Rate tăng {0} và Crit. DMG tăng {1}. Basic Attack nhận các tăng cường sau:\n- Sau Giai Đoạn 3 của Basic Attack, nếu dùng Basic Attack hoặc Né Tránh Phản Đòn đúng lúc sẽ kích hoạt Phản Đòn Chí.\n- Mỗi lần Basic Attack trúng mục tiêu, Cooldown chiêu của Resonance Skill giảm {2} giây.",
     "translator_note": ""
   },
   {
@@ -3871,7 +3871,7 @@
     "ai_reason": "",
     "source_en": "<color=#c49e55>[Resonance Liberation]</color> Casting Resonance Liberation grants Prime Chi that lasts {0}s:\n- While dealing damage, the target's Aero DMG RES is ignored by {1}.\n- The Cooldown of Resonance Skill is reduced by {2}. Casting Resonance Skill is regarded as triggering Perfect Counter.",
     "review_note": "",
-    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color> Kích hoạt Resonance Liberation ban cho Nguyên Khí kéo dài {0} giây:\n- Khi gây DMG, Kháng Sát Thương Aero của mục tiêu bị bỏ qua {1}.\n- Thời gian hồi chiêu của Resonance Skill giảm {2}. Kích hoạt Resonance Skill được coi là kích hoạt Phản Đòn Hoàn Hảo.",
+    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color> Kích hoạt Resonance Liberation ban cho Nguyên Khí kéo dài {0} giây:\n- Khi gây DMG, Kháng Sát Thương Aero của mục tiêu bị bỏ qua {1}.\n- Cooldown chiêu của Resonance Skill giảm {2}. Kích hoạt Resonance Skill được coi là kích hoạt Phản Đòn Hoàn Hảo.",
     "translator_note": ""
   },
   {
@@ -5546,7 +5546,7 @@
     "ai_reason": "",
     "source_en": "A successful Dodge reduces the Cooldown of Resonance Skill and Resonance Liberation by 2s.",
     "review_note": "",
-    "new_translation_vi": "Né thành công sẽ giảm 2 giây Thời gian hồi chiêu của Resonance Skill và Resonance Liberation.",
+    "new_translation_vi": "Né thành công sẽ giảm 2 giây Cooldown chiêu của Resonance Skill và Resonance Liberation.",
     "translator_note": ""
   },
   {
@@ -6346,7 +6346,7 @@
     "ai_reason": "",
     "source_en": "Transform into Hoartoise for 4s, dealing 1125.00% Glacio DMG every second and juggling nearby enemies. Cooldown: 12s.",
     "review_note": "",
-    "new_translation_vi": "Biến hình thành Hoartoise trong 4 giây, mỗi giây gây 1125.00% Sát Thương Glacio và tung hứng kẻ địch xung quanh. Thời gian hồi: 12 giây.",
+    "new_translation_vi": "Biến hình thành Hoartoise trong 4 giây, mỗi giây gây 1125.00% Sát Thương Glacio và tung hứng kẻ địch xung quanh. Cooldown: 12 giây.",
     "translator_note": ""
   },
   {
@@ -6396,7 +6396,7 @@
     "ai_reason": "",
     "source_en": "When Resonators equipped with Hoartoise exit with Outro Skill, the Echo skill's Cooldown is reset.",
     "review_note": "",
-    "new_translation_vi": "Khi Resonator trang bị Hoartoise kết thúc bằng Kỹ Năng Outro, Thời gian hồi chiêu của Kỹ Năng Echo sẽ được đặt lại.",
+    "new_translation_vi": "Khi Resonator trang bị Hoartoise kết thúc bằng Kỹ Năng Outro, Cooldown chiêu của Kỹ Năng Echo sẽ được đặt lại.",
     "translator_note": ""
   },
   {
@@ -6421,7 +6421,7 @@
     "ai_reason": "",
     "source_en": "Summon a Glacio Prism for 6s to attack enemies. Each attack deals 538.00% Glacio DMG, which will be increased by another 66.67% if the target is Frozen. Cooldown: 10.8s.",
     "review_note": "",
-    "new_translation_vi": "Triệu hồi Lăng Kính Glacio trong 6 giây để tấn công kẻ địch. Mỗi đòn gây 538,00% Sát Thương Glacio, tăng thêm 66,67% nếu mục tiêu bị Đóng Băng. Thời gian hồi: 10,8 giây.",
+    "new_translation_vi": "Triệu hồi Lăng Kính Glacio trong 6 giây để tấn công kẻ địch. Mỗi đòn gây 538,00% Sát Thương Glacio, tăng thêm 66,67% nếu mục tiêu bị Đóng Băng. Cooldown: 10,8 giây.",
     "translator_note": ""
   },
   {
@@ -6496,7 +6496,7 @@
     "ai_reason": "",
     "source_en": "Transform into Autopuppet Scout to freeze nearby enemies for 3s, dealing 1135.00% Glacio DMG. Cooldown: 7.2s.",
     "review_note": "",
-    "new_translation_vi": "Biến hình thành Autopuppet Scout để đóng băng kẻ địch xung quanh trong 3 giây, gây 1135.00% Sát Thương Glacio. Thời gian hồi chiêu: 7.2 giây.",
+    "new_translation_vi": "Biến hình thành Autopuppet Scout để đóng băng kẻ địch xung quanh trong 3 giây, gây 1135.00% Sát Thương Glacio. Cooldown chiêu: 7.2 giây.",
     "translator_note": ""
   },
   {
@@ -6571,7 +6571,7 @@
     "ai_reason": "",
     "source_en": "Summon a Tick Tack that explodes after a short while, dealing 2220.36% Havoc DMG. Cooldown: 6s.",
     "review_note": "",
-    "new_translation_vi": "Triệu hồi Tick Tack phát nổ sau một lúc, gây 2220.36% Sát Thương Hỗn Loạn.\nThời gian hồi: 6 giây.",
+    "new_translation_vi": "Triệu hồi Tick Tack phát nổ sau một lúc, gây 2220.36% Sát Thương Hỗn Loạn.\nCooldown: 6 giây.",
     "translator_note": ""
   },
   {
@@ -6646,7 +6646,7 @@
     "ai_reason": "",
     "source_en": "Transform into Rocksteady Guardian, dealing 2526.00% Spectro DMG and juggling enemies. If Rocksteady Guardian hits the Glacio Prism, nearby enemies are immediately Frozen for 3s. Cooldown: 12s.",
     "review_note": "",
-    "new_translation_vi": "Biến hình thành Rocksteady Guardian, gây 2526.00% Sát Thương Spectro và tung kẻ địch lên không. Nếu Rocksteady Guardian trúng Glacio Prism, kẻ địch xung quanh sẽ bị Đông Cứng ngay lập tức trong 3 giây. Thời gian hồi: 12 giây.",
+    "new_translation_vi": "Biến hình thành Rocksteady Guardian, gây 2526.00% Sát Thương Spectro và tung kẻ địch lên không. Nếu Rocksteady Guardian trúng Glacio Prism, kẻ địch xung quanh sẽ bị Đông Cứng ngay lập tức trong 3 giây. Cooldown: 12 giây.",
     "translator_note": ""
   },
   {
@@ -6671,7 +6671,7 @@
     "ai_reason": "",
     "source_en": "Gain an additional charge. Each time this Resonator or a party member casts an Echo Skill, reduce Rocksteady Guardian's Cooldown by 33.33%.",
     "review_note": "",
-    "new_translation_vi": "Nhận thêm một lượt sử dụng. Mỗi khi Resonator này hoặc đồng đội sử dụng Kỹ Năng Echo, giảm 33.33% Thời gian hồi chiêu của Rocksteady Guardian.",
+    "new_translation_vi": "Nhận thêm một lượt sử dụng. Mỗi khi Resonator này hoặc đồng đội sử dụng Kỹ Năng Echo, giảm 33.33% Cooldown chiêu của Rocksteady Guardian.",
     "translator_note": ""
   },
   {
@@ -6721,7 +6721,7 @@
     "ai_reason": "",
     "source_en": "Summon a Whiff Whaff to pull in nearby enemies for 5s, dealing 149.75% Aero DMG for 12 times. Cooldown: 9.6s.",
     "review_note": "",
-    "new_translation_vi": "Triệu hồi Whiff Whaff hút kẻ địch xung quanh vào trung tâm trong 5 giây, gây 149.75% Sát Thương Aero 12 lần. Thời gian hồi: 9.6 giây.",
+    "new_translation_vi": "Triệu hồi Whiff Whaff hút kẻ địch xung quanh vào trung tâm trong 5 giây, gây 149.75% Sát Thương Aero 12 lần. Cooldown: 9.6 giây.",
     "translator_note": ""
   },
   {
@@ -6771,7 +6771,7 @@
     "ai_reason": "",
     "source_en": "Summon a Tambourinist for 7s that continuously releases musical notes. Friendly units restore 10 Concerto Energy and increase Movement Speed by 30% for 5s upon picking up a note.\nCooldown: 12s.",
     "review_note": "",
-    "new_translation_vi": "Triệu hồi Nhạc Công Trống trong 7 giây, liên tục phát ra những nốt nhạc. Đồng đội nhặt nốt nhạc sẽ hồi 10 Năng Lượng Giao Hưởng và tăng Tốc Độ Di Chuyển 30% trong 5 giây.\nThời gian hồi: 12 giây.",
+    "new_translation_vi": "Triệu hồi Nhạc Công Trống trong 7 giây, liên tục phát ra những nốt nhạc. Đồng đội nhặt nốt nhạc sẽ hồi 10 Năng Lượng Giao Hưởng và tăng Tốc Độ Di Chuyển 30% trong 5 giây.\nCooldown: 12 giây.",
     "translator_note": ""
   },
   {
@@ -6846,7 +6846,7 @@
     "ai_reason": "",
     "source_en": "Transform into Feilian Beringal to smash the ground, dealing 1140.00% Aero DMG and leaving a pillar behind for 9s. The pillar releases a shockwave dealing 432.00% Aero DMG every 3s. Cooldown: 14s.",
     "review_note": "",
-    "new_translation_vi": "Biến hình thành Feilian Beringal và đập mạnh xuống đất, gây 1140.00% Sát Thương Aero và để lại một cột trụ trong 9 giây. Cột trụ giải phóng sóng xung kích mỗi 3 giây, gây 432.00% Sát Thương Aero. Thời gian hồi: 14 giây.",
+    "new_translation_vi": "Biến hình thành Feilian Beringal và đập mạnh xuống đất, gây 1140.00% Sát Thương Aero và để lại một cột trụ trong 9 giây. Cột trụ giải phóng sóng xung kích mỗi 3 giây, gây 432.00% Sát Thương Aero. Cooldown: 14 giây.",
     "translator_note": ""
   },
   {
@@ -6896,7 +6896,7 @@
     "ai_reason": "",
     "source_en": "Transform into Impermanence Heron, firing flames downward to deal 1470.60% Havoc DMG and create a blazing area that lasts for 5s. Enemies within the area take 655.20% Havoc DMG per second and have their Movement Speed reduced by 40%. Cooldown: 10.8s.",
     "review_note": "",
-    "new_translation_vi": "Biến hình thành Impermanence Heron, phun lửa xuống dưới gây 1470.60% Sát Thương Hệ Havoc và tạo ra một vùng lửa cháy trong 5 giây. Kẻ địch trong vùng chịu 655.20% Sát Thương Hệ Havoc mỗi giây và bị giảm 40% Tốc Độ Di Chuyển. Thời gian hồi: 10.8 giây.",
+    "new_translation_vi": "Biến hình thành Impermanence Heron, phun lửa xuống dưới gây 1470.60% Sát Thương Hệ Havoc và tạo ra một vùng lửa cháy trong 5 giây. Kẻ địch trong vùng chịu 655.20% Sát Thương Hệ Havoc mỗi giây và bị giảm 40% Tốc Độ Di Chuyển. Cooldown: 10.8 giây.",
     "translator_note": ""
   },
   {
@@ -6971,7 +6971,7 @@
     "ai_reason": "",
     "source_en": "Slightly reduce the Cooldown of Echo skills... (by 10%)",
     "review_note": "",
-    "new_translation_vi": "Giảm nhẹ Thời gian hồi của kỹ năng Echo... (10%)",
+    "new_translation_vi": "Giảm nhẹ Thời gian Cooldown của kỹ năng Echo... (10%)",
     "translator_note": ""
   },
   {
@@ -6996,7 +6996,7 @@
     "ai_reason": "",
     "source_en": "Significantly reduce the Cooldown of Echo skills! (still by 10%)",
     "review_note": "",
-    "new_translation_vi": "Giảm đáng kể Thời gian hồi chiêu của kỹ năng Echo! (vẫn là 10%)",
+    "new_translation_vi": "Giảm đáng kể Cooldown chiêu của kỹ năng Echo! (vẫn là 10%)",
     "translator_note": ""
   },
   {
@@ -9946,7 +9946,7 @@
     "ai_reason": "",
     "source_en": "Transform into Rocksteady Guardian to deal {0} Spectro DMG and grant nearby party members a <color=#ffd12f>Shield</color> based on {1} of the caster's Max HP. It also boosts the caster's resistance to interruption. Lasts for {2}s. Cooldown: {3}s.",
     "review_note": "",
-    "new_translation_vi": "Biến hình thành Rocksteady Guardian để gây {0} Sát Thương Spectro và ban cho các thành viên trong đội gần đó một lớp <color=#ffd12f>Khiên</color> dựa trên {1} HP Tối Đa của người sử dụng. Đồng thời tăng khả năng chống gián đoạn cho người sử dụng. Hiệu ứng kéo dài {2} giây. Thời gian hồi: {3} giây.",
+    "new_translation_vi": "Biến hình thành Rocksteady Guardian để gây {0} Sát Thương Spectro và ban cho các thành viên trong đội gần đó một lớp <color=#ffd12f>Khiên</color> dựa trên {1} HP Tối Đa của người sử dụng. Đồng thời tăng khả năng chống gián đoạn cho người sử dụng. Hiệu ứng kéo dài {2} giây. Cooldown: {3} giây.",
     "translator_note": ""
   },
   {
@@ -9971,7 +9971,7 @@
     "ai_reason": "",
     "source_en": "Summon a Gulpuff that generates a <color=#ffd12f>healing field</color>. All nearby party members within this field recover {0} HP plus HP equal to {1} of the caster's ATK. Resonators affected also gain {2} DMG Reduction. Lasts for {3}s. Cooldown: {4}s.",
     "review_note": "",
-    "new_translation_vi": "Triệu hồi Gulpuff tạo ra <color=#ffd12f>trường hồi phục</color>. Tất cả đồng đội trong phạm vi này phục hồi {0} HP cộng thêm lượng HP bằng {1} ATK của người triệu hồi. Resonator trong phạm vi cũng nhận được {2} Giảm Sát Thương. Hiệu ứng kéo dài {3} giây. Thời gian hồi: {4} giây.",
+    "new_translation_vi": "Triệu hồi Gulpuff tạo ra <color=#ffd12f>trường hồi phục</color>. Tất cả đồng đội trong phạm vi này phục hồi {0} HP cộng thêm lượng HP bằng {1} ATK của người triệu hồi. Resonator trong phạm vi cũng nhận được {2} Giảm Sát Thương. Hiệu ứng kéo dài {3} giây. Cooldown: {4} giây.",
     "translator_note": ""
   },
   {
@@ -9996,7 +9996,7 @@
     "ai_reason": "",
     "source_en": "Summon a Zig Zag that generates an <color=#ffd12f>invincible field</color>. All party members within this field are immune to all incoming DMG for {0}s. Resonators affected also gain additional {1} Crit. Rate and {2} Crit. DMG. Cooldown: {3}s.",
     "review_note": "",
-    "new_translation_vi": "Triệu hồi Zig Zag tạo ra <color=#ffd12f>lĩnh vực bất khả xâm phạm</color>. Tất cả Resonator trong lĩnh vực này miễn nhiễm mọi DMG trong {0} giây. Đồng thời, Resonator bị ảnh hưởng còn nhận thêm {1} Crit. Rate và {2} Crit. DMG. Thời gian hồi: {3} giây.",
+    "new_translation_vi": "Triệu hồi Zig Zag tạo ra <color=#ffd12f>lĩnh vực bất khả xâm phạm</color>. Tất cả Resonator trong lĩnh vực này miễn nhiễm mọi DMG trong {0} giây. Đồng thời, Resonator bị ảnh hưởng còn nhận thêm {1} Crit. Rate và {2} Crit. DMG. Cooldown: {3} giây.",
     "translator_note": ""
   },
   {
@@ -10021,7 +10021,7 @@
     "ai_reason": "",
     "source_en": "Transform into Dreamless to deal {0} Havoc DMG and <color=#ffd12f>boost ATK</color> for nearby party members by {1}. It also restores {2} Concerto Energy per second and increases Resonance Skill DMG against Immobilized targets by {3}. Lasts for {4}s. Cooldown: {5}s.",
     "review_note": "",
-    "new_translation_vi": "Biến hình thành Dreamless để gây {0} Sát Thương Havoc và <color=#ffd12f>tăng ATK</color> cho các thành viên trong đội gần đó thêm {1}. Đồng thời hồi phục {2} Concerto Energy mỗi giây và tăng Sát Thương Resonance Skill lên mục tiêu Bất Động thêm {3}. Hiệu ứng kéo dài {4} giây. Thời gian hồi: {5} giây.",
+    "new_translation_vi": "Biến hình thành Dreamless để gây {0} Sát Thương Havoc và <color=#ffd12f>tăng ATK</color> cho các thành viên trong đội gần đó thêm {1}. Đồng thời hồi phục {2} Concerto Energy mỗi giây và tăng Sát Thương Resonance Skill lên mục tiêu Bất Động thêm {3}. Hiệu ứng kéo dài {4} giây. Cooldown: {5} giây.",
     "translator_note": ""
   },
   {
@@ -10046,7 +10046,7 @@
     "ai_reason": "",
     "source_en": "Transform into Feilian Beringal to deal {0} Aero DMG and <color=#ffd12f>boost Resonance Liberation DMG</color> for nearby party members by {1}. It also increases Resonance Liberation DMG against Immobilized targets by {2}. Lasts for {3}s. During this time, Feilian Beringal summons a pillar that releases shock waves, each dealing {4} Aero DMG. Resonators hit by a shock wave gain {5} Resonance Energy and {6} Resonance Liberation cooldown reduction. Cooldown: {7}s.",
     "review_note": "",
-    "new_translation_vi": "Biến hình thành Feilian Beringal để gây {0} Sát Thương Aero và <color=#ffd12f>tăng Sát Thương Resonance Liberation</color> cho các thành viên trong đội ở gần thêm {1}. Đồng thời tăng Sát Thương Resonance Liberation lên mục tiêu Bất Động thêm {2}. Hiệu ứng kéo dài {3} giây. Trong thời gian này, Feilian Beringal triệu hồi một cột trụ giải phóng sóng xung kích, mỗi đợt gây {4} Sát Thương Aero. Resonator trúng sóng xung kích sẽ nhận được {5} Resonance Energy và giảm {6} Thời gian hồi chiêu Resonance Liberation. Thời gian hồi: {7} giây.",
+    "new_translation_vi": "Biến hình thành Feilian Beringal để gây {0} Sát Thương Aero và <color=#ffd12f>tăng Sát Thương Resonance Liberation</color> cho các thành viên trong đội ở gần thêm {1}. Đồng thời tăng Sát Thương Resonance Liberation lên mục tiêu Bất Động thêm {2}. Hiệu ứng kéo dài {3} giây. Trong thời gian này, Feilian Beringal triệu hồi một cột trụ giải phóng sóng xung kích, mỗi đợt gây {4} Sát Thương Aero. Resonator trúng sóng xung kích sẽ nhận được {5} Resonance Energy và giảm {6} Cooldown chiêu Resonance Liberation. Cooldown: {7} giây.",
     "translator_note": ""
   },
   {
@@ -10071,7 +10071,7 @@
     "ai_reason": "",
     "source_en": "Transform into Hoartoise for {0}s, dealing up to {1} Glacio DMG to surrounding enemies each second and gaining 5 stacks of \"Hardening.\" Each stack of \"Hardening\" <color=#ffd12f>reduces incoming DMG</color> by {2} and increases Movement Speed by {3}. Lose a stack of \"Hardening\" when hit (up to one stack per second). Attacks during transformation increase nearby party members' ATK by {4} on hit (up to one stack per second), stackable for up to {5} times, lasting for {6}s. Losing all stacks of \"Hardening\" will remove all the ATK boosts and end the transformation. Cooldown: {7}s.",
     "review_note": "",
-    "new_translation_vi": "Biến hình thành Hoartoise trong {0} giây, mỗi giây gây tối đa {1} Sát Thương Glacio lên kẻ địch xung quanh và nhận 5 lớp \"Cứng Cáp\". Mỗi lớp \"Cứng Cáp\" <color=#ffd12f>giảm DMG nhận vào</color> {2} và tăng Tốc Độ Di Chuyển {3}. Mỗi khi bị tấn công sẽ mất 1 lớp \"Cứng Cáp\" (tối đa 1 lớp mỗi giây). Đòn tấn công trong trạng thái biến hình sẽ tăng ATK cho đồng đội gần đó {4} khi trúng đích (tối đa 1 lớp mỗi giây), có thể tích lũy tối đa {5} lần, kéo dài {6} giây. Mất hết lớp \"Cứng Cáp\" sẽ xóa toàn bộ hiệu ứng tăng ATK và kết thúc biến hình. Thời gian hồi: {7} giây.",
+    "new_translation_vi": "Biến hình thành Hoartoise trong {0} giây, mỗi giây gây tối đa {1} Sát Thương Glacio lên kẻ địch xung quanh và nhận 5 lớp \"Cứng Cáp\". Mỗi lớp \"Cứng Cáp\" <color=#ffd12f>giảm DMG nhận vào</color> {2} và tăng Tốc Độ Di Chuyển {3}. Mỗi khi bị tấn công sẽ mất 1 lớp \"Cứng Cáp\" (tối đa 1 lớp mỗi giây). Đòn tấn công trong trạng thái biến hình sẽ tăng ATK cho đồng đội gần đó {4} khi trúng đích (tối đa 1 lớp mỗi giây), có thể tích lũy tối đa {5} lần, kéo dài {6} giây. Mất hết lớp \"Cứng Cáp\" sẽ xóa toàn bộ hiệu ứng tăng ATK và kết thúc biến hình. Cooldown: {7} giây.",
     "translator_note": ""
   },
   {
@@ -10096,7 +10096,7 @@
     "ai_reason": "",
     "source_en": "Summon a Tambourinist that generates music notes for {0}s. Each note collected by a party member <color=#ffd12f>increases ATK by {1}</color>, recovers {2} HP, boosts Movement Speed by {3}, and rescovers {4} STA for them. It also increases their Basic Attack and Heavy Attack DMG to Immobilized targets by {5}. The effect lasts for {6}s. Throughout the battle, all Resonators' ATK is increased by {7} for each music note collected. Cooldown: {8}s.",
     "review_note": "",
-    "new_translation_vi": "Triệu hồi Nhạc Công Trống trong {0} giây, tạo ra các nốt nhạc. Mỗi nốt nhạc đồng đội nhặt được sẽ <color=#ffd12f>tăng ATK {1}</color>, hồi {2} HP, tăng Tốc Độ Di Chuyển {3} và hồi {4} STA. Ngoài ra, tăng Sát Thương Đòn Cơ Bản và Đòn Nặng lên mục tiêu Bất Động thêm {5}. Hiệu ứng kéo dài {6} giây. Trong suốt trận đấu, ATK của tất cả Resonator sẽ tăng {7} cho mỗi nốt nhạc đã nhặt.\nThời gian hồi: {8} giây.",
+    "new_translation_vi": "Triệu hồi Nhạc Công Trống trong {0} giây, tạo ra các nốt nhạc. Mỗi nốt nhạc đồng đội nhặt được sẽ <color=#ffd12f>tăng ATK {1}</color>, hồi {2} HP, tăng Tốc Độ Di Chuyển {3} và hồi {4} STA. Ngoài ra, tăng Sát Thương Đòn Cơ Bản và Đòn Nặng lên mục tiêu Bất Động thêm {5}. Hiệu ứng kéo dài {6} giây. Trong suốt trận đấu, ATK của tất cả Resonator sẽ tăng {7} cho mỗi nốt nhạc đã nhặt.\nCooldown: {8} giây.",
     "translator_note": ""
   },
   {
@@ -10121,7 +10121,7 @@
     "ai_reason": "",
     "source_en": "Summon Jué to generate a <color=#ffd12f>stagnation field</color> that lasts for {0}s. While active, it increases nearby party members' Vibration Strength Depletion Rate by {1}. Enemies in the filed have their DEF reduced by {2} and RES to All Attributes reduced by {3}. During this time, Jué soars through the air and deals {4} Spectro DMG while summoning thunderbolts that strike nearby enemies up to 5 times, each dealing {5} Spectro DMG. Jué then spirals downward, attacking surrounding enemies twice, each dealing {6} Spectro DMG. Cooldown: {7}s.",
     "review_note": "",
-    "new_translation_vi": "Triệu hồi Jué để tạo ra <color=#ffd12f>trường trì trệ</color> kéo dài {0} giây. Khi kích hoạt, nó làm tăng Tốc Độ Tiêu Hao Sức Mạnh Rung Động của các Cộng Hưởng Giả gần đó lên {1}. Kẻ địch trong trường bị giảm {2} Phòng Ngự và {3} Kháng Tất Cả Thuộc Tính. Trong thời gian này, Jué bay lượn trên không và gây {4} Sát Thương Spectro, đồng thời triệu hồi sấm sét giáng xuống kẻ địch gần đó tối đa 5 lần, mỗi lần gây {5} Sát Thương Spectro. Sau đó, Jué xoáy xuống tấn công kẻ địch xung quanh hai lần, mỗi lần gây {6} Sát Thương Spectro. Thời gian hồi: {7} giây.",
+    "new_translation_vi": "Triệu hồi Jué để tạo ra <color=#ffd12f>trường trì trệ</color> kéo dài {0} giây. Khi kích hoạt, nó làm tăng Tốc Độ Tiêu Hao Sức Mạnh Rung Động của các Cộng Hưởng Giả gần đó lên {1}. Kẻ địch trong trường bị giảm {2} Phòng Ngự và {3} Kháng Tất Cả Thuộc Tính. Trong thời gian này, Jué bay lượn trên không và gây {4} Sát Thương Spectro, đồng thời triệu hồi sấm sét giáng xuống kẻ địch gần đó tối đa 5 lần, mỗi lần gây {5} Sát Thương Spectro. Sau đó, Jué xoáy xuống tấn công kẻ địch xung quanh hai lần, mỗi lần gây {6} Sát Thương Spectro. Cooldown: {7} giây.",
     "translator_note": ""
   },
   {
@@ -10146,7 +10146,7 @@
     "ai_reason": "",
     "source_en": "Transform into Tempest Mephis to deal {0} Electro DMG and <color=#ffd12f>reduce the targets' Vibration Strength by {1}</color>. If the target is Immobilized from this attack, increase the DMG it takes by {2} and reduce all Resonators' Resonance Skill Cooldown by {3} for {4}s. Cooldown: {5}s.",
     "review_note": "",
-    "new_translation_vi": "Biến thành Tempest Mephis để gây {0} DMG Electro và <color=#ffd12f>giảm Sức Rung của mục tiêu {1}</color>. Nếu mục tiêu bị Hóa Đá từ đòn tấn công này, tăng DMG nhận vào {2} và giảm Thời gian hồi chiêu Resonance Skill của tất cả Resonator {3} trong {4} giây. Thời gian hồi: {5} giây.",
+    "new_translation_vi": "Biến thành Tempest Mephis để gây {0} DMG Electro và <color=#ffd12f>giảm Sức Rung của mục tiêu {1}</color>. Nếu mục tiêu bị Hóa Đá từ đòn tấn công này, tăng DMG nhận vào {2} và giảm Cooldown chiêu Resonance Skill của tất cả Resonator {3} trong {4} giây. Cooldown: {5} giây.",
     "translator_note": ""
   },
   {
@@ -11471,7 +11471,7 @@
     "ai_reason": "",
     "source_en": "Transform into Hoartoise for 4s, dealing 937.50% Glacio DMG every second and launching nearby enemies. Cooldown: 15s.",
     "review_note": "",
-    "new_translation_vi": "Biến hình thành Hoartoise trong 4 giây, mỗi giây gây 937.50% Sát Thương Glacio và hất tung kẻ địch xung quanh. Thời gian hồi: 15 giây.",
+    "new_translation_vi": "Biến hình thành Hoartoise trong 4 giây, mỗi giây gây 937.50% Sát Thương Glacio và hất tung kẻ địch xung quanh. Cooldown: 15 giây.",
     "translator_note": ""
   },
   {
@@ -11521,7 +11521,7 @@
     "ai_reason": "",
     "source_en": "When Resonators equipped with Hoartoise cast Outro Skill, the Echo skill's Cooldown is reset.",
     "review_note": "",
-    "new_translation_vi": "Khi Resonator trang bị Hoartoise sử dụng Kỹ Năng Outro, Thời gian hồi chiêu của Kỹ Năng Echo sẽ được đặt lại.",
+    "new_translation_vi": "Khi Resonator trang bị Hoartoise sử dụng Kỹ Năng Outro, Cooldown chiêu của Kỹ Năng Echo sẽ được đặt lại.",
     "translator_note": ""
   },
   {
@@ -11546,7 +11546,7 @@
     "ai_reason": "",
     "source_en": "Summon a Glacio Prism for 6s to attack enemies. Each attack deals 436.67% Glacio DMG, which will be increased by another 66.67% if the target is Frozen. Cooldown: 15s.",
     "review_note": "",
-    "new_translation_vi": "Triệu hồi Lăng Kính Glacio trong 6 giây để tấn công kẻ địch. Mỗi đòn gây 436,67% Sát Thương Glacio, tăng thêm 66,67% nếu mục tiêu bị Đóng Băng. Thời gian hồi: 15 giây.",
+    "new_translation_vi": "Triệu hồi Lăng Kính Glacio trong 6 giây để tấn công kẻ địch. Mỗi đòn gây 436,67% Sát Thương Glacio, tăng thêm 66,67% nếu mục tiêu bị Đóng Băng. Cooldown: 15 giây.",
     "translator_note": ""
   },
   {
@@ -11621,7 +11621,7 @@
     "ai_reason": "",
     "source_en": "Transform into Autopuppet Scout to freeze nearby enemies for 3s, dealing 1146.67% Glacio DMG. Cooldown: 15s.",
     "review_note": "",
-    "new_translation_vi": "Biến hình thành Autopuppet Scout để đóng băng kẻ địch xung quanh trong 3 giây, gây 1146.67% Sát Thương Glacio. Thời gian hồi chiêu: 15 giây.",
+    "new_translation_vi": "Biến hình thành Autopuppet Scout để đóng băng kẻ địch xung quanh trong 3 giây, gây 1146.67% Sát Thương Glacio. Cooldown chiêu: 15 giây.",
     "translator_note": ""
   },
   {
@@ -11696,7 +11696,7 @@
     "ai_reason": "",
     "source_en": "Summon a Gulpuff that generates a healing field. All nearby party members within this field recover 25.00% HP. Cooldown: 20s.",
     "review_note": "",
-    "new_translation_vi": "Triệu hồi Gulpuff tạo ra trường hồi phục. Tất cả đồng đội trong phạm vi này phục hồi 25,00% HP. Thời gian hồi: 20 giây.",
+    "new_translation_vi": "Triệu hồi Gulpuff tạo ra trường hồi phục. Tất cả đồng đội trong phạm vi này phục hồi 25,00% HP. Cooldown: 20 giây.",
     "translator_note": ""
   },
   {
@@ -11721,7 +11721,7 @@
     "ai_reason": "",
     "source_en": "Transform into Rocksteady Guardian to attract the attention of nearby enemies. Grant nearby party members a shield based on 20.00% of the caster's Max HP for 10s. Cooldown: 20s.",
     "review_note": "",
-    "new_translation_vi": "Biến hình thành Rocksteady Guardian để thu hút sự chú ý của kẻ địch xung quanh. Ban cho các thành viên trong đội gần đó một lớp Khiên dựa trên 20.00% HP Tối Đa của người sử dụng trong 10 giây. Thời gian hồi: 20 giây.",
+    "new_translation_vi": "Biến hình thành Rocksteady Guardian để thu hút sự chú ý của kẻ địch xung quanh. Ban cho các thành viên trong đội gần đó một lớp Khiên dựa trên 20.00% HP Tối Đa của người sử dụng trong 10 giây. Cooldown: 20 giây.",
     "translator_note": ""
   },
   {
@@ -11796,7 +11796,7 @@
     "ai_reason": "",
     "source_en": "Summon a Whiff Whaff to pull in nearby enemies for 5s, dealing 131.67% Aero DMG for 12 times. Cooldown: 20s.",
     "review_note": "",
-    "new_translation_vi": "Triệu hồi Whiff Whaff hút kẻ địch xung quanh vào trung tâm trong 5 giây, gây 131.67% Sát Thương Aero 12 lần. Thời gian hồi: 20 giây.",
+    "new_translation_vi": "Triệu hồi Whiff Whaff hút kẻ địch xung quanh vào trung tâm trong 5 giây, gây 131.67% Sát Thương Aero 12 lần. Cooldown: 20 giây.",
     "translator_note": ""
   },
   {
@@ -11846,7 +11846,7 @@
     "ai_reason": "",
     "source_en": "Transform into Dreamless to deal 1397.00% Havoc DMG. Increase the ATK of all nearby party members by 30.00%. Cooldown: 20s.",
     "review_note": "",
-    "new_translation_vi": "Biến hình thành Dreamless để gây 1397.00% Sát Thương Havoc. Tăng ATK cho tất cả thành viên trong đội gần đó thêm 30.00%. Thời gian hồi: 20 giây.",
+    "new_translation_vi": "Biến hình thành Dreamless để gây 1397.00% Sát Thương Havoc. Tăng ATK cho tất cả thành viên trong đội gần đó thêm 30.00%. Cooldown: 20 giây.",
     "translator_note": ""
   },
   {
@@ -11921,7 +11921,7 @@
     "ai_reason": "",
     "source_en": "Transform into Feilian Beringal to smash the ground, dealing 800.00% Aero DMG and leaving a pillar behind for 9s. The pillar releases a shockwave dealing 816.00% Aero DMG every 3s. Cooldown: 20s.",
     "review_note": "",
-    "new_translation_vi": "Biến hình thành Feilian Beringal và đập mạnh xuống đất, gây 800.00% Sát Thương Aero và để lại một cột trụ trong 9 giây. Cột trụ giải phóng sóng xung kích mỗi 3 giây, gây 816.00% Sát Thương Aero. Thời gian hồi: 20 giây.",
+    "new_translation_vi": "Biến hình thành Feilian Beringal và đập mạnh xuống đất, gây 800.00% Sát Thương Aero và để lại một cột trụ trong 9 giây. Cột trụ giải phóng sóng xung kích mỗi 3 giây, gây 816.00% Sát Thương Aero. Cooldown: 20 giây.",
     "translator_note": ""
   },
   {
@@ -11971,7 +11971,7 @@
     "ai_reason": "",
     "source_en": "Transform into Impermanence Heron, firing flames downward to deal 1032.00% Havoc DMG and creating a blazing area that lasts for 5s. Enemies within the area take 623.70% Havoc DMG per second and have their Movement Speed reduced by 40%. Cooldown: 15s.",
     "review_note": "",
-    "new_translation_vi": "Biến hình thành Impermanence Heron, phun lửa xuống dưới gây 1032.00% Sát Thương Hệ Havoc và tạo ra một vùng lửa cháy trong 5 giây. Kẻ địch trong vùng chịu 623.70% Sát Thương Hệ Havoc mỗi giây và bị giảm 40% Tốc Độ Di Chuyển. Thời gian hồi: 15 giây.",
+    "new_translation_vi": "Biến hình thành Impermanence Heron, phun lửa xuống dưới gây 1032.00% Sát Thương Hệ Havoc và tạo ra một vùng lửa cháy trong 5 giây. Kẻ địch trong vùng chịu 623.70% Sát Thương Hệ Havoc mỗi giây và bị giảm 40% Tốc Độ Di Chuyển. Cooldown: 15 giây.",
     "translator_note": ""
   },
   {
@@ -12246,7 +12246,7 @@
     "ai_reason": "",
     "source_en": "This Echo Skill's Cooldown -10%",
     "review_note": "",
-    "new_translation_vi": "Kỹ năng Echo này giảm 10% Thời gian hồi chiêu.",
+    "new_translation_vi": "Kỹ năng Echo này giảm 10% Cooldown chiêu.",
     "translator_note": ""
   },
   {
@@ -12296,7 +12296,7 @@
     "ai_reason": "",
     "source_en": "This Echo Skill's Cooldown -10%",
     "review_note": "",
-    "new_translation_vi": "Kỹ năng Echo này giảm 10% Thời gian hồi chiêu.",
+    "new_translation_vi": "Kỹ năng Echo này giảm 10% Cooldown chiêu.",
     "translator_note": ""
   },
   {

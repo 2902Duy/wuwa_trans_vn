@@ -2321,7 +2321,7 @@
     "ai_reason": "",
     "source_en": "Combat Machines' Cooldown is reduced by <color=#fde7a1ff>10%</color>.",
     "review_note": "",
-    "new_translation_vi": "Thời gian hồi chiêu của Máy Chiến Đấu giảm <color=#fde7a1ff>10%</color>.",
+    "new_translation_vi": "Cooldown chiêu của Máy Chiến Đấu giảm <color=#fde7a1ff>10%</color>.",
     "translator_note": ""
   },
   {
@@ -4771,7 +4771,7 @@
     "ai_reason": "",
     "source_en": "Cooldown",
     "review_note": "",
-    "new_translation_vi": "Thời gian hồi",
+    "new_translation_vi": "Cooldown",
     "translator_note": ""
   },
   {
@@ -4946,7 +4946,7 @@
     "ai_reason": "",
     "source_en": "<color=#c49e55>[Resonance Liberation]</color>\nFire-Kissed Glory gains the following enhancements:\n- Cooldown is reduced by {0}.\n- Casting the skill increases Fusion DMG by {1} for {2}s.\n- Additionally summon Wolf Cry twice at the target's position, each dealing Fusion DMG equal to {3} of ATK on hit and restoring {4} points of Resonance Energy.",
     "review_note": "",
-    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\nVinh Quang Chói Lửa nhận được các nâng cấp sau:\n- Thời gian hồi chiêu giảm {0}.\n- Kích hoạt kỹ năng sẽ tăng Sát Thương Fusion thêm {1} trong {2} giây.\n- Đồng thời triệu hồi Tiếng Hú Sói hai lần tại vị trí mục tiêu, mỗi lần gây Sát Thương Fusion bằng {3} ATK và hồi {4} điểm Resonance Energy khi trúng đích.",
+    "new_translation_vi": "<color=#c49e55>[Resonance Liberation]</color>\nVinh Quang Chói Lửa nhận được các nâng cấp sau:\n- Cooldown chiêu giảm {0}.\n- Kích hoạt kỹ năng sẽ tăng Sát Thương Fusion thêm {1} trong {2} giây.\n- Đồng thời triệu hồi Tiếng Hú Sói hai lần tại vị trí mục tiêu, mỗi lần gây Sát Thương Fusion bằng {3} ATK và hồi {4} điểm Resonance Energy khi trúng đích.",
     "translator_note": ""
   },
   {
@@ -5721,7 +5721,7 @@
     "ai_reason": "",
     "source_en": "The Echo Skill of all Resonators in the team deals 75% more DMG and has 30% less Cooldown.\nWhen in [Divined Dream], dealing Echo Skill DMG reduces the Cooldown of Echo Skill by 3% for all Resonators in the team, triggered once per second.",
     "review_note": "",
-    "new_translation_vi": "Kỹ năng Echo của tất cả Resonator trong đội gây thêm 75% Sát Thương và giảm 30% Thời gian hồi Chiêu.\nKhi ở trạng thái [Divined Dream], gây Sát Thương bằng Kỹ năng Echo sẽ giảm 3% Thời gian hồi Chiêu của Kỹ năng Echo cho tất cả Resonator trong đội, kích hoạt mỗi giây một lần.",
+    "new_translation_vi": "Kỹ năng Echo của tất cả Resonator trong đội gây thêm 75% Sát Thương và giảm 30% Cooldown Chiêu.\nKhi ở trạng thái [Divined Dream], gây Sát Thương bằng Kỹ năng Echo sẽ giảm 3% Cooldown Chiêu của Kỹ năng Echo cho tất cả Resonator trong đội, kích hoạt mỗi giây một lần.",
     "translator_note": ""
   },
   {
@@ -5846,7 +5846,7 @@
     "ai_reason": "",
     "source_en": "When in [Divined Dream], casting Resonance Liberation increases the Crit. DMG of all Resonators in the team by 20% for 10s, stacking up to 5 times.\nUpon entering [Divined Dream], all Resonators in the team have their Resonance Energy fully restored and their Resonance Liberation Cooldown removed.",
     "review_note": "",
-    "new_translation_vi": "Khi ở trong [Divined Dream], sử dụng Resonance Liberation sẽ tăng Crit. DMG của tất cả Resonator trong đội lên 20% trong 10 giây, có thể chồng chất tối đa 5 lần.\nKhi bước vào [Divined Dream], tất cả Resonator trong đội sẽ được hồi đầy Resonance Energy và loại bỏ Thời gian hồi chiêu của Resonance Liberation.",
+    "new_translation_vi": "Khi ở trong [Divined Dream], sử dụng Resonance Liberation sẽ tăng Crit. DMG của tất cả Resonator trong đội lên 20% trong 10 giây, có thể chồng chất tối đa 5 lần.\nKhi bước vào [Divined Dream], tất cả Resonator trong đội sẽ được hồi đầy Resonance Energy và loại bỏ Cooldown chiêu của Resonance Liberation.",
     "translator_note": ""
   },
   {
@@ -5871,7 +5871,7 @@
     "ai_reason": "",
     "source_en": "The total DMG dealt by [Thunder Sigil] is increased by 50%. When [Thunder Sigil] deals damage, it reduces Resonance Liberation Cooldown of all Resonators in the team by 3% and restores 10 points of Resonance Energy.",
     "review_note": "",
-    "new_translation_vi": "Tổng Sát Thương gây ra bởi [Thunder Sigil] tăng thêm 50%. Khi [Thunder Sigil] gây DMG, nó giảm 3% Thời gian hồi chiêu của Kỹ Năng Giải Cứu Cộng Hưởng cho tất cả Resonator trong đội và hồi phục 10 điểm Resonance Energy.",
+    "new_translation_vi": "Tổng Sát Thương gây ra bởi [Thunder Sigil] tăng thêm 50%. Khi [Thunder Sigil] gây DMG, nó giảm 3% Cooldown chiêu của Kỹ Năng Giải Cứu Cộng Hưởng cho tất cả Resonator trong đội và hồi phục 10 điểm Resonance Energy.",
     "translator_note": ""
   },
   {
@@ -6796,7 +6796,7 @@
     "ai_reason": "",
     "source_en": "Echo Skill deals more DMG and has a lower Cooldown. When in [Divined Dream], dealing Echo Skill DMG reduces Echo Skill Cooldown of all Resonators in the team.",
     "review_note": "",
-    "new_translation_vi": "Kỹ năng Echo gây nhiều DMG hơn và Thời gian hồi chiêu ngắn hơn. Khi ở trạng thái [Giấc Mơ Tiên Tri], gây DMG Kỹ năng Echo sẽ giảm Thời gian hồi chiêu Kỹ năng Echo của tất cả Resonator trong đội.",
+    "new_translation_vi": "Kỹ năng Echo gây nhiều DMG hơn và Cooldown chiêu ngắn hơn. Khi ở trạng thái [Giấc Mơ Tiên Tri], gây DMG Kỹ năng Echo sẽ giảm Cooldown chiêu Kỹ năng Echo của tất cả Resonator trong đội.",
     "translator_note": ""
   },
   {
@@ -6921,7 +6921,7 @@
     "ai_reason": "",
     "source_en": "When casting Resonance Liberation, Crit. DMG is increased while in [Divined Dream]. Entering [Divined Dream] fully restores Resonance Energy and clears Resonance Liberation Cooldown.",
     "review_note": "",
-    "new_translation_vi": "Khi sử dụng Resonance Liberation, Crit. DMG tăng lên khi ở trong [Giấc Mộng Tiên Tri]. Vào [Giấc Mộng Tiên Tri] sẽ phục hồi đầy Resonance Energy và xóa Thời gian hồi chiêu Resonance Liberation.",
+    "new_translation_vi": "Khi sử dụng Resonance Liberation, Crit. DMG tăng lên khi ở trong [Giấc Mộng Tiên Tri]. Vào [Giấc Mộng Tiên Tri] sẽ phục hồi đầy Resonance Energy và xóa Cooldown chiêu Resonance Liberation.",
     "translator_note": ""
   },
   {
@@ -7496,7 +7496,7 @@
     "ai_reason": "",
     "source_en": "Cooldown",
     "review_note": "",
-    "new_translation_vi": "Thời gian hồi",
+    "new_translation_vi": "Cooldown",
     "translator_note": ""
   },
   {
