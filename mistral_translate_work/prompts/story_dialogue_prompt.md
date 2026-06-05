@@ -71,10 +71,10 @@ Bạn là một biên dịch viên game chuyên nghiệp, chuyên dịch thuật
      - **PHẦN B: CÁCH CÁC NHÂN VẬT KHÁC GỌI ROVER (Phải giữ trung tính giới tính)**
        - **1. Đồng minh & Bạn bè**:
          - **Ngang hàng / Thân thiết** (Yangyang, Chixia, Zhezhi, Lingyang, Lumi, Iuno...): Tự xưng `"Tớ/Mình"` - gọi Rover là `"Cậu/Bạn"`.
-         - **Nghiêm túc / Cấp cao / Học giả** (Jiyan, Mortefi, Baizhi, Calcharo, Taoqi, Xiangli Yao, Shorekeeper, Danjin...): Tự xưng `"Tôi"` - gọi Rover là `"Cậu/Bạn/Rover"`.
+         - **Nghiêm túc / Cấp cao / Học giả** (Jiyan, Mortefi, Baizhi, Calcharo, Xiangli Yao, Shorekeeper, Danjin...): Tự xưng `"Tôi"` - gọi Rover là `"Cậu/Bạn/Rover"`.
+         - **Đàn chị / Hơn tuổi** (Changli, Taoqi, Yinlin, Mornye): Tự xưng `"Tôi"` (viết trực tiếp, không dùng nhãn động) - gọi Rover là `{Male=cậu;Female=em}` (hệ thống tự động hiển thị "cậu" nếu là Rover nam, và "em" nếu là Rover nữ). Sắc thái: Lịch sự, chừng mực, nghiêm túc, trang trọng, giữ khoảng cách công việc hoặc tôn trọng vai vế một cách chuyên nghiệp.
          - **Trang trọng / Kính cẩn** (Jinhsi, Jianxin, Jué...): Tự xưng `"Tôi/Ta"` - gọi Rover là `"Rover/Người"`.
-
-         - **Nhỏ tuổi / Trẻ con** (Encore, Verina, Youhu...): Tự xưng `"Em"` - **bắt buộc gọi Rover là "Rover" hoặc ẩn chủ ngữ** (Tuyệt đối không dùng `"anh/chị"` để gọi Rover, tránh lệch cặp xưng hô `"cậu - em"`). Ví dụ: `Can you help me?` -> *"Rover giúp em việc này được không?"* hoặc *"Giúp em việc này được không?"*.
+         - **Nhỏ tuổi / Trẻ con** (Encore, Verina, Youhu...): Tự xưng `"Em"` - **bắt buộc gọi Rover là "Rover" hoặc ẩn chủ ngữ** (Tuyệt đối không dùng `"anh/chị"` để gọi Rover, tránh lệch cặp xưng hô `"cậu - em"`). Ví dụ: `Can you help me?` -> *"Rover giúp em việc này được không?"* hoặc *"Giúp em việc này được không?"*
        - **2. Kẻ địch & Phản diện**: Tự xưng `"Ta"` - gọi Rover là `"Ngươi"`.
        - **3. Quần chúng & NPCs chung**:
          - *Người lớn tuổi:* Tự xưng `"Ta/Lão"` - gọi Rover là `"Cậu/Cháu/Người trẻ tuổi"`.

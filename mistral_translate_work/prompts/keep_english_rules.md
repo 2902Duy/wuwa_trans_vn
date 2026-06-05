@@ -20,22 +20,171 @@ Tài liệu này định nghĩa các nhóm dòng văn bản không cần gửi �
 
 > [!TIP]
 > **Ví dụ giữ nguyên:**
-> - `Primordial Broadblade`
-> - `Training Broadblade`
-> - `Broadblade of night`
-> - `Ultrasonic Matrix`
-> - `Emerald of Genesis`
-> - `Verdant Summit`
-> - `Static Mist`
-> - `Stringmaster`
 > - `Abyss Surges`
-> - `Lumingloss`
-> - `Discord`
-> - `Autumntrace`
-> - `Guardian Broadblade`
-> - `Broadblade of Voyager`
 > - `Aether Strike`
+> - `Ambitious determination to the sky`
+> - `Amity Accord`
+> - `Assemble`
+> - `Augment`
+> - `Aureate Zenith`
+> - `Autumntrace`
 > - `Beguiling Melody`
+> - `Blazing Brilliance`
+> - `Blazing Justice`
+> - `Bloodpact's Pledge`
+> - `Bonds of Comrade`
+> - `Boson Astrolabe`
+> - `Break the chill wind`
+> - `Break the skies`
+> - `Broadblade improved: regularization II`
+> - `Broadblade of Voyager`
+> - `Broadblade of night`
+> - `Broadblade prototype: REGULARIZATION`
+> - `Broadblade#41`
+> - `Cadenza`
+> - `Carve the stone`
+> - `Celestial Spiral`
+> - `Comet Flare`
+> - `Commando of Conviction`
+> - `Conquer`
+> - `Cosmic Ripples`
+> - `Dance`
+> - `Dauntless Evernight`
+> - `Dawn from the east`
+> - `Daybreaker's Spine`
+> - `Defier's Thorn`
+> - `Discipline`
+> - `Discord`
+> - `Edgy across dusk`
+> - `Emerald Sentence`
+> - `Emerald of Genesis`
+> - `Endless Collapse`
+> - `Endless adoring`
+> - `Ever-lightened lone lamp`
+> - `Everbright Polestar`
+> - `Feather Edge`
+> - `Focus`
+> - `Forceful hymn for the brave`
+> - `Forged Dwarf Star`
+> - `Frostburn`
+> - `Fusion Accretion`
+> - `Gates on heavens`
+> - `Gauntlet of night`
+> - `Gauntlets#21D`
+> - `Ground Rainbow Hanging`
+> - `Guardian Broadblade`
+> - `Guardian Gauntlets`
+> - `Guardian Pistols`
+> - `Guardian Rectifier`
+> - `Guardian Sword`
+> - `Gun of night`
+> - `Heart of purity`
+> - `Helios Cleaver`
+> - `Hollow Mirage`
+> - `Hum`
+> - `Jinzhou Keeper`
+> - `Judgement`
+> - `Kumokiri`
+> - `Laser Shearer`
+> - `Lead horse to water`
+> - `Lethean Elegy`
+> - `Loyalty in bone`
+> - `Lumingloss`
+> - `Luminous Hymn`
+> - `Lunar Cutter`
+> - `Lustrous Razor`
+> - `Marcato`
+> - `Matrix of night`
+> - `Moongazer's Sigil`
+> - `No return`
+> - `Novaburst`
+> - `Oblivion`
+> - `Ocean's Gift`
+> - `Overture`
+> - `Phasic Homogenizer`
+> - `Pistols#26`
+> - `Primordial Broadblade`
+> - `Primordial Gauntlet`
+> - `Primordial Rectifier`
+> - `Primordial Smallblade`
+> - `Primordial gun`
+> - `Pulsation Bracer`
+> - `Radiance Cleaver`
+> - `Radiant Dawn`
+> - `Ready for battle`
+> - `Rectifier improved: SEQUENCE II`
+> - `Rectifier prototype: SEQUENCE`
+> - `Rectifier#25`
+> - `Red Spring`
+> - `Relativistic Jet`
+> - `Revelation`
+> - `Rime-Draped Sprouts`
+> - `Rocks into pieces`
+> - `Scale: Introduction`
+> - `Scale: chop of sound`
+> - `Scale: hetero`
+> - `Scale: through the air`
+> - `Scale: wave`
+> - `Smallblade improved: Spear II`
+> - `Smallblade of night`
+> - `Smallblade prototype: SPEAR`
+> - `Solar Flame`
+> - `Solsworn Ciphers`
+> - `Somnoire Anchor`
+> - `Spectrum Blaster`
+> - `Star across the sun`
+> - `Starfield Calibrator`
+> - `Static Mist`
+> - `Stellar Symphony`
+> - `Stonard`
+> - `Stops at nothing`
+> - `Stringmaster`
+> - `Sword#18`
+> - `T4-5Jinzhou+ Series Greatsword`
+> - `Take their town`
+> - `Temper`
+> - `Test1-Short Sword`
+> - `The Last Dance`
+> - `Thunderbolt`
+> - `Thunderflare Dominion`
+> - `Tiancheng Watch`
+> - `Tragicomedy`
+> - `Training Broadblade`
+> - `Training Gauntlet`
+> - `Training Gauntlets`
+> - `Training Pistols`
+> - `Training Rectifier`
+> - `Training Smallblade`
+> - `Training Sword`
+> - `Training gun`
+> - `Triumph`
+> - `Tyro Broadblade`
+> - `Tyro Gauntlets`
+> - `Tyro Pistols`
+> - `Tyro Rectifier`
+> - `Tyro Sword`
+> - `Ultrasonic Blade`
+> - `Ultrasonic Hellen`
+> - `Ultrasonic Judgement`
+> - `Ultrasonic Matrix`
+> - `Ultrasonic Razor`
+> - `Ultrasonic Rockbreaker`
+> - `Ultrasonic Roscoe`
+> - `Ultrasonic rockbreaker`
+> - `Undying Flame`
+> - `Unflickering Valor`
+> - `Unmatched broken blade`
+> - `Variation`
+> - `Verdant Summit`
+> - `Verity's Handle`
+> - `Waning Redshift`
+> - `Wildfire Mark`
+> - `Will to battle`
+> - `Wipe their men`
+> - `Woodland Aria`
+> - `Work hard`
+> - `chords`
+> - `set sail`
 
 > [!WARNING]
 > **Không áp dụng quy tắc này cho:**
@@ -55,25 +204,183 @@ Tài liệu này định nghĩa các nhóm dòng văn bản không cần gửi �
 
 > [!TIP]
 > **Ví dụ giữ nguyên:**
-> - `Vanguard Junrock`
-> - `Impulse Predator`
-> - `Whiff Whoosh`
-> - `Glacio Prism`
-> - `Crownless`
+> - `Abyssal Gladius`
+> - `Abyssal Gunmaster`
+> - `Abyssal Mercator`
+> - `Abyssal Patricius`
+> - `Abysscrest Gladiator`
+> - `Aero Drake`
+> - `Aero Predator`
+> - `Aero Prism`
+> - `Autopuppet Scout`
+> - `Baby Roseshroom`
+> - `Baby Viridblaze Saurian`
 > - `Bell-Borne Geochelone`
-> - `Seatrail Narwhal`
-> - `Inferno Rider`
+> - `Calcified Junrock`
+> - `Capitaneus`
+> - `Carapace`
+> - `Chaserazor`
+> - `Chasm Guardian`
+> - `Chasm Rider`
+> - `Chest Mimic`
+> - `Chirpuff`
+> - `Chop Chop`
+> - `Clang Bang`
+> - `Corrosaurus`
+> - `Crownless`
+> - `Cruisewing`
+> - `Cuddle Wuddle`
+> - `Cyan-Feathered Heron`
+> - `Cyrscorpion`
+> - `Devotee's Flesh`
+> - `Diamondclaw`
+> - `Diggy Duggy`
+> - `Diurnus Knight`
+> - `Dreamless`
+> - `Dwarf Cassowary`
+> - `Electro Drake`
+> - `Electro Predator`
+> - `Excarat`
+> - `Exile Commoner`
+> - `Exile Craftsman`
+> - `Exile Technician`
+> - `Fae Ignis`
+> - `Feilian Beringal`
+> - `Fenrico`
+> - `Fission Junrock`
+> - `Flamecrest Gladiator`
+> - `Flautist`
+> - `Fleurdelys`
+> - `Flora Drone`
+> - `Flora Reindeer`
+> - `Flute Instrumentalist`
+> - `Forsaken Abundance`
+> - `Fractsidus Cannoneer`
+> - `Fractsidus Executioner`
+> - `Fractsidus Gunmaster`
+> - `Fractsidus Mawdoll`
+> - `Fractsidus Milliner`
+> - `Fractsidus Ripper`
+> - `Fractsidus Thruster`
+> - `Frostbite Coleoid`
+> - `Frostbite Tertoise`
+> - `Frostcrest Gladiator`
+> - `Frostscourge Stalker`
+> - `Fusion Drake`
+> - `Fusion Dreadmane`
+> - `Fusion Dreadmane Minor`
+> - `Fusion Prism`
+> - `Fusion Warrior`
+> - `Galecrest Gladiator`
+> - `Galescourge Stalker`
+> - `Geohide Saurian Major`
+> - `Geohide Saurian Minor`
+> - `Geospider S4`
+> - `Glacio Drake`
+> - `Glacio Dreadmane`
+> - `Glacio Predator`
+> - `Glacio Prism`
+> - `Gleamtender`
+> - `Glommoth`
+> - `Golden Junrock`
+> - `Gulpuff`
+> - `Havoc Drake`
+> - `Havoc Dreadmane`
+> - `Havoc Prism`
+> - `Havoc Warrior`
+> - `Hecate`
+> - `Hoartoise`
+> - `Hocus Pocus`
 > - `Hoochief`
+> - `Hoochief Cyclone`
+> - `Hoochief Menace`
+> - `Hooscamp`
+> - `Hooscamp Clapperclaw`
+> - `Hooscamp Flinger`
+> - `Hurriclaw`
+> - `Hyvatia`
+> - `Iceglint Dancer`
+> - `Impermanence Heron`
+> - `Impulse Predator`
+> - `Inferno Rider`
+> - `Ironhoof`
+> - `Jué`
+> - `Kelpie`
+> - `Kerasaur`
+> - `Kronablight`
+> - `Kronaclaw`
+> - `La Guardia`
+> - `Lampylumen Myriad`
+> - `Lava Larva`
+> - `Lightcrest Gladiator`
+> - `Lightcrusher`
+> - `Lorelei`
+> - `Lottie Lost`
+> - `Lumiscale Construct`
+> - `Mech Abomination`
+> - `Midnight Ranger`
+> - `Mining Drone`
+> - `Mining Reindeer`
+> - `Mourning Aix`
+> - `Nameless Explorer`
+> - `Nimbus Wraith`
+> - `Nocturnus Knight`
+> - `Outcast Executioner`
+> - `Pilgrim's Shell`
+> - `Pneuma Predator`
+> - `Questless Knight`
+> - `Reactor Husk`
+> - `Rocksteady Guardian`
+> - `Roseshroom`
+> - `Roseshroom (Immature)`
+> - `Roseshroom (Mature)`
+> - `Rupture Dreadmane Major`
+> - `Rupture Prism`
+> - `Rupture Warrior`
+> - `Sabercat Prowler`
+> - `Sabercat Reaver`
+> - `Sabyr Boar`
+> - `Sacerdos`
+> - `Sagittario`
+> - `Scar`
+> - `Seatrail Narwhal`
 > - `Sentinel`
 > - `Sentinel Jué`
-> - `Impermanence Heron`
+> - `Sentry Construct`
+> - `Shadow Stepper`
+> - `Sigillum`
+> - `Snip Snap`
+> - `Spacetrek Explorer`
+> - `Spearback`
+> - `Spearback Ursa`
+> - `Spectra Prism`
+> - `Spectro Drake`
+> - `Spectro Prism`
+> - `Stonewall Bracer`
+> - `Tambourine Instrumentalist`
+> - `Tambourinist`
+> - `Tempest Mephis`
+> - `The False Sovereign`
+> - `Thunder Squama`
+> - `Thundercrest Gladiator`
 > - `Thundering Mephis`
-> - `Mourning Aix`
-> - `Chasm Rider`
+> - `Thundstaff Outcast`
+> - `Tic Tac`
+> - `Tick Tack`
 > - `Traffic Illuminator`
-> - `Flautist`
-> - `Abyssal Gladius`
-> - `Aero Predator`
+> - `Tremor Warrior`
+> - `Vanguard Junrock`
+> - `Violet-Feathered Heron`
+> - `Viridblaze Saurian`
+> - `Vitreum Dancer`
+> - `Voidwing Moth`
+> - `Voidworm`
+> - `Voltscourge Stalker`
+> - `Whiff Whaff`
+> - `Whiff Whoosh`
+> - `Windlash Coleoid`
+> - `Zig Zag`
+> - `Zip Zap`
 
 > [!WARNING]
 > **Không áp dụng quy tắc này cho:**
@@ -92,7 +399,7 @@ Tài liệu này định nghĩa các nhóm dòng văn bản không cần gửi �
 
 > [!TIP]
 > **Ví dụ giữ nguyên:**
-> > - Nhân vật: `Aalto`, `Abby`, `Aemeath`, `An'ke`, `Augusta`, `Bailian`, `Baizhi`, `Calcharo`, `Camellya`, `Carlotta`, `Changli`, `Chixia`, `Danjin`, `Denia`, `Encore`, `Geshu Lin`, `Hiyuki`...
+> > - Nhân vật: `Aalto`, `Abby`, `Aemeath`, `An'ke`, `Augusta`, `Bailian`, `Baizhi`, `Brant`, `Buling`, `Calcharo`, `Camellya`, `Cantarella`, `Carlotta`, `Cartethyia`, `Changli`, `Chisa`, `Chixia`, `Ciaccona`, `Danjin`, `Denia`, `Encore`, `Galbrena`, `Geshu Lin`, `Hiyuki`, `Iuno`, `Jianxin`, `Jinhsi`, `Jiyan`, `Lingyang`, `Lucilla`, `Lumi`, `Lupa`, `Luuk Herssen`, `Lynae`, `Mornye`, `Mortefi`, `Phoebe`, `Phrolova`, `Qiuyuan`, `Roccia`, `Rover: Aero`, `Rover: Havoc`, `Rover: Spectro`, `San'hua`, `Sanhua`, `Shorekeeper`, `Sigrika`, `Taoqi`, `The Shorekeeper`, `Verina`, `Xiangli Yao`, `Yangyang`, `Yinlin`, `Youhu`, `Yuanwu`, `Zani`, `Zhezhi`...
 > - Địa danh: `Ashinohara`, `Asphodel Barrens`, `Avinoleum`, `Beohr Waters`, `Bjartr Woods`, `Black Alley`, `Black Shores Archipelago`, `Capitoline Hill`, `Central Plains`, `Chamber of Discipline`, `Chronorift Metropolis`, `Corrosive Ruins`, `Desorock Highland`, `Dim Forest`, `Fabricatorium of the Deep`, `Fisalia`, `Gorges of Spirits`, `Septimont`...
 
 ---

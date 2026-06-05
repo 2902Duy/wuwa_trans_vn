@@ -2,7 +2,9 @@
 .mistral_keys.txt
 __pycache__/
 *.pyc
-mistral_translate_work/
+mistral_translate_work/*
+!mistral_translate_work/prompts/
+!mistral_translate_work/skills/
 node_modules/
 .runlogs/
 .vs/
