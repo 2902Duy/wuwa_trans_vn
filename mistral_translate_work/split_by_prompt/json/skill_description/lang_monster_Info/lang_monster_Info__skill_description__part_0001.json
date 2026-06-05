@@ -1,0 +1,27 @@
+[
+  {
+    "split_id": "SKILL_DESCRIPTION_0000150",
+    "source_file": "lang_monster_Info.json",
+    "original_index": 62,
+    "prompt_domain": "skill_description",
+    "prompt_file": "skill_description_prompt.md",
+    "database": "lang_monster_Info.db",
+    "table": "MonsterInfo",
+    "primary_key_column": "Id",
+    "primary_key": "63",
+    "column": "Content",
+    "category": "general",
+    "status": "translated",
+    "issues": "",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
+    "ai_decision": "",
+    "ai_score": "",
+    "ai_reason": "",
+    "source_en": "Binomial name \"Aigialosauridae lapis\", a Mutant Organism the genus Aigialosauridae. The lizards have no natural habit of caring for their younglings, thus hatchlings can only survive by imitating the hunting behavior of the adults, scavenging the remains of their food and, if necessary, using other hatchlings as targets for prey.",
+    "review_note": "",
+    "new_translation_vi": "Tên nhị thức \"Aigialosauridae lapis\", một Sinh Vật Đột Biến thuộc chi Aigialosauridae. Loài thằn lằn này không có tập tính chăm sóc con non, do đó những con non mới nở chỉ có thể sống sót bằng cách bắt chước hành vi săn mồi của con trưởng thành, nhặt thức ăn thừa và nếu cần, sử dụng những con non khác làm mục tiêu săn mồi.",
+    "translator_note": ""
+  }
+]
