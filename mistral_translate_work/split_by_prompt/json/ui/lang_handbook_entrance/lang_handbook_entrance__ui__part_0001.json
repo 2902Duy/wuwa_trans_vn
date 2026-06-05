@@ -1,0 +1,27 @@
+[
+  {
+    "split_id": "UI_0000616",
+    "source_file": "lang_handbook_entrance.json",
+    "original_index": 0,
+    "prompt_domain": "ui",
+    "prompt_file": "ui_prompt.md",
+    "database": "lang_handbook_entrance.db",
+    "table": "HandBookEntrance",
+    "primary_key_column": "Id",
+    "primary_key": "7",
+    "column": "Content",
+    "category": "lore",
+    "status": "translated",
+    "issues": "",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
+    "ai_decision": "",
+    "ai_score": "",
+    "ai_reason": "",
+    "source_en": "Residual Rhythm",
+    "review_note": "",
+    "new_translation_vi": "Residual Rhythm",
+    "translator_note": ""
+  }
+]

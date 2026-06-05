@@ -1,0 +1,27 @@
+[
+  {
+    "split_id": "UI_0000156",
+    "source_file": "lang_confirmbox.json",
+    "original_index": 0,
+    "prompt_domain": "ui",
+    "prompt_file": "ui_prompt.md",
+    "database": "lang_confirmbox.db",
+    "table": "ConfirmBox",
+    "primary_key_column": "Id",
+    "primary_key": "175",
+    "column": "Content",
+    "category": "ui",
+    "status": "translated",
+    "issues": "",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
+    "ai_decision": "",
+    "ai_score": "",
+    "ai_reason": "",
+    "source_en": "Confirm",
+    "review_note": "",
+    "new_translation_vi": "Xác nhận",
+    "translator_note": ""
+  }
+]
