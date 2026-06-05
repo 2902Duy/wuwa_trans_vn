@@ -66,6 +66,7 @@ Tài liệu này định nghĩa các nhóm dòng văn bản không cần gửi �
 > - `Focus`
 > - `Forceful hymn for the brave`
 > - `Forged Dwarf Star`
+> - `Freeze Frame`
 > - `Frostburn`
 > - `Fusion Accretion`
 > - `Gates on heavens`
@@ -125,12 +126,14 @@ Tài liệu này định nghĩa các nhóm dòng văn bản không cần gửi �
 > - `Scale: hetero`
 > - `Scale: through the air`
 > - `Scale: wave`
+> - `Skull Thrasher`
 > - `Smallblade improved: Spear II`
 > - `Smallblade of night`
 > - `Smallblade prototype: SPEAR`
 > - `Solar Flame`
 > - `Solsworn Ciphers`
 > - `Somnoire Anchor`
+> - `Spectral Trigger`
 > - `Spectrum Blaster`
 > - `Star across the sun`
 > - `Starfield Calibrator`
@@ -399,7 +402,7 @@ Tài liệu này định nghĩa các nhóm dòng văn bản không cần gửi �
 
 > [!TIP]
 > **Ví dụ giữ nguyên:**
-> > - Nhân vật: `Aalto`, `Abby`, `Aemeath`, `An'ke`, `Augusta`, `Bailian`, `Baizhi`, `Brant`, `Buling`, `Calcharo`, `Camellya`, `Cantarella`, `Carlotta`, `Cartethyia`, `Changli`, `Chisa`, `Chixia`, `Ciaccona`, `Danjin`, `Denia`, `Encore`, `Galbrena`, `Geshu Lin`, `Hiyuki`, `Iuno`, `Jianxin`, `Jinhsi`, `Jiyan`, `Lingyang`, `Lucilla`, `Lumi`, `Lupa`, `Luuk Herssen`, `Lynae`, `Mornye`, `Mortefi`, `Phoebe`, `Phrolova`, `Qiuyuan`, `Roccia`, `Rover: Aero`, `Rover: Havoc`, `Rover: Spectro`, `San'hua`, `Sanhua`, `Shorekeeper`, `Sigrika`, `Taoqi`, `The Shorekeeper`, `Verina`, `Xiangli Yao`, `Yangyang`, `Yinlin`, `Youhu`, `Yuanwu`, `Zani`, `Zhezhi`...
+> > - Nhân vật: `Aalto`, `Abby`, `Aemeath`, `An'ke`, `Augusta`, `Bailian`, `Baizhi`, `Brant`, `Buling`, `Calcharo`, `Camellya`, `Cantarella`, `Carlotta`, `Cartethyia`, `Changli`, `Chisa`, `Chixia`, `Ciaccona`, `Danjin`, `Denia`, `Encore`, `Galbrena`, `Geshu Lin`, `Hiyuki`, `Iuno`, `Jianxin`, `Jinhsi`, `Jiyan`, `Lingyang`, `Lucilla`, `Lucy`, `Lumi`, `Lupa`, `Luuk Herssen`, `Lynae`, `Mornye`, `Mortefi`, `Phoebe`, `Phrolova`, `Qiuyuan`, `Rebecca`, `Roccia`, `Rover: Aero`, `Rover: Havoc`, `Rover: Spectro`, `San'hua`, `Sanhua`, `Shorekeeper`, `Sigrika`, `Taoqi`, `The Shorekeeper`, `Verina`, `Xiangli Yao`, `Yangyang`, `Yinlin`, `Youhu`, `Yuanwu`, `Zani`, `Zhezhi`...
 > - Địa danh: `Ashinohara`, `Asphodel Barrens`, `Avinoleum`, `Beohr Waters`, `Bjartr Woods`, `Black Alley`, `Black Shores Archipelago`, `Capitoline Hill`, `Central Plains`, `Chamber of Discipline`, `Chronorift Metropolis`, `Corrosive Ruins`, `Desorock Highland`, `Dim Forest`, `Fabricatorium of the Deep`, `Fisalia`, `Gorges of Spirits`, `Septimont`...
 
 ---
