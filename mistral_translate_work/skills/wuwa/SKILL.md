@@ -52,14 +52,24 @@ python tools/update_keep_rules.py
 ```
 *(After this completes, the agent must read the modified rule files to refresh its system context before starting translation)*
 
-### B. Translate New Content
+### B. Web-Search Keyword Updates (Scan the Web for New Versions)
+When the user asks to update keywords from the web (e.g., "cập nhật thông tin vũ khí mới từ mạng" or "/browser cập nhật vũ khí mới"), the agent MUST:
+1. Use the `search_web` tool to search for new resonators, weapons, or bosses introduced in the target version of Wuthering Waves (e.g. search "Wuthering Waves new weapons 1.4", "Wuthering Waves new resonators 1.4", etc.).
+2. Extract the clean English names.
+3. Execute the python helper script `tools/add_web_keywords.py` using `run_command` to safely merge and sort these names in `keep_english_rules.md` and `shared_glossary.md`.
+   Example command:
+   ```powershell
+   python tools/add_web_keywords.py --weapons "WeaponName A, WeaponName B" --resonators "Resonator A" --monsters "Monster A"
+   ```
+
+### C. Translate New Content
 To run a translation batch with parallel Mistral API keys:
 ```powershell
 python mistral_game_translate.py translate --max-keys 5 --batch-size 12 --max-chars 3600
 ```
 *(Optionally append `--limit <number>` for smaller test batches)*
 
-### C. Audit and Review Quality
+### D. Audit and Review Quality
 To run the automated rule-based audit and verify tags/glossary consistency:
 ```powershell
 python mistral_game_translate.py audit
@@ -69,19 +79,19 @@ To run AI-assisted review for complex dialogue/lore strings:
 python mistral_game_translate.py review-ai --limit 500
 ```
 
-### D. Sync Split JSON Files (For split prompts workflow)
+### E. Sync Split JSON Files (For split prompts workflow)
 If edits are made directly to split JSON files in `split_by_prompt/json/`, sync them back to the temporary work databases:
 ```powershell
 python tools/sync_split_json_to_db.py
 ```
 
-### E. Compile and Import into Target Database
+### F. Compile and Import into Target Database
 Compile the translated cache files and write them to the SQLite databases under `work_db_vi_mistral/`:
 ```powershell
 python mistral_game_translate.py import --out-db-dir work_db_vi_mistral --force
 ```
 
-### F. Verify & Check Output Status
+### G. Verify & Check Output Status
 Run verification scripts to ensure database integrity and alignment:
 ```powershell
 python verify_changes.py
