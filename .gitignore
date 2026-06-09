@@ -18,3 +18,11 @@ node_modules/
 *.tlog
 *.lastbuildstate
 *.recipe
+
+# Visual Studio build outputs
+helpPakFile/x64/
+helpPakFile/*/x64/
+*.dll
+*.exe
+*.exp
+*.lib
