@@ -211,7 +211,7 @@
     "primary_key": "RogueBuffPool_xjlm_BuffName",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -1411,7 +1411,7 @@
     "primary_key": "TestTextCommitTool_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -1486,7 +1486,7 @@
     "primary_key": "TestTextCommitTool_6",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1646,7 +1646,7 @@
     "ai_reason": "",
     "source_en": "Backpack",
     "review_note": "",
-    "new_translation_vi": "Backpack",
+    "new_translation_vi": "Túi đồ",
     "translator_note": "keep_proper_name"
   },
   {
@@ -1671,7 +1671,7 @@
     "ai_reason": "",
     "source_en": "Friends",
     "review_note": "",
-    "new_translation_vi": "Friends",
+    "new_translation_vi": "Bạn bè",
     "translator_note": "keep_proper_name"
   },
   {
@@ -6861,7 +6861,7 @@
     "primary_key": "Achievement_100359_Name",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10521,7 +10521,7 @@
     "ai_reason": "",
     "source_en": "DIY Instructions",
     "review_note": "",
-    "new_translation_vi": "DIY Instructions",
+    "new_translation_vi": "DIY Hướng dẫn",
     "translator_note": "keep_proper_name"
   },
   {

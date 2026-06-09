@@ -821,7 +821,7 @@
     "ai_reason": "",
     "source_en": "No, no, {Male=sir;Female=miss}! How could I bother you with this...",
     "review_note": "",
-    "new_translation_vi": "Không, không, {Male=ngài;Female=cô}! Sao tôi có thể làm phiền cậu chuyện này...",
+    "new_translation_vi": "Không, không, {Male=thưa ngài;Female=thưa cô}! Sao em lại làm phiền {Male=anh;Female=chị} với chuyện này...",
     "translator_note": ""
   },
   {
@@ -1738,15 +1738,15 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "",
-    "rule_decision": "PASS",
-    "rule_score": 10,
+    "rule_decision": "",
+    "rule_score": "",
     "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
-    "source_en": "You are very knowledgeable, {Male=sir;Female=miss}. I trust you would be able to stay away from the toxic pollen on most occassions.",
+    "source_en": "You are very knowledgeable, {Male=sir;Female=miss}. I trust you would be able to stay away from the toxic pollen on most occasions.",
     "review_note": "",
-    "new_translation_vi": "Cậu thật uyên bác, {Male=ngài;Female=cô}. Tôi tin là cậu có thể tránh được phấn hoa độc hại trong hầu hết các trường hợp.",
+    "new_translation_vi": "Cậu rất am hiểu đấy. Tôi tin là cậu sẽ có thể tránh xa phấn hoa độc trong hầu hết các trường hợp.",
     "translator_note": ""
   },
   {
@@ -5346,7 +5346,7 @@
     "ai_reason": "",
     "source_en": "Eek! You're a person!",
     "review_note": "",
-    "new_translation_vi": "Á! Cậu là người thật!",
+    "new_translation_vi": "Ôi! Cậu là người thật à!",
     "translator_note": ""
   },
   {
@@ -11396,7 +11396,7 @@
     "ai_reason": "",
     "source_en": "Retroact Rain?",
     "review_note": "",
-    "new_translation_vi": "Retroact Rain?",
+    "new_translation_vi": "Retroact Rain ư?",
     "translator_note": ""
   },
   {

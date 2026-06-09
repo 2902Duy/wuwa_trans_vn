@@ -346,7 +346,7 @@
     "ai_reason": "",
     "source_en": "- Transform (1): Display up to 3 Cost 1 cards from the deck. Add one of them to your hand, then shuffle the unselected cards back into your deck.",
     "review_note": "",
-    "new_translation_vi": "- Transform (1): Hiển thị tối đa 3 lá bài Chi phí 1 từ bộ bài. Thêm một lá vào tay, sau đó xáo trộn các lá không được chọn trở lại bộ bài.",
+    "new_translation_vi": "- Biến đổi (1): Hiển thị tối đa 3 lá bài Chi phí 1 từ bộ bài. Thêm một lá vào tay, sau đó xáo trộn các lá không được chọn trở lại bộ bài.",
     "translator_note": ""
   },
   {
@@ -371,7 +371,7 @@
     "ai_reason": "",
     "source_en": "- Transform ({0}): Gain <SapTag=1>{1}</SapTag> {Cus:Sap,S=point P=points SapTag=1} of Energy.",
     "review_note": "",
-    "new_translation_vi": "- Transform ({0}): Nhận <SapTag=1>{1}</SapTag> {Cus:Sap,S=điểm P=điểm SapTag=1} Năng lượng.",
+    "new_translation_vi": "- Biến đổi ({0}): Nhận <SapTag=1>{1}</SapTag> {Cus:Sap,S=điểm P=điểm SapTag=1} Năng lượng.",
     "translator_note": ""
   },
   {
@@ -421,7 +421,7 @@
     "ai_reason": "",
     "source_en": "- Transform ({0}): Draw 3 cards.",
     "review_note": "",
-    "new_translation_vi": "- Transform ({0}): Rút 3 lá bài.",
+    "new_translation_vi": "- Biến đổi ({0}): Rút 3 lá bài.",
     "translator_note": ""
   },
   {
@@ -7313,15 +7313,15 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "",
-    "rule_decision": "PASS",
-    "rule_score": 10,
+    "rule_decision": "",
+    "rule_score": "",
     "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
-    "source_en": "Obtain a total of 2000 points in one cycle in Fantasies of the Thousand Gateways.",
+    "source_en": "Obtain 2,000 Weekly Activity Points in total this week",
     "review_note": "",
-    "new_translation_vi": "Đạt tổng cộng 2000 điểm trong một chu kỳ tại Fantasies of the Thousand Gateways.",
+    "new_translation_vi": "Nhận tổng cộng 2.000 Điểm Hoạt Động Hàng Tuần trong tuần này",
     "translator_note": ""
   },
   {
@@ -10363,15 +10363,15 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "",
-    "rule_decision": "PASS",
-    "rule_score": 10,
+    "rule_decision": "",
+    "rule_score": "",
     "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
-    "source_en": "Points x{0}%",
+    "source_en": "Weekly Activity {0}%",
     "review_note": "",
-    "new_translation_vi": "Điểm x{0}%",
+    "new_translation_vi": "Hoạt Động Hàng Tuần {0}%",
     "translator_note": ""
   },
   {
@@ -11913,15 +11913,15 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "",
-    "rule_decision": "PASS",
-    "rule_score": 10,
+    "rule_decision": "",
+    "rule_score": "",
     "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
-    "source_en": "Current Points: {0}/{1}",
+    "source_en": "Current Weekly Activity Points: {0}/{1}",
     "review_note": "",
-    "new_translation_vi": "Điểm hiện tại: {0}/{1}",
+    "new_translation_vi": "Điểm Hoạt Động Hàng Tuần hiện tại: {0}/{1}",
     "translator_note": ""
   },
   {
@@ -11938,15 +11938,15 @@
     "category": "dialogue",
     "status": "keep_english",
     "issues": "",
-    "rule_decision": "PASS",
-    "rule_score": 10,
+    "rule_decision": "",
+    "rule_score": "",
     "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
-    "source_en": "{0}/{1}",
+    "source_en": "{0}",
     "review_note": "",
-    "new_translation_vi": "{0}/{1}",
+    "new_translation_vi": "{0}",
     "translator_note": ""
   },
   {

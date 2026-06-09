@@ -36,7 +36,7 @@
     "primary_key": "GuideTutorial_32045_GroupName",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -61,7 +61,7 @@
     "primary_key": "GuideTutorial_32046_GroupName",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -111,7 +111,7 @@
     "primary_key": "GuideTutorial_32048_GroupName",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -136,7 +136,7 @@
     "primary_key": "GuideTutorial_32049_GroupName",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -161,7 +161,7 @@
     "primary_key": "GuideTutorial_32050_GroupName",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -186,7 +186,7 @@
     "primary_key": "GuideTutorial_32051_GroupName",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -211,7 +211,7 @@
     "primary_key": "GuideTutorial_32052_GroupName",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -236,7 +236,7 @@
     "primary_key": "GuideTutorial_32053_GroupName",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -261,7 +261,7 @@
     "primary_key": "Tutorial_32045_Title",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -596,7 +596,7 @@
     "ai_reason": "",
     "source_en": "Expedition Motorbike Controls",
     "review_note": "",
-    "new_translation_vi": "Expedition Motorbike Controls",
+    "new_translation_vi": "Expedition Motorbike Điều khiển",
     "translator_note": "keep_proper_name"
   },
   {
@@ -696,7 +696,7 @@
     "ai_reason": "",
     "source_en": "Motorbike Jump",
     "review_note": "",
-    "new_translation_vi": "Motorbike Jump",
+    "new_translation_vi": "Motorbike Nhảy",
     "translator_note": "keep_proper_name"
   },
   {
@@ -1211,7 +1211,7 @@
     "primary_key": "GuideTutorial_34226_GroupName",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1321,7 +1321,7 @@
     "ai_reason": "",
     "source_en": "Motorbike Jump",
     "review_note": "",
-    "new_translation_vi": "Motorbike Jump",
+    "new_translation_vi": "Motorbike Nhảy",
     "translator_note": "keep_proper_name"
   },
   {
@@ -2221,7 +2221,7 @@
     "ai_reason": "",
     "source_en": "Smartprint Cube: Bounce Module",
     "review_note": "",
-    "new_translation_vi": "Smartprint Cube: Bounce Module",
+    "new_translation_vi": "Smartprint Cube: Bounce Mô-đun",
     "translator_note": "keep_proper_name"
   },
   {
@@ -2271,7 +2271,7 @@
     "ai_reason": "",
     "source_en": "Smartprint Cube: Flow Limiter Module",
     "review_note": "",
-    "new_translation_vi": "Smartprint Cube: Flow Limiter Module",
+    "new_translation_vi": "Smartprint Cube: Flow Limiter Mô-đun",
     "translator_note": "keep_proper_name"
   },
   {
@@ -2471,7 +2471,7 @@
     "ai_reason": "",
     "source_en": "Bounce Module",
     "review_note": "",
-    "new_translation_vi": "Bounce Module",
+    "new_translation_vi": "Bounce Mô-đun",
     "translator_note": "keep_proper_name"
   },
   {
@@ -2546,7 +2546,7 @@
     "ai_reason": "",
     "source_en": "Flow Limiter Module",
     "review_note": "",
-    "new_translation_vi": "Flow Limiter Module",
+    "new_translation_vi": "Flow Limiter Mô-đun",
     "translator_note": "keep_proper_name"
   },
   {
@@ -2946,7 +2946,7 @@
     "ai_reason": "",
     "source_en": "Bounce Jump",
     "review_note": "",
-    "new_translation_vi": "Bounce Jump",
+    "new_translation_vi": "Nhảy bật",
     "translator_note": "keep_proper_name"
   },
   {
@@ -3696,7 +3696,7 @@
     "ai_reason": "",
     "source_en": "Repeater Module",
     "review_note": "",
-    "new_translation_vi": "Repeater Module",
+    "new_translation_vi": "Repeater Mô-đun",
     "translator_note": "keep_proper_name"
   },
   {
@@ -3721,7 +3721,7 @@
     "ai_reason": "",
     "source_en": "Shotgun Module",
     "review_note": "",
-    "new_translation_vi": "Shotgun Module",
+    "new_translation_vi": "Shotgun Mô-đun",
     "translator_note": "keep_proper_name"
   },
   {
@@ -4021,7 +4021,7 @@
     "ai_reason": "",
     "source_en": "Zap Module",
     "review_note": "",
-    "new_translation_vi": "Zap Module",
+    "new_translation_vi": "Zap Mô-đun",
     "translator_note": "keep_proper_name"
   },
   {
@@ -4046,7 +4046,7 @@
     "ai_reason": "",
     "source_en": "Repeater Module",
     "review_note": "",
-    "new_translation_vi": "Repeater Module",
+    "new_translation_vi": "Repeater Mô-đun",
     "translator_note": "keep_proper_name"
   },
   {
@@ -4071,7 +4071,7 @@
     "ai_reason": "",
     "source_en": "Shotgun Module",
     "review_note": "",
-    "new_translation_vi": "Shotgun Module",
+    "new_translation_vi": "Shotgun Mô-đun",
     "translator_note": "keep_proper_name"
   },
   {
@@ -4221,7 +4221,7 @@
     "ai_reason": "",
     "source_en": "Card Game: Overview",
     "review_note": "",
-    "new_translation_vi": "Card Game: Overview",
+    "new_translation_vi": "Card Game: Tổng quan",
     "translator_note": "keep_proper_name"
   },
   {
@@ -4721,7 +4721,7 @@
     "ai_reason": "",
     "source_en": "Smartprint Cube: Laser Beam Module",
     "review_note": "",
-    "new_translation_vi": "Smartprint Cube: Laser Beam Module",
+    "new_translation_vi": "Smartprint Cube: Mô-đun tia laser",
     "translator_note": "keep_proper_name"
   },
   {
@@ -4746,7 +4746,7 @@
     "ai_reason": "",
     "source_en": "Smartprint Cube: Digital Shadow Module",
     "review_note": "",
-    "new_translation_vi": "Smartprint Cube: Digital Shadow Module",
+    "new_translation_vi": "Smartprint Cube: Digital Shadow Mô-đun",
     "translator_note": "keep_proper_name"
   },
   {
@@ -4771,7 +4771,7 @@
     "ai_reason": "",
     "source_en": "Smartprint Cube: Digital Shadow Module",
     "review_note": "",
-    "new_translation_vi": "Smartprint Cube: Digital Shadow Module",
+    "new_translation_vi": "Smartprint Cube: Digital Shadow Mô-đun",
     "translator_note": "keep_proper_name"
   },
   {
@@ -4796,7 +4796,7 @@
     "ai_reason": "",
     "source_en": "Smartprint Cube: Laser Beam Module",
     "review_note": "",
-    "new_translation_vi": "Smartprint Cube: Laser Beam Module",
+    "new_translation_vi": "Smartprint Cube: Mô-đun tia laser",
     "translator_note": "keep_proper_name"
   },
   {
@@ -4846,7 +4846,7 @@
     "ai_reason": "",
     "source_en": "New Expansion Module",
     "review_note": "",
-    "new_translation_vi": "New Expansion Module",
+    "new_translation_vi": "Mới Expansion Mô-đun",
     "translator_note": "keep_proper_name"
   },
   {
@@ -4896,7 +4896,7 @@
     "ai_reason": "",
     "source_en": "New Expansion Module",
     "review_note": "",
-    "new_translation_vi": "New Expansion Module",
+    "new_translation_vi": "Mới Expansion Mô-đun",
     "translator_note": "keep_proper_name"
   },
   {
@@ -4921,7 +4921,7 @@
     "ai_reason": "",
     "source_en": "Switch Expansion Module",
     "review_note": "",
-    "new_translation_vi": "Switch Expansion Module",
+    "new_translation_vi": "Switch Expansion Mô-đun",
     "translator_note": "keep_proper_name"
   },
   {
@@ -5086,7 +5086,7 @@
     "primary_key": "GuideTutorial_31013_GroupName",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -5111,7 +5111,7 @@
     "primary_key": "GuideTutorial_32054_GroupName",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -5211,7 +5211,7 @@
     "primary_key": "GuideTutorial_32058_GroupName",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -5371,7 +5371,7 @@
     "ai_reason": "",
     "source_en": "Expedition Motorbike Support Modules",
     "review_note": "",
-    "new_translation_vi": "Expedition Motorbike Support Modules",
+    "new_translation_vi": "Expedition Motorbike Hỗ trợ Modules",
     "translator_note": "keep_proper_name"
   },
   {
@@ -5396,7 +5396,7 @@
     "ai_reason": "",
     "source_en": "Module Adapter",
     "review_note": "",
-    "new_translation_vi": "Module Adapter",
+    "new_translation_vi": "Mô-đun Adapter",
     "translator_note": "keep_proper_name"
   },
   {
@@ -5996,7 +5996,7 @@
     "ai_reason": "",
     "source_en": "Expedition Motorbike Support Modules",
     "review_note": "",
-    "new_translation_vi": "Expedition Motorbike Support Modules",
+    "new_translation_vi": "Expedition Motorbike Hỗ trợ Modules",
     "translator_note": "keep_proper_name"
   },
   {
@@ -6021,7 +6021,7 @@
     "ai_reason": "",
     "source_en": "Module Adapter",
     "review_note": "",
-    "new_translation_vi": "Module Adapter",
+    "new_translation_vi": "Mô-đun Adapter",
     "translator_note": "keep_proper_name"
   },
   {
@@ -6071,7 +6071,7 @@
     "ai_reason": "",
     "source_en": "Stable Adaptive Module",
     "review_note": "",
-    "new_translation_vi": "Stable Adaptive Module",
+    "new_translation_vi": "Stable Adaptive Mô-đun",
     "translator_note": "keep_proper_name"
   },
   {
@@ -6571,7 +6571,7 @@
     "ai_reason": "",
     "source_en": "Exam Details",
     "review_note": "",
-    "new_translation_vi": "Exam Details",
+    "new_translation_vi": "Exam Chi tiết",
     "translator_note": "keep_proper_name"
   },
   {
@@ -7796,7 +7796,7 @@
     "ai_reason": "",
     "source_en": "Overview",
     "review_note": "",
-    "new_translation_vi": "Overview",
+    "new_translation_vi": "Tổng quan",
     "translator_note": "keep_proper_name"
   },
   {
@@ -9221,7 +9221,7 @@
     "ai_reason": "",
     "source_en": "Basic Controls",
     "review_note": "",
-    "new_translation_vi": "Basic Controls",
+    "new_translation_vi": "Basic Điều khiển",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10011,7 +10011,7 @@
     "primary_key": "Tutorial_36091_Title",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10061,7 +10061,7 @@
     "primary_key": "Tutorial_36093_Title",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -10111,7 +10111,7 @@
     "primary_key": "Tutorial_36095_Title",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10186,7 +10186,7 @@
     "primary_key": "Tutorial_36098_Title",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -10211,7 +10211,7 @@
     "primary_key": "Tutorial_36099_Title",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10236,7 +10236,7 @@
     "primary_key": "Tutorial_36100_Title",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -11921,7 +11921,7 @@
     "ai_reason": "",
     "source_en": "Race Instructions",
     "review_note": "",
-    "new_translation_vi": "Race Instructions",
+    "new_translation_vi": "Race Hướng dẫn",
     "translator_note": "keep_proper_name"
   },
   {
@@ -12171,7 +12171,7 @@
     "ai_reason": "",
     "source_en": "Race Overview",
     "review_note": "",
-    "new_translation_vi": "Race Overview",
+    "new_translation_vi": "Race Tổng quan",
     "translator_note": "keep_proper_name"
   },
   {

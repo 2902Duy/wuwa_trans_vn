@@ -311,7 +311,7 @@
     "primary_key": "Text_CharacterVoice_Text",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -871,7 +871,7 @@
     "ai_reason": "",
     "source_en": "Amount",
     "review_note": "",
-    "new_translation_vi": "Amount",
+    "new_translation_vi": "Số lượng",
     "translator_note": "keep_proper_name"
   },
   {
@@ -1086,7 +1086,7 @@
     "primary_key": "Text_CookingHeadline_Text",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1146,7 +1146,7 @@
     "ai_reason": "",
     "source_en": "Locked",
     "review_note": "",
-    "new_translation_vi": "Locked",
+    "new_translation_vi": "Đã khóa",
     "translator_note": "keep_proper_name"
   },
   {
@@ -1171,7 +1171,7 @@
     "ai_reason": "",
     "source_en": "Locked",
     "review_note": "",
-    "new_translation_vi": "Locked",
+    "new_translation_vi": "Đã khóa",
     "translator_note": "keep_proper_name"
   },
   {
@@ -1571,7 +1571,7 @@
     "ai_reason": "",
     "source_en": "Details",
     "review_note": "",
-    "new_translation_vi": "Details",
+    "new_translation_vi": "Chi tiết",
     "translator_note": "keep_proper_name"
   },
   {
@@ -2096,7 +2096,7 @@
     "ai_reason": "",
     "source_en": "Edit Team",
     "review_note": "",
-    "new_translation_vi": "Edit Team",
+    "new_translation_vi": "Edit Đội",
     "translator_note": "keep_proper_name"
   },
   {
@@ -2196,7 +2196,7 @@
     "ai_reason": "",
     "source_en": "Deploy",
     "review_note": "",
-    "new_translation_vi": "Deploy",
+    "new_translation_vi": "Triển khai",
     "translator_note": "keep_proper_name"
   },
   {
@@ -2286,7 +2286,7 @@
     "primary_key": "Text_Eight_Text",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -2411,7 +2411,7 @@
     "primary_key": "Text_Element_5_Text",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -3271,7 +3271,7 @@
     "ai_reason": "",
     "source_en": "Cherished Items",
     "review_note": "",
-    "new_translation_vi": "Cherished Items",
+    "new_translation_vi": "Cherished Vật phẩm",
     "translator_note": "keep_proper_name"
   },
   {
@@ -3371,7 +3371,7 @@
     "ai_reason": "",
     "source_en": "Entry Locked",
     "review_note": "",
-    "new_translation_vi": "Entry Locked",
+    "new_translation_vi": "Entry Đã khóa",
     "translator_note": "keep_proper_name"
   },
   {
@@ -3421,7 +3421,7 @@
     "ai_reason": "",
     "source_en": "Entry Locked",
     "review_note": "",
-    "new_translation_vi": "Entry Locked",
+    "new_translation_vi": "Entry Đã khóa",
     "translator_note": "keep_proper_name"
   },
   {
@@ -3446,7 +3446,7 @@
     "ai_reason": "",
     "source_en": "Entry Locked",
     "review_note": "",
-    "new_translation_vi": "Entry Locked",
+    "new_translation_vi": "Entry Đã khóa",
     "translator_note": "keep_proper_name"
   },
   {
@@ -3471,7 +3471,7 @@
     "ai_reason": "",
     "source_en": "Entry Locked",
     "review_note": "",
-    "new_translation_vi": "Entry Locked",
+    "new_translation_vi": "Entry Đã khóa",
     "translator_note": "keep_proper_name"
   },
   {
@@ -3936,7 +3936,7 @@
     "primary_key": "Text_Five_Text",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -4211,7 +4211,7 @@
     "primary_key": "Text_Four_Text",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -4421,7 +4421,7 @@
     "ai_reason": "",
     "source_en": "Friends",
     "review_note": "",
-    "new_translation_vi": "Friends",
+    "new_translation_vi": "Bạn bè",
     "translator_note": "keep_proper_name"
   },
   {
@@ -4986,7 +4986,7 @@
     "primary_key": "Text_GachaTagText2_Text",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5011,7 +5011,7 @@
     "primary_key": "Text_GachaTagText6_Text",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5521,7 +5521,7 @@
     "ai_reason": "",
     "source_en": "Items Obtained",
     "review_note": "",
-    "new_translation_vi": "Items Obtained",
+    "new_translation_vi": "Vật phẩm Obtained",
     "translator_note": "keep_proper_name"
   },
   {
@@ -5696,7 +5696,7 @@
     "ai_reason": "",
     "source_en": "Gallery",
     "review_note": "",
-    "new_translation_vi": "Gallery",
+    "new_translation_vi": "Bộ sưu tập",
     "translator_note": "keep_proper_name"
   },
   {
@@ -7021,7 +7021,7 @@
     "ai_reason": "",
     "source_en": "Continue",
     "review_note": "",
-    "new_translation_vi": "Continue",
+    "new_translation_vi": "Tiếp tục",
     "translator_note": "keep_proper_name"
   },
   {
@@ -7111,7 +7111,7 @@
     "primary_key": "Text_Leave_Text",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7321,7 +7321,7 @@
     "ai_reason": "",
     "source_en": "Retry",
     "review_note": "",
-    "new_translation_vi": "Retry",
+    "new_translation_vi": "Thử lại",
     "translator_note": "keep_proper_name"
   },
   {
@@ -7471,7 +7471,7 @@
     "ai_reason": "",
     "source_en": "Culinary Research",
     "review_note": "",
-    "new_translation_vi": "Culinary Research",
+    "new_translation_vi": "Culinary Nghiên cứu",
     "translator_note": "keep_proper_name"
   },
   {
@@ -7621,7 +7621,7 @@
     "ai_reason": "",
     "source_en": "Items Obtained",
     "review_note": "",
-    "new_translation_vi": "Items Obtained",
+    "new_translation_vi": "Vật phẩm Obtained",
     "translator_note": "keep_proper_name"
   },
   {
@@ -8711,7 +8711,7 @@
     "primary_key": "Text_Nine_Text",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -8946,7 +8946,7 @@
     "ai_reason": "",
     "source_en": "Deploy",
     "review_note": "",
-    "new_translation_vi": "Deploy",
+    "new_translation_vi": "Triển khai",
     "translator_note": "keep_proper_name"
   },
   {
@@ -9146,7 +9146,7 @@
     "ai_reason": "",
     "source_en": "Unavailable Area",
     "review_note": "",
-    "new_translation_vi": "Unavailable Area",
+    "new_translation_vi": "Không khả dụng Area",
     "translator_note": "keep_proper_name"
   },
   {
@@ -9186,7 +9186,7 @@
     "primary_key": "Text_One_Text",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9496,7 +9496,7 @@
     "ai_reason": "",
     "source_en": "Friends Only",
     "review_note": "",
-    "new_translation_vi": "Friends Only",
+    "new_translation_vi": "Bạn bè Only",
     "translator_note": "keep_proper_name"
   },
   {
@@ -9596,7 +9596,7 @@
     "ai_reason": "",
     "source_en": "Remove",
     "review_note": "",
-    "new_translation_vi": "Remove",
+    "new_translation_vi": "Gỡ",
     "translator_note": "keep_proper_name"
   },
   {
@@ -9671,7 +9671,7 @@
     "ai_reason": "",
     "source_en": "Sonata Details",
     "review_note": "",
-    "new_translation_vi": "Sonata Details",
+    "new_translation_vi": "Sonata Chi tiết",
     "translator_note": "keep_proper_name"
   },
   {
@@ -9896,7 +9896,7 @@
     "ai_reason": "",
     "source_en": "Locked",
     "review_note": "",
-    "new_translation_vi": "Locked",
+    "new_translation_vi": "Đã khóa",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10046,7 +10046,7 @@
     "ai_reason": "",
     "source_en": "Remove",
     "review_note": "",
-    "new_translation_vi": "Remove",
+    "new_translation_vi": "Gỡ",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10071,7 +10071,7 @@
     "ai_reason": "",
     "source_en": "Unlock",
     "review_note": "",
-    "new_translation_vi": "Unlock",
+    "new_translation_vi": "Mở khóa",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11271,7 +11271,7 @@
     "ai_reason": "",
     "source_en": "Research",
     "review_note": "",
-    "new_translation_vi": "Research",
+    "new_translation_vi": "Nghiên cứu",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11561,7 +11561,7 @@
     "primary_key": "Text_ReviveTrainingItemBad_Text",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -11961,7 +11961,7 @@
     "primary_key": "Text_RoleFragment_Text",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,

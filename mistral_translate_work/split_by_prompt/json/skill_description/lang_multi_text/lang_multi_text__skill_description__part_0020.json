@@ -1746,7 +1746,7 @@
     "ai_reason": "",
     "source_en": "Cooldown",
     "review_note": "",
-    "new_translation_vi": "Cooldown",
+    "new_translation_vi": "Thời gian hồi chiêu",
     "translator_note": ""
   },
   {
@@ -1786,7 +1786,7 @@
     "primary_key": "SkillDescription_1412018_AttributeName",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1836,7 +1836,7 @@
     "primary_key": "SkillDescription_1412020_AttributeName",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4511,7 +4511,7 @@
     "primary_key": "SkillDescription_1108046_AttributeName",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5271,7 +5271,7 @@
     "ai_reason": "",
     "source_en": "Scales up the Off-Tune Level accumulated on targets through certain skills.",
     "review_note": "",
-    "new_translation_vi": "Scales up the Off-Tune Level accumulated on targets through certain skills.",
+    "new_translation_vi": "Tăng cấp độ Off-Tune tích lũy trên mục tiêu thông qua các kỹ năng nhất định.",
     "translator_note": ""
   },
   {
@@ -5296,7 +5296,7 @@
     "ai_reason": "",
     "source_en": "Tune Break Boost increases Tune Break DMG and the DMG dealt to Interfered targets",
     "review_note": "",
-    "new_translation_vi": "Tune Break Boost increases Tune Break DMG and the DMG dealt to Interfered targets",
+    "new_translation_vi": "Tune Break Boost tăng Tune Break DMG và DMG gây ra cho các mục tiêu bị Interfered",
     "translator_note": ""
   },
   {
@@ -9136,7 +9136,7 @@
     "primary_key": "WheelBattle_BUFF14_Name_TeamFeature",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,

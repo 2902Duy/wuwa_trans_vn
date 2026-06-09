@@ -1811,7 +1811,7 @@
     "primary_key": "Farm_CardType1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2671,7 +2671,7 @@
     "ai_reason": "",
     "source_en": "Skip",
     "review_note": "",
-    "new_translation_vi": "Skip",
+    "new_translation_vi": "Bỏ qua",
     "translator_note": "keep_proper_name"
   },
   {
@@ -2821,7 +2821,7 @@
     "ai_reason": "",
     "source_en": "Unlock",
     "review_note": "",
-    "new_translation_vi": "Unlock",
+    "new_translation_vi": "Mở khóa",
     "translator_note": "keep_proper_name"
   },
   {
@@ -3046,7 +3046,7 @@
     "ai_reason": "",
     "source_en": "Backpack",
     "review_note": "",
-    "new_translation_vi": "Backpack",
+    "new_translation_vi": "Túi đồ",
     "translator_note": "keep_proper_name"
   },
   {
@@ -3246,7 +3246,7 @@
     "ai_reason": "",
     "source_en": "View (Auto-discarded)",
     "review_note": "",
-    "new_translation_vi": "View (Auto-discarded)",
+    "new_translation_vi": "Xem (Auto-discarded)",
     "translator_note": "keep_proper_name"
   },
   {
@@ -3271,7 +3271,7 @@
     "ai_reason": "",
     "source_en": "View (Auto-locked)",
     "review_note": "",
-    "new_translation_vi": "View (Auto-locked)",
+    "new_translation_vi": "Xem (Auto-locked)",
     "translator_note": "keep_proper_name"
   },
   {
@@ -6471,7 +6471,7 @@
     "ai_reason": "",
     "source_en": "Locked",
     "review_note": "",
-    "new_translation_vi": "Locked",
+    "new_translation_vi": "Đã khóa",
     "translator_note": "keep_proper_name"
   },
   {
@@ -7771,7 +7771,7 @@
     "ai_reason": "",
     "source_en": "Join Team: I",
     "review_note": "",
-    "new_translation_vi": "Join Team: I",
+    "new_translation_vi": "Join Đội: I",
     "translator_note": "keep_proper_name"
   },
   {
@@ -7796,7 +7796,7 @@
     "ai_reason": "",
     "source_en": "Join Team: II",
     "review_note": "",
-    "new_translation_vi": "Join Team: II",
+    "new_translation_vi": "Join Đội: II",
     "translator_note": "keep_proper_name"
   },
   {
@@ -7821,7 +7821,7 @@
     "ai_reason": "",
     "source_en": "Join Team: III",
     "review_note": "",
-    "new_translation_vi": "Join Team: III",
+    "new_translation_vi": "Join Đội: III",
     "translator_note": "keep_proper_name"
   },
   {
@@ -8696,7 +8696,7 @@
     "ai_reason": "",
     "source_en": "Echo Transform",
     "review_note": "",
-    "new_translation_vi": "Echo Transform",
+    "new_translation_vi": "Echo Biến đổi",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10521,7 +10521,7 @@
     "ai_reason": "",
     "source_en": "Deploy",
     "review_note": "",
-    "new_translation_vi": "Deploy",
+    "new_translation_vi": "Triển khai",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10896,7 +10896,7 @@
     "ai_reason": "",
     "source_en": "Locked",
     "review_note": "",
-    "new_translation_vi": "Locked",
+    "new_translation_vi": "Đã khóa",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10971,7 +10971,7 @@
     "ai_reason": "",
     "source_en": "Tactics Overview",
     "review_note": "",
-    "new_translation_vi": "Tactics Overview",
+    "new_translation_vi": "Tactics Tổng quan",
     "translator_note": "keep_proper_name"
   },
   {
@@ -12021,7 +12021,7 @@
     "ai_reason": "",
     "source_en": "Basic Module",
     "review_note": "",
-    "new_translation_vi": "Basic Module",
+    "new_translation_vi": "Basic Mô-đun",
     "translator_note": "keep_proper_name"
   },
   {
@@ -12046,7 +12046,7 @@
     "ai_reason": "",
     "source_en": "Optional Module I",
     "review_note": "",
-    "new_translation_vi": "Optional Module I",
+    "new_translation_vi": "Optional Mô-đun I",
     "translator_note": "keep_proper_name"
   },
   {
@@ -12071,7 +12071,7 @@
     "ai_reason": "",
     "source_en": "Optional Module II",
     "review_note": "",
-    "new_translation_vi": "Optional Module II",
+    "new_translation_vi": "Optional Mô-đun II",
     "translator_note": "keep_proper_name"
   },
   {

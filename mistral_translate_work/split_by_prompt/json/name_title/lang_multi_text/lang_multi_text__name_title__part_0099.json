@@ -121,7 +121,7 @@
     "ai_reason": "",
     "source_en": "Join Team: I",
     "review_note": "",
-    "new_translation_vi": "Join Team: I",
+    "new_translation_vi": "Join Đội: I",
     "translator_note": "keep_proper_name"
   },
   {
@@ -146,7 +146,7 @@
     "ai_reason": "",
     "source_en": "Join Team: II",
     "review_note": "",
-    "new_translation_vi": "Join Team: II",
+    "new_translation_vi": "Join Đội: II",
     "translator_note": "keep_proper_name"
   },
   {
@@ -171,7 +171,7 @@
     "ai_reason": "",
     "source_en": "Join Team: III",
     "review_note": "",
-    "new_translation_vi": "Join Team: III",
+    "new_translation_vi": "Join Đội: III",
     "translator_note": "keep_proper_name"
   },
   {
@@ -786,7 +786,7 @@
     "primary_key": "FavorWord_141251_Title",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -886,7 +886,7 @@
     "primary_key": "FavorWord_141255_Title",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1171,7 +1171,7 @@
     "ai_reason": "",
     "source_en": "Echo Transform",
     "review_note": "",
-    "new_translation_vi": "Echo Transform",
+    "new_translation_vi": "Echo Biến đổi",
     "translator_note": "keep_proper_name"
   },
   {
@@ -1661,7 +1661,7 @@
     "primary_key": "CoinCatch_Character_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -1686,7 +1686,7 @@
     "primary_key": "CoinCatch_Character_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -1711,7 +1711,7 @@
     "primary_key": "CoinCatch_Character_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1736,7 +1736,7 @@
     "primary_key": "CoinCatch_Character_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -1761,7 +1761,7 @@
     "primary_key": "CoinCatch_Character_5",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -1786,7 +1786,7 @@
     "primary_key": "CoinCatch_Character_6",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -1811,7 +1811,7 @@
     "primary_key": "CoinCatch_Character_7",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -1896,7 +1896,7 @@
     "ai_reason": "",
     "source_en": "Locked",
     "review_note": "",
-    "new_translation_vi": "Locked",
+    "new_translation_vi": "Đã khóa",
     "translator_note": "keep_proper_name"
   },
   {
@@ -1996,7 +1996,7 @@
     "ai_reason": "",
     "source_en": "Batch Unlock",
     "review_note": "",
-    "new_translation_vi": "Batch Unlock",
+    "new_translation_vi": "Batch Mở khóa",
     "translator_note": "keep_proper_name"
   },
   {
@@ -2146,7 +2146,7 @@
     "ai_reason": "",
     "source_en": "Batch Unlock Confirmation",
     "review_note": "",
-    "new_translation_vi": "Batch Unlock Confirmation",
+    "new_translation_vi": "Batch Mở khóa Confirmation",
     "translator_note": "keep_proper_name"
   },
   {
@@ -2371,7 +2371,7 @@
     "ai_reason": "",
     "source_en": "Unlock Charged Leap",
     "review_note": "",
-    "new_translation_vi": "Unlock Charged Leap",
+    "new_translation_vi": "Mở khóa Charged Leap",
     "translator_note": "keep_proper_name"
   },
   {
@@ -2621,7 +2621,7 @@
     "ai_reason": "",
     "source_en": "Life Support Module",
     "review_note": "",
-    "new_translation_vi": "Life Support Module",
+    "new_translation_vi": "Life Hỗ trợ Mô-đun",
     "translator_note": "keep_proper_name"
   },
   {
@@ -2996,7 +2996,7 @@
     "ai_reason": "",
     "source_en": "Team {0}",
     "review_note": "",
-    "new_translation_vi": "Team {0}",
+    "new_translation_vi": "Đội {0}",
     "translator_note": "keep_proper_name"
   },
   {
@@ -5011,7 +5011,7 @@
     "primary_key": "FavorRoleInfo_1108_Country",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -5236,7 +5236,7 @@
     "primary_key": "FavorRoleInfo_1211_Country",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -6396,7 +6396,7 @@
     "ai_reason": "",
     "source_en": "Join Team: I",
     "review_note": "",
-    "new_translation_vi": "Join Team: I",
+    "new_translation_vi": "Join Đội: I",
     "translator_note": "keep_proper_name"
   },
   {
@@ -6421,7 +6421,7 @@
     "ai_reason": "",
     "source_en": "Join Team: II",
     "review_note": "",
-    "new_translation_vi": "Join Team: II",
+    "new_translation_vi": "Join Đội: II",
     "translator_note": "keep_proper_name"
   },
   {
@@ -6446,7 +6446,7 @@
     "ai_reason": "",
     "source_en": "Join Team: III",
     "review_note": "",
-    "new_translation_vi": "Join Team: III",
+    "new_translation_vi": "Join Đội: III",
     "translator_note": "keep_proper_name"
   },
   {
@@ -7361,7 +7361,7 @@
     "primary_key": "FavorWord_110864_Title",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7646,7 +7646,7 @@
     "ai_reason": "",
     "source_en": "Echo Transform",
     "review_note": "",
-    "new_translation_vi": "Echo Transform",
+    "new_translation_vi": "Echo Biến đổi",
     "translator_note": "keep_proper_name"
   },
   {
@@ -8496,7 +8496,7 @@
     "ai_reason": "",
     "source_en": "Join Team: I",
     "review_note": "",
-    "new_translation_vi": "Join Team: I",
+    "new_translation_vi": "Join Đội: I",
     "translator_note": "keep_proper_name"
   },
   {
@@ -8521,7 +8521,7 @@
     "ai_reason": "",
     "source_en": "Join Team: II",
     "review_note": "",
-    "new_translation_vi": "Join Team: II",
+    "new_translation_vi": "Join Đội: II",
     "translator_note": "keep_proper_name"
   },
   {
@@ -8546,7 +8546,7 @@
     "ai_reason": "",
     "source_en": "Join Team: III",
     "review_note": "",
-    "new_translation_vi": "Join Team: III",
+    "new_translation_vi": "Join Đội: III",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10021,7 +10021,7 @@
     "ai_reason": "",
     "source_en": "Echo Transform",
     "review_note": "",
-    "new_translation_vi": "Echo Transform",
+    "new_translation_vi": "Echo Biến đổi",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10721,7 +10721,7 @@
     "ai_reason": "",
     "source_en": "Remove",
     "review_note": "",
-    "new_translation_vi": "Remove",
+    "new_translation_vi": "Gỡ",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10821,7 +10821,7 @@
     "ai_reason": "",
     "source_en": "View Outfit",
     "review_note": "",
-    "new_translation_vi": "View Outfit",
+    "new_translation_vi": "Xem Outfit",
     "translator_note": "keep_proper_name"
   },
   {
@@ -12071,7 +12071,7 @@
     "ai_reason": "",
     "source_en": "Expedition Motorbike Aerial Tactics Module",
     "review_note": "",
-    "new_translation_vi": "Expedition Motorbike Aerial Tactics Module",
+    "new_translation_vi": "Expedition Motorbike Aerial Tactics Mô-đun",
     "translator_note": "keep_proper_name"
   },
   {

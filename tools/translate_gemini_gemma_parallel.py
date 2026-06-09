@@ -29,12 +29,19 @@ WORKSPACE_DIR = Path(r"C:\Users\tduy2\Documents\antigravity\silly-darwin")
 WORK_DIR = WORKSPACE_DIR / "mistral_translate_work"
 
 TARGET_DIRS = {
-    "ui":             WORK_DIR / "split_by_prompt" / "json" / "ui",
-    "item":           WORK_DIR / "split_by_prompt" / "json" / "item",
-    "system_text":    WORK_DIR / "split_by_prompt" / "json" / "system_text",
-    "quest":          WORK_DIR / "split_by_prompt" / "json" / "quest",
-    "lore":           WORK_DIR / "split_by_prompt" / "json" / "lore",
-    "story_dialogue": WORK_DIR / "split_by_prompt" / "json" / "story_dialogue",
+    "ui":                  WORK_DIR / "split_by_prompt" / "json" / "ui",
+    "item":                WORK_DIR / "split_by_prompt" / "json" / "item",
+    "system_text":         WORK_DIR / "split_by_prompt" / "json" / "system_text",
+    "quest":               WORK_DIR / "split_by_prompt" / "json" / "quest",
+    "lore":                WORK_DIR / "split_by_prompt" / "json" / "lore",
+    "story_dialogue":      WORK_DIR / "split_by_prompt" / "json" / "story_dialogue",
+    "skill_description":   WORK_DIR / "split_by_prompt" / "json" / "skill_description",
+    "name_title":          WORK_DIR / "split_by_prompt" / "json" / "name_title",
+    "weapon":              WORK_DIR / "split_by_prompt" / "json" / "weapon",
+    "rc_description":      WORK_DIR / "split_by_prompt" / "json" / "rc_description",
+    "monster_description": WORK_DIR / "split_by_prompt" / "json" / "monster_description",
+    "echo_set":            WORK_DIR / "split_by_prompt" / "json" / "echo_set",
+    "phantom_skill":       WORK_DIR / "split_by_prompt" / "json" / "phantom_skill",
 }
 
 # ── Compact system prompt (no heavy doc attachment) ───────────────────
@@ -435,7 +442,7 @@ def translate_batch(pool: SlotPool, batch: list, system_instr: str) -> dict:
     raise RuntimeError(f"All slots failed: {last_err}")
 
 # ── Domain runners ────────────────────────────────────────────────────
-def collect_untranslated(domain: str) -> list:
+def collect_untranslated(domain: str, only_empty: bool = False) -> list:
     items = []
     for path in sorted(TARGET_DIRS[domain].rglob("*.json")):
         rows = json.loads(path.read_text(encoding="utf-8"))
@@ -443,7 +450,10 @@ def collect_untranslated(domain: str) -> list:
             src = row.get("source_en", "")
             vi = row.get("new_translation_vi", "")
             if not src: continue
-            if vi and vi != src: continue
+            if only_empty:
+                if vi: continue
+            else:
+                if vi and vi != src: continue
             if is_keep_english(src): continue
             items.append({
                 "file": path, "row_index": idx,
@@ -478,11 +488,11 @@ def flush_writes(pending: dict):
         path.write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8")
 
 def run_domain(domain: str, pool: SlotPool, batch_size: int,
-               workers: int, batch_delay: float):
+               workers: int, batch_delay: float, only_empty: bool = False):
     print(f"\n{'='*60}\n  Domain: {domain.upper()}\n{'='*60}")
     ke = apply_keep_english(domain)
     print(f"  Auto keep-English: {ke} files.")
-    items = collect_untranslated(domain)
+    items = collect_untranslated(domain, only_empty)
     print(f"  Rows for LLM: {len(items)}")
     if not items:
         print("  ✓ Nothing to translate.")
@@ -540,7 +550,10 @@ def main():
     parser.add_argument("--batch-delay", type=float, default=0.3)
     parser.add_argument("--domains", nargs="+",
                         default=["ui", "item", "system_text", "quest", "lore"],
-                        choices=["ui", "item", "system_text", "quest", "lore", "story_dialogue"])
+                        choices=["ui", "item", "system_text", "quest", "lore", "story_dialogue",
+                                 "skill_description", "name_title", "weapon", "rc_description",
+                                 "monster_description", "echo_set", "phantom_skill"])
+    parser.add_argument("--only-empty",  action="store_true", help="Only translate rows with empty new_translation_vi")
     args = parser.parse_args()
 
     keys = load_keys()
@@ -550,7 +563,7 @@ def main():
     pool = SlotPool(keys)
     print(f"Keys: {len(keys)} × {len(SlotPool.MODELS)} models = {len(pool.slots)} slots")
     print(f"Models: {', '.join(SlotPool.MODELS)}")
-    print(f"Domains: {args.domains}  batch={args.batch_size}  workers={args.workers}")
+    print(f"Domains: {args.domains}  batch={args.batch_size}  workers={args.workers}  only-empty={args.only_empty}")
 
     initialize_keep_english_rules()
 
@@ -558,7 +571,7 @@ def main():
         if not TARGET_DIRS[domain].exists():
             print(f"\nSkipping {domain} — not found.")
             continue
-        run_domain(domain, pool, args.batch_size, args.workers, args.batch_delay)
+        run_domain(domain, pool, args.batch_size, args.workers, args.batch_delay, args.only_empty)
 
     print("\n✅ All done!")
 

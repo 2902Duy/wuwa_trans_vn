@@ -911,7 +911,7 @@
     "primary_key": "Entity_f8cd393b6f409cd272a8ea06d3836355feace3be5dfbdc9a3d4e1f700464d68f",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -936,7 +936,7 @@
     "primary_key": "Entity_f8db2b443a3957af03378a2e5f3185d0da86f124d29f6f5b0cf4b26ba7ce7a11",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1036,7 +1036,7 @@
     "primary_key": "Entity_f91712a11b8e37ced7d2ba646411f4b4105f103a2f0b7d29c06dd71ce6457a5d",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1561,7 +1561,7 @@
     "primary_key": "Entity_fa7ade518211dd6733e8a2d44869253b923c79290dff312570d2ec0bad37f8a9",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1961,7 +1961,7 @@
     "primary_key": "Entity_fb5f8275049fed17ff2431ed08bb48402840b548cd96b5ee9ba901c61800e513",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -2186,7 +2186,7 @@
     "primary_key": "Entity_fbe55c9bcae53df16e509764387cdf5f8dbaff78b3ec900a9a0b3a6c41e8e717",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -2436,7 +2436,7 @@
     "primary_key": "Entity_fc5ecef660d9b6436dde12e9abba59efbf7cb5c276c2f1faaa1a81cc0dd6a30e",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2511,7 +2511,7 @@
     "primary_key": "Entity_fca367041ec217bdf3880b1cdd54eb8d2b4370e77d3d854c3ef183c4ab6f4e79",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2536,7 +2536,7 @@
     "primary_key": "Entity_fcb24da43248afed7a1d40646cc4312cc3590dac9155dac4acbcda9d2039a6b9",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2686,7 +2686,7 @@
     "primary_key": "Entity_fd34aa05ae8064521c9001b56c40883e11a3c29c01c621c89a1593d4af786483",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3361,7 +3361,7 @@
     "primary_key": "Entity_fe3f64fbabfa5f58466fc390e0708712a5f06253cd2ec342d3a3a19e9980c769",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3886,7 +3886,7 @@
     "primary_key": "Entity_ff499fcbae6466f217013d42d51f00f7234a1bb8460b910431e93dbd1a08fe1a",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3986,7 +3986,7 @@
     "primary_key": "Entity_ff5a1ae012afa5d4c889c50ad427aaf545d31a4fac04ffc1c4d03d403ba4250a",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -4486,7 +4486,7 @@
     "primary_key": "ComboTeaching_11020201_IconText_0",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -4546,7 +4546,7 @@
     "ai_reason": "",
     "source_en": "Jump",
     "review_note": "",
-    "new_translation_vi": "Jump",
+    "new_translation_vi": "Nhảy",
     "translator_note": "keep_proper_name"
   },
   {
@@ -4736,7 +4736,7 @@
     "primary_key": "ComboTeaching_11030201_IconText_0",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -4971,7 +4971,7 @@
     "ai_reason": "",
     "source_en": "Hold",
     "review_note": "",
-    "new_translation_vi": "Hold",
+    "new_translation_vi": "Giữ",
     "translator_note": "keep_proper_name"
   },
   {
@@ -4986,7 +4986,7 @@
     "primary_key": "ComboTeaching_12020303_IconText_0",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -5011,7 +5011,7 @@
     "primary_key": "ComboTeaching_12020401_IconText_0",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -5061,7 +5061,7 @@
     "primary_key": "ComboTeaching_12020501_IconText_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -5086,7 +5086,7 @@
     "primary_key": "ComboTeaching_12020501_IconText_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -5321,7 +5321,7 @@
     "ai_reason": "",
     "source_en": "Hold",
     "review_note": "",
-    "new_translation_vi": "Hold",
+    "new_translation_vi": "Giữ",
     "translator_note": "keep_proper_name"
   },
   {
@@ -5361,7 +5361,7 @@
     "primary_key": "ComboTeaching_12030201_IconText_0",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -5396,7 +5396,7 @@
     "ai_reason": "",
     "source_en": "Jump",
     "review_note": "",
-    "new_translation_vi": "Jump",
+    "new_translation_vi": "Nhảy",
     "translator_note": "keep_proper_name"
   },
   {
@@ -5461,7 +5461,7 @@
     "primary_key": "ComboTeaching_12030501_IconText_0",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -5621,7 +5621,7 @@
     "ai_reason": "",
     "source_en": "Hold",
     "review_note": "",
-    "new_translation_vi": "Hold",
+    "new_translation_vi": "Giữ",
     "translator_note": "keep_proper_name"
   },
   {
@@ -5936,7 +5936,7 @@
     "primary_key": "ComboTeaching_13010403_IconText_0",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -5961,7 +5961,7 @@
     "primary_key": "ComboTeaching_13010501_IconText_0",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -5986,7 +5986,7 @@
     "primary_key": "ComboTeaching_13020501_IconText_0",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -6146,7 +6146,7 @@
     "ai_reason": "",
     "source_en": "Hold",
     "review_note": "",
-    "new_translation_vi": "Hold",
+    "new_translation_vi": "Giữ",
     "translator_note": "keep_proper_name"
   },
   {
@@ -6161,7 +6161,7 @@
     "primary_key": "ComboTeaching_13030201_IconText_0",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -6196,7 +6196,7 @@
     "ai_reason": "",
     "source_en": "Jump",
     "review_note": "",
-    "new_translation_vi": "Jump",
+    "new_translation_vi": "Nhảy",
     "translator_note": "keep_proper_name"
   },
   {
@@ -6371,7 +6371,7 @@
     "ai_reason": "",
     "source_en": "Hold",
     "review_note": "",
-    "new_translation_vi": "Hold",
+    "new_translation_vi": "Giữ",
     "translator_note": "keep_proper_name"
   },
   {
@@ -6521,7 +6521,7 @@
     "ai_reason": "",
     "source_en": "Hold",
     "review_note": "",
-    "new_translation_vi": "Hold",
+    "new_translation_vi": "Giữ",
     "translator_note": "keep_proper_name"
   },
   {
@@ -6546,7 +6546,7 @@
     "ai_reason": "",
     "source_en": "Hold",
     "review_note": "",
-    "new_translation_vi": "Hold",
+    "new_translation_vi": "Giữ",
     "translator_note": "keep_proper_name"
   },
   {
@@ -6561,7 +6561,7 @@
     "primary_key": "ComboTeaching_13030701_IconText_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -6586,7 +6586,7 @@
     "primary_key": "ComboTeaching_13030701_IconText_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -6746,7 +6746,7 @@
     "ai_reason": "",
     "source_en": "Hold",
     "review_note": "",
-    "new_translation_vi": "Hold",
+    "new_translation_vi": "Giữ",
     "translator_note": "keep_proper_name"
   },
   {
@@ -6761,7 +6761,7 @@
     "primary_key": "ComboTeaching_14020301_IconText_0",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -6821,7 +6821,7 @@
     "ai_reason": "",
     "source_en": "Hold",
     "review_note": "",
-    "new_translation_vi": "Hold",
+    "new_translation_vi": "Giữ",
     "translator_note": "keep_proper_name"
   },
   {
@@ -6836,7 +6836,7 @@
     "primary_key": "ComboTeaching_14020401_IconText_0",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -6896,7 +6896,7 @@
     "ai_reason": "",
     "source_en": "Jump",
     "review_note": "",
-    "new_translation_vi": "Jump",
+    "new_translation_vi": "Nhảy",
     "translator_note": "keep_proper_name"
   },
   {
@@ -7321,7 +7321,7 @@
     "ai_reason": "",
     "source_en": "Jump",
     "review_note": "",
-    "new_translation_vi": "Jump",
+    "new_translation_vi": "Nhảy",
     "translator_note": "keep_proper_name"
   },
   {
@@ -7371,7 +7371,7 @@
     "ai_reason": "",
     "source_en": "Hold",
     "review_note": "",
-    "new_translation_vi": "Hold",
+    "new_translation_vi": "Giữ",
     "translator_note": "keep_proper_name"
   },
   {
@@ -7421,7 +7421,7 @@
     "ai_reason": "",
     "source_en": "Hold",
     "review_note": "",
-    "new_translation_vi": "Hold",
+    "new_translation_vi": "Giữ",
     "translator_note": "keep_proper_name"
   },
   {
@@ -7461,7 +7461,7 @@
     "primary_key": "ComboTeaching_14021701_IconText_0",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -7496,7 +7496,7 @@
     "ai_reason": "",
     "source_en": "Jump",
     "review_note": "",
-    "new_translation_vi": "Jump",
+    "new_translation_vi": "Nhảy",
     "translator_note": "keep_proper_name"
   },
   {
@@ -7671,7 +7671,7 @@
     "ai_reason": "",
     "source_en": "Hold",
     "review_note": "",
-    "new_translation_vi": "Hold",
+    "new_translation_vi": "Giữ",
     "translator_note": "keep_proper_name"
   },
   {
@@ -7686,7 +7686,7 @@
     "primary_key": "ComboTeaching_14030301_IconText_0",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -7836,7 +7836,7 @@
     "primary_key": "ComboTeaching_14030401_IconText_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -7921,7 +7921,7 @@
     "ai_reason": "",
     "source_en": "Jump",
     "review_note": "",
-    "new_translation_vi": "Jump",
+    "new_translation_vi": "Nhảy",
     "translator_note": "keep_proper_name"
   },
   {
@@ -8186,7 +8186,7 @@
     "primary_key": "ComboTeaching_14040202_IconText_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -8221,7 +8221,7 @@
     "ai_reason": "",
     "source_en": "Jump",
     "review_note": "",
-    "new_translation_vi": "Jump",
+    "new_translation_vi": "Nhảy",
     "translator_note": "keep_proper_name"
   },
   {
@@ -8246,7 +8246,7 @@
     "ai_reason": "",
     "source_en": "Hold",
     "review_note": "",
-    "new_translation_vi": "Hold",
+    "new_translation_vi": "Giữ",
     "translator_note": "keep_proper_name"
   },
   {
@@ -8296,7 +8296,7 @@
     "ai_reason": "",
     "source_en": "Hold",
     "review_note": "",
-    "new_translation_vi": "Hold",
+    "new_translation_vi": "Giữ",
     "translator_note": "keep_proper_name"
   },
   {
@@ -8361,7 +8361,7 @@
     "primary_key": "ComboTeaching_14040401_IconText_0",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -8386,7 +8386,7 @@
     "primary_key": "ComboTeaching_14040401_IconText_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -8436,7 +8436,7 @@
     "primary_key": "ComboTeaching_14040501_IconText_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -8461,7 +8461,7 @@
     "primary_key": "ComboTeaching_14040501_IconText_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -8486,7 +8486,7 @@
     "primary_key": "ComboTeaching_14040501_IconText_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -8561,7 +8561,7 @@
     "primary_key": "ComboTeaching_14040502_IconText_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -8586,7 +8586,7 @@
     "primary_key": "ComboTeaching_14040502_IconText_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -8611,7 +8611,7 @@
     "primary_key": "ComboTeaching_14040502_IconText_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -8646,7 +8646,7 @@
     "ai_reason": "",
     "source_en": "Hold",
     "review_note": "",
-    "new_translation_vi": "Hold",
+    "new_translation_vi": "Giữ",
     "translator_note": "keep_proper_name"
   },
   {
@@ -8821,7 +8821,7 @@
     "ai_reason": "",
     "source_en": "Jump",
     "review_note": "",
-    "new_translation_vi": "Jump",
+    "new_translation_vi": "Nhảy",
     "translator_note": "keep_proper_name"
   },
   {
@@ -8861,7 +8861,7 @@
     "primary_key": "ComboTeaching_15010301_IconText_0",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -8911,7 +8911,7 @@
     "primary_key": "ComboTeaching_15010501_IconText_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -9071,7 +9071,7 @@
     "ai_reason": "",
     "source_en": "Jump",
     "review_note": "",
-    "new_translation_vi": "Jump",
+    "new_translation_vi": "Nhảy",
     "translator_note": "keep_proper_name"
   },
   {
@@ -9111,7 +9111,7 @@
     "primary_key": "ComboTeaching_15020301_IconText_0",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -9161,7 +9161,7 @@
     "primary_key": "ComboTeaching_15020501_IconText_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -9346,7 +9346,7 @@
     "ai_reason": "",
     "source_en": "Hold",
     "review_note": "",
-    "new_translation_vi": "Hold",
+    "new_translation_vi": "Giữ",
     "translator_note": "keep_proper_name"
   },
   {
@@ -9361,7 +9361,7 @@
     "primary_key": "ComboTeaching_15030301_IconText_0",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -9396,7 +9396,7 @@
     "ai_reason": "",
     "source_en": "Hold",
     "review_note": "",
-    "new_translation_vi": "Hold",
+    "new_translation_vi": "Giữ",
     "translator_note": "keep_proper_name"
   },
   {
@@ -9421,7 +9421,7 @@
     "ai_reason": "",
     "source_en": "Tap",
     "review_note": "",
-    "new_translation_vi": "Tap",
+    "new_translation_vi": "Chạm",
     "translator_note": "keep_proper_name"
   },
   {
@@ -9436,7 +9436,7 @@
     "primary_key": "ComboTeaching_15030401_IconText_0",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -9461,7 +9461,7 @@
     "primary_key": "ComboTeaching_15030401_IconText_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -9496,7 +9496,7 @@
     "ai_reason": "",
     "source_en": "Jump",
     "review_note": "",
-    "new_translation_vi": "Jump",
+    "new_translation_vi": "Nhảy",
     "translator_note": "keep_proper_name"
   },
   {
@@ -9936,7 +9936,7 @@
     "primary_key": "ComboTeaching_15080200_IconText_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -10096,7 +10096,7 @@
     "ai_reason": "",
     "source_en": "Jump",
     "review_note": "",
-    "new_translation_vi": "Jump",
+    "new_translation_vi": "Nhảy",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10121,7 +10121,7 @@
     "ai_reason": "",
     "source_en": "Hold",
     "review_note": "",
-    "new_translation_vi": "Hold",
+    "new_translation_vi": "Giữ",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10371,7 +10371,7 @@
     "ai_reason": "",
     "source_en": "HA Release",
     "review_note": "",
-    "new_translation_vi": "HA Release",
+    "new_translation_vi": "HA Thả",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10396,7 +10396,7 @@
     "ai_reason": "",
     "source_en": "Jump",
     "review_note": "",
-    "new_translation_vi": "Jump",
+    "new_translation_vi": "Nhảy",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10536,7 +10536,7 @@
     "primary_key": "ComboTeaching_16010701_IconText_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -10561,7 +10561,7 @@
     "primary_key": "ComboTeaching_16010701_IconText_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -10586,7 +10586,7 @@
     "primary_key": "ComboTeaching_16010701_IconText_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -10696,7 +10696,7 @@
     "ai_reason": "",
     "source_en": "Hold",
     "review_note": "",
-    "new_translation_vi": "Hold",
+    "new_translation_vi": "Giữ",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10711,7 +10711,7 @@
     "primary_key": "ComboTeaching_16020301_IconText_0",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -10746,7 +10746,7 @@
     "ai_reason": "",
     "source_en": "Hold",
     "review_note": "",
-    "new_translation_vi": "Hold",
+    "new_translation_vi": "Giữ",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10771,7 +10771,7 @@
     "ai_reason": "",
     "source_en": "Tap",
     "review_note": "",
-    "new_translation_vi": "Tap",
+    "new_translation_vi": "Chạm",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10786,7 +10786,7 @@
     "primary_key": "ComboTeaching_16020401_IconText_0",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -10811,7 +10811,7 @@
     "primary_key": "ComboTeaching_16020401_IconText_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -10846,7 +10846,7 @@
     "ai_reason": "",
     "source_en": "Jump",
     "review_note": "",
-    "new_translation_vi": "Jump",
+    "new_translation_vi": "Nhảy",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10911,7 +10911,7 @@
     "primary_key": "ComboTeaching_16060003_IconText_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -10946,7 +10946,7 @@
     "ai_reason": "",
     "source_en": "Hold",
     "review_note": "",
-    "new_translation_vi": "Hold",
+    "new_translation_vi": "Giữ",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10971,7 +10971,7 @@
     "ai_reason": "",
     "source_en": "Tap",
     "review_note": "",
-    "new_translation_vi": "Tap",
+    "new_translation_vi": "Chạm",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11111,7 +11111,7 @@
     "primary_key": "ComboTeaching_99990003_IconText_0",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -11146,7 +11146,7 @@
     "ai_reason": "",
     "source_en": "Jump",
     "review_note": "",
-    "new_translation_vi": "Jump",
+    "new_translation_vi": "Nhảy",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11421,7 +11421,7 @@
     "ai_reason": "",
     "source_en": "Hold Combo",
     "review_note": "",
-    "new_translation_vi": "Hold Combo",
+    "new_translation_vi": "Giữ Combo",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11471,7 +11471,7 @@
     "ai_reason": "",
     "source_en": "Jump",
     "review_note": "",
-    "new_translation_vi": "Jump",
+    "new_translation_vi": "Nhảy",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11571,7 +11571,7 @@
     "ai_reason": "",
     "source_en": "Hold",
     "review_note": "",
-    "new_translation_vi": "Hold",
+    "new_translation_vi": "Giữ",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11596,7 +11596,7 @@
     "ai_reason": "",
     "source_en": "Hold",
     "review_note": "",
-    "new_translation_vi": "Hold",
+    "new_translation_vi": "Giữ",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11621,7 +11621,7 @@
     "ai_reason": "",
     "source_en": "Release",
     "review_note": "",
-    "new_translation_vi": "Release",
+    "new_translation_vi": "Thả",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11671,7 +11671,7 @@
     "ai_reason": "",
     "source_en": "Release",
     "review_note": "",
-    "new_translation_vi": "Release",
+    "new_translation_vi": "Thả",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11696,7 +11696,7 @@
     "ai_reason": "",
     "source_en": "Hold",
     "review_note": "",
-    "new_translation_vi": "Hold",
+    "new_translation_vi": "Giữ",
     "translator_note": "keep_proper_name"
   },
   {

@@ -11,7 +11,7 @@
     "primary_key": "Moonfiesta_Evaluate_6_Content",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -36,7 +36,7 @@
     "primary_key": "Moonfiesta_Evaluate_7_Content",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -61,7 +61,7 @@
     "primary_key": "Moonfiesta_Evaluate_8_Content",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -3361,7 +3361,7 @@
     "primary_key": "PhotoMemory_101_Title",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4646,7 +4646,7 @@
     "ai_reason": "",
     "source_en": "Join Team: I",
     "review_note": "",
-    "new_translation_vi": "Join Team: I",
+    "new_translation_vi": "Join Đội: I",
     "translator_note": "keep_proper_name"
   },
   {
@@ -4671,7 +4671,7 @@
     "ai_reason": "",
     "source_en": "Join Team: II",
     "review_note": "",
-    "new_translation_vi": "Join Team: II",
+    "new_translation_vi": "Join Đội: II",
     "translator_note": "keep_proper_name"
   },
   {
@@ -4696,7 +4696,7 @@
     "ai_reason": "",
     "source_en": "Join Team: III",
     "review_note": "",
-    "new_translation_vi": "Join Team: III",
+    "new_translation_vi": "Join Đội: III",
     "translator_note": "keep_proper_name"
   },
   {
@@ -5546,7 +5546,7 @@
     "ai_reason": "",
     "source_en": "Echo Transform",
     "review_note": "",
-    "new_translation_vi": "Echo Transform",
+    "new_translation_vi": "Echo Biến đổi",
     "translator_note": "keep_proper_name"
   },
   {
@@ -6571,7 +6571,7 @@
     "ai_reason": "",
     "source_en": "Join Team: I",
     "review_note": "",
-    "new_translation_vi": "Join Team: I",
+    "new_translation_vi": "Join Đội: I",
     "translator_note": "keep_proper_name"
   },
   {
@@ -6596,7 +6596,7 @@
     "ai_reason": "",
     "source_en": "Join Team: II",
     "review_note": "",
-    "new_translation_vi": "Join Team: II",
+    "new_translation_vi": "Join Đội: II",
     "translator_note": "keep_proper_name"
   },
   {
@@ -6621,7 +6621,7 @@
     "ai_reason": "",
     "source_en": "Join Team: III",
     "review_note": "",
-    "new_translation_vi": "Join Team: III",
+    "new_translation_vi": "Join Đội: III",
     "translator_note": "keep_proper_name"
   },
   {
@@ -7346,7 +7346,7 @@
     "ai_reason": "",
     "source_en": "Echo Transform",
     "review_note": "",
-    "new_translation_vi": "Echo Transform",
+    "new_translation_vi": "Echo Biến đổi",
     "translator_note": "keep_proper_name"
   },
   {
@@ -7686,7 +7686,7 @@
     "primary_key": "PlotType_10002_TypeDescription",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -8036,7 +8036,7 @@
     "primary_key": "PlotType_10016_TypeDescription",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -8061,7 +8061,7 @@
     "primary_key": "PlotType_11001_TypeDescription",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -8086,7 +8086,7 @@
     "primary_key": "PlotType_11002_TypeDescription",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8111,7 +8111,7 @@
     "primary_key": "PlotType_11003_TypeDescription",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8136,7 +8136,7 @@
     "primary_key": "PlotType_11004_TypeDescription",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9361,7 +9361,7 @@
     "primary_key": "QuestHandBook_101001_Descrtption",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -9386,7 +9386,7 @@
     "primary_key": "QuestHandBook_101002_Descrtption",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9411,7 +9411,7 @@
     "primary_key": "QuestHandBook_101003_Descrtption",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9436,7 +9436,7 @@
     "primary_key": "QuestHandBook_101004_Descrtption",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10286,7 +10286,7 @@
     "primary_key": "TowerDefence_100041_PhantomTitle",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -11721,7 +11721,7 @@
     "ai_reason": "",
     "source_en": "Illusive Store",
     "review_note": "",
-    "new_translation_vi": "Illusive Store",
+    "new_translation_vi": "Cửa hàng Illusive",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11971,7 +11971,7 @@
     "ai_reason": "",
     "source_en": "Refresh Store",
     "review_note": "",
-    "new_translation_vi": "Refresh Store",
+    "new_translation_vi": "Refresh Cửa hàng",
     "translator_note": "keep_proper_name"
   },
   {
@@ -12071,7 +12071,7 @@
     "ai_reason": "",
     "source_en": "Support",
     "review_note": "",
-    "new_translation_vi": "Support",
+    "new_translation_vi": "Hỗ trợ",
     "translator_note": "keep_proper_name"
   },
   {
@@ -12411,7 +12411,7 @@
     "primary_key": "RecallActivity_Role_01",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -12436,7 +12436,7 @@
     "primary_key": "RecallActivity_Role_02",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,

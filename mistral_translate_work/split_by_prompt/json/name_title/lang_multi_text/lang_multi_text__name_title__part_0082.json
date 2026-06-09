@@ -1311,7 +1311,7 @@
     "primary_key": "RogueBuffPool_935008000001_BuffName",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1336,7 +1336,7 @@
     "primary_key": "RogueBuffPool_938000501001_BuffName",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1361,7 +1361,7 @@
     "primary_key": "RogueBuffPool_9126000043_BuffName",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1721,7 +1721,7 @@
     "ai_reason": "",
     "source_en": "Ending Locked",
     "review_note": "",
-    "new_translation_vi": "Ending Locked",
+    "new_translation_vi": "Ending Đã khóa",
     "translator_note": "keep_proper_name"
   },
   {
@@ -1746,7 +1746,7 @@
     "ai_reason": "",
     "source_en": "Unlock 1 Ending",
     "review_note": "",
-    "new_translation_vi": "Unlock 1 Ending",
+    "new_translation_vi": "Mở khóa 1 Ending",
     "translator_note": "keep_proper_name"
   },
   {
@@ -1771,7 +1771,7 @@
     "ai_reason": "",
     "source_en": "Unlock 2 Endings",
     "review_note": "",
-    "new_translation_vi": "Unlock 2 Endings",
+    "new_translation_vi": "Mở khóa 2 Endings",
     "translator_note": "keep_proper_name"
   },
   {
@@ -1796,7 +1796,7 @@
     "ai_reason": "",
     "source_en": "Unlock 4 Endings",
     "review_note": "",
-    "new_translation_vi": "Unlock 4 Endings",
+    "new_translation_vi": "Mở khóa 4 Endings",
     "translator_note": "keep_proper_name"
   },
   {
@@ -1821,7 +1821,7 @@
     "ai_reason": "",
     "source_en": "Unlock 6 Endings",
     "review_note": "",
-    "new_translation_vi": "Unlock 6 Endings",
+    "new_translation_vi": "Mở khóa 6 Endings",
     "translator_note": "keep_proper_name"
   },
   {
@@ -1846,7 +1846,7 @@
     "ai_reason": "",
     "source_en": "Unlock 8 Endings",
     "review_note": "",
-    "new_translation_vi": "Unlock 8 Endings",
+    "new_translation_vi": "Mở khóa 8 Endings",
     "translator_note": "keep_proper_name"
   },
   {
@@ -1871,7 +1871,7 @@
     "ai_reason": "",
     "source_en": "Unlock 12 Endings",
     "review_note": "",
-    "new_translation_vi": "Unlock 12 Endings",
+    "new_translation_vi": "Mở khóa 12 Endings",
     "translator_note": "keep_proper_name"
   },
   {
@@ -2221,7 +2221,7 @@
     "ai_reason": "",
     "source_en": "Unavailable",
     "review_note": "",
-    "new_translation_vi": "Unavailable",
+    "new_translation_vi": "Không khả dụng",
     "translator_note": "keep_proper_name"
   },
   {
@@ -3196,7 +3196,7 @@
     "ai_reason": "",
     "source_en": "Refresh Store",
     "review_note": "",
-    "new_translation_vi": "Refresh Store",
+    "new_translation_vi": "Refresh Cửa hàng",
     "translator_note": "keep_proper_name"
   },
   {
@@ -3721,7 +3721,7 @@
     "ai_reason": "",
     "source_en": "Unavailable Resonators",
     "review_note": "",
-    "new_translation_vi": "Unavailable Resonators",
+    "new_translation_vi": "Không khả dụng Resonators",
     "translator_note": "keep_proper_name"
   },
   {
@@ -4936,7 +4936,7 @@
     "primary_key": "PhotographHandBook_18_Name",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6946,7 +6946,7 @@
     "ai_reason": "",
     "source_en": "Story CG Description 23",
     "review_note": "",
-    "new_translation_vi": "Story CG Description 23",
+    "new_translation_vi": "Story CG Mô tả 23",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -6971,7 +6971,7 @@
     "ai_reason": "",
     "source_en": "Story CG Description 24",
     "review_note": "",
-    "new_translation_vi": "Story CG Description 24",
+    "new_translation_vi": "Story CG Mô tả 24",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -6996,7 +6996,7 @@
     "ai_reason": "",
     "source_en": "Story CG Description 25",
     "review_note": "",
-    "new_translation_vi": "Story CG Description 25",
+    "new_translation_vi": "Story CG Mô tả 25",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -7021,7 +7021,7 @@
     "ai_reason": "",
     "source_en": "Story CG Description 26",
     "review_note": "",
-    "new_translation_vi": "Story CG Description 26",
+    "new_translation_vi": "Story CG Mô tả 26",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -7046,7 +7046,7 @@
     "ai_reason": "",
     "source_en": "Story CG Description 27",
     "review_note": "",
-    "new_translation_vi": "Story CG Description 27",
+    "new_translation_vi": "Story CG Mô tả 27",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -7071,7 +7071,7 @@
     "ai_reason": "",
     "source_en": "Story CG Description 28",
     "review_note": "",
-    "new_translation_vi": "Story CG Description 28",
+    "new_translation_vi": "Story CG Mô tả 28",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -7096,7 +7096,7 @@
     "ai_reason": "",
     "source_en": "Story CG Description 29",
     "review_note": "",
-    "new_translation_vi": "Story CG Description 29",
+    "new_translation_vi": "Story CG Mô tả 29",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -7121,7 +7121,7 @@
     "ai_reason": "",
     "source_en": "Story CG Description 30",
     "review_note": "",
-    "new_translation_vi": "Story CG Description 30",
+    "new_translation_vi": "Story CG Mô tả 30",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -7146,7 +7146,7 @@
     "ai_reason": "",
     "source_en": "Story CG Description 31",
     "review_note": "",
-    "new_translation_vi": "Story CG Description 31",
+    "new_translation_vi": "Story CG Mô tả 31",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -7171,7 +7171,7 @@
     "ai_reason": "",
     "source_en": "Story CG Description 32",
     "review_note": "",
-    "new_translation_vi": "Story CG Description 32",
+    "new_translation_vi": "Story CG Mô tả 32",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -7196,7 +7196,7 @@
     "ai_reason": "",
     "source_en": "Story CG Description 33",
     "review_note": "",
-    "new_translation_vi": "Story CG Description 33",
+    "new_translation_vi": "Story CG Mô tả 33",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -7221,7 +7221,7 @@
     "ai_reason": "",
     "source_en": "Story CG Description 34",
     "review_note": "",
-    "new_translation_vi": "Story CG Description 34",
+    "new_translation_vi": "Story CG Mô tả 34",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -7246,7 +7246,7 @@
     "ai_reason": "",
     "source_en": "Story CG Description 35",
     "review_note": "",
-    "new_translation_vi": "Story CG Description 35",
+    "new_translation_vi": "Story CG Mô tả 35",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -7271,7 +7271,7 @@
     "ai_reason": "",
     "source_en": "Story CG Description 36",
     "review_note": "",
-    "new_translation_vi": "Story CG Description 36",
+    "new_translation_vi": "Story CG Mô tả 36",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -7296,7 +7296,7 @@
     "ai_reason": "",
     "source_en": "Story CG Description 37",
     "review_note": "",
-    "new_translation_vi": "Story CG Description 37",
+    "new_translation_vi": "Story CG Mô tả 37",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -7321,7 +7321,7 @@
     "ai_reason": "",
     "source_en": "Story CG Description 38",
     "review_note": "",
-    "new_translation_vi": "Story CG Description 38",
+    "new_translation_vi": "Story CG Mô tả 38",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -7346,7 +7346,7 @@
     "ai_reason": "",
     "source_en": "Story CG Description 39",
     "review_note": "",
-    "new_translation_vi": "Story CG Description 39",
+    "new_translation_vi": "Story CG Mô tả 39",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -7371,7 +7371,7 @@
     "ai_reason": "",
     "source_en": "Story CG Description 40",
     "review_note": "",
-    "new_translation_vi": "Story CG Description 40",
+    "new_translation_vi": "Story CG Mô tả 40",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -7471,7 +7471,7 @@
     "ai_reason": "",
     "source_en": "Story CG Description 1005",
     "review_note": "",
-    "new_translation_vi": "Story CG Description 1005",
+    "new_translation_vi": "Story CG Mô tả 1005",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -10721,7 +10721,7 @@
     "ai_reason": "",
     "source_en": "Unavailable",
     "review_note": "",
-    "new_translation_vi": "Unavailable",
+    "new_translation_vi": "Không khả dụng",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10746,7 +10746,7 @@
     "ai_reason": "",
     "source_en": "Team Limit Reached",
     "review_note": "",
-    "new_translation_vi": "Team Limit Reached",
+    "new_translation_vi": "Đội Limit Reached",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11036,7 +11036,7 @@
     "primary_key": "RoleTag25",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -12386,7 +12386,7 @@
     "primary_key": "Moonfiesta_Evaluate_1_Content",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -12411,7 +12411,7 @@
     "primary_key": "Moonfiesta_Evaluate_2_Content",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -12436,7 +12436,7 @@
     "primary_key": "Moonfiesta_Evaluate_3_Content",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -12461,7 +12461,7 @@
     "primary_key": "Moonfiesta_Evaluate_4_Content",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
@@ -12486,7 +12486,7 @@
     "primary_key": "Moonfiesta_Evaluate_5_Content",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "REVIEW",
     "rule_score": 6,
