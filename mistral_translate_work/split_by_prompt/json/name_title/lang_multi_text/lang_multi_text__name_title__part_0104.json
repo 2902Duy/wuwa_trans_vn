@@ -21,7 +21,7 @@
     "ai_reason": "",
     "source_en": "Training facility EntityCommonTag exists",
     "review_note": "",
-    "new_translation_vi": "Thẻ Thực thể Cơ sở Huấn luyện đã tồn tại",
+    "new_translation_vi": "Thẻ EntityCommonTag của cơ sở huấn luyện đã tồn tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -46,7 +46,7 @@
     "ai_reason": "",
     "source_en": "Entity function type error",
     "review_note": "",
-    "new_translation_vi": "Lỗi loại hàm thực thể",
+    "new_translation_vi": "Lỗi loại chức năng thực thể",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -71,7 +71,7 @@
     "ai_reason": "",
     "source_en": "Training facility failed to accept",
     "review_note": "",
-    "new_translation_vi": "Cơ sở huấn luyện không thể tiếp nhận",
+    "new_translation_vi": "Cơ sở huấn luyện không thể chấp nhận",
     "translator_note": "translate_short_title"
   },
   {
@@ -96,7 +96,7 @@
     "ai_reason": "",
     "source_en": "No entry exists for the requested dungeon creation",
     "review_note": "",
-    "new_translation_vi": "Không tìm thấy lối vào cho bản đồ ngục tạo yêu cầu",
+    "new_translation_vi": "Không tồn tại mục nhập cho tạo dungeon được yêu cầu",
     "translator_note": "translate_short_title"
   },
   {
@@ -121,7 +121,7 @@
     "ai_reason": "",
     "source_en": "No entry configuration exists for the requested dungeon creation",
     "review_note": "",
-    "new_translation_vi": "Không tìm thấy cấu hình vào cho bản đồ ngục tạo yêu cầu",
+    "new_translation_vi": "Không tồn tại cấu hình mục nhập cho tạo dungeon được yêu cầu",
     "translator_note": "translate_short_title"
   },
   {
@@ -146,7 +146,7 @@
     "ai_reason": "",
     "source_en": "Entry locked for the requested dungeon creation",
     "review_note": "",
-    "new_translation_vi": "Mục bị khóa cho việc tạo hầm ngục yêu cầu",
+    "new_translation_vi": "Mục nhập bị khóa cho tạo dungeon được yêu cầu",
     "translator_note": "translate_short_title"
   },
   {
@@ -171,7 +171,7 @@
     "ai_reason": "",
     "source_en": "Current instance has expired",
     "review_note": "",
-    "new_translation_vi": "Phiên bản hiện tại đã hết hạn.",
+    "new_translation_vi": "Phiên bản hiện tại đã hết hạn",
     "translator_note": "translate_short_title"
   },
   {
@@ -196,7 +196,7 @@
     "ai_reason": "",
     "source_en": "Insufficient attempts for the requested dungeon creation",
     "review_note": "",
-    "new_translation_vi": "Không đủ lượt tạo Tổ Tacet theo yêu cầu",
+    "new_translation_vi": "Không đủ số lần thử cho tạo dungeon được yêu cầu",
     "translator_note": "translate_short_title"
   },
   {
@@ -221,7 +221,7 @@
     "ai_reason": "",
     "source_en": "Requirements not met for the requested dungeon creation",
     "review_note": "",
-    "new_translation_vi": "Chưa đủ điều kiện để tạo phó bản yêu cầu",
+    "new_translation_vi": "Không đáp ứng điều kiện cho tạo dungeon được yêu cầu",
     "translator_note": "translate_short_title"
   },
   {
@@ -246,7 +246,7 @@
     "ai_reason": "",
     "source_en": "Entering attempt configuration does not exist for the dungeon",
     "review_note": "",
-    "new_translation_vi": "Cấu hình nỗ lực xâm nhập không tồn tại cho hầm ngục này",
+    "new_translation_vi": "Cấu hình số lần thử vào không tồn tại cho dungeon",
     "translator_note": "translate_short_title"
   },
   {
@@ -271,7 +271,7 @@
     "ai_reason": "",
     "source_en": "Entry configuration does not exist for unlocking the dungeon",
     "review_note": "",
-    "new_translation_vi": "Không có cấu hình mục để mở khóa hầm ngục",
+    "new_translation_vi": "Cấu hình mục nhập không tồn tại để mở khóa dungeon",
     "translator_note": "translate_short_title"
   },
   {
@@ -296,7 +296,7 @@
     "ai_reason": "",
     "source_en": "No need to unlock the entry for unlocking the dungeon",
     "review_note": "",
-    "new_translation_vi": "Không cần mở khóa lối vào để mở khóa hầm ngục",
+    "new_translation_vi": "Không cần mở khóa mục nhập để mở khóa dungeon",
     "translator_note": "translate_short_title"
   },
   {
@@ -321,7 +321,7 @@
     "ai_reason": "",
     "source_en": "The entry is unlocked for unlocking the dungeon",
     "review_note": "",
-    "new_translation_vi": "Bản ghi đã mở khóa để mở hầm ngục",
+    "new_translation_vi": "Mục nhập đã được mở khóa để mở khóa dungeon",
     "translator_note": "translate_short_title"
   },
   {
@@ -346,7 +346,7 @@
     "ai_reason": "",
     "source_en": "Entry requirements not met for unlocking the dungeon",
     "review_note": "",
-    "new_translation_vi": "Chưa đáp ứng đủ điều kiện để mở khóa hầm ngục",
+    "new_translation_vi": "Không đáp ứng điều kiện mục nhập để mở khóa dungeon",
     "translator_note": "translate_short_title"
   },
   {
@@ -371,7 +371,7 @@
     "ai_reason": "",
     "source_en": "The requested access to gameplay configuration does not exist",
     "review_note": "",
-    "new_translation_vi": "Không tìm thấy cấu hình trò chơi được yêu cầu.",
+    "new_translation_vi": "Cấu hình lối chơi được yêu cầu truy cập không tồn tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -396,7 +396,7 @@
     "ai_reason": "",
     "source_en": "The requested access to gameplay is accepted",
     "review_note": "",
-    "new_translation_vi": "Đã chấp nhận truy cập cấu hình trò chơi.",
+    "new_translation_vi": "Đã chấp nhận truy cập lối chơi được yêu cầu",
     "translator_note": "translate_short_title"
   },
   {
@@ -421,7 +421,7 @@
     "ai_reason": "",
     "source_en": "The requested access to gameplay failed",
     "review_note": "",
-    "new_translation_vi": "Truy cập cấu hình trò chơi thất bại.",
+    "new_translation_vi": "Truy cập lối chơi được yêu cầu không thành công",
     "translator_note": "translate_short_title"
   },
   {
@@ -446,7 +446,7 @@
     "ai_reason": "",
     "source_en": "Failed to create story characters",
     "review_note": "",
-    "new_translation_vi": "Không tạo được nhân vật trong cốt truyện",
+    "new_translation_vi": "Không thể tạo nhân vật câu chuyện",
     "translator_note": "translate_short_title"
   },
   {
@@ -471,7 +471,7 @@
     "ai_reason": "",
     "source_en": "Repeated story character creation",
     "review_note": "",
-    "new_translation_vi": "Tạo lại nhân vật câu chuyện",
+    "new_translation_vi": "Tạo nhân vật câu chuyện lặp lại",
     "translator_note": "translate_short_title"
   },
   {
@@ -496,7 +496,7 @@
     "ai_reason": "",
     "source_en": "Story character does not exist",
     "review_note": "",
-    "new_translation_vi": "Nhân vật cốt truyện không tồn tại",
+    "new_translation_vi": "Nhân vật câu chuyện không tồn tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -521,7 +521,7 @@
     "ai_reason": "",
     "source_en": "Test facility entity does not exist",
     "review_note": "",
-    "new_translation_vi": "Thực thể cơ sở kiểm tra không tồn tại",
+    "new_translation_vi": "Thực thể cơ sở thử nghiệm không tồn tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -571,7 +571,7 @@
     "ai_reason": "",
     "source_en": "Test facility configuration does not exist",
     "review_note": "",
-    "new_translation_vi": "Cấu hình cơ sở kiểm tra không tồn tại",
+    "new_translation_vi": "Cấu hình cơ sở thử nghiệm không tồn tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -596,7 +596,7 @@
     "ai_reason": "",
     "source_en": "Requirements not met to activate test facility",
     "review_note": "",
-    "new_translation_vi": "Chưa đủ điều kiện để kích hoạt cơ sở thử nghiệm",
+    "new_translation_vi": "Điều kiện chưa đủ để kích hoạt cơ sở thử nghiệm",
     "translator_note": "translate_short_title"
   },
   {
@@ -621,7 +621,7 @@
     "ai_reason": "",
     "source_en": "Requirements not met to cancel test facility",
     "review_note": "",
-    "new_translation_vi": "Chưa đủ điều kiện để hủy cơ sở thử nghiệm",
+    "new_translation_vi": "Điều kiện chưa đủ để hủy cơ sở thử nghiệm",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -821,7 +821,7 @@
     "ai_reason": "",
     "source_en": "Mutterfly base activated",
     "review_note": "",
-    "new_translation_vi": "Trạm Mutterfly đã kích hoạt",
+    "new_translation_vi": "Mutterfly cơ bản đã kích hoạt",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -846,7 +846,7 @@
     "ai_reason": "",
     "source_en": "Mutterfly base does not exist",
     "review_note": "",
-    "new_translation_vi": "Trạm Mutterfly không tồn tại",
+    "new_translation_vi": "Mutterfly cơ bản không tồn tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -896,7 +896,7 @@
     "ai_reason": "",
     "source_en": "Cast entity does not exist",
     "review_note": "",
-    "new_translation_vi": "Thực thể kích hoạt không tồn tại",
+    "new_translation_vi": "Thực thể Cast không tồn tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -921,7 +921,7 @@
     "ai_reason": "",
     "source_en": "Cast calculation Id does not exist",
     "review_note": "",
-    "new_translation_vi": "ID tính toán kỹ năng không tồn tại",
+    "new_translation_vi": "ID tính toán Cast không tồn tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -946,7 +946,7 @@
     "ai_reason": "",
     "source_en": "Cast configuration Id does not exist",
     "review_note": "",
-    "new_translation_vi": "ID cấu hình kỹ năng không tồn tại",
+    "new_translation_vi": "ID cấu hình Cast không tồn tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -971,7 +971,7 @@
     "ai_reason": "",
     "source_en": "Cast current character configuration does not exist",
     "review_note": "",
-    "new_translation_vi": "Cấu hình nhân vật hiện tại không tồn tại",
+    "new_translation_vi": "Cấu hình nhân vật hiện tại của Cast không tồn tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -996,7 +996,7 @@
     "ai_reason": "",
     "source_en": "Dungeon id does not exist",
     "review_note": "",
-    "new_translation_vi": "ID Hầm không tồn tại",
+    "new_translation_vi": "ID Dungeon không tồn tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -1021,7 +1021,7 @@
     "ai_reason": "",
     "source_en": "Levitation entity does not exist",
     "review_note": "",
-    "new_translation_vi": "Thực thể bay lơ lửng không tồn tại",
+    "new_translation_vi": "Thực thể Levitation không tồn tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -1046,7 +1046,7 @@
     "ai_reason": "",
     "source_en": "Levitation configuration does not exist",
     "review_note": "",
-    "new_translation_vi": "Cấu hình bay lơ lửng không tồn tại",
+    "new_translation_vi": "Cấu hình Levitation không tồn tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -1071,7 +1071,7 @@
     "ai_reason": "",
     "source_en": "Levitation group configuration does not exist",
     "review_note": "",
-    "new_translation_vi": "Cấu hình nhóm bay lơ lửng không tồn tại",
+    "new_translation_vi": "Cấu hình nhóm Levitation không tồn tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -1096,7 +1096,7 @@
     "ai_reason": "",
     "source_en": "Levitation locked",
     "review_note": "",
-    "new_translation_vi": "Đã khóa trạng thái bay lơ lửng",
+    "new_translation_vi": "Levitation bị khóa",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -1121,7 +1121,7 @@
     "ai_reason": "",
     "source_en": "Levitation group locked",
     "review_note": "",
-    "new_translation_vi": "Nhóm bay lơ lửng đã bị khóa",
+    "new_translation_vi": "Nhóm Levitation bị khóa",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -1146,7 +1146,7 @@
     "ai_reason": "",
     "source_en": "Levitated item cannot be placed at this location",
     "review_note": "",
-    "new_translation_vi": "Vật phẩm bay không thể đặt tại vị trí này",
+    "new_translation_vi": "Vật phẩm Levitation không thể đặt tại vị trí này",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -1171,7 +1171,7 @@
     "ai_reason": "",
     "source_en": "Levitation applied",
     "review_note": "",
-    "new_translation_vi": "Đã kích hoạt trạng thái bay lơ lửng",
+    "new_translation_vi": "Đã áp dụng Levitation",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -1196,7 +1196,7 @@
     "ai_reason": "",
     "source_en": "Levitation not applied",
     "review_note": "",
-    "new_translation_vi": "Không áp dụng trạng thái bay lơ lửng",
+    "new_translation_vi": "Chưa áp dụng Levitation",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -1221,7 +1221,7 @@
     "ai_reason": "",
     "source_en": "The item is levitated by the other player",
     "review_note": "",
-    "new_translation_vi": "Vật phẩm đang được người chơi khác nâng lên.",
+    "new_translation_vi": "Vật phẩm đang được người chơi khác Levitation",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -1271,7 +1271,7 @@
     "ai_reason": "",
     "source_en": "Not Supplies",
     "review_note": "",
-    "new_translation_vi": "Không phải vật tư",
+    "new_translation_vi": "Not Supplies",
     "translator_note": "keep_proper_name"
   },
   {
@@ -1296,7 +1296,7 @@
     "ai_reason": "",
     "source_en": "Supply data not initialized",
     "review_note": "",
-    "new_translation_vi": "Dữ liệu tiếp tế chưa được khởi tạo",
+    "new_translation_vi": "Dữ liệu Supply chưa được khởi tạo",
     "translator_note": "translate_short_title"
   },
   {
@@ -1321,7 +1321,7 @@
     "ai_reason": "",
     "source_en": "Supplies not configured",
     "review_note": "",
-    "new_translation_vi": "Chưa cấu hình vật tư",
+    "new_translation_vi": "Supply chưa được cấu hình",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -1346,7 +1346,7 @@
     "ai_reason": "",
     "source_en": "Supplies claimed",
     "review_note": "",
-    "new_translation_vi": "Đã nhận vật tư",
+    "new_translation_vi": "Đã nhận Supply",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -1371,7 +1371,7 @@
     "ai_reason": "",
     "source_en": "Supply is not interactive",
     "review_note": "",
-    "new_translation_vi": "Hàng tiếp tế không thể tương tác",
+    "new_translation_vi": "Supply không thể tương tác",
     "translator_note": "translate_short_title"
   },
   {
@@ -1396,7 +1396,7 @@
     "ai_reason": "",
     "source_en": "Supply drop id does not exist",
     "review_note": "",
-    "new_translation_vi": "ID thả hàng tiếp tế không tồn tại",
+    "new_translation_vi": "ID thả Supply không tồn tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -1421,7 +1421,7 @@
     "ai_reason": "",
     "source_en": "Supplies failed to drop",
     "review_note": "",
-    "new_translation_vi": "Vật tư không rơi ra được",
+    "new_translation_vi": "Thả Supply thất bại",
     "translator_note": "translate_short_title"
   },
   {
@@ -1446,7 +1446,7 @@
     "ai_reason": "",
     "source_en": "Supply entity does not exist",
     "review_note": "",
-    "new_translation_vi": "Đơn vị tiếp tế không tồn tại",
+    "new_translation_vi": "Thực thể Supply không tồn tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -1471,7 +1471,7 @@
     "ai_reason": "",
     "source_en": "Invalid Supply tag",
     "review_note": "",
-    "new_translation_vi": "Thẻ Hỗ trợ không hợp lệ",
+    "new_translation_vi": "Thẻ Supply không hợp lệ",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -1496,7 +1496,7 @@
     "ai_reason": "",
     "source_en": "Supplies already have this tag",
     "review_note": "",
-    "new_translation_vi": "Vật tư đã có thẻ này",
+    "new_translation_vi": "Supply đã có thẻ này",
     "translator_note": "translate_short_title"
   },
   {
@@ -1521,7 +1521,7 @@
     "ai_reason": "",
     "source_en": "Missing Supply tags",
     "review_note": "",
-    "new_translation_vi": "Thiếu thẻ vật tư",
+    "new_translation_vi": "Thiếu thẻ Supply",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -1546,7 +1546,7 @@
     "ai_reason": "",
     "source_en": "Stealth disabled",
     "review_note": "",
-    "new_translation_vi": "Tàng hình đã bị vô hiệu hóa",
+    "new_translation_vi": "Stealth đã tắt",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -1571,7 +1571,7 @@
     "ai_reason": "",
     "source_en": "Stealth reset complete",
     "review_note": "",
-    "new_translation_vi": "Đặt lại tàng hình hoàn tất",
+    "new_translation_vi": "Đã đặt lại Stealth",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -1596,7 +1596,7 @@
     "ai_reason": "",
     "source_en": "Failed to save terrain data",
     "review_note": "",
-    "new_translation_vi": "Không thể lưu dữ liệu địa hình",
+    "new_translation_vi": "Lưu dữ liệu địa hình thất bại",
     "translator_note": "translate_short_title"
   },
   {
@@ -1621,7 +1621,7 @@
     "ai_reason": "",
     "source_en": "Currently not in dungeon",
     "review_note": "",
-    "new_translation_vi": "Hiện không ở trong hầm ngục",
+    "new_translation_vi": "Hiện không ở trong dungeon",
     "translator_note": "translate_short_title"
   },
   {
@@ -1646,7 +1646,7 @@
     "ai_reason": "",
     "source_en": "Invalid command, cannot create Solaris dungeon",
     "review_note": "",
-    "new_translation_vi": "Lệnh không hợp lệ, không thể tạo hầm Solaris",
+    "new_translation_vi": "Lệnh không hợp lệ, không thể tạo dungeon Solaris",
     "translator_note": "translate_short_title"
   },
   {
@@ -1671,7 +1671,7 @@
     "ai_reason": "",
     "source_en": "Invalid command, player inside dungeon",
     "review_note": "",
-    "new_translation_vi": "Lệnh không hợp lệ, người chơi đang ở trong hầm",
+    "new_translation_vi": "Lệnh không hợp lệ, người chơi đang ở trong dungeon",
     "translator_note": "translate_short_title"
   },
   {
@@ -1721,7 +1721,7 @@
     "ai_reason": "",
     "source_en": "Too many Flow interactions with entity",
     "review_note": "",
-    "new_translation_vi": "Tương tác Dòng Chảy với thực thể quá nhiều lần",
+    "new_translation_vi": "Quá nhiều tương tác Flow với thực thể",
     "translator_note": "translate_short_title"
   },
   {
@@ -1746,7 +1746,7 @@
     "ai_reason": "",
     "source_en": "Verified, coordinate travel enabled",
     "review_note": "",
-    "new_translation_vi": "Xác minh thành công, kích hoạt di chuyển tọa độ.",
+    "new_translation_vi": "Xác minh thành công, di chuyển tọa độ được kích hoạt",
     "translator_note": "translate_short_title"
   },
   {
@@ -1771,7 +1771,7 @@
     "ai_reason": "",
     "source_en": "Failed to verify, coordinate travel restricted",
     "review_note": "",
-    "new_translation_vi": "Xác minh thất bại, di chuyển bị hạn chế tọa độ",
+    "new_translation_vi": "Xác minh thất bại, di chuyển tọa độ bị hạn chế",
     "translator_note": "translate_short_title"
   },
   {
@@ -1871,7 +1871,7 @@
     "ai_reason": "",
     "source_en": "Cannot change Solaris while in dungeon",
     "review_note": "",
-    "new_translation_vi": "Không thể thay đổi Solaris khi đang trong hầm ngục",
+    "new_translation_vi": "Không thể thay đổi Solaris khi đang ở trong dungeon",
     "translator_note": "translate_short_title"
   },
   {
@@ -1896,7 +1896,7 @@
     "ai_reason": "",
     "source_en": "Non-Solaris owners cannot claim Supplies",
     "review_note": "",
-    "new_translation_vi": "Người không sở hữu Solaris không thể nhận Hỗ Trợ Vật Tư",
+    "new_translation_vi": "Chủ sở hữu không phải Solaris không thể nhận Supplies",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -1946,7 +1946,7 @@
     "ai_reason": "",
     "source_en": "Dungeon ID does not exist, please confirm front-end data match",
     "review_note": "",
-    "new_translation_vi": "ID Hầm không tồn tại, vui lòng xác nhận dữ liệu giao diện khớp",
+    "new_translation_vi": "ID dungeon không tồn tại, vui lòng xác nhận dữ liệu front-end khớp",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -1996,7 +1996,7 @@
     "ai_reason": "",
     "source_en": "Global entity configuration does not exist",
     "review_note": "",
-    "new_translation_vi": "Cấu hình thực thể toàn cầu không tồn tại",
+    "new_translation_vi": "Cấu hình thực thể toàn cục không tồn tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -2021,7 +2021,7 @@
     "ai_reason": "",
     "source_en": "Fixed entity configuration does not exist",
     "review_note": "",
-    "new_translation_vi": "Không tìm thấy cấu hình thực thể cố định",
+    "new_translation_vi": "Cấu hình thực thể cố định không tồn tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -2046,7 +2046,7 @@
     "ai_reason": "",
     "source_en": "Cannot find fixed entity of landscape",
     "review_note": "",
-    "new_translation_vi": "Không tìm thấy thực thể cảnh quan cố định",
+    "new_translation_vi": "Không tìm thấy thực thể cố định của cảnh quan",
     "translator_note": "translate_short_title"
   },
   {
@@ -2071,7 +2071,7 @@
     "ai_reason": "",
     "source_en": "Cannot find global entity of terrain",
     "review_note": "",
-    "new_translation_vi": "Không tìm thấy thực thể địa hình toàn cục",
+    "new_translation_vi": "Không tìm thấy thực thể toàn cục của địa hình",
     "translator_note": "translate_short_title"
   },
   {
@@ -2196,7 +2196,7 @@
     "ai_reason": "",
     "source_en": "Entity configuration not set as global type",
     "review_note": "",
-    "new_translation_vi": "Cấu hình thực thể chưa được đặt là loại toàn cục",
+    "new_translation_vi": "Cấu hình thực thể không được đặt là loại toàn cục",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -2221,7 +2221,7 @@
     "ai_reason": "",
     "source_en": "Entity configuration not set as fixed type",
     "review_note": "",
-    "new_translation_vi": "Cấu hình thực thể chưa được đặt là loại cố định",
+    "new_translation_vi": "Cấu hình thực thể không được đặt là loại cố định",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -2246,7 +2246,7 @@
     "ai_reason": "",
     "source_en": "Entity configuration not set as character type",
     "review_note": "",
-    "new_translation_vi": "Cấu hình thực thể chưa được đặt là loại nhân vật",
+    "new_translation_vi": "Cấu hình thực thể không được đặt là loại nhân vật",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -2321,7 +2321,7 @@
     "ai_reason": "",
     "source_en": "Entity configuration not set to sleep mode",
     "review_note": "",
-    "new_translation_vi": "Cấu hình thực thể chưa được đặt ở chế độ ngủ",
+    "new_translation_vi": "Cấu hình thực thể không được đặt ở chế độ ngủ",
     "translator_note": "translate_short_title"
   },
   {
@@ -2471,7 +2471,7 @@
     "ai_reason": "",
     "source_en": "Summoner category error",
     "review_note": "",
-    "new_translation_vi": "Lỗi loại triệu hồi",
+    "new_translation_vi": "Lỗi danh mục người triệu hồi",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -2496,7 +2496,7 @@
     "ai_reason": "",
     "source_en": "Entity not in fallen status",
     "review_note": "",
-    "new_translation_vi": "Thực thể không ở trạng thái suy yếu",
+    "new_translation_vi": "Thực thể không ở trạng thái ngã quỵ",
     "translator_note": "translate_short_title"
   },
   {
@@ -2596,7 +2596,7 @@
     "ai_reason": "",
     "source_en": "Invalid entity wake-up context",
     "review_note": "",
-    "new_translation_vi": "Ngữ cảnh thức tỉnh thực thể không hợp lệ",
+    "new_translation_vi": "Ngữ cảnh đánh thức thực thể không hợp lệ",
     "translator_note": "translate_short_title"
   },
   {
@@ -2671,7 +2671,7 @@
     "ai_reason": "",
     "source_en": "Entity has matching attribution",
     "review_note": "",
-    "new_translation_vi": "Thực thể có thuộc tính phù hợp",
+    "new_translation_vi": "Thực thể có thuộc tính khớp",
     "translator_note": "translate_short_title"
   },
   {
@@ -2696,7 +2696,7 @@
     "ai_reason": "",
     "source_en": "Entity has conflicting attribution",
     "review_note": "",
-    "new_translation_vi": "Thực thể có xung đột thuộc tính",
+    "new_translation_vi": "Thực thể có thuộc tính xung đột",
     "translator_note": "translate_short_title"
   },
   {
@@ -2871,7 +2871,7 @@
     "ai_reason": "",
     "source_en": "Error interaction option Guid",
     "review_note": "",
-    "new_translation_vi": "Lỗi tùy chọn tương tác Guid",
+    "new_translation_vi": "Lỗi Guid tùy chọn tương tác",
     "translator_note": "translate_short_title"
   },
   {
@@ -2896,7 +2896,7 @@
     "ai_reason": "",
     "source_en": "Error adding interaction option",
     "review_note": "",
-    "new_translation_vi": "Lỗi khi thêm tùy chọn tương tác",
+    "new_translation_vi": "Lỗi thêm tùy chọn tương tác",
     "translator_note": "translate_short_title"
   },
   {
@@ -2921,7 +2921,7 @@
     "ai_reason": "",
     "source_en": "Error removing interaction option",
     "review_note": "",
-    "new_translation_vi": "Lỗi khi xóa tùy chọn tương tác",
+    "new_translation_vi": "Lỗi xóa tùy chọn tương tác",
     "translator_note": "translate_short_title"
   },
   {
@@ -3221,7 +3221,7 @@
     "ai_reason": "",
     "source_en": "Set invalid variable context",
     "review_note": "",
-    "new_translation_vi": "Đặt ngữ cảnh biến không hợp lệ",
+    "new_translation_vi": "Thiết lập ngữ cảnh biến không hợp lệ",
     "translator_note": "translate_short_title"
   },
   {
@@ -3246,7 +3246,7 @@
     "ai_reason": "",
     "source_en": "Set invalid variable instance",
     "review_note": "",
-    "new_translation_vi": "Đặt thể hiện biến không hợp lệ",
+    "new_translation_vi": "Thiết lập phiên bản biến không hợp lệ",
     "translator_note": "translate_short_title"
   },
   {
@@ -3271,7 +3271,7 @@
     "ai_reason": "",
     "source_en": "Set variable acquisition right value error",
     "review_note": "",
-    "new_translation_vi": "Lỗi giá trị quyền truy cập biến đã đặt",
+    "new_translation_vi": "Lỗi giá trị phải của biến thiết lập",
     "translator_note": "translate_short_title"
   },
   {
@@ -3296,7 +3296,7 @@
     "ai_reason": "",
     "source_en": "Set variable acquisition left value error",
     "review_note": "",
-    "new_translation_vi": "Lỗi thiết lập giá trị biến thu thập bên trái",
+    "new_translation_vi": "Lỗi giá trị trái của biến thiết lập",
     "translator_note": "translate_short_title"
   },
   {
@@ -3346,7 +3346,7 @@
     "ai_reason": "",
     "source_en": "Run invalid variable instance",
     "review_note": "",
-    "new_translation_vi": "Thể hiện biến chạy không hợp lệ",
+    "new_translation_vi": "Phiên bản biến chạy không hợp lệ",
     "translator_note": "translate_short_title"
   },
   {
@@ -3371,7 +3371,7 @@
     "ai_reason": "",
     "source_en": "Run invalid variable acquisition error",
     "review_note": "",
-    "new_translation_vi": "Lỗi thu thập biến không hợp lệ khi chạy",
+    "new_translation_vi": "Lỗi truy xuất biến chạy",
     "translator_note": "translate_short_title"
   },
   {
@@ -3396,7 +3396,7 @@
     "ai_reason": "",
     "source_en": "Run invalid variable acquisition category",
     "review_note": "",
-    "new_translation_vi": "Lỗi phân loại biến thu thập không hợp lệ khi chạy",
+    "new_translation_vi": "Danh mục truy xuất biến chạy không hợp lệ",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -3421,7 +3421,7 @@
     "ai_reason": "",
     "source_en": "Run invalid variable acquisition functor",
     "review_note": "",
-    "new_translation_vi": "Lỗi hàm thu thập biến không hợp lệ khi chạy",
+    "new_translation_vi": "Hàm truy xuất biến chạy không hợp lệ",
     "translator_note": "translate_short_title"
   },
   {
@@ -3446,7 +3446,7 @@
     "ai_reason": "",
     "source_en": "Run invalid variable setting result error",
     "review_note": "",
-    "new_translation_vi": "Lỗi thiết lập kết quả biến chạy không hợp lệ",
+    "new_translation_vi": "Lỗi kết quả thiết lập biến chạy",
     "translator_note": "translate_short_title"
   },
   {
@@ -3546,7 +3546,7 @@
     "ai_reason": "",
     "source_en": "Behavior blackboard does not exist",
     "review_note": "",
-    "new_translation_vi": "Bảng hành vi không tồn tại",
+    "new_translation_vi": "Bảng đen hành vi không tồn tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -3571,7 +3571,7 @@
     "ai_reason": "",
     "source_en": "Behavior tree nodes do not exist",
     "review_note": "",
-    "new_translation_vi": "Không tồn tại nút cây hành vi",
+    "new_translation_vi": "Nút cây hành vi không tồn tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -3596,7 +3596,7 @@
     "ai_reason": "",
     "source_en": "Incorrect subtask node",
     "review_note": "",
-    "new_translation_vi": "Nút nhiệm vụ phụ không chính xác",
+    "new_translation_vi": "Nút tác vụ con không chính xác",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -3646,7 +3646,7 @@
     "ai_reason": "",
     "source_en": "Behavior context is not an entity",
     "review_note": "",
-    "new_translation_vi": "Ngữ cảnh hành vi không phải là một thực thể",
+    "new_translation_vi": "Ngữ cảnh hành vi không phải là thực thể",
     "translator_note": "translate_short_title"
   },
   {
@@ -3696,7 +3696,7 @@
     "ai_reason": "",
     "source_en": "Behavior dialog not found",
     "review_note": "",
-    "new_translation_vi": "Không tìm thấy lời thoại hành vi",
+    "new_translation_vi": "Không tìm thấy hộp thoại hành vi",
     "translator_note": "translate_short_title"
   },
   {
@@ -3721,7 +3721,7 @@
     "ai_reason": "",
     "source_en": "Failed to create behavior dialog ID",
     "review_note": "",
-    "new_translation_vi": "Không tạo được ID hộp thoại hành vi",
+    "new_translation_vi": "Không thể tạo ID hộp thoại hành vi",
     "translator_note": "translate_short_title"
   },
   {
@@ -3746,7 +3746,7 @@
     "ai_reason": "",
     "source_en": "Failed to converge behavior path",
     "review_note": "",
-    "new_translation_vi": "Không thể hội tụ lộ trình hành vi",
+    "new_translation_vi": "Không thể hội tụ đường dẫn hành vi",
     "translator_note": "translate_short_title"
   },
   {
@@ -3846,7 +3846,7 @@
     "ai_reason": "",
     "source_en": "Restricted behavior subscript",
     "review_note": "",
-    "new_translation_vi": "Ghi chú hành vi bị hạn chế",
+    "new_translation_vi": "Chỉ mục hành vi bị hạn chế",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -3871,7 +3871,7 @@
     "ai_reason": "",
     "source_en": "Not a server-side behavior subscript",
     "review_note": "",
-    "new_translation_vi": "Không phải hành vi đăng ký phía máy chủ",
+    "new_translation_vi": "Không phải chỉ mục hành vi phía máy chủ",
     "translator_note": "translate_short_title"
   },
   {
@@ -3921,7 +3921,7 @@
     "ai_reason": "",
     "source_en": "A non-behavior tree performer",
     "review_note": "",
-    "new_translation_vi": "Một kẻ không theo khuôn mẫu hành vi",
+    "new_translation_vi": "Người thực hiện không phải cây hành vi",
     "translator_note": "translate_short_title"
   },
   {
@@ -3946,7 +3946,7 @@
     "ai_reason": "",
     "source_en": "Current sustainable behavior incomplete",
     "review_note": "",
-    "new_translation_vi": "Hành vi bền vững hiện tại chưa hoàn thành",
+    "new_translation_vi": "Hành vi bền vững hiện tại chưa hoàn tất",
     "translator_note": "translate_short_title"
   },
   {
@@ -3971,7 +3971,7 @@
     "ai_reason": "",
     "source_en": "Current behavior is not sustainable",
     "review_note": "",
-    "new_translation_vi": "Hành vi hiện tại không thể duy trì lâu dài",
+    "new_translation_vi": "Hành vi hiện tại không bền vững",
     "translator_note": "translate_short_title"
   },
   {
@@ -3996,7 +3996,7 @@
     "ai_reason": "",
     "source_en": "Reset location entity does not exist",
     "review_note": "",
-    "new_translation_vi": "Thực thể vị trí đặt lại không tồn tại",
+    "new_translation_vi": "Thực thể đặt lại vị trí không tồn tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -4021,7 +4021,7 @@
     "ai_reason": "",
     "source_en": "Fix abnormal location entity does not exist",
     "review_note": "",
-    "new_translation_vi": "Sửa lỗi thực thể vị trí bất thường không tồn tại",
+    "new_translation_vi": "Thực thể sửa vị trí bất thường không tồn tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -4046,7 +4046,7 @@
     "ai_reason": "",
     "source_en": "Tested removal request entity does not exist",
     "review_note": "",
-    "new_translation_vi": "Yêu cầu xóa thực thể kiểm tra đã được xác nhận không tồn tại",
+    "new_translation_vi": "Thực thể yêu cầu loại bỏ kiểm tra không tồn tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -4071,7 +4071,7 @@
     "ai_reason": "",
     "source_en": "Drown entity does not exist",
     "review_note": "",
-    "new_translation_vi": "Thực thể chìm không tồn tại",
+    "new_translation_vi": "Thực thể chết đuối không tồn tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -4096,7 +4096,7 @@
     "ai_reason": "",
     "source_en": "Collision puzzle does not exist",
     "review_note": "",
-    "new_translation_vi": "Không tồn tại câu đố va chạm",
+    "new_translation_vi": "Câu đố va chạm không tồn tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -4121,7 +4121,7 @@
     "ai_reason": "",
     "source_en": "Combat disengage entity does not exist",
     "review_note": "",
-    "new_translation_vi": "Không thể thoát chiến đấu: Đối tượng không tồn tại",
+    "new_translation_vi": "Thực thể thoát chiến đấu không tồn tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -4146,7 +4146,7 @@
     "ai_reason": "",
     "source_en": "Request for additional toughness multiplier adjustment does not exist",
     "review_note": "",
-    "new_translation_vi": "Yêu cầu điều chỉnh hệ số cứng cáp bổ sung không tồn tại",
+    "new_translation_vi": "Yêu cầu điều chỉnh hệ số độ cứng bổ sung không tồn tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -4171,7 +4171,7 @@
     "ai_reason": "",
     "source_en": "Adsorption object does not exist",
     "review_note": "",
-    "new_translation_vi": "Đối tượng hấp phụ không tồn tại",
+    "new_translation_vi": "Đối tượng hấp thụ không tồn tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -4196,7 +4196,7 @@
     "ai_reason": "",
     "source_en": "Adsorption condition not met",
     "review_note": "",
-    "new_translation_vi": "Điều kiện hấp phụ không đạt",
+    "new_translation_vi": "Điều kiện hấp thụ không được đáp ứng",
     "translator_note": "translate_short_title"
   },
   {
@@ -4221,7 +4221,7 @@
     "ai_reason": "",
     "source_en": "Time selector unavailable during co-op mode",
     "review_note": "",
-    "new_translation_vi": "Không thể chọn thời gian trong chế độ hợp tác",
+    "new_translation_vi": "Bộ chọn thời gian không khả dụng trong chế độ hợp tác",
     "translator_note": "translate_short_title"
   },
   {
@@ -4271,7 +4271,7 @@
     "ai_reason": "",
     "source_en": "Time selector: Missing entity selector component",
     "review_note": "",
-    "new_translation_vi": "Bộ chọn thời gian: Thiếu thành phần chọn thực thể",
+    "new_translation_vi": "Bộ chọn thời gian: Thiếu thành phần bộ chọn thực thể",
     "translator_note": "translate_short_title"
   },
   {
@@ -4296,7 +4296,7 @@
     "ai_reason": "",
     "source_en": "Time selector: Incorrect selector component",
     "review_note": "",
-    "new_translation_vi": "Bộ chọn thời gian: Thành phần chọn không chính xác",
+    "new_translation_vi": "Bộ chọn thời gian: Thành phần bộ chọn không chính xác",
     "translator_note": "translate_short_title"
   },
   {
@@ -4321,7 +4321,7 @@
     "ai_reason": "",
     "source_en": "Time selector: Selector component completed",
     "review_note": "",
-    "new_translation_vi": "Bộ chọn thời gian: Thành phần chọn đã hoàn thành",
+    "new_translation_vi": "Bộ chọn thời gian: Thành phần bộ chọn đã hoàn tất",
     "translator_note": "translate_short_title"
   },
   {
@@ -4371,7 +4371,7 @@
     "ai_reason": "",
     "source_en": "Time selector: Selector direction error",
     "review_note": "",
-    "new_translation_vi": "Bộ chọn thời gian: Lỗi hướng chọn",
+    "new_translation_vi": "Bộ chọn thời gian: Lỗi hướng bộ chọn",
     "translator_note": "translate_short_title"
   },
   {
@@ -4421,7 +4421,7 @@
     "ai_reason": "",
     "source_en": "Time selector: Selector component not in selector mode",
     "review_note": "",
-    "new_translation_vi": "Bộ chọn thời gian: Thành phần chọn không ở chế độ chọn",
+    "new_translation_vi": "Bộ chọn thời gian: Thành phần bộ chọn không ở chế độ bộ chọn",
     "translator_note": "translate_short_title"
   },
   {
@@ -4446,7 +4446,7 @@
     "ai_reason": "",
     "source_en": "Invalid Token",
     "review_note": "",
-    "new_translation_vi": "Mã thông báo không hợp lệ",
+    "new_translation_vi": "Invalid Token",
     "translator_note": "keep_proper_name"
   },
   {
@@ -4471,7 +4471,7 @@
     "ai_reason": "",
     "source_en": "Restricted client action",
     "review_note": "",
-    "new_translation_vi": "Hành động máy khách bị hạn chế",
+    "new_translation_vi": "Hành động phía máy khách bị hạn chế",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -4496,7 +4496,7 @@
     "ai_reason": "",
     "source_en": "Restricted client action",
     "review_note": "",
-    "new_translation_vi": "Hành động máy khách bị hạn chế",
+    "new_translation_vi": "Hành động phía máy khách bị hạn chế",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -4521,7 +4521,7 @@
     "ai_reason": "",
     "source_en": "System error",
     "review_note": "",
-    "new_translation_vi": "Lỗi Hệ Thống",
+    "new_translation_vi": "Lỗi hệ thống",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -4546,7 +4546,7 @@
     "ai_reason": "",
     "source_en": "Restricted client action",
     "review_note": "",
-    "new_translation_vi": "Hành động máy khách bị hạn chế",
+    "new_translation_vi": "Hành động phía máy khách bị hạn chế",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -4571,7 +4571,7 @@
     "ai_reason": "",
     "source_en": "Invalid Message Request",
     "review_note": "",
-    "new_translation_vi": "Yêu cầu tin nhắn không hợp lệ",
+    "new_translation_vi": "Invalid Message Request",
     "translator_note": "keep_proper_name"
   },
   {
@@ -4596,7 +4596,7 @@
     "ai_reason": "",
     "source_en": "Intimacy character error",
     "review_note": "",
-    "new_translation_vi": "Lỗi nhân vật thân tình",
+    "new_translation_vi": "Lỗi nhân vật thân mật",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -4621,7 +4621,7 @@
     "ai_reason": "",
     "source_en": "Intimacy configuration error",
     "review_note": "",
-    "new_translation_vi": "Lỗi cấu hình thân tình",
+    "new_translation_vi": "Lỗi cấu hình thân mật",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -4646,7 +4646,7 @@
     "ai_reason": "",
     "source_en": "Intimacy mission error",
     "review_note": "",
-    "new_translation_vi": "Lỗi nhiệm vụ thân tình",
+    "new_translation_vi": "Lỗi nhiệm vụ thân mật",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -4671,7 +4671,7 @@
     "ai_reason": "",
     "source_en": "Intimacy level reward error",
     "review_note": "",
-    "new_translation_vi": "Lỗi phần thưởng cấp độ thân tình",
+    "new_translation_vi": "Lỗi phần thưởng cấp độ Thân mật",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -4696,7 +4696,7 @@
     "ai_reason": "",
     "source_en": "Intimacy mission accept error",
     "review_note": "",
-    "new_translation_vi": "Lỗi nhận nhiệm vụ thân tình",
+    "new_translation_vi": "Lỗi nhận nhiệm vụ Thân mật",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -4721,7 +4721,7 @@
     "ai_reason": "",
     "source_en": "Current subsection of Intimacy locked",
     "review_note": "",
-    "new_translation_vi": "Mục Gắn Kết hiện tại bị khóa",
+    "new_translation_vi": "Mục con hiện tại của Thân mật bị khóa",
     "translator_note": "translate_short_title"
   },
   {
@@ -4796,7 +4796,7 @@
     "ai_reason": "",
     "source_en": "Elevator locked",
     "review_note": "",
-    "new_translation_vi": "Thang máy đã bị khóa",
+    "new_translation_vi": "Thang máy bị khóa",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -4871,7 +4871,7 @@
     "ai_reason": "",
     "source_en": "Elevator not at starting location",
     "review_note": "",
-    "new_translation_vi": "Thang máy chưa rời vị trí ban đầu",
+    "new_translation_vi": "Thang máy không ở vị trí ban đầu",
     "translator_note": "translate_short_title"
   },
   {
@@ -4896,7 +4896,7 @@
     "ai_reason": "",
     "source_en": "Elevator not at end location",
     "review_note": "",
-    "new_translation_vi": "Thang máy chưa đến vị trí cuối",
+    "new_translation_vi": "Thang máy không ở vị trí đích",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -4921,7 +4921,7 @@
     "ai_reason": "",
     "source_en": "Restricted elevator level",
     "review_note": "",
-    "new_translation_vi": "Tầng thang máy bị hạn chế",
+    "new_translation_vi": "Cấp độ thang máy bị hạn chế",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -4946,7 +4946,7 @@
     "ai_reason": "",
     "source_en": "Request denied by Solaris owner",
     "review_note": "",
-    "new_translation_vi": "Yêu cầu bị từ chối bởi chủ nhân Solaris",
+    "new_translation_vi": "Yêu cầu bị chủ sở hữu Solaris từ chối",
     "translator_note": "translate_role_or_speaker_title"
   },
   {
@@ -4971,7 +4971,7 @@
     "ai_reason": "",
     "source_en": "Player not found or player is offline",
     "review_note": "",
-    "new_translation_vi": "Không tìm thấy Vận Mệnh Giả hoặc Vận Mệnh Giả đang ngoại tuyến",
+    "new_translation_vi": "Không tìm thấy người chơi hoặc người chơi đang offline",
     "translator_note": "translate_short_title"
   },
   {
@@ -4996,7 +4996,7 @@
     "ai_reason": "",
     "source_en": "Solaris owner already in co-op mode",
     "review_note": "",
-    "new_translation_vi": "Chủ nhân Solaris đã bật chế độ hợp tác",
+    "new_translation_vi": "Chủ sở hữu Solaris đã bật chế độ Co-op",
     "translator_note": "translate_role_or_speaker_title"
   },
   {
@@ -5021,7 +5021,7 @@
     "ai_reason": "",
     "source_en": "Max Co-opt player number reached",
     "review_note": "",
-    "new_translation_vi": "Đã đạt số lượng người chơi đồng hành tối đa",
+    "new_translation_vi": "Đã đạt số lượng người chơi Co-op tối đa",
     "translator_note": "translate_short_title"
   },
   {
@@ -5046,7 +5046,7 @@
     "ai_reason": "",
     "source_en": "Solaris owner has enabled friends only join requests",
     "review_note": "",
-    "new_translation_vi": "Chủ nhân Solaris chỉ cho phép bạn bè gửi yêu cầu tham gia",
+    "new_translation_vi": "Chủ sở hữu Solaris chỉ cho phép bạn bè gửi yêu cầu tham gia",
     "translator_note": "translate_role_or_speaker_title"
   },
   {
@@ -5071,7 +5071,7 @@
     "ai_reason": "",
     "source_en": "The world owner has banned all Co-op requests",
     "review_note": "",
-    "new_translation_vi": "Chủ thế giới đã chặn tất cả yêu cầu Hợp Tác",
+    "new_translation_vi": "Chủ thế giới đã chặn tất cả yêu cầu Co-op",
     "translator_note": "translate_role_or_speaker_title"
   },
   {
@@ -5096,7 +5096,7 @@
     "ai_reason": "",
     "source_en": "You have been blocked by this player",
     "review_note": "",
-    "new_translation_vi": "Cậu đã bị chặn bởi người chơi này",
+    "new_translation_vi": "Bạn đã bị người chơi này chặn",
     "translator_note": "translate_short_title"
   },
   {
@@ -5121,7 +5121,7 @@
     "ai_reason": "",
     "source_en": "Cannot join a world with a higher SOL3 Phase",
     "review_note": "",
-    "new_translation_vi": "Không thể tham gia thế giới có Giai Đoạn SOL3 cao hơn",
+    "new_translation_vi": "Không thể tham gia thế giới có SOL3 Phase cao hơn",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -5146,7 +5146,7 @@
     "ai_reason": "",
     "source_en": "The world owner has disabled Co-op Mode",
     "review_note": "",
-    "new_translation_vi": "Chủ thế giới đã tắt Chế Độ Hợp Tác",
+    "new_translation_vi": "Chủ thế giới đã tắt chế độ Co-op",
     "translator_note": "translate_role_or_speaker_title"
   },
   {
@@ -5171,7 +5171,7 @@
     "ai_reason": "",
     "source_en": "The world owner is currently in another world",
     "review_note": "",
-    "new_translation_vi": "Chủ thế giới hiện đang ở một thế giới khác",
+    "new_translation_vi": "Chủ thế giới hiện đang ở thế giới khác",
     "translator_note": "translate_role_or_speaker_title"
   },
   {
@@ -5196,7 +5196,7 @@
     "ai_reason": "",
     "source_en": "The world owner is currently in a Single-player only quest",
     "review_note": "",
-    "new_translation_vi": "Chủ thế giới hiện đang trong nhiệm vụ Chơi Đơn",
+    "new_translation_vi": "Chủ thế giới hiện đang trong nhiệm vụ chỉ dành cho một người chơi",
     "translator_note": "translate_role_or_speaker_title"
   },
   {
@@ -5221,7 +5221,7 @@
     "ai_reason": "",
     "source_en": "Already in Co-op Mode",
     "review_note": "",
-    "new_translation_vi": "Đang ở Chế Độ Hợp Tác rồi",
+    "new_translation_vi": "Đã ở chế độ Co-op",
     "translator_note": "translate_short_title"
   },
   {
@@ -5246,7 +5246,7 @@
     "ai_reason": "",
     "source_en": "Currently in a Single-player only quest",
     "review_note": "",
-    "new_translation_vi": "Đang trong nhiệm vụ chỉ dành cho Chơi Đơn",
+    "new_translation_vi": "Hiện đang trong nhiệm vụ chỉ dành cho một người chơi",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -5271,7 +5271,7 @@
     "ai_reason": "",
     "source_en": "Co-op Mode disabled",
     "review_note": "",
-    "new_translation_vi": "Chế độ Đồng Đội đã bị vô hiệu hóa",
+    "new_translation_vi": "Chế độ Co-op bị tắt",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -5296,7 +5296,7 @@
     "ai_reason": "",
     "source_en": "Request to join Solaris sent",
     "review_note": "",
-    "new_translation_vi": "Đã gửi yêu cầu gia nhập Solaris",
+    "new_translation_vi": "Đã gửi yêu cầu tham gia Solaris",
     "translator_note": "translate_short_title"
   },
   {
@@ -5321,7 +5321,7 @@
     "ai_reason": "",
     "source_en": "Cannot join your own Solaris",
     "review_note": "",
-    "new_translation_vi": "Không thể tham gia Solaris của chính mình",
+    "new_translation_vi": "Không thể tham gia Solaris của chính bạn",
     "translator_note": "translate_short_title"
   },
   {
@@ -5371,7 +5371,7 @@
     "ai_reason": "",
     "source_en": "Request timed out",
     "review_note": "",
-    "new_translation_vi": "Yêu cầu hết thời gian chờ",
+    "new_translation_vi": "Yêu cầu đã hết thời gian chờ",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -5396,7 +5396,7 @@
     "ai_reason": "",
     "source_en": "Entering player Solaris, please wait",
     "review_note": "",
-    "new_translation_vi": "Đang kết nối người chơi với Solaris, xin chờ",
+    "new_translation_vi": "Đang vào Solaris của người chơi, vui lòng đợi",
     "translator_note": "translate_short_title"
   },
   {
@@ -5421,7 +5421,7 @@
     "ai_reason": "",
     "source_en": "Waiting for player(s) to join Solaris, please wait",
     "review_note": "",
-    "new_translation_vi": "Đang đợi người chơi tham gia Solaris, xin chờ giây lát",
+    "new_translation_vi": "Đang chờ người chơi tham gia Solaris, vui lòng đợi",
     "translator_note": "translate_short_title"
   },
   {
@@ -5446,7 +5446,7 @@
     "ai_reason": "",
     "source_en": "Join queue full, please wait",
     "review_note": "",
-    "new_translation_vi": "Hàng chờ tham gia đã đầy, vui lòng đợi",
+    "new_translation_vi": "Hàng đợi tham gia đã đầy, vui lòng đợi",
     "translator_note": "translate_short_title"
   },
   {
@@ -5471,7 +5471,7 @@
     "ai_reason": "",
     "source_en": "Already in join queue",
     "review_note": "",
-    "new_translation_vi": "Đã vào hàng chờ tham gia rồi",
+    "new_translation_vi": "Đã ở trong hàng đợi tham gia",
     "translator_note": "translate_short_title"
   },
   {
@@ -5496,7 +5496,7 @@
     "ai_reason": "",
     "source_en": "Solaris owner not in Solaris",
     "review_note": "",
-    "new_translation_vi": "Chủ nhân Solaris không ở trong Solaris",
+    "new_translation_vi": "Chủ sở hữu Solaris không ở trong Solaris",
     "translator_note": "translate_role_or_speaker_title"
   },
   {
@@ -5521,7 +5521,7 @@
     "ai_reason": "",
     "source_en": "Player not in Solaris",
     "review_note": "",
-    "new_translation_vi": "Vận Mệnh Giả không ở Solaris-3",
+    "new_translation_vi": "Người chơi không ở trong Solaris",
     "translator_note": "translate_short_title"
   },
   {
@@ -5546,7 +5546,7 @@
     "ai_reason": "",
     "source_en": "Not in join queue",
     "review_note": "",
-    "new_translation_vi": "Không trong hàng chờ tham gia",
+    "new_translation_vi": "Không ở trong hàng đợi tham gia",
     "translator_note": "translate_short_title"
   },
   {
@@ -5571,7 +5571,7 @@
     "ai_reason": "",
     "source_en": "Player not found",
     "review_note": "",
-    "new_translation_vi": "Không tìm thấy Vận Mệnh Giả",
+    "new_translation_vi": "Không tìm thấy người chơi",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -5596,7 +5596,7 @@
     "ai_reason": "",
     "source_en": "The world owner is currently using trial Resonator, unable to join Co-op",
     "review_note": "",
-    "new_translation_vi": "Chủ thế giới đang dùng Resonator thử nghiệm, không thể tham gia Hợp Tác",
+    "new_translation_vi": "Chủ thế giới hiện đang sử dụng Resonator thử nghiệm, không thể tham gia Co-op",
     "translator_note": "translate_role_or_speaker_title"
   },
   {
@@ -5621,7 +5621,7 @@
     "ai_reason": "",
     "source_en": "The world owner is currently using trial Resonator, unable to join Co-op",
     "review_note": "",
-    "new_translation_vi": "Chủ thế giới đang dùng Resonator thử nghiệm, không thể tham gia Hợp Tác",
+    "new_translation_vi": "Chủ thế giới hiện đang sử dụng Resonator thử nghiệm, không thể tham gia Co-op",
     "translator_note": "translate_role_or_speaker_title"
   },
   {
@@ -5646,7 +5646,7 @@
     "ai_reason": "",
     "source_en": "Request send failed, player currently matching for co-op",
     "review_note": "",
-    "new_translation_vi": "Gửi yêu cầu thất bại, người chơi đang trong quá trình ghép cặp co-op",
+    "new_translation_vi": "Gửi yêu cầu thất bại, người chơi hiện đang ghép cặp Co-op",
     "translator_note": "translate_short_title"
   },
   {
@@ -5671,7 +5671,7 @@
     "ai_reason": "",
     "source_en": "Cannot accept requests during co-op matching",
     "review_note": "",
-    "new_translation_vi": "Không thể chấp nhận yêu cầu trong lúc ghép đội hợp tác",
+    "new_translation_vi": "Không thể nhận yêu cầu trong lúc ghép đội co-op",
     "translator_note": "translate_short_title"
   },
   {
@@ -5696,7 +5696,7 @@
     "ai_reason": "",
     "source_en": "Invalid GM",
     "review_note": "",
-    "new_translation_vi": "GM không hợp lệ",
+    "new_translation_vi": "Invalid GM",
     "translator_note": "keep_proper_name"
   },
   {
@@ -5721,7 +5721,7 @@
     "ai_reason": "",
     "source_en": "The event has not started",
     "review_note": "",
-    "new_translation_vi": "Sự kiện chưa bắt đầu.",
+    "new_translation_vi": "Sự kiện chưa bắt đầu",
     "translator_note": "translate_short_title"
   },
   {
@@ -5746,7 +5746,7 @@
     "ai_reason": "",
     "source_en": "The redemption code has been used",
     "review_note": "",
-    "new_translation_vi": "Mã đổi quà đã được sử dụng",
+    "new_translation_vi": "Mã đổi đã được sử dụng",
     "translator_note": "translate_short_title"
   },
   {
@@ -5771,7 +5771,7 @@
     "ai_reason": "",
     "source_en": "The redemption code has been used",
     "review_note": "",
-    "new_translation_vi": "Mã đổi quà đã được sử dụng",
+    "new_translation_vi": "Mã đổi đã được sử dụng",
     "translator_note": "translate_short_title"
   },
   {
@@ -5846,7 +5846,7 @@
     "ai_reason": "",
     "source_en": "The redemption code does not currently meet the redemption conditions",
     "review_note": "",
-    "new_translation_vi": "Mã đổi quà hiện không đáp ứng điều kiện đổi",
+    "new_translation_vi": "Mã đổi hiện không đủ điều kiện để đổi",
     "translator_note": "translate_short_title"
   },
   {
@@ -5921,7 +5921,7 @@
     "ai_reason": "",
     "source_en": "The redemption code has expired",
     "review_note": "",
-    "new_translation_vi": "Mã đổi quà đã hết hạn rồi.",
+    "new_translation_vi": "Mã đổi đã hết hạn",
     "translator_note": "translate_short_title"
   },
   {
@@ -5996,7 +5996,7 @@
     "ai_reason": "",
     "source_en": "The CdKey function is not enabled",
     "review_note": "",
-    "new_translation_vi": "Chức năng Nhập CdKey chưa được kích hoạt",
+    "new_translation_vi": "Chức năng CdKey chưa được kích hoạt",
     "translator_note": "translate_short_title"
   },
   {
@@ -6046,7 +6046,7 @@
     "ai_reason": "",
     "source_en": "The redemption code has not yet taken effect",
     "review_note": "",
-    "new_translation_vi": "Mã đổi quà vẫn chưa có hiệu lực.",
+    "new_translation_vi": "Mã đổi chưa có hiệu lực",
     "translator_note": "translate_short_title"
   },
   {
@@ -6071,7 +6071,7 @@
     "ai_reason": "",
     "source_en": "The current number of redemptions is too high, please try again later",
     "review_note": "",
-    "new_translation_vi": "Số lần đổi quà hiện tại quá nhiều, hãy thử lại sau",
+    "new_translation_vi": "Số lần đổi hiện tại quá cao, vui lòng thử lại sau",
     "translator_note": "translate_short_title"
   },
   {
@@ -6096,7 +6096,7 @@
     "ai_reason": "",
     "source_en": "The current number of redemptions is too high, please try again later",
     "review_note": "",
-    "new_translation_vi": "Số lần đổi quà hiện tại quá nhiều, hãy thử lại sau",
+    "new_translation_vi": "Số lần đổi hiện tại quá cao, vui lòng thử lại sau",
     "translator_note": "translate_short_title"
   },
   {
@@ -6171,7 +6171,7 @@
     "ai_reason": "",
     "source_en": "Cannot simulate weather in the current time",
     "review_note": "",
-    "new_translation_vi": "Không thể mô phỏng thời tiết vào thời điểm hiện tại",
+    "new_translation_vi": "Không thể mô phỏng thời tiết tại thời điểm hiện tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -6196,7 +6196,7 @@
     "ai_reason": "",
     "source_en": "Cannot simulate weather in the current area",
     "review_note": "",
-    "new_translation_vi": "Không thể mô phỏng thời tiết ở khu vực hiện tại",
+    "new_translation_vi": "Không thể mô phỏng thời tiết tại khu vực hiện tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -6221,7 +6221,7 @@
     "ai_reason": "",
     "source_en": "Cannot simulate weather in the current area",
     "review_note": "",
-    "new_translation_vi": "Không thể mô phỏng thời tiết ở khu vực hiện tại",
+    "new_translation_vi": "Không thể mô phỏng thời tiết tại khu vực hiện tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -6246,7 +6246,7 @@
     "ai_reason": "",
     "source_en": "You cannot simulate weather when in combat",
     "review_note": "",
-    "new_translation_vi": "Bạn không thể mô phỏng thời tiết khi đang chiến đấu",
+    "new_translation_vi": "Không thể mô phỏng thời tiết khi đang chiến đấu",
     "translator_note": "translate_short_title"
   },
   {
@@ -6271,7 +6271,7 @@
     "ai_reason": "",
     "source_en": "You cannot simulate weather in Co-op mode",
     "review_note": "",
-    "new_translation_vi": "Bạn không thể mô phỏng thời tiết trong chế độ Đồng Đội",
+    "new_translation_vi": "Không thể mô phỏng thời tiết trong chế độ Co-op",
     "translator_note": "translate_short_title"
   },
   {
@@ -6296,7 +6296,7 @@
     "ai_reason": "",
     "source_en": "Sky Projection Array Control Module Locked",
     "review_note": "",
-    "new_translation_vi": "Mô-đun Điều Khiển Mảng Chiếu Hình Trên Không Đã Bị Khóa",
+    "new_translation_vi": "Mô-đun Điều khiển Mảng Dự báo Bầu trời đã bị khóa",
     "translator_note": "translate_short_title"
   },
   {
@@ -6321,7 +6321,7 @@
     "ai_reason": "",
     "source_en": "Sky Projection Array Control Module Locked",
     "review_note": "",
-    "new_translation_vi": "Mô-đun Điều Khiển Mảng Chiếu Hình Trên Không Đã Bị Khóa",
+    "new_translation_vi": "Mô-đun Điều khiển Mảng Dự báo Bầu trời đã bị khóa",
     "translator_note": "translate_short_title"
   },
   {
@@ -6346,7 +6346,7 @@
     "ai_reason": "",
     "source_en": "Chapter X - Act X $[begin]",
     "review_note": "",
-    "new_translation_vi": "Chương X - Hồi X $[Bắt đầu]",
+    "new_translation_vi": "Chương X - Hồi X $[begin]",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -6396,7 +6396,7 @@
     "ai_reason": "",
     "source_en": "Chapter X - Act X $[End]",
     "review_note": "",
-    "new_translation_vi": "Chương X - Hồi X $[Kết thúc]",
+    "new_translation_vi": "Chương X - Hồi X $[End]",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -6446,7 +6446,7 @@
     "ai_reason": "",
     "source_en": "Complete",
     "review_note": "",
-    "new_translation_vi": "Hoàn tất",
+    "new_translation_vi": "Complete",
     "translator_note": "keep_proper_name"
   },
   {
@@ -6571,7 +6571,7 @@
     "ai_reason": "",
     "source_en": "Extra Mission",
     "review_note": "",
-    "new_translation_vi": "Nhiệm Vụ Phụ",
+    "new_translation_vi": "Nhiệm vụ Phụ",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -6596,7 +6596,7 @@
     "ai_reason": "",
     "source_en": "Mission Complete",
     "review_note": "",
-    "new_translation_vi": "Nhiệm Vụ Hoàn Thành",
+    "new_translation_vi": "Hoàn thành Nhiệm vụ",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -6621,7 +6621,7 @@
     "ai_reason": "",
     "source_en": "Rewards time locked",
     "review_note": "",
-    "new_translation_vi": "Phần thưởng bị khóa theo thời gian",
+    "new_translation_vi": "Phần thưởng bị khóa thời gian",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -6671,7 +6671,7 @@
     "ai_reason": "",
     "source_en": "Claimed",
     "review_note": "",
-    "new_translation_vi": "Đã nhận",
+    "new_translation_vi": "Claimed",
     "translator_note": "keep_proper_name"
   },
   {
@@ -6696,7 +6696,7 @@
     "ai_reason": "",
     "source_en": "Combat Event",
     "review_note": "",
-    "new_translation_vi": "Sự Kiện Chiến Đấu",
+    "new_translation_vi": "Combat Event",
     "translator_note": "keep_proper_name"
   },
   {
@@ -6721,7 +6721,7 @@
     "ai_reason": "",
     "source_en": "Leisure Event",
     "review_note": "",
-    "new_translation_vi": "Sự Kiện Nhàn Hạ",
+    "new_translation_vi": "Leisure Event",
     "translator_note": "keep_proper_name"
   },
   {
@@ -6746,7 +6746,7 @@
     "ai_reason": "",
     "source_en": "Exploration Event",
     "review_note": "",
-    "new_translation_vi": "Sự Kiện Thám Hiểm",
+    "new_translation_vi": "Exploration Event",
     "translator_note": "keep_proper_name"
   },
   {
@@ -6771,7 +6771,7 @@
     "ai_reason": "",
     "source_en": "All",
     "review_note": "",
-    "new_translation_vi": "Tất cả",
+    "new_translation_vi": "All",
     "translator_note": "keep_proper_name"
   },
   {
@@ -6796,7 +6796,7 @@
     "ai_reason": "",
     "source_en": "Failed",
     "review_note": "",
-    "new_translation_vi": "Thất bại",
+    "new_translation_vi": "Failed",
     "translator_note": "keep_proper_name"
   },
   {
@@ -6821,7 +6821,7 @@
     "ai_reason": "",
     "source_en": "Calculation Error",
     "review_note": "",
-    "new_translation_vi": "Lỗi Tính Toán",
+    "new_translation_vi": "Calculation Error",
     "translator_note": "keep_proper_name"
   },
   {
@@ -6846,7 +6846,7 @@
     "ai_reason": "",
     "source_en": "Choice Supply Pack",
     "review_note": "",
-    "new_translation_vi": "Gói Vật Tư Lựa Chọn",
+    "new_translation_vi": "Choice Supply Pack",
     "translator_note": "keep_proper_name"
   },
   {
@@ -7121,7 +7121,7 @@
     "ai_reason": "",
     "source_en": "Interact with Sound String to activate Sonoro Sphere",
     "review_note": "",
-    "new_translation_vi": "Tương tác với Dây Âm Thanh để kích hoạt Sonoro Sphere",
+    "new_translation_vi": "Tương tác với Dây Âm để kích hoạt Sonoro Sphere",
     "translator_note": "translate_short_title"
   },
   {
@@ -7171,7 +7171,7 @@
     "ai_reason": "",
     "source_en": "Sound Wave",
     "review_note": "",
-    "new_translation_vi": "Sóng Âm",
+    "new_translation_vi": "Sound Wave",
     "translator_note": "keep_proper_name"
   },
   {
@@ -7196,7 +7196,7 @@
     "ai_reason": "",
     "source_en": "Sound Wave",
     "review_note": "",
-    "new_translation_vi": "Sóng Âm",
+    "new_translation_vi": "Sound Wave",
     "translator_note": "keep_proper_name"
   },
   {
@@ -7221,7 +7221,7 @@
     "ai_reason": "",
     "source_en": "Sound Wave",
     "review_note": "",
-    "new_translation_vi": "Sóng Âm",
+    "new_translation_vi": "Sound Wave",
     "translator_note": "keep_proper_name"
   },
   {
@@ -7246,7 +7246,7 @@
     "ai_reason": "",
     "source_en": "Sound Wave",
     "review_note": "",
-    "new_translation_vi": "Sóng Âm",
+    "new_translation_vi": "Sound Wave",
     "translator_note": "keep_proper_name"
   },
   {
@@ -7271,7 +7271,7 @@
     "ai_reason": "",
     "source_en": "Challenge Complete",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Thử thách",
+    "new_translation_vi": "Hoàn thành thử thách",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -7296,7 +7296,7 @@
     "ai_reason": "",
     "source_en": "Challenge Complete",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Thử thách",
+    "new_translation_vi": "Hoàn thành thử thách",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -7321,7 +7321,7 @@
     "ai_reason": "",
     "source_en": "Tacet Field Unlocked",
     "review_note": "",
-    "new_translation_vi": "Tổ Tacet đã mở khóa",
+    "new_translation_vi": "Tacet Field Unlocked",
     "translator_note": "keep_proper_name"
   },
   {
@@ -7346,7 +7346,7 @@
     "ai_reason": "",
     "source_en": "Tacet Field Unlocked",
     "review_note": "",
-    "new_translation_vi": "Tổ Tacet đã mở khóa",
+    "new_translation_vi": "Tacet Field Unlocked",
     "translator_note": "keep_proper_name"
   },
   {
@@ -7371,7 +7371,7 @@
     "ai_reason": "",
     "source_en": "Find Camellya",
     "review_note": "",
-    "new_translation_vi": "Tìm Camellya đi",
+    "new_translation_vi": "Find Camellya",
     "translator_note": "keep_proper_name"
   },
   {
@@ -7396,7 +7396,7 @@
     "ai_reason": "",
     "source_en": "Challenge Complete",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Thử thách",
+    "new_translation_vi": "Hoàn thành thử thách",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -7421,7 +7421,7 @@
     "ai_reason": "",
     "source_en": "Challenge Failed",
     "review_note": "",
-    "new_translation_vi": "Thử thách Thất bại",
+    "new_translation_vi": "Thử thách thất bại",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -7446,7 +7446,7 @@
     "ai_reason": "",
     "source_en": "Challenge Complete",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Thử thách",
+    "new_translation_vi": "Hoàn thành thử thách",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -7471,7 +7471,7 @@
     "ai_reason": "",
     "source_en": "Commision Start",
     "review_note": "",
-    "new_translation_vi": "Bắt đầu Nhiệm vụ",
+    "new_translation_vi": "Bắt đầu nhiệm vụ",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -7496,7 +7496,7 @@
     "ai_reason": "",
     "source_en": "Extra Mission",
     "review_note": "",
-    "new_translation_vi": "Nhiệm Vụ Phụ",
+    "new_translation_vi": "Nhiệm vụ phụ",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -7521,7 +7521,7 @@
     "ai_reason": "",
     "source_en": "Mission Complete",
     "review_note": "",
-    "new_translation_vi": "Nhiệm Vụ Hoàn Thành",
+    "new_translation_vi": "Hoàn thành nhiệm vụ",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -7546,7 +7546,7 @@
     "ai_reason": "",
     "source_en": "Countdown",
     "review_note": "",
-    "new_translation_vi": "Đếm Ngược",
+    "new_translation_vi": "Countdown",
     "translator_note": "keep_proper_name"
   },
   {
@@ -7571,7 +7571,7 @@
     "ai_reason": "",
     "source_en": "flowing text",
     "review_note": "",
-    "new_translation_vi": "văn bản trôi",
+    "new_translation_vi": "văn bản chạy",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -7596,7 +7596,7 @@
     "ai_reason": "",
     "source_en": "Current Progress: 0/100",
     "review_note": "",
-    "new_translation_vi": "Tiến độ hiện tại: 0/100",
+    "new_translation_vi": "Current Progress: 0/100",
     "translator_note": "keep_proper_name"
   },
   {
@@ -7621,7 +7621,7 @@
     "ai_reason": "",
     "source_en": "Complete all tutorial to complete the Trial",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành tất cả hướng dẫn để vượt qua Thử Thách",
+    "new_translation_vi": "Hoàn thành tất cả hướng dẫn để hoàn tất Thử nghiệm",
     "translator_note": "translate_short_title"
   },
   {
@@ -7646,7 +7646,7 @@
     "ai_reason": "",
     "source_en": "Trial Character",
     "review_note": "",
-    "new_translation_vi": "Nhân vật thử nghiệm",
+    "new_translation_vi": "Trial Character",
     "translator_note": "keep_proper_name"
   },
   {
@@ -7696,7 +7696,7 @@
     "ai_reason": "",
     "source_en": "Tutorial begins",
     "review_note": "",
-    "new_translation_vi": "Bắt Đầu Hướng Dẫn",
+    "new_translation_vi": "Hướng dẫn bắt đầu",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -7721,7 +7721,7 @@
     "ai_reason": "",
     "source_en": "New Entry Unlocked",
     "review_note": "",
-    "new_translation_vi": "Mục Mới Đã Mở Khóa",
+    "new_translation_vi": "New Entry Unlocked",
     "translator_note": "keep_proper_name"
   },
   {
@@ -7746,7 +7746,7 @@
     "ai_reason": "",
     "source_en": "Healing Complete",
     "review_note": "",
-    "new_translation_vi": "Hoàn tất hồi phục",
+    "new_translation_vi": "Healing Complete",
     "translator_note": "keep_proper_name"
   },
   {
@@ -7771,7 +7771,7 @@
     "ai_reason": "",
     "source_en": "Metal Key required for opening",
     "review_note": "",
-    "new_translation_vi": "Yêu cầu Chìa Khóa Kim Loại để mở",
+    "new_translation_vi": "Cần Chìa khóa Kim loại để mở",
     "translator_note": "translate_short_title"
   },
   {
@@ -7796,7 +7796,7 @@
     "ai_reason": "",
     "source_en": "Complete",
     "review_note": "",
-    "new_translation_vi": "Hoàn tất",
+    "new_translation_vi": "Complete",
     "translator_note": "keep_proper_name"
   },
   {
@@ -7821,7 +7821,7 @@
     "ai_reason": "",
     "source_en": "First-time Challenge Complete",
     "review_note": "",
-    "new_translation_vi": "Hoàn Thành Thử Thách Lần Đầu",
+    "new_translation_vi": "Hoàn thành thử thách lần đầu",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -7846,7 +7846,7 @@
     "ai_reason": "",
     "source_en": "Stand up to place Memos",
     "review_note": "",
-    "new_translation_vi": "Đứng lên để đặt Memo",
+    "new_translation_vi": "Đứng lên để đặt Ghi chú",
     "translator_note": "translate_short_title"
   },
   {
@@ -7871,7 +7871,7 @@
     "ai_reason": "",
     "source_en": "This Player is already in your Friend Requests list",
     "review_note": "",
-    "new_translation_vi": "Người chơi này đã có trong danh sách Lời Mời Kết Bạn của cậu rồi",
+    "new_translation_vi": "Người chơi này đã có trong danh sách Lời mời Kết bạn của bạn",
     "translator_note": "translate_short_title"
   },
   {
@@ -7896,7 +7896,7 @@
     "ai_reason": "",
     "source_en": "This Player is already your Friend",
     "review_note": "",
-    "new_translation_vi": "Người chơi này đã là bạn của cậu rồi",
+    "new_translation_vi": "Người chơi này đã là bạn bè của bạn",
     "translator_note": "translate_short_title"
   },
   {
@@ -7946,7 +7946,7 @@
     "ai_reason": "",
     "source_en": "You've sent the application previously",
     "review_note": "",
-    "new_translation_vi": "Bạn đã gửi đơn đăng ký trước đó rồi.",
+    "new_translation_vi": "Bạn đã gửi yêu cầu trước đó",
     "translator_note": "translate_short_title"
   },
   {
@@ -7971,7 +7971,7 @@
     "ai_reason": "",
     "source_en": "You've reach the limit for daily application attempt",
     "review_note": "",
-    "new_translation_vi": "Bạn đã đạt giới hạn số lần nộp đơn hàng ngày.",
+    "new_translation_vi": "Bạn đã đạt giới hạn số lần gửi yêu cầu hàng ngày",
     "translator_note": "translate_short_title"
   },
   {
@@ -7996,7 +7996,7 @@
     "ai_reason": "",
     "source_en": "Pioneer Podcast Not Available",
     "review_note": "",
-    "new_translation_vi": "Podcast Tiên Phong không khả dụng",
+    "new_translation_vi": "Pioneer Podcast Not Available",
     "translator_note": "keep_proper_name"
   },
   {
@@ -8021,7 +8021,7 @@
     "ai_reason": "",
     "source_en": "Pioneer Podcast Items Not Available",
     "review_note": "",
-    "new_translation_vi": "Vật phẩm Podcast Tiên Phong không khả dụng",
+    "new_translation_vi": "Pioneer Podcast Items Not Available",
     "translator_note": "keep_proper_name"
   },
   {
@@ -8071,7 +8071,7 @@
     "ai_reason": "",
     "source_en": "Side Sprint Locked",
     "review_note": "",
-    "new_translation_vi": "Né Tránh Bên Bị Khóa",
+    "new_translation_vi": "Side Sprint Locked",
     "translator_note": "keep_proper_name"
   },
   {
@@ -8096,7 +8096,7 @@
     "ai_reason": "",
     "source_en": "This is not available for customization",
     "review_note": "",
-    "new_translation_vi": "Tính năng này không khả dụng để tùy chỉnh.",
+    "new_translation_vi": "Mục này không khả dụng để tùy chỉnh",
     "translator_note": "translate_short_title"
   },
   {
@@ -8121,7 +8121,7 @@
     "ai_reason": "",
     "source_en": "Unable to place Memos in Dungeons",
     "review_note": "",
-    "new_translation_vi": "Không thể đặt Ghi Chú trong Dungeon",
+    "new_translation_vi": "Không thể đặt Ghi chú trong Dungeon",
     "translator_note": "translate_short_title"
   },
   {
@@ -8146,7 +8146,7 @@
     "ai_reason": "",
     "source_en": "Unable to place Memos under Co-op Mode",
     "review_note": "",
-    "new_translation_vi": "Không thể đặt Ghi Chú trong Chế độ Hợp Tác",
+    "new_translation_vi": "Không thể đặt Ghi chú trong Chế độ Hợp tác",
     "translator_note": "translate_short_title"
   },
   {
@@ -8171,7 +8171,7 @@
     "ai_reason": "",
     "source_en": "You cannot place Memos now",
     "review_note": "",
-    "new_translation_vi": "Bạn không thể đặt Ghi Chú lúc này.",
+    "new_translation_vi": "Bạn không thể đặt Ghi chú lúc này",
     "translator_note": "translate_short_title"
   },
   {
@@ -8196,7 +8196,7 @@
     "ai_reason": "",
     "source_en": "Daily Commision Complete",
     "review_note": "",
-    "new_translation_vi": "Nhiệm Vụ Hằng Ngày Hoàn Thành",
+    "new_translation_vi": "Daily Commision Complete",
     "translator_note": "keep_proper_name"
   },
   {
@@ -8246,7 +8246,7 @@
     "ai_reason": "",
     "source_en": "Function unavailable in Instances",
     "review_note": "",
-    "new_translation_vi": "Tính năng không khả dụng trong Phiên Bản",
+    "new_translation_vi": "Tính năng không khả dụng trong Phiên bản",
     "translator_note": "translate_short_title"
   },
   {
@@ -8296,7 +8296,7 @@
     "ai_reason": "",
     "source_en": "Grapple temporarily disabled",
     "review_note": "",
-    "new_translation_vi": "Chức năng Móc tạm thời bị vô hiệu hóa",
+    "new_translation_vi": "Tạm thời không thể sử dụng Móc câu",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -8321,7 +8321,7 @@
     "ai_reason": "",
     "source_en": "Hoverdroid: Shooter cannot be used in the current scene",
     "review_note": "",
-    "new_translation_vi": "Robot Bay Lượn: Bộ phận bắn không thể sử dụng trong cảnh hiện tại",
+    "new_translation_vi": "Hoverdroid: Shooter không thể sử dụng trong cảnh hiện tại",
     "translator_note": "translate_short_title"
   },
   {
@@ -8371,7 +8371,7 @@
     "ai_reason": "",
     "source_en": "Friend Request Sent",
     "review_note": "",
-    "new_translation_vi": "Đã Gửi Yêu Cầu Kết Bạn",
+    "new_translation_vi": "Friend Request Sent",
     "translator_note": "keep_proper_name"
   },
   {
@@ -8396,7 +8396,7 @@
     "ai_reason": "",
     "source_en": "You have been unfriended by the current player",
     "review_note": "",
-    "new_translation_vi": "Bạn đã bị người chơi hiện tại xóa kết bạn.",
+    "new_translation_vi": "Bạn đã bị người chơi hiện tại hủy kết bạn",
     "translator_note": "translate_short_title"
   },
   {
@@ -8471,7 +8471,7 @@
     "ai_reason": "",
     "source_en": "12 characters max",
     "review_note": "",
-    "new_translation_vi": "12 ký tự tối đa",
+    "new_translation_vi": "Tối đa 12 ký tự",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -8496,7 +8496,7 @@
     "ai_reason": "",
     "source_en": "Friend Request Expired",
     "review_note": "",
-    "new_translation_vi": "Yêu Cầu Kết Bạn Đã Hết Hạn",
+    "new_translation_vi": "Friend Request Expired",
     "translator_note": "keep_proper_name"
   },
   {
@@ -8546,7 +8546,7 @@
     "ai_reason": "",
     "source_en": "Disliked",
     "review_note": "",
-    "new_translation_vi": "Không ưa thích",
+    "new_translation_vi": "Disliked",
     "translator_note": "keep_proper_name"
   },
   {
@@ -8571,7 +8571,7 @@
     "ai_reason": "",
     "source_en": "Liked",
     "review_note": "",
-    "new_translation_vi": "Đã thích",
+    "new_translation_vi": "Liked",
     "translator_note": "keep_proper_name"
   },
   {
@@ -8596,7 +8596,7 @@
     "ai_reason": "",
     "source_en": "Alerady placed a Memo here",
     "review_note": "",
-    "new_translation_vi": "Đã đặt Ghi Chú tại đây",
+    "new_translation_vi": "Đã đặt Ghi chú tại đây",
     "translator_note": "translate_short_title"
   },
   {
@@ -8646,7 +8646,7 @@
     "ai_reason": "",
     "source_en": "This player is already in your Blocklist",
     "review_note": "",
-    "new_translation_vi": "Người chơi này đã có trong Danh sách Chặn của bạn",
+    "new_translation_vi": "Người chơi này đã có trong Danh sách chặn của bạn",
     "translator_note": "translate_short_title"
   },
   {
@@ -8671,7 +8671,7 @@
     "ai_reason": "",
     "source_en": "This Player is not in your Blocklist",
     "review_note": "",
-    "new_translation_vi": "Người chơi này không có trong Danh Sách Chặn của cậu",
+    "new_translation_vi": "Người chơi này không có trong Danh sách chặn của bạn",
     "translator_note": "translate_short_title"
   },
   {
@@ -8721,7 +8721,7 @@
     "ai_reason": "",
     "source_en": "Insufficient Credits",
     "review_note": "",
-    "new_translation_vi": "Credits không đủ",
+    "new_translation_vi": "Insufficient Credits",
     "translator_note": "keep_proper_name"
   },
   {
@@ -8746,7 +8746,7 @@
     "ai_reason": "",
     "source_en": "Insufficient Materials",
     "review_note": "",
-    "new_translation_vi": "Nguyên liệu không đủ.",
+    "new_translation_vi": "Insufficient Materials",
     "translator_note": "keep_proper_name"
   },
   {
@@ -8771,7 +8771,7 @@
     "ai_reason": "",
     "source_en": "Log Upload Canceled",
     "review_note": "",
-    "new_translation_vi": "Hủy tải nhật ký lên",
+    "new_translation_vi": "Log Upload Canceled",
     "translator_note": "keep_proper_name"
   },
   {
@@ -8796,7 +8796,7 @@
     "ai_reason": "",
     "source_en": "Please perform actions after log is compressed",
     "review_note": "",
-    "new_translation_vi": "Vui lòng thực hiện hành động sau khi nhật ký được nén",
+    "new_translation_vi": "Vui lòng thực hiện thao tác sau khi nhật ký được nén",
     "translator_note": "translate_short_title"
   },
   {
@@ -8821,7 +8821,7 @@
     "ai_reason": "",
     "source_en": "Tick “confirm” before uploading",
     "review_note": "",
-    "new_translation_vi": "Bấm \"xác nhận\" trước khi tải lên",
+    "new_translation_vi": "Đánh dấu \"xác nhận\" trước khi tải lên",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -8846,7 +8846,7 @@
     "ai_reason": "",
     "source_en": "All Mail attachments claimed",
     "review_note": "",
-    "new_translation_vi": "Đã nhận toàn bộ tệp đính kèm trong Thư",
+    "new_translation_vi": "Đã nhận tất cả tệp đính kèm trong Thư",
     "translator_note": "translate_short_title"
   },
   {
@@ -8896,7 +8896,7 @@
     "ai_reason": "",
     "source_en": "Mail deleted",
     "review_note": "",
-    "new_translation_vi": "Thư đã xóa",
+    "new_translation_vi": "Thư đã bị xóa",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -8921,7 +8921,7 @@
     "ai_reason": "",
     "source_en": "Mail recalled",
     "review_note": "",
-    "new_translation_vi": "Thư đã thu hồi",
+    "new_translation_vi": "Thư đã được thu hồi",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -8946,7 +8946,7 @@
     "ai_reason": "",
     "source_en": "Rewards Claimed",
     "review_note": "",
-    "new_translation_vi": "Đã Nhận Phần Thưởng",
+    "new_translation_vi": "Đã nhận phần thưởng",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -8971,7 +8971,7 @@
     "ai_reason": "",
     "source_en": "Insufficient Materials",
     "review_note": "",
-    "new_translation_vi": "Nguyên liệu không đủ.",
+    "new_translation_vi": "Insufficient Materials",
     "translator_note": "keep_proper_name"
   },
   {
@@ -8996,7 +8996,7 @@
     "ai_reason": "",
     "source_en": "Void name",
     "review_note": "",
-    "new_translation_vi": "Tên Hư Không",
+    "new_translation_vi": "Tên trống",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -9021,7 +9021,7 @@
     "ai_reason": "",
     "source_en": "You need to set at least one character in the party",
     "review_note": "",
-    "new_translation_vi": "Cậu cần đặt ít nhất một nhân vật vào đội hình.",
+    "new_translation_vi": "Bạn cần đặt ít nhất một nhân vật trong đội",
     "translator_note": "translate_short_title"
   },
   {
@@ -9046,7 +9046,7 @@
     "ai_reason": "",
     "source_en": "No completed mission",
     "review_note": "",
-    "new_translation_vi": "Không có nhiệm vụ hoàn thành",
+    "new_translation_vi": "Không có nhiệm vụ đã hoàn thành",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -9071,7 +9071,7 @@
     "ai_reason": "",
     "source_en": "You cannot currently use this function",
     "review_note": "",
-    "new_translation_vi": "Hiện tại bạn không thể sử dụng chức năng này.",
+    "new_translation_vi": "Bạn hiện không thể sử dụng chức năng này",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -9096,7 +9096,7 @@
     "ai_reason": "",
     "source_en": "Keys unavailable to reset",
     "review_note": "",
-    "new_translation_vi": "Không thể đặt lại phím",
+    "new_translation_vi": "Không thể đặt lại các phím này",
     "translator_note": "translate_short_title"
   },
   {
@@ -9146,7 +9146,7 @@
     "ai_reason": "",
     "source_en": "This player is not in your Friend List",
     "review_note": "",
-    "new_translation_vi": "Người chơi này không có trong Danh sách Bạn bè của bạn",
+    "new_translation_vi": "Người chơi này không có trong Danh sách bạn bè của bạn",
     "translator_note": "translate_short_title"
   },
   {
@@ -9246,7 +9246,7 @@
     "ai_reason": "",
     "source_en": "This Player's Friend List is full",
     "review_note": "",
-    "new_translation_vi": "Danh sách Bạn Bè của người chơi này đã đầy",
+    "new_translation_vi": "Danh sách bạn bè của người chơi này đã đầy",
     "translator_note": "translate_short_title"
   },
   {
@@ -9271,7 +9271,7 @@
     "ai_reason": "",
     "source_en": "Completed",
     "review_note": "",
-    "new_translation_vi": "Đã hoàn thành",
+    "new_translation_vi": "Completed",
     "translator_note": "keep_proper_name"
   },
   {
@@ -9296,7 +9296,7 @@
     "ai_reason": "",
     "source_en": "Cannot enter tutorial under co-op mode",
     "review_note": "",
-    "new_translation_vi": "Không thể vào hướng dẫn khi đang ở Chế Độ Hợp Tác",
+    "new_translation_vi": "Không thể vào hướng dẫn trong chế độ hợp tác",
     "translator_note": "translate_short_title"
   },
   {
@@ -9346,7 +9346,7 @@
     "ai_reason": "",
     "source_en": "Unlock requirement not met",
     "review_note": "",
-    "new_translation_vi": "Chưa đáp ứng yêu cầu mở khóa",
+    "new_translation_vi": "Chưa đáp ứng điều kiện mở khóa",
     "translator_note": "translate_short_title"
   },
   {
@@ -9371,7 +9371,7 @@
     "ai_reason": "",
     "source_en": "Key Changes saved",
     "review_note": "",
-    "new_translation_vi": "Đã lưu Thay Đổi Chính",
+    "new_translation_vi": "Đã lưu thay đổi phím",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -9396,7 +9396,7 @@
     "ai_reason": "",
     "source_en": "Saved",
     "review_note": "",
-    "new_translation_vi": "Đã Lưu",
+    "new_translation_vi": "Saved",
     "translator_note": "keep_proper_name"
   },
   {
@@ -9471,7 +9471,7 @@
     "ai_reason": "",
     "source_en": "Locked",
     "review_note": "",
-    "new_translation_vi": "Đã khóa",
+    "new_translation_vi": "Locked",
     "translator_note": "keep_proper_name"
   },
   {
@@ -9496,7 +9496,7 @@
     "ai_reason": "",
     "source_en": "Trial Resonator joined the team",
     "review_note": "",
-    "new_translation_vi": "Resonator Thử Nghiệm đã tham gia đội",
+    "new_translation_vi": "Resonator thử nghiệm đã vào đội",
     "translator_note": "translate_short_title"
   },
   {
@@ -9521,7 +9521,7 @@
     "ai_reason": "",
     "source_en": "Trial Resonator left the team",
     "review_note": "",
-    "new_translation_vi": "Resonator Thử Nghiệm đã rời đội",
+    "new_translation_vi": "Resonator thử nghiệm đã rời đội",
     "translator_note": "translate_short_title"
   },
   {
@@ -9546,7 +9546,7 @@
     "ai_reason": "",
     "source_en": "Cannot enter Sonoro Sphere with Trial Character",
     "review_note": "",
-    "new_translation_vi": "Không thể vào Sonoro Sphere với Nhân Vật Thử Nghiệm",
+    "new_translation_vi": "Không thể vào Sonoro Sphere với Nhân vật thử nghiệm",
     "translator_note": "translate_short_title"
   },
   {
@@ -9571,7 +9571,7 @@
     "ai_reason": "",
     "source_en": "Cannot enter Sonoro Sphere with Trial Character",
     "review_note": "",
-    "new_translation_vi": "Không thể vào Sonoro Sphere với Nhân Vật Thử Nghiệm",
+    "new_translation_vi": "Không thể vào Sonoro Sphere với Nhân vật thử nghiệm",
     "translator_note": "translate_short_title"
   },
   {
@@ -9596,7 +9596,7 @@
     "ai_reason": "",
     "source_en": "Cannot adjust the team lineup while in Resonator Trial",
     "review_note": "",
-    "new_translation_vi": "Không thể thay đổi đội hình khi đang trong Thử Thách Resonator",
+    "new_translation_vi": "Không thể điều chỉnh đội hình khi đang trong Thử nghiệm Resonator",
     "translator_note": "translate_short_title"
   },
   {
@@ -9621,7 +9621,7 @@
     "ai_reason": "",
     "source_en": "Cannot Fast Travel with a Trial Character",
     "review_note": "",
-    "new_translation_vi": "Nhân vật thử nghiệm không thể Dịch Chuyển Tức Thời",
+    "new_translation_vi": "Không thể Dịch chuyển tức thời với Nhân vật thử nghiệm",
     "translator_note": "translate_short_title"
   },
   {
@@ -9646,7 +9646,7 @@
     "ai_reason": "",
     "source_en": "Locked",
     "review_note": "",
-    "new_translation_vi": "Đã khóa",
+    "new_translation_vi": "Locked",
     "translator_note": "keep_proper_name"
   },
   {
@@ -9671,7 +9671,7 @@
     "ai_reason": "",
     "source_en": "Subscription coupon redeemed",
     "review_note": "",
-    "new_translation_vi": "Đã đổi phiếu đăng ký thành công",
+    "new_translation_vi": "Đã đổi phiếu đăng ký",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -9696,7 +9696,7 @@
     "ai_reason": "",
     "source_en": "Absorb",
     "review_note": "",
-    "new_translation_vi": "Hấp Thu",
+    "new_translation_vi": "Absorb",
     "translator_note": "keep_proper_name"
   },
   {
@@ -9721,7 +9721,7 @@
     "ai_reason": "",
     "source_en": "Ingredient",
     "review_note": "",
-    "new_translation_vi": "Nguyên liệu",
+    "new_translation_vi": "Ingredient",
     "translator_note": "keep_proper_name"
   },
   {
@@ -9821,7 +9821,7 @@
     "ai_reason": "",
     "source_en": "Items Obtained",
     "review_note": "",
-    "new_translation_vi": "Đã nhận được vật phẩm",
+    "new_translation_vi": "Items Obtained",
     "translator_note": "keep_proper_name"
   },
   {
@@ -9846,7 +9846,7 @@
     "ai_reason": "",
     "source_en": "Number of openings",
     "review_note": "",
-    "new_translation_vi": "Số lượng lỗ hổng",
+    "new_translation_vi": "Số lần mở",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -9871,7 +9871,7 @@
     "ai_reason": "",
     "source_en": "Action",
     "review_note": "",
-    "new_translation_vi": "Hành động",
+    "new_translation_vi": "Action",
     "translator_note": "keep_proper_name"
   },
   {
@@ -9921,7 +9921,7 @@
     "ai_reason": "",
     "source_en": "Best Score",
     "review_note": "",
-    "new_translation_vi": "Điểm Số Cao Nhất",
+    "new_translation_vi": "Điểm cao nhất",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -9946,7 +9946,7 @@
     "ai_reason": "",
     "source_en": "Best Time",
     "review_note": "",
-    "new_translation_vi": "Thời Gian Tốt Nhất",
+    "new_translation_vi": "Best Time",
     "translator_note": "keep_proper_name"
   },
   {
@@ -9971,7 +9971,7 @@
     "ai_reason": "",
     "source_en": "Activated",
     "review_note": "",
-    "new_translation_vi": "Đã kích hoạt",
+    "new_translation_vi": "Activated",
     "translator_note": "keep_proper_name"
   },
   {
@@ -9996,7 +9996,7 @@
     "ai_reason": "",
     "source_en": "Activated",
     "review_note": "",
-    "new_translation_vi": "Đã kích hoạt",
+    "new_translation_vi": "Activated",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10021,7 +10021,7 @@
     "ai_reason": "",
     "source_en": "No Record",
     "review_note": "",
-    "new_translation_vi": "Không có bản ghi",
+    "new_translation_vi": "No Record",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10046,7 +10046,7 @@
     "ai_reason": "",
     "source_en": "Ongoing",
     "review_note": "",
-    "new_translation_vi": "Đang diễn ra",
+    "new_translation_vi": "Ongoing",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10071,7 +10071,7 @@
     "ai_reason": "",
     "source_en": "Collected",
     "review_note": "",
-    "new_translation_vi": "Đã thu thập",
+    "new_translation_vi": "Collected",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10096,7 +10096,7 @@
     "ai_reason": "",
     "source_en": "Available",
     "review_note": "",
-    "new_translation_vi": "Có Sẵn",
+    "new_translation_vi": "Available",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10121,7 +10121,7 @@
     "ai_reason": "",
     "source_en": "Add",
     "review_note": "",
-    "new_translation_vi": "Thêm",
+    "new_translation_vi": "Add",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10146,7 +10146,7 @@
     "ai_reason": "",
     "source_en": "Adventure",
     "review_note": "",
-    "new_translation_vi": "Phiêu lưu",
+    "new_translation_vi": "Adventure",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10171,7 +10171,7 @@
     "ai_reason": "",
     "source_en": "Sentence #1",
     "review_note": "",
-    "new_translation_vi": "Câu lệnh số 1",
+    "new_translation_vi": "Sentence #1",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10196,7 +10196,7 @@
     "ai_reason": "",
     "source_en": "Select Word",
     "review_note": "",
-    "new_translation_vi": "Chọn Từ Ngữ",
+    "new_translation_vi": "Chọn từ",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -10221,7 +10221,7 @@
     "ai_reason": "",
     "source_en": "Add Emotes",
     "review_note": "",
-    "new_translation_vi": "Thêm Biểu Cảm",
+    "new_translation_vi": "Add Emotes",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10246,7 +10246,7 @@
     "ai_reason": "",
     "source_en": "Change Sentence",
     "review_note": "",
-    "new_translation_vi": "Thay Đổi Câu",
+    "new_translation_vi": "Change Sentence",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10271,7 +10271,7 @@
     "ai_reason": "",
     "source_en": "Add a Sentence",
     "review_note": "",
-    "new_translation_vi": "Thêm Một Câu",
+    "new_translation_vi": "Thêm câu",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -10296,7 +10296,7 @@
     "ai_reason": "",
     "source_en": "Complete the empty Memo first",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Memo trống trước đã",
+    "new_translation_vi": "Hoàn thành Memo trống trước",
     "translator_note": "translate_short_title"
   },
   {
@@ -10321,7 +10321,7 @@
     "ai_reason": "",
     "source_en": "Select a Format",
     "review_note": "",
-    "new_translation_vi": "Chọn Định Dạng",
+    "new_translation_vi": "Chọn định dạng",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -10346,7 +10346,7 @@
     "ai_reason": "",
     "source_en": "Select Conjunction",
     "review_note": "",
-    "new_translation_vi": "Chọn Liên Kết",
+    "new_translation_vi": "Chọn liên từ",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -10371,7 +10371,7 @@
     "ai_reason": "",
     "source_en": "Sentence #2",
     "review_note": "",
-    "new_translation_vi": "Câu lệnh số 2",
+    "new_translation_vi": "Sentence #2",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10396,7 +10396,7 @@
     "ai_reason": "",
     "source_en": "Select Word",
     "review_note": "",
-    "new_translation_vi": "Chọn Từ Ngữ",
+    "new_translation_vi": "Chọn từ",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -10446,7 +10446,7 @@
     "ai_reason": "",
     "source_en": "Memo Limit Reached",
     "review_note": "",
-    "new_translation_vi": "Giới hạn bản ghi nhớ đã đạt đến",
+    "new_translation_vi": "Memo Limit Reached",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10471,7 +10471,7 @@
     "ai_reason": "",
     "source_en": "Place",
     "review_note": "",
-    "new_translation_vi": "Đặt",
+    "new_translation_vi": "Place",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10496,7 +10496,7 @@
     "ai_reason": "",
     "source_en": "Age-rating Notice",
     "review_note": "",
-    "new_translation_vi": "Thông Báo Xếp Hạng Tuổi",
+    "new_translation_vi": "Age-rating Notice",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10521,7 +10521,7 @@
     "ai_reason": "",
     "source_en": "Mailbox",
     "review_note": "",
-    "new_translation_vi": "Hộp thư",
+    "new_translation_vi": "Mailbox",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10571,7 +10571,7 @@
     "ai_reason": "",
     "source_en": "Recent",
     "review_note": "",
-    "new_translation_vi": "Gần đây",
+    "new_translation_vi": "Recent",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10596,7 +10596,7 @@
     "ai_reason": "",
     "source_en": "Drop Material",
     "review_note": "",
-    "new_translation_vi": "Rơi Vật Phẩm",
+    "new_translation_vi": "Rơi vật liệu",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -10621,7 +10621,7 @@
     "ai_reason": "",
     "source_en": "Locked",
     "review_note": "",
-    "new_translation_vi": "Đã khóa",
+    "new_translation_vi": "Locked",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10646,7 +10646,7 @@
     "ai_reason": "",
     "source_en": "Join Co-op",
     "review_note": "",
-    "new_translation_vi": "Tham Gia Hợp Tác",
+    "new_translation_vi": "Join Co-op",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10671,7 +10671,7 @@
     "ai_reason": "",
     "source_en": "Send Friend Request",
     "review_note": "",
-    "new_translation_vi": "Gửi Lời Mời Kết Bạn",
+    "new_translation_vi": "Send Friend Request",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10696,7 +10696,7 @@
     "ai_reason": "",
     "source_en": "High Risk",
     "review_note": "",
-    "new_translation_vi": "Rủi Ro Cao",
+    "new_translation_vi": "High Risk",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10721,7 +10721,7 @@
     "ai_reason": "",
     "source_en": "Medium Risk",
     "review_note": "",
-    "new_translation_vi": "Mức Rủi Ro Trung Bình",
+    "new_translation_vi": "Medium Risk",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10746,7 +10746,7 @@
     "ai_reason": "",
     "source_en": "This faction will be unlocked in future exploration",
     "review_note": "",
-    "new_translation_vi": "Phe phái này sẽ được mở khóa trong các chuyến thám hiểm tương lai",
+    "new_translation_vi": "Phe phái này sẽ được mở khóa trong các phiên bản khám phá sau",
     "translator_note": "translate_short_title"
   },
   {
@@ -10771,7 +10771,7 @@
     "ai_reason": "",
     "source_en": "Sort by Attribute",
     "review_note": "",
-    "new_translation_vi": "Sắp xếp theo Thuộc Tính",
+    "new_translation_vi": "Sắp xếp theo thuộc tính",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -10821,7 +10821,7 @@
     "ai_reason": "",
     "source_en": "Return to Tower",
     "review_note": "",
-    "new_translation_vi": "Quay lại Tháp",
+    "new_translation_vi": "Quay về Tháp",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -10846,7 +10846,7 @@
     "ai_reason": "",
     "source_en": "Tap anywhere to close",
     "review_note": "",
-    "new_translation_vi": "Nhấn bất kỳ đâu để đóng",
+    "new_translation_vi": "Chạm bất kỳ đâu để đóng",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -10871,7 +10871,7 @@
     "ai_reason": "",
     "source_en": "Upgrade",
     "review_note": "",
-    "new_translation_vi": "Nâng cấp",
+    "new_translation_vi": "Upgrade",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10896,7 +10896,7 @@
     "ai_reason": "",
     "source_en": "Controller support will be available in future updates",
     "review_note": "",
-    "new_translation_vi": "Hỗ trợ bộ điều khiển sẽ có trong các bản cập nhật sau.",
+    "new_translation_vi": "Hỗ trợ tay cầm sẽ có trong các bản cập nhật sau",
     "translator_note": "translate_short_title"
   },
   {
@@ -10946,7 +10946,7 @@
     "ai_reason": "",
     "source_en": "Seasonal Specials",
     "review_note": "",
-    "new_translation_vi": "Đặc Sản Theo Mùa",
+    "new_translation_vi": "Seasonal Specials",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10971,7 +10971,7 @@
     "ai_reason": "",
     "source_en": "Unlock Insider Channel",
     "review_note": "",
-    "new_translation_vi": "Mở khóa Kênh Nội Bộ",
+    "new_translation_vi": "Unlock Insider Channel",
     "translator_note": "keep_proper_name"
   },
   {
@@ -10996,7 +10996,7 @@
     "ai_reason": "",
     "source_en": "Unlock Connoisseur Channel",
     "review_note": "",
-    "new_translation_vi": "Mở Kênh Nghệ Nhân",
+    "new_translation_vi": "Unlock Connoisseur Channel",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11021,7 +11021,7 @@
     "ai_reason": "",
     "source_en": "View Insider Channel",
     "review_note": "",
-    "new_translation_vi": "Xem Kênh Nội Bộ",
+    "new_translation_vi": "View Insider Channel",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11046,7 +11046,7 @@
     "ai_reason": "",
     "source_en": "Unlock Insider Channel",
     "review_note": "",
-    "new_translation_vi": "Mở khóa Kênh Nội Bộ",
+    "new_translation_vi": "Unlock Insider Channel",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11071,7 +11071,7 @@
     "ai_reason": "",
     "source_en": "Upgrade to Connoisseur Channel",
     "review_note": "",
-    "new_translation_vi": "Nâng cấp lên Kênh Nghệ Nhân",
+    "new_translation_vi": "Nâng cấp lên Kênh Connoisseur",
     "translator_note": "translate_short_title"
   },
   {
@@ -11096,7 +11096,7 @@
     "ai_reason": "",
     "source_en": "View Insider Channel",
     "review_note": "",
-    "new_translation_vi": "Xem Kênh Nội Bộ",
+    "new_translation_vi": "View Insider Channel",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11121,7 +11121,7 @@
     "ai_reason": "",
     "source_en": "Morning Broadcasts",
     "review_note": "",
-    "new_translation_vi": "Chương Trình Phát Sóng Buổi Sáng",
+    "new_translation_vi": "Morning Broadcasts",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11146,7 +11146,7 @@
     "ai_reason": "",
     "source_en": "Weekly EXP limit reached",
     "review_note": "",
-    "new_translation_vi": "Đã đạt giới hạn Kinh Nghiệm Hàng Tuần",
+    "new_translation_vi": "Đã đạt giới hạn EXP hàng tuần",
     "translator_note": "translate_short_title"
   },
   {
@@ -11196,7 +11196,7 @@
     "ai_reason": "",
     "source_en": "Purchase Level",
     "review_note": "",
-    "new_translation_vi": "Mua Cấp",
+    "new_translation_vi": "Mua cấp",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -11221,7 +11221,7 @@
     "ai_reason": "",
     "source_en": "Star Rebound",
     "review_note": "",
-    "new_translation_vi": "Phản Xạ Sao",
+    "new_translation_vi": "Star Rebound",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11271,7 +11271,7 @@
     "ai_reason": "",
     "source_en": "Unlocked to obtain the following rewards",
     "review_note": "",
-    "new_translation_vi": "Mở khóa để nhận những phần thưởng sau",
+    "new_translation_vi": "Đã mở khóa để nhận các phần thưởng sau",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -11296,7 +11296,7 @@
     "ai_reason": "",
     "source_en": "Upgrade to Connoisseur Channel to obtain the following rewards",
     "review_note": "",
-    "new_translation_vi": "Nâng cấp lên Kênh Nghệ Nhân để nhận những phần thưởng sau",
+    "new_translation_vi": "Nâng cấp lên Kênh Connoisseur để nhận các phần thưởng sau",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -11321,7 +11321,7 @@
     "ai_reason": "",
     "source_en": "Insider Channel Unlocked",
     "review_note": "",
-    "new_translation_vi": "Đã Mở Khóa Kênh Nội Bộ",
+    "new_translation_vi": "Insider Channel Unlocked",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11346,7 +11346,7 @@
     "ai_reason": "",
     "source_en": "Connoisseur Channel Unlocked",
     "review_note": "",
-    "new_translation_vi": "Đã mở khóa Kênh Nhà sưu tầm",
+    "new_translation_vi": "Connoisseur Channel Unlocked",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11371,7 +11371,7 @@
     "ai_reason": "",
     "source_en": "Connoisseur Channel Unlocked",
     "review_note": "",
-    "new_translation_vi": "Đã mở khóa Kênh Nhà sưu tầm",
+    "new_translation_vi": "Connoisseur Channel Unlocked",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11396,7 +11396,7 @@
     "ai_reason": "",
     "source_en": "Weekly Highlights",
     "review_note": "",
-    "new_translation_vi": "Điểm Nổi Bật Hàng Tuần",
+    "new_translation_vi": "Weekly Highlights",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11446,7 +11446,7 @@
     "ai_reason": "",
     "source_en": "Cannot replace Characters not owned",
     "review_note": "",
-    "new_translation_vi": "Không thể thay thế Cộng Hưởng Giả chưa sở hữu",
+    "new_translation_vi": "Không thể thay thế nhân vật chưa sở hữu",
     "translator_note": "translate_short_title"
   },
   {
@@ -11496,7 +11496,7 @@
     "ai_reason": "",
     "source_en": "Cannot replace Characters that are ready",
     "review_note": "",
-    "new_translation_vi": "Không thể thay thế Cộng Hưởng Giả đang sẵn sàng",
+    "new_translation_vi": "Không thể thay thế nhân vật đã sẵn sàng",
     "translator_note": "translate_short_title"
   },
   {
@@ -11546,7 +11546,7 @@
     "ai_reason": "",
     "source_en": "Rover (Male)",
     "review_note": "",
-    "new_translation_vi": "Vận Mệnh Giả (Nam)",
+    "new_translation_vi": "Rover (Male)",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11571,7 +11571,7 @@
     "ai_reason": "",
     "source_en": "Guardian of the Voice",
     "review_note": "",
-    "new_translation_vi": "Người Bảo Vệ Âm Thanh",
+    "new_translation_vi": "Người bảo vệ giọng nói",
     "translator_note": "translate_short_title"
   },
   {
@@ -11596,7 +11596,7 @@
     "ai_reason": "",
     "source_en": "Challenge Again",
     "review_note": "",
-    "new_translation_vi": "Thử Thách Lại",
+    "new_translation_vi": "Thử thách lại",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -11621,7 +11621,7 @@
     "ai_reason": "",
     "source_en": "Confirm Score",
     "review_note": "",
-    "new_translation_vi": "Xác nhận Điểm số",
+    "new_translation_vi": "Xác nhận điểm số",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -11671,7 +11671,7 @@
     "ai_reason": "",
     "source_en": "Continue Challenge",
     "review_note": "",
-    "new_translation_vi": "Tiếp Tục Thử Thách",
+    "new_translation_vi": "Tiếp tục thử thách",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -11696,7 +11696,7 @@
     "ai_reason": "",
     "source_en": "Exit",
     "review_note": "",
-    "new_translation_vi": "Thoát",
+    "new_translation_vi": "Exit",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11721,7 +11721,7 @@
     "ai_reason": "",
     "source_en": "Restart",
     "review_note": "",
-    "new_translation_vi": "Bắt đầu lại",
+    "new_translation_vi": "Restart",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11746,7 +11746,7 @@
     "ai_reason": "",
     "source_en": "Common Class",
     "review_note": "",
-    "new_translation_vi": "Hạng Thường",
+    "new_translation_vi": "Common Class",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11771,7 +11771,7 @@
     "ai_reason": "",
     "source_en": "Elite Class",
     "review_note": "",
-    "new_translation_vi": "Hạng Cao Cấp",
+    "new_translation_vi": "Elite Class",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11796,7 +11796,7 @@
     "ai_reason": "",
     "source_en": "Overlord Class",
     "review_note": "",
-    "new_translation_vi": "Hạng Overlord",
+    "new_translation_vi": "Overlord Class",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11821,7 +11821,7 @@
     "ai_reason": "",
     "source_en": "Calamity Class",
     "review_note": "",
-    "new_translation_vi": "Hạng Thảm Họa",
+    "new_translation_vi": "Calamity Class",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11871,7 +11871,7 @@
     "ai_reason": "",
     "source_en": "2-Star Echo",
     "review_note": "",
-    "new_translation_vi": "Âm Hưởng 2 Sao",
+    "new_translation_vi": "2-Star Echo",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11896,7 +11896,7 @@
     "ai_reason": "",
     "source_en": "3-Star Echo",
     "review_note": "",
-    "new_translation_vi": "Hồi Âm 3 Sao",
+    "new_translation_vi": "3-Star Echo",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11921,7 +11921,7 @@
     "ai_reason": "",
     "source_en": "4-Star Echo",
     "review_note": "",
-    "new_translation_vi": "Hồi Âm 4 Sao",
+    "new_translation_vi": "4-Star Echo",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11946,7 +11946,7 @@
     "ai_reason": "",
     "source_en": "5-Star Echo",
     "review_note": "",
-    "new_translation_vi": "Echo 5 Sao",
+    "new_translation_vi": "5-Star Echo",
     "translator_note": "keep_proper_name"
   },
   {
@@ -11971,7 +11971,7 @@
     "ai_reason": "",
     "source_en": "Insufficient EXP",
     "review_note": "",
-    "new_translation_vi": "Kinh nghiệm không đủ.",
+    "new_translation_vi": "Insufficient EXP",
     "translator_note": "keep_proper_name"
   },
   {
@@ -12021,7 +12021,7 @@
     "ai_reason": "",
     "source_en": "Upgrade",
     "review_note": "",
-    "new_translation_vi": "Nâng cấp",
+    "new_translation_vi": "Upgrade",
     "translator_note": "keep_proper_name"
   },
   {
@@ -12046,7 +12046,7 @@
     "ai_reason": "",
     "source_en": "Origin",
     "review_note": "",
-    "new_translation_vi": "Nguồn Cội",
+    "new_translation_vi": "Origin",
     "translator_note": "keep_proper_name"
   },
   {
@@ -12071,7 +12071,7 @@
     "ai_reason": "",
     "source_en": "Locked",
     "review_note": "",
-    "new_translation_vi": "Đã khóa",
+    "new_translation_vi": "Locked",
     "translator_note": "keep_proper_name"
   },
   {
@@ -12096,7 +12096,7 @@
     "ai_reason": "",
     "source_en": "Data Recovery",
     "review_note": "",
-    "new_translation_vi": "Khôi phục Dữ liệu",
+    "new_translation_vi": "Data Recovery",
     "translator_note": "keep_proper_name"
   },
   {
@@ -12146,7 +12146,7 @@
     "ai_reason": "",
     "source_en": "Unlocked",
     "review_note": "",
-    "new_translation_vi": "Đã mở khóa",
+    "new_translation_vi": "Unlocked",
     "translator_note": "keep_proper_name"
   },
   {
@@ -12171,7 +12171,7 @@
     "ai_reason": "",
     "source_en": "Insufficient upgrade materials",
     "review_note": "",
-    "new_translation_vi": "Vật liệu nâng cấp không đủ.",
+    "new_translation_vi": "Không đủ nguyên liệu nâng cấp",
     "translator_note": "translate_ambiguous_name_title"
   },
   {
@@ -12196,7 +12196,7 @@
     "ai_reason": "",
     "source_en": "This button is currently unavailable",
     "review_note": "",
-    "new_translation_vi": "Nút này hiện không khả dụng.",
+    "new_translation_vi": "Nút này hiện không khả dụng",
     "translator_note": "translate_short_title"
   },
   {
@@ -12221,7 +12221,7 @@
     "ai_reason": "",
     "source_en": "Cannot initiate match challenge under current status",
     "review_note": "",
-    "new_translation_vi": "Không thể khởi động thử thách trận đấu ở trạng thái hiện tại",
+    "new_translation_vi": "Không thể bắt đầu thử thách đối kháng ở trạng thái hiện tại",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -12246,7 +12246,7 @@
     "ai_reason": "",
     "source_en": "Cannot switch Rover's appearance during battle",
     "review_note": "",
-    "new_translation_vi": "Không thể thay đổi ngoại hình của Rover trong trận chiến",
+    "new_translation_vi": "Không thể thay đổi ngoại hình của Rover trong trận đấu",
     "translator_note": "translate_short_title"
   },
   {
@@ -12271,7 +12271,7 @@
     "ai_reason": "",
     "source_en": "Cannot switch Rover's appearance in dungeons",
     "review_note": "",
-    "new_translation_vi": "Không thể thay đổi ngoại hình của Rover trong hầm ngục",
+    "new_translation_vi": "Không thể thay đổi ngoại hình của Rover trong dungeon",
     "translator_note": "translate_short_title"
   },
   {
@@ -12296,7 +12296,7 @@
     "ai_reason": "",
     "source_en": "You cannot use this item",
     "review_note": "",
-    "new_translation_vi": "Bạn không thể sử dụng vật phẩm này.",
+    "new_translation_vi": "Bạn không thể sử dụng vật phẩm này",
     "translator_note": "translate_short_ui_title"
   },
   {
@@ -12321,7 +12321,7 @@
     "ai_reason": "",
     "source_en": "Unmute",
     "review_note": "",
-    "new_translation_vi": "Bỏ tắt tiếng",
+    "new_translation_vi": "Unmute",
     "translator_note": "keep_proper_name"
   },
   {
@@ -12396,7 +12396,7 @@
     "ai_reason": "",
     "source_en": "Cannot revive in this area",
     "review_note": "",
-    "new_translation_vi": "Không thể hồi sinh ở khu vực này",
+    "new_translation_vi": "Không thể hồi sinh tại khu vực này",
     "translator_note": "translate_short_title"
   },
   {
@@ -12421,7 +12421,7 @@
     "ai_reason": "",
     "source_en": "Cannot propose in this state",
     "review_note": "",
-    "new_translation_vi": "Không thể đề xuất trong trạng thái này",
+    "new_translation_vi": "Không thể đề xuất ở trạng thái này",
     "translator_note": "translate_short_title"
   },
   {
@@ -12471,7 +12471,7 @@
     "ai_reason": "",
     "source_en": "Currently unable to join Co-op",
     "review_note": "",
-    "new_translation_vi": "Hiện không thể tham gia Chế độ Hợp Tác",
+    "new_translation_vi": "Hiện không thể tham gia Co-op",
     "translator_note": "translate_short_title"
   },
   {
@@ -12496,7 +12496,7 @@
     "ai_reason": "",
     "source_en": "Restart",
     "review_note": "",
-    "new_translation_vi": "Bắt đầu lại",
+    "new_translation_vi": "Restart",
     "translator_note": "keep_proper_name"
   }
 ]

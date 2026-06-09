@@ -11,7 +11,6 @@
     "primary_key": "1",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -22,7 +21,8 @@
     "source_en": "Default",
     "review_note": "",
     "new_translation_vi": "Mặc định",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0013681",
@@ -36,7 +36,6 @@
     "primary_key": "2",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -46,8 +45,9 @@
     "ai_reason": "",
     "source_en": "Next Day",
     "review_note": "",
-    "new_translation_vi": "Ngày tiếp theo",
-    "translator_note": ""
+    "new_translation_vi": "Ngày hôm sau",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0013682",
@@ -61,7 +61,6 @@
     "primary_key": "3",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -71,8 +70,9 @@
     "ai_reason": "",
     "source_en": "2 Days Later",
     "review_note": "",
-    "new_translation_vi": "2 Ngày Sau",
-    "translator_note": ""
+    "new_translation_vi": "2 ngày sau",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0013683",
@@ -86,7 +86,6 @@
     "primary_key": "4",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -96,7 +95,8 @@
     "ai_reason": "",
     "source_en": "3 Days Later",
     "review_note": "",
-    "new_translation_vi": "3 Ngày Sau",
-    "translator_note": ""
+    "new_translation_vi": "3 ngày sau",
+    "translator_note": "",
+    "status": "translated"
   }
 ]

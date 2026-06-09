@@ -36,11 +36,11 @@
     "primary_key": "TrapDefense_BdSumBdItem_ProgressRichText",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
@@ -86,7 +86,7 @@
     "primary_key": "TrapDefense_BdBuff_LockShowName",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -96,7 +96,7 @@
     "ai_reason": "",
     "source_en": "???",
     "review_note": "",
-    "new_translation_vi": "Cái gì cơ???",
+    "new_translation_vi": "???",
     "translator_note": ""
   },
   {
@@ -113,9 +113,9 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
@@ -171,7 +171,7 @@
     "ai_reason": "",
     "source_en": "Waves Held Back ≥ {0}",
     "review_note": "",
-    "new_translation_vi": "Làn Sóng Bị Ngăn Chặn ≥ {0}",
+    "new_translation_vi": "Số đợt ngăn chặn ≥ {0}",
     "translator_note": ""
   },
   {
@@ -221,7 +221,7 @@
     "ai_reason": "",
     "source_en": "Pass Guardian: {0}",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Người Bảo Hộ: {0}",
+    "new_translation_vi": "Vượt qua Guardian: {0}",
     "translator_note": ""
   },
   {
@@ -246,7 +246,7 @@
     "ai_reason": "",
     "source_en": "Deathtrap Mode: {0}",
     "review_note": "",
-    "new_translation_vi": "Chế Độ Bẫy Chết: {0}",
+    "new_translation_vi": "Chế độ Tử chiến: {0}",
     "translator_note": ""
   },
   {
@@ -263,15 +263,15 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "",
-    "rule_decision": "RETRY",
-    "rule_score": 4,
-    "rule_issues": "same_as_source,low_vietnamese_signal",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "<color=#e4e4e4ff>{0}</color>/{1}",
     "review_note": "",
-    "new_translation_vi": "{0}/{1}",
+    "new_translation_vi": "<color=#e4e4e4ff>{0}</color>/{1}",
     "translator_note": ""
   },
   {
@@ -288,15 +288,15 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "",
-    "rule_decision": "RETRY",
-    "rule_score": 4,
-    "rule_issues": "same_as_source,low_vietnamese_signal",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "<color=#e4e4e4ff>{0}</color>/{1}",
     "review_note": "",
-    "new_translation_vi": "{0}/{1}",
+    "new_translation_vi": "<color=#e4e4e4ff>{0}</color>/{1}",
     "translator_note": ""
   },
   {
@@ -346,7 +346,7 @@
     "ai_reason": "",
     "source_en": "When defeated, this Tacet Discord heals nearby Tacet Discords for a certain amount.",
     "review_note": "",
-    "new_translation_vi": "Khi bị đánh bại, Tacet Discord này sẽ hồi phục một lượng nhất định cho các Tacet Discord xung quanh.",
+    "new_translation_vi": "Khi bị đánh bại, Tacet Discord này hồi một lượng máu nhất định cho các Tacet Discord gần đó.",
     "translator_note": ""
   },
   {
@@ -371,7 +371,7 @@
     "ai_reason": "",
     "source_en": "This Tacet Discord summons <color=#fde7a1ff>one</color>Chop Chop: Headless and <color=#fde7a1ff>three</color>Tick Tacks when defeated.",
     "review_note": "",
-    "new_translation_vi": "Khi đánh bại Tacet Discord này, nó sẽ triệu hồi <color=#fde7a1ff>một</color> Chop Chop: Headless và <color=#fde7a1ff>ba</color> Tick Tack.",
+    "new_translation_vi": "Khi bị đánh bại, Tacet Discord này triệu hồi <color=#fde7a1ff>một</color>Chop Chop: Headless và <color=#fde7a1ff>ba</color> Tick Tack.",
     "translator_note": ""
   },
   {
@@ -396,7 +396,7 @@
     "ai_reason": "",
     "source_en": "This Tacet Discord periodically increases the Speed of several nearby Tacet Discords.",
     "review_note": "",
-    "new_translation_vi": "Tacet Discord này định kỳ tăng Tốc Độ cho một số Tacet Discord gần đó.",
+    "new_translation_vi": "Tacet Discord này định kỳ tăng Tốc độ cho một vài Tacet Discord gần đó.",
     "translator_note": ""
   },
   {
@@ -421,7 +421,7 @@
     "ai_reason": "",
     "source_en": "This Tacet Discord periodically disables nearby Combat Machines.",
     "review_note": "",
-    "new_translation_vi": "Tacet Discord này định kỳ vô hiệu hóa các Chiến Cỗ Máy gần đó.",
+    "new_translation_vi": "Tacet Discord này định kỳ vô hiệu hóa các Combat Machine gần đó.",
     "translator_note": ""
   },
   {
@@ -446,7 +446,7 @@
     "ai_reason": "",
     "source_en": "This Tacet Discord periodically grants a Shield to several nearby Tacet Discords. The Shielded Tacet Discords are immune to Slow while the Shield exists.",
     "review_note": "",
-    "new_translation_vi": "Tacet Discord này định kỳ tạo Khiên cho một số Tacet Discord gần đó. Khi có Khiên, chúng miễn nhiễm với hiệu ứng Làm Chậm.",
+    "new_translation_vi": "Tacet Discord này định kỳ tạo Lá Chắn cho một vài Tacet Discord gần đó. Các Tacet Discord có Lá Chắn sẽ miễn nhiễm với Slow khi Lá Chắn còn tồn tại.",
     "translator_note": ""
   },
   {
@@ -471,7 +471,7 @@
     "ai_reason": "",
     "source_en": "When Slowed, this Tacet Discord moves faster instead, during which it is immune to Slow.",
     "review_note": "",
-    "new_translation_vi": "Khi bị làm chậm, Tacet Discord này lại di chuyển nhanh hơn, và trong trạng thái đó, nó miễn nhiễm với hiệu ứng Làm Chậm.",
+    "new_translation_vi": "Khi bị Làm Chậm, Tacet Discord này sẽ di chuyển nhanh hơn và miễn nhiễm với Slow trong thời gian đó.",
     "translator_note": ""
   },
   {
@@ -496,7 +496,7 @@
     "ai_reason": "",
     "source_en": "This Tacet Discord drops one Lucky Coin when defeated. Collect Lucky Coins to gain Sim Credits.",
     "review_note": "",
-    "new_translation_vi": "Tacet Discord này rơi một Đồng Xu May Mắn khi bị đánh bại. Thu thập Đồng Xu May Mắn để đổi lấy Sim Credits.",
+    "new_translation_vi": "Khi bị đánh bại, Tacet Discord này rơi ra một Lucky Coin. Thu thập Lucky Coin để nhận Sim Credit.",
     "translator_note": ""
   },
   {
@@ -521,7 +521,7 @@
     "ai_reason": "",
     "source_en": "Current Wave: {0}/{1}",
     "review_note": "",
-    "new_translation_vi": "Làn Sóng Hiện Tại: {0}/{1}",
+    "new_translation_vi": "Đợt hiện tại: {0}/{1}",
     "translator_note": ""
   },
   {
@@ -546,7 +546,7 @@
     "ai_reason": "",
     "source_en": "Bounty\nDefeat this Tacet Discord to earn extra rewards.",
     "review_note": "",
-    "new_translation_vi": "Thưởng Phụ\nHạ gục Tacet Discord này để nhận thêm phần thưởng.",
+    "new_translation_vi": "Tiền thưởng",
     "translator_note": ""
   },
   {
@@ -571,7 +571,7 @@
     "ai_reason": "",
     "source_en": "Velocity\nThis Tacet Discord moves faster.",
     "review_note": "",
-    "new_translation_vi": "Vận Tốc\nTacet Discord này di chuyển nhanh hơn.",
+    "new_translation_vi": "Vận tốc",
     "translator_note": ""
   },
   {
@@ -596,7 +596,7 @@
     "ai_reason": "",
     "source_en": "Deathsound - Healing\nWhen defeated, this Tacet Discord heals nearby Tacet Discords for a certain amount.",
     "review_note": "",
-    "new_translation_vi": "Âm Tử - Hồi Phục\nKhi bị đánh bại, Tacet Discord này sẽ hồi phục một lượng nhất định cho các Tacet Discord xung quanh.",
+    "new_translation_vi": "Tử âm - Hồi máu",
     "translator_note": ""
   },
   {
@@ -621,7 +621,7 @@
     "ai_reason": "",
     "source_en": "Acceleration\nFor every Xs, this Tacet Discord increases the speed of up to Y nearby Tacet Discords for Zs.",
     "review_note": "",
-    "new_translation_vi": "Tăng Tốc\nCứ mỗi X giây, Tacet Discord này sẽ tăng tốc cho tối đa Y Tacet Discord gần đó trong Zs.",
+    "new_translation_vi": "Tăng tốc",
     "translator_note": ""
   },
   {
@@ -646,7 +646,7 @@
     "ai_reason": "",
     "source_en": "Reversal\nWhen Slowed, this Tacet Discord moves faster instead.",
     "review_note": "",
-    "new_translation_vi": "Đảo Ngược\nKhi bị Làm Chậm, Tacet Discord này sẽ di chuyển nhanh hơn thay vì chậm lại.",
+    "new_translation_vi": "Đảo ngược",
     "translator_note": ""
   },
   {
@@ -671,7 +671,7 @@
     "ai_reason": "",
     "source_en": "Deathsound - Summon\nWhen defeated, this Tacet Discord summons a number of other Tacet Discords.",
     "review_note": "",
-    "new_translation_vi": "Âm Tử - Triệu Hồi\nKhi bị đánh bại, Tacet Discord này sẽ triệu hồi một số Tacet Discord khác.",
+    "new_translation_vi": "Tử âm - Triệu hồi",
     "translator_note": ""
   },
   {
@@ -696,7 +696,7 @@
     "ai_reason": "",
     "source_en": "Malfunction\nFor every Xs, Combat Machines within a certain range become disabled.",
     "review_note": "",
-    "new_translation_vi": "Lỗi hệ thống\nMỗi X giây, các Máy Chiến Đấu trong phạm vi nhất định sẽ bị vô hiệu hóa.",
+    "new_translation_vi": "Trục trặc",
     "translator_note": ""
   },
   {
@@ -721,7 +721,7 @@
     "ai_reason": "",
     "source_en": "A highly compatible Tactic Set that enhances the overall efficiency of basic operations.",
     "review_note": "",
-    "new_translation_vi": "Bộ Chiến Thuật có tính tương thích cao, tăng cường hiệu quả tổng thể của các thao tác cơ bản.",
+    "new_translation_vi": "Một bộ Chiến thuật có độ tương thích cao, giúp nâng cao hiệu quả tổng thể của các thao tác cơ bản.",
     "translator_note": ""
   },
   {
@@ -746,7 +746,7 @@
     "ai_reason": "",
     "source_en": "A Tactic Set focused on fire suppression by boosting Attack Speed and Control effects.",
     "review_note": "",
-    "new_translation_vi": "Bộ Chiến Thuật tập trung vào kiểm soát hỏa lực bằng cách tăng Tốc Độ Tấn Công và hiệu ứng Điều Khiển.",
+    "new_translation_vi": "Một bộ Chiến thuật tập trung vào hỏa lực bằng cách tăng Tốc độ Tấn công và các hiệu ứng Khống chế.",
     "translator_note": ""
   },
   {
@@ -771,7 +771,7 @@
     "ai_reason": "",
     "source_en": "A Tactic Set that improves resource acquisition efficiency and converts surplus resources into offensive power.",
     "review_note": "",
-    "new_translation_vi": "Bộ Chiến Thuật tối ưu hóa hiệu suất thu thập tài nguyên và chuyển hóa lượng tài nguyên dư thừa thành sức mạnh tấn công.",
+    "new_translation_vi": "Một bộ Chiến thuật giúp cải thiện hiệu quả thu thập tài nguyên và chuyển đổi tài nguyên dư thừa thành sức mạnh tấn công.",
     "translator_note": ""
   },
   {
@@ -796,7 +796,7 @@
     "ai_reason": "",
     "source_en": "A Tactic Set that enhances Echo Combat Machines.",
     "review_note": "",
-    "new_translation_vi": "Bộ Chiến Thuật tăng cường sức mạnh cho Máy Chiến Đấu Echo.",
+    "new_translation_vi": "Một bộ Chiến thuật giúp tăng cường các Combat Machine Echo.",
     "translator_note": ""
   },
   {
@@ -821,7 +821,7 @@
     "ai_reason": "",
     "source_en": "Emits chilling currents, Slowing any Tacet Discords moving past the device.",
     "review_note": "",
-    "new_translation_vi": "Phát ra dòng khí lạnh, làm chậm mọi Tacet Discord di chuyển qua thiết bị.",
+    "new_translation_vi": "Phát ra luồng khí lạnh, Làm Chậm bất kỳ Tacet Discord nào đi ngang qua thiết bị.",
     "translator_note": ""
   },
   {
@@ -846,7 +846,7 @@
     "ai_reason": "",
     "source_en": "Emits chilling currents, Slowing any Tacet Discords moving past the device.",
     "review_note": "",
-    "new_translation_vi": "Phát ra dòng khí lạnh, làm chậm mọi Tacet Discord di chuyển qua thiết bị.",
+    "new_translation_vi": "Phát ra luồng khí lạnh, Làm Chậm bất kỳ Tacet Discord nào đi ngang qua thiết bị.",
     "translator_note": ""
   },
   {
@@ -871,7 +871,7 @@
     "ai_reason": "",
     "source_en": "Emits chilling currents, Slowing any Tacet Discords moving past the device.",
     "review_note": "",
-    "new_translation_vi": "Phát ra dòng khí lạnh, làm chậm mọi Tacet Discord di chuyển qua thiết bị.",
+    "new_translation_vi": "Phát ra luồng khí lạnh, Làm Chậm bất kỳ Tacet Discord nào đi ngang qua thiết bị.",
     "translator_note": ""
   },
   {
@@ -896,7 +896,7 @@
     "ai_reason": "",
     "source_en": "Emits chilling currents, Slowing any Tacet Discords moving past the device.",
     "review_note": "",
-    "new_translation_vi": "Phát ra dòng khí lạnh, làm chậm mọi Tacet Discord di chuyển qua thiết bị.",
+    "new_translation_vi": "Phát ra luồng khí lạnh, Làm Chậm bất kỳ Tacet Discord nào đi ngang qua thiết bị.",
     "translator_note": ""
   },
   {
@@ -921,7 +921,7 @@
     "ai_reason": "",
     "source_en": "Emits chilling currents, Slowing any Tacet Discords moving past the device.",
     "review_note": "",
-    "new_translation_vi": "Phát ra dòng khí lạnh, làm chậm mọi Tacet Discord di chuyển qua thiết bị.",
+    "new_translation_vi": "Phát ra luồng khí lạnh, Làm Chậm bất kỳ Tacet Discord nào đi ngang qua thiết bị.",
     "translator_note": ""
   },
   {
@@ -946,7 +946,7 @@
     "ai_reason": "",
     "source_en": "Periodically shocks nearby Tacet Discords and temporarily Paralyzes them.",
     "review_note": "",
-    "new_translation_vi": "Định kỳ gây sốc lên các Tacet Discord gần đó và khiến chúng tạm thời Bị Choáng.",
+    "new_translation_vi": "Định kỳ gây sốc điện cho các Tacet Discord gần đó và làm chúng Tê Liệt tạm thời.",
     "translator_note": ""
   },
   {
@@ -971,7 +971,7 @@
     "ai_reason": "",
     "source_en": "Periodically shocks nearby Tacet Discords and temporarily Paralyzes them.",
     "review_note": "",
-    "new_translation_vi": "Định kỳ gây sốc lên các Tacet Discord gần đó và khiến chúng tạm thời Bị Choáng.",
+    "new_translation_vi": "Định kỳ gây sốc điện cho các Tacet Discord gần đó và làm chúng Tê Liệt tạm thời.",
     "translator_note": ""
   },
   {
@@ -996,7 +996,7 @@
     "ai_reason": "",
     "source_en": "Periodically shocks nearby Tacet Discords and temporarily Paralyzes them.",
     "review_note": "",
-    "new_translation_vi": "Định kỳ gây sốc lên các Tacet Discord gần đó và khiến chúng tạm thời Bị Choáng.",
+    "new_translation_vi": "Định kỳ gây sốc điện cho các Tacet Discord gần đó và làm chúng Tê Liệt tạm thời.",
     "translator_note": ""
   },
   {
@@ -1021,7 +1021,7 @@
     "ai_reason": "",
     "source_en": "Periodically shocks nearby Tacet Discords and temporarily Paralyzes them.",
     "review_note": "",
-    "new_translation_vi": "Định kỳ gây sốc lên các Tacet Discord gần đó và khiến chúng tạm thời Bị Choáng.",
+    "new_translation_vi": "Định kỳ gây sốc điện cho các Tacet Discord gần đó và làm chúng Tê Liệt tạm thời.",
     "translator_note": ""
   },
   {
@@ -1046,7 +1046,7 @@
     "ai_reason": "",
     "source_en": "Periodically shocks nearby Tacet Discords and temporarily Paralyzes them.",
     "review_note": "",
-    "new_translation_vi": "Định kỳ gây sốc lên các Tacet Discord gần đó và khiến chúng tạm thời Bị Choáng.",
+    "new_translation_vi": "Định kỳ gây sốc điện cho các Tacet Discord gần đó và làm chúng Tê Liệt tạm thời.",
     "translator_note": ""
   },
   {
@@ -1071,7 +1071,7 @@
     "ai_reason": "",
     "source_en": "Periodically infects nearby Tacet Discords with glitches and temporarily Confuses them. Tacet Discords in the Confusion state move in the opposite direction.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng gây nhiễu xung quanh, khiến Tacet Discord tạm thời bị Mê hoặc. Khi ở trạng thái Mê hoặc, chúng sẽ di chuyển ngược hướng.",
+    "new_translation_vi": "Định kỳ gây lỗi cho các Tacet Discord gần đó và làm chúng Bối Rối tạm thời. Tacet Discord ở trạng thái Bối Rối sẽ di chuyển theo hướng ngược lại.",
     "translator_note": ""
   },
   {
@@ -1096,7 +1096,7 @@
     "ai_reason": "",
     "source_en": "Periodically infects nearby Tacet Discords with glitches and temporarily Confuses them. Tacet Discords in the Confusion state move in the opposite direction.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng gây nhiễu xung quanh, khiến Tacet Discord tạm thời bị Mê hoặc. Khi ở trạng thái Mê hoặc, chúng sẽ di chuyển ngược hướng.",
+    "new_translation_vi": "Định kỳ gây lỗi cho các Tacet Discord gần đó và làm chúng Bối Rối tạm thời. Tacet Discord ở trạng thái Bối Rối sẽ di chuyển theo hướng ngược lại.",
     "translator_note": ""
   },
   {
@@ -1121,7 +1121,7 @@
     "ai_reason": "",
     "source_en": "Periodically infects nearby Tacet Discords with glitches and temporarily Confuses them. Tacet Discords in the Confusion state move in the opposite direction.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng gây nhiễu xung quanh, khiến Tacet Discord tạm thời bị Mê hoặc. Khi ở trạng thái Mê hoặc, chúng sẽ di chuyển ngược hướng.",
+    "new_translation_vi": "Định kỳ gây lỗi cho các Tacet Discord gần đó và làm chúng Bối Rối tạm thời. Tacet Discord ở trạng thái Bối Rối sẽ di chuyển theo hướng ngược lại.",
     "translator_note": ""
   },
   {
@@ -1146,7 +1146,7 @@
     "ai_reason": "",
     "source_en": "Periodically infects nearby Tacet Discords with glitches and temporarily Confuses them. Tacet Discords in the Confusion state move in the opposite direction.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng gây nhiễu xung quanh, khiến Tacet Discord tạm thời bị Mê hoặc. Khi ở trạng thái Mê hoặc, chúng sẽ di chuyển ngược hướng.",
+    "new_translation_vi": "Định kỳ gây lỗi cho các Tacet Discord gần đó và làm chúng Bối Rối tạm thời. Tacet Discord ở trạng thái Bối Rối sẽ di chuyển theo hướng ngược lại.",
     "translator_note": ""
   },
   {
@@ -1171,7 +1171,7 @@
     "ai_reason": "",
     "source_en": "Periodically infects nearby Tacet Discords with glitches and temporarily Confuses them. Tacet Discords in the Confusion state move in the opposite direction.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng gây nhiễu xung quanh, khiến Tacet Discord tạm thời bị Mê hoặc. Khi ở trạng thái Mê hoặc, chúng sẽ di chuyển ngược hướng.",
+    "new_translation_vi": "Định kỳ gây lỗi cho các Tacet Discord gần đó và làm chúng Bối Rối tạm thời. Tacet Discord ở trạng thái Bối Rối sẽ di chuyển theo hướng ngược lại.",
     "translator_note": ""
   },
   {
@@ -1196,7 +1196,7 @@
     "ai_reason": "",
     "source_en": "Periodically ejects high-pressure gas, knocking back small Tacet Discords within the range.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng phun khí áp suất cao, đẩy lùi các Tacet Discord nhỏ trong phạm vi.",
+    "new_translation_vi": "Định kỳ phun khí áp suất cao, đẩy lùi các Tacet Discord nhỏ trong phạm vi.",
     "translator_note": ""
   },
   {
@@ -1221,7 +1221,7 @@
     "ai_reason": "",
     "source_en": "Periodically ejects high-pressure gas, knocking back small Tacet Discords within the range.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng phun khí áp suất cao, đẩy lùi các Tacet Discord nhỏ trong phạm vi.",
+    "new_translation_vi": "Định kỳ phun khí áp suất cao, đẩy lùi các Tacet Discord nhỏ trong phạm vi.",
     "translator_note": ""
   },
   {
@@ -1246,7 +1246,7 @@
     "ai_reason": "",
     "source_en": "Periodically ejects high-pressure gas, knocking back small Tacet Discords within the range.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng phun khí áp suất cao, đẩy lùi các Tacet Discord nhỏ trong phạm vi.",
+    "new_translation_vi": "Định kỳ phun khí áp suất cao, đẩy lùi các Tacet Discord nhỏ trong phạm vi.",
     "translator_note": ""
   },
   {
@@ -1271,7 +1271,7 @@
     "ai_reason": "",
     "source_en": "Periodically ejects high-pressure gas, knocking back small Tacet Discords within the range.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng phun khí áp suất cao, đẩy lùi các Tacet Discord nhỏ trong phạm vi.",
+    "new_translation_vi": "Định kỳ phun khí áp suất cao, đẩy lùi các Tacet Discord nhỏ trong phạm vi.",
     "translator_note": ""
   },
   {
@@ -1296,7 +1296,7 @@
     "ai_reason": "",
     "source_en": "Periodically ejects high-pressure gas, knocking back small Tacet Discords within the range.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng phun khí áp suất cao, đẩy lùi các Tacet Discord nhỏ trong phạm vi.",
+    "new_translation_vi": "Định kỳ phun khí áp suất cao, đẩy lùi các Tacet Discord nhỏ trong phạm vi.",
     "translator_note": ""
   },
   {
@@ -1321,7 +1321,7 @@
     "ai_reason": "",
     "source_en": "Emits an artificial vortex that periodically draws Tacet Discords toward the front of the device and removes their Shield.",
     "review_note": "",
-    "new_translation_vi": "Tạo ra một xoáy nhân tạo hút định kỳ các Tacet Discord về phía trước thiết bị và loại bỏ Khiên của chúng.",
+    "new_translation_vi": "Phát ra một xoáy nước nhân tạo định kỳ hút các Tacet Discord về phía trước thiết bị và loại bỏ Lá Chắn của chúng.",
     "translator_note": ""
   },
   {
@@ -1346,7 +1346,7 @@
     "ai_reason": "",
     "source_en": "Emits an artificial vortex that periodically draws Tacet Discords toward the front of the device and removes their Shield.",
     "review_note": "",
-    "new_translation_vi": "Tạo ra một xoáy nhân tạo hút định kỳ các Tacet Discord về phía trước thiết bị và loại bỏ Khiên của chúng.",
+    "new_translation_vi": "Phát ra một xoáy nước nhân tạo định kỳ hút các Tacet Discord về phía trước thiết bị và loại bỏ Lá Chắn của chúng.",
     "translator_note": ""
   },
   {
@@ -1371,7 +1371,7 @@
     "ai_reason": "",
     "source_en": "Emits an artificial vortex that periodically draws Tacet Discords toward the front of the device and removes their Shield.",
     "review_note": "",
-    "new_translation_vi": "Tạo ra một xoáy nhân tạo hút định kỳ các Tacet Discord về phía trước thiết bị và loại bỏ Khiên của chúng.",
+    "new_translation_vi": "Phát ra một xoáy nước nhân tạo định kỳ hút các Tacet Discord về phía trước thiết bị và loại bỏ Lá Chắn của chúng.",
     "translator_note": ""
   },
   {
@@ -1396,7 +1396,7 @@
     "ai_reason": "",
     "source_en": "Emits an artificial vortex that periodically draws Tacet Discords toward the front of the device and removes their Shield.",
     "review_note": "",
-    "new_translation_vi": "Tạo ra một xoáy nhân tạo hút định kỳ các Tacet Discord về phía trước thiết bị và loại bỏ Khiên của chúng.",
+    "new_translation_vi": "Phát ra một xoáy nước nhân tạo định kỳ hút các Tacet Discord về phía trước thiết bị và loại bỏ Lá Chắn của chúng.",
     "translator_note": ""
   },
   {
@@ -1421,7 +1421,7 @@
     "ai_reason": "",
     "source_en": "Emits an artificial vortex that periodically draws Tacet Discords toward the front of the device and removes their Shield.",
     "review_note": "",
-    "new_translation_vi": "Tạo ra một xoáy nhân tạo hút định kỳ các Tacet Discord về phía trước thiết bị và loại bỏ Khiên của chúng.",
+    "new_translation_vi": "Phát ra một xoáy nước nhân tạo định kỳ hút các Tacet Discord về phía trước thiết bị và loại bỏ Lá Chắn của chúng.",
     "translator_note": ""
   },
   {
@@ -1446,7 +1446,7 @@
     "ai_reason": "",
     "source_en": "Periodically generates a whirlpool that pulls in Tacet Discords, removing their Shield and suspending small ones while it lasts.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng tạo ra xoáy nước hút Tacet Discord vào, phá vỡ Khiên và treo lơ lửng các mục tiêu nhỏ trong thời gian hiệu lực.",
+    "new_translation_vi": "Định kỳ tạo ra một xoáy nước hút các Tacet Discord vào, loại bỏ Lá Chắn và treo lơ lửng các Tacet Discord nhỏ trong suốt thời gian hiệu lực.",
     "translator_note": ""
   },
   {
@@ -1471,7 +1471,7 @@
     "ai_reason": "",
     "source_en": "Periodically generates a whirlpool that pulls in Tacet Discords, removing their Shield and suspending small ones while it lasts.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng tạo ra xoáy nước hút Tacet Discord vào, phá vỡ Khiên và treo lơ lửng các mục tiêu nhỏ trong thời gian hiệu lực.",
+    "new_translation_vi": "Định kỳ tạo ra một xoáy nước hút các Tacet Discord vào, loại bỏ Lá Chắn và treo lơ lửng các Tacet Discord nhỏ trong suốt thời gian hiệu lực.",
     "translator_note": ""
   },
   {
@@ -1496,7 +1496,7 @@
     "ai_reason": "",
     "source_en": "Periodically generates a whirlpool that pulls in Tacet Discords, removing their Shield and suspending small ones while it lasts.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng tạo ra xoáy nước hút Tacet Discord vào, phá vỡ Khiên và treo lơ lửng các mục tiêu nhỏ trong thời gian hiệu lực.",
+    "new_translation_vi": "Định kỳ tạo ra một xoáy nước hút các Tacet Discord vào, loại bỏ Lá Chắn và treo lơ lửng các Tacet Discord nhỏ trong suốt thời gian hiệu lực.",
     "translator_note": ""
   },
   {
@@ -1521,7 +1521,7 @@
     "ai_reason": "",
     "source_en": "Periodically generates a whirlpool that pulls in Tacet Discords, removing their Shield and suspending small ones while it lasts.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng tạo ra xoáy nước hút Tacet Discord vào, phá vỡ Khiên và treo lơ lửng các mục tiêu nhỏ trong thời gian hiệu lực.",
+    "new_translation_vi": "Định kỳ tạo ra một xoáy nước hút các Tacet Discord vào, loại bỏ Lá Chắn và treo lơ lửng các Tacet Discord nhỏ trong suốt thời gian hiệu lực.",
     "translator_note": ""
   },
   {
@@ -1546,7 +1546,7 @@
     "ai_reason": "",
     "source_en": "Periodically generates a whirlpool that pulls in Tacet Discords, removing their Shield and suspending small ones while it lasts.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng tạo ra xoáy nước hút Tacet Discord vào, phá vỡ Khiên và treo lơ lửng các mục tiêu nhỏ trong thời gian hiệu lực.",
+    "new_translation_vi": "Định kỳ tạo ra một xoáy nước hút các Tacet Discord vào, loại bỏ Lá Chắn và treo lơ lửng các Tacet Discord nhỏ trong suốt thời gian hiệu lực.",
     "translator_note": ""
   },
   {
@@ -1596,7 +1596,7 @@
     "ai_reason": "",
     "source_en": "Emits chilling currents, Slowing any Tacet Discords moving past the device by <color=#fde7a1ff>{0}</color>.",
     "review_note": "",
-    "new_translation_vi": "Phát ra dòng khí lạnh, làm chậm mọi Tacet Discord di chuyển qua thiết bị <color=#fde7a1ff>{0}</color>.",
+    "new_translation_vi": "Phát ra luồng khí lạnh, Làm Chậm bất kỳ Tacet Discord nào đi ngang qua thiết bị đi <color=#fde7a1ff>{0}</color>.",
     "translator_note": ""
   },
   {
@@ -1621,7 +1621,7 @@
     "ai_reason": "",
     "source_en": "Emits chilling currents, Slowing any Tacet Discords moving past the device by <color=#fde7a1ff>{0}</color>.",
     "review_note": "",
-    "new_translation_vi": "Phát ra dòng khí lạnh, làm chậm mọi Tacet Discord di chuyển qua thiết bị <color=#fde7a1ff>{0}</color>.",
+    "new_translation_vi": "Phát ra luồng khí lạnh, Làm Chậm bất kỳ Tacet Discord nào đi ngang qua thiết bị đi <color=#fde7a1ff>{0}</color>.",
     "translator_note": ""
   },
   {
@@ -1646,7 +1646,7 @@
     "ai_reason": "",
     "source_en": "Emits chilling currents, Slowing any Tacet Discords moving past the device by <color=#fde7a1ff>{0}</color>.",
     "review_note": "",
-    "new_translation_vi": "Phát ra dòng khí lạnh, làm chậm mọi Tacet Discord di chuyển qua thiết bị <color=#fde7a1ff>{0}</color>.",
+    "new_translation_vi": "Phát ra luồng khí lạnh, Làm Chậm bất kỳ Tacet Discord nào đi ngang qua thiết bị đi <color=#fde7a1ff>{0}</color>.",
     "translator_note": ""
   },
   {
@@ -1671,7 +1671,7 @@
     "ai_reason": "",
     "source_en": "When Tacet Discords leave the range of the Glacio Beacon, they'll still be Slowed for <color=#fde7a1ff>{0}</color>s.",
     "review_note": "",
-    "new_translation_vi": "Khi Tacet Discord rời khỏi phạm vi Đèn Hiệu Glacio, chúng vẫn sẽ bị Làm Chậm trong <color=#fde7a1ff>{0}</color> giây.",
+    "new_translation_vi": "Khi Tacet Discord leave phạm vi của Glacio Beacon, chúng vẫn sẽ bị Làm Chậm trong <color=#fde7a1ff>{0}</color>s.",
     "translator_note": ""
   },
   {
@@ -1696,7 +1696,7 @@
     "ai_reason": "",
     "source_en": "Periodically shocks nearby Tacet Discords and Paralyzes them for <color=#fde7a1ff>{0}</color>s.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng giật sét các Tacet Discord xung quanh và khiến chúng bị Choáng trong <color=#fde7a1ff>{0}</color> giây.",
+    "new_translation_vi": "Định kỳ gây sốc điện cho các Tacet Discord gần đó và làm chúng Tê Liệt trong <color=#fde7a1ff>{0}</color>s.",
     "translator_note": ""
   },
   {
@@ -1721,7 +1721,7 @@
     "ai_reason": "",
     "source_en": "Periodically shocks nearby Tacet Discords and Paralyzes them for <color=#fde7a1ff>{0}</color>s.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng giật sét các Tacet Discord xung quanh và khiến chúng bị Choáng trong <color=#fde7a1ff>{0}</color> giây.",
+    "new_translation_vi": "Định kỳ gây sốc điện cho các Tacet Discord gần đó và làm chúng Tê Liệt trong <color=#fde7a1ff>{0}</color>s.",
     "translator_note": ""
   },
   {
@@ -1746,7 +1746,7 @@
     "ai_reason": "",
     "source_en": "Periodically shocks nearby Tacet Discords and Paralyzes them for <color=#fde7a1ff>{0}</color>s.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng giật sét các Tacet Discord xung quanh và khiến chúng bị Choáng trong <color=#fde7a1ff>{0}</color> giây.",
+    "new_translation_vi": "Định kỳ gây sốc điện cho các Tacet Discord gần đó và làm chúng Tê Liệt trong <color=#fde7a1ff>{0}</color>s.",
     "translator_note": ""
   },
   {
@@ -1771,7 +1771,7 @@
     "ai_reason": "",
     "source_en": "Paralysis inflicted by the Shock lasts <color=#fde7a1ff>{0}</color>s longer.",
     "review_note": "",
-    "new_translation_vi": "Thời gian Tê Liệt do Shock kéo dài thêm <color=#fde7a1ff>{0}</color> giây.",
+    "new_translation_vi": "Paralysis gây ra bởi Sốc điện kéo dài thêm <color=#fde7a1ff>{0}</color>s.",
     "translator_note": ""
   },
   {
@@ -1796,7 +1796,7 @@
     "ai_reason": "",
     "source_en": "Tacet Discords with Confusion have their Movement Speed increased by <color=#fde7a1ff>{0}</color>.",
     "review_note": "",
-    "new_translation_vi": "Tacet Discord bị Confusion tăng Tốc Độ Di Chuyển thêm <color=#fde7a1ff>{0}</color>.",
+    "new_translation_vi": "Tacet Discord ở trạng thái Bối Rối được tăng Tốc độ Di chuyển thêm <color=#fde7a1ff>{0}</color>.",
     "translator_note": ""
   },
   {
@@ -1821,7 +1821,7 @@
     "ai_reason": "",
     "source_en": "Junrock Echoes have an expanded explosion range.",
     "review_note": "",
-    "new_translation_vi": "Junrock Echo giờ có phạm vi nổ mở rộng.",
+    "new_translation_vi": "Junrock Echoes có phạm vi nổ rộng hơn.",
     "translator_note": ""
   },
   {
@@ -1846,7 +1846,7 @@
     "ai_reason": "",
     "source_en": "Thunder lance is fired <color=#fde7a1ff>{0}</color> slower but Paralyzes Tacet Discords on hit.",
     "review_note": "",
-    "new_translation_vi": "Thương Sét bắn chậm hơn <color=#fde7a1ff>{0}</color> nhưng khiến Tacet Discord bị Choáng khi trúng đòn.",
+    "new_translation_vi": "Thunder lance bắn chậm hơn <color=#fde7a1ff>{0}</color> nhưng sẽ làm Tê Liệt Tacet Discord khi trúng đích.",
     "translator_note": ""
   },
   {
@@ -1871,7 +1871,7 @@
     "ai_reason": "",
     "source_en": "Cryogenic air Freezes already Slowed Tacet Discords for <color=#fde7a1ff>{0}</color>s.",
     "review_note": "",
-    "new_translation_vi": "Không khí đông lạnh đóng băng Tacet Discord đã bị làm chậm trong <color=#fde7a1ff>{0}</color> giây.",
+    "new_translation_vi": "Khí đông lạnh sẽ Đóng Băng các Tacet Discord đã bị Làm Chậm trong <color=#fde7a1ff>{0}</color>s.",
     "translator_note": ""
   },
   {
@@ -1896,7 +1896,7 @@
     "ai_reason": "",
     "source_en": "The cryogenic air now affects a wider range.",
     "review_note": "",
-    "new_translation_vi": "Không khí đông lạnh giờ đây ảnh hưởng đến phạm vi rộng hơn.",
+    "new_translation_vi": "Khí đông lạnh giờ đây ảnh hưởng đến phạm vi rộng hơn.",
     "translator_note": ""
   },
   {
@@ -1921,7 +1921,7 @@
     "ai_reason": "",
     "source_en": "Periodically ejects high-pressure gas, knocking back small Tacet Discords within the range.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng phun khí áp suất cao, đẩy lùi các Tacet Discord nhỏ trong phạm vi.",
+    "new_translation_vi": "Định kỳ phun khí áp suất cao, đẩy lùi các Tacet Discord nhỏ trong phạm vi.",
     "translator_note": ""
   },
   {
@@ -1946,7 +1946,7 @@
     "ai_reason": "",
     "source_en": "Periodically ejects high-pressure gas, knocking back small Tacet Discords within the range.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng phun khí áp suất cao, đẩy lùi các Tacet Discord nhỏ trong phạm vi.",
+    "new_translation_vi": "Định kỳ phun khí áp suất cao, đẩy lùi các Tacet Discord nhỏ trong phạm vi.",
     "translator_note": ""
   },
   {
@@ -1971,7 +1971,7 @@
     "ai_reason": "",
     "source_en": "Periodically ejects high-pressure gas, knocking back small Tacet Discords within the range.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng phun khí áp suất cao, đẩy lùi các Tacet Discord nhỏ trong phạm vi.",
+    "new_translation_vi": "Định kỳ phun khí áp suất cao, đẩy lùi các Tacet Discord nhỏ trong phạm vi.",
     "translator_note": ""
   },
   {
@@ -1996,7 +1996,7 @@
     "ai_reason": "",
     "source_en": "High-pressure gas now knocks back medium Tacet Discords, but the Deployment Cost is increased by <color=#fde7a1ff>200</color>.",
     "review_note": "",
-    "new_translation_vi": "Khí áp suất cao giờ đẩy lùi Tacet Discord cỡ trung, nhưng Chi Phí Triển Khai tăng thêm <color=#fde7a1ff>200</color>.",
+    "new_translation_vi": "Khí áp suất cao giờ đây đẩy lùi cả các Tacet Discord cỡ trung, nhưng Chi phí Triển khai tăng thêm <color=#fde7a1ff>200</color>.",
     "translator_note": ""
   },
   {
@@ -2021,7 +2021,7 @@
     "ai_reason": "",
     "source_en": "Emits an artificial vortex that periodically draws Tacet Discords toward the front of the device and removes their Shield.",
     "review_note": "",
-    "new_translation_vi": "Tạo ra một xoáy nhân tạo hút định kỳ các Tacet Discord về phía trước thiết bị và loại bỏ Khiên của chúng.",
+    "new_translation_vi": "Phát ra một xoáy nước nhân tạo định kỳ hút các Tacet Discord về phía trước thiết bị và loại bỏ Lá Chắn của chúng.",
     "translator_note": ""
   },
   {
@@ -2046,7 +2046,7 @@
     "ai_reason": "",
     "source_en": "Emits an artificial vortex that periodically draws Tacet Discords toward the front of the device and removes their Shield.",
     "review_note": "",
-    "new_translation_vi": "Tạo ra một xoáy nhân tạo hút định kỳ các Tacet Discord về phía trước thiết bị và loại bỏ Khiên của chúng.",
+    "new_translation_vi": "Phát ra một xoáy nước nhân tạo định kỳ hút các Tacet Discord về phía trước thiết bị và loại bỏ Lá Chắn của chúng.",
     "translator_note": ""
   },
   {
@@ -2071,7 +2071,7 @@
     "ai_reason": "",
     "source_en": "Emits an artificial vortex that periodically draws Tacet Discords toward the front of the device and removes their Shield.",
     "review_note": "",
-    "new_translation_vi": "Tạo ra một xoáy nhân tạo hút định kỳ các Tacet Discord về phía trước thiết bị và loại bỏ Khiên của chúng.",
+    "new_translation_vi": "Phát ra một xoáy nước nhân tạo định kỳ hút các Tacet Discord về phía trước thiết bị và loại bỏ Lá Chắn của chúng.",
     "translator_note": ""
   },
   {
@@ -2096,7 +2096,7 @@
     "ai_reason": "",
     "source_en": "The artificial vortext now affects a wider range.",
     "review_note": "",
-    "new_translation_vi": "Xoáy nhân tạo giờ đây sẽ ảnh hưởng trên phạm vi rộng hơn.",
+    "new_translation_vi": "Xoáy nước nhân tạo giờ đây ảnh hưởng đến phạm vi rộng hơn.",
     "translator_note": ""
   },
   {
@@ -2121,7 +2121,7 @@
     "ai_reason": "",
     "source_en": "Hoartoise Echo now moves faster and knocks back Tacet Discords further.",
     "review_note": "",
-    "new_translation_vi": "Hồi Âm Hoartoise giờ di chuyển nhanh hơn và đẩy lùi Tacet Discord xa hơn.",
+    "new_translation_vi": "Hoartoise Echo giờ đây di chuyển nhanh hơn và đẩy lùi Tacet Discord xa hơn.",
     "translator_note": ""
   },
   {
@@ -2146,7 +2146,7 @@
     "ai_reason": "",
     "source_en": "Shocking a Paralyzed Tacet Discord guarantees a Critical Hit.",
     "review_note": "",
-    "new_translation_vi": "Làm Tacet Discord tê liệt bất ngờ chắc chắn sẽ gây ra đòn Bạo Kích.",
+    "new_translation_vi": "Sốc điện một Tacet Discord đang bị Tê Liệt đảm bảo sẽ gây ra Đòn Chí Mạng.",
     "translator_note": ""
   },
   {
@@ -2171,7 +2171,7 @@
     "ai_reason": "",
     "source_en": "Periodically generates a whirlpool and pulls in Tacet Discords, removing their Shields and suspending small ones while it lasts.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng tạo ra xoáy nước hút Tacet Discord vào, phá vỡ Khiên và treo lơ lửng các mục tiêu nhỏ trong thời gian hiệu lực.",
+    "new_translation_vi": "Định kỳ tạo ra một xoáy nước hút các Tacet Discord vào, loại bỏ Lá Chắn và treo lơ lửng các Tacet Discord nhỏ trong suốt thời gian hiệu lực.",
     "translator_note": ""
   },
   {
@@ -2196,7 +2196,7 @@
     "ai_reason": "",
     "source_en": "Periodically generates a whirlpool and pulls in Tacet Discords, removing their Shields and suspending small ones while it lasts.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng tạo ra xoáy nước hút Tacet Discord vào, phá vỡ Khiên và treo lơ lửng các mục tiêu nhỏ trong thời gian hiệu lực.",
+    "new_translation_vi": "Định kỳ tạo ra một xoáy nước hút các Tacet Discord vào, loại bỏ Lá Chắn và treo lơ lửng các Tacet Discord nhỏ trong suốt thời gian hiệu lực.",
     "translator_note": ""
   },
   {
@@ -2221,7 +2221,7 @@
     "ai_reason": "",
     "source_en": "Periodically generates a whirlpool and pulls in Tacet Discords, removing their Shields and suspending small ones while it lasts.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng tạo ra xoáy nước hút Tacet Discord vào, phá vỡ Khiên và treo lơ lửng các mục tiêu nhỏ trong thời gian hiệu lực.",
+    "new_translation_vi": "Định kỳ tạo ra một xoáy nước hút các Tacet Discord vào, loại bỏ Lá Chắn và treo lơ lửng các Tacet Discord nhỏ trong suốt thời gian hiệu lực.",
     "translator_note": ""
   },
   {
@@ -2246,7 +2246,7 @@
     "ai_reason": "",
     "source_en": "The whirlpool now suspends medium Tacet Discords.",
     "review_note": "",
-    "new_translation_vi": "Xoáy nước giờ đây có thể treo lơ lửng các Tacet Discord cỡ trung.",
+    "new_translation_vi": "Vòng xoáy hiện treo lơ lửng các Tacet Discord cỡ trung.",
     "translator_note": ""
   },
   {
@@ -2271,7 +2271,7 @@
     "ai_reason": "",
     "source_en": "The freezing burst now Freezes Tacet Discords on hit.",
     "review_note": "",
-    "new_translation_vi": "Kỹ năng băng giá giờ đây đóng băng Tacet Discord khi trúng đích.",
+    "new_translation_vi": "Đợt sóng băng giá giờ đây sẽ Đóng Băng Tacet Discord khi trúng đòn.",
     "translator_note": ""
   },
   {
@@ -2296,7 +2296,7 @@
     "ai_reason": "",
     "source_en": "Puff Echo now upgrades faster.",
     "review_note": "",
-    "new_translation_vi": "Puff Echo giờ nâng cấp nhanh hơn rồi.",
+    "new_translation_vi": "Puff Echo hiện nâng cấp nhanh hơn.",
     "translator_note": ""
   },
   {
@@ -2321,7 +2321,7 @@
     "ai_reason": "",
     "source_en": "The cost of this Combat Machine is reduced by <color=#fde7a1ff>250</color>.",
     "review_note": "",
-    "new_translation_vi": "Chi phí của Chiến Dịch Cơ này giảm <color=#fde7a1ff>250</color>.",
+    "new_translation_vi": "Chi phí của Combat Machine này giảm <color=#fde7a1ff>250</color>.",
     "translator_note": ""
   },
   {
@@ -2346,7 +2346,7 @@
     "ai_reason": "",
     "source_en": "The device can now load <color=#fde7a1ff>{0}</color> more Explosive Cores at most.",
     "review_note": "",
-    "new_translation_vi": "Thiết bị giờ có thể nạp thêm tối đa <color=#fde7a1ff>{0}</color> Lõi Nổ.",
+    "new_translation_vi": "Thiết bị hiện có thể nạp tối đa thêm <color=#fde7a1ff>{0}</color> Explosive Core.",
     "translator_note": ""
   },
   {
@@ -2371,7 +2371,7 @@
     "ai_reason": "",
     "source_en": "Used to generate a cryogenic pulse, Freezing Tacet Discords within a certain range for a short period of time.",
     "review_note": "",
-    "new_translation_vi": "Dùng để tạo xung đông lạnh, đóng băng Tacet Discord trong phạm vi nhất định trong thời gian ngắn.",
+    "new_translation_vi": "Dùng để tạo ra một xung nhịp đông lạnh, Đóng Băng các Tacet Discord trong một phạm vi nhất định trong thời gian ngắn.",
     "translator_note": ""
   },
   {
@@ -2396,7 +2396,7 @@
     "ai_reason": "",
     "source_en": "Obtain 6 Rating Stars.",
     "review_note": "",
-    "new_translation_vi": "Thu thập 6 Ngôi Sao Đánh Giá.",
+    "new_translation_vi": "Nhận 6 Rating Star.",
     "translator_note": ""
   },
   {
@@ -2421,7 +2421,7 @@
     "ai_reason": "",
     "source_en": "Obtain 12 Rating Stars.",
     "review_note": "",
-    "new_translation_vi": "Thu thập 12 Ngôi Sao Đánh Giá",
+    "new_translation_vi": "Nhận 12 Rating Star.",
     "translator_note": ""
   },
   {
@@ -2446,7 +2446,7 @@
     "ai_reason": "",
     "source_en": "Obtain 21 Rating Stars.",
     "review_note": "",
-    "new_translation_vi": "Thu thập 21 Sao Đánh Giá",
+    "new_translation_vi": "Nhận 21 Rating Star.",
     "translator_note": ""
   },
   {
@@ -2471,7 +2471,7 @@
     "ai_reason": "",
     "source_en": "Obtain 27 Rating Stars.",
     "review_note": "",
-    "new_translation_vi": "Nhận được 27 Ngôi Sao Xếp Hạng.",
+    "new_translation_vi": "Nhận 27 Rating Star.",
     "translator_note": ""
   },
   {
@@ -2496,7 +2496,7 @@
     "ai_reason": "",
     "source_en": "Obtain 33 Rating Stars.",
     "review_note": "",
-    "new_translation_vi": "Đạt 33 Sao Đánh Giá.",
+    "new_translation_vi": "Nhận 33 Rating Star.",
     "translator_note": ""
   },
   {
@@ -2521,7 +2521,7 @@
     "ai_reason": "",
     "source_en": "Obtain 42 Rating Stars.",
     "review_note": "",
-    "new_translation_vi": "Đạt 42 Ngôi Sao Xếp Hạng.",
+    "new_translation_vi": "Nhận 42 Rating Star.",
     "translator_note": ""
   },
   {
@@ -2546,7 +2546,7 @@
     "ai_reason": "",
     "source_en": "Unlock Combat Machine - Glitch Spawner.",
     "review_note": "",
-    "new_translation_vi": "Mở khóa Máy Chiến Đấu - Sinh Lỗi Hệ Thống",
+    "new_translation_vi": "Mở khóa Combat Machine - Glitch Spawner.",
     "translator_note": ""
   },
   {
@@ -2571,7 +2571,7 @@
     "ai_reason": "",
     "source_en": "Unlock Combat Machine - Freeze Jet.",
     "review_note": "",
-    "new_translation_vi": "Mở khóa Máy Chiến Đấu - Phóng Đông Lạnh",
+    "new_translation_vi": "Mở khóa Combat Machine - Freeze Jet.",
     "translator_note": ""
   },
   {
@@ -2596,7 +2596,7 @@
     "ai_reason": "",
     "source_en": "Unlock Optional Modules of 5 Combat Machines.",
     "review_note": "",
-    "new_translation_vi": "Mở khóa Mô-đun Tùy chọn cho 5 Máy Chiến Đấu.",
+    "new_translation_vi": "Mở khóa Optional Module của 5 Combat Machine.",
     "translator_note": ""
   },
   {
@@ -2621,7 +2621,7 @@
     "ai_reason": "",
     "source_en": "Unlock Optional Modules of 10 Combat Machines.",
     "review_note": "",
-    "new_translation_vi": "Mở khóa Mô-đun Tùy chọn cho 10 Máy Chiến Đấu.",
+    "new_translation_vi": "Mở khóa Optional Module của 10 Combat Machine.",
     "translator_note": ""
   },
   {
@@ -2646,7 +2646,7 @@
     "ai_reason": "",
     "source_en": "Unlock Overwatch Protocol - Device Upgrade Plan II.",
     "review_note": "",
-    "new_translation_vi": "Mở khóa Giao Thức Giám Sát - Kế Hoạch Nâng Cấp Thiết Bị II.",
+    "new_translation_vi": "Mở khóa Overwatch Protocol - Kế hoạch Nâng cấp Thiết bị II.",
     "translator_note": ""
   },
   {
@@ -2671,7 +2671,7 @@
     "ai_reason": "",
     "source_en": "Unlock Overwatch Protocol - Weapon Upgrade Plan.",
     "review_note": "",
-    "new_translation_vi": "Mở khóa Giao Thức Giám Sát - Kế Hoạch Nâng Cấp Vũ Khí.",
+    "new_translation_vi": "Mở khóa Overwatch Protocol - Kế hoạch Nâng cấp Vũ khí.",
     "translator_note": ""
   },
   {
@@ -2696,7 +2696,7 @@
     "ai_reason": "",
     "source_en": "Use the terrain to defeat 50 Tacet Discords in total.",
     "review_note": "",
-    "new_translation_vi": "Tận dụng địa hình để tiêu diệt tổng cộng 50 Tacet Discord.",
+    "new_translation_vi": "Tận dụng địa hình để đánh bại tổng cộng 50 Tacet Discord.",
     "translator_note": ""
   },
   {
@@ -2721,7 +2721,7 @@
     "ai_reason": "",
     "source_en": "Use the terrain to defeat 100 Tacet Discords in total.",
     "review_note": "",
-    "new_translation_vi": "Tận dụng địa hình để tiêu diệt tổng cộng 100 Tacet Discord.",
+    "new_translation_vi": "Tận dụng địa hình để đánh bại tổng cộng 100 Tacet Discord.",
     "translator_note": ""
   },
   {
@@ -2746,7 +2746,7 @@
     "ai_reason": "",
     "source_en": "Defeat more than 60 Tacet Discords continuously in a single stage.",
     "review_note": "",
-    "new_translation_vi": "Liên tục tiêu diệt hơn 60 Tacet Discord trong một màn chơi.",
+    "new_translation_vi": "Đánh bại hơn 60 Tacet Discord liên tục trong một màn chơi.",
     "translator_note": ""
   },
   {
@@ -2771,7 +2771,7 @@
     "ai_reason": "",
     "source_en": "Defeat more than 80 Tacet Discords continuously in a single stage.",
     "review_note": "",
-    "new_translation_vi": "Liên tục tiêu diệt hơn 80 Tacet Discord trong một màn chơi.",
+    "new_translation_vi": "Đánh bại hơn 80 Tacet Discord liên tục trong một màn chơi.",
     "translator_note": ""
   },
   {
@@ -2796,7 +2796,7 @@
     "ai_reason": "",
     "source_en": "Hold out until Wave 10 in \"Total Defense Test.\"",
     "review_note": "",
-    "new_translation_vi": "Cố thủ đến Làn sóng 10 trong \"Bài Kiểm Tra Phòng Thủ Tổng Hợp\".",
+    "new_translation_vi": "Cầm cự đến Đợt 10 trong \"Total Defense Test.\"",
     "translator_note": ""
   },
   {
@@ -2821,7 +2821,7 @@
     "ai_reason": "",
     "source_en": "Hold out until Wave 15 and then successfully finalize in \"Total Defense Test.\"",
     "review_note": "",
-    "new_translation_vi": "Cố thủ đến Làn sóng 15 rồi hoàn thành trong \"Bài Kiểm Tra Phòng Thủ Tổng Hợp\".",
+    "new_translation_vi": "Cầm cự đến Đợt 15 và hoàn thành thành công trong \"Total Defense Test.\"",
     "translator_note": ""
   },
   {
@@ -2846,7 +2846,7 @@
     "ai_reason": "",
     "source_en": "Obtain all Rating Stars in \"Crumbling City\" on Common difficulty.",
     "review_note": "",
-    "new_translation_vi": "Đạt tất cả Sao Đánh Giá trong \"Thành Phố Đổ Nát\" ở độ khó Thông Thường.",
+    "new_translation_vi": "Nhận tất cả Rating Star trong \"Crumbling City\" ở độ khó Common.",
     "translator_note": ""
   },
   {
@@ -2871,7 +2871,7 @@
     "ai_reason": "",
     "source_en": "Obtain all Rating Stars in \"Sunken Ruins\" on Common difficulty.",
     "review_note": "",
-    "new_translation_vi": "Đạt tất cả Sao Đánh Giá trong \"Tàn Tích Chìm Đắm\" ở độ khó Thông Thường.",
+    "new_translation_vi": "Nhận tất cả Rating Star trong \"Sunken Ruins\" ở độ khó Common.",
     "translator_note": ""
   },
   {
@@ -2896,7 +2896,7 @@
     "ai_reason": "",
     "source_en": "Obtain all Rating Stars in \"Crumbling City\" on Elite difficulty.",
     "review_note": "",
-    "new_translation_vi": "Đạt tất cả Sao Đánh Giá trong \"Thành Phố Đổ Nát\" ở độ khó Cao Thủ.",
+    "new_translation_vi": "Nhận tất cả Rating Star trong \"Crumbling City\" ở độ khó Elite.",
     "translator_note": ""
   },
   {
@@ -2921,7 +2921,7 @@
     "ai_reason": "",
     "source_en": "Obtain all Rating Stars in \"Sunken Ruins\" on Elite difficulty.",
     "review_note": "",
-    "new_translation_vi": "Đạt tất cả Sao Đánh Giá trong \"Tàn Tích Chìm Đắm\" ở độ khó Cao Thủ.",
+    "new_translation_vi": "Nhận tất cả Rating Star trong \"Sunken Ruins\" ở độ khó Elite.",
     "translator_note": ""
   },
   {
@@ -2946,7 +2946,7 @@
     "ai_reason": "",
     "source_en": "Obtain all Rating Stars in \"Sunken Ruins\" on Overlord difficulty.",
     "review_note": "",
-    "new_translation_vi": "Đạt tất cả Sao Đánh Giá trong \"Tàn Tích Chìm Đắm\" ở độ khó Thống Soái.",
+    "new_translation_vi": "Nhận tất cả Rating Star trong \"Sunken Ruins\" ở độ khó Overlord.",
     "translator_note": ""
   },
   {
@@ -2971,7 +2971,7 @@
     "ai_reason": "",
     "source_en": "Obtain all Rating Stars in \"Synergy Drill.\"",
     "review_note": "",
-    "new_translation_vi": "Đạt tất cả Sao Đánh Giá trong \"Bài Tập Đồng Bộ.\"",
+    "new_translation_vi": "Nhận tất cả Rating Star trong \"Synergy Drill.\"",
     "translator_note": ""
   },
   {
@@ -2996,7 +2996,7 @@
     "ai_reason": "",
     "source_en": "Unlock 9 Combat Machines.",
     "review_note": "",
-    "new_translation_vi": "Mở khóa 9 Máy Chiến Đấu",
+    "new_translation_vi": "Mở khóa 9 Combat Machine.",
     "translator_note": ""
   },
   {
@@ -3021,7 +3021,7 @@
     "ai_reason": "",
     "source_en": "Unlock all Combat Machines.",
     "review_note": "",
-    "new_translation_vi": "Mở khóa tất cả Máy Chiến Đấu.",
+    "new_translation_vi": "Mở khóa tất cả Combat Machine.",
     "translator_note": ""
   },
   {
@@ -3046,7 +3046,7 @@
     "ai_reason": "",
     "source_en": "Unlock 2 KU-Roro's Weapons.",
     "review_note": "",
-    "new_translation_vi": "Mở khóa 2 Vũ Khí của KU-Roro",
+    "new_translation_vi": "Mở khóa 2 vũ khí của KU-Roro.",
     "translator_note": ""
   },
   {
@@ -3071,7 +3071,7 @@
     "ai_reason": "",
     "source_en": "Unlock all KU-Roro's Weapons.",
     "review_note": "",
-    "new_translation_vi": "Mở khóa tất cả Vũ khí của KU-Roro.",
+    "new_translation_vi": "Mở khóa tất cả vũ khí của KU-Roro.",
     "translator_note": ""
   },
   {
@@ -3096,7 +3096,7 @@
     "ai_reason": "",
     "source_en": "Unlock 12 Overwatch Protocols.",
     "review_note": "",
-    "new_translation_vi": "Mở khóa 12 Giao Thức Giám Sát",
+    "new_translation_vi": "Mở khóa 12 Overwatch Protocol.",
     "translator_note": ""
   },
   {
@@ -3121,7 +3121,7 @@
     "ai_reason": "",
     "source_en": "Unlock all Overwatch Protocols.",
     "review_note": "",
-    "new_translation_vi": "Mở khóa tất cả Giao thức Giám sát.",
+    "new_translation_vi": "Mở khóa tất cả Overwatch Protocol.",
     "translator_note": ""
   },
   {
@@ -3146,7 +3146,7 @@
     "ai_reason": "",
     "source_en": "Hold out until Wave 20 and activate any Gold Tactic from Saturation Fire Tactic Set in \"Total Defense Test.\"",
     "review_note": "",
-    "new_translation_vi": "Giữ vững đến Hồi 20 và kích hoạt bất kỳ Chiến Thuật Vàng nào từ Bộ Chiến Thuật Bắn Phủ Kín trong \"Bài Kiểm Tra Phòng Ngự Toàn Diện\".",
+    "new_translation_vi": "Cầm cự đến Đợt 20 và kích hoạt bất kỳ Tactic Vàng nào từ Bộ Tactic Saturation Fire trong \"Total Defense Test.\"",
     "translator_note": ""
   },
   {
@@ -3171,7 +3171,7 @@
     "ai_reason": "",
     "source_en": "Hold out until Wave 20 and activate any Gold Tactic from Silver Bullet Tactic Set in \"Total Defense Test.\"",
     "review_note": "",
-    "new_translation_vi": "Giữ vững đến Hồi 20 và kích hoạt bất kỳ Chiến Thuật Vàng nào từ Bộ Chiến Thuật Viên Đạn Bạc trong \"Bài Kiểm Tra Phòng Ngự Toàn Diện\".",
+    "new_translation_vi": "Cầm cự đến Đợt 20 và kích hoạt bất kỳ Tactic Vàng nào từ Bộ Tactic Silver Bullet trong \"Total Defense Test.\"",
     "translator_note": ""
   },
   {
@@ -3196,7 +3196,7 @@
     "ai_reason": "",
     "source_en": "Hold out until Wave 20 and activate any Gold Tactic from Echo Synergy Tactic Set in \"Total Defense Test.\"",
     "review_note": "",
-    "new_translation_vi": "Giữ vững đến Hồi 20 và kích hoạt bất kỳ Chiến Thuật Vàng nào từ Bộ Chiến Thuật Cộng Hưởng Echo trong \"Bài Kiểm Tra Phòng Ngự Toàn Diện\".",
+    "new_translation_vi": "Cầm cự đến Đợt 20 và kích hoạt bất kỳ Tactic Vàng nào từ Bộ Tactic Synergy Echo trong \"Total Defense Test.\"",
     "translator_note": ""
   },
   {
@@ -3219,9 +3219,9 @@
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
-    "source_en": "Giữ vững cho đến Đợt 20 và kích hoạt bất kỳ Chiến thuật Vàng nào từ Bộ Chiến thuật Tia chớp Im lặng trong \"Thử nghiệm phòng thủ tổng thể\".",
+    "source_en": "Hold out until Wave 20 and activate any Golden Tactic from the Silent Lightning Tactics Set in \"Comprehensive Defense Trial.\"",
     "review_note": "",
-    "new_translation_vi": "Giữ vững đến Đợt 20 và kích hoạt bất kỳ Chiến thuật Vàng nào từ Bộ Chiến thuật Tia chớp Im lặng trong \"Thử nghiệm phòng thủ tổng thể\".",
+    "new_translation_vi": "Cầm cự đến Đợt 20 và kích hoạt bất kỳ Tactic Vàng nào từ Bộ Tactic Silent Lightning trong \"Comprehensive Defense Trial.\"",
     "translator_note": ""
   },
   {
@@ -3246,7 +3246,7 @@
     "ai_reason": "",
     "source_en": "Start a simulation with <color=#fde7a1ff>200</color> more Sim Credits.",
     "review_note": "",
-    "new_translation_vi": "Bắt đầu mô phỏng với thêm <color=#fde7a1ff>200</color> Tín Dụng Mô Phỏng.",
+    "new_translation_vi": "Bắt đầu mô phỏng với thêm <color=#fde7a1ff>200</color> Sim Credit.",
     "translator_note": ""
   },
   {
@@ -3271,7 +3271,7 @@
     "ai_reason": "",
     "source_en": "Combat Machine equipment slot <color=#fde7a1ff>+1</color>.",
     "review_note": "",
-    "new_translation_vi": "Ô trang bị Máy Chiến Đấu <color=#fde7a1ff>+1</color>",
+    "new_translation_vi": "Ô trang bị Combat Machine <color=#fde7a1ff>+1</color>.",
     "translator_note": ""
   },
   {
@@ -3296,7 +3296,7 @@
     "ai_reason": "",
     "source_en": "Start a simulation with <color=#fde7a1ff>300</color> more Sim Credits.",
     "review_note": "",
-    "new_translation_vi": "Bắt đầu mô phỏng với thêm <color=#fde7a1ff>300</color> Tín Dụng Mô Phỏng.",
+    "new_translation_vi": "Bắt đầu mô phỏng với thêm <color=#fde7a1ff>300</color> Sim Credit.",
     "translator_note": ""
   },
   {
@@ -3321,7 +3321,7 @@
     "ai_reason": "",
     "source_en": "Combat Machine equipment slot <color=#fde7a1ff>+1</color>.",
     "review_note": "",
-    "new_translation_vi": "Ô trang bị Máy Chiến Đấu <color=#fde7a1ff>+1</color>",
+    "new_translation_vi": "Ô trang bị Combat Machine <color=#fde7a1ff>+1</color>.",
     "translator_note": ""
   },
   {
@@ -3346,7 +3346,7 @@
     "ai_reason": "",
     "source_en": "Max number of deployable Combat Machines is increased by <color=#fde7a1ff>15</color>.",
     "review_note": "",
-    "new_translation_vi": "Số lượng Máy Chiến Đấu triển khai tối đa tăng thêm <color=#fde7a1ff>15</color>.",
+    "new_translation_vi": "Số lượng Combat Machine tối đa có thể triển khai tăng thêm <color=#fde7a1ff>15</color>.",
     "translator_note": ""
   },
   {
@@ -3371,7 +3371,7 @@
     "ai_reason": "",
     "source_en": "Max Combat Machine Level is increased by <color=#fde7a1ff>1</color>.",
     "review_note": "",
-    "new_translation_vi": "Cấp độ Máy Chiến Đấu tối đa tăng thêm <color=#fde7a1ff>1</color>.",
+    "new_translation_vi": "Cấp độ tối đa của Combat Machine tăng thêm <color=#fde7a1ff>1</color>.",
     "translator_note": ""
   },
   {
@@ -3396,7 +3396,7 @@
     "ai_reason": "",
     "source_en": "Start a simulation with <color=#fde7a1ff>300</color> more Sim Credits.",
     "review_note": "",
-    "new_translation_vi": "Bắt đầu mô phỏng với thêm <color=#fde7a1ff>300</color> Tín Dụng Mô Phỏng.",
+    "new_translation_vi": "Bắt đầu mô phỏng với thêm <color=#fde7a1ff>300</color> Sim Credit.",
     "translator_note": ""
   },
   {
@@ -3446,7 +3446,7 @@
     "ai_reason": "",
     "source_en": "Combat Machine equipment slot <color=#fde7a1ff>+1</color>.",
     "review_note": "",
-    "new_translation_vi": "Ô trang bị Máy Chiến Đấu <color=#fde7a1ff>+1</color>",
+    "new_translation_vi": "Ô trang bị Combat Machine <color=#fde7a1ff>+1</color>.",
     "translator_note": ""
   },
   {
@@ -3471,7 +3471,7 @@
     "ai_reason": "",
     "source_en": "Max number of deployable Combat Machines is increased by <color=#fde7a1ff>15</color>.",
     "review_note": "",
-    "new_translation_vi": "Số lượng Máy Chiến Đấu triển khai tối đa tăng thêm <color=#fde7a1ff>15</color>.",
+    "new_translation_vi": "Số lượng Combat Machine tối đa có thể triển khai tăng thêm <color=#fde7a1ff>15</color>.",
     "translator_note": ""
   },
   {
@@ -3546,7 +3546,7 @@
     "ai_reason": "",
     "source_en": "Combat Machine equipment slot <color=#fde7a1ff>+1</color>.",
     "review_note": "",
-    "new_translation_vi": "Ô trang bị Máy Chiến Đấu <color=#fde7a1ff>+1</color>",
+    "new_translation_vi": "Ô trang bị Combat Machine <color=#fde7a1ff>+1</color>.",
     "translator_note": ""
   },
   {
@@ -3571,7 +3571,7 @@
     "ai_reason": "",
     "source_en": "Max number of deployable Combat Machines is increased by <color=#fde7a1ff>15</color>.",
     "review_note": "",
-    "new_translation_vi": "Số lượng Máy Chiến Đấu triển khai tối đa tăng thêm <color=#fde7a1ff>15</color>.",
+    "new_translation_vi": "Số lượng Combat Machine tối đa có thể triển khai tăng thêm <color=#fde7a1ff>15</color>.",
     "translator_note": ""
   },
   {
@@ -3596,7 +3596,7 @@
     "ai_reason": "",
     "source_en": "The max level of KU-Roro's Weapons is increased by <color=#fde7a1ff>1</color>.",
     "review_note": "",
-    "new_translation_vi": "Cấp độ tối đa của Vũ Khí KU-Roro tăng thêm <color=#fde7a1ff>1</color>.",
+    "new_translation_vi": "Cấp độ tối đa của vũ khí KU-Roro tăng thêm <color=#fde7a1ff>1</color>.",
     "translator_note": ""
   },
   {
@@ -3621,7 +3621,7 @@
     "ai_reason": "",
     "source_en": "<color=#fde7a1ff>1</color> more KU-Roro's Weapon can be equipped at the same time.",
     "review_note": "",
-    "new_translation_vi": "Chỉ có thể trang bị thêm <color=#fde7a1ff>1</color> Vũ Khí KU-Roro cùng lúc.",
+    "new_translation_vi": "Có thể trang bị thêm <color=#fde7a1ff>1</color> vũ khí KU-Roro cùng lúc.",
     "translator_note": ""
   },
   {
@@ -3646,7 +3646,7 @@
     "ai_reason": "",
     "source_en": "Combat Machine equipment slot <color=#fde7a1ff>+1</color>.",
     "review_note": "",
-    "new_translation_vi": "Ô trang bị Máy Chiến Đấu <color=#fde7a1ff>+1</color>",
+    "new_translation_vi": "Ô trang bị Combat Machine <color=#fde7a1ff>+1</color>.",
     "translator_note": ""
   },
   {
@@ -3671,7 +3671,7 @@
     "ai_reason": "",
     "source_en": "Max number of deployable Combat Machines is increased by <color=#fde7a1ff>15</color>.",
     "review_note": "",
-    "new_translation_vi": "Số lượng Máy Chiến Đấu triển khai tối đa tăng thêm <color=#fde7a1ff>15</color>.",
+    "new_translation_vi": "Số lượng Combat Machine tối đa có thể triển khai tăng thêm <color=#fde7a1ff>15</color>.",
     "translator_note": ""
   },
   {
@@ -3696,7 +3696,7 @@
     "ai_reason": "",
     "source_en": "Gain <color=#fde7a1ff>1</color> more free refresh attempt of Tactic Selection in Deathtrap Mode.",
     "review_note": "",
-    "new_translation_vi": "Nhận thêm <color=#fde7a1ff>1</color> lần làm mới miễn phí Lựa Chọn Chiến Thuật trong Chế Độ Bẫy Tử Thần.",
+    "new_translation_vi": "Nhận thêm <color=#fde7a1ff>1</color> lượt làm mới Tactic miễn phí trong Chế độ Deathtrap.",
     "translator_note": ""
   },
   {
@@ -3721,7 +3721,7 @@
     "ai_reason": "",
     "source_en": "Gain <color=#fde7a1ff>1</color> more free refresh attempt at KU-Money's Shop in Deathtrap Mode.",
     "review_note": "",
-    "new_translation_vi": "Nhận thêm <color=#fde7a1ff>1</color> lần làm mới miễn phí tại Cửa Hàng KU-Money trong Chế Độ Bẫy Tử Thần.",
+    "new_translation_vi": "Nhận thêm <color=#fde7a1ff>1</color> lượt làm mới miễn phí tại Cửa hàng KU-Money trong Chế độ Deathtrap.",
     "translator_note": ""
   },
   {
@@ -3738,13 +3738,13 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
-    "source_en": "Cảnh báo: Mục tiêu nguy hiểm!",
+    "source_en": "Warning: Dangerous target!",
     "review_note": "",
     "new_translation_vi": "Cảnh báo: Mục tiêu nguy hiểm!",
     "translator_note": ""
@@ -3771,7 +3771,7 @@
     "ai_reason": "",
     "source_en": "Threat Escalation: Max Matrix Durability is reduced to <color=#fde7a1ff>15</color>.\nTerrain is expanded in this simulation.",
     "review_note": "",
-    "new_translation_vi": "Mức Đe Dọa Tăng: Độ Bền Ma Trận Tối Đa giảm xuống còn <color=#fde7a1ff>15</color>.\nĐịa hình trong mô phỏng được mở rộng.",
+    "new_translation_vi": "Leo thang đe dọa: Độ bền Matrix tối đa giảm xuống <color=#fde7a1ff>15</color>.\\nĐịa hình được mở rộng trong mô phỏng này.",
     "translator_note": ""
   },
   {
@@ -3796,7 +3796,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Lone Bridge\" on Common difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Cây Cầu Cô Đơn\" ở độ khó Thường.",
+    "new_translation_vi": "Hoàn thành \"Lone Bridge\" ở độ khó Common.",
     "translator_note": ""
   },
   {
@@ -3821,7 +3821,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Forsaken Court\" on Common difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Tòa Án Bị Lãng Quên\" ở độ khó Thường.",
+    "new_translation_vi": "Hoàn thành \"Forsaken Court\" ở độ khó Common.",
     "translator_note": ""
   },
   {
@@ -3846,7 +3846,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Crumbling City\" on Common difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Thành Phố Đổ Nát\" ở độ khó Thông Thường.",
+    "new_translation_vi": "Hoàn thành \"Crumbling City\" ở độ khó Common.",
     "translator_note": ""
   },
   {
@@ -3871,7 +3871,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Abyssal Pass\" on Common difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Hành Lang Vực Sâu\" ở độ khó Thông Thường.",
+    "new_translation_vi": "Hoàn thành \"Abyssal Pass\" ở độ khó Common.",
     "translator_note": ""
   },
   {
@@ -3896,7 +3896,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Mazed Aisle\" on Common difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Mazed Aisle\" ở độ khó Thông Thường.",
+    "new_translation_vi": "Hoàn thành \"Mazed Aisle\" ở độ khó Common.",
     "translator_note": ""
   },
   {
@@ -3921,7 +3921,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Sunken Ruins\" on Common difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Tàn Tích Chìm Đắm\" ở độ khó Thông Thường.",
+    "new_translation_vi": "Hoàn thành \"Sunken Ruins\" ở độ khó Common.",
     "translator_note": ""
   },
   {
@@ -3946,7 +3946,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Lone Bridge\" on Elite difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Lone Bridge\" ở độ khó Cao Thủ.",
+    "new_translation_vi": "Hoàn thành \"Lone Bridge\" ở độ khó Elite.",
     "translator_note": ""
   },
   {
@@ -3971,7 +3971,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Forsaken Court\" on Elite difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Tòa Án Bị Lãng Quên\" ở độ khó Cao.",
+    "new_translation_vi": "Hoàn thành \"Forsaken Court\" ở độ khó Elite.",
     "translator_note": ""
   },
   {
@@ -3996,7 +3996,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Crumbling City\" on Elite difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Thành Phố Đổ Nát\" ở độ khó Cao Thủ.",
+    "new_translation_vi": "Hoàn thành \"Crumbling City\" ở độ khó Elite.",
     "translator_note": ""
   },
   {
@@ -4021,7 +4021,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Abyssal Pass\" on Elite difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Hành Lang Vực Sâu\" ở độ khó Cao Thủ.",
+    "new_translation_vi": "Hoàn thành \"Abyssal Pass\" ở độ khó Elite.",
     "translator_note": ""
   },
   {
@@ -4046,7 +4046,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Mazed Aisle\" on Elite difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Mazed Aisle\" ở độ khó Cao Thủ.",
+    "new_translation_vi": "Hoàn thành \"Mazed Aisle\" ở độ khó Elite.",
     "translator_note": ""
   },
   {
@@ -4071,7 +4071,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Sunken Ruins\" on Elite difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Tàn Tích Chìm Đắm\" ở độ khó Cao Thủ.",
+    "new_translation_vi": "Hoàn thành \"Sunken Ruins\" ở độ khó Elite.",
     "translator_note": ""
   },
   {
@@ -4096,7 +4096,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Sunken Ruins\" on Elite difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Tàn Tích Chìm Đắm\" ở độ khó Cao Thủ.",
+    "new_translation_vi": "Hoàn thành \"Sunken Ruins\" ở độ khó Elite.",
     "translator_note": ""
   },
   {
@@ -4121,7 +4121,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Sunken Ruins\" on Elite difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Tàn Tích Chìm Đắm\" ở độ khó Cao Thủ.",
+    "new_translation_vi": "Hoàn thành \"Sunken Ruins\" ở độ khó Elite.",
     "translator_note": ""
   },
   {
@@ -4146,7 +4146,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Sunken Ruins\" on Elite difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Tàn Tích Chìm Đắm\" ở độ khó Cao Thủ.",
+    "new_translation_vi": "Hoàn thành \"Sunken Ruins\" ở độ khó Elite.",
     "translator_note": ""
   },
   {
@@ -4171,7 +4171,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Abyssal Pass\" on Overlord difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Hành Lang Vực Sâu\" ở độ khó Thống Soái.",
+    "new_translation_vi": "Hoàn thành \"Abyssal Pass\" ở độ khó Overlord.",
     "translator_note": ""
   },
   {
@@ -4196,7 +4196,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Abyssal Pass\" on Overlord difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Hành Lang Vực Sâu\" ở độ khó Thống Soái.",
+    "new_translation_vi": "Hoàn thành \"Abyssal Pass\" ở độ khó Overlord.",
     "translator_note": ""
   },
   {
@@ -4221,7 +4221,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Sunken Ruins\" on Overlord difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Tàn Tích Chìm Đắm\" ở độ khó Thống Soái.",
+    "new_translation_vi": "Hoàn thành \"Sunken Ruins\" ở độ khó Overlord.",
     "translator_note": ""
   },
   {
@@ -4246,7 +4246,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Sunken Ruins\" on Overlord difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Tàn Tích Chìm Đắm\" ở độ khó Thống Soái.",
+    "new_translation_vi": "Hoàn thành \"Sunken Ruins\" ở độ khó Overlord.",
     "translator_note": ""
   },
   {
@@ -4271,7 +4271,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Combat Drill.\"",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Bài Tập Chiến Đấu.\"",
+    "new_translation_vi": "Hoàn thành \"Combat Drill.\"",
     "translator_note": ""
   },
   {
@@ -4296,7 +4296,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Synergy Drill.\"",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Bài Tập Đồng Bộ\".",
+    "new_translation_vi": "Hoàn thành \"Synergy Drill.\"",
     "translator_note": ""
   },
   {
@@ -4321,7 +4321,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Lone Bridge\" on Common difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Cây Cầu Cô Đơn\" ở độ khó Thường.",
+    "new_translation_vi": "Hoàn thành \"Lone Bridge\" ở độ khó Common.",
     "translator_note": ""
   },
   {
@@ -4346,7 +4346,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Forsaken Court\" on Common difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Tòa Án Bị Lãng Quên\" ở độ khó Thường.",
+    "new_translation_vi": "Hoàn thành \"Forsaken Court\" ở độ khó Common.",
     "translator_note": ""
   },
   {
@@ -4371,7 +4371,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Crumbling City\" on Common difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Thành Phố Đổ Nát\" ở độ khó Thông Thường.",
+    "new_translation_vi": "Hoàn thành \"Crumbling City\" ở độ khó Common.",
     "translator_note": ""
   },
   {
@@ -4396,7 +4396,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Abyssal Pass\" on Common difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Hành Lang Vực Sâu\" ở độ khó Thông Thường.",
+    "new_translation_vi": "Hoàn thành \"Abyssal Pass\" ở độ khó Common.",
     "translator_note": ""
   },
   {
@@ -4421,7 +4421,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Mazed Aisle\" on Common difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Mazed Aisle\" ở độ khó Thông Thường.",
+    "new_translation_vi": "Hoàn thành \"Mazed Aisle\" ở độ khó Common.",
     "translator_note": ""
   },
   {
@@ -4446,7 +4446,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Sunken Ruins\" on Common difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Tàn Tích Chìm Đắm\" ở độ khó Thông Thường.",
+    "new_translation_vi": "Hoàn thành \"Sunken Ruins\" ở độ khó Common.",
     "translator_note": ""
   },
   {
@@ -4471,7 +4471,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Lone Bridge\" on Elite difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Lone Bridge\" ở độ khó Cao Thủ.",
+    "new_translation_vi": "Hoàn thành \"Lone Bridge\" ở độ khó Elite.",
     "translator_note": ""
   },
   {
@@ -4496,7 +4496,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Forsaken Court\" on Elite difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Tòa Án Bị Lãng Quên\" ở độ khó Cao.",
+    "new_translation_vi": "Hoàn thành \"Forsaken Court\" ở độ khó Elite.",
     "translator_note": ""
   },
   {
@@ -4521,7 +4521,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Crumbling City\" on Elite difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Thành Phố Đổ Nát\" ở độ khó Cao Thủ.",
+    "new_translation_vi": "Hoàn thành \"Crumbling City\" ở độ khó Elite.",
     "translator_note": ""
   },
   {
@@ -4546,7 +4546,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Abyssal Pass\" on Elite difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Hành Lang Vực Sâu\" ở độ khó Cao Thủ.",
+    "new_translation_vi": "Hoàn thành \"Abyssal Pass\" ở độ khó Elite.",
     "translator_note": ""
   },
   {
@@ -4571,7 +4571,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Mazed Aisle\" on Elite difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Mazed Aisle\" ở độ khó Cao Thủ.",
+    "new_translation_vi": "Hoàn thành \"Mazed Aisle\" ở độ khó Elite.",
     "translator_note": ""
   },
   {
@@ -4596,7 +4596,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Sunken Ruins\" on Elite difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Tàn Tích Chìm Đắm\" ở độ khó Cao Thủ.",
+    "new_translation_vi": "Hoàn thành \"Sunken Ruins\" ở độ khó Elite.",
     "translator_note": ""
   },
   {
@@ -4621,7 +4621,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Sunken Ruins\" on Elite difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Tàn Tích Chìm Đắm\" ở độ khó Cao Thủ.",
+    "new_translation_vi": "Hoàn thành \"Sunken Ruins\" ở độ khó Elite.",
     "translator_note": ""
   },
   {
@@ -4646,7 +4646,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Sunken Ruins\" on Elite difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Tàn Tích Chìm Đắm\" ở độ khó Cao Thủ.",
+    "new_translation_vi": "Hoàn thành \"Sunken Ruins\" ở độ khó Elite.",
     "translator_note": ""
   },
   {
@@ -4671,7 +4671,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Sunken Ruins\" on Elite difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Tàn Tích Chìm Đắm\" ở độ khó Cao Thủ.",
+    "new_translation_vi": "Hoàn thành \"Sunken Ruins\" ở độ khó Elite.",
     "translator_note": ""
   },
   {
@@ -4696,7 +4696,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Abyssal Pass\" on Overlord difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Hành Lang Vực Sâu\" ở độ khó Thống Soái.",
+    "new_translation_vi": "Hoàn thành \"Abyssal Pass\" ở độ khó Overlord.",
     "translator_note": ""
   },
   {
@@ -4721,7 +4721,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Abyssal Pass\" on Overlord difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Hành Lang Vực Sâu\" ở độ khó Thống Soái.",
+    "new_translation_vi": "Hoàn thành \"Abyssal Pass\" ở độ khó Overlord.",
     "translator_note": ""
   },
   {
@@ -4746,7 +4746,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Sunken Ruins\" on Overlord difficulty.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Tàn Tích Chìm Đắm\" ở độ khó Thống Soái.",
+    "new_translation_vi": "Hoàn thành \"Sunken Ruins\" ở độ khó Overlord.",
     "translator_note": ""
   },
   {
@@ -4771,7 +4771,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Combat Drill.\"",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Bài Tập Chiến Đấu.\"",
+    "new_translation_vi": "Hoàn thành \"Combat Drill.\"",
     "translator_note": ""
   },
   {
@@ -4796,7 +4796,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Synergy Drill.\"",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Bài Tập Đồng Bộ\".",
+    "new_translation_vi": "Hoàn thành \"Synergy Drill.\"",
     "translator_note": ""
   },
   {
@@ -4821,7 +4821,7 @@
     "ai_reason": "",
     "source_en": "Obtain 1,000 \"TD Slayer\" Coupons.",
     "review_note": "",
-    "new_translation_vi": "Nhận được 1.000 Phiếu \"Diệt TD\".",
+    "new_translation_vi": "Nhận 1.000 \"TD Slayer\" Coupons.",
     "translator_note": ""
   },
   {
@@ -4846,7 +4846,7 @@
     "ai_reason": "",
     "source_en": "After completing a simulation in Tidal Defense Simulator, you receive Rating Stars based on your performance. They can be used to unlock Overwatch Protocols.",
     "review_note": "",
-    "new_translation_vi": "Sau khi hoàn thành một mô phỏng trong Tidal Defense Simulator, cậu sẽ nhận được Sao Đánh Giá dựa trên thành tích. Chúng có thể dùng để mở khóa các Giao Thức Overwatch.",
+    "new_translation_vi": "Sau khi hoàn thành mô phỏng trong Tidal Defense Simulator, bạn sẽ nhận được Rating Stars dựa trên hiệu suất của mình. Chúng có thể được dùng để mở khóa Overwatch Protocols.",
     "translator_note": ""
   },
   {
@@ -4871,7 +4871,7 @@
     "ai_reason": "",
     "source_en": "After completing a simulation in Tidal Defense Simulator, you receive Rating Stars based on your performance. They can be used to unlock Overwatch Protocols.",
     "review_note": "",
-    "new_translation_vi": "Sau khi hoàn thành một mô phỏng trong Tidal Defense Simulator, cậu sẽ nhận được Sao Đánh Giá dựa trên thành tích. Chúng có thể dùng để mở khóa các Giao Thức Overwatch.",
+    "new_translation_vi": "Sau khi hoàn thành mô phỏng trong Tidal Defense Simulator, bạn sẽ nhận được Rating Stars dựa trên hiệu suất của mình. Chúng có thể được dùng để mở khóa Overwatch Protocols.",
     "translator_note": ""
   },
   {
@@ -4896,7 +4896,7 @@
     "ai_reason": "",
     "source_en": "A simulated material composed of Remnant data, used to level up Combat Machines in \"Tidal Defense Simulator.\"",
     "review_note": "",
-    "new_translation_vi": "Vật liệu mô phỏng được tổng hợp từ dữ liệu Remnant, dùng để nâng cấp Máy Chiến Đấu trong \"Tidal Defense Simulator\".",
+    "new_translation_vi": "Một loại vật liệu mô phỏng được tạo thành từ dữ liệu Remnant, dùng để nâng cấp Combat Machines trong \"Tidal Defense Simulator.\"",
     "translator_note": ""
   },
   {
@@ -4921,7 +4921,7 @@
     "ai_reason": "",
     "source_en": "A simulated material composed of Remnant data, used to level up Combat Machines in \"Tidal Defense Simulator.\"",
     "review_note": "",
-    "new_translation_vi": "Vật liệu mô phỏng được tổng hợp từ dữ liệu Remnant, dùng để nâng cấp Máy Chiến Đấu trong \"Tidal Defense Simulator\".",
+    "new_translation_vi": "Một loại vật liệu mô phỏng được tạo thành từ dữ liệu Remnant, dùng để nâng cấp Combat Machines trong \"Tidal Defense Simulator.\"",
     "translator_note": ""
   },
   {
@@ -4946,7 +4946,7 @@
     "ai_reason": "",
     "source_en": "A special coupon prepared by KU-Uigon for Black Shores staff participating in \"Tidal Defense Simulator.\" Can be used to redeem rewards during the event.",
     "review_note": "",
-    "new_translation_vi": "Phiếu thưởng đặc biệt do KU-Uigon chuẩn bị cho nhân viên Black Shores tham gia \"Tidal Defense Simulator\". Có thể dùng để đổi phần thưởng trong sự kiện.",
+    "new_translation_vi": "Một loại coupon đặc biệt do KU-Uigon chuẩn bị cho nhân viên Black Shores tham gia \"Tidal Defense Simulator.\" Có thể dùng để đổi phần thưởng trong sự kiện.",
     "translator_note": ""
   },
   {
@@ -4971,7 +4971,7 @@
     "ai_reason": "",
     "source_en": "\"Congrats on taking another one down!\"",
     "review_note": "",
-    "new_translation_vi": "\"Chúc mừng đã hạ gục thêm một tên!\"",
+    "new_translation_vi": "\"Chúc mừng vì đã hạ gục thêm một mục tiêu!\"",
     "translator_note": ""
   },
   {
@@ -4996,7 +4996,7 @@
     "ai_reason": "",
     "source_en": "A special coupon prepared by KU-Uigon for Black Shores staff participating in \"Tidal Defense Simulator.\" Can be used to redeem rewards during the event.",
     "review_note": "",
-    "new_translation_vi": "Phiếu thưởng đặc biệt do KU-Uigon chuẩn bị cho nhân viên Black Shores tham gia \"Tidal Defense Simulator\". Có thể dùng để đổi phần thưởng trong sự kiện.",
+    "new_translation_vi": "Một loại coupon đặc biệt do KU-Uigon chuẩn bị cho nhân viên Black Shores tham gia \"Tidal Defense Simulator.\" Có thể dùng để đổi phần thưởng trong sự kiện.",
     "translator_note": ""
   },
   {
@@ -5021,7 +5021,7 @@
     "ai_reason": "",
     "source_en": "Simulated Shell Credits composed of Remnant data, used to craft Combat Machines in \"Tidal Defense Simulator\" or purchase materials from KU-Money's Store.",
     "review_note": "",
-    "new_translation_vi": "Tín Dụng Vỏ Mô Phỏng được tạo từ dữ liệu Remnant, dùng để chế tạo Máy Chiến Đấu trong \"Mô Phỏng Phòng Thủ Thủy Triều\" hoặc mua vật liệu tại Cửa Hàng KU-Money.",
+    "new_translation_vi": "Simulated Shell Credits được tạo thành từ dữ liệu Remnant, dùng để chế tạo Combat Machines trong \"Tidal Defense Simulator\" hoặc mua vật liệu từ cửa hàng của KU-Money.",
     "translator_note": ""
   },
   {
@@ -5046,7 +5046,7 @@
     "ai_reason": "",
     "source_en": "Simulated Shell Credits composed of Remnant data, used to craft Combat Machines in \"Tidal Defense Simulator\" or purchase materials from KU-Money's Store.",
     "review_note": "",
-    "new_translation_vi": "Tín Dụng Vỏ Mô Phỏng được tạo từ dữ liệu Remnant, dùng để chế tạo Máy Chiến Đấu trong \"Mô Phỏng Phòng Thủ Thủy Triều\" hoặc mua vật liệu tại Cửa Hàng KU-Money.",
+    "new_translation_vi": "Simulated Shell Credits được tạo thành từ dữ liệu Remnant, dùng để chế tạo Combat Machines trong \"Tidal Defense Simulator\" hoặc mua vật liệu từ cửa hàng của KU-Money.",
     "translator_note": ""
   },
   {
@@ -5071,7 +5071,7 @@
     "ai_reason": "",
     "source_en": "Highest Wave: <color=#fde7a1ff>{0}</color>",
     "review_note": "",
-    "new_translation_vi": "Sóng cao nhất: <color=#fde7a1ff>{0}</color>",
+    "new_translation_vi": "Đợt cao nhất: <color=#fde7a1ff>{0}</color>",
     "translator_note": ""
   },
   {
@@ -5096,7 +5096,7 @@
     "ai_reason": "",
     "source_en": "There are still empty Combat Machines slots. Start the simulation anyway?",
     "review_note": "",
-    "new_translation_vi": "Vẫn còn ô máy chiến trống. Bắt đầu mô phỏng luôn không?",
+    "new_translation_vi": "Vẫn còn các ô Combat Machines trống. Bạn vẫn muốn bắt đầu mô phỏng chứ?",
     "translator_note": ""
   },
   {
@@ -5121,7 +5121,7 @@
     "ai_reason": "",
     "source_en": "Drakes Echoes' breath now covers a wider range.",
     "review_note": "",
-    "new_translation_vi": "Hơi thở của Drake Echoes giờ đây bao phủ phạm vi rộng hơn.",
+    "new_translation_vi": "Hơi thở của Drakes Echoes giờ đây bao phủ phạm vi rộng hơn.",
     "translator_note": ""
   },
   {
@@ -5146,7 +5146,7 @@
     "ai_reason": "",
     "source_en": "Emits chilling currents, Slowing any Tacet Discords moving past the device.",
     "review_note": "",
-    "new_translation_vi": "Phát ra dòng khí lạnh, làm chậm mọi Tacet Discord di chuyển qua thiết bị.",
+    "new_translation_vi": "Phát ra các luồng khí lạnh, làm chậm bất kỳ Tacet Discords nào di chuyển qua thiết bị.",
     "translator_note": ""
   },
   {
@@ -5171,7 +5171,7 @@
     "ai_reason": "",
     "source_en": "Emits chilling currents, Slowing any Tacet Discords moving past the device.",
     "review_note": "",
-    "new_translation_vi": "Phát ra dòng khí lạnh, làm chậm mọi Tacet Discord di chuyển qua thiết bị.",
+    "new_translation_vi": "Phát ra các luồng khí lạnh, làm chậm bất kỳ Tacet Discords nào di chuyển qua thiết bị.",
     "translator_note": ""
   },
   {
@@ -5196,7 +5196,7 @@
     "ai_reason": "",
     "source_en": "Emits chilling currents, Slowing any Tacet Discords moving past the device.",
     "review_note": "",
-    "new_translation_vi": "Phát ra dòng khí lạnh, làm chậm mọi Tacet Discord di chuyển qua thiết bị.",
+    "new_translation_vi": "Phát ra các luồng khí lạnh, làm chậm bất kỳ Tacet Discords nào di chuyển qua thiết bị.",
     "translator_note": ""
   },
   {
@@ -5221,7 +5221,7 @@
     "ai_reason": "",
     "source_en": "When Tacet Discords leave the range of the Glacio Beacon, they'll still be Slowed for a period of time.",
     "review_note": "",
-    "new_translation_vi": "Khi Tacet Discord rời khỏi phạm vi của Đèn Hiệu Glacio, chúng vẫn sẽ bị làm chậm trong một khoảng thời gian.",
+    "new_translation_vi": "Khi Tacet Discords leave phạm vi của Glacio Beacon, chúng vẫn sẽ bị làm chậm trong một khoảng thời gian.",
     "translator_note": ""
   },
   {
@@ -5246,7 +5246,7 @@
     "ai_reason": "",
     "source_en": "Periodically shocks nearby Tacet Discords and temporarily Paralyzes them.",
     "review_note": "",
-    "new_translation_vi": "Định kỳ gây sốc lên các Tacet Discord gần đó và khiến chúng tạm thời Bị Choáng.",
+    "new_translation_vi": "Định kỳ gây sốc cho các Tacet Discords gần đó và làm tê liệt chúng tạm thời.",
     "translator_note": ""
   },
   {
@@ -5271,7 +5271,7 @@
     "ai_reason": "",
     "source_en": "Periodically shocks nearby Tacet Discords and temporarily Paralyzes them.",
     "review_note": "",
-    "new_translation_vi": "Định kỳ gây sốc lên các Tacet Discord gần đó và khiến chúng tạm thời Bị Choáng.",
+    "new_translation_vi": "Định kỳ gây sốc cho các Tacet Discords gần đó và làm tê liệt chúng tạm thời.",
     "translator_note": ""
   },
   {
@@ -5296,7 +5296,7 @@
     "ai_reason": "",
     "source_en": "Periodically shocks nearby Tacet Discords and temporarily Paralyzes them.",
     "review_note": "",
-    "new_translation_vi": "Định kỳ gây sốc lên các Tacet Discord gần đó và khiến chúng tạm thời Bị Choáng.",
+    "new_translation_vi": "Định kỳ gây sốc cho các Tacet Discords gần đó và làm tê liệt chúng tạm thời.",
     "translator_note": ""
   },
   {
@@ -5321,7 +5321,7 @@
     "ai_reason": "",
     "source_en": "Paralysis inflicted by the Shock lasts longer.",
     "review_note": "",
-    "new_translation_vi": "Thời gian Tê Liệt do Shock bị kéo dài.",
+    "new_translation_vi": "Paralysis gây ra bởi cú sốc sẽ kéo dài lâu hơn.",
     "translator_note": ""
   },
   {
@@ -5346,7 +5346,7 @@
     "ai_reason": "",
     "source_en": "Periodically infects nearby Tacet Discords with glitches and temporarily Confuses them. Tacet Discords in the Confusion state move in the opposite direction.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng gây nhiễu xung quanh, khiến Tacet Discord tạm thời bị Mê hoặc. Khi ở trạng thái Mê hoặc, chúng sẽ di chuyển ngược hướng.",
+    "new_translation_vi": "Định kỳ lây nhiễm các lỗi vào Tacet Discords gần đó và làm chúng bối rối tạm thời. Tacet Discords trong trạng thái bối rối sẽ di chuyển theo hướng ngược lại.",
     "translator_note": ""
   },
   {
@@ -5371,7 +5371,7 @@
     "ai_reason": "",
     "source_en": "Periodically infects nearby Tacet Discords with glitches and temporarily Confuses them. Tacet Discords in the Confusion state move in the opposite direction.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng gây nhiễu xung quanh, khiến Tacet Discord tạm thời bị Mê hoặc. Khi ở trạng thái Mê hoặc, chúng sẽ di chuyển ngược hướng.",
+    "new_translation_vi": "Định kỳ lây nhiễm các lỗi vào Tacet Discords gần đó và làm chúng bối rối tạm thời. Tacet Discords trong trạng thái bối rối sẽ di chuyển theo hướng ngược lại.",
     "translator_note": ""
   },
   {
@@ -5396,7 +5396,7 @@
     "ai_reason": "",
     "source_en": "Periodically infects nearby Tacet Discords with glitches and temporarily Confuses them. Tacet Discords in the Confusion state move in the opposite direction.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng gây nhiễu xung quanh, khiến Tacet Discord tạm thời bị Mê hoặc. Khi ở trạng thái Mê hoặc, chúng sẽ di chuyển ngược hướng.",
+    "new_translation_vi": "Định kỳ lây nhiễm các lỗi vào Tacet Discords gần đó và làm chúng bối rối tạm thời. Tacet Discords trong trạng thái bối rối sẽ di chuyển theo hướng ngược lại.",
     "translator_note": ""
   },
   {
@@ -5421,7 +5421,7 @@
     "ai_reason": "",
     "source_en": "The infected Tacet Discords have increased Movement Speed in Confusion.",
     "review_note": "",
-    "new_translation_vi": "Tacet Discord bị nhiễm độc sẽ tăng Tốc Độ Di Chuyển khi ở trạng thái Confusion.",
+    "new_translation_vi": "Các Tacet Discords bị nhiễm lỗi sẽ tăng tốc độ di chuyển khi ở trạng thái bối rối.",
     "translator_note": ""
   },
   {
@@ -5446,7 +5446,7 @@
     "ai_reason": "",
     "source_en": "Junrock Echo now has a wider explosion range.",
     "review_note": "",
-    "new_translation_vi": "Junrock Echo giờ có phạm vi nổ rộng hơn.",
+    "new_translation_vi": "Junrock Echo giờ đây có phạm vi nổ rộng hơn.",
     "translator_note": ""
   },
   {
@@ -5471,7 +5471,7 @@
     "ai_reason": "",
     "source_en": "Thunder lance is fired more slowly but Paralyzes Tacet Discords on hit.",
     "review_note": "",
-    "new_translation_vi": "Thương Sét bắn chậm hơn nhưng khiến Tacet Discord bị Choáng khi trúng đòn.",
+    "new_translation_vi": "Thunder lance bắn chậm hơn nhưng sẽ làm tê liệt Tacet Discords khi trúng đích.",
     "translator_note": ""
   },
   {
@@ -5496,7 +5496,7 @@
     "ai_reason": "",
     "source_en": "Cryogenic air Freezes already Slowed Tacet Discords.",
     "review_note": "",
-    "new_translation_vi": "Không khí đông lạnh đóng băng Tacet Discord đã bị làm chậm.",
+    "new_translation_vi": "Luồng khí đông lạnh sẽ đóng băng các Tacet Discords đã bị làm chậm.",
     "translator_note": ""
   },
   {
@@ -5521,7 +5521,7 @@
     "ai_reason": "",
     "source_en": "The cryogenic air now affects a wider range.",
     "review_note": "",
-    "new_translation_vi": "Không khí đông lạnh giờ đây ảnh hưởng đến phạm vi rộng hơn.",
+    "new_translation_vi": "Luồng khí đông lạnh giờ đây ảnh hưởng đến phạm vi rộng hơn.",
     "translator_note": ""
   },
   {
@@ -5546,7 +5546,7 @@
     "ai_reason": "",
     "source_en": "Periodically ejects high-pressure gas, knocking back small Tacet Discords within the range.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng phun khí áp suất cao, đẩy lùi các Tacet Discord nhỏ trong phạm vi.",
+    "new_translation_vi": "Định kỳ phun ra khí áp suất cao, đẩy lùi các Tacet Discords nhỏ trong phạm vi.",
     "translator_note": ""
   },
   {
@@ -5571,7 +5571,7 @@
     "ai_reason": "",
     "source_en": "Periodically ejects high-pressure gas, knocking back small Tacet Discords within the range.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng phun khí áp suất cao, đẩy lùi các Tacet Discord nhỏ trong phạm vi.",
+    "new_translation_vi": "Định kỳ phun ra khí áp suất cao, đẩy lùi các Tacet Discords nhỏ trong phạm vi.",
     "translator_note": ""
   },
   {
@@ -5596,7 +5596,7 @@
     "ai_reason": "",
     "source_en": "Periodically ejects high-pressure gas, knocking back small Tacet Discords within the range.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng phun khí áp suất cao, đẩy lùi các Tacet Discord nhỏ trong phạm vi.",
+    "new_translation_vi": "Định kỳ phun ra khí áp suất cao, đẩy lùi các Tacet Discords nhỏ trong phạm vi.",
     "translator_note": ""
   },
   {
@@ -5621,7 +5621,7 @@
     "ai_reason": "",
     "source_en": "High-pressure gas now knocks back medium Tacet Discords, but the Deployment Cost is increased.",
     "review_note": "",
-    "new_translation_vi": "Khí áp suất cao giờ đẩy lùi Tacet Discord cỡ trung, nhưng Chi Phí Triển Khai sẽ tăng lên.",
+    "new_translation_vi": "Khí áp suất cao giờ đây đẩy lùi được cả các Tacet Discords cỡ trung, nhưng chi phí triển khai sẽ tăng lên.",
     "translator_note": ""
   },
   {
@@ -5646,7 +5646,7 @@
     "ai_reason": "",
     "source_en": "Emits an artificial vortex that periodically draws Tacet Discords toward the front of the device and removes their Shield.",
     "review_note": "",
-    "new_translation_vi": "Tạo ra một xoáy nhân tạo hút định kỳ các Tacet Discord về phía trước thiết bị và loại bỏ Khiên của chúng.",
+    "new_translation_vi": "Tạo ra một cơn lốc nhân tạo định kỳ hút các Tacet Discords về phía trước thiết bị và loại bỏ lá chắn của chúng.",
     "translator_note": ""
   },
   {
@@ -5671,7 +5671,7 @@
     "ai_reason": "",
     "source_en": "Emits an artificial vortex that periodically draws Tacet Discords toward the front of the device and removes their Shield.",
     "review_note": "",
-    "new_translation_vi": "Tạo ra một xoáy nhân tạo hút định kỳ các Tacet Discord về phía trước thiết bị và loại bỏ Khiên của chúng.",
+    "new_translation_vi": "Tạo ra một cơn lốc nhân tạo định kỳ hút các Tacet Discords về phía trước thiết bị và loại bỏ lá chắn của chúng.",
     "translator_note": ""
   },
   {
@@ -5696,7 +5696,7 @@
     "ai_reason": "",
     "source_en": "Emits an artificial vortex that periodically draws Tacet Discords toward the front of the device and removes their Shield.",
     "review_note": "",
-    "new_translation_vi": "Tạo ra một xoáy nhân tạo hút định kỳ các Tacet Discord về phía trước thiết bị và loại bỏ Khiên của chúng.",
+    "new_translation_vi": "Tạo ra một cơn lốc nhân tạo định kỳ hút các Tacet Discords về phía trước thiết bị và loại bỏ lá chắn của chúng.",
     "translator_note": ""
   },
   {
@@ -5721,7 +5721,7 @@
     "ai_reason": "",
     "source_en": "The artificial vortext now affects a wider range.",
     "review_note": "",
-    "new_translation_vi": "Xoáy nhân tạo giờ đây sẽ ảnh hưởng trên phạm vi rộng hơn.",
+    "new_translation_vi": "Cơn lốc nhân tạo giờ đây ảnh hưởng đến phạm vi rộng hơn.",
     "translator_note": ""
   },
   {
@@ -5746,7 +5746,7 @@
     "ai_reason": "",
     "source_en": "Hoartoise Echo now moves faster and knocks back Tacet Discords further.",
     "review_note": "",
-    "new_translation_vi": "Hồi Âm Hoartoise giờ di chuyển nhanh hơn và đẩy lùi Tacet Discord xa hơn.",
+    "new_translation_vi": "Hoartoise Echo giờ đây di chuyển nhanh hơn và đẩy lùi Tacet Discords xa hơn.",
     "translator_note": ""
   },
   {
@@ -5771,7 +5771,7 @@
     "ai_reason": "",
     "source_en": "Shocking a Paralyzed Tacet Discord guarantees a Critical Hit.",
     "review_note": "",
-    "new_translation_vi": "Làm Tacet Discord tê liệt bất ngờ chắc chắn sẽ gây ra đòn Bạo Kích.",
+    "new_translation_vi": "Gây sốc cho một Tacet Discord đang bị tê liệt sẽ đảm bảo một đòn chí mạng.",
     "translator_note": ""
   },
   {
@@ -5796,7 +5796,7 @@
     "ai_reason": "",
     "source_en": "Periodically generates a whirlpool and pulls in Tacet Discords, removing their Shields and suspending small ones while it lasts.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng tạo ra xoáy nước hút Tacet Discord vào, phá vỡ Khiên và treo lơ lửng các mục tiêu nhỏ trong thời gian hiệu lực.",
+    "new_translation_vi": "Định kỳ tạo ra một xoáy nước và hút các Tacet Discords vào, loại bỏ lá chắn của chúng và treo các con nhỏ lên trong suốt thời gian hiệu lực.",
     "translator_note": ""
   },
   {
@@ -5821,7 +5821,7 @@
     "ai_reason": "",
     "source_en": "Periodically generates a whirlpool and pulls in Tacet Discords, removing their Shields and suspending small ones while it lasts.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng tạo ra xoáy nước hút Tacet Discord vào, phá vỡ Khiên và treo lơ lửng các mục tiêu nhỏ trong thời gian hiệu lực.",
+    "new_translation_vi": "Định kỳ tạo ra một xoáy nước và hút các Tacet Discords vào, loại bỏ lá chắn của chúng và treo các con nhỏ lên trong suốt thời gian hiệu lực.",
     "translator_note": ""
   },
   {
@@ -5846,7 +5846,7 @@
     "ai_reason": "",
     "source_en": "Periodically generates a whirlpool and pulls in Tacet Discords, removing their Shields and suspending small ones while it lasts.",
     "review_note": "",
-    "new_translation_vi": "Thỉnh thoảng tạo ra xoáy nước hút Tacet Discord vào, phá vỡ Khiên và treo lơ lửng các mục tiêu nhỏ trong thời gian hiệu lực.",
+    "new_translation_vi": "Định kỳ tạo ra một xoáy nước và hút các Tacet Discords vào, loại bỏ lá chắn của chúng và treo các con nhỏ lên trong suốt thời gian hiệu lực.",
     "translator_note": ""
   },
   {
@@ -5871,7 +5871,7 @@
     "ai_reason": "",
     "source_en": "The whirlpool now suspends medium Tacet Discords.",
     "review_note": "",
-    "new_translation_vi": "Xoáy nước giờ đây có thể treo lơ lửng các Tacet Discord cỡ trung.",
+    "new_translation_vi": "Xoáy nước giờ đây có thể treo cả các Tacet Discords cỡ trung.",
     "translator_note": ""
   },
   {
@@ -5896,7 +5896,7 @@
     "ai_reason": "",
     "source_en": "The freezing burst now Freezes Tacet Discords on hit.",
     "review_note": "",
-    "new_translation_vi": "Kỹ năng băng giá giờ đây đóng băng Tacet Discord khi trúng đích.",
+    "new_translation_vi": "Đợt bùng nổ đóng băng giờ đây sẽ đóng băng Tacet Discords khi trúng đích.",
     "translator_note": ""
   },
   {
@@ -5921,7 +5921,7 @@
     "ai_reason": "",
     "source_en": "Puff Echo now upgrades faster.",
     "review_note": "",
-    "new_translation_vi": "Puff Echo giờ nâng cấp nhanh hơn rồi.",
+    "new_translation_vi": "Puff Echo giờ đây nâng cấp nhanh hơn.",
     "translator_note": ""
   },
   {
@@ -5946,7 +5946,7 @@
     "ai_reason": "",
     "source_en": "The cost of this Tactical Device reduces.",
     "review_note": "",
-    "new_translation_vi": "Chi phí của Thiết bị Chiến Thuật này giảm đi.",
+    "new_translation_vi": "Chi phí của Tactical Device này đã giảm.",
     "translator_note": ""
   },
   {
@@ -5971,7 +5971,7 @@
     "ai_reason": "",
     "source_en": "The device can now load more Explosive Cores.",
     "review_note": "",
-    "new_translation_vi": "Thiết bị giờ có thể nạp thêm Lõi Nổ.",
+    "new_translation_vi": "Thiết bị giờ đây có thể nạp thêm Explosive Cores.",
     "translator_note": ""
   },
   {
@@ -6021,7 +6021,7 @@
     "ai_reason": "",
     "source_en": "This will reset all upgrades, and all consumed materials will be refunded. Do you want to proceed?",
     "review_note": "",
-    "new_translation_vi": "Thao tác này sẽ đặt lại tất cả nâng cấp, và toàn bộ nguyên liệu đã tiêu hao sẽ được hoàn trả. Cậu muốn tiếp tục không?",
+    "new_translation_vi": "Thao tác này sẽ đặt lại tất cả các nâng cấp và hoàn trả toàn bộ vật liệu đã tiêu thụ. Bạn có muốn tiếp tục không?",
     "translator_note": ""
   },
   {
@@ -6071,7 +6071,7 @@
     "ai_reason": "",
     "source_en": "This will reset the current upgrade, and all consumed materials will be refunded. Do you want to proceed?",
     "review_note": "",
-    "new_translation_vi": "Thao tác này sẽ đặt lại nâng cấp hiện tại, và toàn bộ nguyên liệu đã tiêu hao sẽ được hoàn trả. Cậu muốn tiếp tục không?",
+    "new_translation_vi": "Thao tác này sẽ đặt lại nâng cấp hiện tại và hoàn trả toàn bộ vật liệu đã tiêu thụ. Bạn có muốn tiếp tục không?",
     "translator_note": ""
   },
   {
@@ -6096,7 +6096,7 @@
     "ai_reason": "",
     "source_en": "A highly compatible Tactic Set that enhances the overall efficiency of basic operations.",
     "review_note": "",
-    "new_translation_vi": "Bộ Chiến Thuật có tính tương thích cao, tăng cường hiệu quả tổng thể của các thao tác cơ bản.",
+    "new_translation_vi": "Một bộ Tactic có độ tương thích cao giúp tăng cường hiệu quả tổng thể của các thao tác cơ bản.",
     "translator_note": ""
   },
   {
@@ -6121,7 +6121,7 @@
     "ai_reason": "",
     "source_en": "A Tactic Set focused on fire suppression by boosting Attack Speed and Control effects.",
     "review_note": "",
-    "new_translation_vi": "Bộ Chiến Thuật tập trung vào kiểm soát hỏa lực bằng cách tăng Tốc Độ Tấn Công và hiệu ứng Điều Khiển.",
+    "new_translation_vi": "Một bộ Tactic tập trung vào việc trấn áp hỏa lực bằng cách tăng tốc độ tấn công và các hiệu ứng kiểm soát.",
     "translator_note": ""
   },
   {
@@ -6146,7 +6146,7 @@
     "ai_reason": "",
     "source_en": "A Tactic Set that improves resource acquisition efficiency and converts surplus resources into offensive power.",
     "review_note": "",
-    "new_translation_vi": "Bộ Chiến Thuật tối ưu hóa hiệu suất thu thập tài nguyên và chuyển hóa lượng tài nguyên dư thừa thành sức mạnh tấn công.",
+    "new_translation_vi": "Một bộ Tactic giúp cải thiện hiệu quả thu thập tài nguyên và chuyển đổi tài nguyên dư thừa thành sức mạnh tấn công.",
     "translator_note": ""
   },
   {
@@ -6171,7 +6171,7 @@
     "ai_reason": "",
     "source_en": "A Tactic Set that enhances Echo Combat Machines.",
     "review_note": "",
-    "new_translation_vi": "Bộ Chiến Thuật tăng cường sức mạnh cho Máy Chiến Đấu Echo.",
+    "new_translation_vi": "Một bộ Tactic giúp tăng cường các Combat Machines Echo.",
     "translator_note": ""
   },
   {
@@ -6196,7 +6196,7 @@
     "ai_reason": "",
     "source_en": "Currently, <color=Rare3>Blue</color> or lower rarity Tactics may appear.",
     "review_note": "",
-    "new_translation_vi": "Hiện tại, Chiến Thuật hiếm cấp <color=Rare3>Xanh lam</color> hoặc thấp hơn có thể xuất hiện.",
+    "new_translation_vi": "Hiện tại, các Tactic có độ hiếm <color=Rare3>Blue</color> hoặc thấp hơn có thể xuất hiện.",
     "translator_note": ""
   },
   {
@@ -6221,7 +6221,7 @@
     "ai_reason": "",
     "source_en": "Currently, <color=Rare4>Purple </color> or lower rarity Tactics may appear.",
     "review_note": "",
-    "new_translation_vi": "Hiện tại, Chiến Thuật hiếm cấp <color=Rare4>Tím</color> hoặc thấp hơn có thể xuất hiện.",
+    "new_translation_vi": "Hiện tại, các Tactic có độ hiếm <color=Rare4>Purple </color> hoặc thấp hơn có thể xuất hiện.",
     "translator_note": ""
   },
   {
@@ -6246,7 +6246,7 @@
     "ai_reason": "",
     "source_en": "Currently, <color=Rare5>Gold</color> or lower rarity Tactics may appear.",
     "review_note": "",
-    "new_translation_vi": "Hiện tại, Chiến Thuật hiếm cấp <color=Rare5>Vàng</color> hoặc thấp hơn có thể xuất hiện.",
+    "new_translation_vi": "Hiện tại, các Chiến thuật có độ hiếm <color=Rare5>Gold</color> hoặc thấp hơn có thể xuất hiện.",
     "translator_note": ""
   },
   {
@@ -6271,7 +6271,7 @@
     "ai_reason": "",
     "source_en": "Clear \"Sunken Ruins\" on Elite difficulty to unlock.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Tàn Tích Chìm Đắm\" ở độ khó Cao Thủ để mở khóa.",
+    "new_translation_vi": "Vượt ải \"Sunken Ruins\" ở độ khó Elite để mở khóa.",
     "translator_note": ""
   },
   {
@@ -6296,7 +6296,7 @@
     "ai_reason": "",
     "source_en": "Unlocks in: {0}",
     "review_note": "",
-    "new_translation_vi": "Mở khóa vào: {0}",
+    "new_translation_vi": "Mở khóa sau: {0}",
     "translator_note": ""
   },
   {
@@ -6321,7 +6321,7 @@
     "ai_reason": "",
     "source_en": "When an Echo on the field starts <te href=851008><color=#c79f49>Integration</color></te>, there is a {0}% chance to generate a copy of itself on a blank block.",
     "review_note": "",
-    "new_translation_vi": "Khi một Tổ Tacet trên chiến trường bắt đầu <te href=851008><color=#c79f49>Hấp Thu</color></te>, có {0}% khả năng tạo ra một bản sao của nó trên một ô trống.",
+    "new_translation_vi": "Khi một Echo trên sân bắt đầu <te href=851008><color=#c79f49>Integration</color></te>, có {0}% cơ hội tạo ra một bản sao của chính nó trên một ô trống.",
     "translator_note": ""
   },
   {
@@ -6346,7 +6346,7 @@
     "ai_reason": "",
     "source_en": "The first <te href=851008><color=#c79f49>Integration</color></te> of the day requires <SapTag=0>{0}</SapTag> fewer {Cus:Sap,S=Echo P=Echoes SapTag=0}.",
     "review_note": "",
-    "new_translation_vi": "<te href=851008><color=#c79f49>Hợp Nhất</color></te> đầu tiên trong ngày cần ít hơn <SapTag=0>{0}</SapTag> {Cus:Sap,S=Echo P=Echo}.",
+    "new_translation_vi": "Lần <te href=851008><color=#c79f49>Integration</color></te> đầu tiên trong ngày tiêu tốn ít hơn <SapTag=0>{0}</SapTag> {Cus:Sap,S=Echo P=Echoes SapTag=0}.",
     "translator_note": ""
   },
   {
@@ -6371,7 +6371,7 @@
     "ai_reason": "",
     "source_en": "Use Phrolova to clear Resonant Tower & Echoing Tower Floor 4 in \"Tower of Adversity: Hazard Zone.\"",
     "review_note": "",
-    "new_translation_vi": "Dùng Phrolova để vượt Tháp Cộng Hưởng và Tháp Vọng Âm tầng 4 trong \"Tháp Thử Thách: Vùng Nguy Hiểm\".",
+    "new_translation_vi": "Sử dụng Phrolova để vượt Tầng 4 của Resonant Tower & Echoing Tower trong \"Tower of Adversity: Hazard Zone.\"",
     "translator_note": ""
   },
   {
@@ -6396,7 +6396,7 @@
     "ai_reason": "",
     "source_en": "Use Phrolova to clear Hazard Tower Floor 1 & Floor 2 in \"Tower of Adversity: Hazard Zone.\"",
     "review_note": "",
-    "new_translation_vi": "Dùng Phrolova để vượt Tháp Nguy Hiểm tầng 1 và 2 trong \"Tháp Thử Thách: Vùng Nguy Hiểm\".",
+    "new_translation_vi": "Sử dụng Phrolova để vượt Tầng 1 & Tầng 2 của Hazard Tower trong \"Tower of Adversity: Hazard Zone.\"",
     "translator_note": ""
   },
   {
@@ -6421,7 +6421,7 @@
     "ai_reason": "",
     "source_en": "Complete the \"Respawning Waters: Chasm\" and \"Respawning Waters: Torrents\" areas in Whimpering Wastes.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành khu vực \"Nước Tái Sinh: Vực Sâu\" và \"Nước Tái Sinh: Dòng Chảy\" tại Whimpering Wastes.",
+    "new_translation_vi": "Hoàn thành các khu vực \"Respawning Waters: Chasm\" và \"Respawning Waters: Torrents\" tại Whimpering Wastes.",
     "translator_note": ""
   },
   {
@@ -6446,7 +6446,7 @@
     "ai_reason": "",
     "source_en": "Obtain 6,000 Illusive Points in \"Fantasies of the Thousand Gateways.\"",
     "review_note": "",
-    "new_translation_vi": "Thu thập 6.000 Điểm Ảo Ảnh trong \"Ảo Ảnh Ngàn Cánh Cửa.\"",
+    "new_translation_vi": "Nhận 6.000 Illusive Points trong \"Fantasies of the Thousand Gateways.\"",
     "translator_note": ""
   },
   {
@@ -6471,7 +6471,7 @@
     "ai_reason": "",
     "source_en": "Clear Stage 9 in \"Phantasma Dreamland.\"",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Giai Đoạn 9 trong \"Phantasma Dreamland\"",
+    "new_translation_vi": "Vượt ải 9 trong \"Phantasma Dreamland.\"",
     "translator_note": ""
   },
   {
@@ -6496,7 +6496,7 @@
     "ai_reason": "",
     "source_en": "Last 50 Days in any \"Dream: Infinite\" stage in \"Phantasma Dreamland.\"",
     "review_note": "",
-    "new_translation_vi": "50 Ngày Cuối trong bất kỳ giai đoạn \"Giấc Mơ: Vô Tận\" nào tại \"Phantasma Dreamland\".",
+    "new_translation_vi": "Trụ vững 50 ngày trong bất kỳ ải \"Dream: Infinite\" nào tại \"Phantasma Dreamland.\"",
     "translator_note": ""
   },
   {
@@ -6521,7 +6521,7 @@
     "ai_reason": "",
     "source_en": "Complete Theater 4 \"Ragunna's Visitor\" in \"Dreaming Deep.\"",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Nhà hát 4 \"Vị Khách Của Ragunna\" trong \"Giấc Mộng Sâu\".",
+    "new_translation_vi": "Hoàn thành Theater 4 \"Ragunna's Visitor\" trong \"Dreaming Deep.\"",
     "translator_note": ""
   },
   {
@@ -6546,7 +6546,7 @@
     "ai_reason": "",
     "source_en": "Complete Theater 5 \"The Cinema House Murders\" in \"Dreaming Deep.\"",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Nhà hát 5 \"Vụ Án Tại Rạp Chiếu\" trong \"Giấc Mộng Sâu\".",
+    "new_translation_vi": "Hoàn thành Theater 5 \"The Cinema House Murders\" trong \"Dreaming Deep.\"",
     "translator_note": ""
   },
   {
@@ -6571,7 +6571,7 @@
     "ai_reason": "",
     "source_en": "Complete all the challenges in \"Overflowing Picture Book.\"",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành tất cả thử thách trong \"Cuốn Sách Tranh Tràn Đầy\".",
+    "new_translation_vi": "Hoàn thành tất cả các thử thách trong \"Overflowing Picture Book.\"",
     "translator_note": ""
   },
   {
@@ -6596,7 +6596,7 @@
     "ai_reason": "",
     "source_en": "This Echo is not on the field.",
     "review_note": "",
-    "new_translation_vi": "Tổ Tacet này không có trên chiến trường.",
+    "new_translation_vi": "Echo này không có trên sân.",
     "translator_note": ""
   },
   {
@@ -6621,7 +6621,7 @@
     "ai_reason": "",
     "source_en": "<te href=851045><color=#c79f49>Basic Form</color></te>",
     "review_note": "",
-    "new_translation_vi": "<te href=851045><color=#c79f49>Hình Thái Cơ Bản</color></te>",
+    "new_translation_vi": "<te href=851045><color=#c79f49>Basic Form</color></te>",
     "translator_note": ""
   },
   {
@@ -6671,7 +6671,7 @@
     "ai_reason": "",
     "source_en": "Defeat Arsinosa in the dream.",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Arsinosa trong giấc mơ",
+    "new_translation_vi": "Đánh bại Arsinosa trong giấc mơ.",
     "translator_note": ""
   },
   {
@@ -6696,7 +6696,7 @@
     "ai_reason": "",
     "source_en": "Defeat the False Sovereign in the dream.",
     "review_note": "",
-    "new_translation_vi": "Hạ gục Kẻ Giả Vương trong giấc mơ.",
+    "new_translation_vi": "Đánh bại the False Sovereign trong giấc mơ.",
     "translator_note": ""
   },
   {
@@ -6721,7 +6721,7 @@
     "ai_reason": "",
     "source_en": "When the field is full, Echoes obtained via Recruitment and Shop will be placed off-field.",
     "review_note": "",
-    "new_translation_vi": "Khi sân đầy, Echo nhận được từ Tuyển dụng và Cửa hàng sẽ được đặt ngoài sân.",
+    "new_translation_vi": "Khi sân đã đầy, các Echo nhận được qua Tuyển mộ và Cửa hàng sẽ được đặt ngoài sân.",
     "translator_note": ""
   },
   {
@@ -6746,7 +6746,7 @@
     "ai_reason": "",
     "source_en": "The triggering interval of [Blaze Sigil] is reduced by 50%.",
     "review_note": "",
-    "new_translation_vi": "Thời gian kích hoạt của [Blaze Sigil] giảm 50%.",
+    "new_translation_vi": "Khoảng thời gian kích hoạt của [Blaze Sigil] giảm 50%.",
     "translator_note": ""
   },
   {
@@ -6771,7 +6771,7 @@
     "ai_reason": "",
     "source_en": "Upon ending [Divined Dream], every 10 stacks of [Temporal Power] removed restores Dreamscape Energy by 8%.",
     "review_note": "",
-    "new_translation_vi": "Khi kết thúc [Giấc Mộng Tiên Tri], mỗi 10 tầng [Năng Lượng Thời Gian] bị loại bỏ sẽ khôi phục 8% Năng Lượng Cảnh Giới.",
+    "new_translation_vi": "Khi kết thúc [Divined Dream], mỗi 10 tầng [Temporal Power] bị xóa sẽ hồi 8% Dreamscape Energy.",
     "translator_note": ""
   },
   {
@@ -6796,7 +6796,7 @@
     "ai_reason": "",
     "source_en": "[Blaze Sigil] triggers faster.",
     "review_note": "",
-    "new_translation_vi": "[\nẤn Lửa] kích hoạt nhanh hơn.",
+    "new_translation_vi": "[Blaze Sigil] kích hoạt nhanh hơn.",
     "translator_note": ""
   },
   {
@@ -6821,7 +6821,7 @@
     "ai_reason": "",
     "source_en": "[Thunder Sound] is gained more frequently and lasts longer. [Thunder Sigil] has no triggering interval.",
     "review_note": "",
-    "new_translation_vi": "[Âm Sấm] xuất hiện thường xuyên hơn và kéo dài lâu hơn. [Thánh Ấn Sấm Sét] không còn khoảng thời gian kích hoạt.",
+    "new_translation_vi": "[Thunder Sound] được nhận thường xuyên hơn và kéo dài lâu hơn. [Thunder Sigil] không có khoảng thời gian kích hoạt.",
     "translator_note": ""
   },
   {
@@ -6846,7 +6846,7 @@
     "ai_reason": "",
     "source_en": "[Revealed Heart] can be gained out of [Divined Dream], but does not provide any enhanced effects.",
     "review_note": "",
-    "new_translation_vi": "[Trái Tim Hé Lộ] có thể nhận được từ [Giấc Mơ Tiên Đoán], nhưng không mang lại hiệu ứng tăng cường nào.",
+    "new_translation_vi": "[Revealed Heart] có thể nhận được bên ngoài [Divined Dream], nhưng không cung cấp bất kỳ hiệu ứng tăng cường nào.",
     "translator_note": ""
   },
   {
@@ -6871,7 +6871,7 @@
     "ai_reason": "",
     "source_en": "The max stacks of [Revealed Heart] are greatly increased.",
     "review_note": "",
-    "new_translation_vi": "Số lượt tích lũy tối đa của [Revealed Heart] được tăng đáng kể.",
+    "new_translation_vi": "Số tầng tối đa của [Revealed Heart] được tăng đáng kể.",
     "translator_note": ""
   },
   {
@@ -6896,7 +6896,7 @@
     "ai_reason": "",
     "source_en": "When [Divined Dream] ends, [Revealed Heart] stacks are removed gradually instead of all at once.",
     "review_note": "",
-    "new_translation_vi": "Khi [Divined Dream] kết thúc, số tầng [Revealed Heart] sẽ giảm dần thay vì mất hết cùng lúc.",
+    "new_translation_vi": "Khi [Divined Dream] kết thúc, các tầng [Revealed Heart] sẽ bị xóa dần thay vì xóa tất cả cùng lúc.",
     "translator_note": ""
   },
   {
@@ -6921,7 +6921,7 @@
     "ai_reason": "",
     "source_en": "After [Divined Dream] ends, a certain amount of Dreamscape Energy is restored.",
     "review_note": "",
-    "new_translation_vi": "Sau khi [Giấc Mộng Tiên Tri] kết thúc, một lượng Năng Lượng Cảnh Mộng sẽ được phục hồi.",
+    "new_translation_vi": "Sau khi [Divined Dream] kết thúc, một lượng Dreamscape Energy nhất định sẽ được hồi phục.",
     "translator_note": ""
   },
   {
@@ -6946,7 +6946,7 @@
     "ai_reason": "",
     "source_en": "Floors 1-2 of Echoing Tower and Resonant Tower have been cleared with synced records.",
     "review_note": "",
-    "new_translation_vi": "Tầng 1-2 của Echoing Tower và Resonant Tower đã được thông quan với dữ liệu đồng bộ.",
+    "new_translation_vi": "Tầng 1-2 của Echoing Tower và Resonant Tower đã được vượt với kỷ lục đồng bộ.",
     "translator_note": ""
   },
   {
@@ -6971,7 +6971,7 @@
     "ai_reason": "",
     "source_en": "Floors 1-3 of Echoing Tower and Resonant Tower have been cleared with synced records.",
     "review_note": "",
-    "new_translation_vi": "Tầng 1-3 của Echoing Tower và Resonant Tower đã được thông quan với dữ liệu đồng bộ.",
+    "new_translation_vi": "Tầng 1-3 của Echoing Tower và Resonant Tower đã được vượt với kỷ lục đồng bộ.",
     "translator_note": ""
   },
   {
@@ -6996,7 +6996,7 @@
     "ai_reason": "",
     "source_en": "Unlocks In {0}",
     "review_note": "",
-    "new_translation_vi": "Mở khóa Trong {0}",
+    "new_translation_vi": "Mở khóa sau {0}",
     "translator_note": ""
   },
   {
@@ -7036,11 +7036,11 @@
     "primary_key": "LineCross_Finish_Progress_Activity",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
@@ -7071,7 +7071,7 @@
     "ai_reason": "",
     "source_en": "Dreamscape Energy Regen is doubled.",
     "review_note": "",
-    "new_translation_vi": "Tốc độ hồi phục Năng Lượng Cảnh Mộng tăng gấp đôi.",
+    "new_translation_vi": "Tốc độ hồi Dreamscape Energy tăng gấp đôi.",
     "translator_note": ""
   },
   {
@@ -7096,7 +7096,7 @@
     "ai_reason": "",
     "source_en": "Dreamscape Energy Regen is doubled.",
     "review_note": "",
-    "new_translation_vi": "Tốc độ hồi phục Năng Lượng Cảnh Mộng tăng gấp đôi.",
+    "new_translation_vi": "Tốc độ hồi Dreamscape Energy tăng gấp đôi.",
     "translator_note": ""
   },
   {
@@ -7121,7 +7121,7 @@
     "ai_reason": "",
     "source_en": "Decipher {0} Lunar Phases in total to claim ({1}/{2})",
     "review_note": "",
-    "new_translation_vi": "Giải mã tổng cộng {0} Pha Mặt Trăng để nhận ({1}/{2})",
+    "new_translation_vi": "Giải mã tổng cộng {0} Lunar Phases để nhận ({1}/{2})",
     "translator_note": ""
   },
   {
@@ -7221,7 +7221,7 @@
     "ai_reason": "",
     "source_en": "Core Attribute: {0}",
     "review_note": "",
-    "new_translation_vi": "Thuộc Tính Cốt Lõi: {0}",
+    "new_translation_vi": "Thuộc tính cốt lõi: {0}",
     "translator_note": ""
   },
   {
@@ -7271,7 +7271,7 @@
     "ai_reason": "",
     "source_en": "<color=#c25757>Consider switching to a weapon of higher quality</color>",
     "review_note": "",
-    "new_translation_vi": "<color=#c25757>Nên cân nhắc đổi sang vũ khí chất lượng cao hơn</color>",
+    "new_translation_vi": "<color=#c25757>Cân nhắc chuyển sang vũ khí có chất lượng cao hơn</color>",
     "translator_note": ""
   },
   {
@@ -7288,15 +7288,15 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "<color=#36cd33>{0}</color>",
     "review_note": "",
-    "new_translation_vi": "{0}",
+    "new_translation_vi": "<color=#36cd33>{0}</color>",
     "translator_note": ""
   },
   {
@@ -7313,15 +7313,15 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "",
-    "rule_decision": "RETRY",
-    "rule_score": 8,
-    "rule_issues": "missing_token:<color=#ffd12f>",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "<color=#ffd12f>{0}</color>",
     "review_note": "",
-    "new_translation_vi": "{0}",
+    "new_translation_vi": "<color=#ffd12f>{0}</color>",
     "translator_note": ""
   },
   {
@@ -7346,7 +7346,7 @@
     "ai_reason": "",
     "source_en": "Orchestrating melodies at the Altar to alter the surroundings and yield unexpected rewards.",
     "review_note": "",
-    "new_translation_vi": "Phối khí những giai điệu tại Bệ Phối Khí để thay đổi môi trường xung quanh và nhận về những phần thưởng bất ngờ.",
+    "new_translation_vi": "Hòa tấu giai điệu tại Bàn thờ để thay đổi môi trường xung quanh và nhận những phần thưởng bất ngờ.",
     "translator_note": ""
   },
   {
@@ -7371,7 +7371,7 @@
     "ai_reason": "",
     "source_en": "Hit the Triptych Chests open at the right timing to obtain the Sacred Salt hidden within, which can be offered to the Steward in exchange of goods.",
     "review_note": "",
-    "new_translation_vi": "Đánh mở Rương Tam Vị vào đúng thời điểm để lấy Muối Thánh bên trong, rồi mang dâng cho Quản Sự để đổi lấy hàng hóa.",
+    "new_translation_vi": "Đánh trúng Triptych Chests vào đúng thời điểm để lấy Sacred Salt ẩn bên trong, có thể dùng để dâng lên Steward nhằm đổi lấy hàng hóa.",
     "translator_note": ""
   },
   {
@@ -7396,7 +7396,7 @@
     "ai_reason": "",
     "source_en": "To the Heroes...",
     "review_note": "",
-    "new_translation_vi": "Tới Những Người Anh Hùng...",
+    "new_translation_vi": "Gửi những người hùng...",
     "translator_note": ""
   },
   {
@@ -7421,7 +7421,7 @@
     "ai_reason": "",
     "source_en": "The forest sways, making way for the peeking light. Somewhere in the quietness, the beasts stir.",
     "review_note": "",
-    "new_translation_vi": "Khu rừng đung đưa, nhường chỗ cho ánh sáng lấp ló. Giữa sự tĩnh lặng, đâu đó có tiếng thú rừng cựa mình.",
+    "new_translation_vi": "Khu rừng đung đưa, nhường chỗ cho ánh sáng le lói. Đâu đó trong sự tĩnh lặng, lũ quái thú đang cựa mình.",
     "translator_note": ""
   },
   {
@@ -7446,7 +7446,7 @@
     "ai_reason": "",
     "source_en": "The forest sways, making way for the peeking light. Somewhere in the quietness, the beasts stir.",
     "review_note": "",
-    "new_translation_vi": "Khu rừng đung đưa, nhường chỗ cho ánh sáng lấp ló. Giữa sự tĩnh lặng, đâu đó có tiếng thú rừng cựa mình.",
+    "new_translation_vi": "Khu rừng đung đưa, nhường chỗ cho ánh sáng le lói. Đâu đó trong sự tĩnh lặng, lũ quái thú đang cựa mình.",
     "translator_note": ""
   },
   {
@@ -7471,7 +7471,7 @@
     "ai_reason": "",
     "source_en": "The forest sways, making way for the peeking light. Somewhere in the quietness, the beasts stir.",
     "review_note": "",
-    "new_translation_vi": "Khu rừng đung đưa, nhường chỗ cho ánh sáng lấp ló. Giữa sự tĩnh lặng, đâu đó có tiếng thú rừng cựa mình.",
+    "new_translation_vi": "Khu rừng đung đưa, nhường chỗ cho ánh sáng le lói. Đâu đó trong sự tĩnh lặng, lũ quái thú đang cựa mình.",
     "translator_note": ""
   },
   {
@@ -7496,7 +7496,7 @@
     "ai_reason": "",
     "source_en": "Time trickles down in the hourglass… Can we find the answer before the last grain falls?",
     "review_note": "",
-    "new_translation_vi": "Thời gian trôi qua từng hạt cát... Liệu ta có tìm ra câu trả lời trước khi hạt cuối cùng rơi xuống?",
+    "new_translation_vi": "Thời gian trôi qua trong chiếc đồng hồ cát… Liệu chúng ta có tìm được câu trả lời trước khi hạt cát cuối cùng rơi xuống?",
     "translator_note": ""
   },
   {
@@ -7521,7 +7521,7 @@
     "ai_reason": "",
     "source_en": "Time trickles down in the hourglass… Can we find the answer before the last grain falls?",
     "review_note": "",
-    "new_translation_vi": "Thời gian trôi qua từng hạt cát... Liệu ta có tìm ra câu trả lời trước khi hạt cuối cùng rơi xuống?",
+    "new_translation_vi": "Thời gian trôi qua trong chiếc đồng hồ cát… Liệu chúng ta có tìm được câu trả lời trước khi hạt cát cuối cùng rơi xuống?",
     "translator_note": ""
   },
   {
@@ -7546,7 +7546,7 @@
     "ai_reason": "",
     "source_en": "Time trickles down in the hourglass… Can we find the answer before the last grain falls?",
     "review_note": "",
-    "new_translation_vi": "Thời gian trôi qua từng hạt cát... Liệu ta có tìm ra câu trả lời trước khi hạt cuối cùng rơi xuống?",
+    "new_translation_vi": "Thời gian trôi qua trong chiếc đồng hồ cát… Liệu chúng ta có tìm được câu trả lời trước khi hạt cát cuối cùng rơi xuống?",
     "translator_note": ""
   },
   {
@@ -7571,7 +7571,7 @@
     "ai_reason": "",
     "source_en": "Without warning, the prey and the hunter come face to face.",
     "review_note": "",
-    "new_translation_vi": "Bất ngờ, con mồi và thợ săn đối mặt nhau.",
+    "new_translation_vi": "Không một lời báo trước, con mồi và kẻ săn mồi đã đối mặt nhau.",
     "translator_note": ""
   },
   {
@@ -7596,7 +7596,7 @@
     "ai_reason": "",
     "source_en": "Without warning, the prey and the hunter come face to face.",
     "review_note": "",
-    "new_translation_vi": "Bất ngờ, con mồi và thợ săn đối mặt nhau.",
+    "new_translation_vi": "Không một lời báo trước, con mồi và kẻ săn mồi đã đối mặt nhau.",
     "translator_note": ""
   },
   {
@@ -7621,7 +7621,7 @@
     "ai_reason": "",
     "source_en": "Without warning, the prey and the hunter come face to face.",
     "review_note": "",
-    "new_translation_vi": "Bất ngờ, con mồi và thợ săn đối mặt nhau.",
+    "new_translation_vi": "Không một lời báo trước, con mồi và kẻ săn mồi đã đối mặt nhau.",
     "translator_note": ""
   },
   {
@@ -7646,7 +7646,7 @@
     "ai_reason": "",
     "source_en": "The circle tightens. The outcome seems decided.",
     "review_note": "",
-    "new_translation_vi": "Vòng tròn siết chặt lại. Kết cục dường như đã được định sẵn.",
+    "new_translation_vi": "Vòng vây đang khép lại. Kết cục dường như đã được định đoạt.",
     "translator_note": ""
   },
   {
@@ -7671,7 +7671,7 @@
     "ai_reason": "",
     "source_en": "The circle tightens. The outcome seems decided.",
     "review_note": "",
-    "new_translation_vi": "Vòng tròn siết chặt lại. Kết cục dường như đã được định sẵn.",
+    "new_translation_vi": "Vòng vây đang khép lại. Kết cục dường như đã được định đoạt.",
     "translator_note": ""
   },
   {
@@ -7696,7 +7696,7 @@
     "ai_reason": "",
     "source_en": "The circle tightens. The outcome seems decided.",
     "review_note": "",
-    "new_translation_vi": "Vòng tròn siết chặt lại. Kết cục dường như đã được định sẵn.",
+    "new_translation_vi": "Vòng vây đang khép lại. Kết cục dường như đã được định đoạt.",
     "translator_note": ""
   },
   {
@@ -7721,7 +7721,7 @@
     "ai_reason": "",
     "source_en": "Never underestimate a cornered beast. The wounded stay. Others chase.",
     "review_note": "",
-    "new_translation_vi": "Đừng bao giờ coi thường một con thú bị dồn vào đường cùng. Kẻ bị thương ở lại. Những kẻ khác sẽ đuổi theo.",
+    "new_translation_vi": "Đừng bao giờ đánh giá thấp một con thú bị dồn vào đường cùng. Kẻ bị thương sẽ ở lại. Những kẻ khác sẽ truy đuổi.",
     "translator_note": ""
   },
   {
@@ -7746,7 +7746,7 @@
     "ai_reason": "",
     "source_en": "Never underestimate a cornered beast. The wounded stay. Others chase.",
     "review_note": "",
-    "new_translation_vi": "Đừng bao giờ coi thường một con thú bị dồn vào đường cùng. Kẻ bị thương ở lại. Những kẻ khác sẽ đuổi theo.",
+    "new_translation_vi": "Đừng bao giờ đánh giá thấp một con thú bị dồn vào đường cùng. Kẻ bị thương sẽ ở lại. Những kẻ khác sẽ truy đuổi.",
     "translator_note": ""
   },
   {
@@ -7771,7 +7771,7 @@
     "ai_reason": "",
     "source_en": "Never underestimate a cornered beast. The wounded stay. Others chase.",
     "review_note": "",
-    "new_translation_vi": "Đừng bao giờ coi thường một con thú bị dồn vào đường cùng. Kẻ bị thương ở lại. Những kẻ khác sẽ đuổi theo.",
+    "new_translation_vi": "Đừng bao giờ đánh giá thấp một con thú bị dồn vào đường cùng. Kẻ bị thương sẽ ở lại. Những kẻ khác sẽ truy đuổi.",
     "translator_note": ""
   },
   {
@@ -7796,7 +7796,7 @@
     "ai_reason": "",
     "source_en": "Tracks speak the prey's language. They lead us straight to them.",
     "review_note": "",
-    "new_translation_vi": "Dấu vết nói ngôn ngữ của con mồi. Chúng dẫn ta thẳng đến chúng.",
+    "new_translation_vi": "Dấu vết chính là ngôn ngữ của con mồi. Chúng dẫn thẳng chúng ta đến nơi chúng ẩn náu.",
     "translator_note": ""
   },
   {
@@ -7821,7 +7821,7 @@
     "ai_reason": "",
     "source_en": "Tracks speak the prey's language. They lead us straight to them.",
     "review_note": "",
-    "new_translation_vi": "Dấu vết nói ngôn ngữ của con mồi. Chúng dẫn ta thẳng đến chúng.",
+    "new_translation_vi": "Dấu vết chính là ngôn ngữ của con mồi. Chúng dẫn thẳng chúng ta đến nơi chúng ẩn náu.",
     "translator_note": ""
   },
   {
@@ -7846,7 +7846,7 @@
     "ai_reason": "",
     "source_en": "Tracks speak the prey's language. They lead us straight to them.",
     "review_note": "",
-    "new_translation_vi": "Dấu vết nói ngôn ngữ của con mồi. Chúng dẫn ta thẳng đến chúng.",
+    "new_translation_vi": "Dấu vết chính là ngôn ngữ của con mồi. Chúng dẫn thẳng chúng ta đến nơi chúng ẩn náu.",
     "translator_note": ""
   },
   {
@@ -7871,7 +7871,7 @@
     "ai_reason": "",
     "source_en": "The hunter. The prey. The tracks. This is where they converge.",
     "review_note": "",
-    "new_translation_vi": "Thợ săn. Con mồi. Dấu vết. Nơi tất cả giao nhau.",
+    "new_translation_vi": "Kẻ săn mồi. Con mồi. Dấu vết. Đây chính là nơi chúng hội tụ.",
     "translator_note": ""
   },
   {
@@ -7896,7 +7896,7 @@
     "ai_reason": "",
     "source_en": "The hunter. The prey. The tracks. This is where they converge.",
     "review_note": "",
-    "new_translation_vi": "Thợ săn. Con mồi. Dấu vết. Nơi tất cả giao nhau.",
+    "new_translation_vi": "Kẻ săn mồi. Con mồi. Dấu vết. Đây chính là nơi chúng hội tụ.",
     "translator_note": ""
   },
   {
@@ -7921,7 +7921,7 @@
     "ai_reason": "",
     "source_en": "The hunter. The prey. The tracks. This is where they converge.",
     "review_note": "",
-    "new_translation_vi": "Thợ săn. Con mồi. Dấu vết. Nơi tất cả giao nhau.",
+    "new_translation_vi": "Kẻ săn mồi. Con mồi. Dấu vết. Đây chính là nơi chúng hội tụ.",
     "translator_note": ""
   },
   {
@@ -7938,15 +7938,15 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
-    "source_en": "Khi chiến thắng đến, những cành vinh quang cúi xuống hôn lên trán người chiến binh.",
+    "source_en": "When victory comes, the boughs of glory bend down to kiss the warrior's forehead.",
     "review_note": "",
-    "new_translation_vi": "Khi chiến thắng đến, những cành vinh quang cúi xuống hôn lên trán người chiến binh.",
+    "new_translation_vi": "Khi chiến thắng đến, những cành lá vinh quang sẽ cúi xuống hôn lên trán người chiến binh.",
     "translator_note": ""
   },
   {
@@ -7971,7 +7971,7 @@
     "ai_reason": "",
     "source_en": "Unlock all Combat Machines and KU-Roro weapons in Tidal Defense Simulator.",
     "review_note": "",
-    "new_translation_vi": "Mở khóa tất cả Máy Chiến Đấu và vũ khí KU-Roro trong Mô phỏng Phòng thủ Thủy Triều.",
+    "new_translation_vi": "Mở khóa tất cả Combat Machines và vũ khí KU-Roro trong Tidal Defense Simulator.",
     "translator_note": ""
   },
   {
@@ -8021,7 +8021,7 @@
     "ai_reason": "",
     "source_en": "Defeat at least 50 TDs in total with the help of terrains in Tidal Defense Simulator.",
     "review_note": "",
-    "new_translation_vi": "Hạ gục tổng cộng ít nhất 50 TD với sự hỗ trợ của địa hình trong Mô Phỏng Phòng Thủ Thủy Triều.",
+    "new_translation_vi": "Đánh bại tổng cộng ít nhất 50 TD với sự hỗ trợ của địa hình trong Tidal Defense Simulator.",
     "translator_note": ""
   },
   {
@@ -8046,7 +8046,7 @@
     "ai_reason": "",
     "source_en": "Survive at least 30 waves of attack in Deathtrap Mode: Total Defense Test.",
     "review_note": "",
-    "new_translation_vi": "Trụ vững ít nhất 30 đợt tấn công trong Chế độ Bẫy Chết: Bài kiểm tra Phòng Ngự Toàn diện.",
+    "new_translation_vi": "Sống sót qua ít nhất 30 đợt tấn công trong Deathtrap Mode: Total Defense Test.",
     "translator_note": ""
   },
   {
@@ -8071,7 +8071,7 @@
     "ai_reason": "",
     "source_en": "Gain all the Rating Stars in the tests of Tidal Defense Simulator: Pass Guardian.",
     "review_note": "",
-    "new_translation_vi": "Đạt tất cả Sao Đánh Giá trong bài kiểm tra của Tidal Defense Simulator: Người Bảo Vệ Vượt Ải.",
+    "new_translation_vi": "Đạt tất cả Rating Stars trong các bài kiểm tra của Tidal Defense Simulator: Pass Guardian.",
     "translator_note": ""
   },
   {
@@ -8096,7 +8096,7 @@
     "ai_reason": "",
     "source_en": "Gain all the Rating Stars in the tests of Tidal Defense Simulator: Deathtrap Mode.",
     "review_note": "",
-    "new_translation_vi": "Đạt tất cả Sao Đánh Giá trong bài kiểm tra của Tidal Defense Simulator: Chế Độ Bẫy Tử Thần.",
+    "new_translation_vi": "Đạt tất cả Rating Stars trong các bài kiểm tra của Tidal Defense Simulator: Deathtrap Mode.",
     "translator_note": ""
   },
   {
@@ -8121,7 +8121,7 @@
     "ai_reason": "",
     "source_en": "Complete Tactical Hologram: Phantom Pain - Lady of the Sea I.",
     "review_note": "",
-    "new_translation_vi": "Bản Chiến Thuật Toàn Ảnh Hoàn Chỉnh: Phantom Pain - Lady of the Sea I.",
+    "new_translation_vi": "Hoàn thành Tactical Hologram: Phantom Pain - Lady of the Sea I.",
     "translator_note": ""
   },
   {
@@ -8146,7 +8146,7 @@
     "ai_reason": "",
     "source_en": "Complete Tactical Hologram: Phantom Pain - Lady of the Sea VI.",
     "review_note": "",
-    "new_translation_vi": "Bản Chiến Thuật Toàn Ảnh Hoàn Chỉnh: Phantom Pain - Lady of the Sea VI.",
+    "new_translation_vi": "Hoàn thành Tactical Hologram: Phantom Pain - Lady of the Sea VI.",
     "translator_note": ""
   },
   {
@@ -8171,7 +8171,7 @@
     "ai_reason": "",
     "source_en": "Clear Stranger Things in Honami.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Stranger Things tại Honami",
+    "new_translation_vi": "Vượt ải Stranger Things trong Honami.",
     "translator_note": ""
   },
   {
@@ -8196,7 +8196,7 @@
     "ai_reason": "",
     "source_en": "Successfully Extract once with an income of 400,000 or more in Stranger Things in Honami.",
     "review_note": "",
-    "new_translation_vi": "Thu thập thành công một lần với doanh thu từ 400.000 trở lên trong Stranger Things tại Honami",
+    "new_translation_vi": "Thực hiện Trích xuất thành công một lần với thu nhập từ 400.000 trở lên trong Stranger Things tại Honami.",
     "translator_note": ""
   },
   {
@@ -8221,7 +8221,7 @@
     "ai_reason": "",
     "source_en": "Obtain all Gallery Collectibles in Stranger Things in Honami.",
     "review_note": "",
-    "new_translation_vi": "Thu thập tất cả Bộ Sưu Tập trong \"Chuyện Lạ ở Honami\".",
+    "new_translation_vi": "Thu thập tất cả Gallery Collectibles trong Stranger Things tại Honami.",
     "translator_note": ""
   },
   {
@@ -8246,7 +8246,7 @@
     "ai_reason": "",
     "source_en": "Reach a total loot sales value of 800,000 in Stranger Things in Honami.",
     "review_note": "",
-    "new_translation_vi": "Đạt tổng giá trị bán chiến lợi phẩm là 800.000 trong Stranger Things ở Honami",
+    "new_translation_vi": "Đạt tổng giá trị bán chiến lợi phẩm là 800.000 trong Stranger Things tại Honami.",
     "translator_note": ""
   },
   {
@@ -8271,7 +8271,7 @@
     "ai_reason": "",
     "source_en": "Clear the Neon Tower Challenge on the highest difficulty in Stranger Things in Honami.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Thử Thách Tháp Neon ở độ khó cao nhất trong Stranger Things tại Honami.",
+    "new_translation_vi": "Hoàn thành Thử thách Neon Tower ở độ khó cao nhất trong Stranger Things tại Honami.",
     "translator_note": ""
   },
   {
@@ -8296,7 +8296,7 @@
     "ai_reason": "",
     "source_en": "Find the strange manhole cover painted with Namipon's image.",
     "review_note": "",
-    "new_translation_vi": "Tìm cái nắp cống kỳ lạ có hình ảnh Namipon được vẽ lên",
+    "new_translation_vi": "Tìm nắp cống kỳ lạ có vẽ hình của Namipon.",
     "translator_note": ""
   },
   {
@@ -8321,7 +8321,7 @@
     "ai_reason": "",
     "source_en": "Find the tennis ball hopper carrying the memories of the Left Behind.",
     "review_note": "",
-    "new_translation_vi": "Tìm chiếc giỏ đựng bóng tennis chứa đựng ký ức của những người bị bỏ lại",
+    "new_translation_vi": "Tìm chiếc máy bắn bóng tennis chứa đựng ký ức của những người bị bỏ lại.",
     "translator_note": ""
   },
   {
@@ -8346,7 +8346,7 @@
     "ai_reason": "",
     "source_en": "Witness the strange recruiting ritual of a secret gang.",
     "review_note": "",
-    "new_translation_vi": "Chứng kiến nghi lễ tuyển mộ kỳ lạ của băng đảng bí mật.",
+    "new_translation_vi": "Chứng kiến nghi thức chiêu mộ kỳ lạ của một băng nhóm bí ẩn.",
     "translator_note": ""
   },
   {
@@ -8371,7 +8371,7 @@
     "ai_reason": "",
     "source_en": "Inspect the mysterious sand painting in the residential park.",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra bức tranh cát kỳ lạ ở công viên dân cư",
+    "new_translation_vi": "Kiểm tra bức tranh cát bí ẩn trong công viên khu dân cư.",
     "translator_note": ""
   },
   {
@@ -8396,7 +8396,7 @@
     "ai_reason": "",
     "source_en": "The blade most worn is often the sharpest.",
     "review_note": "",
-    "new_translation_vi": "Lưỡi kiếm mòn mỏi nhất lại thường sắc bén nhất.",
+    "new_translation_vi": "Lưỡi kiếm mòn nhất thường là lưỡi kiếm sắc nhất.",
     "translator_note": ""
   },
   {
@@ -8446,7 +8446,7 @@
     "ai_reason": "",
     "source_en": "Hehe... Good boy. Go fetch it.",
     "review_note": "",
-    "new_translation_vi": "Hê hê... ngoan lắm. Đi nhặt về đây nào.",
+    "new_translation_vi": "Hehe... Ngoan lắm. Đi nhặt về đi.",
     "translator_note": ""
   },
   {
@@ -8471,7 +8471,7 @@
     "ai_reason": "",
     "source_en": "With the blazing sun as witness... Glory, bow before us.",
     "review_note": "",
-    "new_translation_vi": "Dưới ánh mặt trời rực cháy làm chứng... Hãy cúi đầu trước vinh quang của chúng ta.",
+    "new_translation_vi": "Với ánh mặt trời rực rỡ làm chứng... Vinh quang, hãy cúi đầu trước chúng ta.",
     "translator_note": ""
   },
   {
@@ -8496,7 +8496,7 @@
     "ai_reason": "",
     "source_en": "All the sun touches is ours to fight for.",
     "review_note": "",
-    "new_translation_vi": "Tất cả những gì ánh mặt trời chạm tới đều là của chúng ta để chiến đấu.",
+    "new_translation_vi": "Mọi nơi ánh mặt trời chiếu tới đều là nơi chúng ta phải chiến đấu vì nó.",
     "translator_note": ""
   },
   {
@@ -8521,7 +8521,7 @@
     "ai_reason": "",
     "source_en": "March on toward destined victory.",
     "review_note": "",
-    "new_translation_vi": "Tiến bước đến chiến thắng định mệnh.",
+    "new_translation_vi": "Tiến bước tới chiến thắng đã định.",
     "translator_note": ""
   },
   {
@@ -8546,7 +8546,7 @@
     "ai_reason": "",
     "source_en": "The hunt never ends.",
     "review_note": "",
-    "new_translation_vi": "Cuộc săn không bao giờ kết thúc.",
+    "new_translation_vi": "Cuộc săn đuổi không bao giờ kết thúc.",
     "translator_note": ""
   },
   {
@@ -8571,7 +8571,7 @@
     "ai_reason": "",
     "source_en": "Strike relentlessly. Again, and again... Each battle reforges my blade. Its true strength lies not in the steel, but in the will that commands it.",
     "review_note": "",
-    "new_translation_vi": "Tấn công không ngừng nghỉ. Lần này, lần khác... Mỗi trận chiến tôi luyện lưỡi kiếm của ta. Sức mạnh thực sự không nằm ở thép, mà ở ý chí điều khiển nó.",
+    "new_translation_vi": "Tấn công không ngừng nghỉ. Lại lần nữa, và lần nữa... Mỗi trận chiến đều rèn giũa lại lưỡi kiếm của ta. Sức mạnh thực sự của nó không nằm ở thép, mà nằm ở ý chí điều khiển nó.",
     "translator_note": ""
   },
   {
@@ -8596,7 +8596,7 @@
     "ai_reason": "",
     "source_en": "I will not stop here... My hometown's fall revealed the truth: only with the everblazing sun can darkness have nowhere to hide.",
     "review_note": "",
-    "new_translation_vi": "Ta sẽ không dừng lại ở đây... Sự sụp đổ của quê hương đã vén màn sự thật: chỉ có mặt trời rực cháy vĩnh cửu mới khiến bóng tối không còn chỗ ẩn náu.",
+    "new_translation_vi": "Ta sẽ không dừng lại ở đây... Sự sụp đổ của quê hương đã phơi bày sự thật: chỉ với ánh mặt trời vĩnh cửu, bóng tối mới không còn nơi ẩn náu.",
     "translator_note": ""
   },
   {
@@ -8621,7 +8621,7 @@
     "ai_reason": "",
     "source_en": "Unmatched.",
     "review_note": "",
-    "new_translation_vi": "Vô đối.",
+    "new_translation_vi": "Không đối thủ.",
     "translator_note": ""
   },
   {
@@ -8646,7 +8646,7 @@
     "ai_reason": "",
     "source_en": "Invincible.",
     "review_note": "",
-    "new_translation_vi": "Bất khả chiến bại.",
+    "new_translation_vi": "Bất bại.",
     "translator_note": ""
   },
   {
@@ -8671,7 +8671,7 @@
     "ai_reason": "",
     "source_en": "Roars of conquest.",
     "review_note": "",
-    "new_translation_vi": "Tiếng gầm chinh phục.",
+    "new_translation_vi": "Tiếng gầm của sự chinh phục.",
     "translator_note": ""
   },
   {
@@ -8696,7 +8696,7 @@
     "ai_reason": "",
     "source_en": "Pathetic struggle.",
     "review_note": "",
-    "new_translation_vi": "Đấu tranh vô nghĩa.",
+    "new_translation_vi": "Sự vùng vẫy thảm hại.",
     "translator_note": ""
   },
   {
@@ -8771,7 +8771,7 @@
     "ai_reason": "",
     "source_en": "Moment of victory.",
     "review_note": "",
-    "new_translation_vi": "Khoảnh Khắc Chiến Thắng.",
+    "new_translation_vi": "Khoảnh khắc chiến thắng.",
     "translator_note": ""
   },
   {
@@ -8796,7 +8796,7 @@
     "ai_reason": "",
     "source_en": "In one strike.",
     "review_note": "",
-    "new_translation_vi": "Chỉ một đòn thôi.",
+    "new_translation_vi": "Chỉ trong một đòn.",
     "translator_note": ""
   },
   {
@@ -8821,7 +8821,7 @@
     "ai_reason": "",
     "source_en": "Undying glory!",
     "review_note": "",
-    "new_translation_vi": "Vinh quang bất tử!",
+    "new_translation_vi": "Vinh quang bất diệt!",
     "translator_note": ""
   },
   {
@@ -8846,7 +8846,7 @@
     "ai_reason": "",
     "source_en": "Rulers rule. Winners win.",
     "review_note": "",
-    "new_translation_vi": "Kẻ thống trị thì thống trị. Kẻ chiến thắng thì chiến thắng.",
+    "new_translation_vi": "Kẻ thống trị thì cai trị. Người chiến thắng thì giành lấy.",
     "translator_note": ""
   },
   {
@@ -8871,7 +8871,7 @@
     "ai_reason": "",
     "source_en": "Stand tall before the eternal sun!",
     "review_note": "",
-    "new_translation_vi": "Hãy đứng hiên ngang dưới ánh dương vĩnh cửu!",
+    "new_translation_vi": "Hãy đứng vững trước ánh mặt trời vĩnh cửu!",
     "translator_note": ""
   },
   {
@@ -8896,7 +8896,7 @@
     "ai_reason": "",
     "source_en": "All glory to Septimont.",
     "review_note": "",
-    "new_translation_vi": "Vinh quang thuộc về Septimont.",
+    "new_translation_vi": "Mọi vinh quang đều dành cho Septimont.",
     "translator_note": ""
   },
   {
@@ -8921,7 +8921,7 @@
     "ai_reason": "",
     "source_en": "It ends now.",
     "review_note": "",
-    "new_translation_vi": "Đến đây là hết.",
+    "new_translation_vi": "Kết thúc tại đây.",
     "translator_note": ""
   },
   {
@@ -8946,7 +8946,7 @@
     "ai_reason": "",
     "source_en": "One strike is enough.",
     "review_note": "",
-    "new_translation_vi": "Chỉ cần một đòn là đủ.",
+    "new_translation_vi": "Một đòn là đủ.",
     "translator_note": ""
   },
   {
@@ -8996,7 +8996,7 @@
     "ai_reason": "",
     "source_en": "Conquest begins now.",
     "review_note": "",
-    "new_translation_vi": "Cuộc chinh phục bắt đầu ngay bây giờ.",
+    "new_translation_vi": "Cuộc chinh phục bắt đầu từ đây.",
     "translator_note": ""
   },
   {
@@ -9121,7 +9121,7 @@
     "ai_reason": "",
     "source_en": "Honor to you, my friend.",
     "review_note": "",
-    "new_translation_vi": "Danh dự cho cậu, người bạn của ta.",
+    "new_translation_vi": "Vinh dự cho cậu, bạn của ta.",
     "translator_note": ""
   },
   {
@@ -9146,7 +9146,7 @@
     "ai_reason": "",
     "source_en": "Well played.",
     "review_note": "",
-    "new_translation_vi": "Chơi hay lắm.",
+    "new_translation_vi": "Chơi tốt lắm.",
     "translator_note": ""
   },
   {
@@ -9196,7 +9196,7 @@
     "ai_reason": "",
     "source_en": "Barely felt it.",
     "review_note": "",
-    "new_translation_vi": "Hầu như không cảm thấy gì cả.",
+    "new_translation_vi": "Chẳng cảm thấy gì cả.",
     "translator_note": ""
   },
   {
@@ -9246,7 +9246,7 @@
     "ai_reason": "",
     "source_en": "The sun... never sets...",
     "review_note": "",
-    "new_translation_vi": "Mặt trời… không bao giờ lặn…",
+    "new_translation_vi": "Mặt trời... không bao giờ lặn...",
     "translator_note": ""
   },
   {
@@ -9271,7 +9271,7 @@
     "ai_reason": "",
     "source_en": "I will not fall here...",
     "review_note": "",
-    "new_translation_vi": "Ta sẽ không gục ngã ở đây...",
+    "new_translation_vi": "Ta sẽ không gục ngã tại đây...",
     "translator_note": ""
   },
   {
@@ -9321,7 +9321,7 @@
     "ai_reason": "",
     "source_en": "To arms.",
     "review_note": "",
-    "new_translation_vi": "Chuẩn bị chiến đấu.",
+    "new_translation_vi": "Cầm vũ khí lên.",
     "translator_note": ""
   },
   {
@@ -9346,7 +9346,7 @@
     "ai_reason": "",
     "source_en": "In control.",
     "review_note": "",
-    "new_translation_vi": "Đang kiểm soát.",
+    "new_translation_vi": "Trong tầm kiểm soát.",
     "translator_note": ""
   },
   {
@@ -9396,7 +9396,7 @@
     "ai_reason": "",
     "source_en": "To the lands afar.",
     "review_note": "",
-    "new_translation_vi": "Tới những vùng đất xa xôi.",
+    "new_translation_vi": "Hướng về những vùng đất xa xôi.",
     "translator_note": ""
   },
   {
@@ -9446,7 +9446,7 @@
     "ai_reason": "",
     "source_en": "Stay behind me.",
     "review_note": "",
-    "new_translation_vi": "Đứng sau ta.",
+    "new_translation_vi": "Hãy đứng sau ta.",
     "translator_note": ""
   },
   {
@@ -9471,7 +9471,7 @@
     "ai_reason": "",
     "source_en": "A hunt isn't complete without a prize.",
     "review_note": "",
-    "new_translation_vi": "Một cuộc săn đuổi không thể thiếu phần thưởng.",
+    "new_translation_vi": "Một cuộc săn sẽ không trọn vẹn nếu thiếu đi chiến lợi phẩm.",
     "translator_note": ""
   },
   {
@@ -9496,7 +9496,7 @@
     "ai_reason": "",
     "source_en": "Worth the chase.",
     "review_note": "",
-    "new_translation_vi": "Đáng để đuổi theo.",
+    "new_translation_vi": "Xứng đáng với công sức săn đuổi.",
     "translator_note": ""
   },
   {
@@ -9521,7 +9521,7 @@
     "ai_reason": "",
     "source_en": "Nice trophy.",
     "review_note": "",
-    "new_translation_vi": "Chiếc cúp đẹp đấy.",
+    "new_translation_vi": "Chiến lợi phẩm đẹp đấy.",
     "translator_note": ""
   },
   {
@@ -9546,7 +9546,7 @@
     "ai_reason": "",
     "source_en": "Bounty of the sea.",
     "review_note": "",
-    "new_translation_vi": "Tài sản của biển cả.",
+    "new_translation_vi": "Món quà từ biển cả.",
     "translator_note": ""
   },
   {
@@ -9571,7 +9571,7 @@
     "ai_reason": "",
     "source_en": "Hmm... Perfect.",
     "review_note": "",
-    "new_translation_vi": "Hừm... Hoàn hảo.",
+    "new_translation_vi": "Hmm... Hoàn hảo.",
     "translator_note": ""
   },
   {
@@ -9596,7 +9596,7 @@
     "ai_reason": "",
     "source_en": "Pleasing to the ears, hm?",
     "review_note": "",
-    "new_translation_vi": "Nghe dễ chịu nhỉ?",
+    "new_translation_vi": "Nghe êm tai đấy chứ, nhỉ?",
     "translator_note": ""
   },
   {
@@ -9621,7 +9621,7 @@
     "ai_reason": "",
     "source_en": "Beyond myself. Beyond every written start and end of the story. Till we rewrite our fate.",
     "review_note": "",
-    "new_translation_vi": "Vượt lên chính mình. Vượt qua mọi khởi đầu và kết thúc đã được viết sẵn. Cho đến khi ta viết lại vận mệnh của chính mình.",
+    "new_translation_vi": "Vượt lên chính mình. Vượt ra ngoài mọi điểm bắt đầu và kết thúc đã được viết sẵn của câu chuyện. Cho đến khi chúng ta viết lại định mệnh của chính mình.",
     "translator_note": ""
   },
   {
@@ -9646,7 +9646,7 @@
     "ai_reason": "",
     "source_en": "Very well. I shall grant you enlightenment.",
     "review_note": "",
-    "new_translation_vi": "Được thôi. Ta sẽ ban cho ngươi sự khai sáng.",
+    "new_translation_vi": "Được thôi. Ta sẽ ban cho cậu sự giác ngộ.",
     "translator_note": ""
   },
   {
@@ -9671,7 +9671,7 @@
     "ai_reason": "",
     "source_en": "Oh. What will you do without me?",
     "review_note": "",
-    "new_translation_vi": "Ồ. Không có tôi thì cậu biết làm gì bây giờ?",
+    "new_translation_vi": "Ồ. Cậu sẽ làm gì nếu không có ta đây?",
     "translator_note": ""
   },
   {
@@ -9696,7 +9696,7 @@
     "ai_reason": "",
     "source_en": "I am the moon that never falls, here to rewrite the ending.",
     "review_note": "",
-    "new_translation_vi": "Ta là vầng trăng không bao giờ rơi, đến đây để viết lại cái kết.",
+    "new_translation_vi": "Ta là vầng trăng không bao giờ lặn, ở đây để viết lại đoạn kết.",
     "translator_note": ""
   },
   {
@@ -9721,7 +9721,7 @@
     "ai_reason": "",
     "source_en": "My powers keep manifesting like my emotions, memories, and connections... You've become quite adept at this anchor job, haven't you?",
     "review_note": "",
-    "new_translation_vi": "Sức mạnh của ta cứ hiện ra như cảm xúc, ký ức và những mối liên kết... Cậu đã khá thành thạo công việc mỏ neo này rồi nhỉ?",
+    "new_translation_vi": "Sức mạnh của ta cứ không ngừng biểu hiện giống như cảm xúc, ký ức và những mối liên kết của ta vậy... Cậu đã trở nên khá thành thạo với công việc \"mỏ neo\" này rồi nhỉ?",
     "translator_note": ""
   },
   {
@@ -9746,7 +9746,7 @@
     "ai_reason": "",
     "source_en": "From one moon to another, through endless cycles... until it's beyond measurement.",
     "review_note": "",
-    "new_translation_vi": "Từ trăng này đến trăng khác, qua vô vàn chu kỳ... cho đến khi không còn gì để đo đếm.",
+    "new_translation_vi": "Từ vầng trăng này sang vầng trăng khác, qua những chu kỳ bất tận... cho đến khi nó vượt ngoài mọi sự đo lường.",
     "translator_note": ""
   },
   {
@@ -9771,7 +9771,7 @@
     "ai_reason": "",
     "source_en": "Are you sure about this? Indulging my willfulness? Just so you know, if we keep this up, we might... fall into an unknown future scarier than Chaos!",
     "review_note": "",
-    "new_translation_vi": "Cậu chắc chắn chứ? Để ta được tùy hứng như thế này? Nhưng mà biết đâu, nếu cứ tiếp tục thế này, chúng ta có thể... rơi vào một tương lai chưa biết còn đáng sợ hơn cả Chaos!",
+    "new_translation_vi": "Cậu chắc chắn về điều này chứ? Nuông chiều sự tùy hứng của ta sao? Để ta nói cho cậu biết, nếu chúng ta cứ tiếp tục thế này, chúng ta có thể... rơi vào một tương lai vô định đáng sợ hơn cả Hỗn Mang đấy!",
     "translator_note": ""
   },
   {
@@ -9796,7 +9796,7 @@
     "ai_reason": "",
     "source_en": "Can I have anything else I want other than power? Think carefully before you answer. Once you say it, I won't stop until I get it.",
     "review_note": "",
-    "new_translation_vi": "Ngoài sức mạnh, cậu còn muốn gì khác không? Suy nghĩ kỹ trước khi trả lời. Một khi cậu nói ra, tớ sẽ không dừng lại cho đến khi đạt được nó đâu.",
+    "new_translation_vi": "Ta có thể đòi hỏi bất cứ thứ gì khác ngoài sức mạnh không? Hãy suy nghĩ kỹ trước khi trả lời. Một khi cậu đã nói ra, ta sẽ không dừng lại cho đến khi có được nó.",
     "translator_note": ""
   },
   {
@@ -9821,7 +9821,7 @@
     "ai_reason": "",
     "source_en": "Entertain me.",
     "review_note": "",
-    "new_translation_vi": "Giữ ta vui vẻ đi.",
+    "new_translation_vi": "Hãy làm ta vui lòng đi.",
     "translator_note": ""
   },
   {
@@ -9846,7 +9846,7 @@
     "ai_reason": "",
     "source_en": "Praise me.",
     "review_note": "",
-    "new_translation_vi": "Hãy tôn vinh ta.",
+    "new_translation_vi": "Hãy tán dương ta.",
     "translator_note": ""
   },
   {
@@ -9871,7 +9871,7 @@
     "ai_reason": "",
     "source_en": "Face me.",
     "review_note": "",
-    "new_translation_vi": "Đối mặt với ta.",
+    "new_translation_vi": "Hãy đối mặt với ta.",
     "translator_note": ""
   },
   {
@@ -9921,7 +9921,7 @@
     "ai_reason": "",
     "source_en": "Seize.",
     "review_note": "",
-    "new_translation_vi": "Bắt lấy.",
+    "new_translation_vi": "Chiếm lấy.",
     "translator_note": ""
   },
   {
@@ -9946,7 +9946,7 @@
     "ai_reason": "",
     "source_en": "Settle.",
     "review_note": "",
-    "new_translation_vi": "Ngồi xuống đi.",
+    "new_translation_vi": "Ổn định.",
     "translator_note": ""
   },
   {
@@ -9971,7 +9971,7 @@
     "ai_reason": "",
     "source_en": "Wane.",
     "review_note": "",
-    "new_translation_vi": "Tàn lụi.",
+    "new_translation_vi": "Khuyết.",
     "translator_note": ""
   },
   {
@@ -9996,7 +9996,7 @@
     "ai_reason": "",
     "source_en": "Wax.",
     "review_note": "",
-    "new_translation_vi": "Thịnh.",
+    "new_translation_vi": "Tròn.",
     "translator_note": ""
   },
   {
@@ -10096,7 +10096,7 @@
     "ai_reason": "",
     "source_en": "Present your offerings.",
     "review_note": "",
-    "new_translation_vi": "Hãy dâng lễ vật của ngươi lên.",
+    "new_translation_vi": "Hãy dâng lên lễ vật của ngươi.",
     "translator_note": ""
   },
   {
@@ -10121,7 +10121,7 @@
     "ai_reason": "",
     "source_en": "World, at my string.",
     "review_note": "",
-    "new_translation_vi": "Thế Giới, trong tay ta.",
+    "new_translation_vi": "Thế giới, nằm trong tay ta.",
     "translator_note": ""
   },
   {
@@ -10146,7 +10146,7 @@
     "ai_reason": "",
     "source_en": "Fate, in my mark.",
     "review_note": "",
-    "new_translation_vi": "Số phận... nằm trong dấu ấn của ta.",
+    "new_translation_vi": "Định mệnh, nằm trong dấu ấn của ta.",
     "translator_note": ""
   },
   {
@@ -10171,7 +10171,7 @@
     "ai_reason": "",
     "source_en": "Foes, be my prey.",
     "review_note": "",
-    "new_translation_vi": "Kẻ địch, hãy trở thành con mồi của ta.",
+    "new_translation_vi": "Kẻ thù, hãy là con mồi của ta.",
     "translator_note": ""
   },
   {
@@ -10196,7 +10196,7 @@
     "ai_reason": "",
     "source_en": "Causality... overturned.",
     "review_note": "",
-    "new_translation_vi": "Nhân quả... bị đảo ngược.",
+    "new_translation_vi": "Nhân quả... bị đảo lộn.",
     "translator_note": ""
   },
   {
@@ -10246,7 +10246,7 @@
     "ai_reason": "",
     "source_en": "Fate... revealed.",
     "review_note": "",
-    "new_translation_vi": "Số phận... đã được tiết lộ.",
+    "new_translation_vi": "Định mệnh... được hé lộ.",
     "translator_note": ""
   },
   {
@@ -10271,7 +10271,7 @@
     "ai_reason": "",
     "source_en": "Taste my resolve!",
     "review_note": "",
-    "new_translation_vi": "Nếm thử quyết tâm của ta đây!",
+    "new_translation_vi": "Nếm trải quyết tâm của ta đi!",
     "translator_note": ""
   },
   {
@@ -10296,7 +10296,7 @@
     "ai_reason": "",
     "source_en": "Answer my call!",
     "review_note": "",
-    "new_translation_vi": "Hãy đáp lại tiếng gọi của ta!",
+    "new_translation_vi": "Đáp lại lời triệu hồi của ta!",
     "translator_note": ""
   },
   {
@@ -10321,7 +10321,7 @@
     "ai_reason": "",
     "source_en": "The moon is full!",
     "review_note": "",
-    "new_translation_vi": "Trăng tròn rồi!",
+    "new_translation_vi": "Trăng đã tròn!",
     "translator_note": ""
   },
   {
@@ -10346,7 +10346,7 @@
     "ai_reason": "",
     "source_en": "I'll indulge you.",
     "review_note": "",
-    "new_translation_vi": "Tôi sẽ chiều cậu.",
+    "new_translation_vi": "Ta sẽ chiều lòng cậu.",
     "translator_note": ""
   },
   {
@@ -10371,7 +10371,7 @@
     "ai_reason": "",
     "source_en": "With style and grace...",
     "review_note": "",
-    "new_translation_vi": "Với phong thái và sự duyên dáng...",
+    "new_translation_vi": "Thật phong cách và tao nhã...",
     "translator_note": ""
   },
   {
@@ -10396,7 +10396,7 @@
     "ai_reason": "",
     "source_en": "Now, watch closely.",
     "review_note": "",
-    "new_translation_vi": "Giờ thì quan sát kỹ vào.",
+    "new_translation_vi": "Giờ thì, nhìn cho kỹ đây.",
     "translator_note": ""
   },
   {
@@ -10421,7 +10421,7 @@
     "ai_reason": "",
     "source_en": "My turn to watch.",
     "review_note": "",
-    "new_translation_vi": "Đến lượt tớ xem.",
+    "new_translation_vi": "Đến lượt ta quan sát.",
     "translator_note": ""
   },
   {
@@ -10446,7 +10446,7 @@
     "ai_reason": "",
     "source_en": "I've had my fun.",
     "review_note": "",
-    "new_translation_vi": "Ta đã chơi đủ rồi.",
+    "new_translation_vi": "Ta chơi đủ rồi.",
     "translator_note": ""
   },
   {
@@ -10471,7 +10471,7 @@
     "ai_reason": "",
     "source_en": "With pleasure.",
     "review_note": "",
-    "new_translation_vi": "Rất hân hạnh.",
+    "new_translation_vi": "Rất sẵn lòng.",
     "translator_note": ""
   },
   {
@@ -10496,7 +10496,7 @@
     "ai_reason": "",
     "source_en": "To the Hero of Heroes.",
     "review_note": "",
-    "new_translation_vi": "Tới Người Anh Hùng của Các Anh Hùng.",
+    "new_translation_vi": "Gửi tới Anh hùng của những anh hùng.",
     "translator_note": ""
   },
   {
@@ -10521,7 +10521,7 @@
     "ai_reason": "",
     "source_en": "Miss me already?",
     "review_note": "",
-    "new_translation_vi": "Nhớ tôi rồi à?",
+    "new_translation_vi": "Nhớ ta rồi sao?",
     "translator_note": ""
   },
   {
@@ -10546,7 +10546,7 @@
     "ai_reason": "",
     "source_en": "We bask in glory.",
     "review_note": "",
-    "new_translation_vi": "Ta đắm chìm trong vinh quang.",
+    "new_translation_vi": "Chúng ta đắm mình trong vinh quang.",
     "translator_note": ""
   },
   {
@@ -10571,7 +10571,7 @@
     "ai_reason": "",
     "source_en": "Nonsense.",
     "review_note": "",
-    "new_translation_vi": "Vớ vẩn.",
+    "new_translation_vi": "Vô lý.",
     "translator_note": ""
   },
   {
@@ -10596,7 +10596,7 @@
     "ai_reason": "",
     "source_en": "The nerves.",
     "review_note": "",
-    "new_translation_vi": "Thần kinh à?",
+    "new_translation_vi": "Căng thẳng thật.",
     "translator_note": ""
   },
   {
@@ -10621,7 +10621,7 @@
     "ai_reason": "",
     "source_en": "Heh. This is nothing.",
     "review_note": "",
-    "new_translation_vi": "Hừ. Chuyện nhỏ như con thỏ ấy mà.",
+    "new_translation_vi": "Hừ. Chẳng là gì cả.",
     "translator_note": ""
   },
   {
@@ -10646,7 +10646,7 @@
     "ai_reason": "",
     "source_en": "Is that all?",
     "review_note": "",
-    "new_translation_vi": "Chỉ có vậy thôi à?",
+    "new_translation_vi": "Chỉ vậy thôi sao?",
     "translator_note": ""
   },
   {
@@ -10671,7 +10671,7 @@
     "ai_reason": "",
     "source_en": "You dare test me? The insolence.",
     "review_note": "",
-    "new_translation_vi": "Ngươi dám thử thách ta? Hỗn xược!",
+    "new_translation_vi": "Ngươi dám thử thách ta? Thật xấc xược.",
     "translator_note": ""
   },
   {
@@ -10696,7 +10696,7 @@
     "ai_reason": "",
     "source_en": "Face me... All of me.",
     "review_note": "",
-    "new_translation_vi": "Đối mặt với ta... Toàn bộ con người ta.",
+    "new_translation_vi": "Đối mặt với ta đi... Tất cả những gì thuộc về ta.",
     "translator_note": ""
   },
   {
@@ -10771,7 +10771,7 @@
     "ai_reason": "",
     "source_en": "The moon... falls.",
     "review_note": "",
-    "new_translation_vi": "Mặt trăng... đang rơi.",
+    "new_translation_vi": "Trăng... tàn.",
     "translator_note": ""
   },
   {
@@ -10796,7 +10796,7 @@
     "ai_reason": "",
     "source_en": "On you go.",
     "review_note": "",
-    "new_translation_vi": "Cứ thế đi.",
+    "new_translation_vi": "Cậu đi tiếp đi.",
     "translator_note": ""
   },
   {
@@ -10846,7 +10846,7 @@
     "ai_reason": "",
     "source_en": "I shall bear witness.",
     "review_note": "",
-    "new_translation_vi": "Ta sẽ làm chứng cho điều này.",
+    "new_translation_vi": "Ta sẽ làm chứng cho điều đó.",
     "translator_note": ""
   },
   {
@@ -10871,7 +10871,7 @@
     "ai_reason": "",
     "source_en": "Let's seize the moon.",
     "review_note": "",
-    "new_translation_vi": "Ta hãy đoạt lấy mặt trăng.",
+    "new_translation_vi": "Hãy cùng chiếm lấy mặt trăng.",
     "translator_note": ""
   },
   {
@@ -10896,7 +10896,7 @@
     "ai_reason": "",
     "source_en": "Predictable.",
     "review_note": "",
-    "new_translation_vi": "Dễ đoán.",
+    "new_translation_vi": "Dễ đoán quá.",
     "translator_note": ""
   },
   {
@@ -10921,7 +10921,7 @@
     "ai_reason": "",
     "source_en": "Keep up.",
     "review_note": "",
-    "new_translation_vi": "Đi tiếp đi.",
+    "new_translation_vi": "Theo kịp đi.",
     "translator_note": ""
   },
   {
@@ -10946,7 +10946,7 @@
     "ai_reason": "",
     "source_en": "Now that's more like it.",
     "review_note": "",
-    "new_translation_vi": "Thế này mới đúng chứ.",
+    "new_translation_vi": "Thế mới đúng là cậu chứ.",
     "translator_note": ""
   },
   {
@@ -10971,7 +10971,7 @@
     "ai_reason": "",
     "source_en": "A well deserved reward.",
     "review_note": "",
-    "new_translation_vi": "Phần thưởng xứng đáng.",
+    "new_translation_vi": "Một phần thưởng xứng đáng.",
     "translator_note": ""
   },
   {
@@ -10996,7 +10996,7 @@
     "ai_reason": "",
     "source_en": "Like it? I've got plenty more of that.",
     "review_note": "",
-    "new_translation_vi": "Thích à? Tớ còn nhiều lắm cơ.",
+    "new_translation_vi": "Thích không? Ta còn nhiều thứ như vậy lắm.",
     "translator_note": ""
   },
   {
@@ -11021,7 +11021,7 @@
     "ai_reason": "",
     "source_en": "A windfall? Fate can be rather generous sometimes.",
     "review_note": "",
-    "new_translation_vi": "Một món hời à? Số phận đôi khi cũng khá hào phóng đấy chứ.",
+    "new_translation_vi": "Một món hời ư? Đôi khi vận mệnh cũng khá hào phóng đấy.",
     "translator_note": ""
   },
   {
@@ -11046,7 +11046,7 @@
     "ai_reason": "",
     "source_en": "Current Version {0}",
     "review_note": "",
-    "new_translation_vi": "Phiên Bản Hiện Tại {0}",
+    "new_translation_vi": "Phiên bản hiện tại {0}",
     "translator_note": ""
   },
   {
@@ -11061,11 +11061,11 @@
     "primary_key": "NewVersion_ConfirmBox_Content",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
@@ -11096,7 +11096,7 @@
     "ai_reason": "",
     "source_en": "Used to amplify the intensity of the participant's data across various categories during the simulation.",
     "review_note": "",
-    "new_translation_vi": "Dùng để khuếch đại cường độ dữ liệu của người tham gia trên nhiều hạng mục khác nhau trong quá trình mô phỏng.",
+    "new_translation_vi": "Được sử dụng để khuếch đại cường độ dữ liệu của người tham gia qua nhiều hạng mục trong quá trình mô phỏng.",
     "translator_note": ""
   },
   {
@@ -11121,7 +11121,7 @@
     "ai_reason": "",
     "source_en": "Large quantities of data gathered during the testing of the hologram.",
     "review_note": "",
-    "new_translation_vi": "Lượng lớn dữ liệu thu thập được trong quá trình thử nghiệm hologram.",
+    "new_translation_vi": "Lượng lớn dữ liệu thu thập được trong quá trình thử nghiệm ảnh ảo.",
     "translator_note": ""
   },
   {
@@ -11146,7 +11146,7 @@
     "ai_reason": "",
     "source_en": "Used to unlock talents for the participant in the simulation.",
     "review_note": "",
-    "new_translation_vi": "Dùng để mở khóa tài năng cho người tham gia mô phỏng.",
+    "new_translation_vi": "Được sử dụng để mở khóa tài năng cho người tham gia trong mô phỏng.",
     "translator_note": ""
   },
   {
@@ -11171,7 +11171,7 @@
     "ai_reason": "",
     "source_en": "The more data is collected from the drills, the more accurate the Waveworn Phenomena simulations become.",
     "review_note": "",
-    "new_translation_vi": "Càng thu thập nhiều dữ liệu từ các buổi diễn tập, mô phỏng Hiện Tượng Waveworn sẽ càng chính xác.",
+    "new_translation_vi": "Dữ liệu thu thập từ các bài tập càng nhiều, mô phỏng Waveworn Phenomena càng trở nên chính xác.",
     "translator_note": ""
   },
   {
@@ -11296,7 +11296,7 @@
     "ai_reason": "",
     "source_en": "Obtain and upgrade Weapon: Glittering Ray to Level 15.",
     "review_note": "",
-    "new_translation_vi": "Nhận và nâng cấp Vũ Khí: Glittering Ray lên cấp 15.",
+    "new_translation_vi": "Nhận và nâng cấp Vũ khí: Glittering Ray lên Cấp 15.",
     "translator_note": ""
   },
   {
@@ -11346,7 +11346,7 @@
     "ai_reason": "",
     "source_en": "Obtain and upgrade Weapon: Explosive Omen to Level 15.",
     "review_note": "",
-    "new_translation_vi": "Nhận và nâng cấp Vũ Khí: Explosive Omen lên cấp 15.",
+    "new_translation_vi": "Nhận và nâng cấp Vũ khí: Explosive Omen lên Cấp 15.",
     "translator_note": ""
   },
   {
@@ -11471,7 +11471,7 @@
     "ai_reason": "",
     "source_en": "Obtain and upgrade Weapon: Sanguine Wheel to Level 15.",
     "review_note": "",
-    "new_translation_vi": "Nhận và nâng cấp Vũ Khí: Sanguine Wheel lên cấp 15.",
+    "new_translation_vi": "Nhận và nâng cấp Vũ khí: Sanguine Wheel lên Cấp 15.",
     "translator_note": ""
   },
   {
@@ -11521,7 +11521,7 @@
     "ai_reason": "",
     "source_en": "Obtain and upgrade Weapon: Rampant Fire to Level 15.",
     "review_note": "",
-    "new_translation_vi": "Nhận và nâng cấp Vũ Khí: Rampant Fire lên cấp 15.",
+    "new_translation_vi": "Nhận và nâng cấp Vũ khí: Rampant Fire lên Cấp 15.",
     "translator_note": ""
   },
   {
@@ -11546,7 +11546,7 @@
     "ai_reason": "",
     "source_en": "Launch <color=#be6245><te href=800022>Blazing Stars</te></color> from the sky.\nCategory: <color=#c49e55>[<te href=800026>Bullet Weapon</te>]</color>",
     "review_note": "",
-    "new_translation_vi": "Phóng <color=#be6245><te href=800022>Blazing Stars</te></color> từ trên trời.\nLoại: <color=#c49e55>[<te href=800026>Vũ khí đạn đạo</te>]</color>",
+    "new_translation_vi": "Phóng <color=#be6245><te href=800022>Blazing Stars</te></color> từ trên không.",
     "translator_note": ""
   },
   {
@@ -11571,7 +11571,7 @@
     "ai_reason": "",
     "source_en": "Use Augusta to clear Resonant Tower & Echoing Tower Floor 4 in Tower of Adversity: Hazard Zone",
     "review_note": "",
-    "new_translation_vi": "Dùng Augusta để vượt tầng 4 của Resonant Tower & Echoing Tower trong Tower of Adversity: Hazard Zone",
+    "new_translation_vi": "Sử dụng Augusta để vượt qua Tầng 4 của Resonant Tower & Echoing Tower trong Tower of Adversity: Hazard Zone",
     "translator_note": ""
   },
   {
@@ -11596,7 +11596,7 @@
     "ai_reason": "",
     "source_en": "Use Iuno to clear Resonant Tower & Echoing Tower Floor 4 in Tower of Adversity: Hazard Zone",
     "review_note": "",
-    "new_translation_vi": "Dùng Iuno để vượt Tháp Cộng Hưởng & Tháp Dội Âm Tầng 4 trong Tháp Nghịch Cảnh: Khu Vực Nguy Hiểm",
+    "new_translation_vi": "Sử dụng Iuno để vượt qua Tầng 4 của Resonant Tower & Echoing Tower trong Tower of Adversity: Hazard Zone",
     "translator_note": ""
   },
   {
@@ -11621,7 +11621,7 @@
     "ai_reason": "",
     "source_en": "Complete the \"Respawning Waters: Chasm\" and \"Respawning Waters: Torrents\" areas in Whimpering Wastes.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành khu vực \"Nước Tái Sinh: Vực Sâu\" và \"Nước Tái Sinh: Dòng Chảy\" tại Whimpering Wastes.",
+    "new_translation_vi": "Hoàn thành các khu vực \"Respawning Waters: Chasm\" và \"Respawning Waters: Torrents\" tại Whimpering Wastes.",
     "translator_note": ""
   },
   {
@@ -11646,7 +11646,7 @@
     "ai_reason": "",
     "source_en": "Obtain 6,000 Illusive Points in \"Fantasies of the Thousand Gateways.\"",
     "review_note": "",
-    "new_translation_vi": "Thu thập 6.000 Điểm Ảo Ảnh trong \"Ảo Ảnh Ngàn Cánh Cửa.\"",
+    "new_translation_vi": "Nhận 6.000 Illusive Points trong \"Fantasies of the Thousand Gateways.\"",
     "translator_note": ""
   },
   {
@@ -11721,7 +11721,7 @@
     "ai_reason": "",
     "source_en": "Survive the 15th wave of attack in the \"Total Defense Test\" of \"Tidal Defense Simulator.\"",
     "review_note": "",
-    "new_translation_vi": "Trụ vững qua đợt tấn công thứ 15 trong \"Bài Kiểm Tra Phòng Thủ Toàn Diện\" của \"Mô Phỏng Phòng Thủ Thủy Triều.\"",
+    "new_translation_vi": "Sống sót qua đợt tấn công thứ 15 trong \"Total Defense Test\" của \"Tidal Defense Simulator.\"",
     "translator_note": ""
   },
   {
@@ -11746,7 +11746,7 @@
     "ai_reason": "",
     "source_en": "Complete 14 challenges in \"Marks of the Wild.\"",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành 14 thử thách trong *Marks of the Wild*",
+    "new_translation_vi": "Hoàn thành 14 thử thách trong \"Marks of the Wild.\"",
     "translator_note": ""
   },
   {
@@ -11771,7 +11771,7 @@
     "ai_reason": "",
     "source_en": "Too many failed attempts. Do you wish to skip this gameplay for now?",
     "review_note": "",
-    "new_translation_vi": "Thử quá nhiều lần thất bại rồi. Cậu có muốn bỏ qua phần chơi này không?",
+    "new_translation_vi": "Thất bại quá nhiều lần. Cậu có muốn bỏ qua màn chơi này lúc này không?",
     "translator_note": ""
   },
   {
@@ -11796,7 +11796,7 @@
     "ai_reason": "",
     "source_en": "Weapon (Lv. {0})",
     "review_note": "",
-    "new_translation_vi": "Vũ Khí (Cấp {0})",
+    "new_translation_vi": "Vũ khí (Cấp {0})",
     "translator_note": ""
   },
   {
@@ -11821,7 +11821,7 @@
     "ai_reason": "",
     "source_en": "Weapon Level +{0}",
     "review_note": "",
-    "new_translation_vi": "Cấp Độ Vũ Khí +{0}",
+    "new_translation_vi": "Cấp Vũ khí +{0}",
     "translator_note": ""
   },
   {
@@ -11846,7 +11846,7 @@
     "ai_reason": "",
     "source_en": "Resonator Level +{0}",
     "review_note": "",
-    "new_translation_vi": "Cấp Độ Resonator +{0}",
+    "new_translation_vi": "Resonator Cấp +{0}",
     "translator_note": ""
   },
   {
@@ -11863,15 +11863,15 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "missing_token:{0}",
-    "rule_decision": "RETRY",
-    "rule_score": 8,
-    "rule_issues": "missing_token:{0}",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "{0} Synergistic Evo",
     "review_note": "",
-    "new_translation_vi": "Tiến Hóa Đồng Bộ",
+    "new_translation_vi": "{0} Synergistic Evo",
     "translator_note": ""
   },
   {
@@ -11896,7 +11896,7 @@
     "ai_reason": "",
     "source_en": "{Cus:Ipt,Touch=Tap PC=Click Gamepad=Tap} anywhere to close",
     "review_note": "",
-    "new_translation_vi": "Nhấn {Cus:Ipt,Touch=Tap PC=Click Gamepad=Tap} bất cứ đâu để đóng",
+    "new_translation_vi": "{Cus:Ipt,Touch=Tap PC=Click Gamepad=Tap} bất kỳ đâu để đóng",
     "translator_note": ""
   },
   {
@@ -11946,7 +11946,7 @@
     "ai_reason": "",
     "source_en": "This slot unlocks at Wave {0}",
     "review_note": "",
-    "new_translation_vi": "Ô này mở khóa ở Làn sóng {0}",
+    "new_translation_vi": "Khe này mở khóa tại Đợt {0}",
     "translator_note": ""
   },
   {
@@ -11963,15 +11963,15 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "missing_token:<te href=800030>",
-    "rule_decision": "RETRY",
-    "rule_score": 8,
-    "rule_issues": "missing_token:<te href=800030>",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "<color=#c49e55><te href=800030>Synergistic Evo</te></color>",
     "review_note": "",
-    "new_translation_vi": "<color=#c49e55>Tiến Hóa Đồng Bộ</te></color>",
+    "new_translation_vi": "<color=#c49e55><te href=800030>Synergistic Evo</te></color>",
     "translator_note": ""
   },
   {
@@ -12021,7 +12021,7 @@
     "ai_reason": "",
     "source_en": "Just as you once witnessed in the simulation, that towering tide will one day descend, engulfing all. But this time, you are ready to face it again.",
     "review_note": "",
-    "new_translation_vi": "Cũng như lần trước trong mô phỏng, đợt thủy triều khổng lồ ấy rồi sẽ ập xuống, nhấn chìm tất cả. Nhưng lần này, cậu đã sẵn sàng đối mặt với nó.",
+    "new_translation_vi": "Đúng như những gì cậu từng chứng kiến trong mô phỏng, tide khổng lồ đó một ngày nào đó sẽ giáng xuống và nhấn chìm tất cả. Nhưng lần này, cậu đã sẵn sàng để đối mặt với nó một lần nữa.",
     "translator_note": ""
   },
   {
@@ -12046,7 +12046,7 @@
     "ai_reason": "",
     "source_en": "Hold out until Wave {0} in \"Total Defense Test\"",
     "review_note": "",
-    "new_translation_vi": "Giữ vững đến Hồi {0} trong \"Bài Kiểm Tra Phòng Ngự Toàn Diện\"",
+    "new_translation_vi": "Cầm cự đến Đợt {0} trong \"Total Defense Test\"",
     "translator_note": ""
   },
   {
@@ -12071,7 +12071,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Nightmares within the time limit and purify the Dreamscape Node. Complete the challenge to claim rewards.",
     "review_note": "",
-    "new_translation_vi": "Hạ gục lũ Ác Mộng trong thời gian quy định và thanh tẩy Nút Cảnh Mộng. Hoàn thành thử thách để nhận thưởng.",
+    "new_translation_vi": "Đánh bại các Nightmares trong giới hạn thời gian và thanh tẩy Dreamscape Node. Hoàn thành thử thách để nhận phần thưởng.",
     "translator_note": ""
   },
   {
@@ -12096,7 +12096,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Nightmares within the time limit and purify the last Dreamscape Node on the Sanguis Plateaus. Complete the challenge to claim rewards.",
     "review_note": "",
-    "new_translation_vi": "Hạ gục lũ Ác Mộng trong thời gian quy định và thanh tẩy Nút Cảnh Mộng cuối cùng trên Cao Nguyên Sanguis. Hoàn thành thử thách để nhận thưởng.",
+    "new_translation_vi": "Đánh bại các Nightmares trong giới hạn thời gian và thanh tẩy Dreamscape Node cuối cùng trên Sanguis Plateaus. Hoàn thành thử thách để nhận phần thưởng.",
     "translator_note": ""
   },
   {
@@ -12121,7 +12121,7 @@
     "ai_reason": "",
     "source_en": "Use Utility: Flight to fly as far as you can within the time limit. Complete the challenge to claim rewards.",
     "review_note": "",
-    "new_translation_vi": "Dùng Tiện Ích: Bay để bay xa nhất có thể trong giới hạn thời gian. Hoàn thành thử thách để nhận thưởng.",
+    "new_translation_vi": "Sử dụng Tiện ích: Bay để bay xa nhất có thể trong giới hạn thời gian. Hoàn thành thử thách để nhận phần thưởng.",
     "translator_note": ""
   },
   {
@@ -12146,7 +12146,7 @@
     "ai_reason": "",
     "source_en": "Look for Lillibet's divination memories on the Sanguis Plateaus.",
     "review_note": "",
-    "new_translation_vi": "Tìm lại ký ức bói toán của Lillibet trên Cao nguyên Sanguis",
+    "new_translation_vi": "Tìm kiếm ký ức bói toán của Lillibet trên Sanguis Plateaus.",
     "translator_note": ""
   },
   {
@@ -12171,7 +12171,7 @@
     "ai_reason": "",
     "source_en": "Starting Enhancement Modules +50.",
     "review_note": "",
-    "new_translation_vi": "Mô-đun Tăng Cường Khởi Đầu +50.",
+    "new_translation_vi": "Mô-đun Tăng cường khởi đầu +50.",
     "translator_note": ""
   },
   {
@@ -12196,7 +12196,7 @@
     "ai_reason": "",
     "source_en": "Weapon Rewards/Item Rewards/Shop option +1.",
     "review_note": "",
-    "new_translation_vi": "Phần Thưởng Vũ Khí/Vật Phẩm +1",
+    "new_translation_vi": "Phần thưởng Vũ khí/Phần thưởng Vật phẩm/Tùy chọn Cửa hàng +1.",
     "translator_note": ""
   },
   {
@@ -12221,7 +12221,7 @@
     "ai_reason": "",
     "source_en": "Attack Speed +8%.",
     "review_note": "",
-    "new_translation_vi": "Tốc Độ Tấn Công +8%",
+    "new_translation_vi": "Tốc độ Tấn công +8%.",
     "translator_note": ""
   },
   {
@@ -12246,7 +12246,7 @@
     "ai_reason": "",
     "source_en": "Pickup Range +30%.",
     "review_note": "",
-    "new_translation_vi": "Tầm Nhặt +30%",
+    "new_translation_vi": "Phạm vi nhặt vật phẩm +30%.",
     "translator_note": ""
   },
   {
@@ -12271,7 +12271,7 @@
     "ai_reason": "",
     "source_en": "5% chance to gain 1 extra Enhancement Module on pickup.",
     "review_note": "",
-    "new_translation_vi": "5% cơ hội nhận thêm 1 Mô-đun Tăng Cường khi nhặt.",
+    "new_translation_vi": "5% cơ hội nhận thêm 1 Mô-đun Tăng cường khi nhặt.",
     "translator_note": ""
   },
   {
@@ -12296,7 +12296,7 @@
     "ai_reason": "",
     "source_en": "Free Shop Refresh +1.",
     "review_note": "",
-    "new_translation_vi": "Làm Mới Cửa Hàng Miễn Phí +1.",
+    "new_translation_vi": "Làm mới Cửa hàng miễn phí +1.",
     "translator_note": ""
   },
   {
@@ -12321,7 +12321,7 @@
     "ai_reason": "",
     "source_en": "Movement Speed +8%.",
     "review_note": "",
-    "new_translation_vi": "Tốc Độ Di Chuyển +8%",
+    "new_translation_vi": "Tốc độ di chuyển +8%.",
     "translator_note": ""
   },
   {
@@ -12371,7 +12371,7 @@
     "ai_reason": "",
     "source_en": "Shop Refresh costs -20%.",
     "review_note": "",
-    "new_translation_vi": "Chi phí làm mới cửa hàng giảm 20%.",
+    "new_translation_vi": "Chi phí làm mới Cửa hàng -20%.",
     "translator_note": ""
   },
   {
@@ -12396,7 +12396,7 @@
     "ai_reason": "",
     "source_en": "Shop Item costs -5%.",
     "review_note": "",
-    "new_translation_vi": "Giá vật phẩm giảm 5%.",
+    "new_translation_vi": "Chi phí vật phẩm Cửa hàng -5%.",
     "translator_note": ""
   },
   {
@@ -12421,7 +12421,7 @@
     "ai_reason": "",
     "source_en": "At the start of each wave, gain 10% of currently owned Enhancement Modules.",
     "review_note": "",
-    "new_translation_vi": "Vào đầu mỗi đợt sóng, nhận lại 10% số Mô-đun Tăng Cường đang sở hữu.",
+    "new_translation_vi": "Khi bắt đầu mỗi đợt, nhận 10% Enhancement Modules hiện có.",
     "translator_note": ""
   },
   {
@@ -12446,7 +12446,7 @@
     "ai_reason": "",
     "source_en": "Lose all Enhancement Modules. Afterward, each Enhancement Module pickup has a 10% chance to grant 1 extra Enhancement Module.",
     "review_note": "",
-    "new_translation_vi": "Mất toàn bộ Mô-đun Tăng Cường. Sau đó, mỗi lần nhặt Mô-đun Tăng Cường có 10% cơ hội nhận thêm 1 Mô-đun.",
+    "new_translation_vi": "Mất tất cả Enhancement Modules. Sau đó, mỗi khi nhặt Enhancement Module sẽ có 10% cơ hội nhận thêm 1 Enhancement Module.",
     "translator_note": ""
   },
   {
@@ -12471,7 +12471,7 @@
     "ai_reason": "",
     "source_en": "Instantly gain 50% of currently owned Enhancement Modules.",
     "review_note": "",
-    "new_translation_vi": "Nhận ngay 50% số Mô-đun Tăng Cường đang sở hữu.",
+    "new_translation_vi": "Nhận ngay lập tức 50% Enhancement Modules hiện có.",
     "translator_note": ""
   },
   {
@@ -12496,7 +12496,7 @@
     "ai_reason": "",
     "source_en": "Enhancement Module gain is reduced by 50% for the next 5 waves, and will be increased by 50% after the next 5 waves.",
     "review_note": "",
-    "new_translation_vi": "Lượng Mô-đun Nâng Cấp nhận được sẽ giảm 50% trong 5 đợt tiếp theo, và sẽ tăng 50% sau 5 đợt kế tiếp.",
+    "new_translation_vi": "Lượng Enhancement Module nhận được giảm 50% trong 5 đợt tiếp theo, và sẽ tăng 50% sau 5 đợt đó.",
     "translator_note": ""
   }
 ]

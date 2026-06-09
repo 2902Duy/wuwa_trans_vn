@@ -15,7 +15,7 @@ from openpyxl.styles import Alignment, Font, PatternFill
 
 WORKSPACE_DIR = Path(r"C:\Users\tduy2\Documents\antigravity\silly-darwin")
 WORK_DIR = WORKSPACE_DIR / "mistral_translate_work"
-PROMPT_DIR = WORK_DIR / "prompts"
+PROMPT_DIR = WORK_DIR / "prompts_compressed"
 NAME_TITLE_DIR = WORK_DIR / "split_by_prompt" / "json" / "name_title"
 EXCEL_NAME_TITLE_DIR = WORK_DIR / "split_by_prompt" / "excel" / "name_title"
 CLASSIFICATION_REPORT = WORK_DIR / "reports" / "split_name_title_classification" / "all_rows.json"
@@ -90,6 +90,7 @@ GLOSSARY_TERMS = (
 )
 
 
+
 def read_json(path):
     return json.loads(path.read_text(encoding="utf-8"))
 
@@ -97,8 +98,24 @@ def read_json(path):
 def write_json(path, data):
     path.parent.mkdir(parents=True, exist_ok=True)
     tmp = path.with_suffix(path.suffix + ".tmp")
-    tmp.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    tmp.replace(path)
+    content = json.dumps(data, ensure_ascii=False, indent=2) + "\n"
+    for attempt in range(8):
+        try:
+            tmp.write_text(content, encoding="utf-8")
+            # Using os.replace is atomic
+            import os
+            os.replace(str(tmp), str(path))
+            return
+        except PermissionError:
+            if attempt == 7:
+                path.write_text(content, encoding="utf-8")
+                try:
+                    tmp.unlink(missing_ok=True)
+                except Exception:
+                    pass
+                return
+            import time
+            time.sleep(0.25 * (attempt + 1))
 
 
 def normalize(text):
@@ -406,12 +423,16 @@ def count_completion(classification):
 
 
 def main():
+    import concurrent.futures
+    import threading
+
     parser = argparse.ArgumentParser()
     parser.add_argument("--limit", type=int, default=None)
     parser.add_argument("--batch-size", type=int, default=50)
     parser.add_argument("--max-chars", type=int, default=5000)
     parser.add_argument("--retries", type=int, default=3)
     parser.add_argument("--batch-delay", type=float, default=0.5)
+    parser.add_argument("--workers", type=int, default=8)
     parser.add_argument("--skip-api", action="store_true")
     args = parser.parse_args()
 
@@ -428,61 +449,97 @@ def main():
     placeholder_errors = []
     translation_errors = []
     success = {}
-    batch_count = 0
+
+    write_lock = threading.Lock()
+    key_cursor_lock = threading.Lock()
+
     key_cursor = 0
+    batch_counter = 0
 
-    if not args.skip_api:
-        for batch in make_batches(items, args.batch_size, args.max_chars):
-            batch_count += 1
-            batch_ids = {item["split_id"] for item in batch}
-            try:
-                output, key_cursor = call_mistral_key_pool(
-                    keys,
-                    key_cursor,
-                    system_prompt,
-                    build_user_prompt(batch),
-                    args.retries,
-                    args.batch_delay,
-                )
-                parsed = parse_output(output)
-                missing_ids = sorted(batch_ids - set(parsed))
-                if missing_ids:
-                    translation_errors.append({"kind": "missing_output_rows", "split_ids": missing_ids, "batch": batch_count})
+    batches = list(make_batches(items, args.batch_size, args.max_chars))
+    print(f"Total items to translate: {len(items)}, Batches: {len(batches)}, Parallel Workers: {args.workers}")
 
-                batch_success = {}
-                for item in batch:
-                    translated = parsed.get(item["split_id"])
-                    if not translated:
-                        continue
-                    translated = denormalize(translated)
-                    issues = validate_translation(item["source_en"], translated)
-                    error_item = {
-                        "split_id": item["split_id"],
-                        "json_path": item["json_path"],
-                        "classification": item["classification"],
-                        "source_en": item["source_en"],
-                        "translation_vi": translated,
-                        "issues": issues,
-                        "batch": batch_count,
-                    }
-                    if any(issue.startswith("missing_token:") for issue in issues):
-                        placeholder_errors.append(error_item)
-                        continue
-                    if issues:
-                        translation_errors.append(error_item)
-                        continue
-                    batch_success[item["split_id"]] = {
-                        **item,
-                        "translation_vi": translated,
-                    }
+    def process_batch(batch):
+        nonlocal key_cursor, batch_counter
+        
+        with write_lock:
+            batch_counter += 1
+            current_batch_no = batch_counter
 
-                apply_translations(batch_success)
-                success.update(batch_success)
-                write_json(RUN_DIR / "latest_success_checkpoint.json", success)
+        batch_ids = {item["split_id"] for item in batch}
+        
+        with key_cursor_lock:
+            start_idx = key_cursor
+            key_cursor += 1
+
+        try:
+            output, new_cursor = call_mistral_key_pool(
+                keys,
+                start_idx,
+                system_prompt,
+                build_user_prompt(batch),
+                args.retries,
+                args.batch_delay,
+            )
+            
+            with key_cursor_lock:
+                key_cursor = max(key_cursor, new_cursor)
+
+            parsed = parse_output(output)
+            missing_ids = sorted(batch_ids - set(parsed))
+            
+            local_placeholder_errors = []
+            local_translation_errors = []
+            batch_success = {}
+
+            if missing_ids:
+                local_translation_errors.append({
+                    "kind": "missing_output_rows", 
+                    "split_ids": missing_ids, 
+                    "batch": current_batch_no
+                })
+
+            for item in batch:
+                translated = parsed.get(item["split_id"])
+                if not translated:
+                    continue
+                translated = denormalize(translated)
+                issues = validate_translation(item["source_en"], translated)
+                error_item = {
+                    "split_id": item["split_id"],
+                    "json_path": item["json_path"],
+                    "classification": item["classification"],
+                    "source_en": item["source_en"],
+                    "translation_vi": translated,
+                    "issues": issues,
+                    "batch": current_batch_no,
+                }
+                if any(issue.startswith("missing_token:") for issue in issues):
+                    local_placeholder_errors.append(error_item)
+                    continue
+                if issues:
+                    local_translation_errors.append(error_item)
+                    continue
+                batch_success[item["split_id"]] = {
+                    **item,
+                    "translation_vi": translated,
+                }
+
+            with write_lock:
+                if batch_success:
+                    apply_translations(batch_success)
+                    success.update(batch_success)
+                    write_json(RUN_DIR / "latest_success_checkpoint.json", success)
+                
+                if local_placeholder_errors:
+                    placeholder_errors.extend(local_placeholder_errors)
+                if local_translation_errors:
+                    translation_errors.extend(local_translation_errors)
+
                 print(
                     json.dumps(
                         {
-                            "batch": batch_count,
+                            "batch": current_batch_no,
                             "rows": len(batch),
                             "success": len(batch_success),
                             "placeholder_errors": len(placeholder_errors),
@@ -491,17 +548,27 @@ def main():
                         ensure_ascii=False,
                     )
                 )
-            except Exception as exc:
+        except Exception as exc:
+            with write_lock:
                 translation_errors.append(
                     {
                         "kind": "api_or_batch_error",
-                        "batch": batch_count,
+                        "batch": current_batch_no,
                         "split_ids": sorted(batch_ids),
                         "error": repr(exc),
                     }
                 )
                 write_json(RUN_DIR / "translation_errors.json", {"count": len(translation_errors), "errors": translation_errors})
-                raise
+            raise
+
+    if not args.skip_api and batches:
+        with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as executor:
+            futures = [executor.submit(process_batch, b) for b in batches]
+            for future in concurrent.futures.as_completed(futures):
+                try:
+                    future.result()
+                except Exception as e:
+                    print(f"Batch failed with exception: {e}")
 
     excel_count = regenerate_name_title_excels()
     completion = count_completion(classification)
@@ -510,7 +577,7 @@ def main():
         "keep_rows_written": keep_rows,
         "keep_files_changed": keep_files,
         "api_translate_items_selected": len(items),
-        "api_batches": batch_count,
+        "api_batches": len(batches),
         "api_success_rows": len(success),
         "placeholder_errors": len(placeholder_errors),
         "translation_errors": len(translation_errors),

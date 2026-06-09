@@ -11,7 +11,6 @@
     "primary_key": "NetworkConnect",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -22,7 +21,8 @@
     "source_en": "Connecting",
     "review_note": "",
     "new_translation_vi": "Đang kết nối",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000139",
@@ -36,7 +36,6 @@
     "primary_key": "PatchDown",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -46,8 +45,9 @@
     "ai_reason": "",
     "source_en": "Downloading: {0} Speed: {1} Size: {2}/{3}",
     "review_note": "",
-    "new_translation_vi": "Đang tải: {0} Tốc độ: {1} Dung lượng: {2}/{3}",
-    "translator_note": ""
+    "new_translation_vi": "Đang tải xuống: {0} Tốc độ: {1} Dung lượng: {2}/{3}",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000140",
@@ -61,7 +61,6 @@
     "primary_key": "PatchDownTips",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -71,8 +70,9 @@
     "ai_reason": "",
     "source_en": "You can minimize game client during download",
     "review_note": "",
-    "new_translation_vi": "Bạn có thể thu nhỏ cửa sổ trò chơi trong khi tải xuống",
-    "translator_note": ""
+    "new_translation_vi": "Bạn có thể thu nhỏ cửa sổ game trong khi tải xuống",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000141",
@@ -86,7 +86,6 @@
     "primary_key": "Install",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -97,7 +96,8 @@
     "source_en": "Installing Update Resources",
     "review_note": "",
     "new_translation_vi": "Đang cài đặt tài nguyên cập nhật",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000142",
@@ -111,7 +111,6 @@
     "primary_key": "InstallTips",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -121,8 +120,9 @@
     "ai_reason": "",
     "source_en": "Please do not close the game during installation",
     "review_note": "",
-    "new_translation_vi": "Vui lòng không đóng trò chơi trong quá trình cài đặt",
-    "translator_note": ""
+    "new_translation_vi": "Vui lòng không đóng game trong quá trình cài đặt",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000143",
@@ -136,7 +136,6 @@
     "primary_key": "CheckIntegrity",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -146,8 +145,9 @@
     "ai_reason": "",
     "source_en": "Verifying files integrity: {0}%",
     "review_note": "",
-    "new_translation_vi": "Đang xác minh tính toàn vẹn tệp: {0}%",
-    "translator_note": ""
+    "new_translation_vi": "Đang xác minh tính toàn vẹn của tệp: {0}%",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000144",
@@ -161,7 +161,6 @@
     "primary_key": "NoNetwork",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -171,8 +170,9 @@
     "ai_reason": "",
     "source_en": "No internet connection. Please check and try again",
     "review_note": "",
-    "new_translation_vi": "Không có kết nối internet. Vui lòng kiểm tra và thử lại.",
-    "translator_note": ""
+    "new_translation_vi": "Không có kết nối internet. Vui lòng kiểm tra lại và thử lại",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000145",
@@ -186,7 +186,6 @@
     "primary_key": "GetUpdateInfoFail",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -196,8 +195,9 @@
     "ai_reason": "",
     "source_en": "Failed to get update details",
     "review_note": "",
-    "new_translation_vi": "Không thể lấy chi tiết cập nhật",
-    "translator_note": ""
+    "new_translation_vi": "Không thể lấy thông tin cập nhật",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000146",
@@ -211,7 +211,6 @@
     "primary_key": "HotFixTipsTitle",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -222,7 +221,8 @@
     "source_en": "Notice",
     "review_note": "",
     "new_translation_vi": "Thông báo",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000147",
@@ -236,7 +236,6 @@
     "primary_key": "HotFixQuit",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -247,7 +246,8 @@
     "source_en": "Exit",
     "review_note": "",
     "new_translation_vi": "Thoát",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000148",
@@ -261,7 +261,6 @@
     "primary_key": "HotFixRetry",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -271,8 +270,9 @@
     "ai_reason": "",
     "source_en": "Retry",
     "review_note": "",
-    "new_translation_vi": "Thử Lại",
-    "translator_note": ""
+    "new_translation_vi": "Thử lại",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000149",
@@ -286,7 +286,6 @@
     "primary_key": "HotFixNewPatch",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -296,8 +295,9 @@
     "ai_reason": "",
     "source_en": "A new update {0} is now available. You're using mobile data for download. Do you wish to proceed?",
     "review_note": "",
-    "new_translation_vi": "Bản cập nhật mới {0} đã có sẵn. Bạn đang sử dụng dữ liệu di động để tải xuống. Bạn có muốn tiếp tục không?",
-    "translator_note": ""
+    "new_translation_vi": "Đã có bản cập nhật {0} mới. Bạn đang sử dụng dữ liệu di động để tải xuống. Bạn có muốn tiếp tục không?",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000150",
@@ -311,7 +311,6 @@
     "primary_key": "HotFixUseNetworkDownload",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -322,7 +321,8 @@
     "source_en": "Use Mobile Data",
     "review_note": "",
     "new_translation_vi": "Sử dụng dữ liệu di động",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000151",
@@ -336,7 +336,6 @@
     "primary_key": "HotFixRestartToCompleteHotFix",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -346,8 +345,9 @@
     "ai_reason": "",
     "source_en": "Patching complete. Please restart the game.",
     "review_note": "",
-    "new_translation_vi": "Đã vá xong. Vui lòng khởi động lại trò chơi.",
-    "translator_note": ""
+    "new_translation_vi": "Đã vá xong. Vui lòng khởi động lại game.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000152",
@@ -361,7 +361,6 @@
     "primary_key": "HotFixRestartToRepairFiles",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -371,8 +370,9 @@
     "ai_reason": "",
     "source_en": "Repair complete. Please restart the game.",
     "review_note": "",
-    "new_translation_vi": "Sửa chữa hoàn tất. Vui lòng khởi động lại trò chơi.",
-    "translator_note": ""
+    "new_translation_vi": "Đã sửa xong. Vui lòng khởi động lại game.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000153",
@@ -386,7 +386,6 @@
     "primary_key": "HotFixWriteStorageTips",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -396,8 +395,9 @@
     "ai_reason": "",
     "source_en": "Please allow storage access in Settings > Application and restart the game to save update resources.",
     "review_note": "",
-    "new_translation_vi": "Vui lòng cho phép truy cập bộ nhớ trong Cài đặt > Ứng dụng và khởi động lại trò chơi để lưu tài nguyên cập nhật.",
-    "translator_note": ""
+    "new_translation_vi": "Vui lòng cấp quyền truy cập bộ nhớ trong Cài đặt > Ứng dụng và khởi động lại game để lưu tài nguyên cập nhật.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000154",
@@ -411,7 +411,6 @@
     "primary_key": "HotFixNotEnoughSpace",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -421,8 +420,9 @@
     "ai_reason": "",
     "source_en": "Insufficient storage space for {0} update resources. Please remove files to free up space and tap on \"Continue\" to proceed with the download.",
     "review_note": "",
-    "new_translation_vi": "Không đủ dung lượng lưu trữ cho tài nguyên cập nhật {0}. Vui lòng xóa bớt tệp để giải phóng không gian và nhấn \"Tiếp tục\" để tiến hành tải xuống.",
-    "translator_note": ""
+    "new_translation_vi": "Không đủ dung lượng lưu trữ cho {0} tài nguyên cập nhật. Vui lòng xóa bớt tệp để giải phóng dung lượng và nhấn \"Tiếp tục\" để tiến hành tải xuống.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000155",
@@ -436,7 +436,6 @@
     "primary_key": "HotFixContinue",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -447,7 +446,8 @@
     "source_en": "Continue",
     "review_note": "",
     "new_translation_vi": "Tiếp tục",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000156",
@@ -461,7 +461,6 @@
     "primary_key": "HotFixCancel",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -472,7 +471,8 @@
     "source_en": "Cancel",
     "review_note": "",
     "new_translation_vi": "Hủy",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000157",
@@ -486,7 +486,6 @@
     "primary_key": "HotFixNetworkChange",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -496,8 +495,9 @@
     "ai_reason": "",
     "source_en": "You've changed your network connection to mobile network. Do you wish to proceed with the download using mobile data?",
     "review_note": "",
-    "new_translation_vi": "Bạn đã chuyển sang kết nối mạng di động. Bạn có muốn tiếp tục tải xuống bằng dữ liệu di động không?",
-    "translator_note": ""
+    "new_translation_vi": "Bạn đã chuyển kết nối mạng sang mạng di động. Bạn có muốn tiếp tục tải xuống bằng dữ liệu di động không?",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000158",
@@ -511,7 +511,6 @@
     "primary_key": "SplashCautionTitle",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -521,8 +520,9 @@
     "ai_reason": "",
     "source_en": "Photosensitive Seizure Warning",
     "review_note": "",
-    "new_translation_vi": "Cảnh Báo Co Giật Do Nhạy Cảm Ánh Sáng",
-    "translator_note": ""
+    "new_translation_vi": "Cảnh báo nhạy cảm với ánh sáng",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000159",
@@ -536,7 +536,6 @@
     "primary_key": "SplashCautionContent",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -546,8 +545,9 @@
     "ai_reason": "",
     "source_en": "When exposed to certain visual stimuli or flashing lights, a very small percentage of people (including those with epilepsy and some undiagnosed individuals) may experience seizures, with symptoms such as dizziness, facial discoloration, eye or face twitching, foaming at the mouth, confusion or loss of consciousness, or uncontrollable muscle spasms. If you, your family, or other household members experience similar symptoms, please consult a doctor before playing the game. If you experience any of the above symptoms while playing, immediately stop playing, seek medical attention as soon as possible, and follow your doctor's advice.",
     "review_note": "",
-    "new_translation_vi": "Khi tiếp xúc với một số kích thích hình ảnh hoặc ánh sáng nhấp nháy, một tỷ lệ rất nhỏ người chơi (bao gồm cả những người bị động kinh và một số trường hợp chưa được chẩn đoán) có thể bị co giật, với các triệu chứng như chóng mặt, mặt tái nhợt, co giật mắt hoặc mặt, sùi bọt mép, mất phương hướng hoặc bất tỉnh, hoặc co thắt cơ không kiểm soát. Nếu bạn, gia đình hoặc người thân có các triệu chứng tương tự, vui lòng tham khảo ý kiến bác sĩ trước khi chơi game. Nếu bạn gặp bất kỳ triệu chứng nào kể trên trong khi chơi, hãy dừng chơi ngay lập tức, tìm kiếm sự trợ giúp y tế càng sớm càng tốt và làm theo lời khuyên của bác sĩ.",
-    "translator_note": ""
+    "new_translation_vi": "Khi tiếp xúc với một số kích thích thị giác hoặc ánh sáng nhấp nháy, một tỷ lệ rất nhỏ người dùng (bao gồm cả những người bị động kinh và một số cá nhân chưa được chẩn đoán) có thể bị co giật, với các triệu chứng như chóng mặt, đổi màu da mặt, co giật mắt hoặc mặt, sùi bọt mép, lú lẫn hoặc mất ý thức, hoặc co thắt cơ không kiểm soát. Nếu bạn, gia đình hoặc các thành viên khác trong gia đình có các triệu chứng tương tự, vui lòng tham khảo ý kiến bác sĩ trước khi chơi game. Nếu bạn gặp bất kỳ triệu chứng nào nêu trên trong khi chơi, hãy dừng chơi ngay lập tức, tìm kiếm sự chăm sóc y tế sớm nhất có thể và làm theo lời khuyên của bác sĩ.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000160",
@@ -561,7 +561,6 @@
     "primary_key": "SplashLoading",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -571,8 +570,9 @@
     "ai_reason": "",
     "source_en": "Game loading...",
     "review_note": "",
-    "new_translation_vi": "Đang tải trò chơi...",
-    "translator_note": ""
+    "new_translation_vi": "Đang tải game...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000161",
@@ -586,7 +586,6 @@
     "primary_key": "SplashHealthyGamingAdvisory",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -596,8 +595,9 @@
     "ai_reason": "",
     "source_en": "Say no to inappropriate game content or pirated games.\nKeep your personal information private to avoid scams.\nPlay responsibly for a safe and fun gaming experience.\nArrange your time reasonably for a healthy lifestyle.",
     "review_note": "",
-    "new_translation_vi": "Nói không với nội dung game không phù hợp hoặc game lậu.\nBảo vệ thông tin cá nhân để tránh lừa đảo.\nChơi game có trách nhiệm để có trải nghiệm an toàn và vui vẻ.\nSắp xếp thời gian hợp lý để duy trì lối sống lành mạnh.",
-    "translator_note": ""
+    "new_translation_vi": "Nói không với nội dung game không phù hợp hoặc game lậu.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000162",
@@ -611,7 +611,6 @@
     "primary_key": "SplashCopyrightInformation",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -621,8 +620,9 @@
     "ai_reason": "",
     "source_en": "License & ISBN: 国新出审〔2023〕1802号 ISBN 978-7-498-12761-7 Publisher: 成都盈众九州网络科技有限公司 Copyright: 广州库洛科技有限公司",
     "review_note": "",
-    "new_translation_vi": "Giấy phép & ISBN: Quốc Tân Xuất Thẩm [2023] 1802号 ISBN 978-7-498-12761-7 Nhà xuất bản: Thành Đô Doanh Chúng Cửu Châu Mạng Lưới Khoa Học Kỹ Thuật Hữu Hạn Công Ty Bản quyền: Quảng Châu Khố Lạc Khoa Học Kỹ Thuật Hữu Hạn Công Ty",
-    "translator_note": ""
+    "new_translation_vi": "Giấy phép & ISBN: 国新出审〔2023〕1802号 ISBN 978-7-498-12761-7 Nhà phát hành: 成都盈众九州网络科技有限公司 Bản quyền: 广州库洛科技有限公司",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000163",
@@ -636,7 +636,6 @@
     "primary_key": "GetRemoteConfigFailed",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -646,8 +645,9 @@
     "ai_reason": "",
     "source_en": "Failed to apply Remote Configuration. Please check your network connection and restart the game client.",
     "review_note": "",
-    "new_translation_vi": "Không thể áp dụng Cấu Hình Từ Xa. Vui lòng kiểm tra kết nối mạng và khởi động lại trò chơi.",
-    "translator_note": ""
+    "new_translation_vi": "Không thể áp dụng Cấu hình từ xa. Vui lòng kiểm tra kết nối mạng và khởi động lại game.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000164",
@@ -661,7 +661,6 @@
     "primary_key": "StartHotFix",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -671,8 +670,9 @@
     "ai_reason": "",
     "source_en": "Initializing Hotfix...",
     "review_note": "",
-    "new_translation_vi": "Đang khởi tạo bản sửa lỗi nhanh...",
-    "translator_note": ""
+    "new_translation_vi": "Đang khởi tạo Hotfix...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000165",
@@ -686,7 +686,6 @@
     "primary_key": "GetRemoteVersion",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -696,8 +695,9 @@
     "ai_reason": "",
     "source_en": "Applying Remote Configuration...",
     "review_note": "",
-    "new_translation_vi": "Áp dụng cấu hình từ xa...",
-    "translator_note": ""
+    "new_translation_vi": "Đang áp dụng Cấu hình từ xa...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000166",
@@ -711,7 +711,6 @@
     "primary_key": "GetRemoteVersionFailed",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -721,8 +720,9 @@
     "ai_reason": "",
     "source_en": "Failed to apply Remote Configuration",
     "review_note": "",
-    "new_translation_vi": "Không thể áp dụng Cấu Hình Từ Xa",
-    "translator_note": ""
+    "new_translation_vi": "Không thể áp dụng Cấu hình từ xa",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000167",
@@ -736,7 +736,6 @@
     "primary_key": "CheckAppUpdate",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -747,7 +746,8 @@
     "source_en": "Checking for app updates...",
     "review_note": "",
     "new_translation_vi": "Đang kiểm tra cập nhật ứng dụng...",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000168",
@@ -761,7 +761,6 @@
     "primary_key": "CheckResourceVersion",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -772,7 +771,8 @@
     "source_en": "Checking {0} version...",
     "review_note": "",
     "new_translation_vi": "Đang kiểm tra phiên bản {0}...",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000169",
@@ -786,7 +786,6 @@
     "primary_key": "ResolveIndexFile",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -797,7 +796,8 @@
     "source_en": "Analyzing patch resources...",
     "review_note": "",
     "new_translation_vi": "Đang phân tích tài nguyên bản vá...",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000170",
@@ -811,7 +811,6 @@
     "primary_key": "MountPak",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -822,7 +821,8 @@
     "source_en": "Applying resource patches...",
     "review_note": "",
     "new_translation_vi": "Đang áp dụng bản vá tài nguyên...",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000171",
@@ -836,7 +836,6 @@
     "primary_key": "CompleteHotFix",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -846,8 +845,9 @@
     "ai_reason": "",
     "source_en": "Patching Complete",
     "review_note": "",
-    "new_translation_vi": "Đã vá xong",
-    "translator_note": ""
+    "new_translation_vi": "Hoàn tất vá lỗi",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000172",
@@ -861,7 +861,6 @@
     "primary_key": "DownloadIndexFileFailed",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -872,7 +871,8 @@
     "source_en": "Failed to get patch list: {0}",
     "review_note": "",
     "new_translation_vi": "Không thể lấy danh sách bản vá: {0}",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000173",
@@ -886,7 +886,6 @@
     "primary_key": "DownloadResourcePatchFailed",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -897,7 +896,8 @@
     "source_en": "Failed to download patch resources: {0}",
     "review_note": "",
     "new_translation_vi": "Không thể tải xuống tài nguyên bản vá: {0}",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000174",
@@ -911,7 +911,6 @@
     "primary_key": "EvaluateDownloadResourcePatchFailed",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -922,7 +921,8 @@
     "source_en": "Failed to download patch resources: {0}",
     "review_note": "",
     "new_translation_vi": "Không thể tải xuống tài nguyên bản vá: {0}",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000175",
@@ -936,7 +936,6 @@
     "primary_key": "GetResourceInfoFailed",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -947,7 +946,8 @@
     "source_en": "Failed to load patch type",
     "review_note": "",
     "new_translation_vi": "Không thể tải loại bản vá",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000176",
@@ -961,7 +961,6 @@
     "primary_key": "ResolveIndexFileFailed",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -971,8 +970,9 @@
     "ai_reason": "",
     "source_en": "Failed to analyze patch list. Please restart the game client and try again or contact customer service.",
     "review_note": "",
-    "new_translation_vi": "Không thể phân tích danh sách bản vá. Vui lòng khởi động lại trò chơi và thử lại hoặc liên hệ bộ phận hỗ trợ khách hàng.",
-    "translator_note": ""
+    "new_translation_vi": "Không thể phân tích danh sách bản vá. Vui lòng khởi động lại game hoặc liên hệ với bộ phận chăm sóc khách hàng.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000177",
@@ -986,7 +986,6 @@
     "primary_key": "ValidateResourceFailed",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -996,8 +995,9 @@
     "ai_reason": "",
     "source_en": "Failed to verify file integrity. Please restart the game client and try again or contact customer service.",
     "review_note": "",
-    "new_translation_vi": "Không thể xác minh tính toàn vẹn của tệp. Vui lòng khởi động lại trò chơi và thử lại hoặc liên hệ bộ phận hỗ trợ khách hàng.",
-    "translator_note": ""
+    "new_translation_vi": "Không thể xác minh tính toàn vẹn của tệp. Vui lòng khởi động lại game hoặc liên hệ với bộ phận chăm sóc khách hàng.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000178",
@@ -1011,7 +1011,6 @@
     "primary_key": "DownloadStateNone",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1022,7 +1021,8 @@
     "source_en": "Unknown Error",
     "review_note": "",
     "new_translation_vi": "Lỗi không xác định",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000179",
@@ -1036,7 +1036,6 @@
     "primary_key": "DownloadStateHttpError",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1046,8 +1045,9 @@
     "ai_reason": "",
     "source_en": "Network Error",
     "review_note": "",
-    "new_translation_vi": "Lỗi Mạng",
-    "translator_note": ""
+    "new_translation_vi": "Lỗi mạng",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000180",
@@ -1061,7 +1061,6 @@
     "primary_key": "DownloadStateFileRenameError",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1071,8 +1070,9 @@
     "ai_reason": "",
     "source_en": "File Rename Error",
     "review_note": "",
-    "new_translation_vi": "Lỗi Đổi Tên Tệp",
-    "translator_note": ""
+    "new_translation_vi": "Lỗi đổi tên tệp",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000181",
@@ -1086,7 +1086,6 @@
     "primary_key": "DownloadStateValidateError",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1096,8 +1095,9 @@
     "ai_reason": "",
     "source_en": "Integrity verification failed",
     "review_note": "",
-    "new_translation_vi": "Xác minh toàn vẹn thất bại",
-    "translator_note": ""
+    "new_translation_vi": "Xác minh tính toàn vẹn thất bại",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000182",
@@ -1111,7 +1111,6 @@
     "primary_key": "DownloadStateOpenToWriteError",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1121,8 +1120,9 @@
     "ai_reason": "",
     "source_en": "Failed to store files",
     "review_note": "",
-    "new_translation_vi": "Lưu tệp thất bại",
-    "translator_note": ""
+    "new_translation_vi": "Không thể lưu tệp",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000183",
@@ -1136,7 +1136,6 @@
     "primary_key": "DownloadStateNotEnoughSpace",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1147,7 +1146,8 @@
     "source_en": "Insufficient Storage Space",
     "review_note": "",
     "new_translation_vi": "Không đủ dung lượng lưu trữ",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000184",
@@ -1161,7 +1161,6 @@
     "primary_key": "DownloadStateDownloadCanceled",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1171,8 +1170,9 @@
     "ai_reason": "",
     "source_en": "Download Canceled",
     "review_note": "",
-    "new_translation_vi": "Đã Hủy Tải Xuống",
-    "translator_note": ""
+    "new_translation_vi": "Đã hủy tải xuống",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000185",
@@ -1186,7 +1186,6 @@
     "primary_key": "DownloadStateSuccess",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1197,7 +1196,8 @@
     "source_en": "Download Success",
     "review_note": "",
     "new_translation_vi": "Tải xuống thành công",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000186",
@@ -1211,7 +1211,6 @@
     "primary_key": "CompilingShader",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1222,7 +1221,8 @@
     "source_en": "Compiling Shader: {0}",
     "review_note": "",
     "new_translation_vi": "Đang biên dịch Shader: {0}",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000187",
@@ -1236,7 +1236,6 @@
     "primary_key": "GetRemotePackageConfigFail",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1246,8 +1245,9 @@
     "ai_reason": "",
     "source_en": "Failed to apply Remote Configuration. Please check your network connection and restart the game client.",
     "review_note": "",
-    "new_translation_vi": "Không thể áp dụng Cấu Hình Từ Xa. Vui lòng kiểm tra kết nối mạng và khởi động lại trò chơi.",
-    "translator_note": ""
+    "new_translation_vi": "Không thể áp dụng Cấu hình từ xa. Vui lòng kiểm tra kết nối mạng và khởi động lại game.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000188",
@@ -1261,7 +1261,6 @@
     "primary_key": "NewVersionDetailDesc",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1272,7 +1271,8 @@
     "source_en": "Update Details",
     "review_note": "",
     "new_translation_vi": "Chi tiết cập nhật",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000189",
@@ -1286,7 +1286,6 @@
     "primary_key": "NewVersionDetailDownloadGetReward",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1296,8 +1295,9 @@
     "ai_reason": "",
     "source_en": "A new update is now available. Please download and install it. Log in afterward to claim your rewards: <color=#c49e55ff>300 Astrites and 2 Crystal Solvents</color>.",
     "review_note": "",
-    "new_translation_vi": "Đã có bản cập nhật mới. Vui lòng tải xuống và cài đặt. Đăng nhập sau đó để nhận phần thưởng: <color=#c49e55ff>300 Astrites và 2 Crystal Solvents</color>.",
-    "translator_note": ""
+    "new_translation_vi": "Đã có bản cập nhật mới. Vui lòng tải xuống và cài đặt. Sau đó đăng nhập để nhận phần thưởng: <color=#c49e55ff>300 Astrite và 2 Crystal Solvent</color>.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000190",
@@ -1311,7 +1311,6 @@
     "primary_key": "ConfirmText",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1322,7 +1321,8 @@
     "source_en": "Confirm",
     "review_note": "",
     "new_translation_vi": "Xác nhận",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000191",
@@ -1336,7 +1336,6 @@
     "primary_key": "FirstDownloadTip",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1346,8 +1345,9 @@
     "ai_reason": "",
     "source_en": "{0} resources will be downloaded for the update. Continue?",
     "review_note": "",
-    "new_translation_vi": "Sẽ tải xuống {0} tài nguyên để cập nhật. Tiếp tục?",
-    "translator_note": ""
+    "new_translation_vi": "{0} tài nguyên sẽ được tải xuống cho bản cập nhật. Tiếp tục chứ?",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000192",
@@ -1361,7 +1361,6 @@
     "primary_key": "DownloadTitle",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1371,8 +1370,9 @@
     "ai_reason": "",
     "source_en": "Download Resources",
     "review_note": "",
-    "new_translation_vi": "Tải Xuống Tài Nguyên",
-    "translator_note": ""
+    "new_translation_vi": "Tải xuống tài nguyên",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000193",
@@ -1386,7 +1386,6 @@
     "primary_key": "PatchDownload",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1396,8 +1395,9 @@
     "ai_reason": "",
     "source_en": "Downloading: {0}/{1}",
     "review_note": "",
-    "new_translation_vi": "Đang tải: {0}/{1}",
-    "translator_note": ""
+    "new_translation_vi": "Đang tải xuống: {0}/{1}",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000194",
@@ -1411,18 +1411,18 @@
     "primary_key": "PatchDownID",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "{0}",
     "review_note": "",
     "new_translation_vi": "{0}",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "SYSTEM_TEXT_0000195",
@@ -1436,7 +1436,6 @@
     "primary_key": "PatchDownSpeed",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1446,8 +1445,9 @@
     "ai_reason": "",
     "source_en": "Download Speed: {0}",
     "review_note": "",
-    "new_translation_vi": "Tốc Độ Tải: {0}",
-    "translator_note": ""
+    "new_translation_vi": "Tốc độ tải xuống: {0}",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000196",
@@ -1461,7 +1461,6 @@
     "primary_key": "MobileDriverOutOfVersion",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1471,8 +1470,9 @@
     "ai_reason": "",
     "source_en": "Your phone driver version is outdated (GL driver version < 378). This may cause game crashes during your play. To ensure a smooth gaming experience, you're recommended to update system version or GL driver.",
     "review_note": "",
-    "new_translation_vi": "Phiên bản trình điều khiển đồ họa trên điện thoại của bạn đã lỗi thời (phiên bản GL < 378). Điều này có thể khiến trò chơi bị treo trong quá trình chơi. Để đảm bảo trải nghiệm mượt mà, bạn nên cập nhật phiên bản hệ thống hoặc trình điều khiển GL.",
-    "translator_note": ""
+    "new_translation_vi": "Phiên bản driver điện thoại của bạn đã lỗi thời (phiên bản GL driver < 378). Điều này có thể khiến game bị treo trong khi chơi. Để đảm bảo trải nghiệm mượt mà, bạn nên cập nhật phiên bản hệ thống hoặc GL driver.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000197",
@@ -1486,7 +1486,6 @@
     "primary_key": "DownloadContinue",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1497,7 +1496,8 @@
     "source_en": "Tap on the blank area to continue",
     "review_note": "",
     "new_translation_vi": "Chạm vào vùng trống để tiếp tục",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000198",
@@ -1511,7 +1511,6 @@
     "primary_key": "PatchClear",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1521,8 +1520,9 @@
     "ai_reason": "",
     "source_en": "Local patch resources will be cleared and re-downloaded. Do you wish to proceed?",
     "review_note": "",
-    "new_translation_vi": "Tài nguyên bản vá cục bộ sẽ bị xóa và tải lại. Bạn có muốn tiếp tục?",
-    "translator_note": ""
+    "new_translation_vi": "Tài nguyên bản vá cục bộ sẽ bị xóa và tải xuống lại. Bạn có muốn tiếp tục không?",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000199",
@@ -1536,7 +1536,6 @@
     "primary_key": "PatchClearTitle",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1546,8 +1545,9 @@
     "ai_reason": "",
     "source_en": "Clear Patch",
     "review_note": "",
-    "new_translation_vi": "Mảnh Thanh Tẩy",
-    "translator_note": ""
+    "new_translation_vi": "Xóa bản vá",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000200",
@@ -1561,7 +1561,6 @@
     "primary_key": "PatchClearbutton",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1571,8 +1570,9 @@
     "ai_reason": "",
     "source_en": "Repair",
     "review_note": "",
-    "new_translation_vi": "Sửa chữa",
-    "translator_note": ""
+    "new_translation_vi": "Sửa lỗi",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000201",
@@ -1586,7 +1586,6 @@
     "primary_key": "MobileChipOutOfVersion",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1596,8 +1595,9 @@
     "ai_reason": "",
     "source_en": "Your device is using an older version processor. You are very likely to encounter client crashing. Please consider switching to a different device for your gaming experience.",
     "review_note": "",
-    "new_translation_vi": "Thiết bị của bạn đang sử dụng bộ xử lý phiên bản cũ. Rất có thể trò chơi sẽ bị treo. Hãy cân nhắc đổi sang thiết bị khác để có trải nghiệm tốt hơn.",
-    "translator_note": ""
+    "new_translation_vi": "Thiết bị của bạn đang sử dụng bộ vi xử lý phiên bản cũ. Bạn rất có thể sẽ gặp tình trạng treo game. Vui lòng cân nhắc chuyển sang thiết bị khác để có trải nghiệm chơi game tốt hơn.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000202",
@@ -1611,7 +1611,6 @@
     "primary_key": "UserProtocol",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1621,8 +1620,9 @@
     "ai_reason": "",
     "source_en": "Terms of Use",
     "review_note": "",
-    "new_translation_vi": "Điều Khoản Sử Dụng",
-    "translator_note": ""
+    "new_translation_vi": "Điều khoản sử dụng",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000203",
@@ -1636,7 +1636,6 @@
     "primary_key": "PrivacyPolicy",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1646,8 +1645,9 @@
     "ai_reason": "",
     "source_en": "Privacy Policy",
     "review_note": "",
-    "new_translation_vi": "Chính Sách Bảo Mật",
-    "translator_note": ""
+    "new_translation_vi": "Privacy Policy",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "SYSTEM_TEXT_0000204",
@@ -1661,7 +1661,6 @@
     "primary_key": "ChildProtocol",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1671,8 +1670,9 @@
     "ai_reason": "",
     "source_en": "Children's Privacy Policy",
     "review_note": "",
-    "new_translation_vi": "Chính Sách Bảo Mật Dành Cho Trẻ Em",
-    "translator_note": ""
+    "new_translation_vi": "Children's Privacy Policy",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "SYSTEM_TEXT_0000205",
@@ -1686,7 +1686,6 @@
     "primary_key": "SdkProtocolDesc",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1696,8 +1695,9 @@
     "ai_reason": "",
     "source_en": "To ensure your gaming experience, you're about to link your account for PlayStation™Network with your Kuro Games account.\nYou may unlink your account via our official website or customer service.",
     "review_note": "",
-    "new_translation_vi": "Để đảm bảo trải nghiệm chơi game của bạn, bạn sắp liên kết tài khoản PlayStation™Network với tài khoản Kuro Games.\nBạn có thể hủy liên kết tài khoản thông qua trang web chính thức hoặc dịch vụ chăm sóc khách hàng của chúng tôi.",
-    "translator_note": ""
+    "new_translation_vi": "Để đảm bảo trải nghiệm chơi game, bạn sắp liên kết tài khoản PlayStation™Network với tài khoản Kuro Games của mình.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000206",
@@ -1711,7 +1711,6 @@
     "primary_key": "SdkProtocolTitle",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1721,8 +1720,9 @@
     "ai_reason": "",
     "source_en": "Notice on Terms of Use and Privacy Policy",
     "review_note": "",
-    "new_translation_vi": "Thông báo về Điều khoản Sử dụng và Chính sách Bảo mật",
-    "translator_note": ""
+    "new_translation_vi": "Thông báo về Điều khoản sử dụng và Privacy Policy",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000207",
@@ -1736,7 +1736,6 @@
     "primary_key": "SdkProtocolConfirm",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1747,7 +1746,8 @@
     "source_en": "Yes",
     "review_note": "",
     "new_translation_vi": "Có",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000208",
@@ -1761,7 +1761,6 @@
     "primary_key": "SdkProtocolRefuse",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1772,7 +1771,8 @@
     "source_en": "No",
     "review_note": "",
     "new_translation_vi": "Không",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000209",
@@ -1786,7 +1786,6 @@
     "primary_key": "EquipmentDriveOutOfVersion",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1796,8 +1795,9 @@
     "ai_reason": "",
     "source_en": "Your device's driver is outdated, which may cause frequent game crashes. For a better experience, please consider upgrading your device.",
     "review_note": "",
-    "new_translation_vi": "Trình điều khiển thiết bị của bạn đã lỗi thời, có thể gây ra tình trạng trò chơi bị treo thường xuyên. Để có trải nghiệm tốt hơn, hãy cân nhắc nâng cấp thiết bị.",
-    "translator_note": ""
+    "new_translation_vi": "Driver thiết bị của bạn đã lỗi thời, điều này có thể gây ra tình trạng treo game thường xuyên. Để có trải nghiệm tốt hơn, vui lòng cân nhắc nâng cấp thiết bị.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000210",
@@ -1811,7 +1811,6 @@
     "primary_key": "SdkInitializeFail",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1821,8 +1820,9 @@
     "ai_reason": "",
     "source_en": "Failed to start the game. Please check the status of your PlayStation™ Network account.",
     "review_note": "",
-    "new_translation_vi": "Không thể khởi động trò chơi. Vui lòng kiểm tra trạng thái tài khoản PlayStation™ Network của bạn.",
-    "translator_note": ""
+    "new_translation_vi": "Không thể khởi động game. Vui lòng kiểm tra trạng thái tài khoản PlayStation™ Network của bạn.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000211",
@@ -1836,7 +1836,6 @@
     "primary_key": "NewVersionDownloadTips",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1846,8 +1845,9 @@
     "ai_reason": "",
     "source_en": "A game update is available. Please exit the game to apply the update.",
     "review_note": "",
-    "new_translation_vi": "Bản cập nhật trò chơi đã có sẵn. Vui lòng thoát game để tiến hành cập nhật.",
-    "translator_note": ""
+    "new_translation_vi": "Đã có bản cập nhật game. Vui lòng thoát game để áp dụng cập nhật.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000212",
@@ -1861,7 +1861,6 @@
     "primary_key": "NetworkDetection_Title",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1871,8 +1870,9 @@
     "ai_reason": "",
     "source_en": "Network Test",
     "review_note": "",
-    "new_translation_vi": "Kiểm Tra Mạng",
-    "translator_note": ""
+    "new_translation_vi": "Kiểm tra mạng",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000213",
@@ -1886,7 +1886,6 @@
     "primary_key": "NetworkDetection_Proxy",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1896,8 +1895,9 @@
     "ai_reason": "",
     "source_en": "Proxy Test",
     "review_note": "",
-    "new_translation_vi": "Bài Kiểm Tra Ủy Quyền",
-    "translator_note": ""
+    "new_translation_vi": "Proxy Test",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "SYSTEM_TEXT_0000214",
@@ -1911,7 +1911,6 @@
     "primary_key": "NetworkDetection_Domain",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1921,8 +1920,9 @@
     "ai_reason": "",
     "source_en": "DNS Resolution",
     "review_note": "",
-    "new_translation_vi": "Phân Giải DNS",
-    "translator_note": ""
+    "new_translation_vi": "Phân giải DNS",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000215",
@@ -1936,7 +1936,6 @@
     "primary_key": "NetworkDetection_Ping",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1946,8 +1945,9 @@
     "ai_reason": "",
     "source_en": "Ping Test",
     "review_note": "",
-    "new_translation_vi": "Kiểm Tra Ping",
-    "translator_note": ""
+    "new_translation_vi": "Ping Test",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "SYSTEM_TEXT_0000216",
@@ -1961,7 +1961,6 @@
     "primary_key": "NetworkDetection_Http",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1971,8 +1970,9 @@
     "ai_reason": "",
     "source_en": "Web Access Test",
     "review_note": "",
-    "new_translation_vi": "Kiểm Tra Truy Cập Mạng",
-    "translator_note": ""
+    "new_translation_vi": "Web Access Test",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "SYSTEM_TEXT_0000217",
@@ -1986,7 +1986,6 @@
     "primary_key": "NetworkDetection_Udp",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1996,8 +1995,9 @@
     "ai_reason": "",
     "source_en": "UDP Connectivity Test",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra kết nối UDP",
-    "translator_note": ""
+    "new_translation_vi": "UDP Connectivity Test",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "SYSTEM_TEXT_0000218",
@@ -2011,7 +2011,6 @@
     "primary_key": "NetworkDetection_Start",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2021,8 +2020,9 @@
     "ai_reason": "",
     "source_en": "Start Test",
     "review_note": "",
-    "new_translation_vi": "Bắt Đầu Kiểm Tra",
-    "translator_note": ""
+    "new_translation_vi": "Start Test",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "SYSTEM_TEXT_0000219",
@@ -2036,7 +2036,6 @@
     "primary_key": "NetworkDetection_Ing",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2046,8 +2045,9 @@
     "ai_reason": "",
     "source_en": "Testing…",
     "review_note": "",
-    "new_translation_vi": "Đang kiểm tra…",
-    "translator_note": ""
+    "new_translation_vi": "Testing…",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "SYSTEM_TEXT_0000220",
@@ -2061,7 +2061,6 @@
     "primary_key": "NetworkDetection_Submit",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2072,7 +2071,8 @@
     "source_en": "Submit data and contact customer service",
     "review_note": "",
     "new_translation_vi": "Gửi dữ liệu và liên hệ bộ phận chăm sóc khách hàng",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000221",
@@ -2086,7 +2086,6 @@
     "primary_key": "NetworkDetection_tips",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2096,8 +2095,9 @@
     "ai_reason": "",
     "source_en": "Network test in progress. Tapping again will stop the test and exit this page.",
     "review_note": "",
-    "new_translation_vi": "Đang kiểm tra mạng. Nhấn lại để dừng kiểm tra và thoát khỏi trang này.",
-    "translator_note": ""
+    "new_translation_vi": "Đang kiểm tra mạng. Chạm lần nữa sẽ dừng kiểm tra và thoát trang này.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000222",
@@ -2111,7 +2111,6 @@
     "primary_key": "NetworkDetection_Proxy_Wrong",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2122,7 +2121,8 @@
     "source_en": "Proxy connection error. Please verify your proxy settings.",
     "review_note": "",
     "new_translation_vi": "Lỗi kết nối proxy. Vui lòng kiểm tra cài đặt proxy của bạn.",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000223",
@@ -2136,7 +2136,6 @@
     "primary_key": "NetworkDetection_Domain_Wrong",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2147,7 +2146,8 @@
     "source_en": "DNS resolution error. Error code:",
     "review_note": "",
     "new_translation_vi": "Lỗi phân giải DNS. Mã lỗi:",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000224",
@@ -2161,7 +2161,6 @@
     "primary_key": "NetworkDetection_Ping_Wrong",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2171,8 +2170,9 @@
     "ai_reason": "",
     "source_en": "Ping Results:",
     "review_note": "",
-    "new_translation_vi": "Kết Quả Ping:",
-    "translator_note": ""
+    "new_translation_vi": "Ping Results:",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "SYSTEM_TEXT_0000225",
@@ -2186,7 +2186,6 @@
     "primary_key": "NetworkDetection_Http_Wrong",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2196,8 +2195,9 @@
     "ai_reason": "",
     "source_en": "Web access error. Error code:",
     "review_note": "",
-    "new_translation_vi": "Lỗi truy cập mạng. Mã lỗi:",
-    "translator_note": ""
+    "new_translation_vi": "Lỗi truy cập web. Mã lỗi:",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000226",
@@ -2211,7 +2211,6 @@
     "primary_key": "NetworkDetection_Udp_Wrong",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2222,7 +2221,8 @@
     "source_en": "UDP port connection error. Error code:",
     "review_note": "",
     "new_translation_vi": "Lỗi kết nối cổng UDP. Mã lỗi:",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000227",
@@ -2236,7 +2236,6 @@
     "primary_key": "NetworkDetection_Start_Tips",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2246,8 +2245,9 @@
     "ai_reason": "",
     "source_en": "Tap the button to begin network test.",
     "review_note": "",
-    "new_translation_vi": "Nhấn nút để bắt đầu kiểm tra mạng.",
-    "translator_note": ""
+    "new_translation_vi": "Chạm vào nút để bắt đầu kiểm tra mạng.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000228",
@@ -2261,7 +2261,6 @@
     "primary_key": "NetworkDetection_Trace_Id",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2271,8 +2270,9 @@
     "ai_reason": "",
     "source_en": "Trace ID:",
     "review_note": "",
-    "new_translation_vi": "ID Theo Dõi:",
-    "translator_note": ""
+    "new_translation_vi": "Trace ID:",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "SYSTEM_TEXT_0000229",
@@ -2286,7 +2286,6 @@
     "primary_key": "NetworkDetection_Submiting",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2297,7 +2296,8 @@
     "source_en": "Test results copied. Submitting error report…",
     "review_note": "",
     "new_translation_vi": "Đã sao chép kết quả kiểm tra. Đang gửi báo cáo lỗi…",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000230",
@@ -2311,7 +2311,6 @@
     "primary_key": "NetworkDetection_Select",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2321,8 +2320,9 @@
     "ai_reason": "",
     "source_en": "Select Server",
     "review_note": "",
-    "new_translation_vi": "Chọn Máy Chủ",
-    "translator_note": ""
+    "new_translation_vi": "Chọn máy chủ",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000231",
@@ -2336,7 +2336,6 @@
     "primary_key": "NetworkDetection_Cancel",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2347,7 +2346,8 @@
     "source_en": "Cancel",
     "review_note": "",
     "new_translation_vi": "Hủy",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000232",
@@ -2361,7 +2361,6 @@
     "primary_key": "BinPatchFailed",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2372,7 +2371,8 @@
     "source_en": "Binary patch installation failed. Reason: {0}",
     "review_note": "",
     "new_translation_vi": "Cài đặt bản vá nhị phân thất bại. Lý do: {0}",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000233",
@@ -2386,7 +2386,6 @@
     "primary_key": "BinPatchProgress",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2396,8 +2395,9 @@
     "ai_reason": "",
     "source_en": "Patching progress {0}%",
     "review_note": "",
-    "new_translation_vi": "Tiến trình vá: {0}%",
-    "translator_note": ""
+    "new_translation_vi": "Tiến trình vá {0}%",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000234",
@@ -2411,7 +2411,6 @@
     "primary_key": "MoveFilesFailed",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2422,7 +2421,8 @@
     "source_en": "Failed to move file.",
     "review_note": "",
     "new_translation_vi": "Không thể di chuyển tệp.",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000235",
@@ -2436,7 +2436,6 @@
     "primary_key": "NetworkDetection_Error",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2447,7 +2446,8 @@
     "source_en": "Network configuration initialization failed. Please try again later.",
     "review_note": "",
     "new_translation_vi": "Khởi tạo cấu hình mạng thất bại. Vui lòng thử lại sau.",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000236",
@@ -2461,7 +2461,6 @@
     "primary_key": "NetworkDetection_Hotfix_Submit",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2471,8 +2470,9 @@
     "ai_reason": "",
     "source_en": "Upload Data",
     "review_note": "",
-    "new_translation_vi": "Tải dữ liệu lên",
-    "translator_note": ""
+    "new_translation_vi": "Upload Data",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "SYSTEM_TEXT_0000237",
@@ -2486,7 +2486,6 @@
     "primary_key": "Ps5_Cilck_Continue",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2497,7 +2496,8 @@
     "source_en": "Press {0} to continue",
     "review_note": "",
     "new_translation_vi": "Nhấn {0} để tiếp tục",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000238",
@@ -2511,7 +2511,6 @@
     "primary_key": "Notice_Btn_Text",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2522,7 +2521,8 @@
     "source_en": "Notice",
     "review_note": "",
     "new_translation_vi": "Thông báo",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000239",
@@ -2536,7 +2536,6 @@
     "primary_key": "DownLoadText_LeftSpace",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2547,7 +2546,8 @@
     "source_en": "Storage space available: {0}",
     "review_note": "",
     "new_translation_vi": "Dung lượng lưu trữ khả dụng: {0}",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000240",
@@ -2561,7 +2561,6 @@
     "primary_key": "DownLoadText_NeedSpace",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2571,8 +2570,9 @@
     "ai_reason": "",
     "source_en": "Storage space required: {0}",
     "review_note": "",
-    "new_translation_vi": "Dung lượng lưu trữ cần thiết: {0}",
-    "translator_note": ""
+    "new_translation_vi": "Dung lượng lưu trữ yêu cầu: {0}",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000241",
@@ -2586,7 +2586,6 @@
     "primary_key": "Download_SimpleBagTag",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2596,8 +2595,9 @@
     "ai_reason": "",
     "source_en": "Download Basic Resources",
     "review_note": "",
-    "new_translation_vi": "Tải Xuống Tài Nguyên Cơ Bản",
-    "translator_note": ""
+    "new_translation_vi": "Tải xuống tài nguyên cơ bản",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000242",
@@ -2611,7 +2611,6 @@
     "primary_key": "Download_SimpleBagTitle",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2621,8 +2620,9 @@
     "ai_reason": "",
     "source_en": "Basic Resources",
     "review_note": "",
-    "new_translation_vi": "Tài Nguyên Cơ Bản",
-    "translator_note": ""
+    "new_translation_vi": "Tài nguyên cơ bản",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000243",
@@ -2636,7 +2636,6 @@
     "primary_key": "Download_SimpleBagDesc",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2646,8 +2645,9 @@
     "ai_reason": "",
     "source_en": "Basic Resources include only resources to be installed to start the game. The remaining resources may be downloaded in the background as you play in the game.",
     "review_note": "",
-    "new_translation_vi": "Tài Nguyên Cơ Bản chỉ bao gồm các tài nguyên cần thiết để khởi động trò chơi. Các tài nguyên còn lại có thể được tải nền trong khi bạn chơi.",
-    "translator_note": ""
+    "new_translation_vi": "Tài nguyên cơ bản chỉ bao gồm các tài nguyên cần thiết để khởi động game. Các tài nguyên còn lại có thể được tải xuống trong nền khi bạn đang chơi.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000244",
@@ -2661,7 +2661,6 @@
     "primary_key": "Download_FullBagTag",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2671,8 +2670,9 @@
     "ai_reason": "",
     "source_en": "Download Full Resources",
     "review_note": "",
-    "new_translation_vi": "Tải Xuống Toàn Bộ Tài Nguyên",
-    "translator_note": ""
+    "new_translation_vi": "Tải xuống đầy đủ tài nguyên",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000245",
@@ -2686,7 +2686,6 @@
     "primary_key": "Download_FullBagTitle",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2696,8 +2695,9 @@
     "ai_reason": "",
     "source_en": "Full Resources",
     "review_note": "",
-    "new_translation_vi": "Tài Nguyên Đầy Đủ",
-    "translator_note": ""
+    "new_translation_vi": "Tài nguyên đầy đủ",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000246",
@@ -2711,7 +2711,6 @@
     "primary_key": "Download_FullBagDesc",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2721,8 +2720,9 @@
     "ai_reason": "",
     "source_en": "Download all game resources to experience the game in full.",
     "review_note": "",
-    "new_translation_vi": "Tải tất cả tài nguyên trò chơi để trải nghiệm đầy đủ.",
-    "translator_note": ""
+    "new_translation_vi": "Tải xuống tất cả tài nguyên game để trải nghiệm game trọn vẹn nhất.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000247",
@@ -2736,7 +2736,6 @@
     "primary_key": "PrefabTextItem_1851234659_Text",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2746,8 +2745,9 @@
     "ai_reason": "",
     "source_en": "Download Resources",
     "review_note": "",
-    "new_translation_vi": "Tải Xuống Tài Nguyên",
-    "translator_note": ""
+    "new_translation_vi": "Tải xuống tài nguyên",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000248",
@@ -2761,7 +2761,6 @@
     "primary_key": "Download_DownLoadBtnText",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2771,8 +2770,9 @@
     "ai_reason": "",
     "source_en": "Download",
     "review_note": "",
-    "new_translation_vi": "Tải Xuống",
-    "translator_note": ""
+    "new_translation_vi": "Tải xuống",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000249",
@@ -2786,7 +2786,6 @@
     "primary_key": "Download_NoSpace",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2797,7 +2796,8 @@
     "source_en": "Insufficient storage space",
     "review_note": "",
     "new_translation_vi": "Không đủ dung lượng lưu trữ",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000250",
@@ -2811,7 +2811,6 @@
     "primary_key": "Download_Retry",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2821,8 +2820,9 @@
     "ai_reason": "",
     "source_en": "Insufficient storage space. Please clear up some space and try again.",
     "review_note": "",
-    "new_translation_vi": "Không đủ dung lượng lưu trữ. Hãy giải phóng không gian và thử lại.",
-    "translator_note": ""
+    "new_translation_vi": "Không đủ dung lượng lưu trữ. Vui lòng giải phóng bớt dung lượng và thử lại.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000251",
@@ -2836,7 +2836,6 @@
     "primary_key": "Download_DownLoadBtnCancel",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2847,7 +2846,8 @@
     "source_en": "Cancel",
     "review_note": "",
     "new_translation_vi": "Hủy",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000252",
@@ -2861,7 +2861,6 @@
     "primary_key": "Download_DownLoadBtnRetry",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2871,8 +2870,9 @@
     "ai_reason": "",
     "source_en": "Retry",
     "review_note": "",
-    "new_translation_vi": "Thử Lại",
-    "translator_note": ""
+    "new_translation_vi": "Thử lại",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000253",
@@ -2886,7 +2886,6 @@
     "primary_key": "ConfirmBox_362_Content",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2896,8 +2895,9 @@
     "ai_reason": "",
     "source_en": "Insufficient storage space detected. Required free space for incremental download and processing: {0}. Please free up enough space to proceed with Incremental Download or choose Full Download based on your current available storage.\n\nIncremental package size: {1}\nFull package size: {2}",
     "review_note": "",
-    "new_translation_vi": "Phát hiện không đủ dung lượng lưu trữ. Dung lượng trống cần thiết để tải xuống gia tăng và xử lý: {0}. Vui lòng giải phóng đủ không gian để tiếp tục Tải Xuống Gia Tăng hoặc chọn Tải Xuống Đầy Đủ dựa trên dung lượng khả dụng hiện tại.\n\nKích thước gói gia tăng: {1}\nKích thước gói đầy đủ: {2}",
-    "translator_note": ""
+    "new_translation_vi": "Phát hiện không đủ dung lượng lưu trữ. Dung lượng trống cần thiết để tải xuống và xử lý bản cập nhật: {0}. Vui lòng giải phóng đủ dung lượng để tiếp tục Tải xuống bản cập nhật hoặc chọn Tải xuống toàn bộ dựa trên dung lượng khả dụng hiện tại của bạn.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000254",
@@ -2911,7 +2911,6 @@
     "primary_key": "ConfirmBox_362_ButtonText_0",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2921,8 +2920,9 @@
     "ai_reason": "",
     "source_en": "Incremental Download",
     "review_note": "",
-    "new_translation_vi": "Tải Xuống Gia Tăng",
-    "translator_note": ""
+    "new_translation_vi": "Tải xuống bản cập nhật",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000255",
@@ -2936,7 +2936,6 @@
     "primary_key": "ConfirmBox_362_ButtonText_1",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2946,8 +2945,9 @@
     "ai_reason": "",
     "source_en": "Full Download",
     "review_note": "",
-    "new_translation_vi": "Tải Xuống Hoàn Tất",
-    "translator_note": ""
+    "new_translation_vi": "Tải xuống toàn bộ",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000256",
@@ -2961,7 +2961,6 @@
     "primary_key": "HotFixRestartToCompleteHotFixWin",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2972,7 +2971,8 @@
     "source_en": "Patching complete. The game is restarting.",
     "review_note": "",
     "new_translation_vi": "Đã vá xong. Trò chơi đang khởi động lại.",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000257",
@@ -2986,7 +2986,6 @@
     "primary_key": "HotFixRestartToRepairFilesWin",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2996,8 +2995,9 @@
     "ai_reason": "",
     "source_en": "Repair complete. The game is restarting.",
     "review_note": "",
-    "new_translation_vi": "Sửa chữa hoàn tất. Trò chơi đang khởi động lại.",
-    "translator_note": ""
+    "new_translation_vi": "Đã sửa xong. Trò chơi đang khởi động lại.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000258",
@@ -3011,7 +3011,6 @@
     "primary_key": "Exit_Btn_Text",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3021,8 +3020,9 @@
     "ai_reason": "",
     "source_en": "Leave",
     "review_note": "",
-    "new_translation_vi": "Rời đi",
-    "translator_note": ""
+    "new_translation_vi": "Leave",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "SYSTEM_TEXT_0000259",
@@ -3036,7 +3036,6 @@
     "primary_key": "Exchange_Btn_Text",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3046,8 +3045,9 @@
     "ai_reason": "",
     "source_en": "Switch Account",
     "review_note": "",
-    "new_translation_vi": "Đổi Tài Khoản",
-    "translator_note": ""
+    "new_translation_vi": "Chuyển tài khoản",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000260",
@@ -3061,7 +3061,6 @@
     "primary_key": "SignIn_Btn_Text",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3072,7 +3071,8 @@
     "source_en": "Login",
     "review_note": "",
     "new_translation_vi": "Đăng nhập",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000261",
@@ -3086,7 +3086,6 @@
     "primary_key": "SubPackageHttp_Fail_Content",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3096,8 +3095,9 @@
     "ai_reason": "",
     "source_en": "Upgraded data loading failed. Please retry or full download.",
     "review_note": "",
-    "new_translation_vi": "Tải dữ liệu nâng cấp thất bại. Vui lòng thử lại hoặc tải toàn bộ dữ liệu.",
-    "translator_note": ""
+    "new_translation_vi": "Tải dữ liệu nâng cấp thất bại. Vui lòng thử lại hoặc tải xuống toàn bộ.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000262",
@@ -3111,7 +3111,6 @@
     "primary_key": "SubPackageHttp_Fail_ButtonText_0",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3121,8 +3120,9 @@
     "ai_reason": "",
     "source_en": "Full Download",
     "review_note": "",
-    "new_translation_vi": "Tải Xuống Hoàn Tất",
-    "translator_note": ""
+    "new_translation_vi": "Tải xuống toàn bộ",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000263",
@@ -3136,7 +3136,6 @@
     "primary_key": "SubPackageHttp_Fail_ButtonText_1",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3146,8 +3145,9 @@
     "ai_reason": "",
     "source_en": "Retry",
     "review_note": "",
-    "new_translation_vi": "Thử Lại",
-    "translator_note": ""
+    "new_translation_vi": "Thử lại",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000264",
@@ -3161,7 +3161,6 @@
     "primary_key": "NetworkDetection_Route_Detection",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3171,8 +3170,9 @@
     "ai_reason": "",
     "source_en": "Route Detection",
     "review_note": "",
-    "new_translation_vi": "Phát Hiện Lộ Trình",
-    "translator_note": ""
+    "new_translation_vi": "Route Detection",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "SYSTEM_TEXT_0000265",
@@ -3186,7 +3186,6 @@
     "primary_key": "HotFixSubPackageClearTipsTitle_1",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3196,8 +3195,9 @@
     "ai_reason": "",
     "source_en": "Storyline Resources",
     "review_note": "",
-    "new_translation_vi": "Tài Nguyên Cốt Truyện",
-    "translator_note": ""
+    "new_translation_vi": "Tài nguyên cốt truyện",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000266",
@@ -3211,7 +3211,6 @@
     "primary_key": "HotFixSubPackageClearTipsTitle_2",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3221,8 +3220,9 @@
     "ai_reason": "",
     "source_en": "Environment Resources",
     "review_note": "",
-    "new_translation_vi": "Tài Nguyên Môi Trường",
-    "translator_note": ""
+    "new_translation_vi": "Tài nguyên môi trường",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000267",
@@ -3236,7 +3236,6 @@
     "primary_key": "HotFixSubPackageClearTipsTitle_TipsTitle_1",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3246,8 +3245,9 @@
     "ai_reason": "",
     "source_en": "Storyline Resources",
     "review_note": "",
-    "new_translation_vi": "Tài Nguyên Cốt Truyện",
-    "translator_note": ""
+    "new_translation_vi": "Tài nguyên cốt truyện",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000268",
@@ -3261,7 +3261,6 @@
     "primary_key": "HotFixSubPackageClearTipsTitle_TipsTitle_2",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3271,8 +3270,9 @@
     "ai_reason": "",
     "source_en": "Environment Resources",
     "review_note": "",
-    "new_translation_vi": "Tài Nguyên Môi Trường",
-    "translator_note": ""
+    "new_translation_vi": "Tài nguyên môi trường",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000269",
@@ -3286,7 +3286,6 @@
     "primary_key": "HotFixSubPackageClearTipsTitle_TipsDes_1",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3296,8 +3295,9 @@
     "ai_reason": "",
     "source_en": "Past storyline resources will not be used again. All videos from past quests can be cleared.",
     "review_note": "",
-    "new_translation_vi": "Tài nguyên cốt truyện cũ sẽ không được sử dụng lại. Toàn bộ video từ nhiệm vụ trước có thể xóa bỏ.",
-    "translator_note": ""
+    "new_translation_vi": "Tài nguyên cốt truyện cũ sẽ không được sử dụng nữa. Tất cả video từ các nhiệm vụ cũ có thể được xóa.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000270",
@@ -3311,7 +3311,6 @@
     "primary_key": "HotFixSubPackageClearTipsTitle_TipsDes_2",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3321,8 +3320,9 @@
     "ai_reason": "",
     "source_en": "Based on Rover's story progress, location, and other factors, the environment resources required for Rover's current state will be retained. All other non-essential environment resources can be cleared.\nAfter environment resources are cleared, they can still be redownloaded in-game via Terminal - Settings - Download Resources.",
     "review_note": "",
-    "new_translation_vi": "Dựa trên tiến trình câu chuyện, vị trí và các yếu tố khác của Vận Mệnh Giả, các tài nguyên môi trường cần thiết cho trạng thái hiện tại của Vận Mệnh Giả sẽ được giữ lại. Tất cả tài nguyên môi trường không cần thiết khác có thể bị xóa.\nSau khi xóa tài nguyên môi trường, bạn vẫn có thể tải lại trong trò chơi qua Thiết bị đầu cuối - Cài đặt - Tải tài nguyên.",
-    "translator_note": ""
+    "new_translation_vi": "Dựa trên tiến trình cốt truyện, vị trí và các yếu tố khác của Rover, tài nguyên môi trường cần thiết cho trạng thái hiện tại của Rover sẽ được giữ lại. Tất cả các tài nguyên môi trường không thiết yếu khác có thể được xóa.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000271",
@@ -3336,7 +3336,6 @@
     "primary_key": "HotFixSubPackageClearTipsTitle",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3346,8 +3345,9 @@
     "ai_reason": "",
     "source_en": "Resource Cleanup",
     "review_note": "",
-    "new_translation_vi": "Dọn Dẹp Tài Nguyên",
-    "translator_note": ""
+    "new_translation_vi": "Dọn dẹp tài nguyên",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000272",
@@ -3361,7 +3361,6 @@
     "primary_key": "HotFixSubPackageClearTipsTitle_AutoClear",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3371,8 +3370,9 @@
     "ai_reason": "",
     "source_en": "Allow auto-cleanup for previous quest resources",
     "review_note": "",
-    "new_translation_vi": "Cho phép tự động dọn dẹp tài nguyên nhiệm vụ trước đó",
-    "translator_note": ""
+    "new_translation_vi": "Cho phép tự động dọn dẹp tài nguyên nhiệm vụ cũ",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000273",
@@ -3386,7 +3386,6 @@
     "primary_key": "HotFixSubPackageClearButton",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3396,8 +3395,9 @@
     "ai_reason": "",
     "source_en": "Clear Resources ({0}/{1})",
     "review_note": "",
-    "new_translation_vi": "Thanh Tẩy Tài Nguyên ({0}/{1})",
-    "translator_note": ""
+    "new_translation_vi": "Xóa tài nguyên ({0}/{1})",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000274",
@@ -3411,7 +3411,6 @@
     "primary_key": "Source_Title_Main",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3421,8 +3420,9 @@
     "ai_reason": "",
     "source_en": "Core Package",
     "review_note": "",
-    "new_translation_vi": "Gói Lõi",
-    "translator_note": ""
+    "new_translation_vi": "Core Package",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "SYSTEM_TEXT_0000275",
@@ -3436,7 +3436,6 @@
     "primary_key": "Source_Title_Sex",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3446,8 +3445,9 @@
     "ai_reason": "",
     "source_en": "Rover Appearance Switch assets",
     "review_note": "",
-    "new_translation_vi": "Tài Nguyên Chuyển Đổi Ngoại Hình Rover",
-    "translator_note": ""
+    "new_translation_vi": "Tài nguyên thay đổi ngoại hình Rover",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000276",
@@ -3461,7 +3461,6 @@
     "primary_key": "Source_Title_1",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3471,8 +3470,9 @@
     "ai_reason": "",
     "source_en": "[Storyline] Regional storyline assets",
     "review_note": "",
-    "new_translation_vi": "Tài Nguyên Cốt Truyện Khu Vực",
-    "translator_note": ""
+    "new_translation_vi": "[Cốt truyện] Tài nguyên cốt truyện khu vực",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000277",
@@ -3486,7 +3486,6 @@
     "primary_key": "Source_Title_2",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3496,8 +3495,9 @@
     "ai_reason": "",
     "source_en": "[Environment] Jinzhou and other areas",
     "review_note": "",
-    "new_translation_vi": "[Môi trường] Khu vực Jinzhou và các vùng lân cận",
-    "translator_note": ""
+    "new_translation_vi": "[Môi trường] Jinzhou và các khu vực khác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000278",
@@ -3511,7 +3511,6 @@
     "primary_key": "Source_Title_3",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3521,8 +3520,9 @@
     "ai_reason": "",
     "source_en": "[Environment] Tethys' Deep",
     "review_note": "",
-    "new_translation_vi": "Tổ Tacet Tethys' Deep",
-    "translator_note": ""
+    "new_translation_vi": "[Môi trường] Tethys' Deep",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000279",
@@ -3536,7 +3536,6 @@
     "primary_key": "Source_Title_4",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3546,8 +3545,9 @@
     "ai_reason": "",
     "source_en": "[Storyline] Storyline assets in Ragunna and other areas",
     "review_note": "",
-    "new_translation_vi": "Tài Nguyên Cốt Truyện tại Ragunna và Các Khu Vực Khác",
-    "translator_note": ""
+    "new_translation_vi": "[Cốt truyện] Tài nguyên cốt truyện tại Ragunna và các khu vực khác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000280",
@@ -3561,7 +3561,6 @@
     "primary_key": "Source_Title_5",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3571,8 +3570,9 @@
     "ai_reason": "",
     "source_en": "[Environment] Ragunna and other areas",
     "review_note": "",
-    "new_translation_vi": "[Môi trường] Khu vực Ragunna và các vùng lân cận",
-    "translator_note": ""
+    "new_translation_vi": "[Môi trường] Ragunna và các khu vực khác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000281",
@@ -3586,7 +3586,6 @@
     "primary_key": "Source_Title_6",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3596,8 +3595,9 @@
     "ai_reason": "",
     "source_en": "[Environment] Septimont and other areas",
     "review_note": "",
-    "new_translation_vi": "[Môi trường] Khu vực Septimont và các vùng lân cận",
-    "translator_note": ""
+    "new_translation_vi": "[Môi trường] Septimont và các khu vực khác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000282",
@@ -3611,7 +3611,6 @@
     "primary_key": "Source_Title_7",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3621,8 +3620,9 @@
     "ai_reason": "",
     "source_en": "[Storyline] Storyline assets in Septimont and other areas",
     "review_note": "",
-    "new_translation_vi": "Tài Nguyên Cốt Truyện tại Septimont và Các Khu Vực Khác",
-    "translator_note": ""
+    "new_translation_vi": "[Cốt truyện] Tài nguyên cốt truyện tại Septimont và các khu vực khác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000283",
@@ -3636,7 +3636,6 @@
     "primary_key": "Source_Title_8",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3646,8 +3645,9 @@
     "ai_reason": "",
     "source_en": "[Storyline] Lahai-Roi Storyline Assets",
     "review_note": "",
-    "new_translation_vi": "Tài Nguyên Cốt Truyện Lahai-Roi",
-    "translator_note": ""
+    "new_translation_vi": "[Cốt truyện] Tài nguyên cốt truyện Lahai-Roi",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000284",
@@ -3661,7 +3661,6 @@
     "primary_key": "Source_Title_9",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3671,8 +3670,9 @@
     "ai_reason": "",
     "source_en": "[Region] Lahai-Roi",
     "review_note": "",
-    "new_translation_vi": "Lahai-Roi",
-    "translator_note": ""
+    "new_translation_vi": "[Khu vực] Lahai-Roi",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000285",
@@ -3686,7 +3686,6 @@
     "primary_key": "Source_Title_10",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3696,8 +3695,9 @@
     "ai_reason": "",
     "source_en": "[Storyline] Storyline assets in Roya Frostlands and other areas",
     "review_note": "",
-    "new_translation_vi": "Tài Nguyên Cốt Truyện tại Vùng Đất Băng Giá Roya và Các Khu Vực Khác",
-    "translator_note": ""
+    "new_translation_vi": "[Cốt truyện] Tài nguyên cốt truyện tại Roya Frostlands và các khu vực khác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000286",
@@ -3711,7 +3711,6 @@
     "primary_key": "Source_Title_11",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3721,8 +3720,9 @@
     "ai_reason": "",
     "source_en": "[Region] Roya Frostlands",
     "review_note": "",
-    "new_translation_vi": "Vùng Đất Băng Giá Roya",
-    "translator_note": ""
+    "new_translation_vi": "[Khu vực] Roya Frostlands",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000287",
@@ -3736,7 +3736,6 @@
     "primary_key": "Source_Title_12",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3746,8 +3745,9 @@
     "ai_reason": "",
     "source_en": "[Storyline] Storyline assets in the Dimmr Plains and other areas",
     "review_note": "",
-    "new_translation_vi": "Tài Nguyên Cốt Truyện tại Đồng Bằng Dimmr và Các Khu Vực Khác",
-    "translator_note": ""
+    "new_translation_vi": "[Cốt truyện] Tài nguyên cốt truyện tại Dimmr Plains và các khu vực khác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000288",
@@ -3761,7 +3761,6 @@
     "primary_key": "Source_Title_13",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3771,8 +3770,9 @@
     "ai_reason": "",
     "source_en": "[Region] Dimmr Plains",
     "review_note": "",
-    "new_translation_vi": "Đồng Bằng Dimmr",
-    "translator_note": ""
+    "new_translation_vi": "[Khu vực] Dimmr Plains",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000289",
@@ -3786,7 +3786,6 @@
     "primary_key": "Source_Title_Land_1",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3797,7 +3796,8 @@
     "source_en": "Huanglong and other areas",
     "review_note": "",
     "new_translation_vi": "Huanglong và các khu vực khác",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000290",
@@ -3811,7 +3811,6 @@
     "primary_key": "Source_Title_Land_2",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3821,8 +3820,9 @@
     "ai_reason": "",
     "source_en": "Rinascita and other areas",
     "review_note": "",
-    "new_translation_vi": "Khu vực Rinascita và các vùng khác",
-    "translator_note": ""
+    "new_translation_vi": "Rinascita và các khu vực khác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000291",
@@ -3836,7 +3836,6 @@
     "primary_key": "Source_Title_Land_3",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3846,8 +3845,9 @@
     "ai_reason": "",
     "source_en": "Roya Frostlands and other areas",
     "review_note": "",
-    "new_translation_vi": "Vùng Đất Băng Giá Roya và các khu vực khác",
-    "translator_note": ""
+    "new_translation_vi": "Roya Frostlands và các khu vực khác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000292",
@@ -3861,7 +3861,6 @@
     "primary_key": "HotFixSubPackageClearButton_Out",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3871,8 +3870,9 @@
     "ai_reason": "",
     "source_en": "Clear Resources ({0})",
     "review_note": "",
-    "new_translation_vi": "Thanh Tẩy Tài Nguyên ({0})",
-    "translator_note": ""
+    "new_translation_vi": "Xóa tài nguyên ({0})",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000293",
@@ -3886,7 +3886,6 @@
     "primary_key": "HotFixSubPackageClearConfirmContent",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3896,8 +3895,9 @@
     "ai_reason": "",
     "source_en": "After clearing environment resources, you can redownload them in the game. Continue?",
     "review_note": "",
-    "new_translation_vi": "Sau khi xóa tài nguyên môi trường, bạn có thể tải lại chúng trong trò chơi. Tiếp tục?",
-    "translator_note": ""
+    "new_translation_vi": "Sau khi xóa tài nguyên môi trường, bạn có thể tải xuống lại chúng trong trò chơi. Tiếp tục chứ?",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000294",
@@ -3911,7 +3911,6 @@
     "primary_key": "HotFixSubPackageHaveNoSpaceClear",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3922,7 +3921,8 @@
     "source_en": "No resources to clean",
     "review_note": "",
     "new_translation_vi": "Không có tài nguyên để dọn dẹp",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000295",
@@ -3936,7 +3936,6 @@
     "primary_key": "HotFixSubPackageHaveNoQuestSpaceClear",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3947,7 +3946,8 @@
     "source_en": "No resources to clean",
     "review_note": "",
     "new_translation_vi": "Không có tài nguyên để dọn dẹp",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "SYSTEM_TEXT_0000296",
@@ -3961,7 +3961,6 @@
     "primary_key": "HotFixSubPackageClearTips_Plot_Item_Info",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3971,7 +3970,8 @@
     "ai_reason": "",
     "source_en": "Previous Quest Resources",
     "review_note": "",
-    "new_translation_vi": "Tài Nguyên Nhiệm Vụ Trước",
-    "translator_note": ""
+    "new_translation_vi": "Tài nguyên nhiệm vụ cũ",
+    "translator_note": "",
+    "status": "translated"
   }
 ]

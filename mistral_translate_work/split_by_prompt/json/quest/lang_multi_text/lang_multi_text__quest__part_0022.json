@@ -21,7 +21,7 @@
     "ai_reason": "",
     "source_en": "Green paint",
     "review_note": "",
-    "new_translation_vi": "Sơn xanh lá",
+    "new_translation_vi": "Sơn màu xanh lá",
     "translator_note": ""
   },
   {
@@ -46,7 +46,7 @@
     "ai_reason": "",
     "source_en": "Blue paint",
     "review_note": "",
-    "new_translation_vi": "Sơn xanh dương",
+    "new_translation_vi": "Sơn màu xanh dương",
     "translator_note": ""
   },
   {
@@ -61,18 +61,18 @@
     "primary_key": "Quest_170700000_InteractContent_170_19",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Robbie",
     "review_note": "",
     "new_translation_vi": "Robbie",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "QUEST_0010504",
@@ -96,7 +96,7 @@
     "ai_reason": "",
     "source_en": "Yellow paint",
     "review_note": "",
-    "new_translation_vi": "Sơn vàng",
+    "new_translation_vi": "Sơn màu vàng",
     "translator_note": ""
   },
   {
@@ -111,18 +111,18 @@
     "primary_key": "Quest_170700000_InteractContent_170_23",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Robbie",
     "review_note": "",
     "new_translation_vi": "Robbie",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "QUEST_0010506",
@@ -136,7 +136,6 @@
     "primary_key": "Quest_170700000_InteractContent_180_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -146,8 +145,9 @@
     "ai_reason": "",
     "source_en": "Talk to Robbie",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Robbie",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Robbie",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010507",
@@ -171,7 +171,7 @@
     "ai_reason": "",
     "source_en": "You received a WavesLine message from an unknown sender",
     "review_note": "",
-    "new_translation_vi": "Bạn nhận được tin nhắn WavesLine từ một người gửi ẩn danh.",
+    "new_translation_vi": "Bạn đã nhận được tin nhắn WavesLine từ một người gửi ẩn danh",
     "translator_note": ""
   },
   {
@@ -196,7 +196,7 @@
     "ai_reason": "",
     "source_en": "Bucket List",
     "review_note": "",
-    "new_translation_vi": "Danh sách việc cần làm",
+    "new_translation_vi": "Danh sách tâm nguyện",
     "translator_note": ""
   },
   {
@@ -221,7 +221,7 @@
     "ai_reason": "",
     "source_en": "Look for materials",
     "review_note": "",
-    "new_translation_vi": "Tìm vật liệu",
+    "new_translation_vi": "Tìm kiếm nguyên liệu",
     "translator_note": ""
   },
   {
@@ -236,7 +236,6 @@
     "primary_key": "Quest_170700000_QuestScheduleMainTitle_170_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -246,8 +245,9 @@
     "ai_reason": "",
     "source_en": "Find Robbie's parts",
     "review_note": "",
-    "new_translation_vi": "Tìm các bộ phận của Robbie",
-    "translator_note": ""
+    "new_translation_vi": "Tìm linh kiện của Robbie",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010511",
@@ -271,7 +271,7 @@
     "ai_reason": "",
     "source_en": "Obtain the blue paint",
     "review_note": "",
-    "new_translation_vi": "Lấy sơn màu xanh lam",
+    "new_translation_vi": "Nhận sơn màu xanh dương",
     "translator_note": ""
   },
   {
@@ -296,7 +296,7 @@
     "ai_reason": "",
     "source_en": "Obtain the green paint",
     "review_note": "",
-    "new_translation_vi": "Lấy sơn màu xanh lục",
+    "new_translation_vi": "Nhận sơn màu xanh lá",
     "translator_note": ""
   },
   {
@@ -321,7 +321,7 @@
     "ai_reason": "",
     "source_en": "Obtain the yellow paint",
     "review_note": "",
-    "new_translation_vi": "Lấy sơn màu vàng",
+    "new_translation_vi": "Thu thập sơn vàng",
     "translator_note": ""
   },
   {
@@ -336,7 +336,6 @@
     "primary_key": "Quest_170700000_QuestScheduleSubTitle_170_7",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -346,8 +345,9 @@
     "ai_reason": "",
     "source_en": "Find the Ironhoof in the records",
     "review_note": "",
-    "new_translation_vi": "Tìm Ironhoof trong hồ sơ lưu trữ",
-    "translator_note": ""
+    "new_translation_vi": "Tìm Ironhoof trong hồ sơ",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010515",
@@ -371,7 +371,7 @@
     "ai_reason": "",
     "source_en": "Rebuild the Observatory-Academy Highway",
     "review_note": "",
-    "new_translation_vi": "Xây dựng lại Đường Cao Tốc Observatory-Academy",
+    "new_translation_vi": "Xây dựng lại Đường cao tốc Observatory-Academy",
     "translator_note": ""
   },
   {
@@ -396,7 +396,7 @@
     "ai_reason": "",
     "source_en": "Observatory-Academy Highway",
     "review_note": "",
-    "new_translation_vi": "Đường Cao Tốc Observatory-Academy",
+    "new_translation_vi": "Đường cao tốc Observatory-Academy",
     "translator_note": ""
   },
   {
@@ -421,7 +421,7 @@
     "ai_reason": "",
     "source_en": "Rebuild the Orbit Valley Pass - North",
     "review_note": "",
-    "new_translation_vi": "Tái thiết Orbit Valley Pass - North",
+    "new_translation_vi": "Xây dựng lại Đèo Orbit Valley - Phía Bắc",
     "translator_note": ""
   },
   {
@@ -446,7 +446,7 @@
     "ai_reason": "",
     "source_en": "Orbit Valley Pass - North",
     "review_note": "",
-    "new_translation_vi": "Orbit Valley Pass - Bắc",
+    "new_translation_vi": "Đèo Orbit Valley - Phía Bắc",
     "translator_note": ""
   },
   {
@@ -471,7 +471,7 @@
     "ai_reason": "",
     "source_en": "Rebuild the Orbit Valley Pass - South",
     "review_note": "",
-    "new_translation_vi": "Khôi phục Đèo Orbit Valley - Nam",
+    "new_translation_vi": "Xây dựng lại Đèo Orbit Valley - Phía Nam",
     "translator_note": ""
   },
   {
@@ -496,7 +496,7 @@
     "ai_reason": "",
     "source_en": "Rebuild the Orbit Valley Pass - South",
     "review_note": "",
-    "new_translation_vi": "Khôi phục Đèo Orbit Valley - Nam",
+    "new_translation_vi": "Xây dựng lại Đèo Orbit Valley - Phía Nam",
     "translator_note": ""
   },
   {
@@ -521,7 +521,7 @@
     "ai_reason": "",
     "source_en": "Orbit Valley Pass - South",
     "review_note": "",
-    "new_translation_vi": "Orbit Valley Pass - Nam",
+    "new_translation_vi": "Đèo Orbit Valley - Phía Nam",
     "translator_note": ""
   },
   {
@@ -546,7 +546,7 @@
     "ai_reason": "",
     "source_en": "Rebuild the Sandreach Passage",
     "review_note": "",
-    "new_translation_vi": "Xây dựng lại Sandreach Passage",
+    "new_translation_vi": "Xây dựng lại Lối đi Sandreach",
     "translator_note": ""
   },
   {
@@ -571,7 +571,7 @@
     "ai_reason": "",
     "source_en": "Sandreach Passage",
     "review_note": "",
-    "new_translation_vi": "Sandreach Passage",
+    "new_translation_vi": "Lối đi Sandreach",
     "translator_note": ""
   },
   {
@@ -596,7 +596,7 @@
     "ai_reason": "",
     "source_en": "Rebuild Farer's Road",
     "review_note": "",
-    "new_translation_vi": "Xây dựng lại Farer's Road",
+    "new_translation_vi": "Xây dựng lại Đường Farer",
     "translator_note": ""
   },
   {
@@ -621,7 +621,7 @@
     "ai_reason": "",
     "source_en": "Farer's Road",
     "review_note": "",
-    "new_translation_vi": "Farer's Road",
+    "new_translation_vi": "Đường Farer",
     "translator_note": ""
   },
   {
@@ -646,7 +646,7 @@
     "ai_reason": "",
     "source_en": "Rebuild Sol's Embrace",
     "review_note": "",
-    "new_translation_vi": "Tái thiết Sol's Embrace",
+    "new_translation_vi": "Xây dựng lại Sol's Embrace",
     "translator_note": ""
   },
   {
@@ -696,7 +696,7 @@
     "ai_reason": "",
     "source_en": "Rebuild the Spacetrek–Bjartr Bridge",
     "review_note": "",
-    "new_translation_vi": "Khôi phục Spacetrek–Bjartr Bridge",
+    "new_translation_vi": "Xây dựng lại Cầu Spacetrek–Bjartr",
     "translator_note": ""
   },
   {
@@ -721,7 +721,7 @@
     "ai_reason": "",
     "source_en": "Spacetrek–Bjartr Bridge",
     "review_note": "",
-    "new_translation_vi": "Cầu Spacetrek-Bjartr",
+    "new_translation_vi": "Cầu Spacetrek–Bjartr",
     "translator_note": ""
   },
   {
@@ -746,7 +746,7 @@
     "ai_reason": "",
     "source_en": "Rebuild the Howling Tunnel",
     "review_note": "",
-    "new_translation_vi": "Xây dựng lại Howling Tunnel",
+    "new_translation_vi": "Xây dựng lại Đường hầm Howling",
     "translator_note": ""
   },
   {
@@ -771,7 +771,7 @@
     "ai_reason": "",
     "source_en": "Howling Tunnel",
     "review_note": "",
-    "new_translation_vi": "Đường hầm Gió Hú",
+    "new_translation_vi": "Đường hầm Howling",
     "translator_note": ""
   },
   {
@@ -786,7 +786,6 @@
     "primary_key": "Quest_169700011_QuestDesc_169_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -797,7 +796,8 @@
     "source_en": "Rebuild the Starleap Ascent",
     "review_note": "",
     "new_translation_vi": "Xây dựng lại Starleap Ascent",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010533",
@@ -811,7 +811,6 @@
     "primary_key": "Quest_169700011_QuestName_169_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -821,8 +820,9 @@
     "ai_reason": "",
     "source_en": "Starleap Ascent",
     "review_note": "",
-    "new_translation_vi": "Đỉnh Nhảy Sao",
-    "translator_note": ""
+    "new_translation_vi": "Starleap Ascent",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010534",
@@ -846,7 +846,7 @@
     "ai_reason": "",
     "source_en": "Rebuild the Submerged Tunnel",
     "review_note": "",
-    "new_translation_vi": "Xây dựng lại Submerged Tunnel",
+    "new_translation_vi": "Xây dựng lại Đường hầm Submerged",
     "translator_note": ""
   },
   {
@@ -871,7 +871,7 @@
     "ai_reason": "",
     "source_en": "Submerged Tunnel",
     "review_note": "",
-    "new_translation_vi": "Đường hầm Ngập Nước",
+    "new_translation_vi": "Đường hầm Submerged",
     "translator_note": ""
   },
   {
@@ -896,7 +896,7 @@
     "ai_reason": "",
     "source_en": "Hidden Quest_Lahai-Roi_Route Constructor 1",
     "review_note": "",
-    "new_translation_vi": "Hidden Quest_Lahai-Roi_Kỹ Sư Tuyến Đường 1",
+    "new_translation_vi": "Nhiệm vụ ẩn_Lahai-Roi_Người xây dựng lộ trình 1",
     "translator_note": ""
   },
   {
@@ -921,7 +921,7 @@
     "ai_reason": "",
     "source_en": "Hidden Quest_Lahai-Roi_Route Constructor 2",
     "review_note": "",
-    "new_translation_vi": "Nhiệm Vụ Ẩn_Lahai-Roi_Bản Thiết Kế Lộ Trình 2",
+    "new_translation_vi": "Nhiệm vụ ẩn_Lahai-Roi_Người xây dựng lộ trình 2",
     "translator_note": ""
   },
   {
@@ -946,7 +946,7 @@
     "ai_reason": "",
     "source_en": "Hidden Quest_Lahai-Roi_Route Constructor 3",
     "review_note": "",
-    "new_translation_vi": "Nhiệm Vụ Ẩn_Lahai-Roi_Bản Thiết Kế Lộ Trình 3",
+    "new_translation_vi": "Nhiệm vụ ẩn_Lahai-Roi_Người xây dựng lộ trình 3",
     "translator_note": ""
   },
   {
@@ -971,7 +971,7 @@
     "ai_reason": "",
     "source_en": "Hidden Quest_Lahai-Roi_Route Constructor 4",
     "review_note": "",
-    "new_translation_vi": "Nhiệm Vụ Ẩn_Lahai-Roi_Bản Thiết Kế Lộ Trình 4",
+    "new_translation_vi": "Nhiệm vụ ẩn_Lahai-Roi_Người xây dựng lộ trình 4",
     "translator_note": ""
   },
   {
@@ -996,7 +996,7 @@
     "ai_reason": "",
     "source_en": "Hidden Quest_Lahai-Roi_Route Constructor 5",
     "review_note": "",
-    "new_translation_vi": "Nhiệm Vụ Ẩn_Lahai-Roi_Bản Thiết Kế Lộ Trình 5",
+    "new_translation_vi": "Nhiệm vụ ẩn_Lahai-Roi_Người xây dựng lộ trình 5",
     "translator_note": ""
   },
   {
@@ -1021,7 +1021,7 @@
     "ai_reason": "",
     "source_en": "Hidden Quest_Lahai-Roi_Route Constructor 6",
     "review_note": "",
-    "new_translation_vi": "Nhiệm Vụ Ẩn_Lahai-Roi_Bản Thiết Kế Lộ Trình 6",
+    "new_translation_vi": "Nhiệm vụ ẩn_Lahai-Roi_Người xây dựng lộ trình 6",
     "translator_note": ""
   },
   {
@@ -1046,7 +1046,7 @@
     "ai_reason": "",
     "source_en": "Hidden Quest_Lahai-Roi_Route Constructor 7",
     "review_note": "",
-    "new_translation_vi": "Nhiệm Vụ Ẩn_Lahai-Roi_Bản Thiết Kế Lộ Trình 7",
+    "new_translation_vi": "Nhiệm vụ ẩn_Lahai-Roi_Người xây dựng lộ trình 7",
     "translator_note": ""
   },
   {
@@ -1071,7 +1071,7 @@
     "ai_reason": "",
     "source_en": "Hidden Quest_Lahai-Roi_Route Constructor 8",
     "review_note": "",
-    "new_translation_vi": "Nhiệm Vụ Ẩn_Lahai-Roi_Bản Thiết Kế Lộ Trình 8",
+    "new_translation_vi": "Nhiệm vụ ẩn_Lahai-Roi_Người xây dựng lộ trình 8",
     "translator_note": ""
   },
   {
@@ -1096,7 +1096,7 @@
     "ai_reason": "",
     "source_en": "Hidden Quest_Lahai-Roi_Route Constructor 9",
     "review_note": "",
-    "new_translation_vi": "Nhiệm Vụ Ẩn_Lahai-Roi_Bản Thiết Kế Lộ Trình 9",
+    "new_translation_vi": "Nhiệm vụ ẩn_Lahai-Roi_Người xây dựng lộ trình 9",
     "translator_note": ""
   },
   {
@@ -1121,7 +1121,7 @@
     "ai_reason": "",
     "source_en": "Hidden Quest_Lahai-Roi_Route Constructor 10",
     "review_note": "",
-    "new_translation_vi": "Nhiệm Vụ Ẩn_Lahai-Roi_Bản Thiết Kế Lộ Trình 10",
+    "new_translation_vi": "Nhiệm vụ ẩn_Lahai-Roi_Người xây dựng lộ trình 10",
     "translator_note": ""
   },
   {
@@ -1196,7 +1196,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Outcasts",
     "review_note": "",
-    "new_translation_vi": "Đánh bại những kẻ bị ruồng bỏ",
+    "new_translation_vi": "Đánh bại các Outcast",
     "translator_note": ""
   },
   {
@@ -1246,7 +1246,7 @@
     "ai_reason": "",
     "source_en": "Investigate the anomaly",
     "review_note": "",
-    "new_translation_vi": "Điều tra hiện tượng bất thường",
+    "new_translation_vi": "Điều tra sự bất thường",
     "translator_note": ""
   },
   {
@@ -1261,7 +1261,6 @@
     "primary_key": "Quest_169700001_QuestDesc_169_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1271,8 +1270,9 @@
     "ai_reason": "",
     "source_en": "You need clearance to activate the Route Constructor and help the Spacetrek Observatory reconstruct the route network. Talk to Chonglin, who is in charge of the route network, and acquire clearance.",
     "review_note": "",
-    "new_translation_vi": "Bạn cần có quyền truy cập để kích hoạt Bộ Xây Dựng Tuyến Đường và hỗ trợ Spacetrek Observatory tái thiết mạng lưới tuyến đường. Hãy nói chuyện với Chonglin, người phụ trách mạng lưới tuyến đường, để xin quyền truy cập.",
-    "translator_note": ""
+    "new_translation_vi": "Bạn cần quyền truy cập để kích hoạt Route Constructor và giúp Spacetrek Observatory xây dựng lại mạng lưới lộ trình. Hãy trò chuyện với Chonglin, người phụ trách mạng lưới lộ trình, để nhận quyền truy cập.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010552",
@@ -1296,7 +1296,7 @@
     "ai_reason": "",
     "source_en": "Operation: Frontier Renewal",
     "review_note": "",
-    "new_translation_vi": "Chiến Dịch: Tái Thiết Biên Cương",
+    "new_translation_vi": "Chiến dịch: Làm mới biên giới",
     "translator_note": ""
   },
   {
@@ -1346,7 +1346,7 @@
     "ai_reason": "",
     "source_en": "Investigate the anomaly",
     "review_note": "",
-    "new_translation_vi": "Điều tra hiện tượng bất thường",
+    "new_translation_vi": "Điều tra sự bất thường",
     "translator_note": ""
   },
   {
@@ -1396,7 +1396,7 @@
     "ai_reason": "",
     "source_en": "Talk to Dhalifa",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Dhalifa",
+    "new_translation_vi": "Trò chuyện với Dhalifa",
     "translator_note": ""
   },
   {
@@ -1411,7 +1411,6 @@
     "primary_key": "Quest_176000000_ChildQuestTip_176_13",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1422,7 +1421,8 @@
     "source_en": "Head to the Royan settlement",
     "review_note": "",
     "new_translation_vi": "Đến khu định cư Royan",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010558",
@@ -1436,7 +1436,6 @@
     "primary_key": "Quest_176000000_ChildQuestTip_176_14",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1446,8 +1445,9 @@
     "ai_reason": "",
     "source_en": "Subdue the out-of-control Ironhoof",
     "review_note": "",
-    "new_translation_vi": "Kiềm chế Ironhoof mất kiểm soát",
-    "translator_note": ""
+    "new_translation_vi": "Khống chế Ironhoof đang mất kiểm soát",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010559",
@@ -1471,7 +1471,7 @@
     "ai_reason": "",
     "source_en": "Talk to Sephira",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Sephira",
+    "new_translation_vi": "Trò chuyện với Sephira",
     "translator_note": ""
   },
   {
@@ -1511,7 +1511,6 @@
     "primary_key": "Quest_176000000_ChildQuestTip_176_18",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1521,8 +1520,9 @@
     "ai_reason": "",
     "source_en": "Talk to Rakosan",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Rakosan",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Rakosan",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010562",
@@ -1571,7 +1571,7 @@
     "ai_reason": "",
     "source_en": "Head to the coordinates Dhalifa mentioned",
     "review_note": "",
-    "new_translation_vi": "Đến tọa độ Dhalifa đã nhắc",
+    "new_translation_vi": "Đến tọa độ mà Dhalifa đã đề cập",
     "translator_note": ""
   },
   {
@@ -1596,7 +1596,7 @@
     "ai_reason": "",
     "source_en": "Talk to Dhalifa",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Dhalifa",
+    "new_translation_vi": "Trò chuyện với Dhalifa",
     "translator_note": ""
   },
   {
@@ -1671,7 +1671,7 @@
     "ai_reason": "",
     "source_en": "Defeat the shadow of Twin Nova: Voidmatter",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt bóng ma Twin Nova: Voidmatter",
+    "new_translation_vi": "Đánh bại cái bóng của Twin Nova: Voidmatter",
     "translator_note": ""
   },
   {
@@ -1686,7 +1686,6 @@
     "primary_key": "Quest_176000000_ChildQuestTip_176_30",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1696,8 +1695,9 @@
     "ai_reason": "",
     "source_en": "Talk to Sephira and Rakosan",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Sephira và Rakosan",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Sephira và Rakosan",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010569",
@@ -1721,7 +1721,7 @@
     "ai_reason": "",
     "source_en": "Talk to Dhalifa",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Dhalifa",
+    "new_translation_vi": "Trò chuyện với Dhalifa",
     "translator_note": ""
   },
   {
@@ -1736,7 +1736,6 @@
     "primary_key": "Quest_176000000_QuestDesc_176_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1746,8 +1745,9 @@
     "ai_reason": "",
     "source_en": "Reconstructing the route network will help advance the Spacetrek Observatory's project. To do this, you need to find Chonglin, who will give you access to the Route Constructor and show you how to use it.",
     "review_note": "",
-    "new_translation_vi": "Việc tái cấu trúc mạng lưới tuyến đường sẽ giúp thúc đẩy dự án của Spacetrek Observatory. Để thực hiện điều này, bạn cần tìm Chonglin, người sẽ cấp quyền truy cập vào Bộ Xây Dựng Tuyến Đường và hướng dẫn cách sử dụng.",
-    "translator_note": ""
+    "new_translation_vi": "Việc xây dựng lại mạng lưới lộ trình sẽ giúp thúc đẩy dự án của Spacetrek Observatory. Để làm điều này, bạn cần tìm Chonglin, người sẽ cấp quyền truy cập Route Constructor và hướng dẫn bạn cách sử dụng.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010571",
@@ -1771,7 +1771,7 @@
     "ai_reason": "",
     "source_en": "You get involved in the reconstruction project of the Spacetrek Observatory by helping rebuild Lahai-Roi's route network.",
     "review_note": "",
-    "new_translation_vi": "Ngươi tham gia dự án tái thiết Spacetrek Observatory bằng cách giúp khôi phục mạng lưới đường đi của Lahai-Roi.",
+    "new_translation_vi": "Bạn tham gia vào dự án tái thiết của Spacetrek Observatory bằng cách giúp xây dựng lại mạng lưới lộ trình của Lahai-Roi.",
     "translator_note": ""
   },
   {
@@ -1796,7 +1796,7 @@
     "ai_reason": "",
     "source_en": "With the baseplates already fully expanded and Dhalifa's physical condition improving, the next step is to build the Suspension Platform.",
     "review_note": "",
-    "new_translation_vi": "Với các tấm đế đã mở rộng hoàn toàn và tình trạng của Dhalifa đang cải thiện, bước tiếp theo là xây dựng Nền Tảng Treo.",
+    "new_translation_vi": "Với các tấm nền đã được mở rộng hoàn toàn và tình trạng thể chất của Dhalifa đang cải thiện, bước tiếp theo là xây dựng Nền tảng treo (Suspension Platform).",
     "translator_note": ""
   },
   {
@@ -1811,7 +1811,6 @@
     "primary_key": "Quest_176000000_QuestDesc_176_7",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1821,8 +1820,9 @@
     "ai_reason": "",
     "source_en": "With the Suspension Platform ready, all that's left is to assemble the main structure. Complete this feat with Dhalifa, Sephira, and Rakosan!",
     "review_note": "",
-    "new_translation_vi": "Với Suspension Platform đã sẵn sàng, giờ chỉ còn lắp ráp cấu trúc chính. Hãy hoàn thành nhiệm vụ này cùng Dhalifa, Sephira và Rakosan!",
-    "translator_note": ""
+    "new_translation_vi": "Với Nền tảng treo đã sẵn sàng, tất cả những gì còn lại là lắp ráp cấu trúc chính. Hãy hoàn thành công việc này cùng Dhalifa, Sephira và Rakosan!",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010574",
@@ -1846,7 +1846,7 @@
     "ai_reason": "",
     "source_en": "Fire It Up! Route Constructor!",
     "review_note": "",
-    "new_translation_vi": "Khởi động! Bộ điều khiển tuyến đường!",
+    "new_translation_vi": "Khởi động thôi! Route Constructor!",
     "translator_note": ""
   },
   {
@@ -1871,7 +1871,7 @@
     "ai_reason": "",
     "source_en": "Spacetrek Observatory: Foundation Phase",
     "review_note": "",
-    "new_translation_vi": "Spacetrek Observatory: Giai Đoạn Xây Dựng Nền Móng",
+    "new_translation_vi": "Spacetrek Observatory: Giai đoạn nền móng",
     "translator_note": ""
   },
   {
@@ -1896,7 +1896,7 @@
     "ai_reason": "",
     "source_en": "Spacetrek Observatory: Platform Phase",
     "review_note": "",
-    "new_translation_vi": "Spacetrek Observatory: Giai Đoạn Xây Dựng Nền Tảng",
+    "new_translation_vi": "Spacetrek Observatory: Giai đoạn nền tảng",
     "translator_note": ""
   },
   {
@@ -1921,7 +1921,7 @@
     "ai_reason": "",
     "source_en": "Spacetrek Observatory: Overwatch Phase",
     "review_note": "",
-    "new_translation_vi": "Spacetrek Observatory: Giai Đoạn Giám Sát",
+    "new_translation_vi": "Spacetrek Observatory: Giai đoạn giám sát",
     "translator_note": ""
   },
   {
@@ -1936,7 +1936,6 @@
     "primary_key": "Quest_176000004_ChildQuestTip_169_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1946,8 +1945,9 @@
     "ai_reason": "",
     "source_en": "Discuss the reconstruction of the route network with Rakosan",
     "review_note": "",
-    "new_translation_vi": "Bàn về việc tái thiết mạng lưới tuyến đường cùng Rakosan",
-    "translator_note": ""
+    "new_translation_vi": "Thảo luận về việc xây dựng lại mạng lưới lộ trình với Rakosan",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010579",
@@ -1961,7 +1961,6 @@
     "primary_key": "Quest_176000004_ChildQuestTip_169_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1972,7 +1971,8 @@
     "source_en": "Head to the Route Constructor next to Chonglin",
     "review_note": "",
     "new_translation_vi": "Đến Route Constructor bên cạnh Chonglin",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010580",
@@ -1996,7 +1996,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Sabercat Prowler to retrieve the materials",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Sabercat Prowler để lấy lại vật liệu",
+    "new_translation_vi": "Đánh bại Sabercat Prowler để thu hồi vật liệu",
     "translator_note": ""
   },
   {
@@ -2046,7 +2046,7 @@
     "ai_reason": "",
     "source_en": "Look for Purified Mechanites nearby",
     "review_note": "",
-    "new_translation_vi": "Tìm Purified Mechanites gần đây",
+    "new_translation_vi": "Tìm kiếm Purified Mechanite gần đó",
     "translator_note": ""
   },
   {
@@ -2061,7 +2061,6 @@
     "primary_key": "Quest_176000004_ChildQuestTip_169_12",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2072,7 +2071,8 @@
     "source_en": "Give the materials to Chonglin",
     "review_note": "",
     "new_translation_vi": "Đưa vật liệu cho Chonglin",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010584",
@@ -2096,7 +2096,7 @@
     "ai_reason": "",
     "source_en": "Activate the Route Constructor",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Bộ Tạo Lộ Trình",
+    "new_translation_vi": "Kích hoạt Route Constructor",
     "translator_note": ""
   },
   {
@@ -2121,7 +2121,7 @@
     "ai_reason": "",
     "source_en": "Activate the Route Constructor",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Bộ Tạo Lộ Trình",
+    "new_translation_vi": "Kích hoạt Route Constructor",
     "translator_note": ""
   },
   {
@@ -2146,7 +2146,7 @@
     "ai_reason": "",
     "source_en": "Activate the Route Constructor",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Bộ Tạo Lộ Trình",
+    "new_translation_vi": "Kích hoạt Route Constructor",
     "translator_note": ""
   },
   {
@@ -2171,7 +2171,7 @@
     "ai_reason": "",
     "source_en": "Look for Purified Mechanites nearby",
     "review_note": "",
-    "new_translation_vi": "Tìm Purified Mechanites gần đây",
+    "new_translation_vi": "Tìm kiếm Purified Mechanite gần đó",
     "translator_note": ""
   },
   {
@@ -2196,7 +2196,7 @@
     "ai_reason": "",
     "source_en": "Look for Purified Mechanites nearby",
     "review_note": "",
-    "new_translation_vi": "Tìm Purified Mechanites gần đây",
+    "new_translation_vi": "Tìm kiếm Purified Mechanite gần đó",
     "translator_note": ""
   },
   {
@@ -2221,7 +2221,7 @@
     "ai_reason": "",
     "source_en": "Use Sensor to find the clues",
     "review_note": "",
-    "new_translation_vi": "Dùng Sensor để tìm manh mối",
+    "new_translation_vi": "Sử dụng Sensor để tìm manh mối",
     "translator_note": ""
   },
   {
@@ -2246,7 +2246,7 @@
     "ai_reason": "",
     "source_en": "Rimewisps collected: {count_1}/5",
     "review_note": "",
-    "new_translation_vi": "Rimewisp thu thập: {count_1}/5",
+    "new_translation_vi": "Số Rimewisp đã thu thập: {count_1}/5",
     "translator_note": ""
   },
   {
@@ -2261,7 +2261,6 @@
     "primary_key": "Quest_176000005_ChildQuestTip_176_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2271,8 +2270,9 @@
     "ai_reason": "",
     "source_en": "Talk to Rakosan",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Rakosan",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Rakosan",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010592",
@@ -2286,7 +2286,6 @@
     "primary_key": "Quest_176000005_ChildQuestTip_176_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2297,7 +2296,8 @@
     "source_en": "Head to the Royan settlement",
     "review_note": "",
     "new_translation_vi": "Đến khu định cư Royan",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010593",
@@ -2311,7 +2311,6 @@
     "primary_key": "Quest_176000005_ChildQuestTip_176_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2322,7 +2321,8 @@
     "source_en": "Head to the Royan settlement",
     "review_note": "",
     "new_translation_vi": "Đến khu định cư Royan",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010594",
@@ -2336,7 +2336,6 @@
     "primary_key": "Quest_176000005_ChildQuestTip_176_5",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2347,7 +2346,8 @@
     "source_en": "Read Rakosan's WavesLine message",
     "review_note": "",
     "new_translation_vi": "Đọc tin nhắn WavesLine của Rakosan",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010595",
@@ -2386,7 +2386,6 @@
     "primary_key": "Quest_176000006_ChildQuestTip_176_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2397,7 +2396,8 @@
     "source_en": "Read Rakosan's WavesLine message",
     "review_note": "",
     "new_translation_vi": "Đọc tin nhắn WavesLine của Rakosan",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010597",
@@ -2446,7 +2446,7 @@
     "ai_reason": "",
     "source_en": "Open the Supply Chests",
     "review_note": "",
-    "new_translation_vi": "Mở các Supply Chest",
+    "new_translation_vi": "Mở các Rương Tiếp tế",
     "translator_note": ""
   },
   {
@@ -2471,7 +2471,7 @@
     "ai_reason": "",
     "source_en": "Join the chat",
     "review_note": "",
-    "new_translation_vi": "Tham gia cuộc trò chuyện",
+    "new_translation_vi": "Tham gia trò chuyện",
     "translator_note": ""
   },
   {
@@ -2521,7 +2521,7 @@
     "ai_reason": "",
     "source_en": "Defeat the shadow of Twin Nova: Voidmatter",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt bóng ma Twin Nova: Voidmatter",
+    "new_translation_vi": "Đánh bại cái bóng của Twin Nova: Voidmatter",
     "translator_note": ""
   },
   {
@@ -2571,7 +2571,7 @@
     "ai_reason": "",
     "source_en": "Join the chat",
     "review_note": "",
-    "new_translation_vi": "Tham gia cuộc trò chuyện",
+    "new_translation_vi": "Tham gia trò chuyện",
     "translator_note": ""
   },
   {
@@ -2596,7 +2596,7 @@
     "ai_reason": "",
     "source_en": "Challenge the shadow of Twin Nova: Voidmatter again",
     "review_note": "",
-    "new_translation_vi": "Thách đấu lại bóng ma Twin Nova: Voidmatter",
+    "new_translation_vi": "Thách đấu lại cái bóng của Twin Nova: Voidmatter",
     "translator_note": ""
   },
   {
@@ -2621,7 +2621,7 @@
     "ai_reason": "",
     "source_en": "Quest 2 Before going to the village",
     "review_note": "",
-    "new_translation_vi": "Nhiệm vụ 2: Trước khi đến làng",
+    "new_translation_vi": "Nhiệm vụ 2 Trước khi đến làng",
     "translator_note": ""
   },
   {
@@ -2671,7 +2671,7 @@
     "ai_reason": "",
     "source_en": "Increase the Network Activity to 600",
     "review_note": "",
-    "new_translation_vi": "Increase Hoạt động Mạng lên 600",
+    "new_translation_vi": "Tăng Hoạt động Mạng lên 600",
     "translator_note": ""
   },
   {
@@ -2696,7 +2696,7 @@
     "ai_reason": "",
     "source_en": "Continue to rebuild the route network by increasing the Network Activity to 600",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục tái thiết mạng lưới tuyến bằng cách nâng Tần số Mạng lên 600",
+    "new_translation_vi": "Tiếp tục khôi phục mạng lưới lộ trình bằng cách tăng Hoạt động Mạng lên 600",
     "translator_note": ""
   },
   {
@@ -2721,7 +2721,7 @@
     "ai_reason": "",
     "source_en": "Advance the Foundation Phase of the Spacetrek Observatory",
     "review_note": "",
-    "new_translation_vi": "Thúc đẩy Giai đoạn Nền tảng của Đài quan sát Spacetrek",
+    "new_translation_vi": "Thúc đẩy Giai đoạn Nền tảng của Spacetrek Observatory",
     "translator_note": ""
   },
   {
@@ -2746,7 +2746,7 @@
     "ai_reason": "",
     "source_en": "Increase the Network Activity to 1200",
     "review_note": "",
-    "new_translation_vi": "Increase Hoạt động Mạng lên 1200",
+    "new_translation_vi": "Tăng Hoạt động Mạng lên 1200",
     "translator_note": ""
   },
   {
@@ -2771,7 +2771,7 @@
     "ai_reason": "",
     "source_en": "Continue to rebuild the route network by increasing the Network Activity to 1200",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục khôi phục mạng lưới tuyến đường bằng cách nâng Network Activity lên 1200",
+    "new_translation_vi": "Tiếp tục khôi phục mạng lưới lộ trình bằng cách tăng Hoạt động Mạng lên 1200",
     "translator_note": ""
   },
   {
@@ -2796,7 +2796,7 @@
     "ai_reason": "",
     "source_en": "Advance the Platform Phase of the Spacetrek Observatory",
     "review_note": "",
-    "new_translation_vi": "Thúc đẩy Giai đoạn Nền tảng của Đài quan sát Spacetrek",
+    "new_translation_vi": "Thúc đẩy Giai đoạn Nền tảng của Spacetrek Observatory",
     "translator_note": ""
   },
   {
@@ -2821,7 +2821,7 @@
     "ai_reason": "",
     "source_en": "Increase the Network Activity to 2100",
     "review_note": "",
-    "new_translation_vi": "Increase Hoạt động Mạng lên 2100",
+    "new_translation_vi": "Tăng Hoạt động Mạng lên 2100",
     "translator_note": ""
   },
   {
@@ -2846,7 +2846,7 @@
     "ai_reason": "",
     "source_en": "Continue to rebuild the route network by increasing the Network Activity to 2100",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục tái thiết mạng lưới tuyến bằng cách nâng Tần số Mạng lên 2100",
+    "new_translation_vi": "Tiếp tục khôi phục mạng lưới lộ trình bằng cách tăng Hoạt động Mạng lên 2100",
     "translator_note": ""
   },
   {
@@ -2871,7 +2871,7 @@
     "ai_reason": "",
     "source_en": "Advance the Overwatch Phase of the Spacetrek Observatory",
     "review_note": "",
-    "new_translation_vi": "Thúc đẩy Overwatch Giai đoạn của Đài quan sát Spacetrek",
+    "new_translation_vi": "Thúc đẩy Giai đoạn Giám sát của Spacetrek Observatory",
     "translator_note": ""
   },
   {
@@ -2886,7 +2886,6 @@
     "primary_key": "Quest_189000001_ChildQuestTip_189_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2896,8 +2895,9 @@
     "ai_reason": "",
     "source_en": "Talk to Odette",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Odette",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Odette",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010617",
@@ -2911,7 +2911,6 @@
     "primary_key": "Quest_189000001_ChildQuestTip_189_7",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2921,8 +2920,9 @@
     "ai_reason": "",
     "source_en": "(Optional) Listen to Odette and Rakosan's conversation",
     "review_note": "",
-    "new_translation_vi": "Nghe cuộc trò chuyện của Odette và Rakosan (Tùy chọn)",
-    "translator_note": ""
+    "new_translation_vi": "(Tùy chọn) Lắng nghe cuộc trò chuyện của Odette và Rakosan",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010618",
@@ -2961,7 +2961,6 @@
     "primary_key": "Quest_189000001_QuestDesc_189_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2971,8 +2970,9 @@
     "ai_reason": "",
     "source_en": "Rakosan, who's been fully devoted to the reconstruction of Spacetrek Observatory, finds himself with a visitor today...",
     "review_note": "",
-    "new_translation_vi": "Hôm nay, Rakosan – người đã dốc toàn lực cho công cuộc tái thiết Spacetrek Observatory – bất ngờ có khách ghé thăm...",
-    "translator_note": ""
+    "new_translation_vi": "Rakosan, người đã dành trọn tâm huyết cho việc tái thiết Spacetrek Observatory, hôm nay bất ngờ có khách ghé thăm...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010620",
@@ -3011,7 +3011,6 @@
     "primary_key": "Quest_189000002_ChildQuestTip_189_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3021,8 +3020,9 @@
     "ai_reason": "",
     "source_en": "Talk to Rakosan",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Rakosan",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Rakosan",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010622",
@@ -3046,7 +3046,7 @@
     "ai_reason": "",
     "source_en": "Talk to Dhalifa",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Dhalifa",
+    "new_translation_vi": "Trò chuyện với Dhalifa",
     "translator_note": ""
   },
   {
@@ -3071,7 +3071,7 @@
     "ai_reason": "",
     "source_en": "A robot active on the suspension platform is emitting strange sounds…",
     "review_note": "",
-    "new_translation_vi": "Một con robot trên bệ treo đang phát ra những âm thanh kỳ lạ…",
+    "new_translation_vi": "Một robot đang hoạt động trên nền tảng treo phát ra những âm thanh lạ…",
     "translator_note": ""
   },
   {
@@ -3096,7 +3096,7 @@
     "ai_reason": "",
     "source_en": "The Whisper of Memories",
     "review_note": "",
-    "new_translation_vi": "The Whisper Của Ký Ức",
+    "new_translation_vi": "Lời Thì Thầm Của Ký Ức",
     "translator_note": ""
   },
   {
@@ -3146,7 +3146,7 @@
     "ai_reason": "",
     "source_en": "Talk to Sephira",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Sephira",
+    "new_translation_vi": "Trò chuyện với Sephira",
     "translator_note": ""
   },
   {
@@ -3161,7 +3161,6 @@
     "primary_key": "Quest_189000003_ChildQuestTip_189_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3171,8 +3170,9 @@
     "ai_reason": "",
     "source_en": "Talk to the Roya Shepherd",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Roya Shepherd",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Người chăn dắt Roya",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010628",
@@ -3196,7 +3196,7 @@
     "ai_reason": "",
     "source_en": "Talk to Sephira",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Sephira",
+    "new_translation_vi": "Trò chuyện với Sephira",
     "translator_note": ""
   },
   {
@@ -3211,7 +3211,6 @@
     "primary_key": "Quest_189000003_QuestDesc_189_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3221,8 +3220,9 @@
     "ai_reason": "",
     "source_en": "The Lightbeam Fencing restraining the rampaging Ironhoof doesn't seem like Royan tech, which captures your attention...",
     "review_note": "",
-    "new_translation_vi": "Hàng rào Ánh sáng kiềm chế Ironhoof đang hoành hành trông không giống công nghệ của Royan, điều này khiến cậu chú ý...",
-    "translator_note": ""
+    "new_translation_vi": "Hàng rào Lightbeam đang kiềm chế Ironhoof hung hãn dường như không phải là công nghệ của Royan, điều này thu hút sự chú ý của bạn...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010630",
@@ -3246,7 +3246,7 @@
     "ai_reason": "",
     "source_en": "A Secret",
     "review_note": "",
-    "new_translation_vi": "Bí Mật",
+    "new_translation_vi": "Một Bí Mật",
     "translator_note": ""
   },
   {
@@ -3296,7 +3296,7 @@
     "ai_reason": "",
     "source_en": "Talk to Sephira",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Sephira",
+    "new_translation_vi": "Trò chuyện với Sephira",
     "translator_note": ""
   },
   {
@@ -3346,7 +3346,7 @@
     "ai_reason": "",
     "source_en": "Sephira, having mended her ways, has joined the reconstruction project, but you can't shake the feeling she might still hold some bitterness inside. So, you decide to check on her, just to be sure…",
     "review_note": "",
-    "new_translation_vi": "Sephira đã sửa đổi và tham gia dự án tái thiết, nhưng trong lòng vẫn như có gì đó chưa buông bỏ. Vậy nên, cậu quyết định đến thăm cô ấy, để chắc chắn...",
+    "new_translation_vi": "Sephira đã hối cải và tham gia dự án tái thiết, nhưng bạn vẫn cảm thấy cô ấy có thể còn giữ chút cay đắng trong lòng. Vì vậy, bạn quyết định kiểm tra xem cô ấy thế nào…",
     "translator_note": ""
   },
   {
@@ -3371,7 +3371,7 @@
     "ai_reason": "",
     "source_en": "Realization",
     "review_note": "",
-    "new_translation_vi": "Realization",
+    "new_translation_vi": "Nhận Thức",
     "translator_note": ""
   },
   {
@@ -3396,7 +3396,7 @@
     "ai_reason": "",
     "source_en": "Observatory-Academy Highway",
     "review_note": "",
-    "new_translation_vi": "Đường Cao Tốc Observatory-Academy",
+    "new_translation_vi": "Đường cao tốc Observatory-Academy",
     "translator_note": ""
   },
   {
@@ -3421,7 +3421,7 @@
     "ai_reason": "",
     "source_en": "Based on the current network status, we recommend prioritizing the rebuild of the Observatory-Academy Highway. This will accelerate the renewal of Lahai-Roi's route network and support the reconstruction of the Spacetrek Observatory.",
     "review_note": "",
-    "new_translation_vi": "Dựa trên tình trạng mạng lưới hiện tại, chúng tôi đề xuất ưu tiên tái thiết Observatory-Academy Highway. Điều này sẽ đẩy nhanh việc khôi phục mạng lưới tuyến đường của Lahai-Roi và hỗ trợ tái thiết Spacetrek Observatory.",
+    "new_translation_vi": "Dựa trên trạng thái mạng hiện tại, chúng tôi khuyến nghị ưu tiên khôi phục Đường cao tốc Observatory-Academy. Điều này sẽ đẩy nhanh quá trình làm mới mạng lưới lộ trình của Lahai-Roi và hỗ trợ việc tái thiết Spacetrek Observatory.",
     "translator_note": ""
   },
   {
@@ -3446,7 +3446,7 @@
     "ai_reason": "",
     "source_en": "Rebuild the Observatory-Academy Highway",
     "review_note": "",
-    "new_translation_vi": "Xây dựng lại Đường Cao Tốc Observatory-Academy",
+    "new_translation_vi": "Khôi phục Đường cao tốc Observatory-Academy",
     "translator_note": ""
   },
   {
@@ -3471,7 +3471,7 @@
     "ai_reason": "",
     "source_en": "Based on the current network status, we recommend prioritizing the rebuild of the Orbit Valley Pass - North. This will accelerate the renewal of Lahai-Roi's route network and support the reconstruction of the Spacetrek Observatory.",
     "review_note": "",
-    "new_translation_vi": "Dựa trên tình trạng mạng lưới hiện tại, chúng tôi đề xuất ưu tiên tái thiết Orbit Valley Pass - North. Điều này sẽ đẩy nhanh việc khôi phục mạng lưới tuyến đường của Lahai-Roi và hỗ trợ tái thiết Spacetrek Observatory.",
+    "new_translation_vi": "Dựa trên trạng thái mạng hiện tại, chúng tôi khuyến nghị ưu tiên khôi phục Orbit Valley Pass - North. Điều này sẽ đẩy nhanh quá trình làm mới mạng lưới lộ trình của Lahai-Roi và hỗ trợ việc tái thiết Spacetrek Observatory.",
     "translator_note": ""
   },
   {
@@ -3496,7 +3496,7 @@
     "ai_reason": "",
     "source_en": "Based on the current network status, we recommend prioritizing the rebuild of the Orbit Valley Pass - South. This will accelerate the renewal of Lahai-Roi's route network and support the reconstruction of the Spacetrek Observatory.",
     "review_note": "",
-    "new_translation_vi": "Dựa trên tình trạng mạng lưới hiện tại, chúng tôi đề xuất ưu tiên tái thiết Orbit Valley Pass - South. Điều này sẽ đẩy nhanh việc khôi phục mạng lưới tuyến đường của Lahai-Roi và hỗ trợ tái thiết Spacetrek Observatory.",
+    "new_translation_vi": "Dựa trên trạng thái mạng hiện tại, chúng tôi khuyến nghị ưu tiên khôi phục Orbit Valley Pass - South. Điều này sẽ đẩy nhanh quá trình làm mới mạng lưới lộ trình của Lahai-Roi và hỗ trợ việc tái thiết Spacetrek Observatory.",
     "translator_note": ""
   },
   {
@@ -3521,7 +3521,7 @@
     "ai_reason": "",
     "source_en": "Based on the current network status, we recommend prioritizing the rebuild of the Sandreach Passage. This will accelerate the renewal of Lahai-Roi's route network and support the reconstruction of the Spacetrek Observatory.",
     "review_note": "",
-    "new_translation_vi": "Dựa trên tình trạng mạng lưới hiện tại, chúng tôi đề xuất ưu tiên tái thiết Sandreach Passage. Điều này sẽ đẩy nhanh việc khôi phục mạng lưới tuyến đường của Lahai-Roi và hỗ trợ tái thiết Spacetrek Observatory.",
+    "new_translation_vi": "Dựa trên trạng thái mạng hiện tại, chúng tôi khuyến nghị ưu tiên khôi phục Sandreach Passage. Điều này sẽ đẩy nhanh quá trình làm mới mạng lưới lộ trình của Lahai-Roi và hỗ trợ việc tái thiết Spacetrek Observatory.",
     "translator_note": ""
   },
   {
@@ -3546,7 +3546,7 @@
     "ai_reason": "",
     "source_en": "Based on the current network status, we recommend prioritizing the rebuild of the Farer's Road. This will accelerate the renewal of Lahai-Roi's route network and support the reconstruction of the Spacetrek Observatory.",
     "review_note": "",
-    "new_translation_vi": "Dựa trên tình trạng mạng lưới hiện tại, chúng tôi đề xuất ưu tiên tái thiết Farer's Road. Điều này sẽ đẩy nhanh việc khôi phục mạng lưới tuyến đường của Lahai-Roi và hỗ trợ tái thiết Spacetrek Observatory.",
+    "new_translation_vi": "Dựa trên trạng thái mạng hiện tại, chúng tôi khuyến nghị ưu tiên khôi phục Farer's Road. Điều này sẽ đẩy nhanh quá trình làm mới mạng lưới lộ trình của Lahai-Roi và hỗ trợ việc tái thiết Spacetrek Observatory.",
     "translator_note": ""
   },
   {
@@ -3571,7 +3571,7 @@
     "ai_reason": "",
     "source_en": "Based on the current network status, we recommend prioritizing the rebuild of the Sol's Embrace. This will accelerate the renewal of Lahai-Roi's route network and support the reconstruction of the Spacetrek Observatory.",
     "review_note": "",
-    "new_translation_vi": "Dựa trên tình trạng mạng lưới hiện tại, chúng tôi đề xuất ưu tiên tái thiết Sol's Embrace. Điều này sẽ đẩy nhanh việc khôi phục mạng lưới tuyến đường của Lahai-Roi và hỗ trợ tái thiết Spacetrek Observatory.",
+    "new_translation_vi": "Dựa trên trạng thái mạng hiện tại, chúng tôi khuyến nghị ưu tiên khôi phục Sol's Embrace. Điều này sẽ đẩy nhanh quá trình làm mới mạng lưới lộ trình của Lahai-Roi và hỗ trợ việc tái thiết Spacetrek Observatory.",
     "translator_note": ""
   },
   {
@@ -3596,7 +3596,7 @@
     "ai_reason": "",
     "source_en": "Based on the current network status, we recommend prioritizing the rebuild of the Spacetrek–Bjartr Bridge. This will accelerate the renewal of Lahai-Roi's route network and support the reconstruction of the Spacetrek Observatory.",
     "review_note": "",
-    "new_translation_vi": "Dựa trên tình trạng mạng lưới hiện tại, chúng tôi đề xuất ưu tiên tái thiết Spacetrek–Bjartr Bridge. Điều này sẽ đẩy nhanh việc khôi phục mạng lưới tuyến đường của Lahai-Roi và hỗ trợ tái thiết Spacetrek Observatory.",
+    "new_translation_vi": "Dựa trên trạng thái mạng hiện tại, chúng tôi khuyến nghị ưu tiên khôi phục Cầu Spacetrek–Bjartr. Điều này sẽ đẩy nhanh quá trình làm mới mạng lưới lộ trình của Lahai-Roi và hỗ trợ việc tái thiết Spacetrek Observatory.",
     "translator_note": ""
   },
   {
@@ -3621,7 +3621,7 @@
     "ai_reason": "",
     "source_en": "Based on the current network status, we recommend prioritizing the rebuild of the Howling Tunnel. This will accelerate the renewal of Lahai-Roi's route network and support the reconstruction of the Spacetrek Observatory.",
     "review_note": "",
-    "new_translation_vi": "Dựa trên tình trạng mạng lưới hiện tại, chúng tôi đề xuất ưu tiên tái thiết Howling Tunnel. Điều này sẽ đẩy nhanh việc khôi phục mạng lưới tuyến đường của Lahai-Roi và hỗ trợ tái thiết Spacetrek Observatory.",
+    "new_translation_vi": "Dựa trên trạng thái mạng hiện tại, chúng tôi khuyến nghị ưu tiên khôi phục Howling Tunnel. Điều này sẽ đẩy nhanh quá trình làm mới mạng lưới lộ trình của Lahai-Roi và hỗ trợ việc tái thiết Spacetrek Observatory.",
     "translator_note": ""
   },
   {
@@ -3636,7 +3636,6 @@
     "primary_key": "Quest_313700000_QuestDesc_313_21",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3646,8 +3645,9 @@
     "ai_reason": "",
     "source_en": "Based on the current network status, we recommend prioritizing the rebuild of the Starleap Ascent. This will accelerate the renewal of Lahai-Roi's route network and support the reconstruction of the Spacetrek Observatory.",
     "review_note": "",
-    "new_translation_vi": "Dựa trên tình trạng mạng lưới hiện tại, chúng ta nên ưu tiên tái xây dựng Starleap Ascent. Điều này sẽ đẩy nhanh việc khôi phục mạng lưới tuyến đường của Lahai-Roi và hỗ trợ tái thiết Spacetrek Observatory.",
-    "translator_note": ""
+    "new_translation_vi": "Dựa trên trạng thái mạng hiện tại, chúng tôi khuyến nghị ưu tiên khôi phục Starleap Ascent. Điều này sẽ đẩy nhanh quá trình làm mới mạng lưới lộ trình của Lahai-Roi và hỗ trợ việc tái thiết Spacetrek Observatory.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010647",
@@ -3671,7 +3671,7 @@
     "ai_reason": "",
     "source_en": "Based on the current network status, we recommend prioritizing the rebuild of the Submerged Tunnel. This will accelerate the renewal of Lahai-Roi's route network and support the reconstruction of the Spacetrek Observatory.",
     "review_note": "",
-    "new_translation_vi": "Dựa trên tình trạng mạng lưới hiện tại, chúng ta nên ưu tiên tái xây dựng Submerged Tunnel. Điều này sẽ đẩy nhanh việc khôi phục mạng lưới tuyến đường của Lahai-Roi và hỗ trợ tái thiết Spacetrek Observatory.",
+    "new_translation_vi": "Dựa trên trạng thái mạng hiện tại, chúng tôi khuyến nghị ưu tiên khôi phục Submerged Tunnel. Điều này sẽ đẩy nhanh quá trình làm mới mạng lưới lộ trình của Lahai-Roi và hỗ trợ việc tái thiết Spacetrek Observatory.",
     "translator_note": ""
   },
   {
@@ -3696,7 +3696,7 @@
     "ai_reason": "",
     "source_en": "Rebuild the Orbit Valley Pass - North",
     "review_note": "",
-    "new_translation_vi": "Tái thiết Orbit Valley Pass - North",
+    "new_translation_vi": "Khôi phục Orbit Valley Pass - North",
     "translator_note": ""
   },
   {
@@ -3721,7 +3721,7 @@
     "ai_reason": "",
     "source_en": "Rebuild the Orbit Valley Pass - South",
     "review_note": "",
-    "new_translation_vi": "Khôi phục Đèo Orbit Valley - Nam",
+    "new_translation_vi": "Khôi phục Orbit Valley Pass - South",
     "translator_note": ""
   },
   {
@@ -3746,7 +3746,7 @@
     "ai_reason": "",
     "source_en": "Rebuild the Sandreach Passage",
     "review_note": "",
-    "new_translation_vi": "Xây dựng lại Sandreach Passage",
+    "new_translation_vi": "Khôi phục Sandreach Passage",
     "translator_note": ""
   },
   {
@@ -3771,7 +3771,7 @@
     "ai_reason": "",
     "source_en": "Rebuild the Farer's Road",
     "review_note": "",
-    "new_translation_vi": "Xây dựng lại Con Đường Người Lữ Hành",
+    "new_translation_vi": "Khôi phục Farer's Road",
     "translator_note": ""
   },
   {
@@ -3796,7 +3796,7 @@
     "ai_reason": "",
     "source_en": "Rebuild the Sol's Embrace",
     "review_note": "",
-    "new_translation_vi": "Xây dựng lại Vòng Tay Của Sol",
+    "new_translation_vi": "Khôi phục Sol's Embrace",
     "translator_note": ""
   },
   {
@@ -3821,7 +3821,7 @@
     "ai_reason": "",
     "source_en": "Rebuild the Spacetrek–Bjartr Bridge",
     "review_note": "",
-    "new_translation_vi": "Khôi phục Spacetrek–Bjartr Bridge",
+    "new_translation_vi": "Khôi phục Cầu Spacetrek–Bjartr",
     "translator_note": ""
   },
   {
@@ -3846,7 +3846,7 @@
     "ai_reason": "",
     "source_en": "Rebuild the Howling Tunnel",
     "review_note": "",
-    "new_translation_vi": "Xây dựng lại Howling Tunnel",
+    "new_translation_vi": "Khôi phục Howling Tunnel",
     "translator_note": ""
   },
   {
@@ -3861,7 +3861,6 @@
     "primary_key": "Quest_313700000_QuestName_313_21",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3871,8 +3870,9 @@
     "ai_reason": "",
     "source_en": "Rebuild the Starleap Ascent",
     "review_note": "",
-    "new_translation_vi": "Xây dựng lại Starleap Ascent",
-    "translator_note": ""
+    "new_translation_vi": "Khôi phục Starleap Ascent",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010656",
@@ -3896,7 +3896,7 @@
     "ai_reason": "",
     "source_en": "Rebuild the Submerged Tunnel",
     "review_note": "",
-    "new_translation_vi": "Xây dựng lại Submerged Tunnel",
+    "new_translation_vi": "Khôi phục Submerged Tunnel",
     "translator_note": ""
   },
   {
@@ -3921,7 +3921,7 @@
     "ai_reason": "",
     "source_en": "Rebuild the Orbit Valley Pass - North",
     "review_note": "",
-    "new_translation_vi": "Tái thiết Orbit Valley Pass - North",
+    "new_translation_vi": "Khôi phục Orbit Valley Pass - North",
     "translator_note": ""
   },
   {
@@ -3946,7 +3946,7 @@
     "ai_reason": "",
     "source_en": "Rebuild the Orbit Valley Pass - North",
     "review_note": "",
-    "new_translation_vi": "Tái thiết Orbit Valley Pass - North",
+    "new_translation_vi": "Khôi phục Orbit Valley Pass - North",
     "translator_note": ""
   },
   {
@@ -3961,18 +3961,18 @@
     "primary_key": "Quest_313700013_QuestScheduleSubTitle_184_5",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Mechanite: {count_1}/500",
     "review_note": "",
     "new_translation_vi": "Mechanite: {count_1}/500",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010660",
@@ -3996,7 +3996,7 @@
     "ai_reason": "",
     "source_en": "Compressed Bedrock: {count_1}/480",
     "review_note": "",
-    "new_translation_vi": "Đá Nền Nén: {count_1}/480",
+    "new_translation_vi": "Đá nền nén: {count_1}/480",
     "translator_note": ""
   },
   {
@@ -4011,18 +4011,18 @@
     "primary_key": "Quest_313700013_QuestScheduleSubTitle_42_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Mechanite: {count_1}/500",
     "review_note": "",
     "new_translation_vi": "Mechanite: {count_1}/500",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010662",
@@ -4046,7 +4046,7 @@
     "ai_reason": "",
     "source_en": "Compressed Bedrock: {count_1}/480",
     "review_note": "",
-    "new_translation_vi": "Đá Nền Nén: {count_1}/480",
+    "new_translation_vi": "Đá nền nén: {count_1}/480",
     "translator_note": ""
   },
   {
@@ -4071,7 +4071,7 @@
     "ai_reason": "",
     "source_en": "Rebuild the Orbit Valley Pass - South",
     "review_note": "",
-    "new_translation_vi": "Khôi phục Đèo Orbit Valley - Nam",
+    "new_translation_vi": "Khôi phục Orbit Valley Pass - South",
     "translator_note": ""
   },
   {
@@ -4096,7 +4096,7 @@
     "ai_reason": "",
     "source_en": "Rebuild the Orbit Valley Pass - South",
     "review_note": "",
-    "new_translation_vi": "Khôi phục Đèo Orbit Valley - Nam",
+    "new_translation_vi": "Khôi phục Orbit Valley Pass - South",
     "translator_note": ""
   },
   {
@@ -4121,7 +4121,7 @@
     "ai_reason": "",
     "source_en": "Compressed Bedrock: {count_1}/720",
     "review_note": "",
-    "new_translation_vi": "Đá Nền Nén: {count_1}/720",
+    "new_translation_vi": "Đá nền nén: {count_1}/720",
     "translator_note": ""
   },
   {
@@ -4146,7 +4146,7 @@
     "ai_reason": "",
     "source_en": "Constructor Core: {count_1}/180",
     "review_note": "",
-    "new_translation_vi": "Lõi Máy Xây Dựng: {count_1}/180",
+    "new_translation_vi": "Lõi Constructor: {count_1}/180",
     "translator_note": ""
   },
   {
@@ -4171,7 +4171,7 @@
     "ai_reason": "",
     "source_en": "Compressed Bedrock: {count_1}/720",
     "review_note": "",
-    "new_translation_vi": "Đá Nền Nén: {count_1}/720",
+    "new_translation_vi": "Đá nền nén: {count_1}/720",
     "translator_note": ""
   },
   {
@@ -4196,7 +4196,7 @@
     "ai_reason": "",
     "source_en": "Constructor Core: {count_1}/180",
     "review_note": "",
-    "new_translation_vi": "Lõi Máy Xây Dựng: {count_1}/180",
+    "new_translation_vi": "Lõi Constructor: {count_1}/180",
     "translator_note": ""
   },
   {
@@ -4221,7 +4221,7 @@
     "ai_reason": "",
     "source_en": "Rebuild the Sandreach Passage",
     "review_note": "",
-    "new_translation_vi": "Xây dựng lại Sandreach Passage",
+    "new_translation_vi": "Khôi phục Sandreach Passage",
     "translator_note": ""
   },
   {
@@ -4246,7 +4246,7 @@
     "ai_reason": "",
     "source_en": "Rebuild the Sandreach Passage",
     "review_note": "",
-    "new_translation_vi": "Xây dựng lại Sandreach Passage",
+    "new_translation_vi": "Khôi phục Sandreach Passage",
     "translator_note": ""
   },
   {
@@ -4261,18 +4261,18 @@
     "primary_key": "Quest_313700015_QuestScheduleSubTitle_184_8",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Mechanite: {count_1}/1500",
     "review_note": "",
     "new_translation_vi": "Mechanite: {count_1}/1500",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010672",
@@ -4296,7 +4296,7 @@
     "ai_reason": "",
     "source_en": "Constructor Core: {count_1}/288",
     "review_note": "",
-    "new_translation_vi": "Lõi Bộ Tạo: {count_1}/288",
+    "new_translation_vi": "Lõi Constructor: {count_1}/288",
     "translator_note": ""
   },
   {
@@ -4321,7 +4321,7 @@
     "ai_reason": "",
     "source_en": "Constructor Core: {count_1}/288",
     "review_note": "",
-    "new_translation_vi": "Lõi Bộ Tạo: {count_1}/288",
+    "new_translation_vi": "Constructor Core: {count_1}/288",
     "translator_note": ""
   },
   {
@@ -4346,7 +4346,7 @@
     "ai_reason": "",
     "source_en": "Constructor Core: {count_1}/288",
     "review_note": "",
-    "new_translation_vi": "Lõi Bộ Tạo: {count_1}/288",
+    "new_translation_vi": "Constructor Core: {count_1}/288",
     "translator_note": ""
   },
   {
@@ -4371,7 +4371,7 @@
     "ai_reason": "",
     "source_en": "Rebuild the Farer's Road",
     "review_note": "",
-    "new_translation_vi": "Xây dựng lại Con Đường Người Lữ Hành",
+    "new_translation_vi": "Xây dựng lại Farer's Road",
     "translator_note": ""
   },
   {
@@ -4396,7 +4396,7 @@
     "ai_reason": "",
     "source_en": "Rebuild the Farer's Road",
     "review_note": "",
-    "new_translation_vi": "Xây dựng lại Con Đường Người Lữ Hành",
+    "new_translation_vi": "Xây dựng lại Farer's Road",
     "translator_note": ""
   },
   {
@@ -4411,18 +4411,18 @@
     "primary_key": "Quest_313700017_QuestScheduleSubTitle_184_9",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Mechanite: {count_1}/3000",
     "review_note": "",
     "new_translation_vi": "Mechanite: {count_1}/3000",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010678",
@@ -4446,7 +4446,7 @@
     "ai_reason": "",
     "source_en": "Compressed Bedrock: {count_1}/1440",
     "review_note": "",
-    "new_translation_vi": "Đá nền nén: {count_1}/1440",
+    "new_translation_vi": "Compressed Bedrock: {count_1}/1440",
     "translator_note": ""
   },
   {
@@ -4471,7 +4471,7 @@
     "ai_reason": "",
     "source_en": "Constructor Core: {count_1}/360",
     "review_note": "",
-    "new_translation_vi": "Lõi Máy Xây Dựng: {count_1}/360",
+    "new_translation_vi": "Constructor Core: {count_1}/360",
     "translator_note": ""
   },
   {
@@ -4486,18 +4486,18 @@
     "primary_key": "Quest_313700017_QuestScheduleSubTitle_42_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Mechanite: {count_1}/3000",
     "review_note": "",
     "new_translation_vi": "Mechanite: {count_1}/3000",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010681",
@@ -4521,7 +4521,7 @@
     "ai_reason": "",
     "source_en": "Compressed Bedrock: {count_1}/1440",
     "review_note": "",
-    "new_translation_vi": "Đá nền nén: {count_1}/1440",
+    "new_translation_vi": "Compressed Bedrock: {count_1}/1440",
     "translator_note": ""
   },
   {
@@ -4546,7 +4546,7 @@
     "ai_reason": "",
     "source_en": "Constructor Core: {count_1}/360",
     "review_note": "",
-    "new_translation_vi": "Lõi Máy Xây Dựng: {count_1}/360",
+    "new_translation_vi": "Constructor Core: {count_1}/360",
     "translator_note": ""
   },
   {
@@ -4571,7 +4571,7 @@
     "ai_reason": "",
     "source_en": "Rebuild the Sol's Embrace",
     "review_note": "",
-    "new_translation_vi": "Xây dựng lại Vòng Tay Của Sol",
+    "new_translation_vi": "Xây dựng lại Sol's Embrace",
     "translator_note": ""
   },
   {
@@ -4596,7 +4596,7 @@
     "ai_reason": "",
     "source_en": "Rebuild the Sol's Embrace",
     "review_note": "",
-    "new_translation_vi": "Xây dựng lại Vòng Tay Của Sol",
+    "new_translation_vi": "Xây dựng lại Sol's Embrace",
     "translator_note": ""
   },
   {
@@ -4611,18 +4611,18 @@
     "primary_key": "Quest_313700018_QuestScheduleSubTitle_184_7",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Mechanite: {count_1}/5000",
     "review_note": "",
     "new_translation_vi": "Mechanite: {count_1}/5000",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010686",
@@ -4646,7 +4646,7 @@
     "ai_reason": "",
     "source_en": "Compressed Bedrock: {count_1}/2640",
     "review_note": "",
-    "new_translation_vi": "Đá Nền Nén: {count_1}/2640",
+    "new_translation_vi": "Compressed Bedrock: {count_1}/2640",
     "translator_note": ""
   },
   {
@@ -4671,7 +4671,7 @@
     "ai_reason": "",
     "source_en": "Constructor Core: {count_1}/648",
     "review_note": "",
-    "new_translation_vi": "Lõi Máy Xây Dựng: {count_1}/648",
+    "new_translation_vi": "Constructor Core: {count_1}/648",
     "translator_note": ""
   },
   {
@@ -4686,18 +4686,18 @@
     "primary_key": "Quest_313700018_QuestScheduleSubTitle_42_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Mechanite: {count_1}/5000",
     "review_note": "",
     "new_translation_vi": "Mechanite: {count_1}/5000",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010689",
@@ -4721,7 +4721,7 @@
     "ai_reason": "",
     "source_en": "Compressed Bedrock: {count_1}/2640",
     "review_note": "",
-    "new_translation_vi": "Đá Nền Nén: {count_1}/2640",
+    "new_translation_vi": "Compressed Bedrock: {count_1}/2640",
     "translator_note": ""
   },
   {
@@ -4746,7 +4746,7 @@
     "ai_reason": "",
     "source_en": "Constructor Core: {count_1}/648",
     "review_note": "",
-    "new_translation_vi": "Lõi Máy Xây Dựng: {count_1}/648",
+    "new_translation_vi": "Constructor Core: {count_1}/648",
     "translator_note": ""
   },
   {
@@ -4771,7 +4771,7 @@
     "ai_reason": "",
     "source_en": "Rebuild the Spacetrek–Bjartr Bridge",
     "review_note": "",
-    "new_translation_vi": "Khôi phục Spacetrek–Bjartr Bridge",
+    "new_translation_vi": "Xây dựng lại Spacetrek–Bjartr Bridge",
     "translator_note": ""
   },
   {
@@ -4796,7 +4796,7 @@
     "ai_reason": "",
     "source_en": "Rebuild the Spacetrek–Bjartr Bridge",
     "review_note": "",
-    "new_translation_vi": "Khôi phục Spacetrek–Bjartr Bridge",
+    "new_translation_vi": "Xây dựng lại Spacetrek–Bjartr Bridge",
     "translator_note": ""
   },
   {
@@ -4821,7 +4821,7 @@
     "ai_reason": "",
     "source_en": "Compressed Bedrock: {count_1}/1440",
     "review_note": "",
-    "new_translation_vi": "Đá nền nén: {count_1}/1440",
+    "new_translation_vi": "Compressed Bedrock: {count_1}/1440",
     "translator_note": ""
   },
   {
@@ -4846,7 +4846,7 @@
     "ai_reason": "",
     "source_en": "Constructor Core: {count_1}/432",
     "review_note": "",
-    "new_translation_vi": "Lõi Nhà xây dựng: {count_1}/432",
+    "new_translation_vi": "Constructor Core: {count_1}/432",
     "translator_note": ""
   },
   {
@@ -4871,7 +4871,7 @@
     "ai_reason": "",
     "source_en": "Compressed Bedrock: {count_1}/1440",
     "review_note": "",
-    "new_translation_vi": "Đá nền nén: {count_1}/1440",
+    "new_translation_vi": "Compressed Bedrock: {count_1}/1440",
     "translator_note": ""
   },
   {
@@ -4896,7 +4896,7 @@
     "ai_reason": "",
     "source_en": "Constructor Core: {count_1}/432",
     "review_note": "",
-    "new_translation_vi": "Lõi Nhà xây dựng: {count_1}/432",
+    "new_translation_vi": "Constructor Core: {count_1}/432",
     "translator_note": ""
   },
   {
@@ -4961,18 +4961,18 @@
     "primary_key": "Quest_313700021_QuestScheduleSubTitle_184_5",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Mechanite: {count_1}/5000",
     "review_note": "",
     "new_translation_vi": "Mechanite: {count_1}/5000",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010700",
@@ -4996,7 +4996,7 @@
     "ai_reason": "",
     "source_en": "Compressed Bedrock: {count_1}/2400",
     "review_note": "",
-    "new_translation_vi": "Đá Nền Nén: {count_1}/2400",
+    "new_translation_vi": "Compressed Bedrock: {count_1}/2400",
     "translator_note": ""
   },
   {
@@ -5021,7 +5021,7 @@
     "ai_reason": "",
     "source_en": "Constructor Core: {count_1}/540",
     "review_note": "",
-    "new_translation_vi": "Lõi Bộ Điều Khiển: {count_1}/540",
+    "new_translation_vi": "Constructor Core: {count_1}/540",
     "translator_note": ""
   },
   {
@@ -5036,18 +5036,18 @@
     "primary_key": "Quest_313700021_QuestScheduleSubTitle_42_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Mechanite: {count_1}/5000",
     "review_note": "",
     "new_translation_vi": "Mechanite: {count_1}/5000",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010703",
@@ -5071,7 +5071,7 @@
     "ai_reason": "",
     "source_en": "Compressed Bedrock: {count_1}/2400",
     "review_note": "",
-    "new_translation_vi": "Đá Nền Nén: {count_1}/2400",
+    "new_translation_vi": "Compressed Bedrock: {count_1}/2400",
     "translator_note": ""
   },
   {
@@ -5096,7 +5096,7 @@
     "ai_reason": "",
     "source_en": "Constructor Cores: {count_1}/540",
     "review_note": "",
-    "new_translation_vi": "Lõi Constructor: {count_1}/540",
+    "new_translation_vi": "Constructor Cores: {count_1}/540",
     "translator_note": ""
   },
   {
@@ -5111,7 +5111,6 @@
     "primary_key": "Quest_313700022_ChildQuestTip_184_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5122,7 +5121,8 @@
     "source_en": "Rebuild the Starleap Ascent",
     "review_note": "",
     "new_translation_vi": "Xây dựng lại Starleap Ascent",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010706",
@@ -5136,7 +5136,6 @@
     "primary_key": "Quest_313700022_QuestScheduleMainTitle_184_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5147,7 +5146,8 @@
     "source_en": "Rebuild the Starleap Ascent",
     "review_note": "",
     "new_translation_vi": "Xây dựng lại Starleap Ascent",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010707",
@@ -5161,18 +5161,18 @@
     "primary_key": "Quest_313700022_QuestScheduleSubTitle_184_5",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Mechanite: {count_1}/3750",
     "review_note": "",
     "new_translation_vi": "Mechanite: {count_1}/3750",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010708",
@@ -5196,7 +5196,7 @@
     "ai_reason": "",
     "source_en": "Constructor Core: {count_1}/432",
     "review_note": "",
-    "new_translation_vi": "Lõi Nhà xây dựng: {count_1}/432",
+    "new_translation_vi": "Constructor Core: {count_1}/432",
     "translator_note": ""
   },
   {
@@ -5211,18 +5211,18 @@
     "primary_key": "Quest_313700022_QuestScheduleSubTitle_42_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Mechanite: {count_1}/3750",
     "review_note": "",
     "new_translation_vi": "Mechanite: {count_1}/3750",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010710",
@@ -5246,7 +5246,7 @@
     "ai_reason": "",
     "source_en": "Constructor Core: {count_1}/432",
     "review_note": "",
-    "new_translation_vi": "Lõi Nhà xây dựng: {count_1}/432",
+    "new_translation_vi": "Constructor Core: {count_1}/432",
     "translator_note": ""
   },
   {
@@ -5311,18 +5311,18 @@
     "primary_key": "Quest_313700023_QuestScheduleSubTitle_184_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Mechanite: {count_1}/6250",
     "review_note": "",
     "new_translation_vi": "Mechanite: {count_1}/6250",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010714",
@@ -5346,7 +5346,7 @@
     "ai_reason": "",
     "source_en": "Condensed Bedrock: {count_1}/2880",
     "review_note": "",
-    "new_translation_vi": "Đá Nền Cô Đặc: {count_1}/2880",
+    "new_translation_vi": "Condensed Bedrock: {count_1}/2880",
     "translator_note": ""
   },
   {
@@ -5371,7 +5371,7 @@
     "ai_reason": "",
     "source_en": "Constructor Core: {count_1}/720",
     "review_note": "",
-    "new_translation_vi": "Lõi Máy Xây Dựng: {count_1}/720",
+    "new_translation_vi": "Constructor Core: {count_1}/720",
     "translator_note": ""
   },
   {
@@ -5386,18 +5386,18 @@
     "primary_key": "Quest_313700023_QuestScheduleSubTitle_42_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Mechanite: {count_1}/6250",
     "review_note": "",
     "new_translation_vi": "Mechanite: {count_1}/6250",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010717",
@@ -5421,7 +5421,7 @@
     "ai_reason": "",
     "source_en": "Condensed Bedrock: {count_1}/2880",
     "review_note": "",
-    "new_translation_vi": "Đá Nền Cô Đặc: {count_1}/2880",
+    "new_translation_vi": "Condensed Bedrock: {count_1}/2880",
     "translator_note": ""
   },
   {
@@ -5446,7 +5446,7 @@
     "ai_reason": "",
     "source_en": "Constructor Core: {count_1}/720",
     "review_note": "",
-    "new_translation_vi": "Lõi Máy Xây Dựng: {count_1}/720",
+    "new_translation_vi": "Constructor Core: {count_1}/720",
     "translator_note": ""
   },
   {
@@ -5471,7 +5471,7 @@
     "ai_reason": "",
     "source_en": "Dhalifa's Forte Evaluation Report",
     "review_note": "",
-    "new_translation_vi": "Báo cáo Đánh giá Forte của Dhalifa",
+    "new_translation_vi": "Báo cáo đánh giá Forte của Dhalifa",
     "translator_note": ""
   },
   {
@@ -5496,7 +5496,7 @@
     "ai_reason": "",
     "source_en": "Dhalifa's Cherished Item",
     "review_note": "",
-    "new_translation_vi": "Vật phẩm Quý giá của Dhalifa",
+    "new_translation_vi": "Vật phẩm quý giá của Dhalifa",
     "translator_note": ""
   },
   {
@@ -5521,7 +5521,7 @@
     "ai_reason": "",
     "source_en": "Silk with Names",
     "review_note": "",
-    "new_translation_vi": "Lụa Có Tên",
+    "new_translation_vi": "Lụa có ghi tên",
     "translator_note": ""
   },
   {
@@ -5546,7 +5546,7 @@
     "ai_reason": "",
     "source_en": "The Genesis of the Twin Nova Project: A Developmental Retrospective (Excerpt)",
     "review_note": "",
-    "new_translation_vi": "Khởi Nguyên Dự Án Twin Nova: Tóm Tắt Quá Trình Phát Triển (Trích Đoạn)",
+    "new_translation_vi": "Sự khởi đầu của dự án Twin Nova: Nhìn lại quá trình phát triển (Trích đoạn)",
     "translator_note": ""
   },
   {
@@ -5571,7 +5571,7 @@
     "ai_reason": "",
     "source_en": "The Genesis of the Spacetrek Explorer Project: A Developmental Retrospective (Excerpt)",
     "review_note": "",
-    "new_translation_vi": "Khởi Nguyên Dự Án Spacetrek Explorer: Tóm Tắt Quá Trình Phát Triển (Trích Đoạn)",
+    "new_translation_vi": "Sự khởi đầu của dự án Spacetrek Explorer: Nhìn lại quá trình phát triển (Trích đoạn)",
     "translator_note": ""
   },
   {
@@ -5596,7 +5596,7 @@
     "ai_reason": "",
     "source_en": "Route Constructor Operation Manual",
     "review_note": "",
-    "new_translation_vi": "Sổ tay Vận hành Bộ điều khiển tuyến đường",
+    "new_translation_vi": "Hướng dẫn vận hành Route Constructor",
     "translator_note": ""
   },
   {
@@ -5621,7 +5621,7 @@
     "ai_reason": "",
     "source_en": "Relay Station Rental Service Notice",
     "review_note": "",
-    "new_translation_vi": "Thông báo Dịch vụ Thuê Trạm Trung chuyển",
+    "new_translation_vi": "Thông báo dịch vụ cho thuê trạm tiếp sóng",
     "translator_note": ""
   },
   {
@@ -5646,7 +5646,7 @@
     "ai_reason": "",
     "source_en": "Who Are the \"Outcasts\" (Excerpt)",
     "review_note": "",
-    "new_translation_vi": "Những Kẻ \"Bị Ruồng Bỏ\" Là Ai (Trích đoạn)",
+    "new_translation_vi": "Ai là \"Outcasts\" (Trích đoạn)",
     "translator_note": ""
   },
   {
@@ -5661,7 +5661,6 @@
     "primary_key": "Quest_313700033_InteractContent_313_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5671,8 +5670,9 @@
     "ai_reason": "",
     "source_en": "Rakosan's Speech (Excerpt)",
     "review_note": "",
-    "new_translation_vi": "Bài Phát biểu của Rakosan (Trích đoạn)",
-    "translator_note": ""
+    "new_translation_vi": "Bài phát biểu của Rakosan (Trích đoạn)",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010728",
@@ -5696,7 +5696,7 @@
     "ai_reason": "",
     "source_en": "Move the Cube Blocker to the target point and activate the Route Constructor to print the test track",
     "review_note": "",
-    "new_translation_vi": "Di chuyển Cube Blocker Cube đến điểm đích và kích hoạt Route Constructor để in đường thử nghiệm",
+    "new_translation_vi": "Di chuyển Cube Blocker đến điểm mục tiêu và kích hoạt Route Constructor để in đường chạy thử nghiệm",
     "translator_note": ""
   },
   {
@@ -5711,7 +5711,6 @@
     "primary_key": "Quest_169700000_ChildQuestTip_169_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5721,8 +5720,9 @@
     "ai_reason": "",
     "source_en": "Head to the test site and speak with Elowyn",
     "review_note": "",
-    "new_translation_vi": "Đến khu thử nghiệm và nói chuyện với Elowyn",
-    "translator_note": ""
+    "new_translation_vi": "Đến địa điểm thử nghiệm và trò chuyện với Elowyn",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010730",
@@ -5746,7 +5746,7 @@
     "ai_reason": "",
     "source_en": "Ride the motorbike and complete the track test",
     "review_note": "",
-    "new_translation_vi": "Lái xe máy và hoàn thành bài test đường đua",
+    "new_translation_vi": "Lái xe mô tô và hoàn thành bài kiểm tra đường chạy",
     "translator_note": ""
   },
   {
@@ -5761,7 +5761,6 @@
     "primary_key": "Quest_169700000_ChildQuestTip_169_6",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5771,8 +5770,9 @@
     "ai_reason": "",
     "source_en": "Talk to Elowyn and Zahira",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Elowyn và Zahira",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Elowyn và Zahira",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010732",
@@ -5786,7 +5786,6 @@
     "primary_key": "Quest_169700000_QuestDesc_169_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5796,8 +5795,9 @@
     "ai_reason": "",
     "source_en": "Zahira, one of the \"Startorch's Seven Great Mysteries,\" appears to be \"negotiating\" with a researcher. Her animated hand gestures give no clue whether she's casting a spell or haggling in some mysterious trade…",
     "review_note": "",
-    "new_translation_vi": "Zahira, một trong \"Bảy Bí Ẩn Vĩ Đại của Sao Đốt\", dường như đang \"thương lượng\" với một nhà nghiên cứu. Những cử chỉ tay sinh động của cô chẳng hé lộ chút nào liệu cô đang niệm chú hay đang mặc cả trong một thương vụ bí ẩn…",
-    "translator_note": ""
+    "new_translation_vi": "Zahira, một trong \"Bảy bí ẩn lớn của Startorch\", dường như đang \"thương lượng\" với một nhà nghiên cứu. Những cử chỉ tay đầy sinh động của cô ấy không cho thấy liệu cô ấy đang niệm chú hay đang mặc cả trong một cuộc giao dịch bí ẩn nào đó…",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010733",
@@ -5821,7 +5821,7 @@
     "ai_reason": "",
     "source_en": "Pulses of the Plains",
     "review_note": "",
-    "new_translation_vi": "Nhịp đập Vùng Đất Bằng",
+    "new_translation_vi": "Nhịp đập của đồng bằng",
     "translator_note": ""
   },
   {
@@ -5846,7 +5846,7 @@
     "ai_reason": "",
     "source_en": "Head to the garden and meet the mysterious inviter",
     "review_note": "",
-    "new_translation_vi": "Đến khu vườn và gặp vị khách bí ẩn",
+    "new_translation_vi": "Đến khu vườn và gặp người gửi lời mời bí ẩn",
     "translator_note": ""
   },
   {
@@ -5871,7 +5871,7 @@
     "ai_reason": "",
     "source_en": "Read the incoming WavesLine message",
     "review_note": "",
-    "new_translation_vi": "Đọc tin nhắn WavesLine đến",
+    "new_translation_vi": "Đọc tin nhắn WavesLine vừa nhận được",
     "translator_note": ""
   },
   {
@@ -5896,7 +5896,7 @@
     "ai_reason": "",
     "source_en": "Evidence collected, wait for Mayo to contact you",
     "review_note": "",
-    "new_translation_vi": "Bằng chứng đã thu thập, đợi Mayo liên lạc với cậu",
+    "new_translation_vi": "Đã thu thập bằng chứng, chờ Mayo liên lạc với bạn",
     "translator_note": ""
   },
   {
@@ -5921,7 +5921,7 @@
     "ai_reason": "",
     "source_en": "Return to the place where you first met Mayo",
     "review_note": "",
-    "new_translation_vi": "Return nơi lần đầu gặp Mayo",
+    "new_translation_vi": "Quay lại nơi bạn gặp Mayo lần đầu",
     "translator_note": ""
   },
   {
@@ -5946,7 +5946,7 @@
     "ai_reason": "",
     "source_en": "Join the discussion with the Paranormal Fan Club members",
     "review_note": "",
-    "new_translation_vi": "Tham gia thảo luận cùng các thành viên Câu lạc bộ Siêu nhiên",
+    "new_translation_vi": "Tham gia thảo luận cùng các thành viên Câu lạc bộ người hâm mộ hiện tượng siêu nhiên",
     "translator_note": ""
   },
   {
@@ -5971,7 +5971,7 @@
     "ai_reason": "",
     "source_en": "Think quietly to yourself, and savor the aftertaste of the tales",
     "review_note": "",
-    "new_translation_vi": "Hãy lặng lẽ suy ngẫm và tận hưởng dư vị của những câu chuyện ấy",
+    "new_translation_vi": "Suy ngẫm một mình và thưởng thức dư vị của những câu chuyện",
     "translator_note": ""
   },
   {
@@ -5996,7 +5996,7 @@
     "ai_reason": "",
     "source_en": "Wait for the mysterious inviter",
     "review_note": "",
-    "new_translation_vi": "Chờ người mời bí ẩn",
+    "new_translation_vi": "Chờ đợi người gửi lời mời bí ẩn",
     "translator_note": ""
   },
   {
@@ -6021,7 +6021,7 @@
     "ai_reason": "",
     "source_en": "Urban Legend I: The Tale Teller\nPlease go to the streetlamp in the Academy Garden and investigate the whereabouts of the one telling ghost stories. Find the clues behind this urban legend.\n\nUrban Legend II: No-Escape Classroom \nPlease go to the Teaching Zone and uncover the truth about the students who cannot leave. Find the clues behind this urban legend.\n\nUrban Legend III: Train to Who-Knows-Where\nPlease go to Fangspire Chasm at the stroke of midnight and investigate the Midnight Train and its cargo of \"Lost Souls.\" Find the clues behind this urban legend.\n\nUrban Legend IV: The Rogue Constructor\nPlease go to the Collapsed Ravine on a rainy night and investigate the strange noises from \"ghosts\" that cannot be turned off. Find the clues behind this urban legend.\n\nUrban Legend V: Lost in the Fog Tunnel\n Please go to the station under Stagnant Run at night and investigate the extra tunnel that appears in the thick fog. Find the clues behind this urban legend.",
     "review_note": "",
-    "new_translation_vi": "Huyền Thoại Đô Thị I: Người Kể Chuyện Ma\nHãy đến cột đèn ở Garden Học Viện và điều tra tung tích kẻ đang kể chuyện ma. Tìm manh mối đằng sau huyền thoại đô thị này.\n\nHuyền Thoại Đô Thị II: Lớp Học Không Thể Thoát\nHãy đến Khu Giảng Đường và vén màn bí mật về những học sinh không thể rời đi. Tìm manh mối đằng sau huyền thoại đô thị này.\n\nHuyền Thoại Đô Thị III: Chuyến Tàu Đến Nơi Không Tên\nHãy đến Hẻm Núi Fangspire vào đúng nửa đêm và điều tra Chuyến Tàu Nửa Đêm cùng hàng hóa \"Linh Hồn Lạc Lối\" của nó. Tìm manh mối đằng sau huyền thoại đô thị này.\n\nHuyền Thoại Đô Thị IV: Người Xây Dựng Vô Danh\nHãy đến Khe Núi Sụp Đổ vào một đêm mưa và điều tra những âm thanh kỳ lạ từ \"ma\" không thể tắt đi. Tìm manh mối đằng sau huyền thoại đô thị này.\n\nHuyền Thoại Đô Thị V: Lạc Trong Đường Hầm Sương Mù\nHãy đến ga tàu dưới Stagnant Run vào ban đêm và điều tra đường hầm bí ẩn xuất hiện trong màn sương dày đặc. Tìm manh mối đằng sau huyền thoại đô thị này.",
+    "new_translation_vi": "Truyền thuyết đô thị I: Người kể chuyện\\nĐến cột đèn đường trong Academy Garden và điều tra tung tích của người kể chuyện ma. Tìm manh mối đằng sau truyền thuyết đô thị này.\\n\\nTruyền thuyết đô thị II: Lớp học không lối thoát\\nĐến Teaching Zone và khám phá sự thật về những học sinh không thể leave. Tìm manh mối đằng sau truyền thuyết đô thị này.\\n\\nTruyền thuyết đô thị III: Chuyến tàu đến nơi vô định\\nĐến Fangspire Chasm vào lúc nửa đêm và điều tra Chuyến tàu nửa đêm cùng số hàng hóa \"Linh hồn lạc lối\". Tìm manh mối đằng sau truyền thuyết đô thị này.\\n\\nTruyền thuyết đô thị IV: Constructor nổi loạn\\nĐến Collapsed Ravine vào một đêm mưa và điều tra những âm thanh lạ từ các \"bóng ma\" không thể tắt. Tìm manh mối đằng sau truyền thuyết đô thị này.\\n\\nTruyền thuyết đô thị V: Lạc trong đường hầm sương mù\\nĐến nhà ga dưới Stagnant Run vào ban đêm và điều tra đường hầm phụ xuất hiện trong làn sương mù dày đặc. Tìm manh mối đằng sau truyền thuyết đô thị này.",
     "translator_note": ""
   },
   {
@@ -6046,7 +6046,7 @@
     "ai_reason": "",
     "source_en": "A WavesLine message from an anonymous sender draws you into a world of urban legends, unknowns, and anomalies. Investigate, record them, or verify, debunk them... Present evidence strong enough to speak for itself.",
     "review_note": "",
-    "new_translation_vi": "Một tin nhắn WavesLine từ người gửi ẩn danh đưa bạn vào thế giới của những truyền thuyết đô thị, những điều bí ẩn và dị thường. Điều tra, ghi chép lại, hoặc xác minh, bóc trần chúng... Đưa ra bằng chứng đủ mạnh để tự nói lên tất cả.",
+    "new_translation_vi": "Một tin nhắn WavesLine từ người gửi ẩn danh lôi kéo bạn vào thế giới của những truyền thuyết đô thị, những điều chưa biết và những bất thường. Hãy điều tra, ghi lại, xác minh hoặc bác bỏ chúng... Hãy đưa ra bằng chứng đủ thuyết phục để tự nói lên sự thật.",
     "translator_note": ""
   },
   {
@@ -6071,7 +6071,7 @@
     "ai_reason": "",
     "source_en": "Urban Legend: The Anonymous Inviter",
     "review_note": "",
-    "new_translation_vi": "Huyền thoại Đô thị: Người Mời Ẩn Danh",
+    "new_translation_vi": "Truyền thuyết đô thị: Người gửi lời mời ẩn danh",
     "translator_note": ""
   },
   {
@@ -6121,7 +6121,7 @@
     "ai_reason": "",
     "source_en": "Wait for the \"Midnight Train\"",
     "review_note": "",
-    "new_translation_vi": "Chờ \"Chuyến Tàu Nửa Đêm\"",
+    "new_translation_vi": "Chờ đợi \"Chuyến tàu nửa đêm\"",
     "translator_note": ""
   },
   {
@@ -6146,7 +6146,7 @@
     "ai_reason": "",
     "source_en": "Catch up to the \"Midnight Train\"",
     "review_note": "",
-    "new_translation_vi": "Đuổi theo \"Đoàn tàu Đêm\"",
+    "new_translation_vi": "Đuổi theo \"Chuyến tàu nửa đêm\"",
     "translator_note": ""
   },
   {
@@ -6171,7 +6171,7 @@
     "ai_reason": "",
     "source_en": "Defeat the \"monsters\"",
     "review_note": "",
-    "new_translation_vi": "Đánh bại \"quái vật\"",
+    "new_translation_vi": "Tiêu diệt các \"quái vật\"",
     "translator_note": ""
   },
   {
@@ -6196,7 +6196,7 @@
     "ai_reason": "",
     "source_en": "Defeat the \"monsters\"",
     "review_note": "",
-    "new_translation_vi": "Đánh bại \"quái vật\"",
+    "new_translation_vi": "Tiêu diệt các \"quái vật\"",
     "translator_note": ""
   },
   {
@@ -6221,7 +6221,7 @@
     "ai_reason": "",
     "source_en": "Arrive near the station and contact Mayo",
     "review_note": "",
-    "new_translation_vi": "Đến gần ga rồi liên lạc với Mayo",
+    "new_translation_vi": "Đến gần nhà ga và liên lạc với Mayo",
     "translator_note": ""
   },
   {
@@ -6246,7 +6246,7 @@
     "ai_reason": "",
     "source_en": "Capture this shocking moment for Mayo",
     "review_note": "",
-    "new_translation_vi": "Ghi lại khoảnh khắc kinh ngạc này cho Mayo",
+    "new_translation_vi": "Ghi lại khoảnh khắc gây sốc này cho Mayo",
     "translator_note": ""
   },
   {
@@ -6271,7 +6271,7 @@
     "ai_reason": "",
     "source_en": "Wait here",
     "review_note": "",
-    "new_translation_vi": "Đợi ở đây",
+    "new_translation_vi": "Chờ ở đây",
     "translator_note": ""
   },
   {
@@ -6296,7 +6296,7 @@
     "ai_reason": "",
     "source_en": "Out in the wild, an urban legend takes shape. A Midnight Train, said to be packed with \"ghosts,\" races endlessly through the night, toward who knows where... Is it truly as Mayo claimed? Gather your courage and go take a look!",
     "review_note": "",
-    "new_translation_vi": "Ngoài kia, một truyền thuyết đô thị đang hình thành. Một chuyến tàu Đêm Khuya, được đồn là chở đầy \"ma\", chạy không ngừng nghỉ qua màn đêm, hướng về nơi chẳng ai biết... Liệu có đúng như lời Mayo nói không? Hãy lấy hết can đảm mà đi xem thử!",
+    "new_translation_vi": "Ngoài tự nhiên, một truyền thuyết đô thị đang dần hình thành. Một Chuyến tàu nửa đêm, được cho là chứa đầy \"bóng ma\", chạy không ngừng nghỉ suốt đêm, hướng về nơi vô định... Liệu có thực sự như Mayo đã khẳng định? Hãy lấy hết can đảm và đi xem thử!",
     "translator_note": ""
   },
   {
@@ -6321,7 +6321,7 @@
     "ai_reason": "",
     "source_en": "Urban Legend: Train to Who-Knows-Where",
     "review_note": "",
-    "new_translation_vi": "Huyền thoại Đô thị: Chuyến Tàu Đến Nơi Không Biết",
+    "new_translation_vi": "Truyền thuyết đô thị: Chuyến tàu đến nơi vô định",
     "translator_note": ""
   },
   {
@@ -6346,7 +6346,7 @@
     "ai_reason": "",
     "source_en": "Take a photo of the \"Midnight Train\"",
     "review_note": "",
-    "new_translation_vi": "Chụp \"Chuyến Tàu Nửa Đêm\" đi",
+    "new_translation_vi": "Chụp ảnh \"Chuyến tàu nửa đêm\"",
     "translator_note": ""
   },
   {
@@ -6371,7 +6371,7 @@
     "ai_reason": "",
     "source_en": "Continue forward along the side path",
     "review_note": "",
-    "new_translation_vi": "Tiến về phía trước theo lối mòn bên cạnh",
+    "new_translation_vi": "Tiếp tục đi về phía trước dọc theo lối đi phụ",
     "translator_note": ""
   },
   {
@@ -6396,7 +6396,7 @@
     "ai_reason": "",
     "source_en": "Escape the pursuit of the paranormal on your motorbike",
     "review_note": "",
-    "new_translation_vi": "Thoát khỏi cuộc truy đuổi của thế lực siêu nhiên trên chiếc mô tô của cậu",
+    "new_translation_vi": "Lái xe mô tô thoát khỏi sự truy đuổi của thế lực siêu nhiên",
     "translator_note": ""
   },
   {
@@ -6421,7 +6421,7 @@
     "ai_reason": "",
     "source_en": "Wait for nightfall",
     "review_note": "",
-    "new_translation_vi": "Chờ đến đêm",
+    "new_translation_vi": "Đợi đến đêm",
     "translator_note": ""
   },
   {
@@ -6446,7 +6446,7 @@
     "ai_reason": "",
     "source_en": "Go see what they're talking about",
     "review_note": "",
-    "new_translation_vi": "Đi xem họ đang nói gì đi.",
+    "new_translation_vi": "Đến xem họ đang nói về chuyện gì",
     "translator_note": ""
   },
   {
@@ -6496,7 +6496,7 @@
     "ai_reason": "",
     "source_en": "Catch up to the figure that looks like Mayo",
     "review_note": "",
-    "new_translation_vi": "Đuổi theo bóng dáng giống Mayo",
+    "new_translation_vi": "Đuổi theo bóng người trông giống Mayo",
     "translator_note": ""
   },
   {
@@ -6521,7 +6521,7 @@
     "ai_reason": "",
     "source_en": "Continue chasing the figure that looks like Mayo",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục đuổi theo bóng dáng giống Mayo",
+    "new_translation_vi": "Tiếp tục đuổi theo bóng người trông giống Mayo",
     "translator_note": ""
   },
   {
@@ -6546,7 +6546,7 @@
     "ai_reason": "",
     "source_en": "Continue chasing the figure that looks like Mayo",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục đuổi theo bóng dáng giống Mayo",
+    "new_translation_vi": "Tiếp tục đuổi theo bóng người trông giống Mayo",
     "translator_note": ""
   },
   {
@@ -6571,7 +6571,7 @@
     "ai_reason": "",
     "source_en": "Head to a safe spot and contact Mayo",
     "review_note": "",
-    "new_translation_vi": "Tìm chỗ an toàn và liên lạc với Mayo",
+    "new_translation_vi": "Đến nơi an toàn và liên lạc với Mayo",
     "translator_note": ""
   },
   {
@@ -6596,7 +6596,7 @@
     "ai_reason": "",
     "source_en": "Sit down and wait",
     "review_note": "",
-    "new_translation_vi": "Ngồi đợi",
+    "new_translation_vi": "Ngồi xuống và chờ đợi",
     "translator_note": ""
   },
   {
@@ -6646,7 +6646,7 @@
     "ai_reason": "",
     "source_en": "Deep in the station tunnel, an urban legend takes shape. The thick fog, the extra side path… are these real phenomena, or just idle gossip? Gather your courage and go take a look!",
     "review_note": "",
-    "new_translation_vi": "Sâu trong đường hầm ga, một truyền thuyết đô thị đang hình thành. Làn sương dày đặc, lối rẽ phụ bí ẩn... liệu đó có thật, hay chỉ là lời đồn nhảm? Hãy lấy hết can đảm mà đi xem thử!",
+    "new_translation_vi": "Sâu trong đường hầm nhà ga, một truyền thuyết đô thị đang dần hình thành. Làn sương dày đặc, lối đi phụ kỳ lạ… đây là hiện tượng có thật hay chỉ là lời đồn thổi? Hãy lấy hết can đảm và đi kiểm tra xem!",
     "translator_note": ""
   },
   {
@@ -6671,7 +6671,7 @@
     "ai_reason": "",
     "source_en": "Urban Legend: Lost in the Fog Tunnel",
     "review_note": "",
-    "new_translation_vi": "Huyền Thoại Đô Thị: Lạc Trong Đường Hầm Sương Mù",
+    "new_translation_vi": "Truyền thuyết đô thị: Lạc trong đường hầm sương mù",
     "translator_note": ""
   },
   {
@@ -6696,7 +6696,7 @@
     "ai_reason": "",
     "source_en": "Try shutting down the Route Constructor",
     "review_note": "",
-    "new_translation_vi": "Thử tắt Bộ Xây Dựng Lộ Trình đi.",
+    "new_translation_vi": "Thử tắt Route Constructor",
     "translator_note": ""
   },
   {
@@ -6721,7 +6721,7 @@
     "ai_reason": "",
     "source_en": "Race against the \"Ghost Motorbike\"",
     "review_note": "",
-    "new_translation_vi": "Race cùng \"Xe Máy Ma\"",
+    "new_translation_vi": "Đua với \"Xe mô tô ma\"",
     "translator_note": ""
   },
   {
@@ -6746,7 +6746,7 @@
     "ai_reason": "",
     "source_en": "Overtake the Ghost Motorbike and cross the finish line first",
     "review_note": "",
-    "new_translation_vi": "Vượt qua Xe Ma và cán đích trước",
+    "new_translation_vi": "Vượt qua Xe mô tô ma và cán đích trước",
     "translator_note": ""
   },
   {
@@ -6771,7 +6771,7 @@
     "ai_reason": "",
     "source_en": "Overtake the Ghost Motorbike and cross the finish line first",
     "review_note": "",
-    "new_translation_vi": "Vượt qua Xe Ma và cán đích trước",
+    "new_translation_vi": "Vượt qua Xe mô tô ma và cán đích trước",
     "translator_note": ""
   },
   {
@@ -6821,7 +6821,7 @@
     "ai_reason": "",
     "source_en": "Head to the Collapsed Ravine on a rainy night",
     "review_note": "",
-    "new_translation_vi": "Đến Khe Núi Sụp Đổ vào một đêm mưa",
+    "new_translation_vi": "Đến Collapsed Ravine vào một đêm mưa",
     "translator_note": ""
   },
   {
@@ -6921,7 +6921,7 @@
     "ai_reason": "",
     "source_en": "Inspect",
     "review_note": "",
-    "new_translation_vi": "Inspect",
+    "new_translation_vi": "Kiểm tra",
     "translator_note": ""
   },
   {
@@ -6936,7 +6936,6 @@
     "primary_key": "Quest_146700003_QuestDesc_146_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6946,8 +6945,9 @@
     "ai_reason": "",
     "source_en": "In the Collapsed Arcbend Ravine, an urban legend takes shape. Strange sounds, and an inexplicable \"ghost\" that can't be shut down... On a rainy night, gather your courage and go take a look! Are you ready to uncover the truth?",
     "review_note": "",
-    "new_translation_vi": "Tại Collapsed Arcbend Ravine, một truyền thuyết đô thị đang hình thành. Những âm thanh kỳ lạ, và một \"bóng ma\" không thể tắt đi... Vào một đêm mưa, hãy tập trung hết can đảm và đi xem thử! Cậu đã sẵn sàng khám phá sự thật chưa?",
-    "translator_note": ""
+    "new_translation_vi": "Tại Collapsed Arcbend Ravine, một truyền thuyết đô thị đang dần hình thành. Những âm thanh lạ và một \"bóng ma\" không thể tắt... Vào một đêm mưa, hãy lấy hết can đảm và đi kiểm tra xem! Bạn đã sẵn sàng khám phá sự thật chưa?",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010779",
@@ -6971,7 +6971,7 @@
     "ai_reason": "",
     "source_en": "Urban Legend: The Rogue Constructor",
     "review_note": "",
-    "new_translation_vi": "Huyền thoại Đô thị: Bộ Điều Khiển Tuyến Đường Bất Chính",
+    "new_translation_vi": "Truyền thuyết đô thị: Kẻ kiến tạo nổi loạn",
     "translator_note": ""
   },
   {
@@ -6996,7 +6996,7 @@
     "ai_reason": "",
     "source_en": "Head to the Outcast camp and retrieve the parts package",
     "review_note": "",
-    "new_translation_vi": "Đến trại của những kẻ bị ruồng bỏ và lấy gói linh kiện",
+    "new_translation_vi": "Đến trại Outcast và lấy gói linh kiện",
     "translator_note": ""
   },
   {
@@ -7011,7 +7011,6 @@
     "primary_key": "Quest_923700000_ChildQuestTip_923_7",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7021,8 +7020,9 @@
     "ai_reason": "",
     "source_en": "Visit the Royan merchant",
     "review_note": "",
-    "new_translation_vi": "Ghé thăm thương nhân Roya",
-    "translator_note": ""
+    "new_translation_vi": "Ghé thăm thương nhân Royan",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010782",
@@ -7046,7 +7046,7 @@
     "ai_reason": "",
     "source_en": "Find the scrapped Spacetrek Explorer",
     "review_note": "",
-    "new_translation_vi": "Tìm Spacetrek Explorer bị bỏ đi",
+    "new_translation_vi": "Tìm Spacetrek Explorer bị bỏ hoang",
     "translator_note": ""
   },
   {
@@ -7061,7 +7061,6 @@
     "primary_key": "Quest_923700000_ChildQuestTip_923_9",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7072,7 +7071,8 @@
     "source_en": "Retrieve the parts from Zeon's colleague",
     "review_note": "",
     "new_translation_vi": "Lấy linh kiện từ đồng nghiệp của Zeon",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010784",
@@ -7096,7 +7096,7 @@
     "ai_reason": "",
     "source_en": "Use Adaptive Hook on the motorbike to retrieve the package",
     "review_note": "",
-    "new_translation_vi": "Dùng Móc Thích Ứng trên xe máy để lấy gói hàng",
+    "new_translation_vi": "Sử dụng Adaptive Hook trên xe mô tô để lấy gói hàng",
     "translator_note": ""
   },
   {
@@ -7146,7 +7146,7 @@
     "ai_reason": "",
     "source_en": "Deliver the correct dish to obtain the arm part",
     "review_note": "",
-    "new_translation_vi": "Giao món ăn chính xác để nhận bộ phận tay",
+    "new_translation_vi": "Giao đúng món ăn để nhận linh kiện cánh tay",
     "translator_note": ""
   },
   {
@@ -7196,7 +7196,7 @@
     "ai_reason": "",
     "source_en": "Ride the motorbike with the electromagnetic railgun",
     "review_note": "",
-    "new_translation_vi": "Lái xe máy với súng điện từ",
+    "new_translation_vi": "Lái xe mô tô có gắn súng điện từ",
     "translator_note": ""
   },
   {
@@ -7221,7 +7221,7 @@
     "ai_reason": "",
     "source_en": "Ride the motorbike with the arm part",
     "review_note": "",
-    "new_translation_vi": "Lái xe máy với bộ phận cánh tay",
+    "new_translation_vi": "Lái xe mô tô có gắn linh kiện cánh tay",
     "translator_note": ""
   },
   {
@@ -7246,7 +7246,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Outcasts",
     "review_note": "",
-    "new_translation_vi": "Đánh bại những kẻ bị ruồng bỏ",
+    "new_translation_vi": "Đánh bại các Outcast",
     "translator_note": ""
   },
   {
@@ -7271,7 +7271,7 @@
     "ai_reason": "",
     "source_en": "Sit in the palm of the Mechascout statue",
     "review_note": "",
-    "new_translation_vi": "Ngồi trên lòng bàn tay tượng Mechascout",
+    "new_translation_vi": "Ngồi vào lòng bàn tay của bức tượng Mechascout",
     "translator_note": ""
   },
   {
@@ -7286,7 +7286,6 @@
     "primary_key": "Quest_923700000_ChildQuestTip_923_22",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7296,8 +7295,9 @@
     "ai_reason": "",
     "source_en": "Deliver the leg part to Zeon",
     "review_note": "",
-    "new_translation_vi": "Giao bộ phận chân cho Zeon",
-    "translator_note": ""
+    "new_translation_vi": "Giao linh kiện chân cho Zeon",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010793",
@@ -7311,7 +7311,6 @@
     "primary_key": "Quest_923700000_ChildQuestTip_923_23",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7321,8 +7320,9 @@
     "ai_reason": "",
     "source_en": "Deliver the arm part to Zeon",
     "review_note": "",
-    "new_translation_vi": "Giao bộ phận tay máy cho Zeon",
-    "translator_note": ""
+    "new_translation_vi": "Giao linh kiện cánh tay cho Zeon",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010794",
@@ -7336,7 +7336,6 @@
     "primary_key": "Quest_923700000_ChildQuestTip_923_24",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7347,7 +7346,8 @@
     "source_en": "Deliver the electromagnetic railgun to Zeon",
     "review_note": "",
     "new_translation_vi": "Giao súng điện từ cho Zeon",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010795",
@@ -7361,7 +7361,6 @@
     "primary_key": "Quest_923700000_ChildQuestTip_923_25",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7371,8 +7370,9 @@
     "ai_reason": "",
     "source_en": "Deliver the head part to Zeon",
     "review_note": "",
-    "new_translation_vi": "Giao bộ phận đầu cho Zeon",
-    "translator_note": ""
+    "new_translation_vi": "Giao linh kiện đầu cho Zeon",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010796",
@@ -7386,7 +7386,6 @@
     "primary_key": "Quest_923700000_ChildQuestTip_923_28",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7396,8 +7395,9 @@
     "ai_reason": "",
     "source_en": "Learn about Zeon's request",
     "review_note": "",
-    "new_translation_vi": "Tìm hiểu yêu cầu của Zeon",
-    "translator_note": ""
+    "new_translation_vi": "Tìm hiểu về yêu cầu của Zeon",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010797",
@@ -7411,7 +7411,6 @@
     "primary_key": "Quest_923700000_ChildQuestTip_923_29",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7421,8 +7420,9 @@
     "ai_reason": "",
     "source_en": "Wait for Zeon to finish the statue (2 days later)",
     "review_note": "",
-    "new_translation_vi": "Khoan Zeon hoàn thành bức tượng đi (2 ngày sau)",
-    "translator_note": ""
+    "new_translation_vi": "Đợi Zeon hoàn thành bức tượng (2 ngày sau)",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010798",
@@ -7436,7 +7436,6 @@
     "primary_key": "Quest_923700000_ChildQuestTip_923_30",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7447,7 +7446,8 @@
     "source_en": "Read Zeon's WavesLine message",
     "review_note": "",
     "new_translation_vi": "Đọc tin nhắn WavesLine của Zeon",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010799",
@@ -7471,7 +7471,7 @@
     "ai_reason": "",
     "source_en": "Visit the Academy culinary station to obtain the food and recipe",
     "review_note": "",
-    "new_translation_vi": "Đến trạm nấu ăn của Học viện để lấy thức ăn và công thức",
+    "new_translation_vi": "Đến trạm ẩm thực của Học viện để lấy thức ăn và công thức",
     "translator_note": ""
   },
   {
@@ -7496,7 +7496,7 @@
     "ai_reason": "",
     "source_en": "Deliver the arm part by motorbike",
     "review_note": "",
-    "new_translation_vi": "Chở bộ phận tay máy bằng xe máy đến",
+    "new_translation_vi": "Giao linh kiện cánh tay bằng xe mô tô",
     "translator_note": ""
   },
   {
@@ -7521,7 +7521,7 @@
     "ai_reason": "",
     "source_en": "Deliver the electromagnetic railgun by motorbike",
     "review_note": "",
-    "new_translation_vi": "Vận chuyển súng điện từ bằng xe máy",
+    "new_translation_vi": "Giao súng điện từ bằng xe mô tô",
     "translator_note": ""
   },
   {
@@ -7546,7 +7546,7 @@
     "ai_reason": "",
     "source_en": "Deliver the leg part by motorbike",
     "review_note": "",
-    "new_translation_vi": "Chở bộ phận chân bằng xe máy",
+    "new_translation_vi": "Giao linh kiện chân bằng xe mô tô",
     "translator_note": ""
   },
   {
@@ -7571,7 +7571,7 @@
     "ai_reason": "",
     "source_en": "Give him “the quintessential Academy food”",
     "review_note": "",
-    "new_translation_vi": "Đưa cho cậu ấy “món ăn kinh điển của Học viện”",
+    "new_translation_vi": "Đưa cho anh ấy “món ăn tinh túy của Học viện”",
     "translator_note": ""
   },
   {
@@ -7586,7 +7586,6 @@
     "primary_key": "Quest_923700000_QuestDesc_923_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7596,8 +7595,9 @@
     "ai_reason": "",
     "source_en": "Help Zeon find all four Mechascout parts and complete the statue",
     "review_note": "",
-    "new_translation_vi": "Giúp Zeon tìm đủ bốn bộ phận Mechascout và hoàn thành bức tượng đi.",
-    "translator_note": ""
+    "new_translation_vi": "Giúp Zeon tìm đủ bốn linh kiện Mechascout và hoàn thiện bức tượng",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010805",
@@ -7621,7 +7621,7 @@
     "ai_reason": "",
     "source_en": "Unparalleled Mechascout",
     "review_note": "",
-    "new_translation_vi": "Người Trinh sát Cơ khí Vô song",
+    "new_translation_vi": "Mechascout vô song",
     "translator_note": ""
   },
   {
@@ -7661,7 +7661,6 @@
     "primary_key": "Quest_939700000_ChildQuestTip_939_5",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7671,8 +7670,9 @@
     "ai_reason": "",
     "source_en": "Talk to the Giant Soliskin",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Soliskin Khổng Lồ",
-    "translator_note": ""
+    "new_translation_vi": "Nói chuyện với Soliskin khổng lồ",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010808",
@@ -7686,7 +7686,6 @@
     "primary_key": "Quest_939700000_ChildQuestTip_939_18",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7696,8 +7695,9 @@
     "ai_reason": "",
     "source_en": "Talk to the Giant Soliskin",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Soliskin Khổng Lồ",
-    "translator_note": ""
+    "new_translation_vi": "Nói chuyện với Soliskin khổng lồ",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010809",
@@ -7721,7 +7721,7 @@
     "ai_reason": "",
     "source_en": "Deliver the Soliseed",
     "review_note": "",
-    "new_translation_vi": "Giao Hạt Soliseed",
+    "new_translation_vi": "Giao Soliseed",
     "translator_note": ""
   },
   {
@@ -7746,7 +7746,7 @@
     "ai_reason": "",
     "source_en": "Deliver the Soliseed",
     "review_note": "",
-    "new_translation_vi": "Giao Hạt Soliseed",
+    "new_translation_vi": "Giao Soliseed",
     "translator_note": ""
   },
   {
@@ -7761,7 +7761,6 @@
     "primary_key": "Quest_939700000_QuestDesc_939_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7771,8 +7770,9 @@
     "ai_reason": "",
     "source_en": "On the Soliseed Plains, Lyosroth is searching for the missing Soliskin…",
     "review_note": "",
-    "new_translation_vi": "Trên cánh đồng Soliseed, Lyosroth đang tìm kiếm Soliskin thất lạc…",
-    "translator_note": ""
+    "new_translation_vi": "Trên đồng bằng Soliseed, Lyosroth đang tìm kiếm Soliskin bị mất tích…",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010812",
@@ -7796,7 +7796,7 @@
     "ai_reason": "",
     "source_en": "Radiance's Return",
     "review_note": "",
-    "new_translation_vi": "Sự Trở lại của Radiance",
+    "new_translation_vi": "Sự trở lại của ánh sáng",
     "translator_note": ""
   },
   {
@@ -7811,7 +7811,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7821,8 +7820,9 @@
     "ai_reason": "",
     "source_en": "Find the missing Soliskin",
     "review_note": "",
-    "new_translation_vi": "Tìm Soliskin mất tích",
-    "translator_note": ""
+    "new_translation_vi": "Tìm Soliskin bị mất tích",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010814",
@@ -7836,7 +7836,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7846,8 +7845,9 @@
     "ai_reason": "",
     "source_en": "Rescue the trapped Soliskin",
     "review_note": "",
-    "new_translation_vi": "Giải cứu Soliskin bị mắc kẹt",
-    "translator_note": ""
+    "new_translation_vi": "Giải cứu Soliskin đang bị mắc kẹt",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010815",
@@ -7861,7 +7861,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_5",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7872,7 +7871,8 @@
     "source_en": "Find Euginn",
     "review_note": "",
     "new_translation_vi": "Tìm Euginn",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010816",
@@ -7896,7 +7896,7 @@
     "ai_reason": "",
     "source_en": "Find vines to climb up the Solistree",
     "review_note": "",
-    "new_translation_vi": "Tìm dây leo để trèo lên Cây Solis",
+    "new_translation_vi": "Tìm dây leo để leo lên Solistree",
     "translator_note": ""
   },
   {
@@ -7911,7 +7911,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_9",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7922,7 +7921,8 @@
     "source_en": "Find Soliskin “Hoo”",
     "review_note": "",
     "new_translation_vi": "Tìm Soliskin “Hoo”",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010818",
@@ -7936,7 +7936,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_10",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7947,7 +7946,8 @@
     "source_en": "Talk to Soliskin “Shee”",
     "review_note": "",
     "new_translation_vi": "Nói chuyện với Soliskin “Shee”",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010819",
@@ -7996,7 +7996,7 @@
     "ai_reason": "",
     "source_en": "Pull the Lumiglow Handle",
     "review_note": "",
-    "new_translation_vi": "Kéo Tay Nắm Lumiglow",
+    "new_translation_vi": "Kéo tay cầm Lumiglow",
     "translator_note": ""
   },
   {
@@ -8011,7 +8011,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_15",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8022,7 +8021,8 @@
     "source_en": "Gather the Soliskin",
     "review_note": "",
     "new_translation_vi": "Thu thập Soliskin",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010822",
@@ -8046,7 +8046,7 @@
     "ai_reason": "",
     "source_en": "Continue exploring the Solistree",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục khám phá Cây Solistree",
+    "new_translation_vi": "Tiếp tục khám phá Solistree",
     "translator_note": ""
   },
   {
@@ -8071,7 +8071,7 @@
     "ai_reason": "",
     "source_en": "Use the Lumiglow Handle to open the door",
     "review_note": "",
-    "new_translation_vi": "Dùng Tay Cầm Lumiglow để mở cửa",
+    "new_translation_vi": "Sử dụng tay cầm Lumiglow để mở cửa",
     "translator_note": ""
   },
   {
@@ -8096,7 +8096,7 @@
     "ai_reason": "",
     "source_en": "Continue exploring the Solistree",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục khám phá Cây Solistree",
+    "new_translation_vi": "Tiếp tục khám phá Solistree",
     "translator_note": ""
   },
   {
@@ -8111,7 +8111,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_23",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8122,7 +8121,8 @@
     "source_en": "Defeat the out-of-control Ironhoof",
     "review_note": "",
     "new_translation_vi": "Đánh bại Ironhoof mất kiểm soát",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010826",
@@ -8136,7 +8136,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_28",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8146,8 +8145,9 @@
     "ai_reason": "",
     "source_en": "Activate the Solis Orb",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Solis Orb",
-    "translator_note": ""
+    "new_translation_vi": "Kích hoạt quả cầu Solis",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010827",
@@ -8161,7 +8161,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_30",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8171,8 +8170,9 @@
     "ai_reason": "",
     "source_en": "Continue gathering Soliskin in the Solistree",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục thu thập Soliskin trên Solistree",
-    "translator_note": ""
+    "new_translation_vi": "Tiếp tục thu thập Soliskin trong Solistree",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010828",
@@ -8196,7 +8196,7 @@
     "ai_reason": "",
     "source_en": "Pull the Lumiglow Handle",
     "review_note": "",
-    "new_translation_vi": "Kéo Tay Nắm Lumiglow",
+    "new_translation_vi": "Kéo tay cầm Lumiglow",
     "translator_note": ""
   },
   {
@@ -8211,7 +8211,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_35",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8221,8 +8220,9 @@
     "ai_reason": "",
     "source_en": "Continue gathering Soliskin in the Solistree",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục thu thập Soliskin trên Solistree",
-    "translator_note": ""
+    "new_translation_vi": "Tiếp tục thu thập Soliskin trong Solistree",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010830",
@@ -8236,7 +8236,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_41",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8246,8 +8245,9 @@
     "ai_reason": "",
     "source_en": "Form a Soliskin Ball and break through the door",
     "review_note": "",
-    "new_translation_vi": "Tạo Quả Cầu Soliskin và phá vỡ cánh cửa",
-    "translator_note": ""
+    "new_translation_vi": "Tạo thành quả cầu Soliskin và phá vỡ cánh cửa",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010831",
@@ -8261,7 +8261,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_43",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8271,8 +8270,9 @@
     "ai_reason": "",
     "source_en": "Form a Soliskin Ball and break through the Shattergrid Wall",
     "review_note": "",
-    "new_translation_vi": "Tạo Quả Cầu Soliskin và phá vỡ Bức Wall Shattergrid",
-    "translator_note": ""
+    "new_translation_vi": "Tạo thành quả cầu Soliskin và phá vỡ bức tường Shattergrid",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010832",
@@ -8286,7 +8286,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_44",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8297,7 +8296,8 @@
     "source_en": "Talk to Minna",
     "review_note": "",
     "new_translation_vi": "Nói chuyện với Minna",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010833",
@@ -8311,7 +8311,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_45",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8321,8 +8320,9 @@
     "ai_reason": "",
     "source_en": "Talk to the Soliskin",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Soliskin",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010834",
@@ -8336,7 +8336,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_47",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8346,8 +8345,9 @@
     "ai_reason": "",
     "source_en": "Bring the Soliskin “Lulu” with you",
     "review_note": "",
-    "new_translation_vi": "Đưa theo Da Mặt Trời “Lulu” bên mình",
-    "translator_note": ""
+    "new_translation_vi": "Mang theo Soliskin “Lulu”",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010835",
@@ -8361,7 +8361,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_51",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8371,8 +8370,9 @@
     "ai_reason": "",
     "source_en": "Rescue the trapped Soliskin",
     "review_note": "",
-    "new_translation_vi": "Giải cứu Soliskin bị mắc kẹt",
-    "translator_note": ""
+    "new_translation_vi": "Giải cứu Soliskin đang bị mắc kẹt",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010836",
@@ -8386,7 +8386,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_52",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8397,7 +8396,8 @@
     "source_en": "Rescue the Soliskin",
     "review_note": "",
     "new_translation_vi": "Giải cứu Soliskin",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010837",
@@ -8421,7 +8421,7 @@
     "ai_reason": "",
     "source_en": "Continue deeper into the Solistree",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục tiến sâu vào Solistree",
+    "new_translation_vi": "Tiến sâu hơn vào Solistree",
     "translator_note": ""
   },
   {
@@ -8446,7 +8446,7 @@
     "ai_reason": "",
     "source_en": "Defeat the out-of-control Exoswarm",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Exoswarm mất kiểm soát",
+    "new_translation_vi": "Tiêu diệt Exoswarm mất kiểm soát",
     "translator_note": ""
   },
   {
@@ -8461,7 +8461,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_55",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8471,8 +8470,9 @@
     "ai_reason": "",
     "source_en": "Go to the welcome party prepared by the Soliskin",
     "review_note": "",
-    "new_translation_vi": "Đến buổi tiệc chào mừng do Soliskin chuẩn bị đi",
-    "translator_note": ""
+    "new_translation_vi": "Đến bữa tiệc chào mừng do Soliskin chuẩn bị",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010840",
@@ -8496,7 +8496,7 @@
     "ai_reason": "",
     "source_en": "Open the Lumiglow Cage",
     "review_note": "",
-    "new_translation_vi": "Mở Lồng Ánh Sáng",
+    "new_translation_vi": "Mở Lồng Lumiglow",
     "translator_note": ""
   },
   {
@@ -8511,7 +8511,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_57",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8521,8 +8520,9 @@
     "ai_reason": "",
     "source_en": "Gather all the Soliskin",
     "review_note": "",
-    "new_translation_vi": "Thu thập toàn bộ Da Solis",
-    "translator_note": ""
+    "new_translation_vi": "Thu thập tất cả Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010842",
@@ -8536,7 +8536,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_59",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8547,7 +8546,8 @@
     "source_en": "Find Soliskin “Shee”",
     "review_note": "",
     "new_translation_vi": "Tìm Soliskin “Shee”",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010843",
@@ -8571,7 +8571,7 @@
     "ai_reason": "",
     "source_en": "Investigate the suspicious jar",
     "review_note": "",
-    "new_translation_vi": "Điều tra chiếc bình đáng ngờ",
+    "new_translation_vi": "Điều tra cái bình đáng ngờ",
     "translator_note": ""
   },
   {
@@ -8586,7 +8586,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_61",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8596,8 +8595,9 @@
     "ai_reason": "",
     "source_en": "Go to the welcome party prepared by the Soliskin",
     "review_note": "",
-    "new_translation_vi": "Đến buổi tiệc chào mừng do Soliskin chuẩn bị đi",
-    "translator_note": ""
+    "new_translation_vi": "Đến bữa tiệc chào mừng do Soliskin chuẩn bị",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010845",
@@ -8611,7 +8611,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_62",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8621,8 +8620,9 @@
     "ai_reason": "",
     "source_en": "Take part in the Soliskin's welcome party",
     "review_note": "",
-    "new_translation_vi": "Tham gia tiệc chào mừng của Soliskin",
-    "translator_note": ""
+    "new_translation_vi": "Tham gia bữa tiệc chào mừng của Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010846",
@@ -8636,7 +8636,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_63",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8646,8 +8645,9 @@
     "ai_reason": "",
     "source_en": "Talk to the Giant Soliskin",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Soliskin Khổng Lồ",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Soliskin khổng lồ",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010847",
@@ -8661,7 +8661,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_64",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8671,8 +8670,9 @@
     "ai_reason": "",
     "source_en": "Talk to the rejuvenated Giant Soliskin",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Giant Soliskin đã hồi sinh",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Soliskin khổng lồ đã hồi phục",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010848",
@@ -8721,7 +8721,7 @@
     "ai_reason": "",
     "source_en": "Activate the Lumiglow Platform",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Bệ Ánh Sáng",
+    "new_translation_vi": "Kích hoạt Nền tảng Lumiglow",
     "translator_note": ""
   },
   {
@@ -8746,7 +8746,7 @@
     "ai_reason": "",
     "source_en": "Go to the upper level of the Solistree",
     "review_note": "",
-    "new_translation_vi": "Lên tầng trên của Solistree",
+    "new_translation_vi": "Đến tầng trên của Solistree",
     "translator_note": ""
   },
   {
@@ -8771,7 +8771,7 @@
     "ai_reason": "",
     "source_en": "Continue exploring the Solistree",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục khám phá Cây Solistree",
+    "new_translation_vi": "Tiếp tục khám phá Solistree",
     "translator_note": ""
   },
   {
@@ -8786,7 +8786,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_141",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8796,8 +8795,9 @@
     "ai_reason": "",
     "source_en": "Use the Soliskin Ball to break through the Shattergrid Wall",
     "review_note": "",
-    "new_translation_vi": "Dùng Quả Cầu Soliskin để phá vỡ Bức Wall Shattergrid",
-    "translator_note": ""
+    "new_translation_vi": "Sử dụng Soliskin Ball để phá vỡ Bức tường Shattergrid",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010853",
@@ -8811,7 +8811,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_143",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8821,8 +8820,9 @@
     "ai_reason": "",
     "source_en": "Use the Soliskin Ball to break through the Shattergrid Wall",
     "review_note": "",
-    "new_translation_vi": "Dùng Quả Cầu Soliskin để phá vỡ Bức Wall Shattergrid",
-    "translator_note": ""
+    "new_translation_vi": "Sử dụng Soliskin Ball để phá vỡ Bức tường Shattergrid",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010854",
@@ -8846,7 +8846,7 @@
     "ai_reason": "",
     "source_en": "Take part in the welcome party",
     "review_note": "",
-    "new_translation_vi": "Tham gia tiệc chào mừng",
+    "new_translation_vi": "Tham gia bữa tiệc chào mừng",
     "translator_note": ""
   },
   {
@@ -8871,7 +8871,7 @@
     "ai_reason": "",
     "source_en": "Take part in the welcome party",
     "review_note": "",
-    "new_translation_vi": "Tham gia tiệc chào mừng",
+    "new_translation_vi": "Tham gia bữa tiệc chào mừng",
     "translator_note": ""
   },
   {
@@ -8896,7 +8896,7 @@
     "ai_reason": "",
     "source_en": "Take part in the welcome party",
     "review_note": "",
-    "new_translation_vi": "Tham gia tiệc chào mừng",
+    "new_translation_vi": "Tham gia bữa tiệc chào mừng",
     "translator_note": ""
   },
   {
@@ -8921,7 +8921,7 @@
     "ai_reason": "",
     "source_en": "Take part in the welcome party",
     "review_note": "",
-    "new_translation_vi": "Tham gia tiệc chào mừng",
+    "new_translation_vi": "Tham gia bữa tiệc chào mừng",
     "translator_note": ""
   },
   {
@@ -8946,7 +8946,7 @@
     "ai_reason": "",
     "source_en": "Take part in the welcome party",
     "review_note": "",
-    "new_translation_vi": "Tham gia tiệc chào mừng",
+    "new_translation_vi": "Tham gia bữa tiệc chào mừng",
     "translator_note": ""
   },
   {
@@ -9021,7 +9021,7 @@
     "ai_reason": "",
     "source_en": "Read the incoming WavesLine message",
     "review_note": "",
-    "new_translation_vi": "Đọc tin nhắn WavesLine đến",
+    "new_translation_vi": "Đọc tin nhắn WavesLine vừa nhận",
     "translator_note": ""
   },
   {
@@ -9146,7 +9146,7 @@
     "ai_reason": "",
     "source_en": "Use the Adaptive Hook on your motorbike",
     "review_note": "",
-    "new_translation_vi": "Gắn Móc Thích Ứng vào xe máy của cậu",
+    "new_translation_vi": "Sử dụng Adaptive Hook trên xe máy của bạn",
     "translator_note": ""
   },
   {
@@ -9161,7 +9161,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_191",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9171,8 +9170,9 @@
     "ai_reason": "",
     "source_en": "Continue gathering Soliskin in the other Solistrees",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục thu thập Soliskin trên những cây Solistree khác",
-    "translator_note": ""
+    "new_translation_vi": "Tiếp tục thu thập Soliskin tại Solistrees khác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010868",
@@ -9196,7 +9196,7 @@
     "ai_reason": "",
     "source_en": "Use the Adaptive Hook on your motorbike",
     "review_note": "",
-    "new_translation_vi": "Gắn Móc Thích Ứng vào xe máy của cậu",
+    "new_translation_vi": "Sử dụng Adaptive Hook trên xe máy của bạn",
     "translator_note": ""
   },
   {
@@ -9211,7 +9211,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_200",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9221,8 +9220,9 @@
     "ai_reason": "",
     "source_en": "Continue gathering Soliskin in the other Solistrees",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục thu thập Soliskin trên những cây Solistree khác",
-    "translator_note": ""
+    "new_translation_vi": "Tiếp tục thu thập Soliskin tại Solistrees khác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010870",
@@ -9236,7 +9236,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_205",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9246,8 +9245,9 @@
     "ai_reason": "",
     "source_en": "Continue gathering Soliskin in the other Solistrees",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục thu thập Soliskin trên những cây Solistree khác",
-    "translator_note": ""
+    "new_translation_vi": "Tiếp tục thu thập Soliskin tại Solistrees khác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010871",
@@ -9261,7 +9261,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_206",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9271,8 +9270,9 @@
     "ai_reason": "",
     "source_en": "Continue gathering Soliskin in the other Solistrees",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục thu thập Soliskin trên những cây Solistree khác",
-    "translator_note": ""
+    "new_translation_vi": "Tiếp tục thu thập Soliskin tại Solistrees khác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010872",
@@ -9311,7 +9311,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_213",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9321,8 +9320,9 @@
     "ai_reason": "",
     "source_en": "Gather Soliskin in the last Solistree",
     "review_note": "",
-    "new_translation_vi": "Thu thập Da Solis từ cây Solistree cuối cùng",
-    "translator_note": ""
+    "new_translation_vi": "Thu thập Soliskin tại Solistree cuối cùng",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010874",
@@ -9386,7 +9386,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_225",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9396,8 +9395,9 @@
     "ai_reason": "",
     "source_en": "Proceed to the last giant tree to summon the Soliskin",
     "review_note": "",
-    "new_translation_vi": "Đến cây cổ thụ cuối cùng để triệu hồi Soliskin",
-    "translator_note": ""
+    "new_translation_vi": "Tiến đến cái cây khổng lồ cuối cùng để triệu hồi Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010877",
@@ -9421,7 +9421,7 @@
     "ai_reason": "",
     "source_en": "Enter the giant tree",
     "review_note": "",
-    "new_translation_vi": "Vào cây khổng lồ",
+    "new_translation_vi": "Vào cái cây khổng lồ",
     "translator_note": ""
   },
   {
@@ -9436,7 +9436,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_234",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9446,8 +9445,9 @@
     "ai_reason": "",
     "source_en": "Save the Soliskin",
     "review_note": "",
-    "new_translation_vi": "Cứu Soliskin",
-    "translator_note": ""
+    "new_translation_vi": "Giải cứu Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010879",
@@ -9461,7 +9461,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_238",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9471,8 +9470,9 @@
     "ai_reason": "",
     "source_en": "Save the trapped Soliskin",
     "review_note": "",
-    "new_translation_vi": "Giải cứu Soliskin bị mắc kẹt",
-    "translator_note": ""
+    "new_translation_vi": "Giải cứu Soliskin đang bị mắc kẹt",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010880",
@@ -9521,7 +9521,7 @@
     "ai_reason": "",
     "source_en": "Continue forward",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục tiến lên",
+    "new_translation_vi": "Tiếp tục đi tới",
     "translator_note": ""
   },
   {
@@ -9561,7 +9561,6 @@
     "primary_key": "Quest_939000000_ChildQuestTip_939_244",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9571,8 +9570,9 @@
     "ai_reason": "",
     "source_en": "Save the Soliskin",
     "review_note": "",
-    "new_translation_vi": "Cứu Soliskin",
-    "translator_note": ""
+    "new_translation_vi": "Giải cứu Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010884",
@@ -9621,7 +9621,7 @@
     "ai_reason": "",
     "source_en": "Continue forward",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục tiến lên",
+    "new_translation_vi": "Tiếp tục đi tới",
     "translator_note": ""
   },
   {
@@ -9646,7 +9646,7 @@
     "ai_reason": "",
     "source_en": "Continue forward",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục tiến lên",
+    "new_translation_vi": "Tiếp tục đi tới",
     "translator_note": ""
   },
   {
@@ -9696,7 +9696,7 @@
     "ai_reason": "",
     "source_en": "Take part in the welcome party",
     "review_note": "",
-    "new_translation_vi": "Tham gia tiệc chào mừng",
+    "new_translation_vi": "Tham gia bữa tiệc chào mừng",
     "translator_note": ""
   },
   {
@@ -9711,7 +9711,6 @@
     "primary_key": "Quest_939000000_QuestDesc_939_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9721,8 +9720,9 @@
     "ai_reason": "",
     "source_en": "Minna has just bought her very first Terminal, but she doesn't seem to have the faintest idea how to use it...\nFind her in Bjartr Woods and lend a hand before she accidentally breaks it.",
     "review_note": "",
-    "new_translation_vi": "Minna vừa mua chiếc Terminal đầu tiên trong đời, nhưng cô bé dường như chẳng biết dùng nó như thế nào...\nHãy tìm gặp cô ở Bjartr Woods và giúp đỡ trước khi cô vô tình làm hỏng nó.",
-    "translator_note": ""
+    "new_translation_vi": "Minna vừa mua chiếc Terminal đầu tiên của mình, nhưng cô ấy dường như không biết cách sử dụng nó... \\nTìm cô ấy tại Bjartr Woods và giúp một tay trước khi cô ấy vô tình làm hỏng nó.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010890",
@@ -9746,7 +9746,7 @@
     "ai_reason": "",
     "source_en": "Where Light Takes Shape",
     "review_note": "",
-    "new_translation_vi": "Nơi Ánh Sáng Hóa Hình",
+    "new_translation_vi": "Nơi Ánh Sáng Định Hình",
     "translator_note": ""
   },
   {
@@ -9761,7 +9761,6 @@
     "primary_key": "Quest_939000000_QuestScheduleMainTitle_939_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9771,8 +9770,9 @@
     "ai_reason": "",
     "source_en": "Find the hiding Soliskin",
     "review_note": "",
-    "new_translation_vi": "Tìm Soliskin đang trốn",
-    "translator_note": ""
+    "new_translation_vi": "Tìm Soliskin đang ẩn nấp",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010892",
@@ -9786,7 +9786,6 @@
     "primary_key": "Quest_939000000_QuestScheduleMainTitle_939_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9797,7 +9796,8 @@
     "source_en": "Gather the Soliskin and open the path",
     "review_note": "",
     "new_translation_vi": "Thu thập Soliskin và mở đường",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010893",
@@ -9811,7 +9811,6 @@
     "primary_key": "Quest_939000000_QuestScheduleMainTitle_939_6",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9821,8 +9820,9 @@
     "ai_reason": "",
     "source_en": "Gather the Soliskin and activate the Lumiglow Platform to the upper level",
     "review_note": "",
-    "new_translation_vi": "Thu thập Soliskin và kích hoạt Nền Sáng Lấp Lánh lên tầng trên",
-    "translator_note": ""
+    "new_translation_vi": "Thu thập Soliskin và kích hoạt Nền tảng Lumiglow để lên tầng trên",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010894",
@@ -9836,7 +9836,6 @@
     "primary_key": "Quest_939000000_QuestScheduleMainTitle_939_7",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9847,7 +9846,8 @@
     "source_en": "Gather the Soliskin and open the path deeper into the Solistree",
     "review_note": "",
     "new_translation_vi": "Thu thập Soliskin và mở đường tiến sâu hơn vào Solistree",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010895",
@@ -9861,7 +9861,6 @@
     "primary_key": "Quest_939000000_QuestScheduleMainTitle_939_8",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9871,8 +9870,9 @@
     "ai_reason": "",
     "source_en": "Gather the Soliskin and activate the Lumiglow Platform",
     "review_note": "",
-    "new_translation_vi": "Thu thập Soliskin và kích hoạt Nền Sáng Lấp Lánh",
-    "translator_note": ""
+    "new_translation_vi": "Thu thập Soliskin và kích hoạt Nền tảng Lumiglow",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010896",
@@ -9886,7 +9886,6 @@
     "primary_key": "Quest_939000000_QuestScheduleMainTitle_939_10",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9897,7 +9896,8 @@
     "source_en": "Gather the Soliskin and open the path deeper into the Solistree",
     "review_note": "",
     "new_translation_vi": "Thu thập Soliskin và mở đường tiến sâu hơn vào Solistree",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010897",
@@ -9921,7 +9921,7 @@
     "ai_reason": "",
     "source_en": "Break through the Shattergrid Wall to find the path",
     "review_note": "",
-    "new_translation_vi": "Phá vỡ Bức Wall Shattergrid để tìm đường đi",
+    "new_translation_vi": "Phá vỡ Bức tường Shattergrid để tìm đường",
     "translator_note": ""
   },
   {
@@ -9946,7 +9946,7 @@
     "ai_reason": "",
     "source_en": "Break through the Shattergrid Wall",
     "review_note": "",
-    "new_translation_vi": "Phá vỡ Bức Tường Shattergrid",
+    "new_translation_vi": "Phá vỡ Bức tường Shattergrid",
     "translator_note": ""
   },
   {
@@ -9986,7 +9986,6 @@
     "primary_key": "Quest_939000000_QuestScheduleMainTitle_939_17",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9997,7 +9996,8 @@
     "source_en": "Gather 24 Soliskin to open the Lumiglow Cage",
     "review_note": "",
     "new_translation_vi": "Thu thập 24 Soliskin để mở Lồng Lumiglow",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010901",
@@ -10011,7 +10011,6 @@
     "primary_key": "Quest_939000000_QuestScheduleMainTitle_939_19",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10022,7 +10021,8 @@
     "source_en": "Gather 30 Soliskin",
     "review_note": "",
     "new_translation_vi": "Thu thập 30 Soliskin",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010902",
@@ -10136,7 +10136,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_14",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10147,7 +10146,8 @@
     "source_en": "Find Soliskin “Hoo”",
     "review_note": "",
     "new_translation_vi": "Tìm Soliskin “Hoo”",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010907",
@@ -10161,7 +10161,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_19",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10172,7 +10171,8 @@
     "source_en": "Find Soliskin “Shee”",
     "review_note": "",
     "new_translation_vi": "Tìm Soliskin “Shee”",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010908",
@@ -10196,7 +10196,7 @@
     "ai_reason": "",
     "source_en": "Investigate the suspicious jar",
     "review_note": "",
-    "new_translation_vi": "Điều tra chiếc bình đáng ngờ",
+    "new_translation_vi": "Điều tra cái bình đáng ngờ",
     "translator_note": ""
   },
   {
@@ -10211,7 +10211,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_23",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10221,8 +10220,9 @@
     "ai_reason": "",
     "source_en": "Talk to Soliskin “Shee”",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Soliskin “Shee”",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Soliskin “Shee”",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010910",
@@ -10236,7 +10236,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_28",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10246,8 +10245,9 @@
     "ai_reason": "",
     "source_en": "Soliskin Gathered: {q_count}",
     "review_note": "",
-    "new_translation_vi": "Soliskin Gathered: {q_count}",
-    "translator_note": ""
+    "new_translation_vi": "Đã thu thập Soliskin: {q_count}",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010911",
@@ -10261,7 +10261,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_29",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10271,8 +10270,9 @@
     "ai_reason": "",
     "source_en": "Gather 5 Soliskin to open the door",
     "review_note": "",
-    "new_translation_vi": "Thu thập 5 miếng Da Solis để mở cửa",
-    "translator_note": ""
+    "new_translation_vi": "Thu thập 5 Soliskin để mở cửa",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010912",
@@ -10286,7 +10286,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_30",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10296,8 +10295,9 @@
     "ai_reason": "",
     "source_en": "Soliskin Gathered: {q_count}",
     "review_note": "",
-    "new_translation_vi": "Soliskin Gathered: {q_count}",
-    "translator_note": ""
+    "new_translation_vi": "Đã thu thập Soliskin: {q_count}",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010913",
@@ -10311,7 +10311,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_31",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10322,7 +10321,8 @@
     "source_en": "Gather 12 Soliskin to activate the Solis Orb",
     "review_note": "",
     "new_translation_vi": "Thu thập 12 Soliskin để kích hoạt Solis Orb",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010914",
@@ -10336,7 +10336,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_32",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10346,8 +10345,9 @@
     "ai_reason": "",
     "source_en": "Soliskin Gathered: {q_count}",
     "review_note": "",
-    "new_translation_vi": "Soliskin Gathered: {q_count}",
-    "translator_note": ""
+    "new_translation_vi": "Đã thu thập Soliskin: {q_count}",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010915",
@@ -10361,7 +10361,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_33",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10371,8 +10370,9 @@
     "ai_reason": "",
     "source_en": "Gather 14 Soliskin to activate the door",
     "review_note": "",
-    "new_translation_vi": "Thu thập 14 Soliskin để mở cánh cửa",
-    "translator_note": ""
+    "new_translation_vi": "Thu thập 14 Soliskin để kích hoạt cửa",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010916",
@@ -10386,7 +10386,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_34",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10396,8 +10395,9 @@
     "ai_reason": "",
     "source_en": "Soliskin Gathered: {q_count}",
     "review_note": "",
-    "new_translation_vi": "Soliskin Gathered: {q_count}",
-    "translator_note": ""
+    "new_translation_vi": "Đã thu thập Soliskin: {q_count}",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010917",
@@ -10411,7 +10411,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_36",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10421,8 +10420,9 @@
     "ai_reason": "",
     "source_en": "Soliskin Gathered: {q_count}",
     "review_note": "",
-    "new_translation_vi": "Soliskin Gathered: {q_count}",
-    "translator_note": ""
+    "new_translation_vi": "Đã thu thập Soliskin: {q_count}",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010918",
@@ -10436,7 +10436,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_37",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10446,8 +10445,9 @@
     "ai_reason": "",
     "source_en": "Gather 17 Soliskin to activate the Lumiglow Platform",
     "review_note": "",
-    "new_translation_vi": "Thu thập 17 Soliskin để kích hoạt Nền Tảng Lumiglow",
-    "translator_note": ""
+    "new_translation_vi": "Thu thập 17 Soliskin để kích hoạt Lumiglow Platform",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010919",
@@ -10461,7 +10461,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_39",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10471,8 +10470,9 @@
     "ai_reason": "",
     "source_en": "Soliskin Gathered: {q_count}",
     "review_note": "",
-    "new_translation_vi": "Soliskin Gathered: {q_count}",
-    "translator_note": ""
+    "new_translation_vi": "Đã thu thập Soliskin: {q_count}",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010920",
@@ -10486,7 +10486,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_42",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10496,8 +10495,9 @@
     "ai_reason": "",
     "source_en": "Gather 22 Soliskin to break through the Shattergrid Wall",
     "review_note": "",
-    "new_translation_vi": "Thu thập 22 Soliskin để phá vỡ Bức Wall Shattergrid",
-    "translator_note": ""
+    "new_translation_vi": "Thu thập 22 Soliskin để phá vỡ Shattergrid Wall",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010921",
@@ -10511,7 +10511,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_43",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10521,8 +10520,9 @@
     "ai_reason": "",
     "source_en": "Soliskin Gathered: {q_count}",
     "review_note": "",
-    "new_translation_vi": "Soliskin Gathered: {q_count}",
-    "translator_note": ""
+    "new_translation_vi": "Đã thu thập Soliskin: {q_count}",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010922",
@@ -10536,7 +10536,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_45",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10547,7 +10546,8 @@
     "source_en": "Gather 24 Soliskin to pull open the blocked wall",
     "review_note": "",
     "new_translation_vi": "Thu thập 24 Soliskin để kéo mở bức tường bị chặn",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010923",
@@ -10561,7 +10561,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_46",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10571,8 +10570,9 @@
     "ai_reason": "",
     "source_en": "Soliskin Gathered: {q_count}",
     "review_note": "",
-    "new_translation_vi": "Soliskin Gathered: {q_count}",
-    "translator_note": ""
+    "new_translation_vi": "Đã thu thập Soliskin: {q_count}",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010924",
@@ -10586,7 +10586,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_47",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10596,8 +10595,9 @@
     "ai_reason": "",
     "source_en": "Gather 24 Soliskin to open the Lumiglow Cage",
     "review_note": "",
-    "new_translation_vi": "Thu thập 24 Soliskin để mở Lồng Lumiglow",
-    "translator_note": ""
+    "new_translation_vi": "Thu thập 24 Soliskin để mở Lumiglow Cage",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010925",
@@ -10611,7 +10611,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_48",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10621,8 +10620,9 @@
     "ai_reason": "",
     "source_en": "Soliskin Gathered: {q_count}",
     "review_note": "",
-    "new_translation_vi": "Soliskin Gathered: {q_count}",
-    "translator_note": ""
+    "new_translation_vi": "Đã thu thập Soliskin: {q_count}",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010926",
@@ -10636,7 +10636,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_49",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10647,7 +10646,8 @@
     "source_en": "Gather 30 Soliskin",
     "review_note": "",
     "new_translation_vi": "Thu thập 30 Soliskin",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010927",
@@ -10661,7 +10661,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_50",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10671,8 +10670,9 @@
     "ai_reason": "",
     "source_en": "Soliskin Gathered: {q_count}",
     "review_note": "",
-    "new_translation_vi": "Soliskin Gathered: {q_count}",
-    "translator_note": ""
+    "new_translation_vi": "Đã thu thập Soliskin: {q_count}",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010928",
@@ -10686,7 +10686,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_52",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10696,8 +10695,9 @@
     "ai_reason": "",
     "source_en": "Gather 7 Soliskin to open the door",
     "review_note": "",
-    "new_translation_vi": "Thu thập 7 miếng Da Solis để mở cửa",
-    "translator_note": ""
+    "new_translation_vi": "Thu thập 7 Soliskin để mở cửa",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010929",
@@ -10711,7 +10711,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_54",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10721,8 +10720,9 @@
     "ai_reason": "",
     "source_en": "Gather 10 Soliskin to activate the Lumiglow Platform",
     "review_note": "",
-    "new_translation_vi": "Thu thập 10 Soliskin để kích hoạt Nền Tảng Lumiglow",
-    "translator_note": ""
+    "new_translation_vi": "Thu thập 10 Soliskin để kích hoạt Lumiglow Platform",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010930",
@@ -10736,7 +10736,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_55",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10746,8 +10745,9 @@
     "ai_reason": "",
     "source_en": "Gather 20 Soliskin to break through the Shattergrid Wall",
     "review_note": "",
-    "new_translation_vi": "Thu thập 20 Soliskin để phá vỡ Bức Wall Shattergrid",
-    "translator_note": ""
+    "new_translation_vi": "Thu thập 20 Soliskin để phá vỡ Shattergrid Wall",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010931",
@@ -10761,7 +10761,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_56",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10771,8 +10770,9 @@
     "ai_reason": "",
     "source_en": "Gather 22 Soliskin to activate the Lumiglow Platform",
     "review_note": "",
-    "new_translation_vi": "Thu thập 22 Soliskin để kích hoạt Nền Tảng Lumiglow",
-    "translator_note": ""
+    "new_translation_vi": "Thu thập 22 Soliskin để kích hoạt Lumiglow Platform",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010932",
@@ -10786,7 +10786,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_57",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10796,8 +10795,9 @@
     "ai_reason": "",
     "source_en": "Gather 15 Soliskin to break through the Shattergrid Wall",
     "review_note": "",
-    "new_translation_vi": "Thu thập 15 Soliskin để phá vỡ Bức Wall Shattergrid",
-    "translator_note": ""
+    "new_translation_vi": "Thu thập 15 Soliskin để phá vỡ Shattergrid Wall",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010933",
@@ -10811,7 +10811,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_59",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10821,8 +10820,9 @@
     "ai_reason": "",
     "source_en": "Find a way to repair the path for the Soliskin Ball",
     "review_note": "",
-    "new_translation_vi": "Tìm cách sửa đường dẫn cho Quả cầu Soliskin",
-    "translator_note": ""
+    "new_translation_vi": "Tìm cách sửa chữa con đường cho Soliskin Ball",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010934",
@@ -10836,7 +10836,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_60",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10846,8 +10845,9 @@
     "ai_reason": "",
     "source_en": "Try using the Soliskin Ball to break through the Shattergrid Wall again",
     "review_note": "",
-    "new_translation_vi": "Thử dùng lại Quả Cầu Soliskin để phá vỡ bức tường Shattergrid lần nữa.",
-    "translator_note": ""
+    "new_translation_vi": "Thử dùng Soliskin Ball để phá vỡ Shattergrid Wall lần nữa",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010935",
@@ -10861,7 +10861,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_61",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10872,7 +10871,8 @@
     "source_en": "Gather 24 Soliskin to pull open the blocked wall",
     "review_note": "",
     "new_translation_vi": "Thu thập 24 Soliskin để kéo mở bức tường bị chặn",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010936",
@@ -10886,7 +10886,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_62",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10896,8 +10895,9 @@
     "ai_reason": "",
     "source_en": "Gathered Soliskin: {q_count}",
     "review_note": "",
-    "new_translation_vi": "Gathered Soliskin: {q_count}",
-    "translator_note": ""
+    "new_translation_vi": "Đã thu thập Soliskin: {q_count}",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010937",
@@ -10911,7 +10911,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_63",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10922,7 +10921,8 @@
     "source_en": "Gather 24 Soliskin to pull open the blocked wall",
     "review_note": "",
     "new_translation_vi": "Thu thập 24 Soliskin để kéo mở bức tường bị chặn",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010938",
@@ -10936,7 +10936,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_64",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10946,8 +10945,9 @@
     "ai_reason": "",
     "source_en": "Gathered Soliskin: {q_count}",
     "review_note": "",
-    "new_translation_vi": "Gathered Soliskin: {q_count}",
-    "translator_note": ""
+    "new_translation_vi": "Đã thu thập Soliskin: {q_count}",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010939",
@@ -10961,7 +10961,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_65",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10972,7 +10971,8 @@
     "source_en": "Gather 24 Soliskin to pull open the blocked wall",
     "review_note": "",
     "new_translation_vi": "Thu thập 24 Soliskin để kéo mở bức tường bị chặn",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010940",
@@ -10986,7 +10986,6 @@
     "primary_key": "Quest_939000000_QuestScheduleSubTitle_939_66",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10996,8 +10995,9 @@
     "ai_reason": "",
     "source_en": "Gathered Soliskin: {q_count}",
     "review_note": "",
-    "new_translation_vi": "Gathered Soliskin: {q_count}",
-    "translator_note": ""
+    "new_translation_vi": "Đã thu thập Soliskin: {q_count}",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010941",
@@ -11021,7 +11021,7 @@
     "ai_reason": "",
     "source_en": "Void Storm Reinforcement",
     "review_note": "",
-    "new_translation_vi": "Void Storm Tăng Cường",
+    "new_translation_vi": "Tiếp viện Void Storm",
     "translator_note": ""
   },
   {
@@ -11071,7 +11071,7 @@
     "ai_reason": "",
     "source_en": "Find and speak with S.I.G.M.A.",
     "review_note": "",
-    "new_translation_vi": "Tìm và nói chuyện với S.I.G.M.A.",
+    "new_translation_vi": "Tìm và trò chuyện với S.I.G.M.A.",
     "translator_note": ""
   },
   {
@@ -11096,7 +11096,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -11121,7 +11121,7 @@
     "ai_reason": "",
     "source_en": "Complete all Void Storm Reinforcement assignments and claim rewards from S.I.G.M.A.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành tất cả nhiệm vụ Tăng Cường Void Storm và nhận thưởng từ S.I.G.M.A.",
+    "new_translation_vi": "Hoàn thành tất cả nhiệm vụ Tiếp viện Void Storm và nhận phần thưởng từ S.I.G.M.A.",
     "translator_note": ""
   },
   {
@@ -11146,7 +11146,7 @@
     "ai_reason": "",
     "source_en": "Void Storm Reinforcement",
     "review_note": "",
-    "new_translation_vi": "Void Storm Tăng Cường",
+    "new_translation_vi": "Tiếp viện Void Storm",
     "translator_note": ""
   },
   {
@@ -11211,7 +11211,6 @@
     "primary_key": "Quest_195700000_ChildQuestTip_195_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -11222,7 +11221,8 @@
     "source_en": "Meet up with Mornye",
     "review_note": "",
     "new_translation_vi": "Gặp gỡ Mornye",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010950",
@@ -11246,7 +11246,7 @@
     "ai_reason": "",
     "source_en": "Ride the motorbike through the Submerged Tunnel",
     "review_note": "",
-    "new_translation_vi": "Lái xe máy xuyên qua Submerged Tunnel",
+    "new_translation_vi": "Lái xe máy qua Submerged Tunnel",
     "translator_note": ""
   },
   {
@@ -11271,7 +11271,7 @@
     "ai_reason": "",
     "source_en": "Ride the motorbike through the Submerged Tunnel",
     "review_note": "",
-    "new_translation_vi": "Lái xe máy xuyên qua Submerged Tunnel",
+    "new_translation_vi": "Lái xe máy qua Submerged Tunnel",
     "translator_note": ""
   },
   {
@@ -11296,7 +11296,7 @@
     "ai_reason": "",
     "source_en": "Ride the motorbike through the Submerged Tunnel",
     "review_note": "",
-    "new_translation_vi": "Lái xe máy xuyên qua Submerged Tunnel",
+    "new_translation_vi": "Lái xe máy qua Submerged Tunnel",
     "translator_note": ""
   },
   {
@@ -11311,7 +11311,6 @@
     "primary_key": "Quest_195700000_ChildQuestTip_195_7",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -11321,8 +11320,9 @@
     "ai_reason": "",
     "source_en": "Say goodbye to Mornye",
     "review_note": "",
-    "new_translation_vi": "Chào tạm biệt Mornye",
-    "translator_note": ""
+    "new_translation_vi": "Nói lời tạm biệt với Mornye",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010954",
@@ -11346,7 +11346,7 @@
     "ai_reason": "",
     "source_en": "Ride the motorbike through the Submerged Tunnel",
     "review_note": "",
-    "new_translation_vi": "Lái xe máy xuyên qua Submerged Tunnel",
+    "new_translation_vi": "Lái xe máy qua Submerged Tunnel",
     "translator_note": ""
   },
   {
@@ -11371,7 +11371,7 @@
     "ai_reason": "",
     "source_en": "Ride the motorbike through the Submerged Tunnel",
     "review_note": "",
-    "new_translation_vi": "Lái xe máy xuyên qua Submerged Tunnel",
+    "new_translation_vi": "Lái xe máy qua Submerged Tunnel",
     "translator_note": ""
   },
   {
@@ -11386,7 +11386,6 @@
     "primary_key": "Quest_195700000_ChildQuestTip_195_11",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -11396,8 +11395,9 @@
     "ai_reason": "",
     "source_en": "Wait for Mornye",
     "review_note": "",
-    "new_translation_vi": "Chờ Mornye",
-    "translator_note": ""
+    "new_translation_vi": "Đợi Mornye",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010957",
@@ -11421,7 +11421,7 @@
     "ai_reason": "",
     "source_en": "Discuss the Submerged Tunnel rebuild with Abby",
     "review_note": "",
-    "new_translation_vi": "Bàn về việc tái thiết Submerged Tunnel cùng Abby",
+    "new_translation_vi": "Thảo luận về việc xây dựng lại Submerged Tunnel với Abby",
     "translator_note": ""
   },
   {
@@ -11446,7 +11446,7 @@
     "ai_reason": "",
     "source_en": "The Sea Just Within Reach",
     "review_note": "",
-    "new_translation_vi": "Biển Cách Đó Không Xa",
+    "new_translation_vi": "Biển cả trong tầm với",
     "translator_note": ""
   },
   {
@@ -11461,7 +11461,6 @@
     "primary_key": "Quest_686700000_ChildQuestTip_160_8",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -11471,8 +11470,9 @@
     "ai_reason": "",
     "source_en": "Talk to the Soliskin",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Soliskin",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010960",
@@ -11496,7 +11496,7 @@
     "ai_reason": "",
     "source_en": "Find Fa's friend at the location shown in the photo",
     "review_note": "",
-    "new_translation_vi": "Tìm bạn của Fa ở địa điểm trong ảnh",
+    "new_translation_vi": "Tìm bạn của Fa tại địa điểm trong ảnh",
     "translator_note": ""
   },
   {
@@ -11521,7 +11521,7 @@
     "ai_reason": "",
     "source_en": "Find Fa's friend at the location shown in the photo",
     "review_note": "",
-    "new_translation_vi": "Tìm bạn của Fa ở địa điểm trong ảnh",
+    "new_translation_vi": "Tìm bạn của Fa tại địa điểm trong ảnh",
     "translator_note": ""
   },
   {
@@ -11546,7 +11546,7 @@
     "ai_reason": "",
     "source_en": "Find Fa's friend at the location shown in the photo",
     "review_note": "",
-    "new_translation_vi": "Tìm bạn của Fa ở địa điểm trong ảnh",
+    "new_translation_vi": "Tìm bạn của Fa tại địa điểm trong ảnh",
     "translator_note": ""
   },
   {
@@ -11561,7 +11561,6 @@
     "primary_key": "Quest_686700000_ChildQuestTip_160_12",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -11571,8 +11570,9 @@
     "ai_reason": "",
     "source_en": "Return to where you first met Fa and regroup with the Soliskin",
     "review_note": "",
-    "new_translation_vi": "Return nơi đầu tiên cậu gặp Fa và tập hợp cùng nhóm Soliskin",
-    "translator_note": ""
+    "new_translation_vi": "Quay lại nơi bạn gặp Fa lần đầu và tập hợp với Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010964",
@@ -11586,7 +11586,6 @@
     "primary_key": "Quest_686700000_ChildQuestTip_160_15",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -11596,8 +11595,9 @@
     "ai_reason": "",
     "source_en": "Talk to the Soliskin",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Soliskin",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010965",
@@ -11621,7 +11621,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Spacetrek Explorer and rescue Re",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt Nhà Thám Hiểm Spacetrek và giải cứu Re",
+    "new_translation_vi": "Đánh bại Spacetrek Explorer và giải cứu Re",
     "translator_note": ""
   },
   {
@@ -11636,7 +11636,6 @@
     "primary_key": "Quest_686700000_ChildQuestTip_160_21",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -11646,8 +11645,9 @@
     "ai_reason": "",
     "source_en": "Return to where you first met Fa and regroup with the Soliskin",
     "review_note": "",
-    "new_translation_vi": "Return nơi đầu tiên cậu gặp Fa và tập hợp cùng nhóm Soliskin",
-    "translator_note": ""
+    "new_translation_vi": "Quay lại nơi bạn gặp Fa lần đầu và tập hợp với Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010967",
@@ -11661,7 +11661,6 @@
     "primary_key": "Quest_686700000_ChildQuestTip_686_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -11671,8 +11670,9 @@
     "ai_reason": "",
     "source_en": "Drive off the lemmings and help the Soliskin reclaim its music sheet",
     "review_note": "",
-    "new_translation_vi": "Đuổi lũ chuột lemming đi và giúp tộc Soliskin lấy lại bản nhạc của họ",
-    "translator_note": ""
+    "new_translation_vi": "Xua đuổi lũ lemming và giúp Soliskin lấy lại bản nhạc",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010968",
@@ -11696,7 +11696,7 @@
     "ai_reason": "",
     "source_en": "Use Projector: Zip Zap to reboot the Spacetrek Explorer",
     "review_note": "",
-    "new_translation_vi": "Dùng Máy Chiếu: Zip Zap khởi động lại Spacetrek Explorer",
+    "new_translation_vi": "Sử dụng Projector: Zip Zap để khởi động lại Spacetrek Explorer",
     "translator_note": ""
   },
   {
@@ -11746,7 +11746,7 @@
     "ai_reason": "",
     "source_en": "Ride the awakened flying fish",
     "review_note": "",
-    "new_translation_vi": "Ride con cá bay thức tỉnh",
+    "new_translation_vi": "Cưỡi cá bay đã thức tỉnh",
     "translator_note": ""
   },
   {
@@ -11771,7 +11771,7 @@
     "ai_reason": "",
     "source_en": "Locate the source of the sound",
     "review_note": "",
-    "new_translation_vi": "Tìm nguồn gốc của âm thanh",
+    "new_translation_vi": "Xác định nguồn gốc âm thanh",
     "translator_note": ""
   },
   {
@@ -11821,7 +11821,7 @@
     "ai_reason": "",
     "source_en": "Follow the clues on the music sheet and use the Hoverdroid to hit the right keys",
     "review_note": "",
-    "new_translation_vi": "Làm theo chỉ dẫn trên bản nhạc và dùng Hoverdroid để nhấn đúng phím",
+    "new_translation_vi": "Theo các manh mối trên bản nhạc và dùng Hoverdroid để nhấn đúng phím",
     "translator_note": ""
   },
   {
@@ -11836,7 +11836,6 @@
     "primary_key": "Quest_686700000_InteractContent_160_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -11846,8 +11845,9 @@
     "ai_reason": "",
     "source_en": "Talk to the Soliskin",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Soliskin",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010975",
@@ -11861,7 +11861,6 @@
     "primary_key": "Quest_686700000_InteractContent_160_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -11871,8 +11870,9 @@
     "ai_reason": "",
     "source_en": "Talk to the Soliskin",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Soliskin",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010976",
@@ -11886,7 +11886,6 @@
     "primary_key": "Quest_686700000_QuestDesc_686_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -11896,8 +11895,9 @@
     "ai_reason": "",
     "source_en": "A melody, once scattered to the winds, is now sought by Soliskin who yearn to hear it whole again. \nFollow them to a place heavy with memory. Work with the Soliskin to restore the lost \"music sheet.\" If the music returns, the story it holds may finally awaken.",
     "review_note": "",
-    "new_translation_vi": "Một bản nhạc từng tan theo gió giờ đây được những Soliskin khao khát nghe lại trọn vẹn. \nHãy theo họ đến nơi chất chứa ký ức. Cùng Soliskin khôi phục lại \"bản nhạc\" đã mất. Nếu âm nhạc trở lại, câu chuyện mà nó mang theo có thể sẽ thức tỉnh.",
-    "translator_note": ""
+    "new_translation_vi": "Một giai điệu từng tan vào gió nay được Soliskin tìm kiếm, những người khao khát được nghe trọn vẹn một lần nữa. Hãy theo họ đến nơi chứa đầy ký ức. Phối hợp với Soliskin để khôi phục \"bản nhạc\" đã mất. Nếu âm nhạc trở lại, câu chuyện ẩn chứa bên trong có thể cuối cùng sẽ thức tỉnh.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010977",
@@ -11921,7 +11921,7 @@
     "ai_reason": "",
     "source_en": "The Lost Melody",
     "review_note": "",
-    "new_translation_vi": "Giai Điệu Lạc Lối",
+    "new_translation_vi": "Giai điệu đã mất",
     "translator_note": ""
   },
   {
@@ -11946,7 +11946,7 @@
     "ai_reason": "",
     "source_en": "Help find Fa's friends at the locations shown in the photos",
     "review_note": "",
-    "new_translation_vi": "Giúp Fa tìm bạn bè ở những địa điểm trong ảnh nhé.",
+    "new_translation_vi": "Giúp tìm bạn của Fa tại các địa điểm trong ảnh",
     "translator_note": ""
   },
   {
@@ -11961,7 +11961,6 @@
     "primary_key": "Quest_686700000_QuestScheduleMainTitle_160_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -11971,8 +11970,9 @@
     "ai_reason": "",
     "source_en": "Play the melody with the Soliskin to awaken the flying fish",
     "review_note": "",
-    "new_translation_vi": "Play giai điệu cùng Da Mặt Trời để đánh thức đàn cá bay",
-    "translator_note": ""
+    "new_translation_vi": "Phát giai điệu cùng Soliskin để đánh thức cá bay",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010980",
@@ -11996,7 +11996,7 @@
     "ai_reason": "",
     "source_en": "Find Fa's friend at the location shown in the photo",
     "review_note": "",
-    "new_translation_vi": "Tìm bạn của Fa ở địa điểm trong ảnh",
+    "new_translation_vi": "Tìm bạn của Fa tại địa điểm trong ảnh",
     "translator_note": ""
   },
   {
@@ -12011,7 +12011,6 @@
     "primary_key": "Quest_686700000_QuestScheduleSubTitle_160_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -12021,8 +12020,9 @@
     "ai_reason": "",
     "source_en": "Drive off the lemmings and help the Soliskin reclaim its music sheet",
     "review_note": "",
-    "new_translation_vi": "Đuổi lũ chuột lemming đi và giúp tộc Soliskin lấy lại bản nhạc của họ",
-    "translator_note": ""
+    "new_translation_vi": "Xua đuổi lũ lemming và giúp Soliskin lấy lại bản nhạc",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010982",
@@ -12046,7 +12046,7 @@
     "ai_reason": "",
     "source_en": "Find Fa's friend at the location shown in the photo",
     "review_note": "",
-    "new_translation_vi": "Tìm bạn của Fa ở địa điểm trong ảnh",
+    "new_translation_vi": "Tìm bạn của Fa tại địa điểm trong ảnh",
     "translator_note": ""
   },
   {
@@ -12096,7 +12096,7 @@
     "ai_reason": "",
     "source_en": "Find Fa's friend at the location shown in the photo",
     "review_note": "",
-    "new_translation_vi": "Tìm bạn của Fa ở địa điểm trong ảnh",
+    "new_translation_vi": "Tìm bạn của Fa tại địa điểm trong ảnh",
     "translator_note": ""
   },
   {
@@ -12121,7 +12121,7 @@
     "ai_reason": "",
     "source_en": "Use Projector: Zip Zap to reboot the Spacetrek Explorer",
     "review_note": "",
-    "new_translation_vi": "Dùng Máy Chiếu: Zip Zap khởi động lại Spacetrek Explorer",
+    "new_translation_vi": "Sử dụng Projector: Zip Zap để khởi động lại Spacetrek Explorer",
     "translator_note": ""
   },
   {
@@ -12146,7 +12146,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Spacetrek Explorer and rescue Re",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt Nhà Thám Hiểm Spacetrek và giải cứu Re",
+    "new_translation_vi": "Đánh bại Spacetrek Explorer và giải cứu Re",
     "translator_note": ""
   },
   {
@@ -12171,7 +12171,7 @@
     "ai_reason": "",
     "source_en": "Follow the clues on the music sheet and use the Hoverdroid to hit the right keys",
     "review_note": "",
-    "new_translation_vi": "Làm theo chỉ dẫn trên bản nhạc và dùng Hoverdroid để nhấn đúng phím",
+    "new_translation_vi": "Theo các manh mối trên bản nhạc và dùng Hoverdroid để nhấn đúng phím",
     "translator_note": ""
   },
   {
@@ -12196,7 +12196,7 @@
     "ai_reason": "",
     "source_en": "Talk to the shivering researcher",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với nhà nghiên cứu đang run rẩy",
+    "new_translation_vi": "Trò chuyện với nhà nghiên cứu đang run rẩy",
     "translator_note": ""
   },
   {
@@ -12221,7 +12221,7 @@
     "ai_reason": "",
     "source_en": "Read the incoming WavesLine message",
     "review_note": "",
-    "new_translation_vi": "Đọc tin nhắn WavesLine đến",
+    "new_translation_vi": "Đọc tin nhắn WavesLine mới đến",
     "translator_note": ""
   },
   {
@@ -12236,7 +12236,6 @@
     "primary_key": "Quest_108750000_ChildQuestTip_108_5",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -12246,8 +12245,9 @@
     "ai_reason": "",
     "source_en": "Head to the Upphaf Life Chamber",
     "review_note": "",
-    "new_translation_vi": "Đến Upphaf Life Chamber",
-    "translator_note": ""
+    "new_translation_vi": "Đi đến Upphaf Life Chamber",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010991",
@@ -12286,7 +12286,6 @@
     "primary_key": "Quest_108750000_ChildQuestTip_108_7",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -12296,8 +12295,9 @@
     "ai_reason": "",
     "source_en": "Talk to the Roya",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Roya",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Roya",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0010993",
@@ -12321,7 +12321,7 @@
     "ai_reason": "",
     "source_en": "Head to the Bioprinter and find the Kronablight",
     "review_note": "",
-    "new_translation_vi": "Đến Máy In Sinh Học và tìm Kronablight",
+    "new_translation_vi": "Đến Bioprinter và tìm Kronablight",
     "translator_note": ""
   },
   {
@@ -12346,7 +12346,7 @@
     "ai_reason": "",
     "source_en": "Talk to Skavitz",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Skavitz",
+    "new_translation_vi": "Trò chuyện với Skavitz",
     "translator_note": ""
   },
   {
@@ -12371,7 +12371,7 @@
     "ai_reason": "",
     "source_en": "Investigate the Bioprinter",
     "review_note": "",
-    "new_translation_vi": "Điều tra Máy In Sinh Học",
+    "new_translation_vi": "Điều tra Bioprinter",
     "translator_note": ""
   },
   {
@@ -12421,7 +12421,7 @@
     "ai_reason": "",
     "source_en": "Chase the Kronablight",
     "review_note": "",
-    "new_translation_vi": "Truy đuổi Kronablight",
+    "new_translation_vi": "Đuổi theo Kronablight",
     "translator_note": ""
   },
   {
@@ -12461,7 +12461,6 @@
     "primary_key": "Quest_108750000_ChildQuestTip_108_44",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -12472,7 +12471,8 @@
     "source_en": "Head to the Upphaf Life Chamber",
     "review_note": "",
     "new_translation_vi": "Đến Upphaf Life Chamber",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011000",
@@ -12486,7 +12486,6 @@
     "primary_key": "Quest_108750000_ChildQuestTip_108_45",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -12497,6 +12496,7 @@
     "source_en": "Head to the Upphaf Life Chamber",
     "review_note": "",
     "new_translation_vi": "Đến Upphaf Life Chamber",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   }
 ]

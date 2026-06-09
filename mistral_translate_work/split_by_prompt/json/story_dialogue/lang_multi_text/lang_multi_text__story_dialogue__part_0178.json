@@ -21,7 +21,7 @@
     "ai_reason": "",
     "source_en": "Hi, Rover! What can I do for you?",
     "review_note": "",
-    "new_translation_vi": "Chào cậu, Rover! Có việc gì tớ có thể giúp không?",
+    "new_translation_vi": "Chào Rover! Tôi có thể giúp gì cho cậu?",
     "translator_note": ""
   },
   {
@@ -71,7 +71,7 @@
     "ai_reason": "",
     "source_en": "Even though I just started this post this morning, I can check the duty log for you. It has all personnel entry and exit records. Just give me a moment.",
     "review_note": "",
-    "new_translation_vi": "Dù mới nhận nhiệm vụ sáng nay thôi, nhưng để ta kiểm tra sổ ghi nhiệm vụ cho. Nó có đầy đủ thông tin ra vào của nhân sự đấy. Đợi ta một chút nhé.",
+    "new_translation_vi": "Mặc dù tôi mới bắt đầu ca trực sáng nay, nhưng tôi có thể kiểm tra nhật ký trực cho cậu. Nó ghi lại tất cả hồ sơ ra vào của nhân sự. Chờ tôi một chút nhé.",
     "translator_note": ""
   },
   {
@@ -86,11 +86,11 @@
     "primary_key": "Side_DSDPJ_2_5",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
@@ -121,7 +121,7 @@
     "ai_reason": "",
     "source_en": "Other than the Lollo Logistics delivery folks, there aren't any other entry and exit records.",
     "review_note": "",
-    "new_translation_vi": "Ngoài mấy người giao hàng của Lollo Logistics, không có bất kỳ ghi chép nào khác về ra vào.",
+    "new_translation_vi": "Ngoài nhân viên giao hàng của Lollo Logistics ra, không có hồ sơ ra vào nào khác cả.",
     "translator_note": ""
   },
   {
@@ -146,7 +146,7 @@
     "ai_reason": "",
     "source_en": "Why did you help me?",
     "review_note": "",
-    "new_translation_vi": "Sao cậu lại giúp tớ?",
+    "new_translation_vi": "Tại sao cậu lại giúp tôi?",
     "translator_note": ""
   },
   {
@@ -171,7 +171,7 @@
     "ai_reason": "",
     "source_en": "Aren't you curious about why there's an investigation going on?",
     "review_note": "",
-    "new_translation_vi": "Cậu không tò mò tại sao lại có cuộc điều tra không?",
+    "new_translation_vi": "Cậu không tò mò tại sao lại có cuộc điều tra này à?",
     "translator_note": ""
   },
   {
@@ -196,7 +196,7 @@
     "ai_reason": "",
     "source_en": "General Jiyan asked all members of the Midnight Rangers to assist you in any way possible.",
     "review_note": "",
-    "new_translation_vi": "Đại tướng Jiyan đã yêu cầu tất cả thành viên của Midnight Rangers hỗ trợ cậu bất cứ khi nào có thể.",
+    "new_translation_vi": "Tướng quân Jiyan đã yêu cầu tất cả thành viên của Midnight Rangers hỗ trợ cậu bằng mọi cách có thể.",
     "translator_note": ""
   },
   {
@@ -221,7 +221,7 @@
     "ai_reason": "",
     "source_en": "So, whatever your reason is, I'm glad I can help you.",
     "review_note": "",
-    "new_translation_vi": "Dù lý do của cậu là gì đi nữa, tôi mừng vì có thể giúp được cậu.",
+    "new_translation_vi": "Vì vậy, dù lý do của cậu là gì, tôi cũng rất vui vì có thể giúp đỡ.",
     "translator_note": ""
   },
   {
@@ -271,7 +271,7 @@
     "ai_reason": "",
     "source_en": "You're an honest person.",
     "review_note": "",
-    "new_translation_vi": "Cậu là người thật thà.",
+    "new_translation_vi": "Cậu là một người trung thực.",
     "translator_note": ""
   },
   {
@@ -296,7 +296,7 @@
     "ai_reason": "",
     "source_en": "No one entered or left the camp.",
     "review_note": "",
-    "new_translation_vi": "Không một ai ra vào trại cả.",
+    "new_translation_vi": "Không có ai ra vào trại cả.",
     "translator_note": ""
   },
   {
@@ -321,7 +321,7 @@
     "ai_reason": "",
     "source_en": "Maybe I should brace myself for the worst. If that's the case, the thief could only be someone from within the camp.",
     "review_note": "",
-    "new_translation_vi": "Có lẽ mình nên chuẩn bị tinh thần cho tình huống xấu nhất. Nếu vậy, tên trộm chỉ có thể là người trong trại.",
+    "new_translation_vi": "Có lẽ tôi nên chuẩn bị cho tình huống xấu nhất. Nếu vậy, kẻ trộm chỉ có thể là người trong trại.",
     "translator_note": ""
   },
   {
@@ -346,7 +346,7 @@
     "ai_reason": "",
     "source_en": "While you were looking into the entry and exit records, I took the chance to review the surveillance footage from when the supplies were loaded and unloaded.",
     "review_note": "",
-    "new_translation_vi": "Trong lúc cậu kiểm tra hồ sơ xuất nhập, tớ đã tranh thủ xem lại đoạn ghi hình lúc hàng hóa được bốc dỡ.",
+    "new_translation_vi": "Trong lúc cậu kiểm tra hồ sơ ra vào, tôi đã tranh thủ xem lại đoạn phim giám sát lúc dỡ hàng và xếp hàng lên xe.",
     "translator_note": ""
   },
   {
@@ -371,7 +371,7 @@
     "ai_reason": "",
     "source_en": "Oh, by the way, the unloading area is a blind spot in the surveillance. Rover, you might discover some hidden clues there. I'm counting on you!",
     "review_note": "",
-    "new_translation_vi": "À này, khu vực dỡ hàng là điểm mù của hệ thống giám sát. Rover, cậu có thể tìm thấy manh mối bí ẩn ở đó đấy. Mình trông cậy vào cậu!",
+    "new_translation_vi": "À, nhân tiện thì, khu vực dỡ hàng là điểm mù của hệ thống giám sát. Rover, cậu có thể sẽ tìm thấy vài manh mối ẩn giấu ở đó. Tôi trông cậy vào cậu đấy!",
     "translator_note": ""
   },
   {
@@ -396,7 +396,7 @@
     "ai_reason": "",
     "source_en": "Heavy footsteps. The pace isn't far, as if the person was hauling something weighty.",
     "review_note": "",
-    "new_translation_vi": "Bước chân nặng nề. Nhịp bước không xa, như thể người đó đang kéo theo thứ gì nặng trĩu.",
+    "new_translation_vi": "Tiếng bước chân nặng nề. Nhịp độ không xa, như thể người đó đang kéo lê thứ gì đó rất nặng.",
     "translator_note": ""
   },
   {
@@ -421,7 +421,7 @@
     "ai_reason": "",
     "source_en": "The supply box of Lollo Logistics. The moment it's opened, a pungent fragrance swarms out, but the box is disappointedly empty.",
     "review_note": "",
-    "new_translation_vi": "Thùng hàng của Lollo Logistics. Vừa mở ra, mùi hương nồng nặc xộc vào mũi, nhưng bên trong lại trống rỗng đến đáng thất vọng.",
+    "new_translation_vi": "Thùng tiếp tế của Lollo Logistics. Ngay khi mở ra, một mùi hương nồng nặc xộc vào mũi, nhưng cái thùng lại trống rỗng một cách đáng thất vọng.",
     "translator_note": ""
   },
   {
@@ -446,7 +446,7 @@
     "ai_reason": "",
     "source_en": "At the box's bottom, a faint sheen of oil lingers. The delightful scent... can't be mistaken! It's Panhua's Restaurant's Poached Chicken.",
     "review_note": "",
-    "new_translation_vi": "Dưới đáy hộp, một vệt dầu mờ ảo vẫn còn vương lại. Mùi thơm này... không thể nhầm lẫn được! Đó là món Gà Luộc của nhà hàng Panhua.",
+    "new_translation_vi": "Dưới đáy thùng còn vương lại một vệt dầu mờ nhạt. Mùi hương hấp dẫn này... không thể nhầm lẫn được! Đó là món Gà Luộc của nhà hàng Panhua.",
     "translator_note": ""
   },
   {
@@ -471,7 +471,7 @@
     "ai_reason": "",
     "source_en": "Who the hell did this?",
     "review_note": "",
-    "new_translation_vi": "Thằng nào làm cái trò này vậy?!",
+    "new_translation_vi": "Rốt cuộc là ai đã làm chuyện này?",
     "translator_note": ""
   },
   {
@@ -496,7 +496,7 @@
     "ai_reason": "",
     "source_en": "What happened?",
     "review_note": "",
-    "new_translation_vi": "Chuyện gì đã xảy ra?",
+    "new_translation_vi": "Có chuyện gì vậy?",
     "translator_note": ""
   },
   {
@@ -521,7 +521,7 @@
     "ai_reason": "",
     "source_en": "Someone spilled the food along the way. The Gray Crested Gulls smelled it and came in swarms. I can't drive them away!",
     "review_note": "",
-    "new_translation_vi": "Đồ ăn bị đổ dọc đường. Mùi làm bọn Mòng Biển Mào Xám kéo đến như ong vỡ tổ. Tôi đuổi mãi không đi!",
+    "new_translation_vi": "Có người làm đổ thức ăn dọc đường. Lũ Gray Crested Gull ngửi thấy mùi nên kéo đến từng đàn. Tôi không sao đuổi chúng đi được!",
     "translator_note": ""
   },
   {
@@ -546,7 +546,7 @@
     "ai_reason": "",
     "source_en": "It took me great effort to clean it up here. Look at what these birds did to me!",
     "review_note": "",
-    "new_translation_vi": "Ta đã phải vất vả lắm mới dọn dẹp xong chỗ này. Nhìn xem bọn chim kia đã làm gì với ta!",
+    "new_translation_vi": "Tôi đã phải vất vả lắm mới dọn dẹp sạch sẽ chỗ này. Nhìn xem lũ chim đó đã làm gì tôi này!",
     "translator_note": ""
   },
   {
@@ -571,7 +571,7 @@
     "ai_reason": "",
     "source_en": "Are you in charge here?",
     "review_note": "",
-    "new_translation_vi": "Cậu có phải người phụ trách ở đây không?",
+    "new_translation_vi": "Cậu là người phụ trách ở đây à?",
     "translator_note": ""
   },
   {
@@ -596,7 +596,7 @@
     "ai_reason": "",
     "source_en": "Well, in that case, you should look for Mingyi. She's the one responsible for the storage area in the camp.",
     "review_note": "",
-    "new_translation_vi": "Vậy thì, cậu nên tìm Mingyi đi. Cô ấy phụ trách kho chứa trong trại mà.",
+    "new_translation_vi": "À, nếu vậy thì cậu nên tìm Mingyi. Cô ấy là người chịu trách nhiệm khu vực kho bãi trong trại.",
     "translator_note": ""
   },
   {
@@ -621,7 +621,7 @@
     "ai_reason": "",
     "source_en": "Usually, Mingyi handles checking the inventory and stocking supplies, while Tianlang and Wuheng take care of loading and unloading supplies.",
     "review_note": "",
-    "new_translation_vi": "Thường thì Mingyi lo kiểm tra hàng tồn và nhập kho, còn Tianlang với Wuheng thì phụ trách bốc dỡ hàng hóa.",
+    "new_translation_vi": "Thông thường, Mingyi sẽ kiểm kê và nhập hàng, còn Tianlang và Wuheng sẽ lo việc bốc dỡ hàng hóa.",
     "translator_note": ""
   },
   {
@@ -646,7 +646,7 @@
     "ai_reason": "",
     "source_en": "Oh, you reminded me. I'll need to go ask Mingyi. I'll find out who did this!",
     "review_note": "",
-    "new_translation_vi": "À, cậu nhắc tớ nhớ rồi. Tớ phải đi hỏi Mingyi mới được. Tớ sẽ tìm ra ai đã làm điều này!",
+    "new_translation_vi": "Ồ, cậu nhắc tôi mới nhớ. Tôi phải đi hỏi Mingyi mới được. Tôi sẽ tìm ra kẻ đã làm chuyện này!",
     "translator_note": ""
   },
   {
@@ -671,7 +671,7 @@
     "ai_reason": "",
     "source_en": "Rover? Did Captain Beiwang send you over?",
     "review_note": "",
-    "new_translation_vi": "Cậu à? Đội trưởng Beiwang cử cậu đến à?",
+    "new_translation_vi": "Rover? Có phải Đội trưởng Beiwang cử cậu đến không?",
     "translator_note": ""
   },
   {
@@ -696,7 +696,7 @@
     "ai_reason": "",
     "source_en": "I reported the missing supplies. I stepped away for a moment during the stocking, and it happened.",
     "review_note": "",
-    "new_translation_vi": "Ta đã báo cáo về số vật tư bị mất. Ta chỉ rời đi một lát trong lúc nhập kho, và chuyện đó đã xảy ra.",
+    "new_translation_vi": "Tôi đã báo cáo về việc mất hàng tiếp tế. Tôi chỉ rời đi một lát trong lúc nhập hàng, rồi chuyện đó xảy ra.",
     "translator_note": ""
   },
   {
@@ -721,7 +721,7 @@
     "ai_reason": "",
     "source_en": "Did you leave for a moment?",
     "review_note": "",
-    "new_translation_vi": "Cậu vừa đi đâu về à?",
+    "new_translation_vi": "Cậu đã leave một lát sao?",
     "translator_note": ""
   },
   {
@@ -746,7 +746,7 @@
     "ai_reason": "",
     "source_en": "Where did you go?",
     "review_note": "",
-    "new_translation_vi": "Cậu đã đi đâu thế?",
+    "new_translation_vi": "Cậu đã đi đâu?",
     "translator_note": ""
   },
   {
@@ -771,7 +771,7 @@
     "ai_reason": "",
     "source_en": "I asked Tianlang to take over for me when I stepped away.",
     "review_note": "",
-    "new_translation_vi": "Tôi đã nhờ Tianlang thay thế khi tôi rời đi.",
+    "new_translation_vi": "Tôi đã nhờ Tianlang trông coi giúp khi tôi rời đi.",
     "translator_note": ""
   },
   {
@@ -796,7 +796,7 @@
     "ai_reason": "",
     "source_en": "Tianlang and Duying can both vouch for me! I have an alibi!",
     "review_note": "",
-    "new_translation_vi": "Thiên Lang và Độc Anh đều có thể xác nhận cho ta! Ta có chứng cứ ngoại phạm mà!",
+    "new_translation_vi": "Tianlang và Duying đều có thể làm chứng cho tôi! Tôi có bằng chứng ngoại phạm!",
     "translator_note": ""
   },
   {
@@ -821,7 +821,7 @@
     "ai_reason": "",
     "source_en": "Why was Duying involved?",
     "review_note": "",
-    "new_translation_vi": "Tại sao Duying lại dính líu vào chuyện này?",
+    "new_translation_vi": "Tại sao Duying lại liên quan đến chuyện này?",
     "translator_note": ""
   },
   {
@@ -846,7 +846,7 @@
     "ai_reason": "",
     "source_en": "There was a package for Duying in the supplies, so... so I just happened to take it to him.",
     "review_note": "",
-    "new_translation_vi": "Trong đống đồ tiếp tế có một kiện hàng gửi cho Duying, nên... nên tình cờ ta mang đến cho cậu ấy thôi.",
+    "new_translation_vi": "Trong số hàng tiếp tế có một kiện hàng dành cho Duying, nên... nên tôi tiện thể mang qua cho cậu ấy thôi.",
     "translator_note": ""
   },
   {
@@ -871,7 +871,7 @@
     "ai_reason": "",
     "source_en": "I had no other suspicious intentions! I promise!",
     "review_note": "",
-    "new_translation_vi": "Ta không có ý đồ gì đáng ngờ cả! Ta thề đấy!",
+    "new_translation_vi": "Tôi không có ý đồ xấu nào cả! Tôi thề đấy!",
     "translator_note": ""
   },
   {
@@ -896,7 +896,7 @@
     "ai_reason": "",
     "source_en": "Oh, youth.",
     "review_note": "",
-    "new_translation_vi": "À, tuổi trẻ...",
+    "new_translation_vi": "Ôi, tuổi trẻ.",
     "translator_note": ""
   },
   {
@@ -921,7 +921,7 @@
     "ai_reason": "",
     "source_en": "I'll go find Tianlang next.",
     "review_note": "",
-    "new_translation_vi": "Tiếp theo ta sẽ đi tìm Tianlang.",
+    "new_translation_vi": "Tiếp theo tôi sẽ đi tìm Tianlang.",
     "translator_note": ""
   },
   {
@@ -946,7 +946,7 @@
     "ai_reason": "",
     "source_en": "There's something I want to ask you.",
     "review_note": "",
-    "new_translation_vi": "Tôi có điều muốn hỏi cậu.",
+    "new_translation_vi": "Tôi có chuyện muốn hỏi cậu đây.",
     "translator_note": ""
   },
   {
@@ -971,7 +971,7 @@
     "ai_reason": "",
     "source_en": "Sorry, but I'm in the middle of counting the newly arrived field uniforms.",
     "review_note": "",
-    "new_translation_vi": "Xin lỗi, nhưng tôi đang bận kiểm đếm đồng phục Tổ Tacet mới về.",
+    "new_translation_vi": "Xin lỗi, nhưng tôi đang bận đếm số đồng phục dã chiến mới về.",
     "translator_note": ""
   },
   {
@@ -996,7 +996,7 @@
     "ai_reason": "",
     "source_en": "Did they come with yesterday's supplies?",
     "review_note": "",
-    "new_translation_vi": "Chúng có phải đồ trong lô hàng hôm qua không?",
+    "new_translation_vi": "Chúng có nằm trong lô hàng tiếp tế ngày hôm qua không?",
     "translator_note": ""
   },
   {
@@ -1021,7 +1021,7 @@
     "ai_reason": "",
     "source_en": "There are reasons like pants torn by the fangs of a Sabyr Boar or a hat stolen by the Hoochiefs in the Dim Forest...",
     "review_note": "",
-    "new_translation_vi": "Chẳng hạn như quần bị xé toạc bởi nanh lợn rừng Sabyr, hay mũ bị bọn Hoochief ở Rừng Âm U cuỗm mất...",
+    "new_translation_vi": "Có những lý do như quần bị nanh của Sabyr Boar xé rách hoặc mũ bị lũ Hoochief trong Dim Forest lấy trộm...",
     "translator_note": ""
   },
   {
@@ -1046,7 +1046,7 @@
     "ai_reason": "",
     "source_en": "I've placed all those application forms on the table in the corner. If you're interested, you can take a look there.",
     "review_note": "",
-    "new_translation_vi": "Ta đã để tất cả đơn đăng ký ở góc bàn kia. Nếu cậu quan tâm, cứ đến xem nhé.",
+    "new_translation_vi": "Tôi đã để tất cả các đơn đăng ký đó trên bàn ở góc phòng. Nếu cậu quan tâm thì có thể xem qua ở đó.",
     "translator_note": ""
   },
   {
@@ -1071,7 +1071,7 @@
     "ai_reason": "",
     "source_en": "What happened during the stocking?",
     "review_note": "",
-    "new_translation_vi": "Chuyện gì đã xảy ra trong lúc tích trữ?",
+    "new_translation_vi": "Chuyện gì đã xảy ra trong lúc nhập hàng?",
     "translator_note": ""
   },
   {
@@ -1096,7 +1096,7 @@
     "ai_reason": "",
     "source_en": "Mingyi left for another business for a little while, and during that time, I helped in counting the inventory.",
     "review_note": "",
-    "new_translation_vi": "Minh Nghi tạm thời đi công tác xa một thời gian, trong lúc đó ta đã giúp kiểm kê hàng hóa.",
+    "new_translation_vi": "Mingyi có việc bận nên rời đi một lát, trong thời gian đó, tôi đã giúp kiểm kê hàng hóa.",
     "translator_note": ""
   },
   {
@@ -1121,7 +1121,7 @@
     "ai_reason": "",
     "source_en": "Maybe the application forms can be a breakthrough.",
     "review_note": "",
-    "new_translation_vi": "Biết đâu những tờ đơn đăng ký lại là bước đột phá.",
+    "new_translation_vi": "Có lẽ các đơn đăng ký này có thể là một bước đột phá.",
     "translator_note": ""
   },
   {
@@ -1146,7 +1146,7 @@
     "ai_reason": "",
     "source_en": "Looks like Wujing is going to face some challenges too...",
     "review_note": "",
-    "new_translation_vi": "Có vẻ như Wujing cũng sẽ gặp không ít thử thách đây...",
+    "new_translation_vi": "Có vẻ như Wujing cũng sắp phải đối mặt với vài thử thách rồi...",
     "translator_note": ""
   },
   {
@@ -1171,7 +1171,7 @@
     "ai_reason": "",
     "source_en": "The description seems to align with the shoe print characteristics near the supply box. Just to be sure, go and confirm with the individual involved.",
     "review_note": "",
-    "new_translation_vi": "Mô tả này trùng khớp với đặc điểm dấu giày gần thùng hàng tiếp tế. Để chắc chắn, cậu nên đi xác nhận lại với người liên quan.",
+    "new_translation_vi": "Mô tả này có vẻ khớp với đặc điểm dấu giày gần thùng tiếp tế. Để chắc chắn, hãy đi xác nhận lại với cá nhân liên quan.",
     "translator_note": ""
   },
   {
@@ -1196,7 +1196,7 @@
     "ai_reason": "",
     "source_en": "Why are we gathering here?",
     "review_note": "",
-    "new_translation_vi": "Tại sao chúng ta lại tập trung ở đây?",
+    "new_translation_vi": "Tại sao chúng ta lại tập trung ở đây vậy?",
     "translator_note": ""
   },
   {
@@ -1221,7 +1221,7 @@
     "ai_reason": "",
     "source_en": "Why are we gathering here?",
     "review_note": "",
-    "new_translation_vi": "Tại sao chúng ta lại tập trung ở đây?",
+    "new_translation_vi": "Tại sao chúng ta lại tập trung ở đây vậy?",
     "translator_note": ""
   },
   {
@@ -1246,7 +1246,7 @@
     "ai_reason": "",
     "source_en": "I'm begging you. Miss Koko, you must have some way to save my daughter.",
     "review_note": "",
-    "new_translation_vi": "Tôi van cô. Cô Koko, chắc chắn cô có cách nào đó để cứu con gái tôi.",
+    "new_translation_vi": "Tôi cầu xin cô. Cô Koko, chắc chắn cô có cách để cứu con gái tôi.",
     "translator_note": ""
   },
   {
@@ -1271,7 +1271,7 @@
     "ai_reason": "",
     "source_en": "But...",
     "review_note": "",
-    "new_translation_vi": "Nhưng...",
+    "new_translation_vi": "Nhưng mà...",
     "translator_note": ""
   },
   {
@@ -1296,7 +1296,7 @@
     "ai_reason": "",
     "source_en": "Is it about the payment? I'll give you all my savings if that's what it takes.",
     "review_note": "",
-    "new_translation_vi": "Vấn đề là tiền à? Ta sẽ đưa hết tiền tiết kiệm của ta, nếu cần.",
+    "new_translation_vi": "Có phải vì tiền không? Tôi sẽ đưa hết số tiền tiết kiệm của mình nếu cần.",
     "translator_note": ""
   },
   {
@@ -1321,7 +1321,7 @@
     "ai_reason": "",
     "source_en": "It's not about the money!",
     "review_note": "",
-    "new_translation_vi": "Không phải vì tiền đâu!",
+    "new_translation_vi": "Không phải vì tiền!",
     "translator_note": ""
   },
   {
@@ -1346,7 +1346,7 @@
     "ai_reason": "",
     "source_en": "{PlayerName}, you're here. But sorry, the shop's closed for now.",
     "review_note": "",
-    "new_translation_vi": "{PlayerName}, cậu đến rồi. Nhưng xin lỗi, cửa hàng tạm đóng cửa rồi.",
+    "new_translation_vi": "{PlayerName}, cậu đến rồi. Nhưng xin lỗi nhé, cửa hàng hiện đang đóng cửa.",
     "translator_note": ""
   },
   {
@@ -1396,7 +1396,7 @@
     "ai_reason": "",
     "source_en": "Don't worry. I'm okay. This lady here isn't a threat.",
     "review_note": "",
-    "new_translation_vi": "Đừng lo. Tôi ổn mà. Bà này không phải mối đe dọa đâu.",
+    "new_translation_vi": "Đừng lo. Tôi ổn. Người phụ nữ này không phải là mối đe dọa đâu.",
     "translator_note": ""
   },
   {
@@ -1421,7 +1421,7 @@
     "ai_reason": "",
     "source_en": "Her daughter's dealing with a rare illness—non-life-threatening for now, but it could get worse.",
     "review_note": "",
-    "new_translation_vi": "Con gái cô ấy đang mắc một căn bệnh hiếm gặp—hiện chưa nguy hiểm đến tính mạng, nhưng có thể trở nặng.",
+    "new_translation_vi": "Con gái cô ấy đang mắc một căn bệnh hiếm gặp—hiện tại chưa nguy hiểm đến tính mạng, nhưng có thể sẽ trở nặng.",
     "translator_note": ""
   },
   {
@@ -1446,7 +1446,7 @@
     "ai_reason": "",
     "source_en": "Is there no cure?",
     "review_note": "",
-    "new_translation_vi": "Không có cách chữa nào sao?",
+    "new_translation_vi": "Không có cách nào chữa trị sao?",
     "translator_note": ""
   },
   {
@@ -1471,7 +1471,7 @@
     "ai_reason": "",
     "source_en": "Doctors have tried everything, but regular medicine isn't working. There's one last hope, though.",
     "review_note": "",
-    "new_translation_vi": "Các bác sĩ đã thử mọi cách, nhưng y học thông thường không có tác dụng. Nhưng vẫn còn một tia hy vọng cuối cùng.",
+    "new_translation_vi": "Các bác sĩ đã thử mọi cách, nhưng thuốc thông thường không có tác dụng. Tuy nhiên, vẫn còn một tia hy vọng cuối cùng.",
     "translator_note": ""
   },
   {
@@ -1496,7 +1496,7 @@
     "ai_reason": "",
     "source_en": "Yes, my teacher handled a similar case before, and I still have the prescription from back then.",
     "review_note": "",
-    "new_translation_vi": "Đúng rồi, thầy tôi từng xử lý một trường hợp tương tự trước đây, và tôi vẫn còn giữ đơn thuốc từ lúc đó.",
+    "new_translation_vi": "Đúng vậy, thầy của tôi từng xử lý một ca tương tự trước đây, và tôi vẫn còn giữ đơn thuốc từ hồi đó.",
     "translator_note": ""
   },
   {
@@ -1521,7 +1521,7 @@
     "ai_reason": "",
     "source_en": "The issue is, the crucial \"guide drug\" is tough to get.",
     "review_note": "",
-    "new_translation_vi": "Vấn đề là, loại \"thuốc dẫn đường\" quan trọng này rất khó kiếm.",
+    "new_translation_vi": "Vấn đề là, \"thuốc dẫn\" quan trọng nhất lại rất khó kiếm.",
     "translator_note": ""
   },
   {
@@ -1546,7 +1546,7 @@
     "ai_reason": "",
     "source_en": "What's a \"guide drug\"?",
     "review_note": "",
-    "new_translation_vi": "\"Thuốc hướng dẫn\" là cái gì thế?",
+    "new_translation_vi": "\"Thuốc dẫn\" là gì vậy?",
     "translator_note": ""
   },
   {
@@ -1596,7 +1596,7 @@
     "ai_reason": "",
     "source_en": "Unless you can find some rare items to exchange with them. Oh, by the way, Rover, have you ever heard of something called \"Bell Spiriton\"?",
     "review_note": "",
-    "new_translation_vi": "Trừ khi cậu tìm được vài món đồ hiếm để trao đổi với họ. À mà này, Rover, cậu đã bao giờ nghe nói về thứ gọi là \"Bell Spiriton\" chưa?",
+    "new_translation_vi": "Trừ khi cậu có thể tìm được vài món đồ quý hiếm để đổi lấy chúng. À, nhân tiện thì Rover, cậu đã bao giờ nghe nói đến thứ gọi là \"Bell Spiriton\" chưa?",
     "translator_note": ""
   },
   {
@@ -1621,7 +1621,7 @@
     "ai_reason": "",
     "source_en": "Not at all.",
     "review_note": "",
-    "new_translation_vi": "Không có gì đâu.",
+    "new_translation_vi": "Chưa bao giờ.",
     "translator_note": ""
   },
   {
@@ -1646,7 +1646,7 @@
     "ai_reason": "",
     "source_en": "If we had that \"Bell Spiriton,\" we could use it to exchange for the \"guide drug.\"",
     "review_note": "",
-    "new_translation_vi": "Nếu có được \"Linh Hồn Chuông\", ta có thể đổi lấy \"thuốc dẫn đường\".",
+    "new_translation_vi": "Nếu có được \"Bell Spiriton\" đó, chúng ta có thể dùng nó để đổi lấy \"thuốc dẫn\".",
     "translator_note": ""
   },
   {
@@ -1696,7 +1696,7 @@
     "ai_reason": "",
     "source_en": "Miss Koko, do you know how to get it? I'll do anything!",
     "review_note": "",
-    "new_translation_vi": "Cô Koko, cô biết cách lấy nó không? Tôi sẽ làm bất cứ điều gì!",
+    "new_translation_vi": "Cô Koko, cô có biết cách lấy nó không? Tôi sẽ làm bất cứ điều gì!",
     "translator_note": ""
   },
   {
@@ -1721,7 +1721,7 @@
     "ai_reason": "",
     "source_en": "You can only find \"Bell Spiriton\" from a Calamity-Class Tacet Discord called Bell-Borne Geochelone. Have you heard of it?",
     "review_note": "",
-    "new_translation_vi": "\"Bell Spiriton\" chỉ có thể tìm thấy từ một Tacet Discord cấp Thảm Họa tên Bell-Borne Geochelone. Cậu đã nghe qua chưa?",
+    "new_translation_vi": "Cậu chỉ có thể tìm thấy \"Bell Spiriton\" từ một Calamity-Class Tacet Discord tên là Bell-Borne Geochelone. Cậu đã nghe nói về nó chưa?",
     "translator_note": ""
   },
   {
@@ -1746,7 +1746,7 @@
     "ai_reason": "",
     "source_en": "No, never heard of it.",
     "review_note": "",
-    "new_translation_vi": "Không, chưa nghe bao giờ.",
+    "new_translation_vi": "Chưa, chưa từng nghe qua.",
     "translator_note": ""
   },
   {
@@ -1771,7 +1771,7 @@
     "ai_reason": "",
     "source_en": "Yes, of course.",
     "review_note": "",
-    "new_translation_vi": "Vâng, tất nhiên.",
+    "new_translation_vi": "Có, tất nhiên rồi.",
     "translator_note": ""
   },
   {
@@ -1796,7 +1796,7 @@
     "ai_reason": "",
     "source_en": "Fought one, but didn't find any \"Bell Spiriton.\"",
     "review_note": "",
-    "new_translation_vi": "Đánh nhau với một con mà chẳng thấy \"Bell Spiriton\" nào cả.",
+    "new_translation_vi": "Đã từng đánh một con, nhưng không tìm thấy \"Bell Spiriton\" nào cả.",
     "translator_note": ""
   },
   {
@@ -1821,7 +1821,7 @@
     "ai_reason": "",
     "source_en": "Even Rover hasn't heard of it. Not that surprising, though. Only a handful of people have the chance to see it.",
     "review_note": "",
-    "new_translation_vi": "Ngay cả Rover cũng chưa từng nghe đến chuyện này. Nhưng cũng không có gì lạ, chỉ có một số ít người mới có cơ hội chứng kiến mà thôi.",
+    "new_translation_vi": "Ngay cả Rover cũng chưa từng nghe nói đến. Cũng không ngạc nhiên lắm. Chỉ một số ít người mới có cơ hội nhìn thấy nó thôi.",
     "translator_note": ""
   },
   {
@@ -1846,7 +1846,7 @@
     "ai_reason": "",
     "source_en": "It's said to have a body as huge as a mountain, can crush an armored car with only one step, and freeze a river with a single breath!",
     "review_note": "",
-    "new_translation_vi": "Nghe nói thân hình nó to như núi, chỉ một bước cũng đủ nghiền nát xe bọc thép, và một hơi thở có thể đóng băng cả dòng sông!",
+    "new_translation_vi": "Người ta kể rằng nó có cơ thể to lớn như một ngọn núi, có thể nghiền nát một chiếc xe bọc thép chỉ với một bước chân, và freeze cả một dòng sông chỉ bằng một hơi thở!",
     "translator_note": ""
   },
   {
@@ -1871,7 +1871,7 @@
     "ai_reason": "",
     "source_en": "Many tried to hunt it down in the past, but they all became revenants frozen in the river.",
     "review_note": "",
-    "new_translation_vi": "Đã có không ít kẻ săn đuổi nó trong quá khứ, nhưng tất cả đều trở thành những xác sống bị đóng băng dưới dòng sông.",
+    "new_translation_vi": "Nhiều người đã cố săn lùng nó trong quá khứ, nhưng tất cả đều trở thành những bóng ma frozen dưới dòng sông.",
     "translator_note": ""
   },
   {
@@ -1896,7 +1896,7 @@
     "ai_reason": "",
     "source_en": "However, it doesn't usually leave its territory, so it's even rarer for people to see it.",
     "review_note": "",
-    "new_translation_vi": "Tuy nhiên, nó thường không rời khỏi lãnh thổ của mình, nên việc con người nhìn thấy nó càng hiếm hơn.",
+    "new_translation_vi": "Tuy nhiên, nó thường không leave lãnh thổ của mình, nên việc con người nhìn thấy nó lại càng hiếm hơn.",
     "translator_note": ""
   },
   {
@@ -1921,7 +1921,7 @@
     "ai_reason": "",
     "source_en": "People with sanity won't willingly pick fights with it, let alone risk their lives for an herb.",
     "review_note": "",
-    "new_translation_vi": "Người tỉnh táo chẳng ai lại đi gây sự với nó, huống chi là liều mạng vì một nhánh thảo dược.",
+    "new_translation_vi": "Người tỉnh táo sẽ không dại dột đi gây chiến với nó, chứ đừng nói đến việc đánh cược mạng sống vì một loại thảo dược.",
     "translator_note": ""
   },
   {
@@ -1946,7 +1946,7 @@
     "ai_reason": "",
     "source_en": "Yeah, you get how formidable it is. Nobody dares to challenge it, not to mention putting their lives on the line for an herb.",
     "review_note": "",
-    "new_translation_vi": "Ừ, cậu cũng biết nó đáng sợ thế nào rồi đấy. Chẳng ai dám bén mảng tới, huống chi là liều mạng vì mấy cây thảo dược.",
+    "new_translation_vi": "Phải, cậu hiểu nó đáng sợ đến mức nào rồi đấy. Không ai dám thách thức nó, chưa nói đến việc liều mạng vì một loại thảo dược.",
     "translator_note": ""
   },
   {
@@ -1971,7 +1971,7 @@
     "ai_reason": "",
     "source_en": "Seriously? You took it down? You're not pulling my leg, right?",
     "review_note": "",
-    "new_translation_vi": "Thật á? Cậu hạ gục nó rồi à? Không phải đùa tớ đấy chứ?",
+    "new_translation_vi": "Thật sao? Cậu đã hạ gục nó rồi ư? Cậu không đùa tôi đấy chứ?",
     "translator_note": ""
   },
   {
@@ -1996,7 +1996,7 @@
     "ai_reason": "",
     "source_en": "Even so, you didn't get the \"Bell Spiriton.\" That's a pity.",
     "review_note": "",
-    "new_translation_vi": "Dù vậy, cậu vẫn không lấy được \"Bell Spiriton\" à. Thật đáng tiếc.",
+    "new_translation_vi": "Dù vậy, cậu vẫn không lấy được \"Bell Spiriton\". Thật đáng tiếc.",
     "translator_note": ""
   },
   {
@@ -2021,7 +2021,7 @@
     "ai_reason": "",
     "source_en": "How can this be? Is there really no way?",
     "review_note": "",
-    "new_translation_vi": "Sao lại thế được? Thật sự không còn cách nào sao?",
+    "new_translation_vi": "Sao có thể như vậy được? Thật sự không còn cách nào khác sao?",
     "translator_note": ""
   },
   {
@@ -2046,7 +2046,7 @@
     "ai_reason": "",
     "source_en": "Miss Koko, any ideas?",
     "review_note": "",
-    "new_translation_vi": "Cô Koko, cô có ý gì không?",
+    "new_translation_vi": "Cô Koko, cô có ý tưởng nào không?",
     "translator_note": ""
   },
   {
@@ -2071,7 +2071,7 @@
     "ai_reason": "",
     "source_en": "Well, there's someone I know who might still have some \"Bell Spiritons,\" but the problem is, he's a bit unreliable.",
     "review_note": "",
-    "new_translation_vi": "Ừm, tớ có biết một người có thể còn vài \"Bell Spiriton\", nhưng vấn đề là... ông ta không đáng tin lắm.",
+    "new_translation_vi": "À, tôi có quen một người có thể vẫn còn giữ vài \"Bell Spiritons\", nhưng vấn đề là, anh ta hơi không đáng tin cậy cho lắm.",
     "translator_note": ""
   },
   {
@@ -2096,7 +2096,7 @@
     "ai_reason": "",
     "source_en": "Can we really trust him?",
     "review_note": "",
-    "new_translation_vi": "Chúng ta thật sự tin được hắn sao?",
+    "new_translation_vi": "Chúng ta có thực sự tin tưởng anh ta được không?",
     "translator_note": ""
   },
   {
@@ -2121,7 +2121,7 @@
     "ai_reason": "",
     "source_en": "Not sure, but he did sell me plenty of rare TD materials before. It seems like he's got a few tricks up his sleeve.",
     "review_note": "",
-    "new_translation_vi": "Không chắc lắm, nhưng trước đây ông ấy có bán cho tôi kha khá nguyên liệu TD hiếm. Có vẻ như ông ta cũng có vài chiêu trò trong tay.",
+    "new_translation_vi": "Không chắc nữa, nhưng trước đây anh ta đã bán cho tôi rất nhiều nguyên liệu TD quý hiếm. Có vẻ như anh ta có vài mánh khóe riêng.",
     "translator_note": ""
   },
   {
@@ -2146,7 +2146,7 @@
     "ai_reason": "",
     "source_en": "Please tell me how I can find him. No matter how slim the hope is, I'll give it a try.",
     "review_note": "",
-    "new_translation_vi": "Hãy cho tôi biết làm sao để tìm được anh ấy. Dù hy vọng có mong manh đến đâu, tôi cũng sẽ thử.",
+    "new_translation_vi": "Làm ơn hãy chỉ cho tôi cách tìm anh ta. Dù hy vọng có mong manh đến đâu, tôi cũng sẽ thử.",
     "translator_note": ""
   },
   {
@@ -2171,7 +2171,7 @@
     "ai_reason": "",
     "source_en": "I want to help.",
     "review_note": "",
-    "new_translation_vi": "Tôi muốn giúp đỡ.",
+    "new_translation_vi": "Tôi muốn giúp một tay.",
     "translator_note": ""
   },
   {
@@ -2196,7 +2196,7 @@
     "ai_reason": "",
     "source_en": "Thanks! So, let this lady stick around to help me prepare other herbs, and I'll leave the task of obtaining \"Bell Spiriton\" to {PlayerName}? Sound good?",
     "review_note": "",
-    "new_translation_vi": "Cảm ơn! Vậy để chị ở lại chuẩn bị mấy loại thảo dược khác, còn việc lấy \"Tinh Linh Chuông\" thì để {PlayerName} lo nhé? Được chứ?",
+    "new_translation_vi": "Cảm ơn! Vậy thì, hãy để người phụ nữ này ở lại giúp tôi chuẩn bị các loại thảo dược khác, còn tôi sẽ leave nhiệm vụ lấy \"Bell Spiriton\" cho {PlayerName} nhé? Được không?",
     "translator_note": ""
   },
   {
@@ -2221,7 +2221,7 @@
     "ai_reason": "",
     "source_en": "No problem. Leave it to me.",
     "review_note": "",
-    "new_translation_vi": "Không sao. Để tôi lo cho.",
+    "new_translation_vi": "Không vấn đề gì. Cứ Leave cho tôi.",
     "translator_note": ""
   },
   {
@@ -2246,7 +2246,7 @@
     "ai_reason": "",
     "source_en": "His name's Lianfeng, and he hangs around the theater all the time. You should spot him there.",
     "review_note": "",
-    "new_translation_vi": "Tên cậu ấy là Lianfeng, lúc nào cũng lảng vảng quanh nhà hát. Cậu sẽ thấy cậu ấy ở đó thôi.",
+    "new_translation_vi": "Anh ta tên là Lianfeng, và lúc nào cũng lảng vảng quanh nhà hát. Cậu sẽ thấy anh ta ở đó thôi.",
     "translator_note": ""
   },
   {
@@ -2271,7 +2271,7 @@
     "ai_reason": "",
     "source_en": "How will I know who he is?",
     "review_note": "",
-    "new_translation_vi": "Làm sao ta biết được hắn là ai?",
+    "new_translation_vi": "Làm sao tôi biết được anh ta là ai?",
     "translator_note": ""
   },
   {
@@ -2296,7 +2296,7 @@
     "ai_reason": "",
     "source_en": "He goes by \"TD Hunter\" and talks a big game about hunting formidable TDs, although no one has actually seen him fight.",
     "review_note": "",
-    "new_translation_vi": "Hắn tự xưng là \"Thợ Săn TD\" và khoác lác về việc săn lùng những TD hùng mạnh, dù chẳng ai từng thấy hắn ra tay bao giờ.",
+    "new_translation_vi": "Anh ta tự xưng là \"TD Hunter\" và hay khoác lác về việc săn lùng những con TD đáng gờm, mặc dù chưa ai thực sự thấy anh ta chiến đấu cả.",
     "translator_note": ""
   },
   {
@@ -2321,7 +2321,7 @@
     "ai_reason": "",
     "source_en": "If you see someone being loud and boastful over tea at the theater, that's Lianfeng.",
     "review_note": "",
-    "new_translation_vi": "Nếu thấy ai đó ồn ào khoe khoang bên tách trà ở nhà hát, đó chính là Lianfeng.",
+    "new_translation_vi": "Nếu cậu thấy ai đó đang ồn ào và khoe khoang bên tách trà tại nhà hát, đó chính là Lianfeng.",
     "translator_note": ""
   },
   {
@@ -2346,7 +2346,7 @@
     "ai_reason": "",
     "source_en": "So boring...",
     "review_note": "",
-    "new_translation_vi": "Chán quá...",
+    "new_translation_vi": "Chán thật đấy...",
     "translator_note": ""
   },
   {
@@ -2371,7 +2371,7 @@
     "ai_reason": "",
     "source_en": "Bear with it.",
     "review_note": "",
-    "new_translation_vi": "Chịu đựng một chút nhé.",
+    "new_translation_vi": "Chịu đựng một chút đi.",
     "translator_note": ""
   },
   {
@@ -2396,7 +2396,7 @@
     "ai_reason": "",
     "source_en": "Fine, staying here is also a job.",
     "review_note": "",
-    "new_translation_vi": "Được, ở lại đây cũng là một công việc mà.",
+    "new_translation_vi": "Được thôi, ở lại đây cũng coi như là một công việc.",
     "translator_note": ""
   },
   {
@@ -2421,7 +2421,7 @@
     "ai_reason": "",
     "source_en": "I heard it too.",
     "review_note": "",
-    "new_translation_vi": "Tớ cũng nghe thấy rồi.",
+    "new_translation_vi": "Tôi cũng nghe thấy rồi.",
     "translator_note": ""
   },
   {
@@ -2471,7 +2471,7 @@
     "ai_reason": "",
     "source_en": "What happened?",
     "review_note": "",
-    "new_translation_vi": "Chuyện gì đã xảy ra?",
+    "new_translation_vi": "Chuyện gì vậy?",
     "translator_note": ""
   },
   {
@@ -2521,7 +2521,7 @@
     "ai_reason": "",
     "source_en": "(Darn, it's happening again. It feels like something in my memories is about to be awakened.)",
     "review_note": "",
-    "new_translation_vi": "Chết tiệt, lại tái diễn rồi. Có cảm giác như thứ gì đó trong ký ức sắp thức tỉnh.",
+    "new_translation_vi": "(Chết tiệt, lại bị nữa rồi. Cảm giác như có thứ gì đó trong ký ức của mình sắp sửa thức tỉnh vậy.)",
     "translator_note": ""
   },
   {
@@ -2546,7 +2546,7 @@
     "ai_reason": "",
     "source_en": "We can follow the sound of the bell.",
     "review_note": "",
-    "new_translation_vi": "Ta có thể lần theo tiếng chuông.",
+    "new_translation_vi": "Chúng ta có thể lần theo tiếng chuông đó.",
     "translator_note": ""
   },
   {
@@ -2571,7 +2571,7 @@
     "ai_reason": "",
     "source_en": "Right, they must be where the bell sound is. Let's go.",
     "review_note": "",
-    "new_translation_vi": "Ừ, chắc chúng ở chỗ tiếng chuông kia. Đi thôi.",
+    "new_translation_vi": "Đúng vậy, chắc chắn chúng đang ở nơi phát ra tiếng chuông. Đi thôi.",
     "translator_note": ""
   },
   {
@@ -2596,7 +2596,7 @@
     "ai_reason": "",
     "source_en": "Hey! Wake up! Can you hear me!",
     "review_note": "",
-    "new_translation_vi": "Này! Tỉnh lại đi! Cậu nghe thấy tôi không!",
+    "new_translation_vi": "Này! Tỉnh lại đi! Cậu có nghe thấy tôi nói gì không!",
     "translator_note": ""
   },
   {
@@ -2621,7 +2621,7 @@
     "ai_reason": "",
     "source_en": "Ugh, you are… those people at the teahouse?",
     "review_note": "",
-    "new_translation_vi": "Ờ... cậu là... mấy người ở quán trà đó hả?",
+    "new_translation_vi": "Ưm, các người là… những người ở quán trà đó sao?",
     "translator_note": ""
   },
   {
@@ -2646,7 +2646,7 @@
     "ai_reason": "",
     "source_en": "Ha, it can't be called a fight. We're completely crushed.",
     "review_note": "",
-    "new_translation_vi": "Ha, không thể gọi là chiến đấu được. Chúng ta đã bị đè bẹp hoàn toàn.",
+    "new_translation_vi": "Ha, không thể gọi đó là một trận chiến được. Chúng tôi đã bị nghiền nát hoàn toàn.",
     "translator_note": ""
   },
   {
@@ -2671,7 +2671,7 @@
     "ai_reason": "",
     "source_en": "You should leave. Though it's calm now, no one knows when it'll wake up again.",
     "review_note": "",
-    "new_translation_vi": "Cậu nên đi đi. Tuy giờ yên ắng, nhưng không ai biết khi nào nó sẽ tỉnh lại.",
+    "new_translation_vi": "Cậu nên leave. Dù bây giờ nó đang yên tĩnh, nhưng không ai biết khi nào nó sẽ thức tỉnh lần nữa.",
     "translator_note": ""
   },
   {
@@ -2696,7 +2696,7 @@
     "ai_reason": "",
     "source_en": "It's not an opponent you ordinary people can deal with.",
     "review_note": "",
-    "new_translation_vi": "Đây không phải là đối thủ mà những kẻ tầm thường như các người có thể xử lý được.",
+    "new_translation_vi": "Đó không phải là đối thủ mà những người bình thường như các cậu có thể đối phó đâu.",
     "translator_note": ""
   },
   {
@@ -2721,7 +2721,7 @@
     "ai_reason": "",
     "source_en": "Ordinary people? You've got us wrong. I'm Lianfeng, a professional \"TD Hunter,\" and this is my top apprentice.",
     "review_note": "",
-    "new_translation_vi": "Người bình thường á? Các người hiểu lầm rồi. Ta là Lianfeng, một \"Thợ Săn TD\" chuyên nghiệp, còn đây là đệ tử xuất sắc nhất của ta.",
+    "new_translation_vi": "Người bình thường? Cậu nhầm rồi. Tôi là Lianfeng, một \"TD Hunter\" chuyên nghiệp, còn đây là đệ tử cưng của tôi.",
     "translator_note": ""
   },
   {
@@ -2746,7 +2746,7 @@
     "ai_reason": "",
     "source_en": "\"Top apprentice\"… You've only got one apprentice, okay?",
     "review_note": "",
-    "new_translation_vi": "\"'Học trò xuất sắc nhất'... Cậu chỉ có mỗi một học trò thôi mà, hiểu không?\"",
+    "new_translation_vi": "\"Đệ tử cưng\"… Ông chỉ có mỗi một người đệ tử thôi đấy, được chưa?",
     "translator_note": ""
   },
   {
@@ -2771,7 +2771,7 @@
     "ai_reason": "",
     "source_en": "I'm not your apprentice.",
     "review_note": "",
-    "new_translation_vi": "Ta không phải đệ tử của ngươi.",
+    "new_translation_vi": "Tôi không phải đệ tử của ông.",
     "translator_note": ""
   },
   {
@@ -2796,7 +2796,7 @@
     "ai_reason": "",
     "source_en": "Just leave it to me and my master!",
     "review_note": "",
-    "new_translation_vi": "Để ta và sư phụ lo cho!",
+    "new_translation_vi": "Cứ leave việc đó cho tôi và sư phụ tôi!",
     "translator_note": ""
   },
   {
@@ -2821,7 +2821,7 @@
     "ai_reason": "",
     "source_en": "You guys stay here and rest. Leave the rest to us.",
     "review_note": "",
-    "new_translation_vi": "Các cậu nghỉ ngơi ở đây đi. Phần còn lại để chúng tớ lo.",
+    "new_translation_vi": "Các cậu cứ ở lại đây nghỉ ngơi đi. Leave phần còn lại cho chúng tôi.",
     "translator_note": ""
   },
   {
@@ -2846,7 +2846,7 @@
     "ai_reason": "",
     "source_en": "{PlayerName}, listen carefully to what I'm about to say.",
     "review_note": "",
-    "new_translation_vi": "{PlayerName}, hãy lắng nghe kỹ những gì tôi sắp nói.",
+    "new_translation_vi": "{PlayerName}, hãy nghe kỹ những gì tôi sắp nói đây.",
     "translator_note": ""
   },
   {
@@ -2871,7 +2871,7 @@
     "ai_reason": "",
     "source_en": "Alright.",
     "review_note": "",
-    "new_translation_vi": "Được rồi.",
+    "new_translation_vi": "Được thôi.",
     "translator_note": ""
   },
   {
@@ -2896,7 +2896,7 @@
     "ai_reason": "",
     "source_en": "Do you see the large bell in the center of the \"Bell-Borne Ravine\"? Ringing it will awaken Bell-Borne Geochelone.",
     "review_note": "",
-    "new_translation_vi": "Cậu có thấy cái chuông lớn ở giữa \"Khe Núi Bell-Borne\" không? Gióng chuông lên là sẽ đánh thức Bell-Borne Geochelone đấy.",
+    "new_translation_vi": "Cậu có thấy cái chuông lớn ở giữa \"Bell-Borne Ravine\" không? Rung nó sẽ đánh thức Bell-Borne Geochelone.",
     "translator_note": ""
   },
   {
@@ -2946,7 +2946,7 @@
     "ai_reason": "",
     "source_en": "Get close to it.",
     "review_note": "",
-    "new_translation_vi": "Tiến lại gần nó đi.",
+    "new_translation_vi": "Tiến lại gần nó.",
     "translator_note": ""
   },
   {
@@ -2971,7 +2971,7 @@
     "ai_reason": "",
     "source_en": "Though it may seem crazy, it's actually safer to get as close to it as possible.",
     "review_note": "",
-    "new_translation_vi": "Dù nghe có vẻ điên rồ, nhưng thực ra lại an toàn hơn nếu đến gần nó nhất có thể.",
+    "new_translation_vi": "Dù nghe có vẻ điên rồ, nhưng thực ra tiến lại gần nó nhất có thể lại an toàn hơn.",
     "translator_note": ""
   },
   {
@@ -2996,7 +2996,7 @@
     "ai_reason": "",
     "source_en": "Yeah, getting close allows us to take advantage of its blind spots during its turns and attacks. Smart move.",
     "review_note": "",
-    "new_translation_vi": "Ừ, áp sát thế này thì ta có thể lợi dụng điểm mù của nó khi xoay người và tấn công. Đúng là kế hay.",
+    "new_translation_vi": "Đúng vậy, áp sát sẽ giúp chúng ta tận dụng được điểm mù của nó trong lúc nó xoay người và tấn công. Một nước đi thông minh đấy.",
     "translator_note": ""
   },
   {
@@ -3021,7 +3021,7 @@
     "ai_reason": "",
     "source_en": "Its four legs, head, and tail are all highly offensive weapons. Don't underestimate them.",
     "review_note": "",
-    "new_translation_vi": "Bốn chân, đầu và đuôi của nó đều là vũ khí tấn công nguy hiểm. Đừng coi thường chúng.",
+    "new_translation_vi": "Bốn cái chân, cái đầu và cái đuôi của nó đều là vũ khí tấn công cực mạnh. Đừng xem thường chúng.",
     "translator_note": ""
   },
   {
@@ -3046,7 +3046,7 @@
     "ai_reason": "",
     "source_en": "Also, its weakness is the big bell on its back, but it's relatively high and not easy to attack under normal circumstances.",
     "review_note": "",
-    "new_translation_vi": "Ngoài ra, điểm yếu của nó là chiếc chuông lớn trên lưng, nhưng vị trí khá cao và khó tấn công trong điều kiện bình thường.",
+    "new_translation_vi": "Ngoài ra, điểm yếu của nó là cái chuông lớn trên lưng, nhưng nó nằm khá cao và không dễ tấn công trong điều kiện bình thường.",
     "translator_note": ""
   },
   {
@@ -3071,7 +3071,7 @@
     "ai_reason": "",
     "source_en": "You have a clear head, huh?",
     "review_note": "",
-    "new_translation_vi": "Cậu có đầu óc sáng suốt đấy nhỉ?",
+    "new_translation_vi": "Cậu tỉnh táo phết nhỉ?",
     "translator_note": ""
   },
   {
@@ -3096,7 +3096,7 @@
     "ai_reason": "",
     "source_en": "Bell-Borne Geochelone's feet are covered in hard ice, protecting them from hard.",
     "review_note": "",
-    "new_translation_vi": "Bàn chân của Rùa Địa Chất Bell-Borne được bao phủ bởi lớp băng cứng, bảo vệ chúng khỏi những va chạm mạnh.",
+    "new_translation_vi": "Chân của Bell-Borne Geochelone được bao phủ bởi lớp băng cứng, bảo vệ chúng khỏi những tác động mạnh.",
     "translator_note": ""
   },
   {
@@ -3121,7 +3121,7 @@
     "ai_reason": "",
     "source_en": "But it keeps moving around.",
     "review_note": "",
-    "new_translation_vi": "Nhưng nó cứ di chuyển lung tung.",
+    "new_translation_vi": "Nhưng nó cứ di chuyển liên tục.",
     "translator_note": ""
   },
   {
@@ -3146,7 +3146,7 @@
     "ai_reason": "",
     "source_en": "I'll draw its attention, and you seize the chance to attack.",
     "review_note": "",
-    "new_translation_vi": "Tôi sẽ thu hút sự chú ý của nó, còn cậu hãy nắm lấy cơ hội mà tấn công.",
+    "new_translation_vi": "Tôi sẽ thu hút sự chú ý của nó, còn cậu hãy chớp thời cơ để tấn công.",
     "translator_note": ""
   },
   {
@@ -3171,7 +3171,7 @@
     "ai_reason": "",
     "source_en": "Won't that put you in danger?",
     "review_note": "",
-    "new_translation_vi": "Như vậy cậu không sợ nguy hiểm sao?",
+    "new_translation_vi": "Làm vậy chẳng phải sẽ khiến cậu gặp nguy hiểm sao?",
     "translator_note": ""
   },
   {
@@ -3196,7 +3196,7 @@
     "ai_reason": "",
     "source_en": "Tsk, are you underestimating a \"TD Hunter\"? Once you figure out its attack pattern, dodging is easy. That's how we took it down before.",
     "review_note": "",
-    "new_translation_vi": "Tsk, ngươi đang coi thường một \"Thợ săn TD\" à? Một khi đã nắm được kiểu tấn công của nó, né tránh dễ như trở bàn tay. Chúng ta đã hạ gục nó trước đây mà.",
+    "new_translation_vi": "Tsk, cậu đang xem thường một \"TD Hunter\" đấy à? Một khi đã nắm được quy luật tấn công của nó, việc né tránh rất dễ dàng. Đó là cách chúng tôi hạ gục nó trước đây.",
     "translator_note": ""
   },
   {
@@ -3221,7 +3221,7 @@
     "ai_reason": "",
     "source_en": "We? I thought you defeated it on your own?",
     "review_note": "",
-    "new_translation_vi": "Chúng ta á? Ta tưởng ngươi tự đánh bại nó một mình chứ?",
+    "new_translation_vi": "Chúng tôi? Tôi tưởng ông tự mình đánh bại nó chứ?",
     "translator_note": ""
   },
   {
@@ -3246,7 +3246,7 @@
     "ai_reason": "",
     "source_en": "We... I... Ugh, my head...",
     "review_note": "",
-    "new_translation_vi": "Chúng ta... Tôi... Ugh, đầu tôi...",
+    "new_translation_vi": "Chúng tôi... tôi... Ư, đầu tôi đau quá...",
     "translator_note": ""
   },
   {
@@ -3271,7 +3271,7 @@
     "ai_reason": "",
     "source_en": "Was there anyone else who fought Bell-Borne Geochelone with you?",
     "review_note": "",
-    "new_translation_vi": "Có ai khác cùng cậu chiến đấu với Bell-Borne Geochelone không?",
+    "new_translation_vi": "Có ai khác đã chiến đấu với Bell-Borne Geochelone cùng ông không?",
     "translator_note": ""
   },
   {
@@ -3296,7 +3296,7 @@
     "ai_reason": "",
     "source_en": "(In my memory, there's a group of people fighting alongside me.)",
     "review_note": "",
-    "new_translation_vi": "Trong ký ức ta, có một nhóm người đã chiến đấu bên cạnh ta.",
+    "new_translation_vi": "(Trong ký ức của mình, có một nhóm người đang chiến đấu bên cạnh tôi.)",
     "translator_note": ""
   },
   {
@@ -3321,7 +3321,7 @@
     "ai_reason": "",
     "source_en": "(Who were they?)",
     "review_note": "",
-    "new_translation_vi": "(Họ là ai vậy?)",
+    "new_translation_vi": "(Họ là ai nhỉ?)",
     "translator_note": ""
   },
   {
@@ -3346,7 +3346,7 @@
     "ai_reason": "",
     "source_en": "Ugh… my head hurts!",
     "review_note": "",
-    "new_translation_vi": "Ui da… Đầu tớ đau quá!",
+    "new_translation_vi": "Ư… đầu tôi đau quá!",
     "translator_note": ""
   },
   {
@@ -3371,7 +3371,7 @@
     "ai_reason": "",
     "source_en": "Don't push yourself too hard. You'd better take a rest in your condition.",
     "review_note": "",
-    "new_translation_vi": "Đừng cố quá sức như vậy. Trong tình trạng này, cậu nên nghỉ ngơi đi.",
+    "new_translation_vi": "Đừng cố quá sức. Với tình trạng này, cậu nên nghỉ ngơi đi.",
     "translator_note": ""
   },
   {
@@ -3396,7 +3396,7 @@
     "ai_reason": "",
     "source_en": "It's dangerous to confront Bell-Borne Geochelone on your own.",
     "review_note": "",
-    "new_translation_vi": "Đối đầu với Bell-Borne Geochelone một mình là rất nguy hiểm.",
+    "new_translation_vi": "Đối đầu với Bell-Borne Geochelone một mình rất nguy hiểm.",
     "translator_note": ""
   },
   {
@@ -3421,7 +3421,7 @@
     "ai_reason": "",
     "source_en": "It'll be fine. Leave it all to me.",
     "review_note": "",
-    "new_translation_vi": "Sẽ ổn thôi. Để tất cả lại cho tôi.",
+    "new_translation_vi": "Sẽ ổn thôi. Leave hết cho tôi.",
     "translator_note": ""
   },
   {
@@ -3446,7 +3446,7 @@
     "ai_reason": "",
     "source_en": "Wait, {PlayerName}!!",
     "review_note": "",
-    "new_translation_vi": "Đợi đã, {PlayerName}!!",
+    "new_translation_vi": "Khoan đã, {PlayerName}!!",
     "translator_note": ""
   },
   {
@@ -3471,7 +3471,7 @@
     "ai_reason": "",
     "source_en": "You really took down that monster all by yourself! That's astonishing!",
     "review_note": "",
-    "new_translation_vi": "Cậu tự mình hạ gục con quái vật đó thật à! Thật không thể tin nổi!",
+    "new_translation_vi": "Cậu thực sự đã hạ gục con quái vật đó một mình! Thật đáng kinh ngạc!",
     "translator_note": ""
   },
   {
@@ -3496,7 +3496,7 @@
     "ai_reason": "",
     "source_en": "That's my apprentice! It should be a piece of cake for {Male=him;Female=her} to deal with such a small fish.",
     "review_note": "",
-    "new_translation_vi": "Đó chính là đồ đệ của ta! Với {Male=hắn;Female=cô ấy} thì đối phó mấy con cá nhỏ này chẳng phải chuyện gì to tát.",
+    "new_translation_vi": "Đó mới là đệ tử của tôi chứ! Xử lý mấy con tép riu đó thì nhằm nhò gì với {Male=cậu ấy;Female=cô ấy}.",
     "translator_note": ""
   },
   {
@@ -3521,7 +3521,7 @@
     "ai_reason": "",
     "source_en": "Are you alright?",
     "review_note": "",
-    "new_translation_vi": "Cậu ổn chứ?",
+    "new_translation_vi": "Cậu có sao không?",
     "translator_note": ""
   },
   {
@@ -3546,7 +3546,7 @@
     "ai_reason": "",
     "source_en": "Don't know about them, but I'm perfectly fine.",
     "review_note": "",
-    "new_translation_vi": "Chẳng biết mấy người kia thế nào, chứ ta thì hoàn toàn ổn.",
+    "new_translation_vi": "Không biết họ thế nào, chứ tôi thì hoàn toàn ổn.",
     "translator_note": ""
   },
   {
@@ -3571,7 +3571,7 @@
     "ai_reason": "",
     "source_en": "You sure?",
     "review_note": "",
-    "new_translation_vi": "Chắc không?",
+    "new_translation_vi": "Chắc chứ?",
     "translator_note": ""
   },
   {
@@ -3596,7 +3596,7 @@
     "ai_reason": "",
     "source_en": "What are you worried about? It's just a small hiccup. Anyway, let me see the material you got from Bell-Borne Geochelone.",
     "review_note": "",
-    "new_translation_vi": "Lo lắng gì chứ? Chỉ là trục trặc nhỏ thôi mà. Thôi, đưa ta xem nguyên liệu cậu lấy được từ Bell-Borne Geochelone đi.",
+    "new_translation_vi": "Cậu lo lắng cái gì chứ? Chỉ là chút trục trặc nhỏ thôi. Dù sao thì, để tôi xem nguyên liệu cậu lấy được từ Bell-Borne Geochelone nào.",
     "translator_note": ""
   },
   {
@@ -3621,7 +3621,7 @@
     "ai_reason": "",
     "source_en": "Yeah, that's it—the \"Bell Spiriton.\" It's actually the seed produced by the plant on Bell-Borne Geochelone.",
     "review_note": "",
-    "new_translation_vi": "Ừ, đúng rồi—\"Bell Spiriton\" đấy. Thực ra là hạt giống của cây trên Bell-Borne Geochelone.",
+    "new_translation_vi": "Đúng rồi, chính là nó—\"Bell Spiriton.\" Thực ra nó là hạt giống được tạo ra bởi cái cây trên người Bell-Borne Geochelone.",
     "translator_note": ""
   },
   {
@@ -3646,7 +3646,7 @@
     "ai_reason": "",
     "source_en": "Haha? Really? Good to know! I need to note it down.",
     "review_note": "",
-    "new_translation_vi": "Haha? Thật sao? Hay quá! Ta phải ghi lại mới được.",
+    "new_translation_vi": "Haha? Thật sao? Tốt quá! Tôi phải ghi chú lại mới được.",
     "translator_note": ""
   },
   {
@@ -3671,7 +3671,7 @@
     "ai_reason": "",
     "source_en": "Oh my, can't you forget about your stupid research for one second?",
     "review_note": "",
-    "new_translation_vi": "Ôi trời, em không thể tạm quên cái nghiên cứu vớ vẩn của mình đi một chút à?",
+    "new_translation_vi": "Ôi trời, ông không thể quên cái nghiên cứu ngớ ngẩn của mình một giây thôi sao?",
     "translator_note": ""
   },
   {
@@ -3696,7 +3696,7 @@
     "ai_reason": "",
     "source_en": "Never mind. Forget about them. You need to hurry back to Jinzhou and give this to Koko. I'll contact the Pioneer Association to get them medical treatment.",
     "review_note": "",
-    "new_translation_vi": "Thôi kệ họ đi. Cậu phải nhanh chóng trở về Jinzhou và đưa cái này cho Koko. Tớ sẽ liên lạc với Hiệp Hội Tiên Phong để họ được chữa trị.",
+    "new_translation_vi": "Thôi bỏ đi. Đừng quan tâm đến họ nữa. Cậu cần nhanh chóng quay lại Jinzhou và đưa cái này cho Koko. Tôi sẽ liên lạc với Pioneer Association để họ lo việc điều trị.",
     "translator_note": ""
   },
   {
@@ -3721,7 +3721,7 @@
     "ai_reason": "",
     "source_en": "Rover, you're back!",
     "review_note": "",
-    "new_translation_vi": "Rover, cậu quay lại rồi!",
+    "new_translation_vi": "Rover, cậu về rồi!",
     "translator_note": ""
   },
   {
@@ -3746,7 +3746,7 @@
     "ai_reason": "",
     "source_en": "Is everything okay? Did you find Lianfeng?",
     "review_note": "",
-    "new_translation_vi": "Ổn cả chứ? Có tìm thấy Lianfeng không?",
+    "new_translation_vi": "Mọi chuyện ổn cả chứ? Cậu có tìm thấy Lianfeng không?",
     "translator_note": ""
   },
   {
@@ -3771,7 +3771,7 @@
     "ai_reason": "",
     "source_en": "Yes.",
     "review_note": "",
-    "new_translation_vi": "Yes.",
+    "new_translation_vi": "Có.",
     "translator_note": ""
   },
   {
@@ -3796,7 +3796,7 @@
     "ai_reason": "",
     "source_en": "Did he still have \"Bell Spiriton\"?",
     "review_note": "",
-    "new_translation_vi": "Hắn còn giữ \"Bell Spiriton\" không?",
+    "new_translation_vi": "Ông ấy vẫn còn giữ \"Bell Spiriton\" chứ?",
     "translator_note": ""
   },
   {
@@ -3821,7 +3821,7 @@
     "ai_reason": "",
     "source_en": "It's a long story. Here, take it.",
     "review_note": "",
-    "new_translation_vi": "Chuyện dài lắm. Thôi, cầm lấy đi.",
+    "new_translation_vi": "Chuyện dài lắm. Đây, cầm lấy đi.",
     "translator_note": ""
   },
   {
@@ -3846,7 +3846,7 @@
     "ai_reason": "",
     "source_en": "\"Bell Spiriton\"? Oh, yes, this is it!",
     "review_note": "",
-    "new_translation_vi": "\"Bell Spiriton hả? Ừ, đúng rồi, chính là cái này!\"",
+    "new_translation_vi": "\"Bell Spiriton\"? Ồ, đúng rồi, chính là nó!",
     "translator_note": ""
   },
   {
@@ -3871,7 +3871,7 @@
     "ai_reason": "",
     "source_en": "So my daughter can be saved?",
     "review_note": "",
-    "new_translation_vi": "Vậy là con gái ta có thể được cứu sao?",
+    "new_translation_vi": "Vậy là con gái tôi có thể được cứu rồi sao?",
     "translator_note": ""
   },
   {
@@ -3896,7 +3896,7 @@
     "ai_reason": "",
     "source_en": "Yes, with this, your daughter can be cured.",
     "review_note": "",
-    "new_translation_vi": "Ừ, có nó, con gái cậu sẽ được chữa khỏi.",
+    "new_translation_vi": "Vâng, với thứ này, con gái bác có thể được chữa khỏi.",
     "translator_note": ""
   },
   {
@@ -3921,7 +3921,7 @@
     "ai_reason": "",
     "source_en": "But it looks so fresh. I thought Lianfeng got it a long time ago.",
     "review_note": "",
-    "new_translation_vi": "Nhưng nó trông còn tươi mới quá. Tưởng Liên Phong mua từ lâu rồi cơ.",
+    "new_translation_vi": "Nhưng trông nó còn tươi quá. Tôi cứ tưởng Lianfeng đã lấy được nó từ lâu rồi chứ.",
     "translator_note": ""
   },
   {
@@ -3946,7 +3946,7 @@
     "ai_reason": "",
     "source_en": "Because it's freshly picked.",
     "review_note": "",
-    "new_translation_vi": "Bởi nó vừa mới hái xong.",
+    "new_translation_vi": "Vì nó mới được hái mà.",
     "translator_note": ""
   },
   {
@@ -3971,7 +3971,7 @@
     "ai_reason": "",
     "source_en": "Uncle Lianfeng?",
     "review_note": "",
-    "new_translation_vi": "Chú Liên Phong?",
+    "new_translation_vi": "Chú Lianfeng?",
     "translator_note": ""
   },
   {
@@ -3996,7 +3996,7 @@
     "ai_reason": "",
     "source_en": "Hey, show me some respect. It's Brother Lianfeng.",
     "review_note": "",
-    "new_translation_vi": "Này, tỏ ra tôn trọng đi. Đây là anh Lianfeng đấy.",
+    "new_translation_vi": "Này, tôn trọng tôi chút đi. Phải gọi là Anh Lianfeng.",
     "translator_note": ""
   },
   {
@@ -4021,7 +4021,7 @@
     "ai_reason": "",
     "source_en": "How are you feeling?",
     "review_note": "",
-    "new_translation_vi": "Cậu thấy thế nào?",
+    "new_translation_vi": "Cậu cảm thấy thế nào rồi?",
     "translator_note": ""
   },
   {
@@ -4046,7 +4046,7 @@
     "ai_reason": "",
     "source_en": "Just a little aftereffect of Overclocking. See, I'm totally fine.",
     "review_note": "",
-    "new_translation_vi": "Chỉ là tác dụng phụ nhỏ sau khi Overclocking thôi. Nhìn này, ta hoàn toàn ổn mà.",
+    "new_translation_vi": "Chỉ là chút dư chấn của Overclocking thôi. Thấy chưa, tôi hoàn toàn ổn mà.",
     "translator_note": ""
   },
   {
@@ -4096,7 +4096,7 @@
     "ai_reason": "",
     "source_en": "Is there a possibility that you didn't really go through Overclocking, and some other incident caused your memory loss?",
     "review_note": "",
-    "new_translation_vi": "Liệu có khả năng cậu không hề trải qua Overclocking, mà mất trí nhớ do một sự cố khác không?",
+    "new_translation_vi": "Liệu có khả năng là cậu không thực sự trải qua Overclocking, mà là một sự cố nào đó khác gây ra việc mất trí nhớ của cậu không?",
     "translator_note": ""
   },
   {
@@ -4121,7 +4121,7 @@
     "ai_reason": "",
     "source_en": "I believe you had teammates fighting with you.",
     "review_note": "",
-    "new_translation_vi": "Tôi tin cậu đã có đồng đội chiến đấu cùng chứ.",
+    "new_translation_vi": "Tôi tin là cậu đã có đồng đội chiến đấu cùng mình.",
     "translator_note": ""
   },
   {
@@ -4146,7 +4146,7 @@
     "ai_reason": "",
     "source_en": "No way. I've never had any companions or teammates. My dear apprentice, you worry too much. I handle my affairs, and you handle yours.",
     "review_note": "",
-    "new_translation_vi": "Không đời nào. Ta chưa từng có đồng đội hay bạn đồng hành nào cả. Đồ đệ thân mến, con lo lắng quá đấy. Ta lo chuyện của ta, con lo chuyện của con.",
+    "new_translation_vi": "Không đời nào. Tôi chưa bao giờ có bạn đồng hành hay đồng đội nào cả. Đệ tử cưng à, cậu lo xa quá rồi. Việc ai nấy làm, cậu lo việc của cậu đi.",
     "translator_note": ""
   },
   {
@@ -4171,7 +4171,7 @@
     "ai_reason": "",
     "source_en": "How did you get injured?",
     "review_note": "",
-    "new_translation_vi": "Sao cậu lại bị thương thế?",
+    "new_translation_vi": "Làm sao mà ông bị thương vậy?",
     "translator_note": ""
   },
   {
@@ -4196,7 +4196,7 @@
     "ai_reason": "",
     "source_en": "A long story again.",
     "review_note": "",
-    "new_translation_vi": "Lại một câu chuyện dài dòng nữa.",
+    "new_translation_vi": "Lại là một câu chuyện dài.",
     "translator_note": ""
   },
   {
@@ -4221,7 +4221,7 @@
     "ai_reason": "",
     "source_en": "He insisted on being my master.",
     "review_note": "",
-    "new_translation_vi": "Anh ấy nhất quyết nhận ta làm sư phụ.",
+    "new_translation_vi": "Ông ấy cứ khăng khăng đòi làm sư phụ của tôi.",
     "translator_note": ""
   },
   {
@@ -4238,15 +4238,15 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Master Lianfeng!",
     "review_note": "",
-    "new_translation_vi": "Master Lianfeng!",
+    "new_translation_vi": "Sư phụ Lianfeng!",
     "translator_note": ""
   },
   {
@@ -4271,7 +4271,7 @@
     "ai_reason": "",
     "source_en": "I'll share with you the exciting battle between Rover and Bell-Borne Geochelone later. For now, let's make the medicine this lady's daughter needs.",
     "review_note": "",
-    "new_translation_vi": "Ta sẽ kể cho ngươi nghe về trận chiến hào hứng giữa Rover và Bell-Borne Geochelone sau. Bây giờ, hãy cùng điều chế thuốc cho con gái của vị phu nhân này đã.",
+    "new_translation_vi": "Lát nữa tôi sẽ kể cho cậu nghe về trận chiến kịch tính giữa Rover và Bell-Borne Geochelone. Còn bây giờ, hãy làm thuốc cho con gái của quý cô này trước đã.",
     "translator_note": ""
   },
   {
@@ -4321,7 +4321,7 @@
     "ai_reason": "",
     "source_en": "Call me \"Brother\"! Anyway, I've already retired. I'll leave the title of \"TD Hunter\" to my chief apprentice.",
     "review_note": "",
-    "new_translation_vi": "Gọi ta là \"Anh trai\" đi! Dù sao ta cũng đã nghỉ hưu rồi. Danh hiệu \"Thợ Săn TD\" sẽ để lại cho đại đệ tử của ta.",
+    "new_translation_vi": "Gọi tôi là \"Anh\"! Dù sao thì tôi cũng đã giải nghệ rồi. Tôi sẽ leave danh hiệu \"TD Hunter\" lại cho đệ tử trưởng của mình.",
     "translator_note": ""
   },
   {
@@ -4371,7 +4371,7 @@
     "ai_reason": "",
     "source_en": "Really? That's good news. Rover's much more reliable than Uncle Lianfeng.",
     "review_note": "",
-    "new_translation_vi": "Thật sao? Tốt quá. Rover đáng tin hơn bác Lianfeng nhiều.",
+    "new_translation_vi": "Thật sao? Đó là tin tốt đấy. Rover đáng tin hơn chú Lianfeng nhiều.",
     "translator_note": ""
   },
   {
@@ -4396,7 +4396,7 @@
     "ai_reason": "",
     "source_en": "Can I?",
     "review_note": "",
-    "new_translation_vi": "Được không?",
+    "new_translation_vi": "Tôi có thể không?",
     "translator_note": ""
   },
   {
@@ -4421,7 +4421,7 @@
     "ai_reason": "",
     "source_en": "I'm not your apprentice.",
     "review_note": "",
-    "new_translation_vi": "Ta không phải đệ tử của ngươi.",
+    "new_translation_vi": "Tôi không phải học trò của cậu.",
     "translator_note": ""
   },
   {
@@ -4446,7 +4446,7 @@
     "ai_reason": "",
     "source_en": "Leave it to me, Master!",
     "review_note": "",
-    "new_translation_vi": "Để đó cho ta, sư phụ!",
+    "new_translation_vi": "Leave nó cho tôi đi, Sư phụ!",
     "translator_note": ""
   },
   {
@@ -4471,7 +4471,7 @@
     "ai_reason": "",
     "source_en": "Don't worry! I'll keep teaching you, hahaha!",
     "review_note": "",
-    "new_translation_vi": "Đừng lo! Tớ sẽ tiếp tục dạy cậu mà, hahaha!",
+    "new_translation_vi": "Đừng lo! Ta sẽ tiếp tục dạy cậu, hahaha!",
     "translator_note": ""
   },
   {
@@ -4496,7 +4496,7 @@
     "ai_reason": "",
     "source_en": "Okay, fine, but not being a TD Hunter is surely a waste of your skills.",
     "review_note": "",
-    "new_translation_vi": "Được rồi, đồng ý, nhưng không trở thành TD Hunter thì quả là phí hoài tài năng của cậu.",
+    "new_translation_vi": "Được rồi, nhưng không làm TD Hunter thì đúng là lãng phí kỹ năng của cậu đấy.",
     "translator_note": ""
   },
   {
@@ -4521,7 +4521,7 @@
     "ai_reason": "",
     "source_en": "Great. Now you're the new \"TD Hunter,\" and I'm sure you can do it well.",
     "review_note": "",
-    "new_translation_vi": "Tốt lắm. Giờ ngươi là \"Thợ Săn TD\" mới, và ta tin ngươi sẽ làm tốt thôi.",
+    "new_translation_vi": "Tuyệt. Giờ cậu là \"TD Hunter\" mới rồi, và tôi tin cậu sẽ làm tốt thôi.",
     "translator_note": ""
   },
   {
@@ -4546,7 +4546,7 @@
     "ai_reason": "",
     "source_en": "Right, and of course, you'll earn a fair wage for your work.",
     "review_note": "",
-    "new_translation_vi": "Đúng vậy, và dĩ nhiên, công sức của các ngươi sẽ được trả xứng đáng.",
+    "new_translation_vi": "Đúng vậy, và tất nhiên, cậu sẽ nhận được thù lao xứng đáng cho công việc của mình.",
     "translator_note": ""
   },
   {
@@ -4571,7 +4571,7 @@
     "ai_reason": "",
     "source_en": "(Perhaps, I can find out the true reason for my memory loss in battles against TDs.)",
     "review_note": "",
-    "new_translation_vi": "(Có lẽ, qua những trận chiến với Tacet Discord, ta sẽ tìm ra nguyên nhân thật sự khiến ký ức của mình bị mất.)",
+    "new_translation_vi": "(Có lẽ, mình có thể tìm ra lý do thực sự khiến mình mất trí nhớ thông qua các trận chiến với TD.)",
     "translator_note": ""
   },
   {
@@ -4596,7 +4596,7 @@
     "ai_reason": "",
     "source_en": "Well then, my dear apprentice, if there's information about new large TDs, I'll contact you!",
     "review_note": "",
-    "new_translation_vi": "Vậy thì, đồ đệ yêu quý của ta à, nếu có thông tin về những Tổ Tacet lớn mới, ta sẽ liên lạc với con ngay!",
+    "new_translation_vi": "Vậy thì, học trò thân mến, nếu có thông tin về các TD lớn mới, ta sẽ liên lạc với cậu!",
     "translator_note": ""
   },
   {
@@ -4621,7 +4621,7 @@
     "ai_reason": "",
     "source_en": "Any business?",
     "review_note": "",
-    "new_translation_vi": "Có việc gì không?",
+    "new_translation_vi": "Có việc gì à?",
     "translator_note": ""
   },
   {
@@ -4646,7 +4646,7 @@
     "ai_reason": "",
     "source_en": "I'm looking for a man called Lianfeng.",
     "review_note": "",
-    "new_translation_vi": "Ta đang tìm một người tên Lianfeng.",
+    "new_translation_vi": "Tôi đang tìm một người tên là Lianfeng.",
     "translator_note": ""
   },
   {
@@ -4671,7 +4671,7 @@
     "ai_reason": "",
     "source_en": "Ugh, do you know him?",
     "review_note": "",
-    "new_translation_vi": "Ôi, cậu có biết hắn không?",
+    "new_translation_vi": "Ưm, cậu có biết người đó không?",
     "translator_note": ""
   },
   {
@@ -4696,7 +4696,7 @@
     "ai_reason": "",
     "source_en": "Nope. Hey, don't talk to me! I haven't forgiven you yet!",
     "review_note": "",
-    "new_translation_vi": "Không. Này, đừng nói chuyện với ta! Ta chưa tha thứ cho ngươi đâu!",
+    "new_translation_vi": "Không. Này, đừng nói chuyện với tôi! Tôi vẫn chưa tha thứ cho cậu đâu!",
     "translator_note": ""
   },
   {
@@ -4721,7 +4721,7 @@
     "ai_reason": "",
     "source_en": "Tsk, so irritating.",
     "review_note": "",
-    "new_translation_vi": "Tsk, khó chịu quá.",
+    "new_translation_vi": "Chậc, phiền phức thật.",
     "translator_note": ""
   },
   {
@@ -4746,7 +4746,7 @@
     "ai_reason": "",
     "source_en": "You've been standing there for a while. How can we help you?",
     "review_note": "",
-    "new_translation_vi": "Cậu đứng đó cũng lâu rồi. Có gì chúng tôi có thể giúp không?",
+    "new_translation_vi": "Cậu đứng đó một lúc rồi đấy. Chúng tôi có thể giúp gì cho cậu không?",
     "translator_note": ""
   },
   {
@@ -4771,7 +4771,7 @@
     "ai_reason": "",
     "source_en": "I'm looking for a man called Lianfeng.",
     "review_note": "",
-    "new_translation_vi": "Ta đang tìm một người tên Lianfeng.",
+    "new_translation_vi": "Tôi đang tìm một người tên là Lianfeng.",
     "translator_note": ""
   },
   {
@@ -4796,7 +4796,7 @@
     "ai_reason": "",
     "source_en": "Lianfeng… Sorry, never heard of him.",
     "review_note": "",
-    "new_translation_vi": "Liên Phong à... Xin lỗi, chưa nghe tên bao giờ.",
+    "new_translation_vi": "Lianfeng… Xin lỗi, tôi chưa từng nghe tên người này.",
     "translator_note": ""
   },
   {
@@ -4821,7 +4821,7 @@
     "ai_reason": "",
     "source_en": "Your friend, huh? Maybe he joined the Midnight Rangers?",
     "review_note": "",
-    "new_translation_vi": "Bạn cậu à? Hay là hắn gia nhập Midnight Rangers rồi?",
+    "new_translation_vi": "Bạn của cậu à? Có khi nào người đó gia nhập Midnight Rangers rồi không?",
     "translator_note": ""
   },
   {
@@ -4846,7 +4846,7 @@
     "ai_reason": "",
     "source_en": "No, I just have business with him.",
     "review_note": "",
-    "new_translation_vi": "Không, tôi chỉ có việc riêng với anh ấy thôi.",
+    "new_translation_vi": "Không, tôi chỉ có chút việc với người đó thôi.",
     "translator_note": ""
   },
   {
@@ -4871,7 +4871,7 @@
     "ai_reason": "",
     "source_en": "I see. Good luck finding him.",
     "review_note": "",
-    "new_translation_vi": "Hiểu rồi. Chúc cậu may mắn tìm được anh ấy.",
+    "new_translation_vi": "Tôi hiểu rồi. Chúc cậu sớm tìm được người đó.",
     "translator_note": ""
   },
   {
@@ -4896,7 +4896,7 @@
     "ai_reason": "",
     "source_en": "Miss Koko, please!",
     "review_note": "",
-    "new_translation_vi": "Cô Koko ơi, làm ơn!",
+    "new_translation_vi": "Cô Koko, làm ơn đi mà!",
     "translator_note": ""
   },
   {
@@ -4921,7 +4921,7 @@
     "ai_reason": "",
     "source_en": "I'm desperate here. You've got to help me save my daughter. You're my last hope.",
     "review_note": "",
-    "new_translation_vi": "Tôi đang tuyệt vọng lắm rồi. Cậu phải giúp tôi cứu con gái tôi. Cậu là hy vọng cuối cùng của tôi.",
+    "new_translation_vi": "Tôi đang tuyệt vọng lắm. Cô phải giúp tôi cứu con gái mình. Cô là hy vọng cuối cùng của tôi rồi.",
     "translator_note": ""
   },
   {
@@ -4946,7 +4946,7 @@
     "ai_reason": "",
     "source_en": "How long do we have to wait here? Darn, I want to go investigate Bell-Borne Geochelone instead of staying in this boring place.",
     "review_note": "",
-    "new_translation_vi": "Chúng ta phải đợi ở đây bao lâu nữa chứ? Chán quá, mình muốn đi khám phá Bell-Borne Geochelone thay vì ở cái nơi nhàm chán này.",
+    "new_translation_vi": "Chúng ta phải đợi ở đây bao lâu nữa? Chết tiệt, tôi muốn đi điều tra Bell-Borne Geochelone hơn là cứ ở cái chỗ chán ngắt này.",
     "translator_note": ""
   },
   {
@@ -4971,7 +4971,7 @@
     "ai_reason": "",
     "source_en": "Where's your captain?",
     "review_note": "",
-    "new_translation_vi": "Đội trưởng của cậu đâu rồi?",
+    "new_translation_vi": "Đội trưởng của các người đâu?",
     "translator_note": ""
   },
   {
@@ -4996,7 +4996,7 @@
     "ai_reason": "",
     "source_en": "What bad luck.",
     "review_note": "",
-    "new_translation_vi": "Xui thật đấy.",
+    "new_translation_vi": "Xui xẻo thật.",
     "translator_note": ""
   },
   {
@@ -5021,7 +5021,7 @@
     "ai_reason": "",
     "source_en": "Go. I've got this.",
     "review_note": "",
-    "new_translation_vi": "Đi đi. Mọi chuyện cứ để ta lo.",
+    "new_translation_vi": "Đi đi. Chuyện này để tôi lo.",
     "translator_note": ""
   },
   {
@@ -5046,7 +5046,7 @@
     "ai_reason": "",
     "source_en": "I need to organize a research report as soon as possible. Ouch! That hurts.",
     "review_note": "",
-    "new_translation_vi": "Ta cần hoàn thành báo cáo nghiên cứu càng sớm càng tốt. Ui da! Đau quá!",
+    "new_translation_vi": "Tôi cần phải hoàn thành báo cáo nghiên cứu càng sớm càng tốt. Á! Đau quá.",
     "translator_note": ""
   },
   {
@@ -5071,7 +5071,7 @@
     "ai_reason": "",
     "source_en": "C'mon dude, just rest.",
     "review_note": "",
-    "new_translation_vi": "Thôi nào, nghỉ ngơi đi ông bạn.",
+    "new_translation_vi": "Thôi nào anh bạn, nghỉ ngơi chút đi.",
     "translator_note": ""
   },
   {
@@ -5096,7 +5096,7 @@
     "ai_reason": "",
     "source_en": "If you see someone being loud and boastful over tea at the theater, that's Lianfeng.",
     "review_note": "",
-    "new_translation_vi": "Nếu thấy ai đó ồn ào khoe khoang bên tách trà ở nhà hát, đó chính là Lianfeng.",
+    "new_translation_vi": "Nếu cậu thấy ai đó đang ồn ào và khoác lác bên tách trà ở nhà hát, đó chính là Lianfeng.",
     "translator_note": ""
   },
   {
@@ -5121,7 +5121,7 @@
     "ai_reason": "",
     "source_en": "Rover, please help me. I've got no other options.",
     "review_note": "",
-    "new_translation_vi": "Rover, giúp tôi đi. Tôi không còn lựa chọn nào khác.",
+    "new_translation_vi": "Rover, làm ơn giúp tôi với. Tôi không còn cách nào khác cả.",
     "translator_note": ""
   },
   {
@@ -5146,7 +5146,7 @@
     "ai_reason": "",
     "source_en": "Bro, not that I don't trust you, but you gotta show us how you take down those TDs at least once!",
     "review_note": "",
-    "new_translation_vi": "Ê này, không phải ta không tin ngươi đâu, nhưng ít nhất cũng phải cho bọn ta xem ngươi hạ gục mấy con TD đó một lần chứ!",
+    "new_translation_vi": "Này anh bạn, không phải tôi không tin cậu, nhưng ít nhất cậu phải cho chúng tôi thấy cách cậu hạ gục mấy con TD đó một lần chứ!",
     "translator_note": ""
   },
   {
@@ -5171,7 +5171,7 @@
     "ai_reason": "",
     "source_en": "Hey, I would, but here's the problem.",
     "review_note": "",
-    "new_translation_vi": "Này, mình cũng muốn lắm, nhưng vấn đề là ở đây.",
+    "new_translation_vi": "Này, tôi cũng muốn lắm, nhưng vấn đề là thế này.",
     "translator_note": ""
   },
   {
@@ -5196,7 +5196,7 @@
     "ai_reason": "",
     "source_en": "Guys like you might get smashed into meat pulp standing by my side.",
     "review_note": "",
-    "new_translation_vi": "Đứng cạnh ta, tụi bay có thể bị nghiền nát thành bã thịt đấy.",
+    "new_translation_vi": "Mấy người như các cậu đứng cạnh tôi có khi bị nghiền nát thành thịt vụn đấy.",
     "translator_note": ""
   },
   {
@@ -5221,7 +5221,7 @@
     "ai_reason": "",
     "source_en": "Haha, brag. Do you really think he can take down TDs, or am I the Magistrate of Jinzhou?",
     "review_note": "",
-    "new_translation_vi": "Haha, khoe khoang. Cậu thật sự nghĩ hắn có thể tiêu diệt mấy Tổ Tacet à, hay tôi mới là Quan Phủ của Jinzhou?",
+    "new_translation_vi": "Haha, khoác lác thật. Cậu thực sự nghĩ hắn có thể hạ được TD sao, hay là tôi đang làm Magistrate của Jinzhou nhỉ?",
     "translator_note": ""
   },
   {
@@ -5246,7 +5246,7 @@
     "ai_reason": "",
     "source_en": "Sir Magistrate, may I express my deepest respect.",
     "review_note": "",
-    "new_translation_vi": "Ngài Quan Tòa, cho phép tôi bày tỏ lòng kính trọng sâu sắc nhất.",
+    "new_translation_vi": "Thưa ngài Magistrate, cho phép tôi bày tỏ sự kính trọng sâu sắc nhất.",
     "translator_note": ""
   },
   {
@@ -5271,7 +5271,7 @@
     "ai_reason": "",
     "source_en": "How unlucky I am to run into a bunch of short-sighted fools like you. Can't believe you haven't even heard of the title \"TD Hunter\"!",
     "review_note": "",
-    "new_translation_vi": "Thật xui xẻo khi ta lại gặp phải lũ ngu muội như các người. Không thể tin được là các người còn chưa nghe tới danh hiệu \"Thợ Săn TD\"!",
+    "new_translation_vi": "Thật xui xẻo khi phải đụng độ một đám thiển cận như các người. Không thể tin nổi là các người còn chưa nghe đến danh hiệu \"TD Hunter\"!",
     "translator_note": ""
   },
   {
@@ -5296,7 +5296,7 @@
     "ai_reason": "",
     "source_en": "No wonder you can only afford this cheap tea. Hey, waiter, bring me the finest Jade Tea.",
     "review_note": "",
-    "new_translation_vi": "Thảo nào cậu chỉ uống nổi thứ trà rẻ tiền này. Này, phục vụ, đem trà Ngọc Bích ngon nhất ra đây!",
+    "new_translation_vi": "Chả trách các người chỉ đủ tiền uống loại trà rẻ tiền này. Này, phục vụ, mang cho tôi loại trà Jade thượng hạng nhất.",
     "translator_note": ""
   },
   {
@@ -5321,7 +5321,7 @@
     "ai_reason": "",
     "source_en": "What do you have to explain, you liar!",
     "review_note": "",
-    "new_translation_vi": "Cậu còn định giải thích gì nữa, đồ nói dối!",
+    "new_translation_vi": "Cậu còn gì để giải thích nữa, đồ nói dối!",
     "translator_note": ""
   },
   {
@@ -5346,7 +5346,7 @@
     "ai_reason": "",
     "source_en": "Hold on, at least let's listen to his excuses.",
     "review_note": "",
-    "new_translation_vi": "Đợi đã, ít nhất hãy nghe hắn giải thích đã chứ.",
+    "new_translation_vi": "Khoan đã, ít nhất hãy để chúng ta nghe lời bào chữa của cậu ta xem sao.",
     "translator_note": ""
   },
   {
@@ -5371,7 +5371,7 @@
     "ai_reason": "",
     "source_en": "Forget it, let him be! No matter what I say, he won't listen...",
     "review_note": "",
-    "new_translation_vi": "Thôi, kệ hắn đi! Nói gì hắn cũng không nghe đâu...",
+    "new_translation_vi": "Quên đi, cứ mặc kệ hắn! Dù tôi có nói gì thì hắn cũng chẳng nghe đâu...",
     "translator_note": ""
   },
   {
@@ -5396,7 +5396,7 @@
     "ai_reason": "",
     "source_en": "Have some tea, guys. As friends, everything can be talked over, huh?",
     "review_note": "",
-    "new_translation_vi": "Uống trà đi các cậu. Là bạn bè với nhau, chuyện gì cũng có thể nói ra mà, phải không?",
+    "new_translation_vi": "Uống trà đi các cậu. Bạn bè với nhau, chuyện gì cũng có thể nói chuyện phải trái mà, đúng không?",
     "translator_note": ""
   },
   {
@@ -5421,7 +5421,7 @@
     "ai_reason": "",
     "source_en": "My friend joined the Midnight Rangers. I'm worried she might be in danger now.",
     "review_note": "",
-    "new_translation_vi": "Bạn tôi gia nhập Midnight Rangers rồi. Tôi lo là giờ cô ấy đang gặp nguy hiểm.",
+    "new_translation_vi": "Bạn tôi đã gia nhập Midnight Rangers. Tôi lo là cô ấy có thể đang gặp nguy hiểm.",
     "translator_note": ""
   },
   {
@@ -5446,7 +5446,7 @@
     "ai_reason": "",
     "source_en": "New recruits generally aren't assigned to dangerous missions, right? I remember your brother joined last year.",
     "review_note": "",
-    "new_translation_vi": "Tân binh thường không được giao nhiệm vụ nguy hiểm đâu nhỉ? Anh nhớ em trai cậu mới gia nhập năm ngoái mà.",
+    "new_translation_vi": "Tân binh thường không được giao nhiệm vụ nguy hiểm đâu, đúng không? Tôi nhớ anh trai cậu cũng mới gia nhập năm ngoái mà.",
     "translator_note": ""
   },
   {
@@ -5471,7 +5471,7 @@
     "ai_reason": "",
     "source_en": "I don't quite follow.",
     "review_note": "",
-    "new_translation_vi": "Tôi không hiểu lắm.",
+    "new_translation_vi": "Tôi không hiểu ý cậu lắm.",
     "translator_note": ""
   },
   {
@@ -5496,7 +5496,7 @@
     "ai_reason": "",
     "source_en": "But, in any case, they have to fight against those Tacet Discords. Just thinking about it gives me the shivers.",
     "review_note": "",
-    "new_translation_vi": "Nhưng dù sao đi nữa, họ vẫn phải chiến đấu với những Tacet Discord đó. Chỉ nghĩ thôi đã thấy rùng mình rồi.",
+    "new_translation_vi": "Nhưng dù sao thì, họ cũng phải chiến đấu với lũ Tacet Discord đó. Chỉ nghĩ đến thôi đã thấy rùng mình rồi.",
     "translator_note": ""
   },
   {
@@ -5521,7 +5521,7 @@
     "ai_reason": "",
     "source_en": "Yeah, thanks to their efforts, us ordinary folks can live in peace.",
     "review_note": "",
-    "new_translation_vi": "Ừ, nhờ có nỗ lực của họ, chúng ta, những người dân bình thường, mới được sống yên ổn.",
+    "new_translation_vi": "Đúng vậy, nhờ có sự nỗ lực của họ mà những người dân thường như chúng ta mới có thể sống trong hòa bình.",
     "translator_note": ""
   },
   {
@@ -5546,7 +5546,7 @@
     "ai_reason": "",
     "source_en": "Hey, Lianfeng, you have a guest here.",
     "review_note": "",
-    "new_translation_vi": "Này, Lianfeng, có khách đến thăm cậu đấy.",
+    "new_translation_vi": "Này, Lianfeng, có khách tìm cậu này.",
     "translator_note": ""
   },
   {
@@ -5571,7 +5571,7 @@
     "ai_reason": "",
     "source_en": "Who are you? I don't know you.",
     "review_note": "",
-    "new_translation_vi": "Ngươi là ai? Ta không hề biết ngươi.",
+    "new_translation_vi": "Cậu là ai? Tôi không quen cậu.",
     "translator_note": ""
   },
   {
@@ -5596,7 +5596,7 @@
     "ai_reason": "",
     "source_en": "You're Lianfeng? Finally found you.",
     "review_note": "",
-    "new_translation_vi": "Cậu là Lianfeng à? Cuối cùng cũng tìm thấy cậu rồi.",
+    "new_translation_vi": "Cậu là Lianfeng phải không? Cuối cùng cũng tìm được cậu.",
     "translator_note": ""
   },
   {
@@ -5621,7 +5621,7 @@
     "ai_reason": "",
     "source_en": "Are you looking for me? Who told you I'm here?",
     "review_note": "",
-    "new_translation_vi": "Cậu tìm tôi à? Ai bảo cậu tôi ở đây?",
+    "new_translation_vi": "Cậu đang tìm tôi à? Ai bảo cậu tôi ở đây?",
     "translator_note": ""
   },
   {
@@ -5646,7 +5646,7 @@
     "ai_reason": "",
     "source_en": "Miss Koko from Shifang Pharmacy.",
     "review_note": "",
-    "new_translation_vi": "Cô Koko ở hiệu thuốc Shifang.",
+    "new_translation_vi": "Cô Koko từ hiệu thuốc Shifang.",
     "translator_note": ""
   },
   {
@@ -5671,7 +5671,7 @@
     "ai_reason": "",
     "source_en": "Darn. Did she send you to collect debts?",
     "review_note": "",
-    "new_translation_vi": "Chết tiệt. Bả sai ngươi đến đòi nợ à?",
+    "new_translation_vi": "Chết tiệt. Cô ấy cử cậu đến đòi nợ à?",
     "translator_note": ""
   },
   {
@@ -5696,7 +5696,7 @@
     "ai_reason": "",
     "source_en": "What?",
     "review_note": "",
-    "new_translation_vi": "Gì cơ?",
+    "new_translation_vi": "Cái gì?",
     "translator_note": ""
   },
   {
@@ -5721,7 +5721,7 @@
     "ai_reason": "",
     "source_en": "Nothing, forget it. Anyway, why are you looking for me? Spill it. I don't have time to waste.",
     "review_note": "",
-    "new_translation_vi": "Không có gì, quên đi. À mà, tìm ta có việc gì? Nói nhanh đi. Ta không có thời gian để phí hoài đâu.",
+    "new_translation_vi": "Không có gì, quên đi. Dù sao thì, cậu tìm tôi có việc gì? Nói nhanh đi. Tôi không có thời gian lãng phí đâu.",
     "translator_note": ""
   },
   {
@@ -5746,7 +5746,7 @@
     "ai_reason": "",
     "source_en": "Come on! You're just having tea here with us. Oh! Nice tea.",
     "review_note": "",
-    "new_translation_vi": "Này! Chỉ là ngồi uống trà với tụi này thôi mà. Ồ! Trà ngon đấy.",
+    "new_translation_vi": "Thôi nào! Cậu chỉ đang ngồi uống trà với chúng tôi thôi mà. Ồ! Trà ngon đấy.",
     "translator_note": ""
   },
   {
@@ -5771,7 +5771,7 @@
     "ai_reason": "",
     "source_en": "Just so you know, if you're here to borrow money, then you can turn around and leave. I'm broke. Flat broke.",
     "review_note": "",
-    "new_translation_vi": "Cậu biết đấy, nếu đến đây để mượn tiền thì quay đầu đi nhé. Tớ hết sạch rồi. Hết sạch trơn.",
+    "new_translation_vi": "Nói cho cậu biết, nếu cậu đến đây để vay tiền thì cậu có thể quay đầu và leave đi được rồi. Tôi cháy túi rồi. Trắng tay hoàn toàn.",
     "translator_note": ""
   },
   {
@@ -5796,7 +5796,7 @@
     "ai_reason": "",
     "source_en": "You can sell those PRECIOUS materials you've obtained from TDs, huh? They should earn you a great sum.",
     "review_note": "",
-    "new_translation_vi": "Cậu định bán mấy nguyên liệu QUÝ GIÁ kiếm được từ TDs à? Chắc sẽ kiếm được kha khá đấy.",
+    "new_translation_vi": "Cậu có thể bán những nguyên liệu QUÝ GIÁ thu được từ lũ TD mà, đúng không? Chúng đáng giá một khoản kha khá đấy.",
     "translator_note": ""
   },
   {
@@ -5821,7 +5821,7 @@
     "ai_reason": "",
     "source_en": "I sold them all a long time ago.",
     "review_note": "",
-    "new_translation_vi": "Ta bán hết chúng từ lâu rồi.",
+    "new_translation_vi": "Tôi bán hết từ lâu rồi.",
     "translator_note": ""
   },
   {
@@ -5846,7 +5846,7 @@
     "ai_reason": "",
     "source_en": "All of them? What about the material called \"Bell Spiriton?",
     "review_note": "",
-    "new_translation_vi": "Tất cả à? Còn nguyên liệu gọi là \"Bell Spiriton\" thì sao?",
+    "new_translation_vi": "Hết sạch rồi sao? Thế còn nguyên liệu gọi là \"Bell Spiriton\" thì sao?",
     "translator_note": ""
   },
   {
@@ -5871,7 +5871,7 @@
     "ai_reason": "",
     "source_en": "Why am I telling you all this? You're just wasting my time. Get outta here; don't spoil my moment drinking this delicious tea.",
     "review_note": "",
-    "new_translation_vi": "Sao mình lại kể cho cậu nghe những chuyện này nhỉ? Đang phí thời gian của mình đấy. Đi đi, đừng làm hỏng giây phút thưởng trà tuyệt vời này.",
+    "new_translation_vi": "Tại sao tôi lại phải kể cho cậu nghe mấy chuyện này chứ? Cậu chỉ đang làm mất thời gian của tôi thôi. Đi chỗ khác chơi đi; đừng làm hỏng khoảnh khắc thưởng thức tách trà ngon lành này của tôi.",
     "translator_note": ""
   },
   {
@@ -5896,7 +5896,7 @@
     "ai_reason": "",
     "source_en": "Where else can I find it?",
     "review_note": "",
-    "new_translation_vi": "Tớ có thể tìm thấy nó ở đâu khác nữa không?",
+    "new_translation_vi": "Tôi có thể tìm nó ở đâu khác không?",
     "translator_note": ""
   },
   {
@@ -5921,7 +5921,7 @@
     "ai_reason": "",
     "source_en": "I'm not lying, but I'm the only one that can obtain \"Bell Spiriton\".",
     "review_note": "",
-    "new_translation_vi": "Tôi không nói dối đâu, chỉ có tôi mới lấy được \"Bell Spiriton\" thôi.",
+    "new_translation_vi": "Tôi không nói dối đâu, nhưng tôi là người duy nhất có thể lấy được \"Bell Spiriton\".",
     "translator_note": ""
   },
   {
@@ -5946,7 +5946,7 @@
     "ai_reason": "",
     "source_en": "Then why not go take down that Bell-Borne thing again?",
     "review_note": "",
-    "new_translation_vi": "Vậy sao không đi hạ cái thứ Bell-Borne đó lần nữa?",
+    "new_translation_vi": "Vậy tại sao không đi hạ gục con Bell-Borne đó lần nữa?",
     "translator_note": ""
   },
   {
@@ -5971,7 +5971,7 @@
     "ai_reason": "",
     "source_en": "Seriously? I'm not going! I'm tired of dealing with minions like Bell-Borne Geochelone. Whoever wants to go can go by themselves.",
     "review_note": "",
-    "new_translation_vi": "Thật à? Tớ không đi đâu! Mệt mỏi quá rồi mấy con Bell-Borne Geochelone kiểu này. Ai muốn đi thì đi một mình đi.",
+    "new_translation_vi": "Nghiêm túc đấy à? Tôi không đi đâu! Tôi chán ngấy việc phải đối phó với mấy con tép riu như Bell-Borne Geochelone rồi. Ai muốn đi thì tự đi mà làm.",
     "translator_note": ""
   },
   {
@@ -5996,7 +5996,7 @@
     "ai_reason": "",
     "source_en": "If you're that strong, why did you quit the Pioneer Association? Or, were you kicked out?",
     "review_note": "",
-    "new_translation_vi": "Nếu cậu mạnh đến thế, sao lại rời khỏi Hiệp Hội Tiên Phong? Hay là bị đuổi?",
+    "new_translation_vi": "Nếu cậu mạnh như vậy, tại sao lại rời khỏi Pioneer Association? Hay là cậu bị đuổi?",
     "translator_note": ""
   },
   {
@@ -6021,7 +6021,7 @@
     "ai_reason": "",
     "source_en": "I heard from Miss Maqi that you quit. So it's true, huh?",
     "review_note": "",
-    "new_translation_vi": "Ta nghe cô Maqi nói cậu đã nghỉ việc. Thật sự à?",
+    "new_translation_vi": "Tôi nghe cô Maqi nói là cậu đã nghỉ việc. Vậy là thật à?",
     "translator_note": ""
   },
   {
@@ -6046,7 +6046,7 @@
     "ai_reason": "",
     "source_en": "Nonsense. I quit because I don't need any companions or assistance to take down TDs.",
     "review_note": "",
-    "new_translation_vi": "Vớ vẩn. Ta rời đi vì không cần đồng đội hay trợ giúp gì để tiêu diệt TD cả.",
+    "new_translation_vi": "Vớ vẩn. Tôi nghỉ vì tôi không cần bất kỳ đồng đội hay sự hỗ trợ nào để hạ gục lũ TD cả.",
     "translator_note": ""
   },
   {
@@ -6071,7 +6071,7 @@
     "ai_reason": "",
     "source_en": "I'm a lone wolf. I don't waste time getting along with people.",
     "review_note": "",
-    "new_translation_vi": "Ta là sói đơn độc. Ta không phí thời gian giao du với ai cả.",
+    "new_translation_vi": "Tôi là một con sói đơn độc. Tôi không lãng phí thời gian để hòa nhập với người khác đâu.",
     "translator_note": ""
   },
   {
@@ -6096,7 +6096,7 @@
     "ai_reason": "",
     "source_en": "Hey, friend, I remember you're Rover who just came to Jinzhou, right? Why do you want this thing?",
     "review_note": "",
-    "new_translation_vi": "Này, bạn ơi, tôi nhớ cậu là Rover vừa đến Jinzhou phải không? Sao cậu lại cần thứ này?",
+    "new_translation_vi": "Này bạn hiền, tôi nhớ cậu là Rover vừa mới đến Jinzhou đúng không? Tại sao cậu lại muốn thứ này?",
     "translator_note": ""
   },
   {
@@ -6121,7 +6121,7 @@
     "ai_reason": "",
     "source_en": "That's unfortunate, but so what? Why should I help someone I barely know? Go find someone else.",
     "review_note": "",
-    "new_translation_vi": "Thật không may, nhưng rồi sao? Tại sao ta phải giúp một kẻ gần như xa lạ? Đi tìm người khác đi.",
+    "new_translation_vi": "Thật đáng tiếc, nhưng thì sao chứ? Tại sao tôi phải giúp một người mà tôi chẳng quen biết? Đi tìm người khác đi.",
     "translator_note": ""
   },
   {
@@ -6146,7 +6146,7 @@
     "ai_reason": "",
     "source_en": "Hey, how can you be so cruel? Have some compassion!",
     "review_note": "",
-    "new_translation_vi": "Này, sao cậu có thể tàn nhẫn thế? Hãy có chút lòng trắc ẩn đi!",
+    "new_translation_vi": "Này, sao cậu có thể tàn nhẫn như vậy? Hãy có chút lòng trắc ẩn đi chứ!",
     "translator_note": ""
   },
   {
@@ -6171,7 +6171,7 @@
     "ai_reason": "",
     "source_en": "Oh my, I really can't stand stories like this.",
     "review_note": "",
-    "new_translation_vi": "Ôi trời, tôi thật sự không chịu nổi những câu chuyện kiểu này.",
+    "new_translation_vi": "Ôi trời, tôi thực sự không chịu nổi mấy câu chuyện kiểu này.",
     "translator_note": ""
   },
   {
@@ -6196,7 +6196,7 @@
     "ai_reason": "",
     "source_en": "What's the matter with you two?",
     "review_note": "",
-    "new_translation_vi": "Hai người các anh bị sao vậy?",
+    "new_translation_vi": "Hai người bị làm sao vậy?",
     "translator_note": ""
   },
   {
@@ -6221,7 +6221,7 @@
     "ai_reason": "",
     "source_en": "Mr. Lianfeng, please lend us a hand.",
     "review_note": "",
-    "new_translation_vi": "Ông Lianfeng, xin hãy giúp chúng tôi một tay.",
+    "new_translation_vi": "Ông Lianfeng, làm ơn hãy giúp chúng tôi một tay.",
     "translator_note": ""
   },
   {
@@ -6246,7 +6246,7 @@
     "ai_reason": "",
     "source_en": "Hahaha! Please explain this matter in detail to us Pioneer Association!",
     "review_note": "",
-    "new_translation_vi": "Hahaha! Hãy giải thích chi tiết vấn đề này cho Hiệp Hội Tiên Phong chúng ta đi!",
+    "new_translation_vi": "Hahaha! Làm ơn hãy giải thích rõ ràng chuyện này cho Pioneer Association chúng tôi nghe đi!",
     "translator_note": ""
   },
   {
@@ -6271,7 +6271,7 @@
     "ai_reason": "",
     "source_en": "Sorry for the abrupt intrusion! We didn't intend to eavesdrop your conversation. It's just your voices were a bit loud.",
     "review_note": "",
-    "new_translation_vi": "Xin lỗi vì đột nhiên xông vào! Chúng tôi không cố ý nghe lén cuộc trò chuyện của các cậu đâu. Chỉ là giọng nói của các cậu hơi to thôi.",
+    "new_translation_vi": "Xin lỗi vì sự đường đột này! Chúng tôi không cố ý nghe lén cuộc trò chuyện của các người đâu. Chỉ là giọng các người hơi to quá.",
     "translator_note": ""
   },
   {
@@ -6296,7 +6296,7 @@
     "ai_reason": "",
     "source_en": "Tsk, are all members of the Pioneer Association this rude?",
     "review_note": "",
-    "new_translation_vi": "Tsk, có phải tất cả thành viên Hiệp hội Tiên phong đều thô lỗ như vậy không?",
+    "new_translation_vi": "Chậc, thành viên của Pioneer Association ai cũng thô lỗ thế này à?",
     "translator_note": ""
   },
   {
@@ -6321,7 +6321,7 @@
     "ai_reason": "",
     "source_en": "In fact, we're the Explorers of the Pioneer Association, and I'm the captain of this squad. Are you Rover? Nice to meet you!",
     "review_note": "",
-    "new_translation_vi": "Thực tế, bọn tớ là Đội Thám Hiểm của Hiệp hội Pioneer, và tớ là đội trưởng của đội này. Cậu là Rover phải không? Rất vui được gặp cậu!",
+    "new_translation_vi": "Thực ra, chúng tôi là những nhà thám hiểm của Pioneer Association, và tôi là đội trưởng của đội này. Cậu là Rover phải không? Rất vui được gặp cậu!",
     "translator_note": ""
   },
   {
@@ -6346,7 +6346,7 @@
     "ai_reason": "",
     "source_en": "Nice to meet you too.",
     "review_note": "",
-    "new_translation_vi": "Tớ cũng rất vui được gặp cậu.",
+    "new_translation_vi": "Tôi cũng rất vui được gặp cậu.",
     "translator_note": ""
   },
   {
@@ -6371,7 +6371,7 @@
     "ai_reason": "",
     "source_en": "Haha, Lianfeng, you're ignored!",
     "review_note": "",
-    "new_translation_vi": "Haha, Liên Phong, cậu bị phớt lờ rồi kìa!",
+    "new_translation_vi": "Haha, Lianfeng, cậu bị ngó lơ rồi kìa!",
     "translator_note": ""
   },
   {
@@ -6396,7 +6396,7 @@
     "ai_reason": "",
     "source_en": "Shut up. Hey, what do you want?",
     "review_note": "",
-    "new_translation_vi": "Im đi. Này, ngươi muốn gì?",
+    "new_translation_vi": "Im đi. Này, các người muốn gì?",
     "translator_note": ""
   },
   {
@@ -6421,7 +6421,7 @@
     "ai_reason": "",
     "source_en": "Well, we're heading to the Gorges of Spirits to investigate a giant Tacet Discord found there.",
     "review_note": "",
-    "new_translation_vi": "Chúng ta đang trên đường đến Gorges of Spirits để điều tra một Tacet Discord khổng lồ được phát hiện ở đó.",
+    "new_translation_vi": "À, chúng tôi đang đến Gorges of Spirits để điều tra một Tacet Discord khổng lồ được tìm thấy ở đó.",
     "translator_note": ""
   },
   {
@@ -6446,7 +6446,7 @@
     "ai_reason": "",
     "source_en": "Bell-Borne Geochelone?",
     "review_note": "",
-    "new_translation_vi": "Rùa Địa Chất Bell-Borne sao?",
+    "new_translation_vi": "Bell-Borne Geochelone sao?",
     "translator_note": ""
   },
   {
@@ -6471,7 +6471,7 @@
     "ai_reason": "",
     "source_en": "Yes. Our goal is to take Bell-Borne Geochelone down for further research.",
     "review_note": "",
-    "new_translation_vi": "Đúng. Mục tiêu của chúng ta là hạ Bell-Borne Geochelone để nghiên cứu thêm.",
+    "new_translation_vi": "Đúng vậy. Mục tiêu của chúng tôi là hạ gục Bell-Borne Geochelone để phục vụ nghiên cứu sâu hơn.",
     "translator_note": ""
   },
   {
@@ -6496,7 +6496,7 @@
     "ai_reason": "",
     "source_en": "Then we happened to hear your conversation and thought if we could help the unfortunate mother and daughter at the same time, it'd be great.",
     "review_note": "",
-    "new_translation_vi": "Thế rồi chúng tôi tình cờ nghe được cuộc trò chuyện của hai người và nghĩ rằng nếu giúp được cả mẹ con bất hạnh này thì thật tuyệt.",
+    "new_translation_vi": "Tình cờ nghe được cuộc trò chuyện của các người, chúng tôi nghĩ nếu có thể giúp đỡ hai mẹ con đáng thương kia cùng lúc thì thật tốt.",
     "translator_note": ""
   },
   {
@@ -6521,7 +6521,7 @@
     "ai_reason": "",
     "source_en": "That's great! Please help them!",
     "review_note": "",
-    "new_translation_vi": "Tuyệt vời! Xin hãy giúp họ nhé!",
+    "new_translation_vi": "Tuyệt quá! Làm ơn hãy giúp họ đi!",
     "translator_note": ""
   },
   {
@@ -6546,7 +6546,7 @@
     "ai_reason": "",
     "source_en": "You're such good guys, unlike Lianfeng.",
     "review_note": "",
-    "new_translation_vi": "Các cậu đúng là những người tốt, không như Lianfeng.",
+    "new_translation_vi": "Các người thật tốt bụng, không giống như Lianfeng.",
     "translator_note": ""
   },
   {
@@ -6571,7 +6571,7 @@
     "ai_reason": "",
     "source_en": "Are you insane?",
     "review_note": "",
-    "new_translation_vi": "Cậu điên à?",
+    "new_translation_vi": "Cậu điên rồi à?",
     "translator_note": ""
   },
   {
@@ -6596,7 +6596,7 @@
     "ai_reason": "",
     "source_en": "Can you really defeat that giant Tacet Discord?",
     "review_note": "",
-    "new_translation_vi": "Cậu có thật sự đánh bại được Tacet Discord khổng lồ đó không?",
+    "new_translation_vi": "Các người thực sự có thể đánh bại Tacet Discord khổng lồ đó sao?",
     "translator_note": ""
   },
   {
@@ -6621,7 +6621,7 @@
     "ai_reason": "",
     "source_en": "Don't worry. We've thoroughly investigated Bell-Borne Geochelone, and our squad is composed of experienced Resonators.",
     "review_note": "",
-    "new_translation_vi": "Đừng lo. Chúng tôi đã điều tra kỹ lưỡng Bell-Borne Geochelone, và đội của chúng tôi toàn là Cộng Hưởng Giả dày dạn kinh nghiệm.",
+    "new_translation_vi": "Đừng lo. Chúng tôi đã điều tra kỹ lưỡng Bell-Borne Geochelone, và đội của chúng tôi toàn là những Resonator giàu kinh nghiệm.",
     "translator_note": ""
   },
   {
@@ -6646,7 +6646,7 @@
     "ai_reason": "",
     "source_en": "But we've never heard of this \"Bell Spiriton\" before. It seems like an interesting research subject. I'm sure the Editorial Department will be thrilled.",
     "review_note": "",
-    "new_translation_vi": "Nhưng chúng ta chưa từng nghe đến \"Linh Hồn Chuông\" này bao giờ. Nghe có vẻ là một đề tài nghiên cứu thú vị đấy. Bộ Biên Tập chắc sẽ hứng khởi lắm.",
+    "new_translation_vi": "Nhưng chúng tôi chưa từng nghe nói về \"Bell Spiriton\" này bao giờ. Có vẻ là một chủ đề nghiên cứu thú vị đấy. Tôi chắc rằng Ban Biên tập sẽ rất phấn khích.",
     "translator_note": ""
   },
   {
@@ -6671,7 +6671,7 @@
     "ai_reason": "",
     "source_en": "Well, Rover, just wait for our good news! Bye!",
     "review_note": "",
-    "new_translation_vi": "Thôi, Rover, đợi tin tốt của chúng tôi nhé! Tạm biệt!",
+    "new_translation_vi": "Được rồi, Rover, cứ chờ tin tốt từ chúng tôi nhé! Tạm biệt!",
     "translator_note": ""
   },
   {
@@ -6696,7 +6696,7 @@
     "ai_reason": "",
     "source_en": "Wait, that's too dangerous! You're all going to die! Hey, stop!",
     "review_note": "",
-    "new_translation_vi": "Đợi đã, nguy hiểm quá! Các cậu sẽ chết mất! Này, dừng lại đi!",
+    "new_translation_vi": "Khoan đã, nguy hiểm lắm! Các người sẽ mất mạng đấy! Này, dừng lại!",
     "translator_note": ""
   },
   {
@@ -6721,7 +6721,7 @@
     "ai_reason": "",
     "source_en": "Just let them do their work, Lianfeng. You're being ridiculous.",
     "review_note": "",
-    "new_translation_vi": "Để họ làm việc đi, Lianfeng. Cậu đang làm quá lên đấy.",
+    "new_translation_vi": "Cứ để họ làm việc của mình đi, Lianfeng. Cậu đang làm quá lên đấy.",
     "translator_note": ""
   },
   {
@@ -6746,7 +6746,7 @@
     "ai_reason": "",
     "source_en": "Me? Ridiculous? I just don't want to see them throw away their lives so rashly!",
     "review_note": "",
-    "new_translation_vi": "Tớ á? Vô lý à? Tớ chỉ không muốn thấy họ vứt bỏ mạng sống của mình một cách liều lĩnh như vậy!",
+    "new_translation_vi": "Tôi á? Làm quá? Tôi chỉ không muốn thấy họ liều mạng một cách thiếu suy nghĩ như vậy!",
     "translator_note": ""
   },
   {
@@ -6771,7 +6771,7 @@
     "ai_reason": "",
     "source_en": "Are you worried about them?",
     "review_note": "",
-    "new_translation_vi": "Cậu lo cho bọn họ à?",
+    "new_translation_vi": "Cậu đang lo lắng cho họ sao?",
     "translator_note": ""
   },
   {
@@ -6796,7 +6796,7 @@
     "ai_reason": "",
     "source_en": "I'm not a member of the Pioneer Association anymore. They can do whatever they want. I don't care.",
     "review_note": "",
-    "new_translation_vi": "Tớ không còn là thành viên của Hiệp Hội Tiên Phong nữa. Họ muốn làm gì thì làm, tớ chẳng quan tâm.",
+    "new_translation_vi": "Tôi không còn là thành viên của Hiệp hội Tiên phong nữa. Họ muốn làm gì thì làm. Tôi không quan tâm.",
     "translator_note": ""
   },
   {
@@ -6821,7 +6821,7 @@
     "ai_reason": "",
     "source_en": "Since you're a man of strength, why not join in and help out? We'll respect you as a true man.",
     "review_note": "",
-    "new_translation_vi": "Anh là người mạnh mẽ, sao không tham gia giúp chúng tôi một tay? Chúng tôi sẽ tôn trọng anh như một người đàn ông đích thực.",
+    "new_translation_vi": "Vì cậu là người có thực lực, sao không tham gia giúp một tay? Chúng tôi sẽ tôn trọng cậu như một người đàn ông thực thụ.",
     "translator_note": ""
   },
   {
@@ -6846,7 +6846,7 @@
     "ai_reason": "",
     "source_en": "Mr. Lianfeng, let's go help them.",
     "review_note": "",
-    "new_translation_vi": "Ông Lianfeng, chúng ta đi giúp họ đi.",
+    "new_translation_vi": "Ngài Lianfeng, chúng ta đi giúp họ đi.",
     "translator_note": ""
   },
   {
@@ -6871,7 +6871,7 @@
     "ai_reason": "",
     "source_en": "Tsk, easy for you to say.",
     "review_note": "",
-    "new_translation_vi": "Tsk, nói thì dễ lắm.",
+    "new_translation_vi": "Hừ, nói thì dễ lắm.",
     "translator_note": ""
   },
   {
@@ -6896,7 +6896,7 @@
     "ai_reason": "",
     "source_en": "Look, he's backing down.",
     "review_note": "",
-    "new_translation_vi": "Nhìn kìa, hắn đang lùi rồi.",
+    "new_translation_vi": "Nhìn kìa, cậu ta đang rút lui rồi.",
     "translator_note": ""
   },
   {
@@ -6921,7 +6921,7 @@
     "ai_reason": "",
     "source_en": "Are you underestimating me? Fine, I'll go! But I won't help them fight Bell-Borne Geochelone. I already said I'm done with the Pioneer Association!",
     "review_note": "",
-    "new_translation_vi": "Cậu coi thường tớ à? Được thôi, tớ đi! Nhưng tớ sẽ không giúp chúng đánh Bell-Borne Geochelone đâu. Tớ đã nói rồi, tớ không còn dính dáng gì đến Pioneer Association nữa!",
+    "new_translation_vi": "Cậu đang coi thường tôi đấy à? Được, tôi sẽ đi! Nhưng tôi sẽ không giúp họ đánh Bell-Borne Geochelone đâu. Tôi đã nói là tôi xong việc với Hiệp hội Tiên phong rồi!",
     "translator_note": ""
   },
   {
@@ -6946,7 +6946,7 @@
     "ai_reason": "",
     "source_en": "I'll tell {Male=him;Female=her} how to take down Bell-Borne Geochelone as {Male=his;Female=her} \"Master\"!",
     "review_note": "",
-    "new_translation_vi": "Ta sẽ chỉ cho {Male=hắn;Female=cô ấy} cách hạ gục Bell-Borne Geochelone với tư cách \"Sư phụ\" của {Male=hắn;Female=cô ấy}!",
+    "new_translation_vi": "Tôi sẽ chỉ cho {Male=cậu ấy;Female=cô ấy} cách hạ gục Bell-Borne Geochelone với tư cách là \"Sư phụ\" của {Male=cậu ấy;Female=cô ấy}!",
     "translator_note": ""
   },
   {
@@ -6996,7 +6996,7 @@
     "ai_reason": "",
     "source_en": "Looks like you're skilled enough. With my guidance, you'll be more capable than those guys in the future.",
     "review_note": "",
-    "new_translation_vi": "Có vẻ cậu đã khá thành thạo rồi. Với sự hướng dẫn của ta, sau này cậu sẽ còn vượt xa mấy kẻ kia.",
+    "new_translation_vi": "Có vẻ cậu cũng đủ kỹ năng đấy. Với sự hướng dẫn của tôi, sau này cậu sẽ còn giỏi hơn mấy gã đó.",
     "translator_note": ""
   },
   {
@@ -7021,7 +7021,7 @@
     "ai_reason": "",
     "source_en": "Well, as long as you're happy.",
     "review_note": "",
-    "new_translation_vi": "Thì, miễn là cậu vui là được.",
+    "new_translation_vi": "Được thôi, miễn là cậu thấy vui.",
     "translator_note": ""
   },
   {
@@ -7071,7 +7071,7 @@
     "ai_reason": "",
     "source_en": "I don't need a master.",
     "review_note": "",
-    "new_translation_vi": "Ta không cần chủ nhân đâu.",
+    "new_translation_vi": "Tôi không cần sư phụ.",
     "translator_note": ""
   },
   {
@@ -7088,15 +7088,15 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Master Lianfeng!",
     "review_note": "",
-    "new_translation_vi": "Master Lianfeng!",
+    "new_translation_vi": "Sư phụ Lianfeng!",
     "translator_note": ""
   },
   {
@@ -7121,7 +7121,7 @@
     "ai_reason": "",
     "source_en": "Good. Hope you'll be as composed facing that formidable TD.",
     "review_note": "",
-    "new_translation_vi": "Tốt. Hy vọng cậu sẽ bình tĩnh khi đối mặt với TD đáng gờm đó.",
+    "new_translation_vi": "Tốt. Hy vọng cậu cũng giữ được bình tĩnh như vậy khi đối mặt với con TD đáng gờm đó.",
     "translator_note": ""
   },
   {
@@ -7146,7 +7146,7 @@
     "ai_reason": "",
     "source_en": "Tsk. Anyway, with an experienced \"TD hunter\" by your side, nothing could go wrong.",
     "review_note": "",
-    "new_translation_vi": "Tt. Dù sao, có một \"thợ săn TD\" dày dạn kinh nghiệm như ta bên cạnh, chẳng có gì phải lo cả.",
+    "new_translation_vi": "Tsk. Dù sao thì, có một \"thợ săn TD\" dày dạn kinh nghiệm bên cạnh, sẽ không có chuyện gì xảy ra đâu.",
     "translator_note": ""
   },
   {
@@ -7171,7 +7171,7 @@
     "ai_reason": "",
     "source_en": "One more time!",
     "review_note": "",
-    "new_translation_vi": "Lại một lần nữa nào!",
+    "new_translation_vi": "Thêm lần nữa nào!",
     "translator_note": ""
   },
   {
@@ -7196,7 +7196,7 @@
     "ai_reason": "",
     "source_en": "In that case, you'll know I wasn't bragging. Wait and see.",
     "review_note": "",
-    "new_translation_vi": "Vậy thì, cậu sẽ biết ta không hề khoác lác. Đợi mà xem.",
+    "new_translation_vi": "Đến lúc đó, cậu sẽ biết tôi không hề khoác lác. Cứ chờ mà xem.",
     "translator_note": ""
   },
   {
@@ -7221,7 +7221,7 @@
     "ai_reason": "",
     "source_en": "Rover, come! Let's have a private talk over there. Don't let these fools hear.",
     "review_note": "",
-    "new_translation_vi": "Rover, lại đây! Chúng ta nói chuyện riêng ở chỗ kia. Đừng để lũ ngốc này nghe lén.",
+    "new_translation_vi": "Rover, lại đây! Chúng ta nói chuyện riêng ở đằng kia đi. Đừng để mấy kẻ ngốc đó nghe thấy.",
     "translator_note": ""
   },
   {
@@ -7246,7 +7246,7 @@
     "ai_reason": "",
     "source_en": "As if we'd love to hear. We've had our fill of tea. Bye.",
     "review_note": "",
-    "new_translation_vi": "Như thể chúng tôi muốn nghe vậy. Chúng tôi uống trà cũng đủ rồi. Tạm biệt.",
+    "new_translation_vi": "Cứ như chúng tôi muốn nghe lắm ấy. Trà cũng uống xong rồi. Tạm biệt.",
     "translator_note": ""
   },
   {
@@ -7271,7 +7271,7 @@
     "ai_reason": "",
     "source_en": "Boss, put it on Lianfeng's tab!",
     "review_note": "",
-    "new_translation_vi": "Sếp, tính vào hóa đơn của Liên Phong đi!",
+    "new_translation_vi": "Chủ quán, tính vào sổ của Lianfeng nhé!",
     "translator_note": ""
   },
   {
@@ -7296,7 +7296,7 @@
     "ai_reason": "",
     "source_en": "Out, out, out! Get out! Don't waste our time.",
     "review_note": "",
-    "new_translation_vi": "Ra đi, ra đi, ra ngay! Đừng có phí thời gian của chúng ta!",
+    "new_translation_vi": "Ra ngoài, ra ngoài, ra ngoài! Đi đi! Đừng làm mất thời gian của chúng tôi.",
     "translator_note": ""
   },
   {
@@ -7311,11 +7311,11 @@
     "primary_key": "Side_CXLR_7_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
@@ -7346,7 +7346,7 @@
     "ai_reason": "",
     "source_en": "What happened?",
     "review_note": "",
-    "new_translation_vi": "Chuyện gì đã xảy ra?",
+    "new_translation_vi": "Chuyện gì đã xảy ra vậy?",
     "translator_note": ""
   },
   {
@@ -7371,7 +7371,7 @@
     "ai_reason": "",
     "source_en": "Aren't you afraid to fight against TDs?",
     "review_note": "",
-    "new_translation_vi": "Cậu không sợ phải chiến đấu với bọn Tacet Discord sao?",
+    "new_translation_vi": "Cậu không sợ phải chiến đấu với TD sao?",
     "translator_note": ""
   },
   {
@@ -7396,7 +7396,7 @@
     "ai_reason": "",
     "source_en": "I mean, Bell-Borne Geochelone is a very dangerous opponent. You might get hurt or even lose your life fighting it.",
     "review_note": "",
-    "new_translation_vi": "Ý tôi là, Bell-Borne Geochelone là một đối thủ cực kỳ nguy hiểm. Cậu có thể bị thương nặng hoặc thậm chí mất mạng khi chiến đấu với nó đấy.",
+    "new_translation_vi": "Ý tôi là, Bell-Borne Geochelone là một đối thủ rất nguy hiểm. Cậu có thể bị thương hoặc thậm chí mất mạng khi chiến đấu với nó.",
     "translator_note": ""
   },
   {
@@ -7421,7 +7421,7 @@
     "ai_reason": "",
     "source_en": "Though that mother and daughter are quite pitiful, you don't have an obligation to help them.",
     "review_note": "",
-    "new_translation_vi": "Dù hai mẹ con họ thật đáng thương, cậu không có nghĩa vụ phải giúp đỡ họ.",
+    "new_translation_vi": "Mặc dù hai mẹ con đó khá đáng thương, nhưng cậu không có nghĩa vụ phải giúp họ.",
     "translator_note": ""
   },
   {
@@ -7446,7 +7446,7 @@
     "ai_reason": "",
     "source_en": "Even if you back out now, no one can blame you, including that mother and daughter.",
     "review_note": "",
-    "new_translation_vi": "Dù cậu rút lui ngay bây giờ, cũng chẳng ai trách cậu đâu, kể cả hai mẹ con đó.",
+    "new_translation_vi": "Ngay cả khi bây giờ cậu rút lui, cũng không ai trách cậu được, kể cả hai mẹ con đó.",
     "translator_note": ""
   },
   {
@@ -7471,7 +7471,7 @@
     "ai_reason": "",
     "source_en": "Keep this conversation between us. I'll try to figure out a way to get the \"Bell Spiriton\" for you, so you don't have to risk your life.",
     "review_note": "",
-    "new_translation_vi": "Giữ bí mật chuyện này giữa chúng ta thôi. Ta sẽ cố tìm cách kiếm \"Bell Spiriton\" cho ngươi, để ngươi khỏi phải liều mạng.",
+    "new_translation_vi": "Giữ kín cuộc trò chuyện này giữa chúng ta nhé. Tôi sẽ tìm cách lấy \"Bell Spiriton\" cho cậu, để cậu không phải mạo hiểm tính mạng.",
     "translator_note": ""
   },
   {
@@ -7496,7 +7496,7 @@
     "ai_reason": "",
     "source_en": "Though we've only known each other for a short time, I don't want to see you die on my watch.",
     "review_note": "",
-    "new_translation_vi": "Dù mới quen nhau chưa lâu, nhưng ta không muốn thấy ngươi chết trước mắt ta đâu.",
+    "new_translation_vi": "Dù chúng ta mới quen nhau không lâu, nhưng tôi không muốn thấy cậu chết ngay trước mắt mình.",
     "translator_note": ""
   },
   {
@@ -7521,7 +7521,7 @@
     "ai_reason": "",
     "source_en": "You're experienced, so I'm safe with you around.",
     "review_note": "",
-    "new_translation_vi": "Ngươi có kinh nghiệm, nên ta mới yên tâm khi có ngươi ở đây.",
+    "new_translation_vi": "Cậu có kinh nghiệm mà, nên tôi thấy an toàn khi ở cạnh cậu.",
     "translator_note": ""
   },
   {
@@ -7546,7 +7546,7 @@
     "ai_reason": "",
     "source_en": "You've got some guts. Well, not bad.",
     "review_note": "",
-    "new_translation_vi": "Cậu gan dạ thật đấy. Ừ, cũng không tệ.",
+    "new_translation_vi": "Cậu cũng gan dạ đấy. Được, không tệ.",
     "translator_note": ""
   },
   {
@@ -7596,7 +7596,7 @@
     "ai_reason": "",
     "source_en": "Hmph. Are you doubting that I've never hunted that TD?",
     "review_note": "",
-    "new_translation_vi": "Hừ. Ngươi nghi ngờ ta chưa từng săn con TD đó à?",
+    "new_translation_vi": "Hừ. Cậu đang nghi ngờ việc tôi chưa từng săn con TD đó sao?",
     "translator_note": ""
   },
   {
@@ -7621,7 +7621,7 @@
     "ai_reason": "",
     "source_en": "Yes.",
     "review_note": "",
-    "new_translation_vi": "Yes.",
+    "new_translation_vi": "Đúng vậy.",
     "translator_note": ""
   },
   {
@@ -7646,7 +7646,7 @@
     "ai_reason": "",
     "source_en": "Not yet.",
     "review_note": "",
-    "new_translation_vi": "Chưa xong.",
+    "new_translation_vi": "Chưa từng.",
     "translator_note": ""
   },
   {
@@ -7671,7 +7671,7 @@
     "ai_reason": "",
     "source_en": "That's straightforward.",
     "review_note": "",
-    "new_translation_vi": "Thẳng thắn thế.",
+    "new_translation_vi": "Thẳng thắn đấy.",
     "translator_note": ""
   },
   {
@@ -7696,7 +7696,7 @@
     "ai_reason": "",
     "source_en": "Fine, even though you said that, I can tell from your expression that you're not fully convinced.",
     "review_note": "",
-    "new_translation_vi": "Được rồi, dù cậu nói thế, nhưng nhìn mặt cậu là tôi biết cậu vẫn chưa hoàn toàn tin.",
+    "new_translation_vi": "Được rồi, dù cậu nói vậy, tôi vẫn nhìn ra từ biểu cảm của cậu là cậu chưa hoàn toàn tin tưởng.",
     "translator_note": ""
   },
   {
@@ -7721,7 +7721,7 @@
     "ai_reason": "",
     "source_en": "Can't blame you. Honestly, I sometimes doubt if I'm a true \"TD Hunter\" myself.",
     "review_note": "",
-    "new_translation_vi": "Không thể trách cậu được. Thực sự, đôi khi chính tớ cũng nghi ngờ liệu mình có phải là một \"Thợ Săn TD\" thực thụ không.",
+    "new_translation_vi": "Không trách cậu được. Thú thật, đôi khi chính tôi cũng nghi ngờ liệu mình có phải là một \"Thợ săn TD\" thực thụ hay không.",
     "translator_note": ""
   },
   {
@@ -7746,7 +7746,7 @@
     "ai_reason": "",
     "source_en": "Have you heard of the Overclocking of a Resonator?",
     "review_note": "",
-    "new_translation_vi": "Ngươi đã nghe về việc Cộng Hưởng Giả bị Overclocking chưa?",
+    "new_translation_vi": "Cậu đã nghe nói về Overclocking của một Resonator chưa?",
     "translator_note": ""
   },
   {
@@ -7771,7 +7771,7 @@
     "ai_reason": "",
     "source_en": "Yes.",
     "review_note": "",
-    "new_translation_vi": "Yes.",
+    "new_translation_vi": "Rồi.",
     "translator_note": ""
   },
   {
@@ -7796,7 +7796,7 @@
     "ai_reason": "",
     "source_en": "No.",
     "review_note": "",
-    "new_translation_vi": "Không.",
+    "new_translation_vi": "Chưa.",
     "translator_note": ""
   },
   {
@@ -7821,7 +7821,7 @@
     "ai_reason": "",
     "source_en": "You're quite knowledgeable. Have you ever encountered a Resonator after Overclocking?",
     "review_note": "",
-    "new_translation_vi": "Cậu hiểu biết thật đấy. Đã bao giờ gặp Cộng Hưởng Giả sau khi Overclock chưa?",
+    "new_translation_vi": "Cậu hiểu biết rộng đấy. Cậu đã bao giờ chạm trán một Resonator sau Overclocking chưa?",
     "translator_note": ""
   },
   {
@@ -7846,7 +7846,7 @@
     "ai_reason": "",
     "source_en": "If left unchecked, it can lead to severe aftereffects, even completely altering a Resonator's personality.",
     "review_note": "",
-    "new_translation_vi": "Nếu không được kiểm soát, hậu quả có thể rất nghiêm trọng, thậm chí làm thay đổi hoàn toàn tính cách của một Cộng Hưởng Giả.",
+    "new_translation_vi": "Nếu không được kiểm soát, nó có thể dẫn đến những di chứng nghiêm trọng, thậm chí thay đổi hoàn toàn tính cách của một Resonator.",
     "translator_note": ""
   },
   {
@@ -7871,7 +7871,7 @@
     "ai_reason": "",
     "source_en": "For example, I'm one of the unlucky Resonators who went through it.",
     "review_note": "",
-    "new_translation_vi": "Ví dụ như ta là một trong những Cộng Hưởng Giả xui xẻo đã trải qua chuyện đó.",
+    "new_translation_vi": "Ví dụ như tôi, tôi là một trong những Resonator kém may mắn đã trải qua điều đó.",
     "translator_note": ""
   },
   {
@@ -7896,7 +7896,7 @@
     "ai_reason": "",
     "source_en": "You've experienced Overclocking before?",
     "review_note": "",
-    "new_translation_vi": "Ngươi đã từng trải qua Overclocking à?",
+    "new_translation_vi": "Cậu đã từng trải qua Overclocking rồi sao?",
     "translator_note": ""
   },
   {
@@ -7921,7 +7921,7 @@
     "ai_reason": "",
     "source_en": "Perhaps, I don't really remember because the researchers at the Academy confirmed that I lost most of my memories after Overclocking.",
     "review_note": "",
-    "new_translation_vi": "Có lẽ vậy, nhưng tôi không nhớ rõ lắm vì các nhà nghiên cứu ở Học viện xác nhận tôi đã mất hầu hết ký ức sau khi Overclocking.",
+    "new_translation_vi": "Có lẽ vậy, tôi không thực sự nhớ rõ vì các nhà nghiên cứu tại Học viện xác nhận rằng tôi đã mất phần lớn ký ức sau Overclocking.",
     "translator_note": ""
   },
   {
@@ -7946,7 +7946,7 @@
     "ai_reason": "",
     "source_en": "Some memories, like how to fight those TDs, stay with me—no matter how hard I've tried to forget them.",
     "review_note": "",
-    "new_translation_vi": "Một vài ký ức, như cách chiến đấu với mấy con TD đó, cứ ám ảnh ta—dù ta đã cố quên chúng đến thế nào.",
+    "new_translation_vi": "Một vài ký ức, như cách chiến đấu với lũ TD đó, vẫn ở lại với tôi—dù tôi có cố gắng quên đi thế nào đi nữa.",
     "translator_note": ""
   },
   {
@@ -7971,7 +7971,7 @@
     "ai_reason": "",
     "source_en": "Though in those memories, I always hunted them alone. There's always this strange feeling of unnaturalness... Forget it. You won't understand.",
     "review_note": "",
-    "new_translation_vi": "Dù trong ký ức đó, ta luôn săn chúng một mình. Luôn có cảm giác kỳ lạ, không tự nhiên... Thôi, quên đi. Cậu cũng chẳng hiểu đâu.",
+    "new_translation_vi": "Mặc dù trong những ký ức đó, tôi luôn săn chúng một mình. Luôn có cảm giác kỳ lạ không tự nhiên... Quên đi. Cậu sẽ không hiểu đâu.",
     "translator_note": ""
   },
   {
@@ -7996,7 +7996,7 @@
     "ai_reason": "",
     "source_en": "Anyway, not the right time to talk about this now.",
     "review_note": "",
-    "new_translation_vi": "Dù sao thì giờ cũng không phải lúc để nói về chuyện này.",
+    "new_translation_vi": "Dù sao thì, bây giờ không phải lúc để nói về chuyện này.",
     "translator_note": ""
   },
   {
@@ -8021,7 +8021,7 @@
     "ai_reason": "",
     "source_en": "Let's go. I'll head to the meeting point outside Jinzhou and wait for you there. I already sent the coordinates to your Terminal.",
     "review_note": "",
-    "new_translation_vi": "Đi thôi. Tớ sẽ đến điểm hẹn bên ngoài Jinzhou và đợi cậu ở đó. Tớ đã gửi tọa độ vào Thiết bị đầu cuối của cậu rồi.",
+    "new_translation_vi": "Đi thôi. Tôi sẽ đến điểm tập kết bên ngoài Jinzhou và đợi cậu ở đó. Tôi đã gửi tọa độ vào Terminal của cậu rồi.",
     "translator_note": ""
   },
   {
@@ -8046,7 +8046,7 @@
     "ai_reason": "",
     "source_en": "If you're ready, meet me there. Don't dawdle. We need to catch up with them!",
     "review_note": "",
-    "new_translation_vi": "Nếu cậu đã sẵn sàng, gặp tớ ở đó nhé. Đừng có chậm chạp! Chúng ta phải đuổi kịp họ!",
+    "new_translation_vi": "Nếu cậu đã sẵn sàng thì hãy gặp tôi ở đó. Đừng chần chừ. Chúng ta cần phải đuổi kịp họ!",
     "translator_note": ""
   },
   {
@@ -8096,7 +8096,7 @@
     "ai_reason": "",
     "source_en": "I'm fine. Just a bit careless to be attacked by those minions. Not a big deal. I scared them off effortlessly.",
     "review_note": "",
-    "new_translation_vi": "Tớ không sao. Chỉ hơi bất cẩn bị mấy con lính đánh úp thôi. Chẳng có gì to tát. Tớ đuổi chúng đi dễ như trở bàn tay.",
+    "new_translation_vi": "Tôi ổn. Chỉ là hơi bất cẩn nên mới bị lũ tay sai đó tấn công thôi. Không có gì to tát cả. Tôi đã dọa chúng chạy mất rồi.",
     "translator_note": ""
   },
   {
@@ -8121,7 +8121,7 @@
     "ai_reason": "",
     "source_en": "You sure?",
     "review_note": "",
-    "new_translation_vi": "Chắc không?",
+    "new_translation_vi": "Cậu chắc chứ?",
     "translator_note": ""
   },
   {
@@ -8146,7 +8146,7 @@
     "ai_reason": "",
     "source_en": "What's with that look! Seems like it's time for your first lesson as my apprentice.",
     "review_note": "",
-    "new_translation_vi": "Nhìn cái mặt đó làm gì! Có vẻ như đã đến lúc học bài học đầu tiên với sư phụ đây.",
+    "new_translation_vi": "Cái ánh nhìn đó là sao! Có vẻ đã đến lúc cho bài học đầu tiên của cậu với tư cách là học trò của tôi rồi.",
     "translator_note": ""
   },
   {
@@ -8171,7 +8171,7 @@
     "ai_reason": "",
     "source_en": "Rule Number One for \"TD Hunter\"—\"Never look down upon minions!\"",
     "review_note": "",
-    "new_translation_vi": "Quy tắc số một của \"Thợ Săn TD\" – \"Đừng bao giờ coi thường lũ tay sai!\"",
+    "new_translation_vi": "Quy tắc số một của \"Thợ săn TD\"—\"Không bao giờ được coi thường lũ tay sai!\"",
     "translator_note": ""
   },
   {
@@ -8196,7 +8196,7 @@
     "ai_reason": "",
     "source_en": "But you didn't seem to follow your own rule.",
     "review_note": "",
-    "new_translation_vi": "Nhưng cậu dường như cũng không tuân theo quy tắc của chính mình.",
+    "new_translation_vi": "Nhưng có vẻ cậu không tuân thủ quy tắc của chính mình thì phải.",
     "translator_note": ""
   },
   {
@@ -8221,7 +8221,7 @@
     "ai_reason": "",
     "source_en": "Okay, okay, let's keep moving.",
     "review_note": "",
-    "new_translation_vi": "Được rồi, được rồi, tiếp tục thôi.",
+    "new_translation_vi": "Được rồi, được rồi, tiếp tục đi thôi.",
     "translator_note": ""
   },
   {
@@ -8246,7 +8246,7 @@
     "ai_reason": "",
     "source_en": "Yes, Master!",
     "review_note": "",
-    "new_translation_vi": "Dạ, thưa sư phụ!",
+    "new_translation_vi": "Vâng, thưa sư phụ!",
     "translator_note": ""
   },
   {
@@ -8271,7 +8271,7 @@
     "ai_reason": "",
     "source_en": "Ahem, I intentionally put myself in danger to teach you a lesson.",
     "review_note": "",
-    "new_translation_vi": "Ờ hừm, tớ cố tình đặt mình vào nguy hiểm để dạy cậu một bài học đấy.",
+    "new_translation_vi": "Khụ, tôi cố tình đặt mình vào nguy hiểm để dạy cậu một bài học đấy.",
     "translator_note": ""
   },
   {
@@ -8296,7 +8296,7 @@
     "ai_reason": "",
     "source_en": "Alright, it's your loss not listening to me. I'm speaking from experience.",
     "review_note": "",
-    "new_translation_vi": "Được rồi, không nghe ta là lỗ của cậu đấy. Ta nói từ kinh nghiệm mà.",
+    "new_translation_vi": "Được rồi, không nghe lời tôi là thiệt thòi của cậu thôi. Tôi đang nói dựa trên kinh nghiệm đấy.",
     "translator_note": ""
   },
   {
@@ -8321,7 +8321,7 @@
     "ai_reason": "",
     "source_en": "Good, remember my words. They'll be useful to you one day.",
     "review_note": "",
-    "new_translation_vi": "Tốt, nhớ kỹ lời ta đấy. Một ngày nào đó, chúng sẽ có ích cho con.",
+    "new_translation_vi": "Tốt, hãy nhớ lấy lời tôi. Một ngày nào đó chúng sẽ có ích cho cậu.",
     "translator_note": ""
   },
   {
@@ -8371,7 +8371,7 @@
     "ai_reason": "",
     "source_en": "What did you find then?",
     "review_note": "",
-    "new_translation_vi": "Vậy rốt cuộc ngươi tìm thấy gì?",
+    "new_translation_vi": "Vậy cậu đã tìm thấy gì?",
     "translator_note": ""
   },
   {
@@ -8396,7 +8396,7 @@
     "ai_reason": "",
     "source_en": "What about now?",
     "review_note": "",
-    "new_translation_vi": "Bây giờ thì sao?",
+    "new_translation_vi": "Còn bây giờ thì sao?",
     "translator_note": ""
   },
   {
@@ -8421,7 +8421,7 @@
     "ai_reason": "",
     "source_en": "We're pretty lucky. There's a high chance we'll get the \"Bell Spiriton\" if we hunt Bell-Borne Geochelone now.",
     "review_note": "",
-    "new_translation_vi": "Chúng ta khá may mắn đấy. Nếu săn Bell-Borne Geochelone bây giờ, khả năng cao sẽ nhận được \"Bell Spiriton\".",
+    "new_translation_vi": "Chúng ta khá may mắn đấy. Cơ hội săn được \"Bell Spiriton\" rất cao nếu chúng ta đi săn Bell-Borne Geochelone ngay bây giờ.",
     "translator_note": ""
   },
   {
@@ -8446,7 +8446,7 @@
     "ai_reason": "",
     "source_en": "Plus, it seems that those from the Pioneer Association are planning to go to the Gorges of Spirits along the river.",
     "review_note": "",
-    "new_translation_vi": "Hơn nữa, có vẻ như những người từ Hiệp Hội Pioneer đang lên kế hoạch đến Gorges of Spirits dọc theo con sông.",
+    "new_translation_vi": "Thêm nữa, có vẻ như những người từ Hiệp hội Tiên phong đang định đi đến Gorges of Spirits dọc theo con sông.",
     "translator_note": ""
   },
   {
@@ -8471,7 +8471,7 @@
     "ai_reason": "",
     "source_en": "I can see signs of someone camping here.",
     "review_note": "",
-    "new_translation_vi": "Ta thấy dấu hiệu có người đã cắm trại ở đây.",
+    "new_translation_vi": "Tôi thấy dấu vết có người cắm trại ở đây.",
     "translator_note": ""
   },
   {
@@ -8496,7 +8496,7 @@
     "ai_reason": "",
     "source_en": "Seems like they're well-prepared. The Pioneer Association is really interested in Bell-Borne Geochelone.",
     "review_note": "",
-    "new_translation_vi": "Có vẻ họ đã chuẩn bị kỹ lưỡng. Hiệp hội Tiên Phong thực sự quan tâm đến Bell-Borne Geochelone.",
+    "new_translation_vi": "Có vẻ họ đã chuẩn bị rất kỹ lưỡng. Hiệp hội Tiên phong thực sự rất quan tâm đến Bell-Borne Geochelone.",
     "translator_note": ""
   },
   {
@@ -8521,7 +8521,7 @@
     "ai_reason": "",
     "source_en": "What's special about Bell-Borne Geochelone?",
     "review_note": "",
-    "new_translation_vi": "Rùa Địa Chất Bell-Borne có gì đặc biệt vậy?",
+    "new_translation_vi": "Điều gì đặc biệt ở Bell-Borne Geochelone vậy?",
     "translator_note": ""
   },
   {
@@ -8546,7 +8546,7 @@
     "ai_reason": "",
     "source_en": "The turtle carried on the duty of that bell ringer.",
     "review_note": "",
-    "new_translation_vi": "Chú rùa vẫn tiếp tục gánh vác nhiệm vụ của người đánh chuông.",
+    "new_translation_vi": "Con rùa đó đã gánh vác nhiệm vụ của người rung chuông kia.",
     "translator_note": ""
   },
   {
@@ -8571,7 +8571,7 @@
     "ai_reason": "",
     "source_en": "Yes, that's the story. Later, someone found a rusted ancient bell in the Gorges of Spirits, similar in style to the bronze bell the ancient army used.",
     "review_note": "",
-    "new_translation_vi": "Đúng vậy, đó chính là câu chuyện. Sau này, có người đã tìm thấy một chiếc chuông cổ hoen gỉ ở Gorges of Spirits, kiểu dáng rất giống với chiếc chuông đồng mà đội quân cổ đại từng sử dụng.",
+    "new_translation_vi": "Đúng vậy, câu chuyện là thế. Sau này, có người tìm thấy một chiếc chuông cổ bị gỉ sét ở Gorges of Spirits, kiểu dáng tương tự như chiếc chuông đồng mà quân đội cổ đại từng sử dụng.",
     "translator_note": ""
   },
   {
@@ -8596,7 +8596,7 @@
     "ai_reason": "",
     "source_en": "But it's just a story. After all, no one knows if TDs have memories and emotions.",
     "review_note": "",
-    "new_translation_vi": "Nhưng chỉ là câu chuyện thôi mà. Dù sao cũng chẳng ai biết Tacet Discord có ký ức hay cảm xúc gì không.",
+    "new_translation_vi": "Nhưng đó chỉ là chuyện kể thôi. Suy cho cùng, chẳng ai biết liệu TD có ký ức và cảm xúc hay không.",
     "translator_note": ""
   },
   {
@@ -8621,7 +8621,7 @@
     "ai_reason": "",
     "source_en": "No matter what happened in the past, this TD is now a hideous creature bringing nothing other than pain and torture to Huanglong.",
     "review_note": "",
-    "new_translation_vi": "Dù quá khứ có xảy ra chuyện gì, giờ đây Tổ Tacet này đã trở thành một sinh vật gớm ghiếc, chỉ mang lại đau đớn và tra tấn cho Huanglong.",
+    "new_translation_vi": "Dù quá khứ có ra sao, thì giờ đây TD này chỉ là một sinh vật gớm ghiếc, chẳng mang lại gì ngoài nỗi đau và sự hành hạ cho Huanglong.",
     "translator_note": ""
   },
   {
@@ -8646,7 +8646,7 @@
     "ai_reason": "",
     "source_en": "You don't need to show any mercy. If it really had emotions, it wouldn't want to be a creature destroying happiness and peace of people in Huanglong.",
     "review_note": "",
-    "new_translation_vi": "Cậu không cần phải thương xót nó. Nếu nó thực sự có cảm xúc, nó đã không trở thành một sinh vật hủy hoại hạnh phúc và bình yên của người dân Huanglong.",
+    "new_translation_vi": "Cậu không cần phải thương xót đâu. Nếu nó thực sự có cảm xúc, nó đã chẳng muốn trở thành một sinh vật phá hủy hạnh phúc và sự bình yên của người dân ở Huanglong.",
     "translator_note": ""
   },
   {
@@ -8671,7 +8671,7 @@
     "ai_reason": "",
     "source_en": "Rule Number Two for \"TD Hunter\"—\"Never show mercy to Tacet Discords!\"",
     "review_note": "",
-    "new_translation_vi": "Quy tắc số hai của \"Thợ Săn TD\" – \"Không bao giờ thương xót Tacet Discord!\"",
+    "new_translation_vi": "Quy tắc số hai dành cho \"Thợ săn TD\"—\"Không bao giờ thương xót Tacet Discord!\"",
     "translator_note": ""
   },
   {
@@ -8696,7 +8696,7 @@
     "ai_reason": "",
     "source_en": "I see.",
     "review_note": "",
-    "new_translation_vi": "Ra vậy.",
+    "new_translation_vi": "Tôi hiểu rồi.",
     "translator_note": ""
   },
   {
@@ -8746,7 +8746,7 @@
     "ai_reason": "",
     "source_en": "Yes, Master!",
     "review_note": "",
-    "new_translation_vi": "Dạ, thưa sư phụ!",
+    "new_translation_vi": "Vâng, thưa chủ nhân!",
     "translator_note": ""
   },
   {
@@ -8771,7 +8771,7 @@
     "ai_reason": "",
     "source_en": "The Pioneer Association should have left not long ago. Let's follow their traces and catch up quickly!",
     "review_note": "",
-    "new_translation_vi": "Hiệp hội Tiên Phong chắc vừa rời đi không lâu. Theo dấu vết của họ và đuổi theo nhanh lên!",
+    "new_translation_vi": "Hiệp hội Tiên phong chắc mới rời đi không lâu. Hãy lần theo dấu vết của họ và đuổi theo thật nhanh nào!",
     "translator_note": ""
   },
   {
@@ -8796,7 +8796,7 @@
     "ai_reason": "",
     "source_en": "Have you used the Scan function on the Terminal?",
     "review_note": "",
-    "new_translation_vi": "Cậu đã dùng chức năng Quét trên Thiết bị đầu cuối chưa?",
+    "new_translation_vi": "Cậu đã dùng chức năng Quét trên Terminal chưa?",
     "translator_note": ""
   },
   {
@@ -8846,7 +8846,7 @@
     "ai_reason": "",
     "source_en": "Not yet.",
     "review_note": "",
-    "new_translation_vi": "Chưa xong.",
+    "new_translation_vi": "Chưa.",
     "translator_note": ""
   },
   {
@@ -8871,7 +8871,7 @@
     "ai_reason": "",
     "source_en": "Wonderful. Let's follow the path displayed on the Terminal and track them down.",
     "review_note": "",
-    "new_translation_vi": "Tuyệt. Chúng ta hãy đi theo chỉ dẫn trên Thiết bị đầu cuối và truy tìm chúng.",
+    "new_translation_vi": "Tuyệt vời. Hãy đi theo lộ trình hiển thị trên Terminal và truy tìm họ thôi.",
     "translator_note": ""
   },
   {
@@ -8896,7 +8896,7 @@
     "ai_reason": "",
     "source_en": "This is where having me as your master comes in handy. I can teach you everything you wanna know.",
     "review_note": "",
-    "new_translation_vi": "Nơi đây sẽ chứng minh việc có ta làm sư phụ của cậu thật sự hữu ích. Ta có thể dạy cậu mọi thứ cậu muốn biết.",
+    "new_translation_vi": "Đây là lúc có tôi làm chủ nhân của cậu trở nên hữu ích đấy. Tôi có thể dạy cậu mọi thứ cậu muốn biết.",
     "translator_note": ""
   },
   {
@@ -8921,7 +8921,7 @@
     "ai_reason": "",
     "source_en": "Turn on your Terminal and select the Scan function. You'll see a path displayed on the screen, and all you need to do is to follow it!",
     "review_note": "",
-    "new_translation_vi": "Bật Thiết bị đầu cuối của cậu lên và chọn chức năng Quét. Một con đường sẽ hiện ra trên màn hình, chỉ cần đi theo nó là được!",
+    "new_translation_vi": "Bật Terminal lên và chọn chức năng Quét. Cậu sẽ thấy một lộ trình hiển thị trên màn hình, việc cần làm chỉ là đi theo nó thôi!",
     "translator_note": ""
   },
   {
@@ -8946,7 +8946,7 @@
     "ai_reason": "",
     "source_en": "Understand? Great, let's follow the path displayed on the Terminal and track them down.",
     "review_note": "",
-    "new_translation_vi": "Hiểu rồi chứ? Tuyệt, giờ mình cứ theo lộ trình trên Thiết bị đầu cuối mà lần theo dấu vết thôi.",
+    "new_translation_vi": "Hiểu chưa? Tốt lắm, hãy đi theo lộ trình trên Terminal và truy tìm họ nào.",
     "translator_note": ""
   },
   {
@@ -8971,7 +8971,7 @@
     "ai_reason": "",
     "source_en": "These are the TDs that just attacked me.",
     "review_note": "",
-    "new_translation_vi": "Đó là mấy con TD vừa tấn công ta.",
+    "new_translation_vi": "Đây là những TD vừa tấn công tôi.",
     "translator_note": ""
   },
   {
@@ -8996,7 +8996,7 @@
     "ai_reason": "",
     "source_en": "Be careful. They seem to get extremely aggressive due to the awakening of Bell-Borne Geochelone.",
     "review_note": "",
-    "new_translation_vi": "Cẩn thận. Chúng dường như trở nên cực kỳ hung hăng do sự thức tỉnh của Bell-Borne Geochelone.",
+    "new_translation_vi": "Cẩn thận nhé. Chúng có vẻ trở nên cực kỳ hung hãn do sự thức tỉnh của Bell-Borne Geochelone.",
     "translator_note": ""
   },
   {
@@ -9021,7 +9021,7 @@
     "ai_reason": "",
     "source_en": "Even someone as experienced as me got caught up in a tough battle.",
     "review_note": "",
-    "new_translation_vi": "Ngay cả một người dày dạn kinh nghiệm như ta cũng bị cuốn vào một trận chiến khốc liệt.",
+    "new_translation_vi": "Ngay cả người có kinh nghiệm như tôi cũng bị cuốn vào một trận chiến khó khăn.",
     "translator_note": ""
   },
   {
@@ -9046,7 +9046,7 @@
     "ai_reason": "",
     "source_en": "Master {PlayerName}! You finally answered!",
     "review_note": "",
-    "new_translation_vi": "{PlayerName} sư phụ! Cuối cùng ngươi cũng đáp lời!",
+    "new_translation_vi": "Chủ nhân {PlayerName}! Cuối cùng cậu cũng trả lời rồi!",
     "translator_note": ""
   },
   {
@@ -9071,7 +9071,7 @@
     "ai_reason": "",
     "source_en": "Do you remember me? It's KU-Key!",
     "review_note": "",
-    "new_translation_vi": "Cậu có nhớ tớ không? Là KU-Key đây!",
+    "new_translation_vi": "Cậu còn nhớ tôi không? Là KU-Key đây!",
     "translator_note": ""
   },
   {
@@ -9096,7 +9096,7 @@
     "ai_reason": "",
     "source_en": "KU-Key?",
     "review_note": "",
-    "new_translation_vi": "KU-Key à?",
+    "new_translation_vi": "KU-Key?",
     "translator_note": ""
   },
   {
@@ -9121,7 +9121,7 @@
     "ai_reason": "",
     "source_en": "You know, the top assistant of our Master of Cleaning at the Black Shores? Ring any bells?",
     "review_note": "",
-    "new_translation_vi": "Cậu biết không, trợ lý hàng đầu của Sư Phụ Dọn Dẹp ở Bờ Biển Đen ấy? Nghe quen không?",
+    "new_translation_vi": "Cậu biết đấy, trợ lý hàng đầu của Chủ nhân Dọn dẹp tại Black Shores? Có thấy quen không?",
     "translator_note": ""
   },
   {
@@ -9146,7 +9146,7 @@
     "ai_reason": "",
     "source_en": "Who?",
     "review_note": "",
-    "new_translation_vi": "Ai?",
+    "new_translation_vi": "Ai cơ?",
     "translator_note": ""
   },
   {
@@ -9171,7 +9171,7 @@
     "ai_reason": "",
     "source_en": "The little robot you've saved so many times…",
     "review_note": "",
-    "new_translation_vi": "Con robot nhỏ mà cậu đã cứu bao nhiêu lần rồi ấy nhỉ…",
+    "new_translation_vi": "Con robot nhỏ mà cậu đã cứu rất nhiều lần ấy…",
     "translator_note": ""
   },
   {
@@ -9196,7 +9196,7 @@
     "ai_reason": "",
     "source_en": "Ah! It's you!",
     "review_note": "",
-    "new_translation_vi": "A! Là cậu!",
+    "new_translation_vi": "À! Là cậu!",
     "translator_note": ""
   },
   {
@@ -9221,7 +9221,7 @@
     "ai_reason": "",
     "source_en": "Yes, it's me! I knew you wouldn't forget me!",
     "review_note": "",
-    "new_translation_vi": "Chính tớ đây! Tớ biết cậu sẽ không quên tớ mà!",
+    "new_translation_vi": "Vâng, là tôi đây! Tôi biết cậu sẽ không quên tôi mà!",
     "translator_note": ""
   },
   {
@@ -9246,7 +9246,7 @@
     "ai_reason": "",
     "source_en": "I'm reaching out because I need your help. Our system detected a frequency almost identical to the Aetherfin's in the Black Shores.",
     "review_note": "",
-    "new_translation_vi": "Tôi liên lạc vì cần sự giúp đỡ của cậu. Hệ thống phát hiện một tần số gần như giống hệt của Aetherfin ở Bãi Đen.",
+    "new_translation_vi": "Tôi liên lạc vì đang cần sự giúp đỡ của cậu. Hệ thống của chúng tôi đã phát hiện một tần số gần như giống hệt với Aetherfin ở Black Shores.",
     "translator_note": ""
   },
   {
@@ -9271,7 +9271,7 @@
     "ai_reason": "",
     "source_en": "But the location's still covered in corrupted data and needs some cleaning…",
     "review_note": "",
-    "new_translation_vi": "Nhưng vị trí này vẫn còn đầy dữ liệu nhiễm độc và cần dọn dẹp...",
+    "new_translation_vi": "Nhưng vị trí đó vẫn đang bị bao phủ bởi dữ liệu hỏng và cần được dọn dẹp…",
     "translator_note": ""
   },
   {
@@ -9296,7 +9296,7 @@
     "ai_reason": "",
     "source_en": "And you, Master {PlayerName}, are definitely the best person for the job!",
     "review_note": "",
-    "new_translation_vi": "Và cậu, {PlayerName}, chính là người phù hợp nhất cho nhiệm vụ này!",
+    "new_translation_vi": "Và cậu, chủ nhân {PlayerName}, chắc chắn là người phù hợp nhất cho công việc này!",
     "translator_note": ""
   },
   {
@@ -9321,7 +9321,7 @@
     "ai_reason": "",
     "source_en": "Super cleaner duo, ready to show again! Let's go Aetherfishing, {PlayerName}!",
     "review_note": "",
-    "new_translation_vi": "Bộ đôi siêu dọn dẹp đã sẵn sàng trở lại! Đi câu Aether nào, {PlayerName}!",
+    "new_translation_vi": "Bộ đôi dọn dẹp siêu cấp, sẵn sàng xuất trận! Đi săn Aetherfin thôi, {PlayerName}!",
     "translator_note": ""
   },
   {
@@ -9346,7 +9346,7 @@
     "ai_reason": "",
     "source_en": "What's an Aetherfin?",
     "review_note": "",
-    "new_translation_vi": "Aetherfin là cái quái gì thế?",
+    "new_translation_vi": "Aetherfin là gì vậy?",
     "translator_note": ""
   },
   {
@@ -9396,7 +9396,7 @@
     "ai_reason": "",
     "source_en": "Ku ku ku, the Aetherfin is a legendary Remnant creature that hasn't been seen in two decades!",
     "review_note": "",
-    "new_translation_vi": "Ku ku ku, Aetherfin là một sinh vật Tàn Dư huyền thoại đã biến mất suốt hai thập kỷ rồi!",
+    "new_translation_vi": "Ku ku ku, Aetherfin là một sinh vật Remnant huyền thoại đã không xuất hiện suốt hai thập kỷ qua!",
     "translator_note": ""
   },
   {
@@ -9421,7 +9421,7 @@
     "ai_reason": "",
     "source_en": "But instead of listening to me ramble, how about you come see it for yourself?",
     "review_note": "",
-    "new_translation_vi": "Thay vì nghe ta nói dài dòng, sao cậu không tự mình đến xem?",
+    "new_translation_vi": "Nhưng thay vì nghe tôi luyên thuyên, sao cậu không tự mình đến xem thử nhỉ?",
     "translator_note": ""
   },
   {
@@ -9446,7 +9446,7 @@
     "ai_reason": "",
     "source_en": "It's KU-Key, Master {PlayerName}…",
     "review_note": "",
-    "new_translation_vi": "Đây là KU-Key, thưa {PlayerName}…",
+    "new_translation_vi": "Là KU-Key, chủ nhân {PlayerName}…",
     "translator_note": ""
   },
   {
@@ -9471,7 +9471,7 @@
     "ai_reason": "",
     "source_en": "Anyway, I've sent the coordinates to you.",
     "review_note": "",
-    "new_translation_vi": "Dù sao thì ta cũng đã gửi tọa độ cho ngươi rồi.",
+    "new_translation_vi": "Dù sao thì, tôi đã gửi tọa độ cho cậu rồi.",
     "translator_note": ""
   },
   {
@@ -9496,7 +9496,7 @@
     "ai_reason": "",
     "source_en": "I'll be waiting there, so don't keep me hanging!",
     "review_note": "",
-    "new_translation_vi": "Ta sẽ đợi ở đó, đừng có để ta chờ lâu nhé!",
+    "new_translation_vi": "Tôi sẽ đợi ở đó, đừng để tôi phải chờ lâu nhé!",
     "translator_note": ""
   },
   {
@@ -9521,7 +9521,7 @@
     "ai_reason": "",
     "source_en": "Why do these Tacet Discords always stick around me? Wait… did I draw them here?",
     "review_note": "",
-    "new_translation_vi": "Sao mấy con Tacet Discord này cứ bám lấy mình hoài vậy? Chờ đã... Có phải mình đã kéo chúng đến đây không?",
+    "new_translation_vi": "Tại sao mấy con Tacet Discord này cứ bám lấy mình thế nhỉ? Khoan đã… có phải mình đã thu hút chúng đến đây không?",
     "translator_note": ""
   },
   {
@@ -9546,7 +9546,7 @@
     "ai_reason": "",
     "source_en": "Good luck, {PlayerName}!",
     "review_note": "",
-    "new_translation_vi": "Chúc cậu may mắn, {PlayerName}!",
+    "new_translation_vi": "Chúc may mắn, {PlayerName}!",
     "translator_note": ""
   },
   {
@@ -9571,7 +9571,7 @@
     "ai_reason": "",
     "source_en": "Ku ku ku, wonderful cooperation as always! Mission accomplished!",
     "review_note": "",
-    "new_translation_vi": "Ku ku ku, hợp tác tuyệt vời như mọi khi! Nhiệm vụ hoàn thành!",
+    "new_translation_vi": "Ku ku ku, sự phối hợp tuyệt vời như mọi khi! Nhiệm vụ hoàn thành!",
     "translator_note": ""
   },
   {
@@ -9596,7 +9596,7 @@
     "ai_reason": "",
     "source_en": "Seems like the Aetherfin is waiting for you by the sea. I guess they want to thank you!",
     "review_note": "",
-    "new_translation_vi": "Có vẻ như Aetherfin đang đợi cậu bên bờ biển. Chắc họ muốn cảm ơn cậu!",
+    "new_translation_vi": "Có vẻ như Aetherfin đang đợi cậu bên bờ biển. Chắc là chúng muốn cảm ơn cậu đấy!",
     "translator_note": ""
   },
   {
@@ -9621,7 +9621,7 @@
     "ai_reason": "",
     "source_en": "Location confirmed. Let's use the portals again!",
     "review_note": "",
-    "new_translation_vi": "Xác định vị trí rồi. Dùng cổng dịch chuyển thôi!",
+    "new_translation_vi": "Đã xác nhận vị trí. Hãy sử dụng cổng dịch chuyển lần nữa nào!",
     "translator_note": ""
   },
   {
@@ -9646,7 +9646,7 @@
     "ai_reason": "",
     "source_en": "Don't you think you are using the portals too often?",
     "review_note": "",
-    "new_translation_vi": "Cậu không thấy mình dùng cổng dịch chuyển hơi nhiều à?",
+    "new_translation_vi": "Cậu không thấy mình đang dùng cổng dịch chuyển hơi nhiều sao?",
     "translator_note": ""
   },
   {
@@ -9671,7 +9671,7 @@
     "ai_reason": "",
     "source_en": "Is it really that obvious?",
     "review_note": "",
-    "new_translation_vi": "Nó lộ liễu đến thế à?",
+    "new_translation_vi": "Rõ ràng đến thế sao?",
     "translator_note": ""
   },
   {
@@ -9696,7 +9696,7 @@
     "ai_reason": "",
     "source_en": "Wait! I'm just doing this to better assist you! Definitely not because I think it's cool…",
     "review_note": "",
-    "new_translation_vi": "Đợi đã! Tôi làm thế này là để hỗ trợ anh tốt hơn thôi! Chứ không phải vì tôi thấy nó ngầu đâu nhé…",
+    "new_translation_vi": "Khoan đã! Tôi chỉ làm vậy để hỗ trợ cậu tốt hơn thôi! Chắc chắn không phải vì tôi thấy nó ngầu đâu…",
     "translator_note": ""
   },
   {
@@ -9721,7 +9721,7 @@
     "ai_reason": "",
     "source_en": "Don't waste our time here! Let's go!",
     "review_note": "",
-    "new_translation_vi": "Đừng phí thời gian ở đây nữa! Đi thôi!",
+    "new_translation_vi": "Đừng lãng phí thời gian nữa! Đi thôi!",
     "translator_note": ""
   },
   {
@@ -9746,7 +9746,7 @@
     "ai_reason": "",
     "source_en": "Hey! Why are they suddenly swimming upward? The portals can't be opened in such a short time!",
     "review_note": "",
-    "new_translation_vi": "Này! Sao chúng lại đột nhiên bơi lên thế? Không thể mở cổng dịch chuyển trong thời gian ngắn như vậy được!",
+    "new_translation_vi": "Này! Tại sao chúng đột nhiên bơi ngược lên trên? Cổng dịch chuyển không thể mở nhanh như vậy được!",
     "translator_note": ""
   },
   {
@@ -9771,7 +9771,7 @@
     "ai_reason": "",
     "source_en": "Wait, is that… the Shorekeeper's portal? Let's get in, Master {PlayerName}!",
     "review_note": "",
-    "new_translation_vi": "Chờ đã, đó là… cánh cổng của Shorekeeper à? Vào thôi, sư phụ {PlayerName}!",
+    "new_translation_vi": "Khoan, đó có phải là… cổng của the Shorekeeper không? Vào thôi, chủ nhân {PlayerName}!",
     "translator_note": ""
   },
   {
@@ -9821,7 +9821,7 @@
     "ai_reason": "",
     "source_en": "It is, indeed.",
     "review_note": "",
-    "new_translation_vi": "Quả thực là vậy.",
+    "new_translation_vi": "Đúng vậy, thật sự rất đẹp.",
     "translator_note": ""
   },
   {
@@ -9846,7 +9846,7 @@
     "ai_reason": "",
     "source_en": "It looks so familiar.",
     "review_note": "",
-    "new_translation_vi": "Nó trông quen thuộc quá.",
+    "new_translation_vi": "Trông quen quá.",
     "translator_note": ""
   },
   {
@@ -9871,7 +9871,7 @@
     "ai_reason": "",
     "source_en": "It's great to finally see what's captured in those pictures.",
     "review_note": "",
-    "new_translation_vi": "Cuối cùng cũng được tận mắt thấy những gì trong ảnh rồi.",
+    "new_translation_vi": "Thật tuyệt khi cuối cùng cũng được tận mắt thấy những gì đã được ghi lại trong những bức ảnh đó.",
     "translator_note": ""
   },
   {
@@ -9896,7 +9896,7 @@
     "ai_reason": "",
     "source_en": "So, you planned to show me this?",
     "review_note": "",
-    "new_translation_vi": "Vậy là cậu định cho ta xem cái này à?",
+    "new_translation_vi": "Vậy ra, cậu định cho tôi xem cái này sao?",
     "translator_note": ""
   },
   {
@@ -9921,7 +9921,7 @@
     "ai_reason": "",
     "source_en": "What are those pictures exactly?",
     "review_note": "",
-    "new_translation_vi": "Mấy tấm hình đó chính xác là cái gì?",
+    "new_translation_vi": "Những bức ảnh đó chính xác là gì vậy?",
     "translator_note": ""
   },
   {
@@ -9946,7 +9946,7 @@
     "ai_reason": "",
     "source_en": "Ah… Sorry, I didn't mean to hide this from you.",
     "review_note": "",
-    "new_translation_vi": "À… xin lỗi, ta không cố ý giấu ngươi đâu.",
+    "new_translation_vi": "À… Xin lỗi, tôi không cố ý giấu cậu chuyện này.",
     "translator_note": ""
   },
   {
@@ -9971,7 +9971,7 @@
     "ai_reason": "",
     "source_en": "This mission was supposed to be a surprise.",
     "review_note": "",
-    "new_translation_vi": "Nhiệm vụ này đáng lẽ phải là một bất ngờ cơ mà.",
+    "new_translation_vi": "Nhiệm vụ này vốn dĩ là một bất ngờ.",
     "translator_note": ""
   },
   {
@@ -9996,7 +9996,7 @@
     "ai_reason": "",
     "source_en": "After that crisis, I found some old pictures while cleaning Necrostar's waste data.",
     "review_note": "",
-    "new_translation_vi": "Sau cuộc khủng hoảng ấy, trong lúc dọn dẹp dữ liệu rác của Necrostar, tôi tình cờ tìm thấy vài tấm ảnh cũ.",
+    "new_translation_vi": "Sau cuộc khủng hoảng đó, tôi đã tìm thấy vài bức ảnh cũ trong lúc dọn dẹp dữ liệu rác của Necrostar.",
     "translator_note": ""
   },
   {
@@ -10021,7 +10021,7 @@
     "ai_reason": "",
     "source_en": "Ah… I forgot to tell you this. Sorry.",
     "review_note": "",
-    "new_translation_vi": "À... mình quên nói với cậu điều này rồi. Xin lỗi nhé.",
+    "new_translation_vi": "À… Tôi quên chưa nói với cậu điều này. Xin lỗi nhé.",
     "translator_note": ""
   },
   {
@@ -10046,7 +10046,7 @@
     "ai_reason": "",
     "source_en": "I found them while cleaning Necrostar's waste data. But they're too old to be sourced.",
     "review_note": "",
-    "new_translation_vi": "Tôi tìm thấy chúng khi dọn dẹp dữ liệu rác của Necrostar. Nhưng chúng quá cũ để có thể truy xuất nguồn gốc.",
+    "new_translation_vi": "Tôi tìm thấy chúng khi dọn dẹp dữ liệu rác của Necrostar. Nhưng chúng quá cũ nên không rõ nguồn gốc.",
     "translator_note": ""
   },
   {
@@ -10071,7 +10071,7 @@
     "ai_reason": "",
     "source_en": "I saw you in those pictures, gazing at the Aetherfins.",
     "review_note": "",
-    "new_translation_vi": "Tôi thấy cậu trong những bức ảnh đó, đang nhìn lũ Aetherfin.",
+    "new_translation_vi": "Tôi thấy cậu trong những bức ảnh đó, đang ngắm nhìn những con Aetherfin.",
     "translator_note": ""
   },
   {
@@ -10096,7 +10096,7 @@
     "ai_reason": "",
     "source_en": "Whoever took them is... a mystery now.",
     "review_note": "",
-    "new_translation_vi": "Kẻ đã lấy chúng giờ là... một bí ẩn.",
+    "new_translation_vi": "Bất cứ ai chụp chúng… giờ đã là một bí ẩn.",
     "translator_note": ""
   },
   {
@@ -10121,7 +10121,7 @@
     "ai_reason": "",
     "source_en": "But they must be precious to both you and that person.",
     "review_note": "",
-    "new_translation_vi": "Nhưng chúng chắc hẳn rất quý giá với cả cậu và người đó.",
+    "new_translation_vi": "Nhưng chúng chắc hẳn rất quý giá đối với cả cậu và người đó.",
     "translator_note": ""
   },
   {
@@ -10146,7 +10146,7 @@
     "ai_reason": "",
     "source_en": "Speaking of which, I've always wanted to thank you properly since last time.",
     "review_note": "",
-    "new_translation_vi": "Nhắc mới nhớ, từ lần trước mình vẫn muốn cảm ơn cậu cho tử tế.",
+    "new_translation_vi": "Nhắc mới nhớ, tôi vẫn luôn muốn cảm ơn cậu một cách tử tế kể từ lần trước.",
     "translator_note": ""
   },
   {
@@ -10171,7 +10171,7 @@
     "ai_reason": "",
     "source_en": "How about I take a picture of the scenery here for you as a keepsake?",
     "review_note": "",
-    "new_translation_vi": "Hay để ta chụp một bức ảnh phong cảnh ở đây làm kỷ niệm cho cậu nhé?",
+    "new_translation_vi": "Hay là tôi chụp một bức ảnh phong cảnh ở đây làm kỷ niệm cho cậu nhé?",
     "translator_note": ""
   },
   {
@@ -10196,7 +10196,7 @@
     "ai_reason": "",
     "source_en": "The past may be gone, but new stories are always waiting!",
     "review_note": "",
-    "new_translation_vi": "Quá khứ có thể đã qua, nhưng những câu chuyện mới vẫn luôn chờ đón phía trước!",
+    "new_translation_vi": "Quá khứ có thể đã qua, nhưng những câu chuyện mới vẫn luôn chờ đợi!",
     "translator_note": ""
   },
   {
@@ -10211,11 +10211,11 @@
     "primary_key": "POI_HFZSLDZLHS_13_18",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
@@ -10271,7 +10271,7 @@
     "ai_reason": "",
     "source_en": "You're welcome! Actually, I've already taken one while we were on the surface! I'll print it as well!",
     "review_note": "",
-    "new_translation_vi": "Không có gì! Thật ra, lúc ở trên mặt đất tớ đã lấy một cái rồi! Tớ sẽ in thêm cái nữa cho cậu!",
+    "new_translation_vi": "Không có chi! Thực ra tôi đã chụp một tấm khi chúng ta còn ở trên bề mặt rồi! Tôi sẽ in nó ra luôn!",
     "translator_note": ""
   },
   {
@@ -10296,7 +10296,7 @@
     "ai_reason": "",
     "source_en": "By the way, the Shorekeeper just helped us. It would be nice to thank her in person.",
     "review_note": "",
-    "new_translation_vi": "À này, Shorekeeper vừa giúp chúng ta đấy. Nên đích thân cảm ơn cô ấy thì tốt quá.",
+    "new_translation_vi": "Nhân tiện, the Shorekeeper vừa giúp chúng ta. Sẽ rất tốt nếu được cảm ơn cô ấy trực tiếp.",
     "translator_note": ""
   },
   {
@@ -10321,7 +10321,7 @@
     "ai_reason": "",
     "source_en": "It must be quite a while since she's seen the Aetherfins again.",
     "review_note": "",
-    "new_translation_vi": "Chắc cũng lâu lắm rồi cô ấy không gặp lại bọn Aetherfin.",
+    "new_translation_vi": "Chắc hẳn đã lâu lắm rồi cô ấy mới được nhìn thấy Aetherfin lần nữa.",
     "translator_note": ""
   },
   {
@@ -10346,7 +10346,7 @@
     "ai_reason": "",
     "source_en": "The Shorekeeper is staring at the Aetherfins.",
     "review_note": "",
-    "new_translation_vi": "Người Gác Bờ đang chăm chú nhìn đàn Aetherfin.",
+    "new_translation_vi": "The Shorekeeper đang nhìn chằm chằm vào những con Aetherfin.",
     "translator_note": ""
   },
   {
@@ -10371,7 +10371,7 @@
     "ai_reason": "",
     "source_en": "What are you looking at?",
     "review_note": "",
-    "new_translation_vi": "Bạn đang nhìn gì vậy?",
+    "new_translation_vi": "Cậu đang nhìn gì vậy?",
     "translator_note": ""
   },
   {
@@ -10396,7 +10396,7 @@
     "ai_reason": "",
     "source_en": "What's on your mind?",
     "review_note": "",
-    "new_translation_vi": "Cậu đang nghĩ gì vậy?",
+    "new_translation_vi": "Cậu đang nghĩ gì thế?",
     "translator_note": ""
   },
   {
@@ -10421,7 +10421,7 @@
     "ai_reason": "",
     "source_en": "The Aetherfins.",
     "review_note": "",
-    "new_translation_vi": "Cá Aetherfin...",
+    "new_translation_vi": "Aetherfins.",
     "translator_note": ""
   },
   {
@@ -10446,7 +10446,7 @@
     "ai_reason": "",
     "source_en": "They vanished when you left the Black Shores, and now, after 20 years, they are here again.",
     "review_note": "",
-    "new_translation_vi": "Chúng biến mất từ khi ngươi rời Bờ Đen, và giờ, sau 20 năm, chúng lại xuất hiện ở đây.",
+    "new_translation_vi": "Chúng đã biến mất khi cậu rời khỏi Black Shores, và giờ đây, sau 20 năm, chúng lại xuất hiện lần nữa.",
     "translator_note": ""
   },
   {
@@ -10496,7 +10496,7 @@
     "ai_reason": "",
     "source_en": "The Aetherfins vanished when you left the Black Shores, and now, after 20 years, they are here again.",
     "review_note": "",
-    "new_translation_vi": "Cá Aetherfin đã biến mất khi cậu rời Bờ Đen, và giờ đây, sau 20 năm, chúng lại xuất hiện ở đây.",
+    "new_translation_vi": "Aetherfins đã biến mất khi cậu rời khỏi Black Shores, và giờ đây, sau 20 năm, chúng lại xuất hiện lần nữa.",
     "translator_note": ""
   },
   {
@@ -10521,7 +10521,7 @@
     "ai_reason": "",
     "source_en": "Thanks to you and KU-Key, they can now swim freely here, as they once did.",
     "review_note": "",
-    "new_translation_vi": "Nhờ cậu và KU-Key, giờ chúng có thể tự do bơi lội ở đây như thuở nào.",
+    "new_translation_vi": "Nhờ có cậu và KU-Key, giờ chúng đã có thể bơi lội tự do ở đây, như cách chúng từng làm trước kia.",
     "translator_note": ""
   },
   {
@@ -10571,7 +10571,7 @@
     "ai_reason": "",
     "source_en": "You don't like this?",
     "review_note": "",
-    "new_translation_vi": "Cậu không thích cái này à?",
+    "new_translation_vi": "Cậu không thích điều này sao?",
     "translator_note": ""
   },
   {
@@ -10596,7 +10596,7 @@
     "ai_reason": "",
     "source_en": "No, that's not it. I'm simply reflecting on what you said before…",
     "review_note": "",
-    "new_translation_vi": "Không phải vậy... Ta chỉ đang suy ngẫm lại những gì ngươi nói trước đó thôi...",
+    "new_translation_vi": "Không, không phải vậy. Chỉ là tôi đang suy ngẫm về những gì cậu đã nói trước đó…",
     "translator_note": ""
   },
   {
@@ -10621,7 +10621,7 @@
     "ai_reason": "",
     "source_en": "\"No one ever steps in the same river twice.\"",
     "review_note": "",
-    "new_translation_vi": "\"Không ai có thể bước hai lần vào cùng một dòng sông.\"",
+    "new_translation_vi": "\"Không ai tắm hai lần trên một dòng sông.\"",
     "translator_note": ""
   },
   {
@@ -10646,7 +10646,7 @@
     "ai_reason": "",
     "source_en": "I wonder… is this all just a beautiful dream?",
     "review_note": "",
-    "new_translation_vi": "Không biết... liệu tất cả chỉ là một giấc mơ đẹp?",
+    "new_translation_vi": "Tôi tự hỏi… liệu tất cả những điều này có phải chỉ là một giấc mơ đẹp?",
     "translator_note": ""
   },
   {
@@ -10671,7 +10671,7 @@
     "ai_reason": "",
     "source_en": "What makes you think so?",
     "review_note": "",
-    "new_translation_vi": "Sao cậu lại nghĩ vậy?",
+    "new_translation_vi": "Tại sao cậu lại nghĩ vậy?",
     "translator_note": ""
   },
   {
@@ -10696,7 +10696,7 @@
     "ai_reason": "",
     "source_en": "As a part of the Tethys System, I cannot assume a physical form and lack the ability to dream.",
     "review_note": "",
-    "new_translation_vi": "Là một phần của Hệ thống Tethys, tôi không thể hiện hình hài vật lý và cũng không có khả năng mơ ước.",
+    "new_translation_vi": "Là một phần của Tethys System, tôi không thể có hình hài vật lý và cũng không có khả năng mơ.",
     "translator_note": ""
   },
   {
@@ -10721,7 +10721,7 @@
     "ai_reason": "",
     "source_en": "But recent events have made me question if I'm truly back in reality. Could I still be trapped inside the Necrostar's event horizon?",
     "review_note": "",
-    "new_translation_vi": "Nhưng dạo gần đây, ta bắt đầu nghi ngờ liệu mình có thực sự trở lại thực tại không. Hay ta vẫn đang bị giam cầm bên trong chân trời sự kiện của Necrostar?",
+    "new_translation_vi": "Nhưng những sự kiện gần đây khiến tôi tự hỏi liệu mình có thực sự trở lại thực tại hay không. Liệu tôi có còn đang bị mắc kẹt bên trong chân trời sự kiện của Necrostar?",
     "translator_note": ""
   },
   {
@@ -10746,7 +10746,7 @@
     "ai_reason": "",
     "source_en": "Or perhaps I am lost in a fleeting dream at light speed, unable to awaken?",
     "review_note": "",
-    "new_translation_vi": "Hay là ta đang lạc trong giấc mơ thoáng qua với tốc độ ánh sáng, không thể tỉnh lại?",
+    "new_translation_vi": "Hay có lẽ tôi đang lạc lối trong một giấc mơ phù du với tốc độ ánh sáng, không thể tỉnh giấc?",
     "translator_note": ""
   },
   {
@@ -10771,7 +10771,7 @@
     "ai_reason": "",
     "source_en": "…Apologies. Please excuse my strange ramblings.",
     "review_note": "",
-    "new_translation_vi": "…Xin lỗi. Xin thứ lỗi cho những lời lảm nhảm kỳ lạ của tôi.",
+    "new_translation_vi": "…Xin lỗi. Hãy bỏ qua những lời lảm nhảm kỳ lạ của tôi.",
     "translator_note": ""
   },
   {
@@ -10796,7 +10796,7 @@
     "ai_reason": "",
     "source_en": "Since that last incident, I find myself plagued by strange and erratic thoughts from time to time.",
     "review_note": "",
-    "new_translation_vi": "Kể từ sự cố lần trước, thỉnh thoảng tôi lại bị ám ảnh bởi những suy nghĩ kỳ lạ và bất thường.",
+    "new_translation_vi": "Kể từ sự cố lần trước, thỉnh thoảng tôi lại bị những suy nghĩ kỳ lạ và thất thường làm phiền.",
     "translator_note": ""
   },
   {
@@ -10821,7 +10821,7 @@
     "ai_reason": "",
     "source_en": "You said nothing strange.",
     "review_note": "",
-    "new_translation_vi": "Cậu bảo không có gì lạ cả.",
+    "new_translation_vi": "Cậu không nói gì kỳ lạ cả.",
     "translator_note": ""
   },
   {
@@ -10846,7 +10846,7 @@
     "ai_reason": "",
     "source_en": "This isn't a dream.",
     "review_note": "",
-    "new_translation_vi": "Đây không phải giấc mơ.",
+    "new_translation_vi": "Đây không phải là mơ.",
     "translator_note": ""
   },
   {
@@ -10871,7 +10871,7 @@
     "ai_reason": "",
     "source_en": "Is that so? You've said this before.",
     "review_note": "",
-    "new_translation_vi": "Vậy à? Cậu nói thế rồi mà.",
+    "new_translation_vi": "Vậy sao? Cậu đã từng nói điều này trước đây rồi.",
     "translator_note": ""
   },
   {
@@ -10896,7 +10896,7 @@
     "ai_reason": "",
     "source_en": "Is that so? Perhaps I need more time to fully grasp the nature of these.... emotions.",
     "review_note": "",
-    "new_translation_vi": "Vậy à? Có lẽ ta cần thêm thời gian để hiểu rõ bản chất của những... cảm xúc này.",
+    "new_translation_vi": "Vậy sao? Có lẽ tôi cần thêm thời gian để hiểu rõ bản chất của những… cảm xúc này.",
     "translator_note": ""
   },
   {
@@ -10921,7 +10921,7 @@
     "ai_reason": "",
     "source_en": "Again, thank you for saving the Aetherfins. These gentle beings are reminiscent of those Black Shores members who once filled these halls.",
     "review_note": "",
-    "new_translation_vi": "Một lần nữa, cảm ơn vì đã cứu Aetherfins. Những sinh vật hiền hòa này khiến ta nhớ đến các thành viên Black Shores ngày xưa từng lấp đầy đại sảnh này.",
+    "new_translation_vi": "Một lần nữa, cảm ơn cậu vì đã cứu những chú Aetherfins. Những sinh vật hiền lành này làm tôi nhớ đến các thành viên Black Shores từng lấp đầy những căn phòng này.",
     "translator_note": ""
   },
   {
@@ -10946,7 +10946,7 @@
     "ai_reason": "",
     "source_en": "Their presence reminds me of so many familiar faces… They never truly left us.",
     "review_note": "",
-    "new_translation_vi": "Sự hiện diện của họ khiến ta nhớ về bao khuôn mặt thân quen... Họ chưa bao giờ thực sự rời xa chúng ta.",
+    "new_translation_vi": "Sự hiện diện của chúng gợi nhắc tôi về biết bao gương mặt thân quen… Họ chưa bao giờ thực sự rời bỏ chúng ta.",
     "translator_note": ""
   },
   {
@@ -10961,11 +10961,11 @@
     "primary_key": "POI_HFZSLDZLHS_14_26",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
@@ -10996,7 +10996,7 @@
     "ai_reason": "",
     "source_en": "{PlayerName}? Is something wrong?",
     "review_note": "",
-    "new_translation_vi": "{PlayerName}? Có gì không ổn à?",
+    "new_translation_vi": "{PlayerName}? Có chuyện gì không ổn sao?",
     "translator_note": ""
   },
   {
@@ -11021,7 +11021,7 @@
     "ai_reason": "",
     "source_en": "Ask about the portal.",
     "review_note": "",
-    "new_translation_vi": "Hỏi về cánh cổng không gian.",
+    "new_translation_vi": "Hỏi về cổng dịch chuyển.",
     "translator_note": ""
   },
   {
@@ -11046,7 +11046,7 @@
     "ai_reason": "",
     "source_en": "Ask about the pictures mentioned by KU-Key.",
     "review_note": "",
-    "new_translation_vi": "Hỏi về những bức tranh mà KU-Key đã nhắc đến.",
+    "new_translation_vi": "Hỏi về những bức ảnh mà KU-Key đã nhắc đến.",
     "translator_note": ""
   },
   {
@@ -11096,7 +11096,7 @@
     "ai_reason": "",
     "source_en": "I apologize. I didn't intend to monitor you.",
     "review_note": "",
-    "new_translation_vi": "Xin lỗi. Tôi không cố ý theo dõi cậu.",
+    "new_translation_vi": "Tôi xin lỗi. Tôi không có ý định theo dõi cậu.",
     "translator_note": ""
   },
   {
@@ -11121,7 +11121,7 @@
     "ai_reason": "",
     "source_en": "It's just that... I found it difficult not to be attentive.",
     "review_note": "",
-    "new_translation_vi": "Chỉ là... tớ không thể không để ý thôi.",
+    "new_translation_vi": "Chỉ là… tôi thấy khó mà không chú ý đến cậu.",
     "translator_note": ""
   },
   {
@@ -11146,7 +11146,7 @@
     "ai_reason": "",
     "source_en": "When KU-Key was unable to open the portal in time, I stepped in instinctively.",
     "review_note": "",
-    "new_translation_vi": "Khi KU-Key không kịp mở cánh cổng, ta đã bản năng lao vào.",
+    "new_translation_vi": "Khi KU-Key không thể mở cổng dịch chuyển kịp lúc, tôi đã hành động theo bản năng.",
     "translator_note": ""
   },
   {
@@ -11171,7 +11171,7 @@
     "ai_reason": "",
     "source_en": "Am I... troubling you?",
     "review_note": "",
-    "new_translation_vi": "Ta... có làm phiền cậu không?",
+    "new_translation_vi": "Tôi có đang… làm phiền cậu không?",
     "translator_note": ""
   },
   {
@@ -11196,7 +11196,7 @@
     "ai_reason": "",
     "source_en": "Not at all.",
     "review_note": "",
-    "new_translation_vi": "Không có gì đâu.",
+    "new_translation_vi": "Không hề.",
     "translator_note": ""
   },
   {
@@ -11221,7 +11221,7 @@
     "ai_reason": "",
     "source_en": "You've been a great help.",
     "review_note": "",
-    "new_translation_vi": "Cậu đã giúp đỡ chúng tôi rất nhiều.",
+    "new_translation_vi": "Cậu đã giúp đỡ rất nhiều.",
     "translator_note": ""
   },
   {
@@ -11246,7 +11246,7 @@
     "ai_reason": "",
     "source_en": "Really? I'm glad to hear that.",
     "review_note": "",
-    "new_translation_vi": "Thật sao? Ta rất vui khi nghe điều đó.",
+    "new_translation_vi": "Thật sao? Tôi rất vui khi nghe điều đó.",
     "translator_note": ""
   },
   {
@@ -11271,7 +11271,7 @@
     "ai_reason": "",
     "source_en": "Those pictures... they were taken in secret by the Black Shores members for your birthday party.",
     "review_note": "",
-    "new_translation_vi": "Những bức ảnh này... là do các thành viên Black Shores lén chụp cho bữa tiệc sinh nhật của cậu đấy.",
+    "new_translation_vi": "Những bức ảnh đó… chúng được các thành viên Black Shores bí mật chụp lại cho bữa tiệc sinh nhật của cậu.",
     "translator_note": ""
   },
   {
@@ -11296,7 +11296,7 @@
     "ai_reason": "",
     "source_en": "In the end, the party was never held, because you were too busy to attend. But Hoda and the others held on to them anyway.",
     "review_note": "",
-    "new_translation_vi": "Kết thúc, bữa tiệc chẳng bao giờ được tổ chức, vì cậu quá bận để tham dự. Nhưng Hoda và những người khác vẫn giữ những lời hứa ấy.",
+    "new_translation_vi": "Cuối cùng, bữa tiệc đã không bao giờ diễn ra vì cậu quá bận rộn. Nhưng Hoda và những người khác vẫn giữ chúng lại.",
     "translator_note": ""
   },
   {
@@ -11321,7 +11321,7 @@
     "ai_reason": "",
     "source_en": "I didn't expect KU-Key to find them among the abandoned data.",
     "review_note": "",
-    "new_translation_vi": "Ta không ngờ KU-Key lại tìm thấy chúng trong đống dữ liệu bỏ hoang.",
+    "new_translation_vi": "Tôi không ngờ KU-Key lại tìm thấy chúng trong đống dữ liệu bị bỏ hoang.",
     "translator_note": ""
   },
   {
@@ -11346,7 +11346,7 @@
     "ai_reason": "",
     "source_en": "I see. Please take care.",
     "review_note": "",
-    "new_translation_vi": "Ra là vậy. Hãy bảo trọng nhé.",
+    "new_translation_vi": "Tôi hiểu rồi. Hãy bảo trọng nhé.",
     "translator_note": ""
   },
   {
@@ -11371,7 +11371,7 @@
     "ai_reason": "",
     "source_en": "The feeling I have when I see those pictures, the Aetherfins, and you again… It must be happiness, hmm?",
     "review_note": "",
-    "new_translation_vi": "Cảm giác khi nhìn thấy những bức ảnh đó, lũ Aetherfin, và gặp lại cậu… chắc là hạnh phúc rồi, nhỉ?",
+    "new_translation_vi": "Cảm giác của tôi khi nhìn thấy những bức ảnh đó, những chú Aetherfins, và gặp lại cậu… Chắc hẳn đó là hạnh phúc phải không, hmm?",
     "translator_note": ""
   },
   {
@@ -11396,7 +11396,7 @@
     "ai_reason": "",
     "source_en": "Wherever you are, please know that I'm always here to support you.",
     "review_note": "",
-    "new_translation_vi": "Dù em ở nơi nào, hãy nhớ rằng anh luôn ở đây để ủng hộ em.",
+    "new_translation_vi": "Dù cậu đang ở đâu, hãy biết rằng tôi luôn ở đây để ủng hộ cậu.",
     "translator_note": ""
   },
   {
@@ -11421,7 +11421,7 @@
     "ai_reason": "",
     "source_en": "Ahhh! Why are these digital Tacet Discords attacking me again!? Stay back!",
     "review_note": "",
-    "new_translation_vi": "Aaa! Tại sao mấy con Tacet Discord kỹ thuật số này lại tấn công ta nữa!? Tránh ra!",
+    "new_translation_vi": "Áaaa! Tại sao những Tacet Discord kỹ thuật số này lại tấn công tôi lần nữa!? Tránh ra!",
     "translator_note": ""
   },
   {
@@ -11446,7 +11446,7 @@
     "ai_reason": "",
     "source_en": "L-listen up! Take one more step and I'll activate extermination mode!",
     "review_note": "",
-    "new_translation_vi": "N-này, nghe đây! Cứ tiến thêm bước nữa là ta kích hoạt chế độ tiêu diệt đấy!",
+    "new_translation_vi": "N-nghe đây! Tiến thêm một bước nữa là tôi kích hoạt chế độ tiêu diệt đấy!",
     "translator_note": ""
   },
   {
@@ -11496,7 +11496,7 @@
     "ai_reason": "",
     "source_en": "Warning! Warning—I'm not equipped with this module! Somebody help me!",
     "review_note": "",
-    "new_translation_vi": "Cảnh báo! Cảnh báo—Ta không được trang bị mô-đun này! Ai đó giúp ta với!",
+    "new_translation_vi": "Cảnh báo! Cảnh báo—Tôi không được trang bị mô-đun này! Ai đó giúp tôi với!",
     "translator_note": ""
   },
   {
@@ -11521,7 +11521,7 @@
     "ai_reason": "",
     "source_en": "Hang in there...",
     "review_note": "",
-    "new_translation_vi": "Cố lên...",
+    "new_translation_vi": "Cố lên nào…",
     "translator_note": ""
   },
   {
@@ -11546,7 +11546,7 @@
     "ai_reason": "",
     "source_en": "Warning! Warning! Damage control unit is ineffective!",
     "review_note": "",
-    "new_translation_vi": "Cảnh báo! Cảnh báo! Hệ thống kiểm soát thiệt hại không hiệu quả!",
+    "new_translation_vi": "Cảnh báo! Cảnh báo! Đơn vị kiểm soát thiệt hại không hiệu quả!",
     "translator_note": ""
   },
   {
@@ -11571,7 +11571,7 @@
     "ai_reason": "",
     "source_en": "Nooo! Don't hit me! I can't hold on anymore!",
     "review_note": "",
-    "new_translation_vi": "Ôi không! Đừng đánh tớ nữa! Tớ không chịu nổi đâu!",
+    "new_translation_vi": "Khônggg! Đừng đánh tôi! Tôi không chịu nổi nữa rồi!",
     "translator_note": ""
   },
   {
@@ -11596,7 +11596,7 @@
     "ai_reason": "",
     "source_en": "Help me! Master {PlayerName}!",
     "review_note": "",
-    "new_translation_vi": "Cứu tớ với! {PlayerName} sư phụ ơi!",
+    "new_translation_vi": "Cứu tôi với! Chủ nhân {PlayerName}!",
     "translator_note": ""
   },
   {
@@ -11621,7 +11621,7 @@
     "ai_reason": "",
     "source_en": "Visual module damaged… System disconnecting… Am I... getting formatted?",
     "review_note": "",
-    "new_translation_vi": "Mô-đun hình ảnh bị hư hại… Hệ thống ngắt kết nối… Ta… đang bị định dạng sao?",
+    "new_translation_vi": "Mô-đun hình ảnh bị hỏng… Hệ thống đang ngắt kết nối… Mình… đang bị định dạng lại sao?",
     "translator_note": ""
   },
   {
@@ -11646,7 +11646,7 @@
     "ai_reason": "",
     "source_en": "KU-Key is unconscious now. Mission failed.",
     "review_note": "",
-    "new_translation_vi": "KU-Key đã bất tỉnh. Nhiệm vụ thất bại.",
+    "new_translation_vi": "KU-Key hiện đã bất tỉnh. Nhiệm vụ thất bại.",
     "translator_note": ""
   },
   {
@@ -11671,7 +11671,7 @@
     "ai_reason": "",
     "source_en": "Ha… Thank goodness you saved me! Thank you so much, Master {PlayerName}!",
     "review_note": "",
-    "new_translation_vi": "Ha… May mà cậu cứu tôi! Cảm ơn cậu nhiều lắm, {PlayerName}!",
+    "new_translation_vi": "Ha… May quá, cậu đã cứu tôi! Cảm ơn cậu rất nhiều, chủ nhân {PlayerName}!",
     "translator_note": ""
   },
   {
@@ -11696,7 +11696,7 @@
     "ai_reason": "",
     "source_en": "Are you alright?",
     "review_note": "",
-    "new_translation_vi": "Cậu ổn chứ?",
+    "new_translation_vi": "Cậu có sao không?",
     "translator_note": ""
   },
   {
@@ -11721,7 +11721,7 @@
     "ai_reason": "",
     "source_en": "Yes! All thanks to you!",
     "review_note": "",
-    "new_translation_vi": "Đúng vậy! Tất cả là nhờ cậu đấy!",
+    "new_translation_vi": "Vâng! Tất cả là nhờ cậu!",
     "translator_note": ""
   },
   {
@@ -11746,7 +11746,7 @@
     "ai_reason": "",
     "source_en": "If you hadn't been here, I wouldn't be in one piece.",
     "review_note": "",
-    "new_translation_vi": "Nếu không có cậu ở đây, có lẽ ta đã tan xác rồi.",
+    "new_translation_vi": "Nếu không có cậu ở đây, chắc tôi tan tành rồi.",
     "translator_note": ""
   },
   {
@@ -11771,7 +11771,7 @@
     "ai_reason": "",
     "source_en": "Sorry, I was trying to be a hero with no plan and backup.",
     "review_note": "",
-    "new_translation_vi": "Xin lỗi, ta đã định làm anh hùng mà chẳng có kế hoạch hay tiếp viện gì cả.",
+    "new_translation_vi": "Xin lỗi, tôi đã cố làm anh hùng mà không có kế hoạch hay sự hỗ trợ nào.",
     "translator_note": ""
   },
   {
@@ -11796,7 +11796,7 @@
     "ai_reason": "",
     "source_en": "I saw some Aetherfin were trapped in the corrupted data and thought I could help, but those Tacet Discords just came out of nowhere...",
     "review_note": "",
-    "new_translation_vi": "Ta thấy vài con Aetherfin bị mắc kẹt trong dữ liệu nhiễm độc và nghĩ có thể giúp chúng, nhưng mấy con Tacet Discord lại xuất hiện bất ngờ...",
+    "new_translation_vi": "Tôi thấy vài chú Aetherfin bị mắc kẹt trong dữ liệu bị hỏng và nghĩ mình có thể giúp, nhưng những Tacet Discord đó lại xuất hiện từ hư không…",
     "translator_note": ""
   },
   {
@@ -11821,7 +11821,7 @@
     "ai_reason": "",
     "source_en": "This all feels a bit familiar...",
     "review_note": "",
-    "new_translation_vi": "Cảm giác này sao quen thuộc quá...",
+    "new_translation_vi": "Mọi chuyện cứ thấy quen quen…",
     "translator_note": ""
   },
   {
@@ -11846,7 +11846,7 @@
     "ai_reason": "",
     "source_en": "But still, we've got work to do!",
     "review_note": "",
-    "new_translation_vi": "Nhưng dù sao, chúng ta vẫn còn việc phải làm!",
+    "new_translation_vi": "Nhưng dù sao thì, chúng ta vẫn còn việc phải làm!",
     "translator_note": ""
   },
   {
@@ -11871,7 +11871,7 @@
     "ai_reason": "",
     "source_en": "All you need to do is find the corrupted data's core and clean it with the System's clearance, just like last time.",
     "review_note": "",
-    "new_translation_vi": "Cậu chỉ cần tìm lõi dữ liệu bị hỏng và dùng lệnh thanh tẩy của Hệ Thống để xử lý nó, giống như lần trước ấy mà.",
+    "new_translation_vi": "Tất cả những gì cậu cần làm là tìm lõi của dữ liệu bị hỏng và làm sạch nó bằng quyền truy cập của Hệ thống, giống như lần trước.",
     "translator_note": ""
   },
   {
@@ -11896,7 +11896,7 @@
     "ai_reason": "",
     "source_en": "I'll do everything I can to assist you! Just don't forget to get clearance from me before you start cleaning!",
     "review_note": "",
-    "new_translation_vi": "Mình sẽ cố gắng hết sức hỗ trợ cậu! Nhưng nhớ xin phép mình trước khi bắt đầu dọn dẹp nhé!",
+    "new_translation_vi": "Tôi sẽ làm mọi thứ có thể để hỗ trợ cậu! Chỉ cần đừng quên xin quyền truy cập từ tôi trước khi bắt đầu làm sạch nhé!",
     "translator_note": ""
   },
   {
@@ -11921,7 +11921,7 @@
     "ai_reason": "",
     "source_en": "We did it! So these are the Aetherfins! It's my first time seeing them myself.",
     "review_note": "",
-    "new_translation_vi": "Thành công rồi! Đây chính là Aetherfins! Lần đầu tiên mình được tận mắt nhìn thấy chúng.",
+    "new_translation_vi": "Chúng ta làm được rồi! Vậy ra đây là Aetherfins! Đây là lần đầu tiên tôi tận mắt nhìn thấy chúng.",
     "translator_note": ""
   },
   {
@@ -11946,7 +11946,7 @@
     "ai_reason": "",
     "source_en": "They look exactly the same as those pictures. Incredible…",
     "review_note": "",
-    "new_translation_vi": "Họ giống y hệt trong những bức ảnh. Thật không thể tin được...",
+    "new_translation_vi": "Chúng trông y hệt như trong những bức ảnh. Thật khó tin…",
     "translator_note": ""
   },
   {
@@ -11971,7 +11971,7 @@
     "ai_reason": "",
     "source_en": "It seems they want to take you somewhere. I've never encountered anything like this.",
     "review_note": "",
-    "new_translation_vi": "Họ có vẻ muốn đưa cậu đi đâu đó. Ta chưa từng gặp trường hợp nào như thế này cả.",
+    "new_translation_vi": "Có vẻ như chúng muốn dẫn cậu đi đâu đó. Tôi chưa từng gặp chuyện này bao giờ.",
     "translator_note": ""
   },
   {
@@ -11996,7 +11996,7 @@
     "ai_reason": "",
     "source_en": "Let's follow them, {PlayerName}!",
     "review_note": "",
-    "new_translation_vi": "Đi theo họ thôi, {PlayerName}!",
+    "new_translation_vi": "Hãy đi theo chúng thôi, {PlayerName}!",
     "translator_note": ""
   },
   {
@@ -12021,7 +12021,7 @@
     "ai_reason": "",
     "source_en": "The Aetherfins really can dance, just like in the pictures!",
     "review_note": "",
-    "new_translation_vi": "Cá Aetherfin thật sự biết nhảy múa đấy, y như trong tranh vậy!",
+    "new_translation_vi": "Aetherfins thực sự biết nhảy múa, y hệt như trong ảnh!",
     "translator_note": ""
   },
   {
@@ -12046,7 +12046,7 @@
     "ai_reason": "",
     "source_en": "Pictures?",
     "review_note": "",
-    "new_translation_vi": "Ảnh à?",
+    "new_translation_vi": "Ảnh sao?",
     "translator_note": ""
   },
   {
@@ -12071,7 +12071,7 @@
     "ai_reason": "",
     "source_en": "You seem to know this type of fish pretty well.",
     "review_note": "",
-    "new_translation_vi": "Cậu hiểu loài cá này khá rõ nhỉ.",
+    "new_translation_vi": "Cậu có vẻ biết khá rõ về loài cá này nhỉ.",
     "translator_note": ""
   },
   {
@@ -12096,7 +12096,7 @@
     "ai_reason": "",
     "source_en": "It's just old data, nothing special…",
     "review_note": "",
-    "new_translation_vi": "Chỉ là dữ liệu cũ thôi, chẳng có gì đặc biệt cả…",
+    "new_translation_vi": "Chỉ là dữ liệu cũ thôi, không có gì đặc biệt đâu…",
     "translator_note": ""
   },
   {
@@ -12121,7 +12121,7 @@
     "ai_reason": "",
     "source_en": "The System does have records on the Aetherfins, but since they haven't been spotted in almost twenty years, I never got the chance to see one.",
     "review_note": "",
-    "new_translation_vi": "Hệ Thống có ghi chép về Aetherfins, nhưng vì gần hai mươi năm nay không ai thấy chúng đâu, nên ta chưa bao giờ có cơ hội tận mắt chiêm ngưỡng.",
+    "new_translation_vi": "Hệ thống có lưu trữ hồ sơ về Aetherfins, nhưng vì chúng đã không xuất hiện trong gần hai mươi năm, nên tôi chưa bao giờ có cơ hội nhìn thấy một con.",
     "translator_note": ""
   },
   {
@@ -12146,7 +12146,7 @@
     "ai_reason": "",
     "source_en": "You've seen the Mutterflies before, right? They're the same kind of creature—both made of pure Remnant Energy.",
     "review_note": "",
-    "new_translation_vi": "Cậu đã thấy bướm Mutter rồi chứ? Chúng cùng loại với sinh vật này—đều được tạo ra từ năng lượng Remnant thuần khiết.",
+    "new_translation_vi": "Cậu từng thấy Mutterflies rồi đúng không? Chúng cùng loại với loài này—đều được tạo thành từ Năng lượng Tàn dư thuần túy.",
     "translator_note": ""
   },
   {
@@ -12171,7 +12171,7 @@
     "ai_reason": "",
     "source_en": "But unlike the Mutterflies, you won't find any Aetherfin outside the Black Shores. They're unique to this place.",
     "review_note": "",
-    "new_translation_vi": "Nhưng khác với loài Mutterfly, cậu sẽ không tìm thấy Aetherfin nào ngoài Bờ Đen đâu. Chúng chỉ có ở nơi này thôi.",
+    "new_translation_vi": "Nhưng không giống như Mutterflies, cậu sẽ không tìm thấy bất kỳ Aetherfin nào bên ngoài Black Shores đâu. Chúng là loài độc nhất vô nhị ở nơi này.",
     "translator_note": ""
   },
   {
@@ -12196,7 +12196,7 @@
     "ai_reason": "",
     "source_en": "Hey, KU-Key, I just noticed the corrupted data in the upper area has been cleaned. Are you with {PlayerName} now?",
     "review_note": "",
-    "new_translation_vi": "Này, KU-Key, ta vừa thấy dữ liệu nhiễm độc ở khu vực trên đã được dọn sạch. Cậu đang đi cùng {PlayerName} à?",
+    "new_translation_vi": "Này KU-Key, tôi vừa nhận thấy dữ liệu bị hỏng ở khu vực phía trên đã được làm sạch. Cậu đang ở cùng {PlayerName} à?",
     "translator_note": ""
   },
   {
@@ -12221,7 +12221,7 @@
     "ai_reason": "",
     "source_en": "Yes! We just saved a bunch of Aetherfins!",
     "review_note": "",
-    "new_translation_vi": "Đúng rồi! Chúng ta vừa cứu được cả đống Aetherfin đấy!",
+    "new_translation_vi": "Vâng! Chúng tôi vừa cứu được một đàn Aetherfins!",
     "translator_note": ""
   },
   {
@@ -12246,7 +12246,7 @@
     "ai_reason": "",
     "source_en": "Good job, you two. There's another emergency for you. I'll keep it short.",
     "review_note": "",
-    "new_translation_vi": "Làm tốt lắm, hai đứa. Lại có việc gấp cho các cậu đây. Ta sẽ nói ngắn gọn thôi.",
+    "new_translation_vi": "Làm tốt lắm, hai người. Có một trường hợp khẩn cấp khác cho hai người đây. Tôi sẽ nói ngắn gọn thôi.",
     "translator_note": ""
   },
   {
@@ -12271,7 +12271,7 @@
     "ai_reason": "",
     "source_en": "Our frequency monitor just detected more Aetherfins in the lower area.",
     "review_note": "",
-    "new_translation_vi": "Màn hình theo dõi tần số của ta vừa phát hiện thêm lũ Aetherfin ở khu vực thấp hơn.",
+    "new_translation_vi": "Thiết bị giám sát tần số của chúng tôi vừa phát hiện thêm nhiều Aetherfins ở khu vực phía dưới.",
     "translator_note": ""
   },
   {
@@ -12296,7 +12296,7 @@
     "ai_reason": "",
     "source_en": "The waveform matches what you uploaded, so they might be trapped in corrupted data too.",
     "review_note": "",
-    "new_translation_vi": "Dạng sóng trùng khớp với dữ liệu bạn tải lên, có lẽ họ cũng bị mắc kẹt trong dữ liệu hỏng rồi.",
+    "new_translation_vi": "Dạng sóng khớp với những gì cậu đã tải lên, nên có thể chúng cũng đang bị mắc kẹt trong dữ liệu bị hỏng.",
     "translator_note": ""
   },
   {
@@ -12321,7 +12321,7 @@
     "ai_reason": "",
     "source_en": "Could you go check it out?",
     "review_note": "",
-    "new_translation_vi": "Cậu có thể đi kiểm tra xem sao không?",
+    "new_translation_vi": "Cậu có thể đi kiểm tra thử không?",
     "translator_note": ""
   },
   {
@@ -12346,7 +12346,7 @@
     "ai_reason": "",
     "source_en": "No problem! Just leave it to us!",
     "review_note": "",
-    "new_translation_vi": "Không sao! Để tụi này lo cho!",
+    "new_translation_vi": "Không vấn đề gì! Cứ leave cho chúng tôi!",
     "translator_note": ""
   },
   {
@@ -12371,7 +12371,7 @@
     "ai_reason": "",
     "source_en": "Let's go if you're ready, {PlayerName}.",
     "review_note": "",
-    "new_translation_vi": "Nào, nếu cậu đã sẵn sàng thì đi thôi, {PlayerName}.",
+    "new_translation_vi": "Đi thôi nếu cậu đã sẵn sàng, {PlayerName}.",
     "translator_note": ""
   },
   {
@@ -12396,7 +12396,7 @@
     "ai_reason": "",
     "source_en": "It would take a lot of time to walk there, so I've requested temporary access to the Shorekeeper's portals.",
     "review_note": "",
-    "new_translation_vi": "Đi bộ đến đó sẽ mất rất nhiều thời gian, nên tôi đã xin quyền sử dụng tạm thời các cổng dịch chuyển của Shorekeeper.",
+    "new_translation_vi": "Sẽ mất rất nhiều thời gian để đi bộ đến đó, nên tôi đã yêu cầu quyền truy cập tạm thời vào các cổng dịch chuyển của the Shorekeeper.",
     "translator_note": ""
   },
   {
@@ -12421,7 +12421,7 @@
     "ai_reason": "",
     "source_en": "With them, we can move much faster.",
     "review_note": "",
-    "new_translation_vi": "Có chúng hỗ trợ, chúng ta sẽ di chuyển nhanh hơn nhiều.",
+    "new_translation_vi": "Với chúng, chúng ta có thể di chuyển nhanh hơn nhiều.",
     "translator_note": ""
   },
   {
@@ -12446,7 +12446,7 @@
     "ai_reason": "",
     "source_en": "You can even do that?",
     "review_note": "",
-    "new_translation_vi": "Cậu làm được thế cơ à?",
+    "new_translation_vi": "Cậu làm được cả việc đó sao?",
     "translator_note": ""
   },
   {
@@ -12471,7 +12471,7 @@
     "ai_reason": "",
     "source_en": "When can I learn this skill?",
     "review_note": "",
-    "new_translation_vi": "Khi nào thì tớ mới học được kỹ năng này?",
+    "new_translation_vi": "Khi nào tớ mới học được kỹ năng này đây?",
     "translator_note": ""
   },
   {
@@ -12496,7 +12496,7 @@
     "ai_reason": "",
     "source_en": "Of course! As your best assistant, I've got to know these things.",
     "review_note": "",
-    "new_translation_vi": "Tất nhiên rồi! Là trợ lý đắc lực nhất của cậu, tôi phải biết những điều này chứ.",
+    "new_translation_vi": "Tất nhiên rồi! Là trợ lý đắc lực nhất của cậu, tớ phải biết những thứ này chứ.",
     "translator_note": ""
   }
 ]

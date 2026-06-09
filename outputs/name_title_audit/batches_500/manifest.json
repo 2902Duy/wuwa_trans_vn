@@ -1,0 +1,57 @@
+{
+  "batch_size": 500,
+  "total_files": 10,
+  "total_rows": 4582,
+  "files": [
+    {
+      "file": "not_translated_part_001.xlsx",
+      "group": "Not Translated",
+      "rows": 500
+    },
+    {
+      "file": "not_translated_part_002.xlsx",
+      "group": "Not Translated",
+      "rows": 500
+    },
+    {
+      "file": "not_translated_part_003.xlsx",
+      "group": "Not Translated",
+      "rows": 500
+    },
+    {
+      "file": "not_translated_part_004.xlsx",
+      "group": "Not Translated",
+      "rows": 500
+    },
+    {
+      "file": "not_translated_part_005.xlsx",
+      "group": "Not Translated",
+      "rows": 500
+    },
+    {
+      "file": "not_translated_part_006.xlsx",
+      "group": "Not Translated",
+      "rows": 500
+    },
+    {
+      "file": "not_translated_part_007.xlsx",
+      "group": "Not Translated",
+      "rows": 500
+    },
+    {
+      "file": "not_translated_part_008.xlsx",
+      "group": "Not Translated",
+      "rows": 500
+    },
+    {
+      "file": "not_translated_part_009.xlsx",
+      "group": "Not Translated",
+      "rows": 123
+    },
+    {
+      "file": "mixed_unauthorized_part_001.xlsx",
+      "group": "Mixed Unauthorized",
+      "rows": 459
+    }
+  ]
+}

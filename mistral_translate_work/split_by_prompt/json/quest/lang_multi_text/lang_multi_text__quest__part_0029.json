@@ -21,7 +21,7 @@
     "ai_reason": "",
     "source_en": "Keep practicing and race to the finish",
     "review_note": "",
-    "new_translation_vi": "Cứ luyện tập và chạy về đích nào.",
+    "new_translation_vi": "Tiếp tục luyện tập và đua đến đích",
     "translator_note": ""
   },
   {
@@ -46,7 +46,7 @@
     "ai_reason": "",
     "source_en": "Use Vectored Thrust to pass through the ring",
     "review_note": "",
-    "new_translation_vi": "Dùng Lực Đẩy Vector để vượt qua vòng tròn.",
+    "new_translation_vi": "Sử dụng Vectored Thrust để đi qua vòng tròn",
     "translator_note": ""
   },
   {
@@ -96,7 +96,7 @@
     "ai_reason": "",
     "source_en": "Mount the Expedition Motorbike",
     "review_note": "",
-    "new_translation_vi": "Lên Expedition Motorbike",
+    "new_translation_vi": "Lên xe máy thám hiểm",
     "translator_note": ""
   },
   {
@@ -121,7 +121,7 @@
     "ai_reason": "",
     "source_en": "You may keep practicing or leave",
     "review_note": "",
-    "new_translation_vi": "Cậu có thể tiếp tục luyện tập hoặc rời đi.",
+    "new_translation_vi": "Bạn có thể tiếp tục luyện tập hoặc leave",
     "translator_note": ""
   },
   {
@@ -146,7 +146,7 @@
     "ai_reason": "",
     "source_en": "Defeat the enemies",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt kẻ địch",
+    "new_translation_vi": "Đánh bại kẻ địch",
     "translator_note": ""
   },
   {
@@ -196,7 +196,7 @@
     "ai_reason": "",
     "source_en": "Off Means On",
     "review_note": "",
-    "new_translation_vi": "Off nghĩa là Bật",
+    "new_translation_vi": "Tắt nghĩa là Bật",
     "translator_note": ""
   },
   {
@@ -221,7 +221,7 @@
     "ai_reason": "",
     "source_en": "Off Means On",
     "review_note": "",
-    "new_translation_vi": "Off nghĩa là Bật",
+    "new_translation_vi": "Tắt nghĩa là Bật",
     "translator_note": ""
   },
   {
@@ -246,7 +246,7 @@
     "ai_reason": "",
     "source_en": "Talk to the girl lost in thought outside the arcade",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với cô gái đang trầm tư bên ngoài khu trò chơi",
+    "new_translation_vi": "Trò chuyện với cô gái đang trầm tư bên ngoài khu trò chơi",
     "translator_note": ""
   },
   {
@@ -271,7 +271,7 @@
     "ai_reason": "",
     "source_en": "Collect the stickers at the fifth camp",
     "review_note": "",
-    "new_translation_vi": "Thu thập sticker ở trại thứ năm",
+    "new_translation_vi": "Thu thập nhãn dán tại trại thứ năm",
     "translator_note": ""
   },
   {
@@ -296,7 +296,7 @@
     "ai_reason": "",
     "source_en": "Collect the stickers at the first camp",
     "review_note": "",
-    "new_translation_vi": "Thu thập sticker ở trại thứ nhất",
+    "new_translation_vi": "Thu thập nhãn dán tại trại đầu tiên",
     "translator_note": ""
   },
   {
@@ -321,7 +321,7 @@
     "ai_reason": "",
     "source_en": "Collect the stickers",
     "review_note": "",
-    "new_translation_vi": "Thu thập các sticker",
+    "new_translation_vi": "Thu thập nhãn dán",
     "translator_note": ""
   },
   {
@@ -346,7 +346,7 @@
     "ai_reason": "",
     "source_en": "Collect the stickers",
     "review_note": "",
-    "new_translation_vi": "Thu thập các sticker",
+    "new_translation_vi": "Thu thập nhãn dán",
     "translator_note": ""
   },
   {
@@ -371,7 +371,7 @@
     "ai_reason": "",
     "source_en": "Collect the stickers",
     "review_note": "",
-    "new_translation_vi": "Thu thập các sticker",
+    "new_translation_vi": "Thu thập nhãn dán",
     "translator_note": ""
   },
   {
@@ -396,7 +396,7 @@
     "ai_reason": "",
     "source_en": "Collect the stickers",
     "review_note": "",
-    "new_translation_vi": "Thu thập các sticker",
+    "new_translation_vi": "Thu thập nhãn dán",
     "translator_note": ""
   },
   {
@@ -421,7 +421,7 @@
     "ai_reason": "",
     "source_en": "Collect the stickers at the second camp",
     "review_note": "",
-    "new_translation_vi": "Thu thập sticker ở trại thứ hai",
+    "new_translation_vi": "Thu thập nhãn dán tại trại thứ hai",
     "translator_note": ""
   },
   {
@@ -446,7 +446,7 @@
     "ai_reason": "",
     "source_en": "Collect the stickers",
     "review_note": "",
-    "new_translation_vi": "Thu thập các sticker",
+    "new_translation_vi": "Thu thập nhãn dán",
     "translator_note": ""
   },
   {
@@ -461,7 +461,6 @@
     "primary_key": "Quest_153700000_ChildQuestTip_153_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -471,8 +470,9 @@
     "ai_reason": "",
     "source_en": "Talk to Misha",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Misha",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Misha",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014020",
@@ -996,7 +996,7 @@
     "ai_reason": "",
     "source_en": "Ride along the first route to search for clues",
     "review_note": "",
-    "new_translation_vi": "Đi theo tuyến đầu tiên để tìm manh mối",
+    "new_translation_vi": "Đi dọc theo tuyến đường đầu tiên để tìm kiếm manh mối",
     "translator_note": ""
   },
   {
@@ -1021,7 +1021,7 @@
     "ai_reason": "",
     "source_en": "Ride along the second route to search for clues",
     "review_note": "",
-    "new_translation_vi": "Đi theo tuyến thứ hai để tìm manh mối",
+    "new_translation_vi": "Đi dọc theo tuyến đường thứ hai để tìm kiếm manh mối",
     "translator_note": ""
   },
   {
@@ -1071,7 +1071,7 @@
     "ai_reason": "",
     "source_en": "Head to the cliff and meet up with K.F.",
     "review_note": "",
-    "new_translation_vi": "Lên vách núi và gặp K.F.",
+    "new_translation_vi": "Đến vách đá và gặp K.F.",
     "translator_note": ""
   },
   {
@@ -1096,7 +1096,7 @@
     "ai_reason": "",
     "source_en": "Ride along the second route and reach the destination",
     "review_note": "",
-    "new_translation_vi": "Đi theo tuyến thứ hai và đến đích",
+    "new_translation_vi": "Đi dọc theo tuyến đường thứ hai và đến đích",
     "translator_note": ""
   },
   {
@@ -1121,7 +1121,7 @@
     "ai_reason": "",
     "source_en": "You encounter an unusual robot who seems to hold a rather unique view of the truth behind this world...",
     "review_note": "",
-    "new_translation_vi": "Bạn gặp một robot khác thường, dường như có cái nhìn rất riêng về sự thật đằng sau thế giới này...",
+    "new_translation_vi": "Bạn gặp một robot lạ, dường như có cái nhìn khá độc đáo về sự thật đằng sau thế giới này...",
     "translator_note": ""
   },
   {
@@ -1146,7 +1146,7 @@
     "ai_reason": "",
     "source_en": "Fracture the Frozen Mirror",
     "review_note": "",
-    "new_translation_vi": "Phá vỡ Tấm Gương Băng giá",
+    "new_translation_vi": "Làm vỡ gương Frozen",
     "translator_note": ""
   },
   {
@@ -1171,7 +1171,7 @@
     "ai_reason": "",
     "source_en": "Complete all Smartprint Cube Reboot challenges on the Frostlands Surface",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành tất cả thử thách Khởi Động Lại Khối Smartprint trên Bề Mặt Vùng Đất Băng Giá.",
+    "new_translation_vi": "Hoàn thành tất cả thử thách Khởi động lại Smartprint Cube trên Frostlands Surface",
     "translator_note": ""
   },
   {
@@ -1196,7 +1196,7 @@
     "ai_reason": "",
     "source_en": "Smartprint Cube Reboot - Frostlands Surface",
     "review_note": "",
-    "new_translation_vi": "Khối Smartprint Cube Khởi Động Lại - Bề Mặt Frostlands",
+    "new_translation_vi": "Khởi động lại Smartprint Cube - Frostlands Surface",
     "translator_note": ""
   },
   {
@@ -1271,7 +1271,7 @@
     "ai_reason": "",
     "source_en": "Talk to the arguing students",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với những học sinh đang cãi nhau",
+    "new_translation_vi": "Trò chuyện với các sinh viên đang tranh cãi",
     "translator_note": ""
   },
   {
@@ -1296,7 +1296,7 @@
     "ai_reason": "",
     "source_en": "Visit various photo spots around Lahai-Roi",
     "review_note": "",
-    "new_translation_vi": "Tham quan các địa điểm chụp ảnh đẹp quanh Lahai-Roi nào",
+    "new_translation_vi": "Ghé thăm các địa điểm chụp ảnh quanh Lahai-Roi",
     "translator_note": ""
   },
   {
@@ -1321,7 +1321,7 @@
     "ai_reason": "",
     "source_en": "Capturing Starlight",
     "review_note": "",
-    "new_translation_vi": "Bắt Ánh Sao",
+    "new_translation_vi": "Bắt trọn ánh sao",
     "translator_note": ""
   },
   {
@@ -1336,7 +1336,6 @@
     "primary_key": "Quest_120000000_QuestDesc_120_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1346,8 +1345,9 @@
     "ai_reason": "",
     "source_en": "At Startorch Academy, you come across two students in the middle of an argument. They claim to be the moderators of the “Everything Startorch” account and are stuck on what to post for their next feature. Strangely enough, their dilemma seems to have something to do with you, the “Voidworm Rider.”",
     "review_note": "",
-    "new_translation_vi": "At Startorch Academy, cậu tình cờ gặp hai sinh viên đang cãi nhau. Họ tự nhận là người điều hành tài khoản “Mọi điều về Startorch” và đang bí ý tưởng cho bài đăng tiếp theo. Kỳ lạ thay, vấn đề của họ dường như liên quan đến cậu – “Kỵ sĩ Giun Hư Không”.",
-    "translator_note": ""
+    "new_translation_vi": "Tại Startorch Academy, bạn bắt gặp hai sinh viên đang tranh cãi. Họ tự nhận là quản trị viên của tài khoản “Everything Startorch” và đang bế tắc không biết nên đăng gì cho bài viết tiếp theo. Kỳ lạ thay, tình thế tiến thoái lưỡng nan của họ dường như có liên quan đến bạn, “Voidworm Rider.”",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014055",
@@ -1371,7 +1371,7 @@
     "ai_reason": "",
     "source_en": "Capturing Starlight",
     "review_note": "",
-    "new_translation_vi": "Bắt Ánh Sao",
+    "new_translation_vi": "Bắt trọn ánh sao",
     "translator_note": ""
   },
   {
@@ -1396,7 +1396,7 @@
     "ai_reason": "",
     "source_en": "Capturing Starlight",
     "review_note": "",
-    "new_translation_vi": "Bắt Ánh Sao",
+    "new_translation_vi": "Bắt trọn ánh sao",
     "translator_note": ""
   },
   {
@@ -1421,7 +1421,7 @@
     "ai_reason": "",
     "source_en": "Visit various photo spots around Lahai-Roi",
     "review_note": "",
-    "new_translation_vi": "Tham quan các địa điểm chụp ảnh đẹp quanh Lahai-Roi nào",
+    "new_translation_vi": "Ghé thăm các địa điểm chụp ảnh quanh Lahai-Roi",
     "translator_note": ""
   },
   {
@@ -1446,7 +1446,7 @@
     "ai_reason": "",
     "source_en": "Open Capturing Starlight and complete photo collection in Lahai-Roi",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành bộ sưu tập ảnh \"Bắt Sáng Ngôi Sao\" tại La-hi Roi",
+    "new_translation_vi": "Mở Bắt trọn ánh sao và hoàn thành bộ sưu tập ảnh tại Lahai-Roi",
     "translator_note": ""
   },
   {
@@ -1486,7 +1486,6 @@
     "primary_key": "Quest_189700014_ChildQuestTip_189_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1496,8 +1495,9 @@
     "ai_reason": "",
     "source_en": "Head to the Spacetrek Archive at noon (12:00-14:00) and talk to Lianna",
     "review_note": "",
-    "new_translation_vi": "Đến Kho Spacetrek Archive vào buổi trưa (12:00-14:00) và nói chuyện với Lianna",
-    "translator_note": ""
+    "new_translation_vi": "Đến Spacetrek Archive vào buổi trưa (12:00-14:00) và trò chuyện với Lianna",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014061",
@@ -1521,7 +1521,7 @@
     "ai_reason": "",
     "source_en": "Head to the shopping hub",
     "review_note": "",
-    "new_translation_vi": "Đến khu mua sắm",
+    "new_translation_vi": "Đến trung tâm mua sắm",
     "translator_note": ""
   },
   {
@@ -1546,7 +1546,7 @@
     "ai_reason": "",
     "source_en": "Talk to Rosalia",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Rosalia",
+    "new_translation_vi": "Trò chuyện với Rosalia",
     "translator_note": ""
   },
   {
@@ -1571,7 +1571,7 @@
     "ai_reason": "",
     "source_en": "Talk to Miro and the others",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Miro và những người khác",
+    "new_translation_vi": "Trò chuyện với Miro và những người khác",
     "translator_note": ""
   },
   {
@@ -1596,7 +1596,7 @@
     "ai_reason": "",
     "source_en": "Go to the Teaching Zone",
     "review_note": "",
-    "new_translation_vi": "Đến Khu Giảng dạy",
+    "new_translation_vi": "Đến Khu vực Giảng dạy",
     "translator_note": ""
   },
   {
@@ -1621,7 +1621,7 @@
     "ai_reason": "",
     "source_en": "Talk to B.1.N.G.O. and the others",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với B.1.N.G.O. và những người khác",
+    "new_translation_vi": "Trò chuyện với B.1.N.G.O. và những người khác",
     "translator_note": ""
   },
   {
@@ -1646,7 +1646,7 @@
     "ai_reason": "",
     "source_en": "Talk to Reina",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Reina",
+    "new_translation_vi": "Trò chuyện với Reina",
     "translator_note": ""
   },
   {
@@ -1721,7 +1721,7 @@
     "ai_reason": "",
     "source_en": "Talk to Rosalia",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Rosalia",
+    "new_translation_vi": "Trò chuyện với Rosalia",
     "translator_note": ""
   },
   {
@@ -1746,7 +1746,7 @@
     "ai_reason": "",
     "source_en": "Take photos of the four freshmen",
     "review_note": "",
-    "new_translation_vi": "Chụp ảnh bốn tân binh mới đến",
+    "new_translation_vi": "Chụp ảnh bốn sinh viên năm nhất",
     "translator_note": ""
   },
   {
@@ -1771,7 +1771,7 @@
     "ai_reason": "",
     "source_en": "Talk to Miro and the others",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Miro và những người khác",
+    "new_translation_vi": "Trò chuyện với Miro và những người khác",
     "translator_note": ""
   },
   {
@@ -1786,7 +1786,6 @@
     "primary_key": "Quest_189700014_ChildQuestTip_189_27",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1796,8 +1795,9 @@
     "ai_reason": "",
     "source_en": "Take a photo of Chuji and Yoren",
     "review_note": "",
-    "new_translation_vi": "Take a photo of Chuji và Yoren",
-    "translator_note": ""
+    "new_translation_vi": "Chụp ảnh Chuji và Yoren",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014073",
@@ -1811,7 +1811,6 @@
     "primary_key": "Quest_189700014_ChildQuestTip_189_28",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1821,8 +1820,9 @@
     "ai_reason": "",
     "source_en": "Talk to Chuji and Yoren",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Chuji và Yoren",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Chuji và Yoren",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014074",
@@ -1846,7 +1846,7 @@
     "ai_reason": "",
     "source_en": "Take a photo of B.1.N.G.O. and two freshmen",
     "review_note": "",
-    "new_translation_vi": "Take a photo of B.1.N.G.O. cùng hai tân sinh viên",
+    "new_translation_vi": "Chụp ảnh B.1.N.G.O. và hai sinh viên năm nhất",
     "translator_note": ""
   },
   {
@@ -1861,7 +1861,6 @@
     "primary_key": "Quest_189700014_ChildQuestTip_189_31",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1871,8 +1870,9 @@
     "ai_reason": "",
     "source_en": "Talk to Iroh and the others",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Iroh và những người khác",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Iroh và những người khác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014076",
@@ -1896,7 +1896,7 @@
     "ai_reason": "",
     "source_en": "Talk to Reina",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Reina",
+    "new_translation_vi": "Trò chuyện với Reina",
     "translator_note": ""
   },
   {
@@ -1921,7 +1921,7 @@
     "ai_reason": "",
     "source_en": "Send a WavesLine reply to Lightborne Horizons",
     "review_note": "",
-    "new_translation_vi": "Trả lời tin nhắn WavesLine cho Lightborne Horizons",
+    "new_translation_vi": "Gửi tin nhắn trả lời WavesLine cho Lightborne Horizons",
     "translator_note": ""
   },
   {
@@ -1936,7 +1936,6 @@
     "primary_key": "Quest_189700014_ChildQuestTip_189_36",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1946,8 +1945,9 @@
     "ai_reason": "",
     "source_en": "Talk to Lianna",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Lianna",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Lianna",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014079",
@@ -1971,7 +1971,7 @@
     "ai_reason": "",
     "source_en": "Take a group photo with the fan club members",
     "review_note": "",
-    "new_translation_vi": "Chụp ảnh nhóm với các thành viên fan club nào.",
+    "new_translation_vi": "Chụp ảnh nhóm cùng các thành viên câu lạc bộ người hâm mộ",
     "translator_note": ""
   },
   {
@@ -1986,7 +1986,6 @@
     "primary_key": "Quest_189700014_ChildQuestTip_189_38",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1996,8 +1995,9 @@
     "ai_reason": "",
     "source_en": "Talk to Lianna",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Lianna",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Lianna",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014081",
@@ -2021,7 +2021,7 @@
     "ai_reason": "",
     "source_en": "Explore the shopping hub to find photo subjects",
     "review_note": "",
-    "new_translation_vi": "Đến khu mua sắm để tìm chủ đề chụp ảnh",
+    "new_translation_vi": "Khám phá trung tâm mua sắm để tìm đối tượng chụp ảnh",
     "translator_note": ""
   },
   {
@@ -2046,7 +2046,7 @@
     "ai_reason": "",
     "source_en": "Continue exploring to find photo subjects",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục khám phá để tìm chủ đề chụp ảnh",
+    "new_translation_vi": "Tiếp tục khám phá để tìm đối tượng chụp ảnh",
     "translator_note": ""
   },
   {
@@ -2071,7 +2071,7 @@
     "ai_reason": "",
     "source_en": "Enter the classroom",
     "review_note": "",
-    "new_translation_vi": "Enter phòng học",
+    "new_translation_vi": "Vào lớp học",
     "translator_note": ""
   },
   {
@@ -2096,7 +2096,7 @@
     "ai_reason": "",
     "source_en": "Leave the classroom",
     "review_note": "",
-    "new_translation_vi": "Rời khỏi lớp học",
+    "new_translation_vi": "Leave lớp học",
     "translator_note": ""
   },
   {
@@ -2121,7 +2121,7 @@
     "ai_reason": "",
     "source_en": "Continue exploring to find photo subjects",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục khám phá để tìm chủ đề chụp ảnh",
+    "new_translation_vi": "Tiếp tục khám phá để tìm đối tượng chụp ảnh",
     "translator_note": ""
   },
   {
@@ -2146,7 +2146,7 @@
     "ai_reason": "",
     "source_en": "Explore the shopping hub to find photo subjects",
     "review_note": "",
-    "new_translation_vi": "Đến khu mua sắm để tìm chủ đề chụp ảnh",
+    "new_translation_vi": "Khám phá trung tâm mua sắm để tìm đối tượng chụp ảnh",
     "translator_note": ""
   },
   {
@@ -2171,7 +2171,7 @@
     "ai_reason": "",
     "source_en": "Continue exploring to find photo subjects",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục khám phá để tìm chủ đề chụp ảnh",
+    "new_translation_vi": "Tiếp tục khám phá để tìm đối tượng chụp ảnh",
     "translator_note": ""
   },
   {
@@ -2196,7 +2196,7 @@
     "ai_reason": "",
     "source_en": "Continue exploring to find photo subjects",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục khám phá để tìm chủ đề chụp ảnh",
+    "new_translation_vi": "Tiếp tục khám phá để tìm đối tượng chụp ảnh",
     "translator_note": ""
   },
   {
@@ -2221,7 +2221,7 @@
     "ai_reason": "",
     "source_en": "Group photo time! Cheese!",
     "review_note": "",
-    "new_translation_vi": "Chụp ảnh nhóm nào! Cười lên!",
+    "new_translation_vi": "Đến giờ chụp ảnh nhóm rồi! Cười lên nào!",
     "translator_note": ""
   },
   {
@@ -2246,7 +2246,7 @@
     "ai_reason": "",
     "source_en": "A WavesLine message arrives from a strange account named \"Lightborne Horizons.\" With almost contagious enthusiasm, the sender invites you to join a photography event called \"Light Chaser Collection\"…",
     "review_note": "",
-    "new_translation_vi": "Một tin nhắn WavesLine từ tài khoản lạ mang tên \"Lightborne Horizons\" gửi đến. Với sự hào hứng gần như lây lan, người gửi mời bạn tham gia sự kiện nhiếp ảnh mang tên \"Light Chaser Collection\"…",
+    "new_translation_vi": "Một tin nhắn WavesLine gửi đến từ tài khoản lạ có tên \"Lightborne Horizons.\" Với sự nhiệt tình đầy lôi cuốn, người gửi mời bạn tham gia một sự kiện nhiếp ảnh có tên \"Light Chaser Collection\"...",
     "translator_note": ""
   },
   {
@@ -2271,7 +2271,7 @@
     "ai_reason": "",
     "source_en": "Moments Captured in Light",
     "review_note": "",
-    "new_translation_vi": "Moments chớp lóe trong ánh sáng",
+    "new_translation_vi": "Khoảnh khắc lưu giữ trong ánh sáng",
     "translator_note": ""
   },
   {
@@ -2296,7 +2296,7 @@
     "ai_reason": "",
     "source_en": "Go to the shooting position",
     "review_note": "",
-    "new_translation_vi": "Đến vị trí bắn",
+    "new_translation_vi": "Đến vị trí chụp ảnh",
     "translator_note": ""
   },
   {
@@ -2321,7 +2321,7 @@
     "ai_reason": "",
     "source_en": "Go to the shooting position",
     "review_note": "",
-    "new_translation_vi": "Đến vị trí bắn",
+    "new_translation_vi": "Đến vị trí chụp ảnh",
     "translator_note": ""
   },
   {
@@ -2346,7 +2346,7 @@
     "ai_reason": "",
     "source_en": "Go to the shooting position",
     "review_note": "",
-    "new_translation_vi": "Đến vị trí bắn",
+    "new_translation_vi": "Đến vị trí chụp ảnh",
     "translator_note": ""
   },
   {
@@ -2371,7 +2371,7 @@
     "ai_reason": "",
     "source_en": "Go to the shooting position",
     "review_note": "",
-    "new_translation_vi": "Đến vị trí bắn",
+    "new_translation_vi": "Đến vị trí chụp ảnh",
     "translator_note": ""
   },
   {
@@ -2396,7 +2396,7 @@
     "ai_reason": "",
     "source_en": "Go to the shooting position",
     "review_note": "",
-    "new_translation_vi": "Đến vị trí bắn",
+    "new_translation_vi": "Đến vị trí chụp ảnh",
     "translator_note": ""
   },
   {
@@ -2461,7 +2461,6 @@
     "primary_key": "Quest_189700014_TakePhotoTargetsDescription_189_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2472,7 +2471,8 @@
     "source_en": "Take a photo of Flaer",
     "review_note": "",
     "new_translation_vi": "Chụp ảnh Flaer",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014100",
@@ -2486,7 +2486,6 @@
     "primary_key": "Quest_189700014_TakePhotoTargetsDescription_189_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2496,8 +2495,9 @@
     "ai_reason": "",
     "source_en": "Take a photo of Chuji and Yoren",
     "review_note": "",
-    "new_translation_vi": "Take a photo of Chuji và Yoren",
-    "translator_note": ""
+    "new_translation_vi": "Chụp ảnh Chuji và Yoren",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014101",
@@ -2536,7 +2536,6 @@
     "primary_key": "Quest_189700014_TakePhotoTargetsDescription_189_6",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2547,7 +2546,8 @@
     "source_en": "Take a photo of Chuji",
     "review_note": "",
     "new_translation_vi": "Chụp ảnh Chuji",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014103",
@@ -2586,7 +2586,6 @@
     "primary_key": "Quest_189700014_TakePhotoTargetsDescription_189_8",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2597,7 +2596,8 @@
     "source_en": "Take a photo of Solvik",
     "review_note": "",
     "new_translation_vi": "Chụp ảnh Solvik",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014105",
@@ -2611,7 +2611,6 @@
     "primary_key": "Quest_189700014_TakePhotoTargetsDescription_189_9",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2622,7 +2621,8 @@
     "source_en": "Take a photo of Musen",
     "review_note": "",
     "new_translation_vi": "Chụp ảnh Musen",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014106",
@@ -2636,7 +2636,6 @@
     "primary_key": "Quest_189700014_TakePhotoTargetsDescription_189_10",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2647,7 +2646,8 @@
     "source_en": "Take a photo of Iroh",
     "review_note": "",
     "new_translation_vi": "Chụp ảnh Iroh",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014107",
@@ -2696,7 +2696,7 @@
     "ai_reason": "",
     "source_en": "Ask around the station for info",
     "review_note": "",
-    "new_translation_vi": "Ask thăm quanh trạm để lấy thông tin",
+    "new_translation_vi": "Hỏi thăm thông tin quanh trạm",
     "translator_note": ""
   },
   {
@@ -2746,7 +2746,7 @@
     "ai_reason": "",
     "source_en": "Harriet seems troubled by something. Speak with her and learn what it's about.",
     "review_note": "",
-    "new_translation_vi": "Harriet có vẻ đang gặp chuyện gì đó. Hãy nói chuyện với cô ấy để tìm hiểu.",
+    "new_translation_vi": "Harriet dường như đang gặp rắc rối. Hãy trò chuyện với cô ấy để tìm hiểu xem đó là chuyện gì.",
     "translator_note": ""
   },
   {
@@ -2771,7 +2771,7 @@
     "ai_reason": "",
     "source_en": "Where Starry Seas Endure II",
     "review_note": "",
-    "new_translation_vi": "Nơi Biển Sao Bền Bỉ II",
+    "new_translation_vi": "Nơi biển sao trường tồn II",
     "translator_note": ""
   },
   {
@@ -2796,7 +2796,7 @@
     "ai_reason": "",
     "source_en": "Help request received",
     "review_note": "",
-    "new_translation_vi": "Yêu cầu trợ giúp đã nhận",
+    "new_translation_vi": "Đã nhận yêu cầu trợ giúp",
     "translator_note": ""
   },
   {
@@ -2821,7 +2821,7 @@
     "ai_reason": "",
     "source_en": "Find the one who requested help",
     "review_note": "",
-    "new_translation_vi": "Tìm người đã yêu cầu giúp đỡ",
+    "new_translation_vi": "Tìm người đã yêu cầu trợ giúp",
     "translator_note": ""
   },
   {
@@ -2871,7 +2871,7 @@
     "ai_reason": "",
     "source_en": "Talk to Harriet",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Harriet",
+    "new_translation_vi": "Trò chuyện với Harriet",
     "translator_note": ""
   },
   {
@@ -2896,7 +2896,7 @@
     "ai_reason": "",
     "source_en": "You receive a WavesLine message asking for help. Check what it's about.",
     "review_note": "",
-    "new_translation_vi": "Bạn nhận được tin nhắn WavesLine cầu cứu. Check xem có chuyện gì.",
+    "new_translation_vi": "Bạn nhận được tin nhắn WavesLine yêu cầu trợ giúp. Hãy kiểm tra xem đó là chuyện gì.",
     "translator_note": ""
   },
   {
@@ -2921,7 +2921,7 @@
     "ai_reason": "",
     "source_en": "Where Starry Seas Endure I",
     "review_note": "",
-    "new_translation_vi": "Nơi Biển Sao Bền Bỉ I",
+    "new_translation_vi": "Nơi biển sao trường tồn I",
     "translator_note": ""
   },
   {
@@ -2946,7 +2946,7 @@
     "ai_reason": "",
     "source_en": "Photograph the ancient tree beside the spring",
     "review_note": "",
-    "new_translation_vi": "Chụp lại cây cổ thụ bên dòng suối",
+    "new_translation_vi": "Chụp ảnh cái cây cổ thụ bên cạnh con suối",
     "translator_note": ""
   },
   {
@@ -2971,7 +2971,7 @@
     "ai_reason": "",
     "source_en": "Photograph the strange ring-like structures",
     "review_note": "",
-    "new_translation_vi": "Chụp lại những cấu trúc hình vòng kỳ lạ đó đi",
+    "new_translation_vi": "Chụp ảnh các cấu trúc hình vòng kỳ lạ",
     "translator_note": ""
   },
   {
@@ -3021,7 +3021,7 @@
     "ai_reason": "",
     "source_en": "Arrive at the photography location at the gate",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm chụp ảnh ở cổng",
+    "new_translation_vi": "Đến vị trí chụp ảnh tại cổng",
     "translator_note": ""
   },
   {
@@ -3046,7 +3046,7 @@
     "ai_reason": "",
     "source_en": "Arrive at the photography location at the slope",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm chụp ảnh ở sườn dốc",
+    "new_translation_vi": "Đến vị trí chụp ảnh tại sườn dốc",
     "translator_note": ""
   },
   {
@@ -3061,7 +3061,6 @@
     "primary_key": "Quest_898900004_ChildQuestTip_898_47",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3071,8 +3070,9 @@
     "ai_reason": "",
     "source_en": "Photograph a birdseye view of Hongzhen",
     "review_note": "",
-    "new_translation_vi": "Ảnh chụp toàn cảnh Hongzhen từ trên cao",
-    "translator_note": ""
+    "new_translation_vi": "Chụp ảnh toàn cảnh Hongzhen từ trên cao",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014124",
@@ -3086,7 +3086,6 @@
     "primary_key": "Quest_898900004_ChildQuestTip_898_48",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3096,8 +3095,9 @@
     "ai_reason": "",
     "source_en": "Talk to Xunjing",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Xunjing",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Xunjing",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014125",
@@ -3136,7 +3136,6 @@
     "primary_key": "Quest_898900004_QuestDesc_898_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3146,8 +3145,9 @@
     "ai_reason": "",
     "source_en": "Xunjing, an editor for \"Wutherium Geographic\", is seeking a photographer. According to him, this is related to an existential crisis in his career...",
     "review_note": "",
-    "new_translation_vi": "Xunjing, biên tập viên của \"Địa Lý Wutherium\", đang tìm kiếm một nhiếp ảnh gia. Theo lời anh ta, chuyện này liên quan đến một cuộc khủng hoảng hiện sinh trong sự nghiệp...",
-    "translator_note": ""
+    "new_translation_vi": "Xunjing, biên tập viên của \"Wutherium Geographic\", đang tìm kiếm một nhiếp ảnh gia. Theo anh ta, việc này liên quan đến một cuộc khủng hoảng hiện sinh trong sự nghiệp của mình...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014127",
@@ -3161,7 +3161,6 @@
     "primary_key": "Quest_898900004_QuestName_898_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3171,8 +3170,9 @@
     "ai_reason": "",
     "source_en": "Kaleidoscope of Hongzhen",
     "review_note": "",
-    "new_translation_vi": "Kaleidoscope Hồng Trấn",
-    "translator_note": ""
+    "new_translation_vi": "Kính vạn hoa của Hongzhen",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014128",
@@ -3196,7 +3196,7 @@
     "ai_reason": "",
     "source_en": "Arrive at the photography location",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm chụp ảnh",
+    "new_translation_vi": "Đến vị trí chụp ảnh",
     "translator_note": ""
   },
   {
@@ -3221,7 +3221,7 @@
     "ai_reason": "",
     "source_en": "Arrive at the photography location",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm chụp ảnh",
+    "new_translation_vi": "Đến vị trí chụp ảnh",
     "translator_note": ""
   },
   {
@@ -3246,7 +3246,7 @@
     "ai_reason": "",
     "source_en": "Arrive at the photography location",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm chụp ảnh",
+    "new_translation_vi": "Đến vị trí chụp ảnh",
     "translator_note": ""
   },
   {
@@ -3271,7 +3271,7 @@
     "ai_reason": "",
     "source_en": "Arrive at the photography location",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm chụp ảnh",
+    "new_translation_vi": "Đến vị trí chụp ảnh",
     "translator_note": ""
   },
   {
@@ -3296,7 +3296,7 @@
     "ai_reason": "",
     "source_en": "Photograph the ancient tree beside the spring",
     "review_note": "",
-    "new_translation_vi": "Chụp lại cây cổ thụ bên dòng suối",
+    "new_translation_vi": "Chụp ảnh cây cổ thụ bên cạnh con suối",
     "translator_note": ""
   },
   {
@@ -3336,7 +3336,6 @@
     "primary_key": "Quest_898900004_TakePhotoTargetsDescription_898_13",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3346,8 +3345,9 @@
     "ai_reason": "",
     "source_en": "Photograph a birdseye view of Hongzhen",
     "review_note": "",
-    "new_translation_vi": "Ảnh chụp toàn cảnh Hongzhen từ trên cao",
-    "translator_note": ""
+    "new_translation_vi": "Chụp ảnh toàn cảnh Hongzhen từ trên cao",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014135",
@@ -3371,7 +3371,7 @@
     "ai_reason": "",
     "source_en": "Photograph the strange loop structure in the distance",
     "review_note": "",
-    "new_translation_vi": "Photograph the strange loop structure phía xa",
+    "new_translation_vi": "Chụp ảnh cấu trúc vòng lặp kỳ lạ ở phía xa",
     "translator_note": ""
   },
   {
@@ -3396,7 +3396,7 @@
     "ai_reason": "",
     "source_en": "Head to the spring outside the town to collect Pavo Plum",
     "review_note": "",
-    "new_translation_vi": "Đến con suối ngoài thị trấn để hái Pavo Plum",
+    "new_translation_vi": "Đến con suối bên ngoài thị trấn để thu thập Pavo Plum",
     "translator_note": ""
   },
   {
@@ -3496,7 +3496,7 @@
     "ai_reason": "",
     "source_en": "Head to the spring outside the town to collect Pavo Plum",
     "review_note": "",
-    "new_translation_vi": "Đến con suối ngoài thị trấn để hái Pavo Plum",
+    "new_translation_vi": "Đến con suối bên ngoài thị trấn để thu thập Pavo Plum",
     "translator_note": ""
   },
   {
@@ -3521,7 +3521,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Exiles",
     "review_note": "",
-    "new_translation_vi": "Đánh bại những kẻ lưu đày",
+    "new_translation_vi": "Đánh bại các Exile",
     "translator_note": ""
   },
   {
@@ -3546,7 +3546,7 @@
     "ai_reason": "",
     "source_en": "Collect the Pavo Plum at the spring outside the town",
     "review_note": "",
-    "new_translation_vi": "Hái quả Pavo Plum ở suối ngoài thị trấn",
+    "new_translation_vi": "Thu thập Pavo Plum tại con suối bên ngoài thị trấn",
     "translator_note": ""
   },
   {
@@ -3571,7 +3571,7 @@
     "ai_reason": "",
     "source_en": "Deliver the Pavo Plums you have collected to Bing'ge",
     "review_note": "",
-    "new_translation_vi": "Đưa những quả Pavo Plum cậu thu thập được cho Bing'ge",
+    "new_translation_vi": "Giao số Pavo Plum đã thu thập cho Bing'ge",
     "translator_note": ""
   },
   {
@@ -3596,7 +3596,7 @@
     "ai_reason": "",
     "source_en": "Deliver the Pavo Plums",
     "review_note": "",
-    "new_translation_vi": "Giao Mận Pavo",
+    "new_translation_vi": "Giao số Pavo Plum",
     "translator_note": ""
   },
   {
@@ -3621,7 +3621,7 @@
     "ai_reason": "",
     "source_en": "Bing'ge has been scorched for his work recently. He needs someone who can help.",
     "review_note": "",
-    "new_translation_vi": "Dạo này Bing'ge làm việc đến mức cháy hết mình rồi. Cậu ấy cần ai đó giúp đỡ.",
+    "new_translation_vi": "Bing'ge gần đây đang rất bận rộn với công việc. Anh ấy cần người giúp đỡ.",
     "translator_note": ""
   },
   {
@@ -3646,7 +3646,7 @@
     "ai_reason": "",
     "source_en": "Spring Adventures",
     "review_note": "",
-    "new_translation_vi": "Phiêu lưu mùa xuân",
+    "new_translation_vi": "Cuộc phiêu lưu bên suối",
     "translator_note": ""
   },
   {
@@ -3671,7 +3671,7 @@
     "ai_reason": "",
     "source_en": "A crying girl",
     "review_note": "",
-    "new_translation_vi": "Cô bé đang khóc",
+    "new_translation_vi": "Một cô gái đang khóc",
     "translator_note": ""
   },
   {
@@ -3686,7 +3686,6 @@
     "primary_key": "Quest_11900016_ChildQuestTip_11_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3697,7 +3696,8 @@
     "source_en": "Answer the contact from Xinyi",
     "review_note": "",
     "new_translation_vi": "Trả lời liên lạc từ Xinyi",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014149",
@@ -3711,7 +3711,6 @@
     "primary_key": "Quest_11900016_ChildQuestTip_11_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3721,8 +3720,9 @@
     "ai_reason": "",
     "source_en": "Talk to Xinyi",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Xinyi",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Xinyi",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014150",
@@ -3771,7 +3771,7 @@
     "ai_reason": "",
     "source_en": "Inquire about the experience of the herb collector",
     "review_note": "",
-    "new_translation_vi": "Hỏi về trải nghiệm của người hái thảo dược",
+    "new_translation_vi": "Hỏi về trải nghiệm của người thu thập thảo dược",
     "translator_note": ""
   },
   {
@@ -3786,7 +3786,6 @@
     "primary_key": "Quest_11900016_ChildQuestTip_11_6",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3797,7 +3796,8 @@
     "source_en": "Head to Loong's Crest",
     "review_note": "",
     "new_translation_vi": "Đến Loong's Crest",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014153",
@@ -3821,7 +3821,7 @@
     "ai_reason": "",
     "source_en": "Use Sensor to investigate other anomalies",
     "review_note": "",
-    "new_translation_vi": "Dùng Sensor để điều tra các bất thường khác",
+    "new_translation_vi": "Sử dụng Sensor để điều tra các điểm bất thường khác",
     "translator_note": ""
   },
   {
@@ -3861,7 +3861,6 @@
     "primary_key": "Quest_11900016_ChildQuestTip_11_16",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3871,8 +3870,9 @@
     "ai_reason": "",
     "source_en": "Talk to Qianyue",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Qianyue",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Qianyue",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014156",
@@ -3886,7 +3886,6 @@
     "primary_key": "Quest_11900016_ChildQuestTip_11_31",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3896,8 +3895,9 @@
     "ai_reason": "",
     "source_en": "Head to Xuanji Ridges to stop the Fractsidus' plans",
     "review_note": "",
-    "new_translation_vi": "Head to Xuanji Ridge để ngăn chặn kế hoạch của Fractsidus",
-    "translator_note": ""
+    "new_translation_vi": "Đến Xuanji Ridges để ngăn chặn kế hoạch của Fractsidus",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014157",
@@ -3911,7 +3911,6 @@
     "primary_key": "Quest_11900016_ChildQuestTip_11_37",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3921,8 +3920,9 @@
     "ai_reason": "",
     "source_en": "Defeat the Lightcrusher combined with Ogo's frequencies.",
     "review_note": "",
-    "new_translation_vi": "Hạ gục Lightcrusher khi kết hợp với tần số của Ogo.",
-    "translator_note": ""
+    "new_translation_vi": "Đánh bại Lightcrusher đã kết hợp với tần số của Ogo",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014158",
@@ -3936,7 +3936,6 @@
     "primary_key": "Quest_11900016_ChildQuestTip_11_39",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3946,8 +3945,9 @@
     "ai_reason": "",
     "source_en": "Talk to Qianyue",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Qianyue",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Qianyue",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014159",
@@ -3961,7 +3961,6 @@
     "primary_key": "Quest_11900016_ChildQuestTip_11_40",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3971,8 +3970,9 @@
     "ai_reason": "",
     "source_en": "Tell Xinyi the truth",
     "review_note": "",
-    "new_translation_vi": "Nói sự thật với Xinyi",
-    "translator_note": ""
+    "new_translation_vi": "Nói sự thật cho Xinyi",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014160",
@@ -3986,7 +3986,6 @@
     "primary_key": "Quest_11900016_ChildQuestTip_11_41",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3996,8 +3995,9 @@
     "ai_reason": "",
     "source_en": "Talk to Qianyue",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Qianyue",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Qianyue",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014161",
@@ -4011,7 +4011,6 @@
     "primary_key": "Quest_11900016_ChildQuestTip_11_45",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4022,7 +4021,8 @@
     "source_en": "Head to Loong's Ridge",
     "review_note": "",
     "new_translation_vi": "Đến Loong's Ridge",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014162",
@@ -4046,7 +4046,7 @@
     "ai_reason": "",
     "source_en": "Inquire",
     "review_note": "",
-    "new_translation_vi": "Inquire",
+    "new_translation_vi": "Hỏi thăm",
     "translator_note": ""
   },
   {
@@ -4071,7 +4071,7 @@
     "ai_reason": "",
     "source_en": "Inquire",
     "review_note": "",
-    "new_translation_vi": "Inquire",
+    "new_translation_vi": "Hỏi thăm",
     "translator_note": ""
   },
   {
@@ -4096,7 +4096,7 @@
     "ai_reason": "",
     "source_en": "Investigate the board",
     "review_note": "",
-    "new_translation_vi": "Điều tra tấm bảng",
+    "new_translation_vi": "Điều tra bảng thông báo",
     "translator_note": ""
   },
   {
@@ -4196,7 +4196,7 @@
     "ai_reason": "",
     "source_en": "Investigate the file on the box",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra tập tài liệu trên thùng",
+    "new_translation_vi": "Điều tra tập tài liệu trên thùng",
     "translator_note": ""
   },
   {
@@ -4221,7 +4221,7 @@
     "ai_reason": "",
     "source_en": "Investigate the tablet left on the ground",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra tấm bảng để lại trên mặt đất",
+    "new_translation_vi": "Điều tra máy tính bảng để trên mặt đất",
     "translator_note": ""
   },
   {
@@ -4271,7 +4271,7 @@
     "ai_reason": "",
     "source_en": "Investigate the devices on the ground",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra các thiết bị dưới đất",
+    "new_translation_vi": "Điều tra các thiết bị trên mặt đất",
     "translator_note": ""
   },
   {
@@ -4286,7 +4286,6 @@
     "primary_key": "Quest_11900016_QuestDesc_11_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4296,8 +4295,9 @@
     "ai_reason": "",
     "source_en": "Two mysterious events happened in Hongzhen. Xinyi presumes there are ulterior motives behind them...",
     "review_note": "",
-    "new_translation_vi": "Hai sự kiện bí ẩn đã xảy ra ở Hồng Trấn. Xinyi nghi ngờ có động cơ thầm kín đằng sau...",
-    "translator_note": ""
+    "new_translation_vi": "Hai sự kiện bí ẩn đã xảy ra tại Hongzhen. Xinyi cho rằng có những động cơ thầm kín đằng sau chúng...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014173",
@@ -4321,7 +4321,7 @@
     "ai_reason": "",
     "source_en": "Lores Beyond the Ranges",
     "review_note": "",
-    "new_translation_vi": "Huyền Thoại Vượt Biên Giới",
+    "new_translation_vi": "Truyền thuyết ngoài dãy núi",
     "translator_note": ""
   },
   {
@@ -4346,7 +4346,7 @@
     "ai_reason": "",
     "source_en": "Investigate the anomalies around",
     "review_note": "",
-    "new_translation_vi": "Điều tra các điểm dị thường xung quanh",
+    "new_translation_vi": "Điều tra các điểm bất thường xung quanh",
     "translator_note": ""
   },
   {
@@ -4371,7 +4371,7 @@
     "ai_reason": "",
     "source_en": "Investigate the anomalies around",
     "review_note": "",
-    "new_translation_vi": "Điều tra các điểm dị thường xung quanh",
+    "new_translation_vi": "Điều tra các điểm bất thường xung quanh",
     "translator_note": ""
   },
   {
@@ -4396,7 +4396,7 @@
     "ai_reason": "",
     "source_en": "Enter the room",
     "review_note": "",
-    "new_translation_vi": "Enter phòng",
+    "new_translation_vi": "Vào phòng",
     "translator_note": ""
   },
   {
@@ -4421,7 +4421,7 @@
     "ai_reason": "",
     "source_en": "Enter the room to inspect",
     "review_note": "",
-    "new_translation_vi": "Enter phòng kiểm tra",
+    "new_translation_vi": "Vào phòng để kiểm tra",
     "translator_note": ""
   },
   {
@@ -4446,7 +4446,7 @@
     "ai_reason": "",
     "source_en": "Inspect the info tablet",
     "review_note": "",
-    "new_translation_vi": "Inspect bảng thông tin",
+    "new_translation_vi": "Kiểm tra máy tính bảng thông tin",
     "translator_note": ""
   },
   {
@@ -4471,7 +4471,7 @@
     "ai_reason": "",
     "source_en": "Enter the portal",
     "review_note": "",
-    "new_translation_vi": "Đi vào cổng không gian",
+    "new_translation_vi": "Đi vào cổng dịch chuyển",
     "translator_note": ""
   },
   {
@@ -4496,7 +4496,7 @@
     "ai_reason": "",
     "source_en": "Restore both rooms to the same state",
     "review_note": "",
-    "new_translation_vi": "Khôi phục cả hai phòng về cùng một trạng thái",
+    "new_translation_vi": "Khôi phục cả hai căn phòng về cùng một trạng thái",
     "translator_note": ""
   },
   {
@@ -4521,7 +4521,7 @@
     "ai_reason": "",
     "source_en": "Talk to the person outside the room",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với người bên ngoài phòng",
+    "new_translation_vi": "Trò chuyện với người bên ngoài căn phòng",
     "translator_note": ""
   },
   {
@@ -4546,7 +4546,7 @@
     "ai_reason": "",
     "source_en": "Proceed to the backup Analysis Room",
     "review_note": "",
-    "new_translation_vi": "Tiến vào Phòng Phân Tích dự phòng",
+    "new_translation_vi": "Đi đến Phòng Phân Tích dự phòng",
     "translator_note": ""
   },
   {
@@ -4571,7 +4571,7 @@
     "ai_reason": "",
     "source_en": "At the entrance to a sealed room on the lower level, a malfunctioning robot keeps repeating fragmented instructions. Communicate with it to uncover the hidden story concealed within this room.",
     "review_note": "",
-    "new_translation_vi": "Tại lối vào một căn phòng bị phong ấn ở tầng dưới, một con robot hỏng liên tục lặp lại những mệnh lệnh rời rạc. Hãy giao tiếp với nó để khám phá câu chuyện ẩn giấu trong căn phòng này.",
+    "new_translation_vi": "Tại lối vào một căn phòng bị niêm phong ở tầng dưới, một robot bị lỗi cứ lặp đi lặp lại những chỉ dẫn rời rạc. Hãy giao tiếp với nó để khám phá câu chuyện ẩn giấu bên trong căn phòng này.",
     "translator_note": ""
   },
   {
@@ -4596,7 +4596,7 @@
     "ai_reason": "",
     "source_en": "Boundary of Deduction",
     "review_note": "",
-    "new_translation_vi": "Giới Hạn Deduction",
+    "new_translation_vi": "Ranh giới suy luận",
     "translator_note": ""
   },
   {
@@ -4646,7 +4646,7 @@
     "ai_reason": "",
     "source_en": "Reach the second location visited by the knight",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm thứ hai hiệp sĩ từng ghé thăm",
+    "new_translation_vi": "Đến địa điểm thứ hai mà hiệp sĩ đã ghé qua",
     "translator_note": ""
   },
   {
@@ -4661,7 +4661,6 @@
     "primary_key": "Quest_147000000_ChildQuestTip_147_12",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4671,8 +4670,9 @@
     "ai_reason": "",
     "source_en": "Head to the source of the strange scent (Suggestion: Equip Questless Knight Echo)",
     "review_note": "",
-    "new_translation_vi": "Đến nơi có mùi lạ (Suggestion: Equip Echo Hiệp Sĩ Vô Nhiệm)",
-    "translator_note": ""
+    "new_translation_vi": "Đến nguồn gốc của mùi lạ (Gợi ý: Trang bị Questless Knight Echo)",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014188",
@@ -4696,7 +4696,7 @@
     "ai_reason": "",
     "source_en": "Defeat the TDs",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt lũ Tacet Discord",
+    "new_translation_vi": "Đánh bại các TD",
     "translator_note": ""
   },
   {
@@ -4736,7 +4736,6 @@
     "primary_key": "Quest_147000000_ChildQuestTip_147_53",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4746,8 +4745,9 @@
     "ai_reason": "",
     "source_en": "Check on Carlow (Daytime)",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra tình hình Carlow (Ban ngày)",
-    "translator_note": ""
+    "new_translation_vi": "Kiểm tra Carlow (Ban ngày)",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014191",
@@ -4771,7 +4771,7 @@
     "ai_reason": "",
     "source_en": "Go to the highest vantage point of the town",
     "review_note": "",
-    "new_translation_vi": "Lên điểm cao nhất của thị trấn",
+    "new_translation_vi": "Đi đến điểm cao nhất của thị trấn",
     "translator_note": ""
   },
   {
@@ -4796,7 +4796,7 @@
     "ai_reason": "",
     "source_en": "Wait for the Night Reveries (18:00 to 06:00 the next day)",
     "review_note": "",
-    "new_translation_vi": "Chờ Night Mộng Ảo (18:00 đến 06:00 ngày hôm sau)",
+    "new_translation_vi": "Chờ đợi Night Reveries (18:00 đến 06:00 ngày hôm sau)",
     "translator_note": ""
   },
   {
@@ -4811,7 +4811,6 @@
     "primary_key": "Quest_147000000_ChildQuestTip_147_75",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4821,8 +4820,9 @@
     "ai_reason": "",
     "source_en": "Find Carlow beneath the large tree outside the town",
     "review_note": "",
-    "new_translation_vi": "Tìm Carlow dưới gốc cây lớn ngoài thị trấn",
-    "translator_note": ""
+    "new_translation_vi": "Tìm Carlow dưới gốc cây lớn bên ngoài thị trấn",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014194",
@@ -4846,7 +4846,7 @@
     "ai_reason": "",
     "source_en": "Participate in the Night Reveries (18:00 to 06:00 the next day)",
     "review_note": "",
-    "new_translation_vi": "Tham gia \"Những Giấc Mơ Night\" (18:00 đến 06:00 ngày hôm sau).",
+    "new_translation_vi": "Tham gia Night Reveries (18:00 đến 06:00 ngày hôm sau)",
     "translator_note": ""
   },
   {
@@ -4871,7 +4871,7 @@
     "ai_reason": "",
     "source_en": "Touch the Primordia Bloom",
     "review_note": "",
-    "new_translation_vi": "Touch vào Bông Nguyên Sinh",
+    "new_translation_vi": "Chạm vào Primordia Bloom",
     "translator_note": ""
   },
   {
@@ -4886,7 +4886,6 @@
     "primary_key": "Quest_147000000_ChildQuestTip_147_78",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4896,8 +4895,9 @@
     "ai_reason": "",
     "source_en": "Jump to the destination using Cuddle Wuddle's ability",
     "review_note": "",
-    "new_translation_vi": "Dùng khả năng của Cuddle Wuddle để nhảy đến điểm đến",
-    "translator_note": ""
+    "new_translation_vi": "Nhảy đến đích bằng khả năng của Cuddle Wuddle",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014197",
@@ -4911,7 +4911,6 @@
     "primary_key": "Quest_147000000_ChildQuestTip_153_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4921,8 +4920,9 @@
     "ai_reason": "",
     "source_en": "Head to the source of the strange scent (Suggestion: Equip Questless Knight Echo)",
     "review_note": "",
-    "new_translation_vi": "Đến nơi có mùi lạ (Suggestion: Equip Echo Hiệp Sĩ Vô Nhiệm)",
-    "translator_note": ""
+    "new_translation_vi": "Đến nguồn gốc của mùi lạ (Gợi ý: Trang bị Questless Knight Echo)",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014198",
@@ -4936,7 +4936,6 @@
     "primary_key": "Quest_147000000_ChildQuestTip_153_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4946,8 +4945,9 @@
     "ai_reason": "",
     "source_en": "Head to the source of the strange scent (Suggestion: Equip Questless Knight Echo)",
     "review_note": "",
-    "new_translation_vi": "Đến nơi có mùi lạ (Suggestion: Equip Echo Hiệp Sĩ Vô Nhiệm)",
-    "translator_note": ""
+    "new_translation_vi": "Đến nguồn gốc của mùi lạ (Gợi ý: Trang bị Questless Knight Echo)",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014199",
@@ -4961,7 +4961,6 @@
     "primary_key": "Quest_147000000_ChildQuestTip_153_6",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4971,8 +4970,9 @@
     "ai_reason": "",
     "source_en": "Talk to Cosimo (Daytime)",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Cosimo (Ban ngày)",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Cosimo (Ban ngày)",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014200",
@@ -4996,7 +4996,7 @@
     "ai_reason": "",
     "source_en": "Return to the \"Realm of Chests\"",
     "review_note": "",
-    "new_translation_vi": "Return \"Vương Quốc Rương\"",
+    "new_translation_vi": "Quay lại \"Realm of Chests\"",
     "translator_note": ""
   },
   {
@@ -5011,7 +5011,6 @@
     "primary_key": "Quest_147000000_QuestAliasDesc_147_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5021,8 +5020,9 @@
     "ai_reason": "",
     "source_en": "You learn from Cosimo about the Night Reveries of the town and decide to see the fabled \"Mad Knight\" for yourself.\n\n<color=highlight>Hidden rewards can be found in this area.</color>",
     "review_note": "",
-    "new_translation_vi": "Bạn nghe Cosimo kể về những Night Mộng Mị của thị trấn và quyết định tự mình tìm gặp \"Mad Knight\" huyền thoại.\n\n<color=highlight>Có thể tìm thấy phần thưởng ẩn trong khu vực này.</color>",
-    "translator_note": ""
+    "new_translation_vi": "Bạn biết được từ Cosimo về những giấc mơ đêm của thị trấn và quyết định tự mình đi tìm \"Mad Knight\" trong truyền thuyết.\\n\\n<color=highlight>Có thể tìm thấy phần thưởng ẩn trong khu vực này.</color>",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014202",
@@ -5036,7 +5036,6 @@
     "primary_key": "Quest_147000000_QuestAliasDesc_147_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5046,8 +5045,9 @@
     "ai_reason": "",
     "source_en": "There seems to be an argument outside Egla Town. Go and see what's going on.\n\n<color=highlight>Hidden rewards can be found in this area.</color>",
     "review_note": "",
-    "new_translation_vi": "Ngoài thị trấn Egla hình như đang có tranh cãi. Đi xem thử nào.\n\n<color=highlight>Khu vực này có thể có phần thưởng ẩn.</color>",
-    "translator_note": ""
+    "new_translation_vi": "Có vẻ như đang có một cuộc tranh cãi bên ngoài thị trấn Egla. Hãy đến xem chuyện gì đang xảy ra.\\n\\n<color=highlight>Có thể tìm thấy phần thưởng ẩn trong khu vực này.</color>",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014203",
@@ -5071,7 +5071,7 @@
     "ai_reason": "",
     "source_en": "Defeat the \"Mad Knight\" (Nighttime)\n\n<color=highlight>Hidden rewards can be found in this area.</color>",
     "review_note": "",
-    "new_translation_vi": "Đánh bại \"Mad Knight\" (Ban đêm)\n\n<color=highlight>Có thể tìm thấy phần thưởng ẩn trong khu vực này.</color>",
+    "new_translation_vi": "Đánh bại \"Mad Knight\" (Ban đêm)\\n\\n<color=highlight>Có thể tìm thấy phần thưởng ẩn trong khu vực này.</color>",
     "translator_note": ""
   },
   {
@@ -5086,7 +5086,6 @@
     "primary_key": "Quest_147000000_QuestDesc_147_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5096,8 +5095,9 @@
     "ai_reason": "",
     "source_en": "In Egla Town, you hear legends of the \"Night Reveries\" and a \"Mad Knight.\" You decide to investigate these stories.\n\n<color=highlight>Hidden rewards can be found in this area.</color>",
     "review_note": "",
-    "new_translation_vi": "Tại Thị trấn Egla, ngươi nghe kể về truyền thuyết \"Những Giấc Mơ Night\" và \"Mad Knight\". Ngươi quyết định điều tra những câu chuyện này.\n\n<color=highlight>Có thể tìm thấy phần thưởng ẩn trong khu vực này.</color>",
-    "translator_note": ""
+    "new_translation_vi": "Tại thị trấn Egla, bạn nghe kể về những truyền thuyết về \"Night Reveries\" và \"Mad Knight\". Bạn quyết định điều tra những câu chuyện này.\\n\\n<color=highlight>Có thể tìm thấy phần thưởng ẩn trong khu vực này.</color>",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014205",
@@ -5146,7 +5146,7 @@
     "ai_reason": "",
     "source_en": "Meet Lorenzo at the usual place",
     "review_note": "",
-    "new_translation_vi": "Gặp Lorenzo tại chỗ quen thuộc",
+    "new_translation_vi": "Gặp Lorenzo tại địa điểm quen thuộc",
     "translator_note": ""
   },
   {
@@ -5196,7 +5196,7 @@
     "ai_reason": "",
     "source_en": "Chalulu has reached the ideal spot for photographing the graffiti. Find her and follow her guidance to take photos.",
     "review_note": "",
-    "new_translation_vi": "Chalulu đã tìm được vị trí lý tưởng để chụp hình những bức graffiti. Hãy tìm cô ấy và làm theo hướng dẫn để chụp ảnh.",
+    "new_translation_vi": "Chalulu đã đến vị trí lý tưởng để chụp ảnh graffiti. Hãy tìm cô ấy và làm theo hướng dẫn để chụp ảnh.",
     "translator_note": ""
   },
   {
@@ -5221,7 +5221,7 @@
     "ai_reason": "",
     "source_en": "Take five photos of graffiti with Chalulu",
     "review_note": "",
-    "new_translation_vi": "Chụp năm bức ảnh về những hình vẽ bậy cùng Chalulu đi",
+    "new_translation_vi": "Chụp năm bức ảnh graffiti cùng Chalulu",
     "translator_note": ""
   },
   {
@@ -5246,7 +5246,7 @@
     "ai_reason": "",
     "source_en": "Investigate the stone book statue",
     "review_note": "",
-    "new_translation_vi": "Điều tra bức tượng sách bằng đá",
+    "new_translation_vi": "Điều tra bức tượng cuốn sách đá",
     "translator_note": ""
   },
   {
@@ -5271,7 +5271,7 @@
     "ai_reason": "",
     "source_en": "Investigate the stone book statue",
     "review_note": "",
-    "new_translation_vi": "Điều tra bức tượng sách bằng đá",
+    "new_translation_vi": "Điều tra bức tượng cuốn sách đá",
     "translator_note": ""
   },
   {
@@ -5296,7 +5296,7 @@
     "ai_reason": "",
     "source_en": "Collect the Pages along the trail",
     "review_note": "",
-    "new_translation_vi": "Thu thập các Trang giấy dọc đường",
+    "new_translation_vi": "Thu thập các trang sách dọc theo con đường",
     "translator_note": ""
   },
   {
@@ -5321,7 +5321,7 @@
     "ai_reason": "",
     "source_en": "Collect the Pages along the trail",
     "review_note": "",
-    "new_translation_vi": "Thu thập các Trang giấy dọc đường",
+    "new_translation_vi": "Thu thập các trang sách dọc theo con đường",
     "translator_note": ""
   },
   {
@@ -5346,7 +5346,7 @@
     "ai_reason": "",
     "source_en": "Collect the Pages along the trail",
     "review_note": "",
-    "new_translation_vi": "Thu thập các Trang giấy dọc đường",
+    "new_translation_vi": "Thu thập các trang sách dọc theo con đường",
     "translator_note": ""
   },
   {
@@ -5371,7 +5371,7 @@
     "ai_reason": "",
     "source_en": "Find the father and daughter in an argument",
     "review_note": "",
-    "new_translation_vi": "Tìm cha con đang cãi nhau",
+    "new_translation_vi": "Tìm hai cha con đang tranh cãi",
     "translator_note": ""
   },
   {
@@ -5396,7 +5396,7 @@
     "ai_reason": "",
     "source_en": "Head to the Titanbone Expanse",
     "review_note": "",
-    "new_translation_vi": "Đến Titanbone Expanse",
+    "new_translation_vi": "Đi đến Titanbone Expanse",
     "translator_note": ""
   },
   {
@@ -5421,7 +5421,7 @@
     "ai_reason": "",
     "source_en": "Head to the Ashen Dragon's Crypt",
     "review_note": "",
-    "new_translation_vi": "Đến Hầm Mộ Dragon Tro",
+    "new_translation_vi": "Đi đến Ashen Dragon's Crypt",
     "translator_note": ""
   },
   {
@@ -5436,7 +5436,6 @@
     "primary_key": "Quest_936850001_ChildQuestTip_936_32",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5446,8 +5445,9 @@
     "ai_reason": "",
     "source_en": "Head to the Statue of Fabius the Hero",
     "review_note": "",
-    "new_translation_vi": "Đến Tượng Đài Anh Hùng Fabius",
-    "translator_note": ""
+    "new_translation_vi": "Đi đến bức tượng Anh Hùng Fabius",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014219",
@@ -5471,7 +5471,7 @@
     "ai_reason": "",
     "source_en": "Head to the Capitoline Hill",
     "review_note": "",
-    "new_translation_vi": "Đến Capitoline Hill",
+    "new_translation_vi": "Đi đến Capitoline Hill",
     "translator_note": ""
   },
   {
@@ -5496,7 +5496,7 @@
     "ai_reason": "",
     "source_en": "Head to Colosseum Olymdos",
     "review_note": "",
-    "new_translation_vi": "Đến Colosseum Olymdos",
+    "new_translation_vi": "Đi đến Colosseum Olymdos",
     "translator_note": ""
   },
   {
@@ -5546,7 +5546,7 @@
     "ai_reason": "",
     "source_en": "Reach the first photography location",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm chụp ảnh đầu tiên",
+    "new_translation_vi": "Đến vị trí chụp ảnh đầu tiên",
     "translator_note": ""
   },
   {
@@ -5571,7 +5571,7 @@
     "ai_reason": "",
     "source_en": "Reach the second photography location",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm chụp ảnh thứ hai",
+    "new_translation_vi": "Đến vị trí chụp ảnh thứ hai",
     "translator_note": ""
   },
   {
@@ -5596,7 +5596,7 @@
     "ai_reason": "",
     "source_en": "Reach the third photography location",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm chụp ảnh thứ ba",
+    "new_translation_vi": "Đến vị trí chụp ảnh thứ ba",
     "translator_note": ""
   },
   {
@@ -5621,7 +5621,7 @@
     "ai_reason": "",
     "source_en": "Reach the fourth photography location",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm chụp ảnh thứ tư",
+    "new_translation_vi": "Đến vị trí chụp ảnh thứ tư",
     "translator_note": ""
   },
   {
@@ -5646,7 +5646,7 @@
     "ai_reason": "",
     "source_en": "Reach the fifth photography location",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm chụp ảnh thứ năm",
+    "new_translation_vi": "Đến vị trí chụp ảnh thứ năm",
     "translator_note": ""
   },
   {
@@ -5671,7 +5671,7 @@
     "ai_reason": "",
     "source_en": "Reach the sixth photography location",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm chụp ảnh thứ sáu",
+    "new_translation_vi": "Đến vị trí chụp ảnh thứ sáu",
     "translator_note": ""
   },
   {
@@ -5696,7 +5696,7 @@
     "ai_reason": "",
     "source_en": "Photograph the Ashen Dragon's Crypt",
     "review_note": "",
-    "new_translation_vi": "Chụp lại Ashen Dragon's Crypt",
+    "new_translation_vi": "Chụp ảnh Ashen Dragon's Crypt",
     "translator_note": ""
   },
   {
@@ -5721,7 +5721,7 @@
     "ai_reason": "",
     "source_en": "Photograph Mournfell Canyon",
     "review_note": "",
-    "new_translation_vi": "Ảnh chụp Mournfell Canyon",
+    "new_translation_vi": "Chụp ảnh Mournfell Canyon",
     "translator_note": ""
   },
   {
@@ -5736,7 +5736,6 @@
     "primary_key": "Quest_936850001_ChildQuestTip_936_52",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5746,8 +5745,9 @@
     "ai_reason": "",
     "source_en": "Photograph the Statue of Fabius the Hero",
     "review_note": "",
-    "new_translation_vi": "Chụp lại Tượng Anh Hùng Fabius",
-    "translator_note": ""
+    "new_translation_vi": "Chụp ảnh bức tượng Anh Hùng Fabius",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014231",
@@ -5771,7 +5771,7 @@
     "ai_reason": "",
     "source_en": "Photograph Capitoline Hill",
     "review_note": "",
-    "new_translation_vi": "Ảnh chụp Capitoline Hill",
+    "new_translation_vi": "Chụp ảnh Capitoline Hill",
     "translator_note": ""
   },
   {
@@ -5796,7 +5796,7 @@
     "ai_reason": "",
     "source_en": "Photograph Colosseum Olymdos",
     "review_note": "",
-    "new_translation_vi": "Ảnh chụp Colosseum Olymdos",
+    "new_translation_vi": "Chụp ảnh Colosseum Olymdos",
     "translator_note": ""
   },
   {
@@ -5821,7 +5821,7 @@
     "ai_reason": "",
     "source_en": "Help the Gladiator in trouble",
     "review_note": "",
-    "new_translation_vi": "Giúp đỡ Gladiator gặp khó khăn",
+    "new_translation_vi": "Giúp đỡ đấu sĩ đang gặp khó khăn",
     "translator_note": ""
   },
   {
@@ -5836,7 +5836,6 @@
     "primary_key": "Quest_936850001_ChildQuestTip_936_61",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5846,8 +5845,9 @@
     "ai_reason": "",
     "source_en": "Talk to Postumia (optional)",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Postumia (tùy chọn)",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Postumia (tùy chọn)",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014235",
@@ -5871,7 +5871,7 @@
     "ai_reason": "",
     "source_en": "Look for Ta-da",
     "review_note": "",
-    "new_translation_vi": "Tìm Ta-da",
+    "new_translation_vi": "Tìm kiếm Ta-da",
     "translator_note": ""
   },
   {
@@ -5896,7 +5896,7 @@
     "ai_reason": "",
     "source_en": "Go to Capitoline Hill",
     "review_note": "",
-    "new_translation_vi": "Đến Capitoline Hill",
+    "new_translation_vi": "Đi đến Capitoline Hill",
     "translator_note": ""
   },
   {
@@ -5911,7 +5911,6 @@
     "primary_key": "Quest_936850001_ChildQuestTip_936_65",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5921,8 +5920,9 @@
     "ai_reason": "",
     "source_en": "Talk to Nicus",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Nicus",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Nicus",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014238",
@@ -5946,7 +5946,7 @@
     "ai_reason": "",
     "source_en": "Go to Mournfell Canyon",
     "review_note": "",
-    "new_translation_vi": "Đến Mournfell Canyon",
+    "new_translation_vi": "Đi đến Mournfell Canyon",
     "translator_note": ""
   },
   {
@@ -5971,7 +5971,7 @@
     "ai_reason": "",
     "source_en": "Use Sensor to locate Ta-da",
     "review_note": "",
-    "new_translation_vi": "Dùng Sensor để xác định vị trí Ta-da",
+    "new_translation_vi": "Sử dụng Sensor để xác định vị trí Ta-da",
     "translator_note": ""
   },
   {
@@ -5986,7 +5986,6 @@
     "primary_key": "Quest_936850001_ChildQuestTip_936_79",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5996,8 +5995,9 @@
     "ai_reason": "",
     "source_en": "Take the Wingray (optional)",
     "review_note": "",
-    "new_translation_vi": "Đi bằng Wingray (tùy chọn)",
-    "translator_note": ""
+    "new_translation_vi": "Lấy Wingray (tùy chọn)",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014241",
@@ -6021,7 +6021,7 @@
     "ai_reason": "",
     "source_en": "Ask why they're arguing",
     "review_note": "",
-    "new_translation_vi": "Hỏi lý do họ cãi nhau",
+    "new_translation_vi": "Hỏi lý do họ tranh cãi",
     "translator_note": ""
   },
   {
@@ -6071,7 +6071,7 @@
     "ai_reason": "",
     "source_en": "Photograph the Ashen Dragon's Crypt",
     "review_note": "",
-    "new_translation_vi": "Chụp lại Ashen Dragon's Crypt",
+    "new_translation_vi": "Chụp ảnh Ashen Dragon's Crypt",
     "translator_note": ""
   },
   {
@@ -6086,7 +6086,6 @@
     "primary_key": "Quest_936850001_InteractContent_936_11",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6096,8 +6095,9 @@
     "ai_reason": "",
     "source_en": "Talk to Postumia",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Postumia",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Postumia",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014245",
@@ -6111,7 +6111,6 @@
     "primary_key": "Quest_936850001_InteractContent_936_12",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6121,8 +6120,9 @@
     "ai_reason": "",
     "source_en": "Talk to Nicus",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Nicus",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Nicus",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014246",
@@ -6136,18 +6136,18 @@
     "primary_key": "Quest_936850001_InteractContent_936_13",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Nicus",
     "review_note": "",
     "new_translation_vi": "Nicus",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "QUEST_0014247",
@@ -6161,7 +6161,6 @@
     "primary_key": "Quest_936850001_QuestDesc_936_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6171,8 +6170,9 @@
     "ai_reason": "",
     "source_en": "The clouds above bear witness to echoing battle cries, the wild lands remember the footsteps of warriors, and rushing currents carry the fiery passion of the brave. Here, every corner holds shining tributes to a glorious history. The towering cities, spires, and mighty walls forged by the people of the Septimont stand as enduring proof of their strength and resolve.\n\nAt the harbor, you meet a quarreling father and daughter. This unexpected encounter sets you on a journey to uncover the rich history of Septimont...",
     "review_note": "",
-    "new_translation_vi": "Những đám mây trên cao chứng kiến tiếng hô chiến đấu vang dội, vùng đất hoang nhớ từng bước chân của chiến binh, dòng nước chảy xiết mang theo ngọn lửa nhiệt huyết của kẻ dũng cảm. Nơi đây, mỗi góc phố đều lưu giữ những dấu ấn rực rỡ của một lịch sử hào hùng. Những thành phố cao chót vót, những ngọn tháp và bức tường vững chãi do người Septimont dựng nên chính là minh chứng bất diệt cho sức mạnh và ý chí của họ.\n\nTại bến cảng, cậu gặp một người cha và con gái đang cãi nhau. Cuộc gặp gỡ bất ngờ này đã mở ra hành trình khám phá lịch sử phong phú của Septimont...",
-    "translator_note": ""
+    "new_translation_vi": "Những đám mây phía trên chứng kiến những tiếng thét vang dội của trận chiến, vùng đất hoang dã ghi nhớ dấu chân của những chiến binh, và những dòng chảy xiết mang theo niềm đam mê rực lửa của những người dũng cảm. Tại đây, mỗi góc nhỏ đều chứa đựng những lời tri ân sáng ngời cho một lịch sử huy hoàng. Những thành phố cao chót vót, những ngọn tháp và những bức tường thành hùng vĩ được tạo nên bởi người dân Septimont là minh chứng bền bỉ cho sức mạnh và quyết tâm của họ.\\n\\nTại bến cảng, bạn gặp hai cha con đang tranh cãi. Cuộc gặp gỡ bất ngờ này đưa bạn vào một hành trình khám phá lịch sử phong phú của Septimont...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014248",
@@ -6196,7 +6196,7 @@
     "ai_reason": "",
     "source_en": "Uncovering Past Heroes",
     "review_note": "",
-    "new_translation_vi": "Khám Phá Anh Hùng Xưa",
+    "new_translation_vi": "Khám Phá Những Anh Hùng Quá Khứ",
     "translator_note": ""
   },
   {
@@ -6211,7 +6211,6 @@
     "primary_key": "Quest_936850001_QuestScheduleSubTitle_936_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6221,8 +6220,9 @@
     "ai_reason": "",
     "source_en": "Head to the Statue of Fabius the Hero",
     "review_note": "",
-    "new_translation_vi": "Đến Tượng Đài Anh Hùng Fabius",
-    "translator_note": ""
+    "new_translation_vi": "Đi đến bức tượng Anh Hùng Fabius",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014250",
@@ -6236,7 +6236,6 @@
     "primary_key": "Quest_936850001_QuestScheduleSubTitle_936_5",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6246,8 +6245,9 @@
     "ai_reason": "",
     "source_en": "Fast Travel to the photo location for the Statue of Fabius the Hero (optional)",
     "review_note": "",
-    "new_translation_vi": "Dịch chuyển nhanh đến địa điểm chụp ảnh tại Tượng Fabius Anh Hùng (tùy chọn)",
-    "translator_note": ""
+    "new_translation_vi": "Dịch chuyển nhanh đến vị trí chụp ảnh bức tượng Anh Hùng Fabius (tùy chọn)",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014251",
@@ -6271,7 +6271,7 @@
     "ai_reason": "",
     "source_en": "Go to Capitoline Hill",
     "review_note": "",
-    "new_translation_vi": "Đến Capitoline Hill",
+    "new_translation_vi": "Đi đến Capitoline Hill",
     "translator_note": ""
   },
   {
@@ -6296,7 +6296,7 @@
     "ai_reason": "",
     "source_en": "Fast Travel to the photo location for Capitoline Hill (optional)",
     "review_note": "",
-    "new_translation_vi": "Dịch chuyển nhanh đến địa điểm chụp ảnh tại Capitoline Hill (tùy chọn)",
+    "new_translation_vi": "Dịch chuyển nhanh đến vị trí chụp ảnh Capitoline Hill (tùy chọn)",
     "translator_note": ""
   },
   {
@@ -6321,7 +6321,7 @@
     "ai_reason": "",
     "source_en": "Go to the photo location",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm chụp ảnh",
+    "new_translation_vi": "Đi đến vị trí chụp ảnh",
     "translator_note": ""
   },
   {
@@ -6346,7 +6346,7 @@
     "ai_reason": "",
     "source_en": "Go to the photo location",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm chụp ảnh",
+    "new_translation_vi": "Đi đến vị trí chụp ảnh",
     "translator_note": ""
   },
   {
@@ -6371,7 +6371,7 @@
     "ai_reason": "",
     "source_en": "Go to the photo location",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm chụp ảnh",
+    "new_translation_vi": "Đi đến vị trí chụp ảnh",
     "translator_note": ""
   },
   {
@@ -6396,7 +6396,7 @@
     "ai_reason": "",
     "source_en": "Go to the photo location",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm chụp ảnh",
+    "new_translation_vi": "Đi đến vị trí chụp ảnh",
     "translator_note": ""
   },
   {
@@ -6421,7 +6421,7 @@
     "ai_reason": "",
     "source_en": "Go to the photo location",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm chụp ảnh",
+    "new_translation_vi": "Đi đến vị trí chụp ảnh",
     "translator_note": ""
   },
   {
@@ -6446,7 +6446,7 @@
     "ai_reason": "",
     "source_en": "Go to the photo location",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm chụp ảnh",
+    "new_translation_vi": "Đi đến vị trí chụp ảnh",
     "translator_note": ""
   },
   {
@@ -6496,7 +6496,7 @@
     "ai_reason": "",
     "source_en": "Photograph the Ashen Dragon's Crypt",
     "review_note": "",
-    "new_translation_vi": "Chụp lại Ashen Dragon's Crypt",
+    "new_translation_vi": "Chụp ảnh Ashen Dragon's Crypt",
     "translator_note": ""
   },
   {
@@ -6521,7 +6521,7 @@
     "ai_reason": "",
     "source_en": "Photograph Mournfell Canyon",
     "review_note": "",
-    "new_translation_vi": "Ảnh chụp Mournfell Canyon",
+    "new_translation_vi": "Chụp ảnh Mournfell Canyon",
     "translator_note": ""
   },
   {
@@ -6536,7 +6536,6 @@
     "primary_key": "Quest_936850001_TakePhotoTargetsDescription_936_9",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6546,8 +6545,9 @@
     "ai_reason": "",
     "source_en": "Photograph the Statue of Fabius the Hero",
     "review_note": "",
-    "new_translation_vi": "Chụp lại Tượng Anh Hùng Fabius",
-    "translator_note": ""
+    "new_translation_vi": "Chụp ảnh bức tượng Anh Hùng Fabius",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014263",
@@ -6571,7 +6571,7 @@
     "ai_reason": "",
     "source_en": "Photograph Capitoline Hill",
     "review_note": "",
-    "new_translation_vi": "Ảnh chụp Capitoline Hill",
+    "new_translation_vi": "Chụp ảnh Capitoline Hill",
     "translator_note": ""
   },
   {
@@ -6596,7 +6596,7 @@
     "ai_reason": "",
     "source_en": "Photograph Colosseum Olymdos",
     "review_note": "",
-    "new_translation_vi": "Ảnh chụp Colosseum Olymdos",
+    "new_translation_vi": "Chụp ảnh Colosseum Olymdos",
     "translator_note": ""
   },
   {
@@ -6611,7 +6611,6 @@
     "primary_key": "Quest_133000011_ChildQuestTip_133_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6621,8 +6620,9 @@
     "ai_reason": "",
     "source_en": "Go to Breen the Screen",
     "review_note": "",
-    "new_translation_vi": "Đến Breen the Screen",
-    "translator_note": ""
+    "new_translation_vi": "Đi đến Breen the Screen",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014266",
@@ -6636,7 +6636,6 @@
     "primary_key": "Quest_133000011_QuestDesc_133_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6646,8 +6645,9 @@
     "ai_reason": "",
     "source_en": "The Septimont authorities are holding challenge matches in the Old District. Brave gladiator, seize the glory!",
     "review_note": "",
-    "new_translation_vi": "Nhà chức trách Septimont đang tổ chức các trận đấu thử thách ở Khu Phố Cũ. Hỡi chiến binh dũng cảm, hãy nắm lấy vinh quang!",
-    "translator_note": ""
+    "new_translation_vi": "Chính quyền Septimont đang tổ chức các trận đấu thử thách tại Old District. Đấu sĩ dũng cảm, hãy nắm lấy vinh quang!",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014267",
@@ -6671,7 +6671,7 @@
     "ai_reason": "",
     "source_en": "Banners Never Fall",
     "review_note": "",
-    "new_translation_vi": "Lá Cờ Không Bao Giờ Rơi",
+    "new_translation_vi": "Banners Never Fall",
     "translator_note": ""
   },
   {
@@ -6686,7 +6686,6 @@
     "primary_key": "Quest_133850000_ChildQuestTip_133_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6696,8 +6695,9 @@
     "ai_reason": "",
     "source_en": "Go to Breen the Screen",
     "review_note": "",
-    "new_translation_vi": "Đến Breen the Screen",
-    "translator_note": ""
+    "new_translation_vi": "Đi đến Breen the Screen",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014269",
@@ -6721,7 +6721,7 @@
     "ai_reason": "",
     "source_en": "The \"Banners Never Fall\" Challenges is about to end. Brave Gladiator, it's time to claim your glory!",
     "review_note": "",
-    "new_translation_vi": "\"Thách Đấu 'Ngọn Cờ Bất Diệt'\" sắp kết thúc. Hỡi Chiến Binh dũng cảm, đã đến lúc đòi lấy vinh quang của ngươi!",
+    "new_translation_vi": "Thử thách \"Banners Never Fall\" sắp kết thúc. Đấu sĩ dũng cảm, đã đến lúc giành lấy vinh quang của bạn!",
     "translator_note": ""
   },
   {
@@ -6746,7 +6746,7 @@
     "ai_reason": "",
     "source_en": "Banners Never Fall",
     "review_note": "",
-    "new_translation_vi": "Lá Cờ Không Bao Giờ Rơi",
+    "new_translation_vi": "Banners Never Fall",
     "translator_note": ""
   },
   {
@@ -6771,7 +6771,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 1 (Lv. 1-40 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 1 (Gợi ý cấp 1-40)",
+    "new_translation_vi": "Kích hoạt Banner 1 (Khuyên dùng Lv. 1-40)",
     "translator_note": ""
   },
   {
@@ -6796,7 +6796,7 @@
     "ai_reason": "",
     "source_en": "Explore the city to increase Glory Level",
     "review_note": "",
-    "new_translation_vi": "Explore thành phố để tăng Cấp Độ Glory",
+    "new_translation_vi": "Khám phá thành phố để tăng Cấp Vinh Quang",
     "translator_note": ""
   },
   {
@@ -6821,7 +6821,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 2 (Lv. 40-70 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 2 (Gợi ý cấp 40-70)",
+    "new_translation_vi": "Kích hoạt Banner 2 (Khuyên dùng Lv. 40-70)",
     "translator_note": ""
   },
   {
@@ -6846,7 +6846,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 3 (Lv. 71-100 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 3 (Gợi ý cấp 71-100)",
+    "new_translation_vi": "Kích hoạt Banner 3 (Khuyên dùng Lv. 71-100)",
     "translator_note": ""
   },
   {
@@ -6871,7 +6871,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Elite in Challenge Zone I",
     "review_note": "",
-    "new_translation_vi": "Hạ gục Kẻ Mạnh trong Khu Challenge I",
+    "new_translation_vi": "Đánh bại Elite trong Khu Vực Thử Thách I",
     "translator_note": ""
   },
   {
@@ -6896,7 +6896,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Elite in Challenge Zone I",
     "review_note": "",
-    "new_translation_vi": "Hạ gục Kẻ Mạnh trong Khu Challenge I",
+    "new_translation_vi": "Đánh bại Elite trong Khu Vực Thử Thách I",
     "translator_note": ""
   },
   {
@@ -6946,7 +6946,7 @@
     "ai_reason": "",
     "source_en": "Banners Never Fall",
     "review_note": "",
-    "new_translation_vi": "Lá Cờ Không Bao Giờ Rơi",
+    "new_translation_vi": "Banners Never Fall",
     "translator_note": ""
   },
   {
@@ -6971,7 +6971,7 @@
     "ai_reason": "",
     "source_en": "Explore the Challenge Zones and defeat the Elites ({q_count}/5)",
     "review_note": "",
-    "new_translation_vi": "Explore các Khu Vực Challenge và đánh bại các Tinh Anh ({q_count}/5)",
+    "new_translation_vi": "Khám phá các Khu Vực Thử Thách và đánh bại các Elite ({q_count}/5)",
     "translator_note": ""
   },
   {
@@ -6996,7 +6996,7 @@
     "ai_reason": "",
     "source_en": "Explore the Challenge Zones and defeat the Elites ({q_count}/5)",
     "review_note": "",
-    "new_translation_vi": "Explore các Khu Vực Challenge và đánh bại các Tinh Anh ({q_count}/5)",
+    "new_translation_vi": "Khám phá các Khu Vực Thử Thách và đánh bại các Elite ({q_count}/5)",
     "translator_note": ""
   },
   {
@@ -7021,7 +7021,7 @@
     "ai_reason": "",
     "source_en": "Explore the Challenge Zones and defeat the Elites ({q_count}/5)",
     "review_note": "",
-    "new_translation_vi": "Explore các Khu Vực Challenge và đánh bại các Tinh Anh ({q_count}/5)",
+    "new_translation_vi": "Khám phá Khu vực Thử thách và đánh bại các Elite ({q_count}/5)",
     "translator_note": ""
   },
   {
@@ -7046,7 +7046,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 1 (Lv. 1-40 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 1 (Gợi ý cấp 1-40)",
+    "new_translation_vi": "Kích hoạt Banner 1 (Khuyên dùng cấp 1-40)",
     "translator_note": ""
   },
   {
@@ -7071,7 +7071,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 2 (Lv. 40-70 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 2 (Gợi ý cấp 40-70)",
+    "new_translation_vi": "Kích hoạt Banner 2 (Khuyên dùng cấp 40-70)",
     "translator_note": ""
   },
   {
@@ -7096,7 +7096,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 3 (Lv. 71-100 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 3 (Gợi ý cấp 71-100)",
+    "new_translation_vi": "Kích hoạt Banner 3 (Khuyên dùng cấp 71-100)",
     "translator_note": ""
   },
   {
@@ -7121,7 +7121,7 @@
     "ai_reason": "",
     "source_en": "Explore the Challenge Zone and increase Glory Level to 41-70",
     "review_note": "",
-    "new_translation_vi": "Explore Khu Vực Challenge và nâng Cấp Glory lên 41-70",
+    "new_translation_vi": "Khám phá Khu vực Thử thách và tăng Cấp Vinh quang lên 41-70",
     "translator_note": ""
   },
   {
@@ -7146,7 +7146,7 @@
     "ai_reason": "",
     "source_en": "Explore the Challenge Zone and increase Glory Level to 71-100",
     "review_note": "",
-    "new_translation_vi": "Explore Khu Vực Challenge và nâng Cấp Glory lên 71-100",
+    "new_translation_vi": "Khám phá Khu vực Thử thách và tăng Cấp Vinh quang lên 71-100",
     "translator_note": ""
   },
   {
@@ -7171,7 +7171,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 4 (Lv. 101-150 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 4 (Gợi ý cấp 101-150)",
+    "new_translation_vi": "Kích hoạt Banner 4 (Khuyên dùng cấp 101-150)",
     "translator_note": ""
   },
   {
@@ -7196,7 +7196,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 5 (Lv. 151-170 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 5 (Gợi ý cấp 151-170)",
+    "new_translation_vi": "Kích hoạt Banner 5 (Khuyên dùng cấp 151-170)",
     "translator_note": ""
   },
   {
@@ -7221,7 +7221,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 6 (Lv. 176-200 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 6 (Gợi ý cấp 176-200)",
+    "new_translation_vi": "Kích hoạt Banner 6 (Khuyên dùng cấp 176-200)",
     "translator_note": ""
   },
   {
@@ -7246,7 +7246,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 7 (Lv. 201-230 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 7 (Gợi ý cấp 201-230)",
+    "new_translation_vi": "Kích hoạt Banner 7 (Khuyên dùng cấp 201-230)",
     "translator_note": ""
   },
   {
@@ -7271,7 +7271,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 8 (Lv. 231-260 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 8 (Gợi ý cấp 231-260)",
+    "new_translation_vi": "Kích hoạt Banner 8 (Khuyên dùng cấp 231-260)",
     "translator_note": ""
   },
   {
@@ -7296,7 +7296,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 9 (Lv. 261-275 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 9 (Gợi ý cấp 261-275)",
+    "new_translation_vi": "Kích hoạt Banner 9 (Khuyên dùng cấp 261-275)",
     "translator_note": ""
   },
   {
@@ -7321,7 +7321,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 10 (Lv. 276-290 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 10 (Gợi ý cấp 276-290)",
+    "new_translation_vi": "Kích hoạt Banner 10 (Khuyên dùng cấp 276-290)",
     "translator_note": ""
   },
   {
@@ -7346,7 +7346,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 11 (Lv. 291-300 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 11 (Gợi ý cấp 291-300)",
+    "new_translation_vi": "Kích hoạt Banner 11 (Khuyên dùng cấp 291-300)",
     "translator_note": ""
   },
   {
@@ -7371,7 +7371,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 12 (Lv. 301-340 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 12 (Gợi ý cấp 301-340)",
+    "new_translation_vi": "Kích hoạt Banner 12 (Khuyên dùng cấp 301-340)",
     "translator_note": ""
   },
   {
@@ -7396,7 +7396,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 13 (Lv. 341-360 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 13 (Gợi ý cấp 341-360)",
+    "new_translation_vi": "Kích hoạt Banner 13 (Khuyên dùng cấp 341-360)",
     "translator_note": ""
   },
   {
@@ -7421,7 +7421,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 14 (Lv. 361-380 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 14 (Gợi ý cấp 361-380)",
+    "new_translation_vi": "Kích hoạt Banner 14 (Khuyên dùng cấp 361-380)",
     "translator_note": ""
   },
   {
@@ -7446,7 +7446,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 15 (Lv. 381-390 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 15 (Gợi ý cấp 381-390)",
+    "new_translation_vi": "Kích hoạt Banner 15 (Khuyên dùng cấp 381-390)",
     "translator_note": ""
   },
   {
@@ -7471,7 +7471,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 16 (Lv. 391-400 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 16 (Gợi ý cấp 391-400)",
+    "new_translation_vi": "Kích hoạt Banner 16 (Khuyên dùng cấp 391-400)",
     "translator_note": ""
   },
   {
@@ -7496,7 +7496,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 17 (Lv. 401-440 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 17 (Gợi ý cấp 401-440)",
+    "new_translation_vi": "Kích hoạt Banner 17 (Khuyên dùng cấp 401-440)",
     "translator_note": ""
   },
   {
@@ -7521,7 +7521,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 18 (Lv. 441-465 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 18 (Gợi ý cấp 441-465)",
+    "new_translation_vi": "Kích hoạt Banner 18 (Khuyên dùng cấp 441-465)",
     "translator_note": ""
   },
   {
@@ -7546,7 +7546,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 19 (Lv. 466-480 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 19 (Gợi ý cấp 466-480)",
+    "new_translation_vi": "Kích hoạt Banner 19 (Khuyên dùng cấp 466-480)",
     "translator_note": ""
   },
   {
@@ -7571,7 +7571,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 20 (Lv. 481-500 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 20 (Gợi ý cấp 481-500)",
+    "new_translation_vi": "Kích hoạt Banner 20 (Khuyên dùng cấp 481-500)",
     "translator_note": ""
   },
   {
@@ -7596,7 +7596,7 @@
     "ai_reason": "",
     "source_en": "Explore the city and increase your Glory Level",
     "review_note": "",
-    "new_translation_vi": "Explore thành phố và tăng Cấp Độ Glory của bạn",
+    "new_translation_vi": "Khám phá thành phố và tăng Cấp Vinh quang của bạn",
     "translator_note": ""
   },
   {
@@ -7611,7 +7611,6 @@
     "primary_key": "Quest_133850004_QuestDesc_133_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7621,8 +7620,9 @@
     "ai_reason": "",
     "source_en": "Warriors of Septimont... Explore the land, fight the strong foes, and set up banners of glory that never fall!",
     "review_note": "",
-    "new_translation_vi": "Hỡi các chiến binh của Septimont... Hãy thám hiểm mảnh đất này, chiến đấu với kẻ thù mạnh mẽ, và dựng lên những ngọn cờ vinh quang bất diệt!",
-    "translator_note": ""
+    "new_translation_vi": "Các chiến binh của Septimont... Hãy khám phá vùng đất, chiến đấu với những kẻ địch mạnh và dựng lên những lá cờ vinh quang không bao giờ gục ngã!",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014306",
@@ -7646,7 +7646,7 @@
     "ai_reason": "",
     "source_en": "Banners Never Fall",
     "review_note": "",
-    "new_translation_vi": "Lá Cờ Không Bao Giờ Rơi",
+    "new_translation_vi": "Cờ Vinh Quang Bất Diệt",
     "translator_note": ""
   },
   {
@@ -7671,7 +7671,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Elite in the Challenge Zone ({q_count}/5)",
     "review_note": "",
-    "new_translation_vi": "Hạ gục Kẻ Mạnh trong Khu Challenge ({q_count}/5)",
+    "new_translation_vi": "Đánh bại Elite trong Khu vực Thử thách ({q_count}/5)",
     "translator_note": ""
   },
   {
@@ -7696,7 +7696,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Elite in the Challenge Zone ({q_count}/5)",
     "review_note": "",
-    "new_translation_vi": "Hạ gục Kẻ Mạnh trong Khu Challenge ({q_count}/5)",
+    "new_translation_vi": "Đánh bại Elite trong Khu vực Thử thách ({q_count}/5)",
     "translator_note": ""
   },
   {
@@ -7721,7 +7721,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Elite in the Challenge Zone ({q_count}/5)",
     "review_note": "",
-    "new_translation_vi": "Hạ gục Kẻ Mạnh trong Khu Challenge ({q_count}/5)",
+    "new_translation_vi": "Đánh bại Elite trong Khu vực Thử thách ({q_count}/5)",
     "translator_note": ""
   },
   {
@@ -7746,7 +7746,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Elite in the Challenge Zone ({q_count}/5)",
     "review_note": "",
-    "new_translation_vi": "Hạ gục Kẻ Mạnh trong Khu Challenge ({q_count}/5)",
+    "new_translation_vi": "Đánh bại Elite trong Khu vực Thử thách ({q_count}/5)",
     "translator_note": ""
   },
   {
@@ -7771,7 +7771,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Elite in the Challenge Zone ({q_count}/5)",
     "review_note": "",
-    "new_translation_vi": "Hạ gục Kẻ Mạnh trong Khu Challenge ({q_count}/5)",
+    "new_translation_vi": "Đánh bại Elite trong Khu vực Thử thách ({q_count}/5)",
     "translator_note": ""
   },
   {
@@ -7796,7 +7796,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Elite in the Challenge Zone ({q_count}/5)",
     "review_note": "",
-    "new_translation_vi": "Hạ gục Kẻ Mạnh trong Khu Challenge ({q_count}/5)",
+    "new_translation_vi": "Đánh bại Elite trong Khu vực Thử thách ({q_count}/5)",
     "translator_note": ""
   },
   {
@@ -7821,7 +7821,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Elite in the Challenge Zone ({q_count}/5)",
     "review_note": "",
-    "new_translation_vi": "Hạ gục Kẻ Mạnh trong Khu Challenge ({q_count}/5)",
+    "new_translation_vi": "Đánh bại Elite trong Khu vực Thử thách ({q_count}/5)",
     "translator_note": ""
   },
   {
@@ -7846,7 +7846,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Elite in the Challenge Zone ({q_count}/5)",
     "review_note": "",
-    "new_translation_vi": "Hạ gục Kẻ Mạnh trong Khu Challenge ({q_count}/5)",
+    "new_translation_vi": "Đánh bại Elite trong Khu vực Thử thách ({q_count}/5)",
     "translator_note": ""
   },
   {
@@ -7871,7 +7871,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Elite in the Challenge Zone ({q_count}/5)",
     "review_note": "",
-    "new_translation_vi": "Hạ gục Kẻ Mạnh trong Khu Challenge ({q_count}/5)",
+    "new_translation_vi": "Đánh bại Elite trong Khu vực Thử thách ({q_count}/5)",
     "translator_note": ""
   },
   {
@@ -7896,7 +7896,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Elite in the Challenge Zone ({q_count}/5)",
     "review_note": "",
-    "new_translation_vi": "Hạ gục Kẻ Mạnh trong Khu Challenge ({q_count}/5)",
+    "new_translation_vi": "Đánh bại Elite trong Khu vực Thử thách ({q_count}/5)",
     "translator_note": ""
   },
   {
@@ -7921,7 +7921,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Elite in the Challenge Zone ({q_count}/5)",
     "review_note": "",
-    "new_translation_vi": "Hạ gục Kẻ Mạnh trong Khu Challenge ({q_count}/5)",
+    "new_translation_vi": "Đánh bại Elite trong Khu vực Thử thách ({q_count}/5)",
     "translator_note": ""
   },
   {
@@ -7946,7 +7946,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Elite in the Challenge Zone ({q_count}/5)",
     "review_note": "",
-    "new_translation_vi": "Hạ gục Kẻ Mạnh trong Khu Challenge ({q_count}/5)",
+    "new_translation_vi": "Đánh bại Elite trong Khu vực Thử thách ({q_count}/5)",
     "translator_note": ""
   },
   {
@@ -7971,7 +7971,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Elite in the Challenge Zone ({q_count}/5)",
     "review_note": "",
-    "new_translation_vi": "Hạ gục Kẻ Mạnh trong Khu Challenge ({q_count}/5)",
+    "new_translation_vi": "Đánh bại Elite trong Khu vực Thử thách ({q_count}/5)",
     "translator_note": ""
   },
   {
@@ -7996,7 +7996,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Elite in the Challenge Zone ({q_count}/5)",
     "review_note": "",
-    "new_translation_vi": "Hạ gục Kẻ Mạnh trong Khu Challenge ({q_count}/5)",
+    "new_translation_vi": "Đánh bại Elite trong Khu vực Thử thách ({q_count}/5)",
     "translator_note": ""
   },
   {
@@ -8021,7 +8021,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Elite in the Challenge Zone ({q_count}/5)",
     "review_note": "",
-    "new_translation_vi": "Hạ gục Kẻ Mạnh trong Khu Challenge ({q_count}/5)",
+    "new_translation_vi": "Đánh bại Elite trong Khu vực Thử thách ({q_count}/5)",
     "translator_note": ""
   },
   {
@@ -8046,7 +8046,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Elite in the Challenge Zone ({q_count}/5)",
     "review_note": "",
-    "new_translation_vi": "Hạ gục Kẻ Mạnh trong Khu Challenge ({q_count}/5)",
+    "new_translation_vi": "Đánh bại Elite trong Khu vực Thử thách ({q_count}/5)",
     "translator_note": ""
   },
   {
@@ -8071,7 +8071,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Elite in the Challenge Zone ({q_count}/5)",
     "review_note": "",
-    "new_translation_vi": "Hạ gục Kẻ Mạnh trong Khu Challenge ({q_count}/5)",
+    "new_translation_vi": "Đánh bại Elite trong Khu vực Thử thách ({q_count}/5)",
     "translator_note": ""
   },
   {
@@ -8096,7 +8096,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 4 (Lv. 101-150 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 4 (Gợi ý cấp 101-150)",
+    "new_translation_vi": "Kích hoạt Banner 4 (Khuyên dùng cấp 101-150)",
     "translator_note": ""
   },
   {
@@ -8121,7 +8121,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 5 (Lv. 151-175 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 5 (Gợi ý cấp 151-175)",
+    "new_translation_vi": "Kích hoạt Banner 5 (Khuyên dùng cấp 151-175)",
     "translator_note": ""
   },
   {
@@ -8146,7 +8146,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 6 (Lv. 176-200 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 6 (Gợi ý cấp 176-200)",
+    "new_translation_vi": "Kích hoạt Banner 6 (Khuyên dùng cấp 176-200)",
     "translator_note": ""
   },
   {
@@ -8171,7 +8171,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 7 (Lv. 201-230 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 7 (Gợi ý cấp 201-230)",
+    "new_translation_vi": "Kích hoạt Banner 7 (Khuyên dùng cấp 201-230)",
     "translator_note": ""
   },
   {
@@ -8196,7 +8196,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 8 (Lv. 231-260 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 8 (Gợi ý cấp 231-260)",
+    "new_translation_vi": "Kích hoạt Banner 8 (Khuyên dùng cấp 231-260)",
     "translator_note": ""
   },
   {
@@ -8221,7 +8221,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 9 (Lv. 261-275 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 9 (Gợi ý cấp 261-275)",
+    "new_translation_vi": "Kích hoạt Banner 9 (Khuyên dùng cấp 261-275)",
     "translator_note": ""
   },
   {
@@ -8246,7 +8246,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 10 (Lv. 276-290 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 10 (Gợi ý cấp 276-290)",
+    "new_translation_vi": "Kích hoạt Banner 10 (Khuyên dùng cấp 276-290)",
     "translator_note": ""
   },
   {
@@ -8271,7 +8271,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 11 (Lv. 291-300 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 11 (Gợi ý cấp 291-300)",
+    "new_translation_vi": "Kích hoạt Banner 11 (Khuyên dùng cấp 291-300)",
     "translator_note": ""
   },
   {
@@ -8296,7 +8296,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 12 (Lv. 301-340 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 12 (Gợi ý cấp 301-340)",
+    "new_translation_vi": "Kích hoạt Banner 12 (Khuyên dùng cấp 301-340)",
     "translator_note": ""
   },
   {
@@ -8321,7 +8321,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 13 (Lv. 341-360 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 13 (Gợi ý cấp 341-360)",
+    "new_translation_vi": "Kích hoạt Banner 13 (Khuyên dùng cấp 341-360)",
     "translator_note": ""
   },
   {
@@ -8346,7 +8346,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 14 (Lv. 361-380 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 14 (Gợi ý cấp 361-380)",
+    "new_translation_vi": "Kích hoạt Banner 14 (Khuyên dùng cấp 361-380)",
     "translator_note": ""
   },
   {
@@ -8371,7 +8371,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 15 (Lv. 381-390 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 15 (Gợi ý cấp 381-390)",
+    "new_translation_vi": "Kích hoạt Banner 15 (Khuyên dùng cấp 381-390)",
     "translator_note": ""
   },
   {
@@ -8396,7 +8396,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 16 (Lv. 391-400 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 16 (Gợi ý cấp 391-400)",
+    "new_translation_vi": "Kích hoạt Banner 16 (Khuyên dùng cấp 391-400)",
     "translator_note": ""
   },
   {
@@ -8421,7 +8421,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 17 (Lv. 401-440 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 17 (Gợi ý cấp 401-440)",
+    "new_translation_vi": "Kích hoạt Banner 17 (Khuyên dùng cấp 401-440)",
     "translator_note": ""
   },
   {
@@ -8446,7 +8446,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 18 (Lv. 441-465 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 18 (Gợi ý cấp 441-465)",
+    "new_translation_vi": "Kích hoạt Banner 18 (Khuyên dùng cấp 441-465)",
     "translator_note": ""
   },
   {
@@ -8471,7 +8471,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 19 (Lv. 466-480 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 19 (Gợi ý cấp 466-480)",
+    "new_translation_vi": "Kích hoạt Banner 19 (Khuyên dùng cấp 466-480)",
     "translator_note": ""
   },
   {
@@ -8496,7 +8496,7 @@
     "ai_reason": "",
     "source_en": "Activate Banner 20 (Lv. 481-500 recommended)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Banner 20 (Gợi ý cấp 481-500)",
+    "new_translation_vi": "Kích hoạt Banner 20 (Khuyên dùng cấp 481-500)",
     "translator_note": ""
   },
   {
@@ -8521,7 +8521,7 @@
     "ai_reason": "",
     "source_en": "Explore the Challenge Zone and increase Glory Level to 101-150",
     "review_note": "",
-    "new_translation_vi": "Thử sức tại Zone Thử thách và nâng Cấp Glory lên 101-150",
+    "new_translation_vi": "Khám phá Khu vực Thử thách và tăng Cấp Vinh quang lên 101-150",
     "translator_note": ""
   },
   {
@@ -8546,7 +8546,7 @@
     "ai_reason": "",
     "source_en": "Explore the Challenge Zone and increase Glory Level to 151-175",
     "review_note": "",
-    "new_translation_vi": "Thử sức tại Zone Thử thách và nâng Cấp Glory lên 151-175",
+    "new_translation_vi": "Khám phá Khu vực Thử thách và tăng Cấp Vinh quang lên 151-175",
     "translator_note": ""
   },
   {
@@ -8571,7 +8571,7 @@
     "ai_reason": "",
     "source_en": "Explore the Challenge Zone and increase Glory Level to 176-200",
     "review_note": "",
-    "new_translation_vi": "Thử sức tại Zone Thử thách và nâng Cấp Glory lên 176-200",
+    "new_translation_vi": "Khám phá Khu vực Thử thách và tăng Cấp Vinh quang lên 176-200",
     "translator_note": ""
   },
   {
@@ -8596,7 +8596,7 @@
     "ai_reason": "",
     "source_en": "Explore the Challenge Zone and increase Glory Level to 201-230",
     "review_note": "",
-    "new_translation_vi": "Thử sức tại Zone Thử thách và nâng Cấp Glory lên 201-230",
+    "new_translation_vi": "Khám phá Khu vực Thử thách và tăng Cấp Vinh quang lên 201-230",
     "translator_note": ""
   },
   {
@@ -8621,7 +8621,7 @@
     "ai_reason": "",
     "source_en": "Explore the Challenge Zone and increase Glory Level to 231-260",
     "review_note": "",
-    "new_translation_vi": "Thử sức tại Zone Thử thách và nâng Cấp Glory lên 231-260",
+    "new_translation_vi": "Khám phá Khu vực Thử thách và tăng Cấp Vinh quang lên 231-260",
     "translator_note": ""
   },
   {
@@ -8646,7 +8646,7 @@
     "ai_reason": "",
     "source_en": "Explore the Challenge Zone and increase Glory Level to 261-275",
     "review_note": "",
-    "new_translation_vi": "Thử sức tại Zone Thử thách và nâng Cấp Glory lên 261-275",
+    "new_translation_vi": "Khám phá Khu vực Thử thách và tăng Cấp Vinh quang lên 261-275",
     "translator_note": ""
   },
   {
@@ -8671,7 +8671,7 @@
     "ai_reason": "",
     "source_en": "Explore the Challenge Zone and increase Glory Level to 276-290",
     "review_note": "",
-    "new_translation_vi": "Thử sức tại Zone Thử thách và nâng Cấp Glory lên 276-290",
+    "new_translation_vi": "Khám phá Khu vực Thử thách và tăng Cấp Vinh quang lên 276-290",
     "translator_note": ""
   },
   {
@@ -8696,7 +8696,7 @@
     "ai_reason": "",
     "source_en": "Explore the Challenge Zone and increase Glory Level to 291-300",
     "review_note": "",
-    "new_translation_vi": "Thử sức tại Zone Thử thách và nâng Cấp Glory lên 291-300",
+    "new_translation_vi": "Khám phá Khu vực Thử thách và tăng Cấp Vinh quang lên 291-300",
     "translator_note": ""
   },
   {
@@ -8721,7 +8721,7 @@
     "ai_reason": "",
     "source_en": "Explore the Challenge Zone and increase Glory Level to 301-340",
     "review_note": "",
-    "new_translation_vi": "Thử sức tại Zone Thử thách và nâng Cấp Glory lên 301-340",
+    "new_translation_vi": "Khám phá Khu vực Thử thách và tăng Cấp Vinh quang lên 301-340",
     "translator_note": ""
   },
   {
@@ -8746,7 +8746,7 @@
     "ai_reason": "",
     "source_en": "Explore the Challenge Zone and increase Glory Level to 341-360",
     "review_note": "",
-    "new_translation_vi": "Thử sức tại Zone Thử thách và nâng Cấp Glory lên 341-360",
+    "new_translation_vi": "Khám phá Khu vực Thử thách và tăng Cấp Vinh quang lên 341-360",
     "translator_note": ""
   },
   {
@@ -8771,7 +8771,7 @@
     "ai_reason": "",
     "source_en": "Explore the Challenge Zone and increase Glory Level to 361-380",
     "review_note": "",
-    "new_translation_vi": "Thử sức tại Zone Thử thách và nâng Cấp Glory lên 361-380",
+    "new_translation_vi": "Khám phá Khu vực Thử thách và tăng Cấp Vinh quang lên 361-380",
     "translator_note": ""
   },
   {
@@ -8796,7 +8796,7 @@
     "ai_reason": "",
     "source_en": "Explore the Challenge Zone and increase Glory Level to 381-390",
     "review_note": "",
-    "new_translation_vi": "Explore Khu Vực Challenge và nâng Cấp Glory lên 381-390",
+    "new_translation_vi": "Khám phá Khu vực Thử thách và tăng Cấp Vinh quang lên 381-390",
     "translator_note": ""
   },
   {
@@ -8821,7 +8821,7 @@
     "ai_reason": "",
     "source_en": "Explore the Challenge Zone and increase Glory Level to 391-400",
     "review_note": "",
-    "new_translation_vi": "Explore Khu Vực Challenge và nâng Cấp Glory lên 391-400",
+    "new_translation_vi": "Khám phá Khu vực Thử thách và tăng Cấp Vinh quang lên 391-400",
     "translator_note": ""
   },
   {
@@ -8846,7 +8846,7 @@
     "ai_reason": "",
     "source_en": "Explore the Challenge Zone and increase Glory Level to 401-440",
     "review_note": "",
-    "new_translation_vi": "Explore Khu Vực Challenge và nâng Cấp Glory lên 401-440",
+    "new_translation_vi": "Khám phá Khu vực Thử thách và tăng Cấp Vinh quang lên 401-440",
     "translator_note": ""
   },
   {
@@ -8871,7 +8871,7 @@
     "ai_reason": "",
     "source_en": "Explore the Challenge Zone and increase Glory Level to 441-465",
     "review_note": "",
-    "new_translation_vi": "Explore Khu Vực Challenge và nâng Cấp Glory lên 441-465",
+    "new_translation_vi": "Khám phá Khu vực Thử thách và tăng Cấp Vinh quang lên 441-465",
     "translator_note": ""
   },
   {
@@ -8896,7 +8896,7 @@
     "ai_reason": "",
     "source_en": "Explore the Challenge Zone and increase Glory Level to 466-480",
     "review_note": "",
-    "new_translation_vi": "Explore Khu Vực Challenge và nâng Cấp Glory lên 466-480",
+    "new_translation_vi": "Khám phá Khu vực Thử thách và tăng Cấp Vinh quang lên 466-480",
     "translator_note": ""
   },
   {
@@ -8921,7 +8921,7 @@
     "ai_reason": "",
     "source_en": "Explore the Challenge Zone and increase Glory Level to 481-500",
     "review_note": "",
-    "new_translation_vi": "Explore Khu Vực Challenge và nâng Cấp Glory lên 481-500",
+    "new_translation_vi": "Khám phá Khu vực Thử thách và tăng Cấp Vinh quang lên 481-500",
     "translator_note": ""
   },
   {
@@ -8946,7 +8946,7 @@
     "ai_reason": "",
     "source_en": "Talk to the Acolyte",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Acolyte",
+    "new_translation_vi": "Trò chuyện với Acolyte",
     "translator_note": ""
   },
   {
@@ -8961,7 +8961,6 @@
     "primary_key": "Quest_186700000_ChildQuestTip_186_8",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8971,8 +8970,9 @@
     "ai_reason": "",
     "source_en": "Head to the coordinates given by Carlotta",
     "review_note": "",
-    "new_translation_vi": "Đến tọa độ Carlotta đưa",
-    "translator_note": ""
+    "new_translation_vi": "Đi đến tọa độ do Carlotta cung cấp",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014360",
@@ -9021,7 +9021,7 @@
     "ai_reason": "",
     "source_en": "Take a photo of the Fabricatorium of the Deep",
     "review_note": "",
-    "new_translation_vi": "Chụp xưởng Fabricatorium of the Deep đi.",
+    "new_translation_vi": "Chụp ảnh Fabricatorium of the Deep",
     "translator_note": ""
   },
   {
@@ -9071,7 +9071,7 @@
     "ai_reason": "",
     "source_en": "(Optional) Ride the current to the Anima Cradle",
     "review_note": "",
-    "new_translation_vi": "(Tùy chọn) Đi theo dòng chảy đến Anima Cradle",
+    "new_translation_vi": "(Tùy chọn) Cưỡi dòng hải lưu đến Anima Cradle",
     "translator_note": ""
   },
   {
@@ -9121,7 +9121,7 @@
     "ai_reason": "",
     "source_en": "Take a photo of the Anima Cradle",
     "review_note": "",
-    "new_translation_vi": "Chụp Anima Cradle nào",
+    "new_translation_vi": "Chụp ảnh Anima Cradle",
     "translator_note": ""
   },
   {
@@ -9171,7 +9171,7 @@
     "ai_reason": "",
     "source_en": "Take a photo of the Energy Hub",
     "review_note": "",
-    "new_translation_vi": "Chụp lại Energy Hub cho tớ.",
+    "new_translation_vi": "Chụp ảnh Energy Hub",
     "translator_note": ""
   },
   {
@@ -9196,7 +9196,7 @@
     "ai_reason": "",
     "source_en": "Proceed to the next area",
     "review_note": "",
-    "new_translation_vi": "Tiến vào khu vực tiếp theo",
+    "new_translation_vi": "Đi đến khu vực tiếp theo",
     "translator_note": ""
   },
   {
@@ -9221,7 +9221,7 @@
     "ai_reason": "",
     "source_en": "Use Sensor to locate the files",
     "review_note": "",
-    "new_translation_vi": "Dùng Sensor để tìm tập tin",
+    "new_translation_vi": "Sử dụng Sensor để định vị các tệp tin",
     "translator_note": ""
   },
   {
@@ -9246,7 +9246,7 @@
     "ai_reason": "",
     "source_en": "Read the files",
     "review_note": "",
-    "new_translation_vi": "Đọc tài liệu",
+    "new_translation_vi": "Đọc các tệp tin",
     "translator_note": ""
   },
   {
@@ -9271,7 +9271,7 @@
     "ai_reason": "",
     "source_en": "Talk to Luther and head to the Sanctuary of Faith",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Luther và đến Sanctuary of Faith",
+    "new_translation_vi": "Trò chuyện với Luther và đến Sanctuary of Faith",
     "translator_note": ""
   },
   {
@@ -9296,7 +9296,7 @@
     "ai_reason": "",
     "source_en": "Talk to the Guiding Acolyte",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Guiding Acolyte",
+    "new_translation_vi": "Trò chuyện với Guiding Acolyte",
     "translator_note": ""
   },
   {
@@ -9321,7 +9321,7 @@
     "ai_reason": "",
     "source_en": "Take a photo of the Sanctuary of Faith",
     "review_note": "",
-    "new_translation_vi": "Chụp lại Sanctuary of Faith nào",
+    "new_translation_vi": "Chụp ảnh Sanctuary of Faith",
     "translator_note": ""
   },
   {
@@ -9346,7 +9346,7 @@
     "ai_reason": "",
     "source_en": "Talk to Luther and head to the Lumen Tower",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Luther và đến Lumen Tower",
+    "new_translation_vi": "Trò chuyện với Luther và đến Lumen Tower",
     "translator_note": ""
   },
   {
@@ -9396,7 +9396,7 @@
     "ai_reason": "",
     "source_en": "Take a photo of the Lumen Tower",
     "review_note": "",
-    "new_translation_vi": "Chụp tháp Lumen đi.",
+    "new_translation_vi": "Chụp ảnh Lumen Tower",
     "translator_note": ""
   },
   {
@@ -9421,7 +9421,7 @@
     "ai_reason": "",
     "source_en": "Talk to Luther",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Luther",
+    "new_translation_vi": "Trò chuyện với Luther",
     "translator_note": ""
   },
   {
@@ -9446,7 +9446,7 @@
     "ai_reason": "",
     "source_en": "Take a photo of the Anima Cradle",
     "review_note": "",
-    "new_translation_vi": "Chụp Anima Cradle nào",
+    "new_translation_vi": "Chụp ảnh Anima Cradle",
     "translator_note": ""
   },
   {
@@ -9471,7 +9471,7 @@
     "ai_reason": "",
     "source_en": "Take a photo of the Sanctuary of Faith",
     "review_note": "",
-    "new_translation_vi": "Chụp lại Sanctuary of Faith nào",
+    "new_translation_vi": "Chụp ảnh Sanctuary of Faith",
     "translator_note": ""
   },
   {
@@ -9496,7 +9496,7 @@
     "ai_reason": "",
     "source_en": "Talk to Luther",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Luther",
+    "new_translation_vi": "Trò chuyện với Luther",
     "translator_note": ""
   },
   {
@@ -9521,7 +9521,7 @@
     "ai_reason": "",
     "source_en": "Talk to Luther",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Luther",
+    "new_translation_vi": "Trò chuyện với Luther",
     "translator_note": ""
   },
   {
@@ -9546,7 +9546,7 @@
     "ai_reason": "",
     "source_en": "Talk to Luther",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Luther",
+    "new_translation_vi": "Trò chuyện với Luther",
     "translator_note": ""
   },
   {
@@ -9571,7 +9571,7 @@
     "ai_reason": "",
     "source_en": "Talk to Luther",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Luther",
+    "new_translation_vi": "Trò chuyện với Luther",
     "translator_note": ""
   },
   {
@@ -9596,7 +9596,7 @@
     "ai_reason": "",
     "source_en": "Talk to Luther and head to the Energy Hub",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Luther và đến Energy Hub",
+    "new_translation_vi": "Trò chuyện với Luther và đến Energy Hub",
     "translator_note": ""
   },
   {
@@ -9621,7 +9621,7 @@
     "ai_reason": "",
     "source_en": "(Optional) Ride the current to the Energy Hub",
     "review_note": "",
-    "new_translation_vi": "(Tùy chọn) Đi theo dòng chảy đến Energy Hub",
+    "new_translation_vi": "(Tùy chọn) Cưỡi dòng hải lưu đến Energy Hub",
     "translator_note": ""
   },
   {
@@ -9671,7 +9671,7 @@
     "ai_reason": "",
     "source_en": "Examine",
     "review_note": "",
-    "new_translation_vi": "Examine",
+    "new_translation_vi": "Kiểm tra",
     "translator_note": ""
   },
   {
@@ -9686,7 +9686,6 @@
     "primary_key": "Quest_186700000_QuestDesc_186_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9696,8 +9695,9 @@
     "ai_reason": "",
     "source_en": "The Fabricatorium of the Deep has stirred beneath the waves, its unrest quietly noted by the nobles and the Order. To prevent further disruption to the lives of the people of Ragunna and to avoid unnecessary panic, both sides held a rare private meeting. In an unprecedented move, they reached a consensus: a full re-survey of the facility must be conducted to inform joint discussions on the fate of the Fabricatorium and the Common Echoes it holds. As the only one to return from that place unscathed, you are undoubtedly the best person to lead this expedition.",
     "review_note": "",
-    "new_translation_vi": "Xưởng Vải Dệt Dưới Vực đã động đậy bên dưới những con sóng, sự bất ổn của nó được giới quý tộc và Hội Ánh Sáng âm thầm ghi nhận. Để ngăn chặn sự xáo trộn thêm cho cuộc sống của người dân Ragunna và tránh gây hoang mang không cần thiết, cả hai bên đã tổ chức một cuộc họp kín hiếm có. Trong một động thái chưa từng có, họ đã đạt được đồng thuận: cần tiến hành khảo sát lại toàn bộ cơ sở này để làm cơ sở cho các cuộc thảo luận chung về số phận của Xưởng Vải Dệt và những Echo Chung mà nó lưu giữ. Là người duy nhất trở về từ nơi đó mà không hề hấn gì, cậu chính là lựa chọn tốt nhất để dẫn dắt cuộc thám hiểm này.",
-    "translator_note": ""
+    "new_translation_vi": "Fabricatorium of the Deep đã khuấy động dưới những con sóng, sự bất ổn của nó đã được giới quý tộc và Order lặng lẽ ghi nhận. Để ngăn chặn sự gián đoạn thêm đối với cuộc sống của người dân Ragunna và tránh gây hoảng loạn không cần thiết, cả hai bên đã tổ chức một cuộc họp kín hiếm hoi. Trong một động thái chưa từng có, họ đã đạt được sự đồng thuận: cần phải tiến hành khảo sát toàn diện cơ sở này để làm cơ sở cho các cuộc thảo luận chung về số phận của Fabricatorium và những Common Echoes mà nó đang lưu giữ. Là người duy nhất trở về từ nơi đó mà không hề hấn gì, bạn chắc chắn là người phù hợp nhất để dẫn đầu chuyến thám hiểm này.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014389",
@@ -9721,7 +9721,7 @@
     "ai_reason": "",
     "source_en": "Deep Sea Survey",
     "review_note": "",
-    "new_translation_vi": "Khảo Sát Vùng Biển Sâu",
+    "new_translation_vi": "Khảo sát biển sâu",
     "translator_note": ""
   },
   {
@@ -9771,7 +9771,7 @@
     "ai_reason": "",
     "source_en": "(Optional) Ride the current to the Anima Cradle",
     "review_note": "",
-    "new_translation_vi": "(Tùy chọn) Đi theo dòng chảy đến Anima Cradle",
+    "new_translation_vi": "(Tùy chọn) Cưỡi dòng hải lưu đến Anima Cradle",
     "translator_note": ""
   },
   {
@@ -9796,7 +9796,7 @@
     "ai_reason": "",
     "source_en": "Photo location at the Fallen Grave",
     "review_note": "",
-    "new_translation_vi": "Địa điểm chụp tại Fallen Grave",
+    "new_translation_vi": "Vị trí chụp ảnh tại Fallen Grave",
     "translator_note": ""
   },
   {
@@ -9821,7 +9821,7 @@
     "ai_reason": "",
     "source_en": "Photo location at the Anima Cradle",
     "review_note": "",
-    "new_translation_vi": "Địa điểm chụp tại Anima Cradle",
+    "new_translation_vi": "Vị trí chụp ảnh tại Anima Cradle",
     "translator_note": ""
   },
   {
@@ -9846,7 +9846,7 @@
     "ai_reason": "",
     "source_en": "Photo location at the Energy Hub",
     "review_note": "",
-    "new_translation_vi": "Địa điểm chụp tại Energy Hub",
+    "new_translation_vi": "Vị trí chụp ảnh tại Energy Hub",
     "translator_note": ""
   },
   {
@@ -9871,7 +9871,7 @@
     "ai_reason": "",
     "source_en": "Photo location at the Sanctuary of Faith",
     "review_note": "",
-    "new_translation_vi": "Địa điểm chụp tại Sanctuary of Faith",
+    "new_translation_vi": "Vị trí chụp ảnh tại Sanctuary of Faith",
     "translator_note": ""
   },
   {
@@ -9896,7 +9896,7 @@
     "ai_reason": "",
     "source_en": "Photo location at the Lumen Tower",
     "review_note": "",
-    "new_translation_vi": "Địa điểm chụp tại Lumen Tower",
+    "new_translation_vi": "Vị trí chụp ảnh tại Lumen Tower",
     "translator_note": ""
   },
   {
@@ -9921,7 +9921,7 @@
     "ai_reason": "",
     "source_en": "Take a panoramic photo of the Fabricatorium of the Deep",
     "review_note": "",
-    "new_translation_vi": "Chụp toàn cảnh Fabricatorium of the Deep đi",
+    "new_translation_vi": "Chụp ảnh toàn cảnh Fabricatorium of the Deep",
     "translator_note": ""
   },
   {
@@ -9946,7 +9946,7 @@
     "ai_reason": "",
     "source_en": "Take a panoramic photo of the Anima Cradle",
     "review_note": "",
-    "new_translation_vi": "Chụp toàn cảnh Anima Cradle đi",
+    "new_translation_vi": "Chụp ảnh toàn cảnh Anima Cradle",
     "translator_note": ""
   },
   {
@@ -9971,7 +9971,7 @@
     "ai_reason": "",
     "source_en": "Take a panoramic photo of the Energy Hub",
     "review_note": "",
-    "new_translation_vi": "Chụp toàn cảnh Energy Hub đi",
+    "new_translation_vi": "Chụp ảnh toàn cảnh Energy Hub",
     "translator_note": ""
   },
   {
@@ -10046,7 +10046,7 @@
     "ai_reason": "",
     "source_en": "Talk to the Acolyte",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Acolyte",
+    "new_translation_vi": "Trò chuyện với Acolyte",
     "translator_note": ""
   },
   {
@@ -10071,7 +10071,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -10096,7 +10096,7 @@
     "ai_reason": "",
     "source_en": "Butler the Steward seems troubled about taking care of the Acolytes in the Fabricatorium of the Deep. Talk to him and learn what's weighing on his mind.",
     "review_note": "",
-    "new_translation_vi": "Butler Butler dường như đang lo lắng về việc chăm sóc các Acolyte tại Xưởng Dệt dưới vực sâu. Hãy nói chuyện với ông ấy và tìm hiểu điều gì đang đè nặng trong lòng ông.",
+    "new_translation_vi": "Butler the Steward có vẻ đang lo lắng về việc chăm sóc các Acolyte tại Fabricatorium of the Deep. Hãy trò chuyện với anh ấy và tìm hiểu điều gì đang khiến anh ấy bận tâm.",
     "translator_note": ""
   },
   {
@@ -10121,7 +10121,7 @@
     "ai_reason": "",
     "source_en": "Bread and Holy Rituals",
     "review_note": "",
-    "new_translation_vi": "Bánh Mì và Nghi Lễ Thánh",
+    "new_translation_vi": "Bánh mì và Nghi lễ Thánh",
     "translator_note": ""
   },
   {
@@ -10146,7 +10146,7 @@
     "ai_reason": "",
     "source_en": "Talk to the elderly woman",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với bà cụ",
+    "new_translation_vi": "Trò chuyện với người phụ nữ lớn tuổi",
     "translator_note": ""
   },
   {
@@ -10171,7 +10171,7 @@
     "ai_reason": "",
     "source_en": "Head to the last known location of Acis's frequency",
     "review_note": "",
-    "new_translation_vi": "Đến vị trí cuối cùng phát hiện tần số của Acis",
+    "new_translation_vi": "Đến vị trí cuối cùng được biết đến của tần số Acis",
     "translator_note": ""
   },
   {
@@ -10221,7 +10221,7 @@
     "ai_reason": "",
     "source_en": "Investigate the frequencies from the past",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra các tần số từ quá khứ",
+    "new_translation_vi": "Điều tra các tần số từ quá khứ",
     "translator_note": ""
   },
   {
@@ -10271,7 +10271,7 @@
     "ai_reason": "",
     "source_en": "Head to the last known location of Acis's frequency",
     "review_note": "",
-    "new_translation_vi": "Đến vị trí cuối cùng phát hiện tần số của Acis",
+    "new_translation_vi": "Đến vị trí cuối cùng được biết đến của tần số Acis",
     "translator_note": ""
   },
   {
@@ -10286,7 +10286,6 @@
     "primary_key": "Quest_317750001_ChildQuestTip_317_9",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10297,7 +10296,8 @@
     "source_en": "Take a photo of Hornett",
     "review_note": "",
     "new_translation_vi": "Chụp ảnh Hornett",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014413",
@@ -10321,7 +10321,7 @@
     "ai_reason": "",
     "source_en": "Touch the frequencies from the past",
     "review_note": "",
-    "new_translation_vi": "Touch vào những tần số từ quá khứ",
+    "new_translation_vi": "Chạm vào các tần số từ quá khứ",
     "translator_note": ""
   },
   {
@@ -10346,7 +10346,7 @@
     "ai_reason": "",
     "source_en": "Head to the last known location of Acis's frequency",
     "review_note": "",
-    "new_translation_vi": "Đến vị trí cuối cùng phát hiện tần số của Acis",
+    "new_translation_vi": "Đến vị trí cuối cùng được biết đến của tần số Acis",
     "translator_note": ""
   },
   {
@@ -10371,7 +10371,7 @@
     "ai_reason": "",
     "source_en": "Touch the frequencies from the past",
     "review_note": "",
-    "new_translation_vi": "Touch vào những tần số từ quá khứ",
+    "new_translation_vi": "Chạm vào các tần số từ quá khứ",
     "translator_note": ""
   },
   {
@@ -10396,7 +10396,7 @@
     "ai_reason": "",
     "source_en": "Head to the last known location of Acis's frequency",
     "review_note": "",
-    "new_translation_vi": "Đến vị trí cuối cùng phát hiện tần số của Acis",
+    "new_translation_vi": "Đến vị trí cuối cùng được biết đến của tần số Acis",
     "translator_note": ""
   },
   {
@@ -10421,7 +10421,7 @@
     "ai_reason": "",
     "source_en": "Touch the frequencies from the past",
     "review_note": "",
-    "new_translation_vi": "Touch vào những tần số từ quá khứ",
+    "new_translation_vi": "Chạm vào các tần số từ quá khứ",
     "translator_note": ""
   },
   {
@@ -10446,7 +10446,7 @@
     "ai_reason": "",
     "source_en": "Head to the last known location of Acis's frequency",
     "review_note": "",
-    "new_translation_vi": "Đến vị trí cuối cùng phát hiện tần số của Acis",
+    "new_translation_vi": "Đến vị trí cuối cùng được biết đến của tần số Acis",
     "translator_note": ""
   },
   {
@@ -10471,7 +10471,7 @@
     "ai_reason": "",
     "source_en": "Use Sensor to scan the frequencies in the area",
     "review_note": "",
-    "new_translation_vi": "Dùng Sensor để quét tần số trong khu vực",
+    "new_translation_vi": "Sử dụng Sensor để quét các tần số trong khu vực",
     "translator_note": ""
   },
   {
@@ -10496,7 +10496,7 @@
     "ai_reason": "",
     "source_en": "Investigate the newly appeared frequency",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra tần số mới xuất hiện",
+    "new_translation_vi": "Điều tra tần số vừa xuất hiện",
     "translator_note": ""
   },
   {
@@ -10521,7 +10521,7 @@
     "ai_reason": "",
     "source_en": "Investigate the newly appeared frequency",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra tần số mới xuất hiện",
+    "new_translation_vi": "Điều tra tần số vừa xuất hiện",
     "translator_note": ""
   },
   {
@@ -10546,7 +10546,7 @@
     "ai_reason": "",
     "source_en": "Investigate the newly appeared frequency",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra tần số mới xuất hiện",
+    "new_translation_vi": "Điều tra tần số vừa xuất hiện",
     "translator_note": ""
   },
   {
@@ -10571,7 +10571,7 @@
     "ai_reason": "",
     "source_en": "Take back Acis's pendant from the Drake",
     "review_note": "",
-    "new_translation_vi": "Lấy lại mặt dây chuyền của Acis từ tay Drake.",
+    "new_translation_vi": "Lấy lại mặt dây chuyền của Acis từ Drake",
     "translator_note": ""
   },
   {
@@ -10596,7 +10596,7 @@
     "ai_reason": "",
     "source_en": "Head to the last known location of Acis's frequency",
     "review_note": "",
-    "new_translation_vi": "Đến vị trí cuối cùng phát hiện tần số của Acis",
+    "new_translation_vi": "Đến vị trí cuối cùng được biết đến của tần số Acis",
     "translator_note": ""
   },
   {
@@ -10621,7 +10621,7 @@
     "ai_reason": "",
     "source_en": "Head to the location with a clear view of the Three Heroes' Crest",
     "review_note": "",
-    "new_translation_vi": "Đến nơi có thể nhìn rõ Huy Hiệu Ba Anh Hùng",
+    "new_translation_vi": "Đến vị trí có tầm nhìn rõ ràng về Three Heroes' Crest",
     "translator_note": ""
   },
   {
@@ -10646,7 +10646,7 @@
     "ai_reason": "",
     "source_en": "Check the object hanging from the tree",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra vật treo trên cây",
+    "new_translation_vi": "Kiểm tra vật thể treo trên cây",
     "translator_note": ""
   },
   {
@@ -10671,7 +10671,7 @@
     "ai_reason": "",
     "source_en": "Fulfill Acis's promise",
     "review_note": "",
-    "new_translation_vi": "Thực hiện lời hứa với Acis",
+    "new_translation_vi": "Hoàn thành lời hứa của Acis",
     "translator_note": ""
   },
   {
@@ -10686,7 +10686,6 @@
     "primary_key": "Quest_317750001_ChildQuestTip_317_39",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10696,8 +10695,9 @@
     "ai_reason": "",
     "source_en": "Tell Ina what happened",
     "review_note": "",
-    "new_translation_vi": "Kể cho Ina nghe chuyện đã xảy ra",
-    "translator_note": ""
+    "new_translation_vi": "Kể cho Ina nghe những gì đã xảy ra",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014429",
@@ -10711,7 +10711,6 @@
     "primary_key": "Quest_317750001_ChildQuestTip_317_45",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10721,8 +10720,9 @@
     "ai_reason": "",
     "source_en": "(Optional) Observe Misha at prayer",
     "review_note": "",
-    "new_translation_vi": "(Tùy chọn) Quan sát Misha cầu nguyện",
-    "translator_note": ""
+    "new_translation_vi": "(Tùy chọn) Quan sát Misha đang cầu nguyện",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014430",
@@ -10746,7 +10746,7 @@
     "ai_reason": "",
     "source_en": "Touch the frequency",
     "review_note": "",
-    "new_translation_vi": "Touch vào tần số",
+    "new_translation_vi": "Chạm vào tần số",
     "translator_note": ""
   },
   {
@@ -10771,7 +10771,7 @@
     "ai_reason": "",
     "source_en": "Touch the frequency",
     "review_note": "",
-    "new_translation_vi": "Touch vào tần số",
+    "new_translation_vi": "Chạm vào tần số",
     "translator_note": ""
   },
   {
@@ -10821,7 +10821,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -10846,7 +10846,7 @@
     "ai_reason": "",
     "source_en": "Touch the frequency",
     "review_note": "",
-    "new_translation_vi": "Touch vào tần số",
+    "new_translation_vi": "Chạm vào tần số",
     "translator_note": ""
   },
   {
@@ -10871,7 +10871,7 @@
     "ai_reason": "",
     "source_en": "Touch the frequency",
     "review_note": "",
-    "new_translation_vi": "Touch vào tần số",
+    "new_translation_vi": "Chạm vào tần số",
     "translator_note": ""
   },
   {
@@ -10896,7 +10896,7 @@
     "ai_reason": "",
     "source_en": "Touch the frequency",
     "review_note": "",
-    "new_translation_vi": "Touch vào tần số",
+    "new_translation_vi": "Chạm vào tần số",
     "translator_note": ""
   },
   {
@@ -10946,7 +10946,7 @@
     "ai_reason": "",
     "source_en": "Bury the pendant",
     "review_note": "",
-    "new_translation_vi": "Chôn mặt dây chuyền",
+    "new_translation_vi": "Chôn cất mặt dây chuyền",
     "translator_note": ""
   },
   {
@@ -10971,7 +10971,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -10996,7 +10996,7 @@
     "ai_reason": "",
     "source_en": "Investigate",
     "review_note": "",
-    "new_translation_vi": "Investigate",
+    "new_translation_vi": "Điều tra",
     "translator_note": ""
   },
   {
@@ -11021,7 +11021,7 @@
     "ai_reason": "",
     "source_en": "You meet an old lady in the Asphodel Barrens. She gazes at the fleeting frequencies off into the distance in search of a lost companion who can never return...",
     "review_note": "",
-    "new_translation_vi": "Giữa vùng Asphodel Barrens cằn cỗi, ngươi gặp một bà lão. Bà nhìn chằm chằm vào những tần số thoáng qua phía chân trời, như đang tìm kiếm người bạn đồng hành đã mất... mãi không trở về.",
+    "new_translation_vi": "Bạn gặp một bà cụ tại Asphodel Barrens. Bà nhìn về phía những tần số đang tan biến nơi xa xăm, tìm kiếm một người bạn đồng hành đã mãi mãi không thể quay về...",
     "translator_note": ""
   },
   {
@@ -11046,7 +11046,7 @@
     "ai_reason": "",
     "source_en": "Prints of Plateaus",
     "review_note": "",
-    "new_translation_vi": "Dấu Chân Cao Nguyên",
+    "new_translation_vi": "Dấu ấn Cao nguyên",
     "translator_note": ""
   },
   {
@@ -11086,7 +11086,6 @@
     "primary_key": "Quest_317750001_TakePhotoTargetsDescription_317_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -11097,7 +11096,8 @@
     "source_en": "Take a photo of Hornett",
     "review_note": "",
     "new_translation_vi": "Chụp ảnh Hornett",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014445",
@@ -11136,7 +11136,6 @@
     "primary_key": "Quest_157750000_ChildQuestTip_157_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -11146,8 +11145,9 @@
     "ai_reason": "",
     "source_en": "Complete all Dreams of Cindertide challenges and purify all Dreamscape Nodes across the Sanguis Plateaus.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành toàn bộ thử thách \"Giấc Mộng Tro Tàn\" và thanh tẩy tất cả Nút Giấc Mộng trên khắp Sanguis Plateaus.",
-    "translator_note": ""
+    "new_translation_vi": "Hoàn thành tất cả thử thách Dreams of Cindertide và thanh tẩy tất cả Dreamscape Node trên khắp Sanguis Plateaus.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014447",
@@ -11171,7 +11171,7 @@
     "ai_reason": "",
     "source_en": "Talk to the Ebony Gatekeeper",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Người Gác Cổng Ebony",
+    "new_translation_vi": "Trò chuyện với Ebony Gatekeeper",
     "translator_note": ""
   },
   {
@@ -11221,7 +11221,7 @@
     "ai_reason": "",
     "source_en": "Dreams of Cindertide: Finale unlocked",
     "review_note": "",
-    "new_translation_vi": "Giấc Mơ Cindertide: Phần Kết đã mở khóa",
+    "new_translation_vi": "Dreams of Cindertide: Đã mở khóa phần kết",
     "translator_note": ""
   },
   {
@@ -11246,7 +11246,7 @@
     "ai_reason": "",
     "source_en": "Complete all Dreams of Cindertide challenges across the Wastelands",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành tất cả thử thách \"Giấc Mộng Tro Tàn\" trên khắp Wastelands",
+    "new_translation_vi": "Hoàn thành tất cả thử thách Dreams of Cindertide trên khắp Wastelands",
     "translator_note": ""
   },
   {
@@ -11271,7 +11271,7 @@
     "ai_reason": "",
     "source_en": "Dreams of Cindertide",
     "review_note": "",
-    "new_translation_vi": "Giấc Mơ Cindertide",
+    "new_translation_vi": "Dreams of Cindertide",
     "translator_note": ""
   },
   {
@@ -11321,7 +11321,7 @@
     "ai_reason": "",
     "source_en": "Leave the camp",
     "review_note": "",
-    "new_translation_vi": "Rời khỏi trại",
+    "new_translation_vi": "Leave trại",
     "translator_note": ""
   },
   {
@@ -11346,7 +11346,7 @@
     "ai_reason": "",
     "source_en": "Talk to the Wootter",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Wootter",
+    "new_translation_vi": "Trò chuyện với Wootter",
     "translator_note": ""
   },
   {
@@ -11371,7 +11371,7 @@
     "ai_reason": "",
     "source_en": "Return to the camp and talk to Arctos",
     "review_note": "",
-    "new_translation_vi": "Return trại và nói chuyện với Arctos",
+    "new_translation_vi": "Quay lại trại và trò chuyện với Arctos",
     "translator_note": ""
   },
   {
@@ -11386,7 +11386,6 @@
     "primary_key": "Quest_176750000_ChildQuestTip_176_13",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -11397,7 +11396,8 @@
     "source_en": "Defeat Chunkie",
     "review_note": "",
     "new_translation_vi": "Đánh bại Chunkie",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014457",
@@ -11421,7 +11421,7 @@
     "ai_reason": "",
     "source_en": "Wait until the camp is rebuilt (Wait until 12:00 tomorrow)",
     "review_note": "",
-    "new_translation_vi": "Khoan đến khi trại được dựng lại đã (đợi đến 12:00 ngày mai)",
+    "new_translation_vi": "Đợi trại được xây dựng lại (Đợi đến 12:00 ngày mai)",
     "translator_note": ""
   },
   {
@@ -11446,7 +11446,7 @@
     "ai_reason": "",
     "source_en": "Talk to Arctos",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Arctos",
+    "new_translation_vi": "Trò chuyện với Arctos",
     "translator_note": ""
   },
   {
@@ -11496,7 +11496,7 @@
     "ai_reason": "",
     "source_en": "Pull out the giant rock",
     "review_note": "",
-    "new_translation_vi": "Nhổ tảng đá khổng lồ",
+    "new_translation_vi": "Kéo tảng đá lớn ra",
     "translator_note": ""
   },
   {
@@ -11571,7 +11571,7 @@
     "ai_reason": "",
     "source_en": "Investigate the scattered fur",
     "review_note": "",
-    "new_translation_vi": "Điều tra đám lông vương vãi",
+    "new_translation_vi": "Điều tra đống lông vương vãi",
     "translator_note": ""
   },
   {
@@ -11621,7 +11621,7 @@
     "ai_reason": "",
     "source_en": "Defeat the monsters",
     "review_note": "",
-    "new_translation_vi": "Đánh bại quái vật",
+    "new_translation_vi": "Tiêu diệt lũ quái vật",
     "translator_note": ""
   },
   {
@@ -11646,7 +11646,7 @@
     "ai_reason": "",
     "source_en": "Talk to Teeny",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Teeny",
+    "new_translation_vi": "Trò chuyện với Teeny",
     "translator_note": ""
   },
   {
@@ -11696,7 +11696,7 @@
     "ai_reason": "",
     "source_en": "Enter the cave",
     "review_note": "",
-    "new_translation_vi": "Enter hang động",
+    "new_translation_vi": "Vào hang",
     "translator_note": ""
   },
   {
@@ -11721,7 +11721,7 @@
     "ai_reason": "",
     "source_en": "Head to the camp",
     "review_note": "",
-    "new_translation_vi": "Đến trại",
+    "new_translation_vi": "Đi đến trại",
     "translator_note": ""
   },
   {
@@ -11746,7 +11746,7 @@
     "ai_reason": "",
     "source_en": "Pull out the giant rock",
     "review_note": "",
-    "new_translation_vi": "Nhổ tảng đá khổng lồ",
+    "new_translation_vi": "Kéo tảng đá lớn ra",
     "translator_note": ""
   },
   {
@@ -11771,7 +11771,7 @@
     "ai_reason": "",
     "source_en": "Head to the camp",
     "review_note": "",
-    "new_translation_vi": "Đến trại",
+    "new_translation_vi": "Đi đến trại",
     "translator_note": ""
   },
   {
@@ -11796,7 +11796,7 @@
     "ai_reason": "",
     "source_en": "Defeat the monsters",
     "review_note": "",
-    "new_translation_vi": "Đánh bại quái vật",
+    "new_translation_vi": "Tiêu diệt lũ quái vật",
     "translator_note": ""
   },
   {
@@ -11821,7 +11821,7 @@
     "ai_reason": "",
     "source_en": "Enter the cave",
     "review_note": "",
-    "new_translation_vi": "Enter hang động",
+    "new_translation_vi": "Vào hang",
     "translator_note": ""
   },
   {
@@ -11861,18 +11861,18 @@
     "primary_key": "Quest_176750000_InteractContent_176_5",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Wootter",
     "review_note": "",
     "new_translation_vi": "Wootter",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014476",
@@ -11896,7 +11896,7 @@
     "ai_reason": "",
     "source_en": "Wait until the camp is rebuilt (Wait until 12:00 tomorrow)",
     "review_note": "",
-    "new_translation_vi": "Khoan đến khi trại được dựng lại đã (đợi đến 12:00 ngày mai)",
+    "new_translation_vi": "Đợi trại được xây dựng lại (Đợi đến 12:00 ngày mai)",
     "translator_note": ""
   },
   {
@@ -11921,7 +11921,7 @@
     "ai_reason": "",
     "source_en": "It seems like the nearby hunting camp was attacked. Go check it out.",
     "review_note": "",
-    "new_translation_vi": "Có vẻ như trại săn gần đây đã bị tấn công. Đi kiểm tra xem sao.",
+    "new_translation_vi": "Có vẻ như trại săn bắn gần đây đã bị tấn công. Hãy đến kiểm tra xem.",
     "translator_note": ""
   },
   {
@@ -11946,7 +11946,7 @@
     "ai_reason": "",
     "source_en": "May Applause Greet You",
     "review_note": "",
-    "new_translation_vi": "Nguyện tiếng vỗ tay chào đón bạn",
+    "new_translation_vi": "Mong Tiếng Vỗ Tay Chào Đón Bạn",
     "translator_note": ""
   },
   {
@@ -11996,7 +11996,7 @@
     "ai_reason": "",
     "source_en": "Talk to Aeolus",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Aeolus",
+    "new_translation_vi": "Trò chuyện với Aeolus",
     "translator_note": ""
   },
   {
@@ -12021,7 +12021,7 @@
     "ai_reason": "",
     "source_en": "Search for the old hunter who has yet to return to camp",
     "review_note": "",
-    "new_translation_vi": "Tìm kiếm thợ săn già chưa trở về trại",
+    "new_translation_vi": "Tìm kiếm người thợ săn già chưa quay về trại",
     "translator_note": ""
   },
   {
@@ -12046,7 +12046,7 @@
     "ai_reason": "",
     "source_en": "Help the old hunter defeat the Tidespawn",
     "review_note": "",
-    "new_translation_vi": "Giúp lão thợ săn đánh bại Tidespawn.",
+    "new_translation_vi": "Giúp người thợ săn già đánh bại Tidespawn",
     "translator_note": ""
   },
   {
@@ -12071,7 +12071,7 @@
     "ai_reason": "",
     "source_en": "Head to the wandering Gladiators' camp",
     "review_note": "",
-    "new_translation_vi": "Đến trại của những Chiến Binh Lang Thang",
+    "new_translation_vi": "Đi đến trại của các đấu sĩ lang thang",
     "translator_note": ""
   },
   {
@@ -12121,7 +12121,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Dark Tide creations",
     "review_note": "",
-    "new_translation_vi": "Đánh bại sinh vật Dark Tide",
+    "new_translation_vi": "Đánh bại các tạo vật Dark Tide",
     "translator_note": ""
   },
   {
@@ -12171,7 +12171,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Dark Tide creations",
     "review_note": "",
-    "new_translation_vi": "Đánh bại sinh vật Dark Tide",
+    "new_translation_vi": "Đánh bại các tạo vật Dark Tide",
     "translator_note": ""
   },
   {
@@ -12196,7 +12196,7 @@
     "ai_reason": "",
     "source_en": "Follow the frequency",
     "review_note": "",
-    "new_translation_vi": "Theo dõi tần số",
+    "new_translation_vi": "Theo tần số",
     "translator_note": ""
   },
   {
@@ -12221,7 +12221,7 @@
     "ai_reason": "",
     "source_en": "Follow the frequency towards the old battlefield",
     "review_note": "",
-    "new_translation_vi": "Theo tần số tiến về chiến trường cũ",
+    "new_translation_vi": "Theo tần số hướng về chiến trường cũ",
     "translator_note": ""
   },
   {
@@ -12296,7 +12296,7 @@
     "ai_reason": "",
     "source_en": "Talk to Aeolus",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Aeolus",
+    "new_translation_vi": "Trò chuyện với Aeolus",
     "translator_note": ""
   },
   {
@@ -12311,7 +12311,6 @@
     "primary_key": "Quest_181750000_ChildQuestTip_181_23",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -12321,8 +12320,9 @@
     "ai_reason": "",
     "source_en": "(Optional) Talk to Rolla",
     "review_note": "",
-    "new_translation_vi": "(Tùy chọn) Talk với Rolla",
-    "translator_note": ""
+    "new_translation_vi": "(Tùy chọn) Trò chuyện với Rolla",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014494",
@@ -12336,7 +12336,6 @@
     "primary_key": "Quest_181750000_ChildQuestTip_181_24",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -12346,8 +12345,9 @@
     "ai_reason": "",
     "source_en": "(Optional) Talk to Gren",
     "review_note": "",
-    "new_translation_vi": "(Tùy chọn) Talk với Gren",
-    "translator_note": ""
+    "new_translation_vi": "(Tùy chọn) Trò chuyện với Gren",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0014495",
@@ -12396,7 +12396,7 @@
     "ai_reason": "",
     "source_en": "Return to the camp and share what happened",
     "review_note": "",
-    "new_translation_vi": "Return trại và kể lại những gì đã xảy ra",
+    "new_translation_vi": "Quay lại trại và chia sẻ những gì đã xảy ra",
     "translator_note": ""
   },
   {
@@ -12421,7 +12421,7 @@
     "ai_reason": "",
     "source_en": "Talk to Aeolus again",
     "review_note": "",
-    "new_translation_vi": "Talk lại với Aeolus",
+    "new_translation_vi": "Trò chuyện lại với Aeolus",
     "translator_note": ""
   },
   {
@@ -12446,7 +12446,7 @@
     "ai_reason": "",
     "source_en": "Approach the illusions",
     "review_note": "",
-    "new_translation_vi": "Tiếp cận ảo ảnh",
+    "new_translation_vi": "Tiếp cận các ảo ảnh",
     "translator_note": ""
   },
   {
@@ -12496,7 +12496,7 @@
     "ai_reason": "",
     "source_en": "Look for the prey's traces",
     "review_note": "",
-    "new_translation_vi": "Tìm dấu vết con mồi",
+    "new_translation_vi": "Tìm dấu vết của con mồi",
     "translator_note": ""
   }
 ]

@@ -34,7 +34,7 @@
       "new_db_size": 45056,
       "padding": 0,
       "quick_check": "ok",
-      "used_compact_db": ""
+      "used_compact_db": "mistral_translate_work\\reports\\direct_pak_patch\\compact_dbs\\lang_compose.db.compact.db"
     },
     {
       "db": "lang_cook.db",
@@ -55,7 +55,7 @@
       "used_compact_db": ""
     },
     {
-      "db": "lang_detection.db",
+      "db": "lang_monster_Info.db",
       "offset": 205171,
       "old_region_size": 65536,
       "new_db_size": 65536,
@@ -120,8 +120,8 @@
     {
       "db": "lang_guide_new.db",
       "offset": 549606,
-      "old_region_size": 102400,
-      "new_db_size": 102400,
+      "old_region_size": 94208,
+      "new_db_size": 94208,
       "padding": 0,
       "quick_check": "ok",
       "used_compact_db": ""
@@ -138,8 +138,8 @@
     {
       "db": "lang_handbook.db",
       "offset": 701264,
-      "old_region_size": 143360,
-      "new_db_size": 143360,
+      "old_region_size": 139264,
+      "new_db_size": 139264,
       "padding": 0,
       "quick_check": "ok",
       "used_compact_db": ""
@@ -181,7 +181,7 @@
       "used_compact_db": ""
     },
     {
-      "db": "lang_infodisplay.db",
+      "db": "lang_subtitle_text.db",
       "offset": 963673,
       "old_region_size": 110592,
       "new_db_size": 110592,
@@ -192,8 +192,8 @@
     {
       "db": "lang_map_mark.db",
       "offset": 1184910,
-      "old_region_size": 77824,
-      "new_db_size": 77824,
+      "old_region_size": 73728,
+      "new_db_size": 73728,
       "padding": 0,
       "quick_check": "ok",
       "used_compact_db": ""
@@ -210,14 +210,14 @@
     {
       "db": "lang_item.db",
       "offset": 1422584,
-      "old_region_size": 229376,
-      "new_db_size": 229376,
+      "old_region_size": 217088,
+      "new_db_size": 217088,
       "padding": 0,
       "quick_check": "ok",
-      "used_compact_db": ""
+      "used_compact_db": "mistral_translate_work\\reports\\direct_pak_patch\\compact_dbs\\lang_item.db.compact.db"
     },
     {
-      "db": "lang_multi_text_2ndhalf.db",
+      "db": "lang_speaker.db",
       "offset": 1807661,
       "old_region_size": 159744,
       "new_db_size": 159744,
@@ -228,11 +228,11 @@
     {
       "db": "lang_multi_text_1sthalf.db",
       "offset": 2094434,
-      "old_region_size": 311296,
-      "new_db_size": 311296,
+      "old_region_size": 303104,
+      "new_db_size": 303104,
       "padding": 0,
       "quick_check": "ok",
-      "used_compact_db": ""
+      "used_compact_db": "mistral_translate_work\\reports\\direct_pak_patch\\compact_dbs\\lang_multi_text_1sthalf.db.compact.db"
     },
     {
       "db": "lang_once_tower_challenge.db",
@@ -273,8 +273,8 @@
     {
       "db": "lang_phantom.db",
       "offset": 2791019,
-      "old_region_size": 266240,
-      "new_db_size": 266240,
+      "old_region_size": 241664,
+      "new_db_size": 241664,
       "padding": 0,
       "quick_check": "ok",
       "used_compact_db": ""
@@ -286,7 +286,7 @@
       "new_db_size": 61440,
       "padding": 0,
       "quick_check": "ok",
-      "used_compact_db": "mistral_translate_work\\reports\\direct_pak_patch\\compact_dbs\\lang_skillTree.db.compact.db"
+      "used_compact_db": ""
     },
     {
       "db": "lang_time_of_day.db",
@@ -298,20 +298,20 @@
       "used_compact_db": ""
     },
     {
-      "db": "lang_weapon.db",
+      "db": "lang_monster_Info.db",
       "offset": 3389194,
       "old_region_size": 65536,
-      "new_db_size": 57344,
-      "padding": 8192,
+      "new_db_size": 65536,
+      "padding": 0,
       "quick_check": "ok",
-      "used_compact_db": "mistral_translate_work\\reports\\direct_pak_patch\\compact_dbs\\lang_weapon.db.compact.db"
+      "used_compact_db": ""
     },
     {
       "db": "lang_multi_text.db",
       "offset": 7030424,
-      "old_region_size": 46342144,
-      "new_db_size": 43401216,
-      "padding": 2940928,
+      "old_region_size": 45993984,
+      "new_db_size": 42979328,
+      "padding": 3014656,
       "quick_check": "ok",
       "used_compact_db": "mistral_translate_work\\reports\\direct_pak_patch\\compact_dbs\\lang_multi_text.db.compact.db"
     }

@@ -11,7 +11,6 @@
     "primary_key": "1",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -21,8 +20,9 @@
     "ai_reason": "",
     "source_en": "Hold {0}, {1} to move back and forth.\nHold {2}, {3} to move left and right.",
     "review_note": "",
-    "new_translation_vi": "Giữ {0}, {1} để di chuyển tới lui.\nGiữ {2}, {3} để di chuyển trái phải.",
-    "translator_note": ""
+    "new_translation_vi": "Hold {0}, {1} to move back and forth.\\nHold {2}, {3} to move left and right.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000520",
@@ -36,7 +36,6 @@
     "primary_key": "2",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -47,7 +46,8 @@
     "source_en": "Tap {0} to jump.",
     "review_note": "",
     "new_translation_vi": "Nhấn {0} để nhảy.",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000521",
@@ -61,7 +61,6 @@
     "primary_key": "3",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -71,8 +70,9 @@
     "ai_reason": "",
     "source_en": "Hold {0} and {1}/{2}\nStart to sprint.",
     "review_note": "",
-    "new_translation_vi": "Giữ {0} và {1}/{2}\nBắt đầu chạy nước rút",
-    "translator_note": ""
+    "new_translation_vi": "Hold {0} and {1}/{2}\\nStart to sprint.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000522",
@@ -86,7 +86,6 @@
     "primary_key": "4",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -96,8 +95,9 @@
     "ai_reason": "",
     "source_en": "Hold (Joystick) and (Evade)\nStart to sprint.",
     "review_note": "",
-    "new_translation_vi": "Giữ (Joystick) và (Evade)\nBắt đầu chạy nước rút.",
-    "translator_note": ""
+    "new_translation_vi": "Hold (Joystick) and (Evade)\\nStart to sprint.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000523",
@@ -111,7 +111,6 @@
     "primary_key": "5",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -121,8 +120,9 @@
     "ai_reason": "",
     "source_en": "Stand beside the walls and hold {0} to climb.",
     "review_note": "",
-    "new_translation_vi": "Stand cạnh tường và giữ {0} để leo.",
-    "translator_note": ""
+    "new_translation_vi": "Đứng cạnh tường và giữ {0} để leo.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000524",
@@ -136,7 +136,6 @@
     "primary_key": "8",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -146,8 +145,9 @@
     "ai_reason": "",
     "source_en": "Stand next to Echo and tap {0} while the interface shows up to absorb the Echo.",
     "review_note": "",
-    "new_translation_vi": "Stand cạnh Echo và nhấn {0} khi giao diện xuất hiện để hấp thụ Echo.",
-    "translator_note": ""
+    "new_translation_vi": "Đứng cạnh Echo và nhấn {0} khi giao diện xuất hiện để hấp thụ Echo.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000525",
@@ -161,7 +161,6 @@
     "primary_key": "11",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -172,7 +171,8 @@
     "source_en": "Tap {0} while in the air to glide.",
     "review_note": "",
     "new_translation_vi": "Nhấn {0} khi đang ở trên không để lướt.",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000526",
@@ -186,7 +186,6 @@
     "primary_key": "12",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -196,8 +195,9 @@
     "ai_reason": "",
     "source_en": "Tap {0} to aim.",
     "review_note": "",
-    "new_translation_vi": "Chạm {0} để ngắm.",
-    "translator_note": ""
+    "new_translation_vi": "Nhấn {0} để ngắm.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000527",
@@ -211,7 +211,6 @@
     "primary_key": "14",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -221,8 +220,9 @@
     "ai_reason": "",
     "source_en": "Tap {0} now to fend the attack.",
     "review_note": "",
-    "new_translation_vi": "Nhấn {0} ngay để đỡ đòn.",
-    "translator_note": ""
+    "new_translation_vi": "Nhấn {0} ngay bây giờ để đỡ đòn tấn công.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000528",
@@ -236,7 +236,6 @@
     "primary_key": "15",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -246,8 +245,9 @@
     "ai_reason": "",
     "source_en": "Time Setting Guide.\nTap {0} to open the System Menu.",
     "review_note": "",
-    "new_translation_vi": "Hướng dẫn Setting Thời gian.\nNhấn {0} để mở Menu Hệ thống.",
-    "translator_note": ""
+    "new_translation_vi": "Time Setting Guide.\\nTap {0} to open the System Menu.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000529",
@@ -261,7 +261,6 @@
     "primary_key": "16",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -272,7 +271,8 @@
     "source_en": "Hold {0} to move to the edge of the cliff.",
     "review_note": "",
     "new_translation_vi": "Giữ {0} để di chuyển đến mép vách đá.",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000530",
@@ -286,7 +286,6 @@
     "primary_key": "17",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -296,8 +295,9 @@
     "ai_reason": "",
     "source_en": "Hold (Joystick) to move to the edge of the cliff.",
     "review_note": "",
-    "new_translation_vi": "Giữ (Needle) để di chuyển đến mép vách đá.",
-    "translator_note": ""
+    "new_translation_vi": "Giữ (Cần điều khiển) để di chuyển đến mép vách đá.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000531",
@@ -311,7 +311,6 @@
     "primary_key": "30",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -321,8 +320,9 @@
     "ai_reason": "",
     "source_en": "Weapon Switching Guide.\nTap {0} to open Resonator page.",
     "review_note": "",
-    "new_translation_vi": "Hướng dẫn chuyển Vũ khí.\nChạm {0} để mở trang Resonator.",
-    "translator_note": ""
+    "new_translation_vi": "Vũ khí Switching Guide.\\nTap {0} to open Resonator page.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000532",
@@ -336,7 +336,6 @@
     "primary_key": "31",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -346,8 +345,9 @@
     "ai_reason": "",
     "source_en": "Resonator Upgrade Guide.\nTap {0} to open Resonator page.",
     "review_note": "",
-    "new_translation_vi": "Hướng dẫn Nâng cấp Resonator.\nNhấn {0} để mở trang Resonator.",
-    "translator_note": ""
+    "new_translation_vi": "Resonator Upgrade Guide.\\nTap {0} to open Resonator page.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000533",
@@ -361,7 +361,6 @@
     "primary_key": "32",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -371,8 +370,9 @@
     "ai_reason": "",
     "source_en": "Teleport Guide.\nTap {0} to open Map.",
     "review_note": "",
-    "new_translation_vi": "Hướng dẫn Dịch chuyển.\nNhấn {0} để mở Bản đồ.",
-    "translator_note": ""
+    "new_translation_vi": "Hướng dẫn dịch chuyển.\\nNhấn {0} để mở Bản đồ.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000534",
@@ -386,7 +386,6 @@
     "primary_key": "33",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -396,8 +395,9 @@
     "ai_reason": "",
     "source_en": "While in midair, tap {0}/{1} to evade in the air.",
     "review_note": "",
-    "new_translation_vi": "Khi ở trên không, nhấn {0}/{1} để Dodge.",
-    "translator_note": ""
+    "new_translation_vi": "Khi đang ở trên không, nhấn {0}/{1} để né tránh trên không.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000535",
@@ -411,7 +411,6 @@
     "primary_key": "34",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -421,8 +420,9 @@
     "ai_reason": "",
     "source_en": "While in midair. Tap [Evade] to evade in the air.",
     "review_note": "",
-    "new_translation_vi": "Khi ở trên không. Nhấn [Dodge] để Dodge trên không.",
-    "translator_note": ""
+    "new_translation_vi": "Khi đang ở trên không. Nhấn [Evade] để né tránh trên không.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000536",
@@ -436,7 +436,6 @@
     "primary_key": "35",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -446,8 +445,9 @@
     "ai_reason": "",
     "source_en": "Hold {0} to open Exploration Tools Wheel.",
     "review_note": "",
-    "new_translation_vi": "Giữ {0} để mở Wheel Công Cụ Khám Phá.",
-    "translator_note": ""
+    "new_translation_vi": "Giữ {0} để mở Bánh xe Công cụ Khám phá.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000537",
@@ -461,7 +461,6 @@
     "primary_key": "36",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -471,8 +470,9 @@
     "ai_reason": "",
     "source_en": "Select Scanning Tool\nDrag toward Scanning Tool section and release {0} to select it.",
     "review_note": "",
-    "new_translation_vi": "Chọn Công cụ Quét\nKéo về mục Công cụ Quét và thả {0} để chọn.",
-    "translator_note": ""
+    "new_translation_vi": "Chọn Công cụ Quét\\nKéo về phía phần Công cụ Quét và thả {0} để chọn nó.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000538",
@@ -486,7 +486,6 @@
     "primary_key": "37",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -496,8 +495,9 @@
     "ai_reason": "",
     "source_en": "Tap {0} to use Scanning Tool.",
     "review_note": "",
-    "new_translation_vi": "Nhấn {0} để dùng Công Cụ Quét.",
-    "translator_note": ""
+    "new_translation_vi": "Nhấn {0} để sử dụng Công cụ Quét.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000539",
@@ -511,7 +511,6 @@
     "primary_key": "38",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -521,8 +520,9 @@
     "ai_reason": "",
     "source_en": "Select Scanning Tool.\nDrag towards the Scanning Tool section and release to select it.",
     "review_note": "",
-    "new_translation_vi": "Chọn Công Cụ Quét.\nKéo về mục Công Cụ Quét và thả để chọn.",
-    "translator_note": ""
+    "new_translation_vi": "Chọn Công cụ Quét.\\nKéo về phía phần Công cụ Quét và thả để chọn nó.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000540",
@@ -536,7 +536,6 @@
     "primary_key": "39",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -546,8 +545,9 @@
     "ai_reason": "",
     "source_en": "Hold {0} to open Exploration Tools Wheel.",
     "review_note": "",
-    "new_translation_vi": "Giữ {0} để mở Wheel Công Cụ Khám Phá.",
-    "translator_note": ""
+    "new_translation_vi": "Giữ {0} để mở Bánh xe Công cụ Khám phá.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000541",
@@ -561,7 +561,6 @@
     "primary_key": "40",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -571,8 +570,9 @@
     "ai_reason": "",
     "source_en": "Select Grapple Tool\nDrag your mouse towards the Grapple Tool section and release {0}.",
     "review_note": "",
-    "new_translation_vi": "Chọn Dụng Cụ Neo\nKéo chuột về mục Dụng Cụ Neo và thả {0}.",
-    "translator_note": ""
+    "new_translation_vi": "Chọn Công cụ Móc kéo\\nKéo chuột về phía phần Công cụ Móc kéo và thả {0}.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000542",
@@ -586,7 +586,6 @@
     "primary_key": "41",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -596,8 +595,9 @@
     "ai_reason": "",
     "source_en": "Tap {0} to use Grapple.",
     "review_note": "",
-    "new_translation_vi": "Nhấn {0} để sử dụng Móc câu.",
-    "translator_note": ""
+    "new_translation_vi": "Nhấn {0} để sử dụng Móc kéo.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000543",
@@ -611,7 +611,6 @@
     "primary_key": "42",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -621,8 +620,9 @@
     "ai_reason": "",
     "source_en": "Select Grapple.\nDrag towards the Grapple Tools to select it.",
     "review_note": "",
-    "new_translation_vi": "Chọn Grapple.\nKéo về phía Công Cụ Grapple để chọn.",
-    "translator_note": ""
+    "new_translation_vi": "Chọn Móc kéo.\\nKéo về phía Công cụ Móc kéo để chọn nó.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000544",
@@ -636,7 +636,6 @@
     "primary_key": "43",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -646,8 +645,9 @@
     "ai_reason": "",
     "source_en": "Hold {0} to open Exploration Tools Wheel.",
     "review_note": "",
-    "new_translation_vi": "Giữ {0} để mở Wheel Công Cụ Khám Phá.",
-    "translator_note": ""
+    "new_translation_vi": "Giữ {0} để mở Bánh xe Công cụ Khám phá.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000545",
@@ -661,7 +661,6 @@
     "primary_key": "44",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -671,8 +670,9 @@
     "ai_reason": "",
     "source_en": "Select Levitation Tool\nDrag towards the Levitation Tool and release {0} to select it.",
     "review_note": "",
-    "new_translation_vi": "Chọn Công Cụ Bay Lượn\nKéo về phía Công Cụ Bay Lượn và thả {0} để chọn.",
-    "translator_note": ""
+    "new_translation_vi": "Chọn Công cụ Bay lơ lửng\\nKéo về phía Công cụ Bay lơ lửng và thả {0} để chọn nó.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000546",
@@ -686,7 +686,6 @@
     "primary_key": "45",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -696,8 +695,9 @@
     "ai_reason": "",
     "source_en": "Tap {0} to use Levitation Tool.",
     "review_note": "",
-    "new_translation_vi": "Nhấn {0} để dùng Công cụ Bay Lượn.",
-    "translator_note": ""
+    "new_translation_vi": "Nhấn {0} để sử dụng Công cụ Bay lơ lửng.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000547",
@@ -711,7 +711,6 @@
     "primary_key": "46",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -721,8 +720,9 @@
     "ai_reason": "",
     "source_en": "Tap {0} now to throw.",
     "review_note": "",
-    "new_translation_vi": "Nhấn {0} ngay để ném.",
-    "translator_note": ""
+    "new_translation_vi": "Nhấn {0} ngay bây giờ để ném.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000548",
@@ -736,7 +736,6 @@
     "primary_key": "47",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -746,8 +745,9 @@
     "ai_reason": "",
     "source_en": "Select Levitation Tool.\nDrag towards the Levitation Tool section to select it.",
     "review_note": "",
-    "new_translation_vi": "Chọn Công cụ Bay.\nKéo vào mục Công cụ Bay để chọn.",
-    "translator_note": ""
+    "new_translation_vi": "Chọn Công cụ Bay lơ lửng.\\nKéo về phía phần Công cụ Bay lơ lửng để chọn nó.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000549",
@@ -761,7 +761,6 @@
     "primary_key": "48",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -771,8 +770,9 @@
     "ai_reason": "",
     "source_en": "Solo Record Guide.\nTap {0} to open mission page.",
     "review_note": "",
-    "new_translation_vi": "Hướng dẫn Ghi Solo.\nNhấn {0} để mở trang nhiệm vụ.",
-    "translator_note": ""
+    "new_translation_vi": "Hướng dẫn Hồ sơ Cá nhân.\\nNhấn {0} để mở trang nhiệm vụ.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000550",
@@ -786,7 +786,6 @@
     "primary_key": "49",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -796,8 +795,9 @@
     "ai_reason": "",
     "source_en": "Tap {0} to aim.",
     "review_note": "",
-    "new_translation_vi": "Chạm {0} để ngắm.",
-    "translator_note": ""
+    "new_translation_vi": "Nhấn {0} để ngắm.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000551",
@@ -811,7 +811,6 @@
     "primary_key": "58",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -822,7 +821,8 @@
     "source_en": "Tap {0} to jump.",
     "review_note": "",
     "new_translation_vi": "Nhấn {0} để nhảy.",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000552",
@@ -836,7 +836,6 @@
     "primary_key": "59",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -846,8 +845,9 @@
     "ai_reason": "",
     "source_en": "Hold {0}, {1} to move back and forth.\nHold {2}, {3} to move left and right.",
     "review_note": "",
-    "new_translation_vi": "Giữ {0}, {1} để di chuyển tới lui.\nGiữ {2}, {3} để di chuyển trái phải.",
-    "translator_note": ""
+    "new_translation_vi": "Giữ {0}, {1} để di chuyển tới lui.\\nGiữ {2}, {3} để di chuyển sang trái và phải.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000553",
@@ -861,7 +861,6 @@
     "primary_key": "61",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -871,8 +870,9 @@
     "ai_reason": "",
     "source_en": "Hold {0} and {1}/{2}\nStart to sprint.",
     "review_note": "",
-    "new_translation_vi": "Giữ {0} và {1}/{2}\nBắt đầu chạy nước rút",
-    "translator_note": ""
+    "new_translation_vi": "Giữ {0} và {1}/{2}\\nBắt đầu chạy nước rút.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000554",
@@ -886,7 +886,6 @@
     "primary_key": "28",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -896,8 +895,9 @@
     "ai_reason": "",
     "source_en": "This MO uses the pillar trapping it as weapon. So the pillar is the threat yet also the weak point. Attacking the pillar may have unexpected result.",
     "review_note": "",
-    "new_translation_vi": "Quái vật cơ giới này sử dụng cột bị mắc kẹt làm vũ khí. Vì vậy, cột vừa là mối đe dọa vừa là điểm yếu. Tấn công cột có thể gây ra kết quả bất ngờ.",
-    "translator_note": ""
+    "new_translation_vi": "Sinh vật này sử dụng cột đá làm vũ khí. Vì vậy, cột đá vừa là mối đe dọa vừa là điểm yếu. Tấn công cột đá có thể mang lại kết quả bất ngờ.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000555",
@@ -911,7 +911,6 @@
     "primary_key": "29",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -921,8 +920,9 @@
     "ai_reason": "",
     "source_en": "The powerful Mutant Organism that inhabit theDesorock Highlands. Often found on the tops of towering mountains and have a strong sense of owning a territory.",
     "review_note": "",
-    "new_translation_vi": "Sinh vật đột biến mạnh mẽ sống ở Desorock Highland. Thường xuất hiện trên đỉnh những ngọn núi cao chót vót và có ý thức lãnh thổ mạnh mẽ.",
-    "translator_note": ""
+    "new_translation_vi": "Sinh vật đột biến mạnh mẽ cư trú tại Desorock Highland. Thường được tìm thấy trên đỉnh những ngọn núi cao chót vót và có ý thức lãnh thổ rất mạnh.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000556",
@@ -936,7 +936,6 @@
     "primary_key": "35",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -946,8 +945,9 @@
     "ai_reason": "",
     "source_en": "Tambourine Instrumentalists can play a tune to create energy ball of Rapture energy to hinder your actions.",
     "review_note": "",
-    "new_translation_vi": "Nhạc công Tambourine có thể chơi một giai điệu tạo ra quả cầu năng lượng Rapture để cản trở hành động của bạn.",
-    "translator_note": ""
+    "new_translation_vi": "Những nhạc công Tambourine có thể chơi một giai điệu để tạo ra quả cầu năng lượng Rapture nhằm cản trở hành động của cậu.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000557",
@@ -961,7 +961,6 @@
     "primary_key": "41",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -971,8 +970,9 @@
     "ai_reason": "",
     "source_en": "When an Excaratte burrows into the ground, use drop attacks to knock it out of the ground.",
     "review_note": "",
-    "new_translation_vi": "Khi Excaratte chui xuống đất, dùng đòn đánh rơi để đánh bật nó lên.",
-    "translator_note": ""
+    "new_translation_vi": "Khi Excaratte đào xuống đất, hãy sử dụng đòn tấn công từ trên không để đánh bật nó ra khỏi mặt đất.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000558",
@@ -986,7 +986,6 @@
     "primary_key": "46",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -996,8 +995,9 @@
     "ai_reason": "",
     "source_en": "Using a pistol to strike the Tacetrite core on the Geohide Saurian's back will cause it to receive a great shock, putting it in a paralyzed state.",
     "review_note": "",
-    "new_translation_vi": "Dùng súng bắn vào lõi Tacetrite trên lưng Geohide Saurian sẽ khiến nó bị sốc nặng và rơi vào trạng thái tê liệt.",
-    "translator_note": ""
+    "new_translation_vi": "Sử dụng súng lục để bắn vào lõi Tacetite trên lưng Geohide Saurian sẽ khiến nó chịu một cú sốc lớn, rơi vào trạng thái tê liệt.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000559",
@@ -1011,7 +1011,6 @@
     "primary_key": "49",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1021,8 +1020,9 @@
     "ai_reason": "",
     "source_en": "Spearback Ursa's front paws are covered with Tacetite with extremely strong physical durability.",
     "review_note": "",
-    "new_translation_vi": "Hai chân trước của Spearback Ursa được bao phủ bởi Tacetite có độ bền vật lý cực cao.",
-    "translator_note": ""
+    "new_translation_vi": "Chân trước của Spearback Ursa được bao phủ bởi Tacetite với độ bền vật lý cực kỳ cao.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000560",
@@ -1036,7 +1036,6 @@
     "primary_key": "66",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1046,8 +1045,9 @@
     "ai_reason": "",
     "source_en": "Rover can absorb and feel all sounds, being closely connected to the world. All of Rover's actions of explorations within the world can raise the Union Level.",
     "review_note": "",
-    "new_translation_vi": "Rover có thể hấp thụ và cảm nhận mọi âm thanh, gắn bó mật thiết với thế giới. Mọi hành động khám phá của Rover trong thế giới đều có thể nâng cao Cấp Liên Minh.",
-    "translator_note": ""
+    "new_translation_vi": "Rover có thể hấp thụ và cảm nhận mọi âm thanh, kết nối chặt chẽ với thế giới. Mọi hành động khám phá của Rover trong thế giới đều có thể nâng cao Cấp độ Liên minh.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000561",
@@ -1061,7 +1061,6 @@
     "primary_key": "69",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1071,8 +1070,9 @@
     "ai_reason": "",
     "source_en": "An ability useful for crossing over terrains. Can be used directly in leaping upwards, or you can look for Grapple Points in the map for even further travels.",
     "review_note": "",
-    "new_translation_vi": "Kỹ năng hữu ích để vượt địa hình. Có thể dùng để nhảy lên trực tiếp hoặc tìm Points Móc trên bản đồ để di chuyển xa hơn.",
-    "translator_note": ""
+    "new_translation_vi": "Một khả năng hữu ích để vượt qua địa hình. Có thể sử dụng trực tiếp khi nhảy lên cao, hoặc cậu có thể tìm các Điểm Móc kéo trên bản đồ để di chuyển xa hơn nữa.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000562",
@@ -1086,7 +1086,6 @@
     "primary_key": "71",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1096,8 +1095,9 @@
     "ai_reason": "",
     "source_en": "After activating the Choral Beacon, open the map interface and select the activated Choral Beacon for fast travel.",
     "review_note": "",
-    "new_translation_vi": "Sau khi kích hoạt Choral Beacon, mở bản đồ và chọn Choral Beacon đã kích hoạt để di chuyển nhanh.",
-    "translator_note": ""
+    "new_translation_vi": "Sau khi kích hoạt Choral Beacon, hãy mở giao diện bản đồ và chọn Choral Beacon đã kích hoạt để di chuyển nhanh.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000563",
@@ -1111,7 +1111,6 @@
     "primary_key": "84",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1121,8 +1120,9 @@
     "ai_reason": "",
     "source_en": "A wide range of Grapple Points found across the lands, cast your Grappling Hook travel through long distances quickly.",
     "review_note": "",
-    "new_translation_vi": "Nhiều Points Móc rộng khắp vùng đất, hãy dùng Grapple để di chuyển quãng đường xa nhanh chóng.",
-    "translator_note": ""
+    "new_translation_vi": "Có rất nhiều Điểm Móc Câu trên khắp các vùng đất, hãy sử dụng Móc Câu để di chuyển quãng đường dài một cách nhanh chóng.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000564",
@@ -1136,7 +1136,6 @@
     "primary_key": "85",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1146,8 +1145,9 @@
     "ai_reason": "",
     "source_en": "Fragile obstacles that can be broken down by means of ordinary attacks and other various methods. Maybe there will be some unexpected goodies behind it?",
     "review_note": "",
-    "new_translation_vi": "Vật cản dễ vỡ có thể bị phá hủy bằng các đòn tấn công thông thường và nhiều phương pháp khác. Có thể sẽ có phần thưởng bất ngờ đằng sau?",
-    "translator_note": ""
+    "new_translation_vi": "Những chướng ngại vật mỏng manh có thể bị phá hủy bằng các đòn tấn công thông thường và nhiều phương pháp khác. Biết đâu sẽ có những món quà bất ngờ ẩn sau đó?",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000565",
@@ -1161,7 +1161,6 @@
     "primary_key": "144",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1171,8 +1170,9 @@
     "ai_reason": "",
     "source_en": "An ability useful for crossing over terrains. Can be used directly in leaping upwards, or you can look for Grapple Points in the map for even further travels.",
     "review_note": "",
-    "new_translation_vi": "Kỹ năng hữu ích để vượt địa hình. Có thể dùng để nhảy lên trực tiếp hoặc tìm Points Móc trên bản đồ để di chuyển xa hơn.",
-    "translator_note": ""
+    "new_translation_vi": "Một kỹ năng hữu ích để vượt địa hình. Có thể sử dụng trực tiếp khi nhảy lên cao, hoặc bạn có thể tìm các Điểm Móc Câu trên bản đồ để di chuyển xa hơn nữa.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000566",
@@ -1186,7 +1186,6 @@
     "primary_key": "157",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1196,8 +1195,9 @@
     "ai_reason": "",
     "source_en": "Rover can absorb and feel all sounds, being closely connected to the world. All of Rover's actions of explorations within the world can raise the Union Level.",
     "review_note": "",
-    "new_translation_vi": "Rover có thể hấp thụ và cảm nhận mọi âm thanh, gắn bó mật thiết với thế giới. Mọi hành động khám phá của Rover trong thế giới đều có thể nâng cao Cấp Liên Minh.",
-    "translator_note": ""
+    "new_translation_vi": "Rover có thể hấp thụ và cảm nhận mọi âm thanh, có mối liên kết chặt chẽ với thế giới này. Mọi hành động khám phá của Rover trong thế giới đều có thể tăng Cấp Liên Minh.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000567",
@@ -1211,7 +1211,6 @@
     "primary_key": "160",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1221,8 +1220,9 @@
     "ai_reason": "",
     "source_en": "An ability useful for crossing over terrains. Can be used directly in leaping upwards, or you can look for Grapple Points in the map for even further travels.",
     "review_note": "",
-    "new_translation_vi": "Kỹ năng hữu ích để vượt địa hình. Có thể dùng để nhảy lên trực tiếp hoặc tìm Points Móc trên bản đồ để di chuyển xa hơn.",
-    "translator_note": ""
+    "new_translation_vi": "Một kỹ năng hữu ích để vượt địa hình. Có thể sử dụng trực tiếp khi nhảy lên cao, hoặc bạn có thể tìm các Điểm Móc Câu trên bản đồ để di chuyển xa hơn nữa.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000568",
@@ -1236,7 +1236,6 @@
     "primary_key": "162",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1246,8 +1245,9 @@
     "ai_reason": "",
     "source_en": "An ability useful for crossing over terrains. Can be used directly in leaping upwards, or you can look for Grapple Points in the map for even further travels.",
     "review_note": "",
-    "new_translation_vi": "Kỹ năng hữu ích để vượt địa hình. Có thể dùng để nhảy lên trực tiếp hoặc tìm Points Móc trên bản đồ để di chuyển xa hơn.",
-    "translator_note": ""
+    "new_translation_vi": "Một kỹ năng hữu ích để vượt địa hình. Có thể sử dụng trực tiếp khi nhảy lên cao, hoặc bạn có thể tìm các Điểm Móc Câu trên bản đồ để di chuyển xa hơn nữa.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000569",
@@ -1261,7 +1261,6 @@
     "primary_key": "3",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1271,8 +1270,9 @@
     "ai_reason": "",
     "source_en": "Stand beside the walls and drag to move will allow you to climb.",
     "review_note": "",
-    "new_translation_vi": "Stand cạnh tường và kéo để di chuyển sẽ giúp bạn leo lên.",
-    "translator_note": ""
+    "new_translation_vi": "Đứng cạnh các bức tường và kéo để di chuyển sẽ cho phép bạn leo trèo.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000570",
@@ -1286,7 +1286,6 @@
     "primary_key": "6",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1297,7 +1296,8 @@
     "source_en": "Tap to absorb the Echo.",
     "review_note": "",
     "new_translation_vi": "Chạm để hấp thụ Echo.",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000571",
@@ -1311,7 +1311,6 @@
     "primary_key": "9",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1321,8 +1320,9 @@
     "ai_reason": "",
     "source_en": "Tap jump again in the air will allow you to glide.",
     "review_note": "",
-    "new_translation_vi": "Nhấn nhảy thêm lần nữa giữa không trung để lướt.",
-    "translator_note": ""
+    "new_translation_vi": "Chạm nhảy lần nữa khi đang ở trên không sẽ cho phép bạn lướt.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000572",
@@ -1336,7 +1336,6 @@
     "primary_key": "10",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1346,8 +1345,9 @@
     "ai_reason": "",
     "source_en": "Tap {0} to switch Resonators.",
     "review_note": "",
-    "new_translation_vi": "Chạm {0} để chuyển đổi Resonators.",
-    "translator_note": ""
+    "new_translation_vi": "Chạm {0} để chuyển đổi Resonator.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000573",
@@ -1361,7 +1361,6 @@
     "primary_key": "11",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1371,8 +1370,9 @@
     "ai_reason": "",
     "source_en": "Tap here to switch Resonators.",
     "review_note": "",
-    "new_translation_vi": "Chạm vào đây để đổi Resonators.",
-    "translator_note": ""
+    "new_translation_vi": "Chạm vào đây để chuyển đổi Resonator.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000574",
@@ -1386,7 +1386,6 @@
     "primary_key": "12",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1396,8 +1395,9 @@
     "ai_reason": "",
     "source_en": "Tap here to aim.",
     "review_note": "",
-    "new_translation_vi": "Chạm vào đây để ngắm.",
-    "translator_note": ""
+    "new_translation_vi": "Chạm vào đây để ngắm bắn.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000575",
@@ -1411,7 +1411,6 @@
     "primary_key": "14",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1421,8 +1420,9 @@
     "ai_reason": "",
     "source_en": "Tap {0} to lock the camera.\nHold to unlock the camera.",
     "review_note": "",
-    "new_translation_vi": "Chạm {0} để khóa camera.\nGiữ để mở khóa camera.",
-    "translator_note": ""
+    "new_translation_vi": "Chạm {0} để khóa camera.\\nGiữ để mở khóa camera.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000576",
@@ -1436,7 +1436,6 @@
     "primary_key": "15",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1446,8 +1445,9 @@
     "ai_reason": "",
     "source_en": "Tap to lock the camera.\nHold to unlock the camera",
     "review_note": "",
-    "new_translation_vi": "Chạm để khóa camera.\nGiữ để mở khóa camera",
-    "translator_note": ""
+    "new_translation_vi": "Chạm để khóa camera.\\nGiữ để mở khóa camera.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000577",
@@ -1461,7 +1461,6 @@
     "primary_key": "17",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1471,8 +1470,9 @@
     "ai_reason": "",
     "source_en": "Tap {0} to track the mission.",
     "review_note": "",
-    "new_translation_vi": "Nhấn {0} để theo dõi nhiệm vụ.",
-    "translator_note": ""
+    "new_translation_vi": "Chạm {0} để theo dõi nhiệm vụ.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000578",
@@ -1486,7 +1486,6 @@
     "primary_key": "18",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1496,8 +1495,9 @@
     "ai_reason": "",
     "source_en": "Tao to open System Menu.",
     "review_note": "",
-    "new_translation_vi": "Nhấn Ta để mở Menu Hệ thống.",
-    "translator_note": ""
+    "new_translation_vi": "Chạm để mở Menu Hệ thống.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000579",
@@ -1511,7 +1511,6 @@
     "primary_key": "19",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1521,8 +1520,9 @@
     "ai_reason": "",
     "source_en": "Tap here to open Time Setting.",
     "review_note": "",
-    "new_translation_vi": "Chạm vào đây để mở Cài Đặt Thời Gian.",
-    "translator_note": ""
+    "new_translation_vi": "Chạm vào đây để mở Cài đặt Thời gian.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000580",
@@ -1536,7 +1536,6 @@
     "primary_key": "20",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1546,8 +1545,9 @@
     "ai_reason": "",
     "source_en": "Tap here to set the list.\nTap Confirm to finish the setting.",
     "review_note": "",
-    "new_translation_vi": "Chạm vào đây để thiết lập danh sách.\nChạm Xác nhận để hoàn tất.",
-    "translator_note": ""
+    "new_translation_vi": "Chạm vào đây để thiết lập danh sách.\\nChạm Xác nhận để hoàn tất cài đặt.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000581",
@@ -1561,7 +1561,6 @@
     "primary_key": "21",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1571,8 +1570,9 @@
     "ai_reason": "",
     "source_en": "Time Setting Guide.\nTap to open the System Menu.",
     "review_note": "",
-    "new_translation_vi": "Hướng dẫn Setting Thời Gian.\nChạm để mở Menu Hệ thống.",
-    "translator_note": ""
+    "new_translation_vi": "Hướng dẫn Cài đặt Thời gian.\\nChạm để mở Menu Hệ thống.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000582",
@@ -1586,7 +1586,6 @@
     "primary_key": "22",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1596,8 +1595,9 @@
     "ai_reason": "",
     "source_en": "Tap here to open Time Setting.",
     "review_note": "",
-    "new_translation_vi": "Chạm vào đây để mở Cài Đặt Thời Gian.",
-    "translator_note": ""
+    "new_translation_vi": "Chạm vào đây để mở Cài đặt Thời gian.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000583",
@@ -1611,7 +1611,6 @@
     "primary_key": "23",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1621,8 +1620,9 @@
     "ai_reason": "",
     "source_en": "Tap here to set the list.\nTap Confirm to finish the setting.",
     "review_note": "",
-    "new_translation_vi": "Chạm vào đây để thiết lập danh sách.\nChạm Xác nhận để hoàn tất.",
-    "translator_note": ""
+    "new_translation_vi": "Tap here to set the list.\\nTap Confirm to finish the setting.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000584",
@@ -1636,7 +1636,6 @@
     "primary_key": "48",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1646,8 +1645,9 @@
     "ai_reason": "",
     "source_en": "Tap to open Modulation.",
     "review_note": "",
-    "new_translation_vi": "Chạm để mở Modulation.",
-    "translator_note": ""
+    "new_translation_vi": "Chạm để mở Điều biến.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000585",
@@ -1661,7 +1661,6 @@
     "primary_key": "49",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1671,8 +1670,9 @@
     "ai_reason": "",
     "source_en": "Tap to open Modulation.",
     "review_note": "",
-    "new_translation_vi": "Chạm để mở Modulation.",
-    "translator_note": ""
+    "new_translation_vi": "Chạm để mở Điều biến.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000586",
@@ -1686,7 +1686,6 @@
     "primary_key": "50",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1697,7 +1696,8 @@
     "source_en": "Tap to open Weapon page.",
     "review_note": "",
     "new_translation_vi": "Chạm để mở trang Vũ khí.",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000587",
@@ -1711,7 +1711,6 @@
     "primary_key": "51",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1721,8 +1720,9 @@
     "ai_reason": "",
     "source_en": "Tap Switch.",
     "review_note": "",
-    "new_translation_vi": "Chạm để chuyển đổi.",
-    "translator_note": ""
+    "new_translation_vi": "Chạm để Chuyển đổi.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000588",
@@ -1736,7 +1736,6 @@
     "primary_key": "54",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1746,8 +1745,9 @@
     "ai_reason": "",
     "source_en": "Tap to open Character page.",
     "review_note": "",
-    "new_translation_vi": "Chạm để mở trang Character.",
-    "translator_note": ""
+    "new_translation_vi": "Chạm để mở trang Nhân vật.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000589",
@@ -1761,7 +1761,6 @@
     "primary_key": "55",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1771,8 +1770,9 @@
     "ai_reason": "",
     "source_en": "Tap to use this item.",
     "review_note": "",
-    "new_translation_vi": "Chạm để dùng vật phẩm này.",
-    "translator_note": ""
+    "new_translation_vi": "Chạm để sử dụng vật phẩm này.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000590",
@@ -1786,7 +1786,6 @@
     "primary_key": "56",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1797,7 +1796,8 @@
     "source_en": "Tap to open Weapon page.",
     "review_note": "",
     "new_translation_vi": "Chạm để mở trang Vũ khí.",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000591",
@@ -1811,7 +1811,6 @@
     "primary_key": "57",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1821,8 +1820,9 @@
     "ai_reason": "",
     "source_en": "Tap Switch.",
     "review_note": "",
-    "new_translation_vi": "Chạm để chuyển đổi.",
-    "translator_note": ""
+    "new_translation_vi": "Chạm để Chuyển đổi.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000592",
@@ -1836,7 +1836,6 @@
     "primary_key": "60",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1846,8 +1845,9 @@
     "ai_reason": "",
     "source_en": "Tao to open System Menu.",
     "review_note": "",
-    "new_translation_vi": "Nhấn Ta để mở Menu Hệ thống.",
-    "translator_note": ""
+    "new_translation_vi": "Chạm để mở Menu Hệ thống.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000593",
@@ -1861,7 +1861,6 @@
     "primary_key": "61",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1871,8 +1870,9 @@
     "ai_reason": "",
     "source_en": "Tap to open Character page.",
     "review_note": "",
-    "new_translation_vi": "Chạm để mở trang Character.",
-    "translator_note": ""
+    "new_translation_vi": "Chạm để mở trang Nhân vật.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000594",
@@ -1886,7 +1886,6 @@
     "primary_key": "62",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1896,8 +1895,9 @@
     "ai_reason": "",
     "source_en": "Tap to use this item.",
     "review_note": "",
-    "new_translation_vi": "Chạm để dùng vật phẩm này.",
-    "translator_note": ""
+    "new_translation_vi": "Chạm để sử dụng vật phẩm này.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000595",
@@ -1911,7 +1911,6 @@
     "primary_key": "63",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1921,8 +1920,9 @@
     "ai_reason": "",
     "source_en": "Tao to open System Menu.",
     "review_note": "",
-    "new_translation_vi": "Nhấn Ta để mở Menu Hệ thống.",
-    "translator_note": ""
+    "new_translation_vi": "Chạm để mở Menu Hệ thống.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000596",
@@ -1936,7 +1936,6 @@
     "primary_key": "64",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1946,8 +1945,9 @@
     "ai_reason": "",
     "source_en": "Tap activated Beacon to teleport to it.",
     "review_note": "",
-    "new_translation_vi": "Chạm vào Đèn Hiệu đã kích hoạt để dịch chuyển đến đó.",
-    "translator_note": ""
+    "new_translation_vi": "Chạm vào Beacon đã kích hoạt để dịch chuyển đến đó.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000597",
@@ -1961,7 +1961,6 @@
     "primary_key": "65",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1972,7 +1971,8 @@
     "source_en": "Tap to open Map.",
     "review_note": "",
     "new_translation_vi": "Chạm để mở Bản đồ.",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000598",
@@ -1986,7 +1986,6 @@
     "primary_key": "66",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1996,8 +1995,9 @@
     "ai_reason": "",
     "source_en": "Tap activated Beacon to teleport to it.",
     "review_note": "",
-    "new_translation_vi": "Chạm vào Đèn Hiệu đã kích hoạt để dịch chuyển đến đó.",
-    "translator_note": ""
+    "new_translation_vi": "Chạm vào Beacon đã kích hoạt để dịch chuyển đến đó.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000599",
@@ -2011,7 +2011,6 @@
     "primary_key": "67",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2021,8 +2020,9 @@
     "ai_reason": "",
     "source_en": "Tap to open Character page.",
     "review_note": "",
-    "new_translation_vi": "Chạm để mở trang Character.",
-    "translator_note": ""
+    "new_translation_vi": "Chạm để mở trang Nhân vật.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000600",
@@ -2036,7 +2036,6 @@
     "primary_key": "69",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2047,7 +2046,8 @@
     "source_en": "Tap here to track the mission.",
     "review_note": "",
     "new_translation_vi": "Chạm vào đây để theo dõi nhiệm vụ.",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000601",
@@ -2061,7 +2061,6 @@
     "primary_key": "70",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2071,8 +2070,9 @@
     "ai_reason": "",
     "source_en": "Tao to open System Menu.",
     "review_note": "",
-    "new_translation_vi": "Nhấn Ta để mở Menu Hệ thống.",
-    "translator_note": ""
+    "new_translation_vi": "Chạm để mở Menu Hệ thống.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000602",
@@ -2086,7 +2086,6 @@
     "primary_key": "71",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2096,8 +2095,9 @@
     "ai_reason": "",
     "source_en": "Tap to open Character page.",
     "review_note": "",
-    "new_translation_vi": "Chạm để mở trang Character.",
-    "translator_note": ""
+    "new_translation_vi": "Chạm để mở trang Nhân vật.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000603",
@@ -2111,7 +2111,6 @@
     "primary_key": "73",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2122,7 +2121,8 @@
     "source_en": "Tap here to track the mission.",
     "review_note": "",
     "new_translation_vi": "Chạm vào đây để theo dõi nhiệm vụ.",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000604",
@@ -2136,7 +2136,6 @@
     "primary_key": "74",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2146,8 +2145,9 @@
     "ai_reason": "",
     "source_en": "Tao to open System Menu.",
     "review_note": "",
-    "new_translation_vi": "Nhấn Ta để mở Menu Hệ thống.",
-    "translator_note": ""
+    "new_translation_vi": "Chạm để mở Menu Hệ thống.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000605",
@@ -2161,7 +2161,6 @@
     "primary_key": "75",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2171,8 +2170,9 @@
     "ai_reason": "",
     "source_en": "Force Prestige is available now, you can tap to open it.",
     "review_note": "",
-    "new_translation_vi": "Prestige Cưỡng Chế đã có sẵn, bạn có thể nhấn để mở.",
-    "translator_note": ""
+    "new_translation_vi": "Force Prestige hiện đã khả dụng, bạn có thể chạm để mở.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000606",
@@ -2186,7 +2186,6 @@
     "primary_key": "77",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2196,8 +2195,9 @@
     "ai_reason": "",
     "source_en": "Force Prestige is available now, you can tap to open it.",
     "review_note": "",
-    "new_translation_vi": "Prestige Cưỡng Chế đã có sẵn, bạn có thể nhấn để mở.",
-    "translator_note": ""
+    "new_translation_vi": "Force Prestige hiện đã khả dụng, bạn có thể chạm để mở.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000607",
@@ -2211,7 +2211,6 @@
     "primary_key": "81",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2222,7 +2221,8 @@
     "source_en": "Tap here to open Converging Upload.",
     "review_note": "",
     "new_translation_vi": "Chạm vào đây để mở Converging Upload.",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000608",
@@ -2236,7 +2236,6 @@
     "primary_key": "82",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2247,7 +2246,8 @@
     "source_en": "Tap here to check mission progress and stage rewards.",
     "review_note": "",
     "new_translation_vi": "Chạm vào đây để kiểm tra tiến độ nhiệm vụ và phần thưởng giai đoạn.",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000609",
@@ -2261,7 +2261,6 @@
     "primary_key": "83",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2271,8 +2270,9 @@
     "ai_reason": "",
     "source_en": "Force Prestige is available now, you can tap to open it.",
     "review_note": "",
-    "new_translation_vi": "Prestige Cưỡng Chế đã có sẵn, bạn có thể nhấn để mở.",
-    "translator_note": ""
+    "new_translation_vi": "Force Prestige hiện đã khả dụng, bạn có thể chạm để mở.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000610",
@@ -2286,7 +2286,6 @@
     "primary_key": "85",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2297,7 +2296,8 @@
     "source_en": "Tap here to open Converging Upload.",
     "review_note": "",
     "new_translation_vi": "Chạm vào đây để mở Converging Upload.",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000611",
@@ -2311,7 +2311,6 @@
     "primary_key": "86",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2322,7 +2321,8 @@
     "source_en": "Tap here to check mission progress and stage rewards.",
     "review_note": "",
     "new_translation_vi": "Chạm vào đây để kiểm tra tiến độ nhiệm vụ và phần thưởng giai đoạn.",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000612",
@@ -2336,7 +2336,6 @@
     "primary_key": "94",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2346,8 +2345,9 @@
     "ai_reason": "",
     "source_en": "Tap here to open Solo Record.\nYou can check and receive relative mission in Solo Record.",
     "review_note": "",
-    "new_translation_vi": "Chạm vào đây để mở Hồ Sơ Solo.\nBạn có thể kiểm tra và nhận nhiệm vụ tương ứng trong Hồ Sơ Solo.",
-    "translator_note": ""
+    "new_translation_vi": "Chạm vào đây để mở Solo Record.\\nBạn có thể kiểm tra và nhận nhiệm vụ liên quan trong Solo Record.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000613",
@@ -2361,7 +2361,6 @@
     "primary_key": "95",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2371,8 +2370,9 @@
     "ai_reason": "",
     "source_en": "Solo Record Guide.\nTap here to open System Menu",
     "review_note": "",
-    "new_translation_vi": "Hướng dẫn Ghi Solo.\nChạm vào đây để mở Menu Hệ thống",
-    "translator_note": ""
+    "new_translation_vi": "Hướng dẫn Solo Record.\\nChạm vào đây để mở Menu Hệ thống.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000614",
@@ -2386,7 +2386,6 @@
     "primary_key": "97",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2396,8 +2395,9 @@
     "ai_reason": "",
     "source_en": "Tap here to open Solo Record.\nYou can check and receive relative mission in Solo Record.",
     "review_note": "",
-    "new_translation_vi": "Chạm vào đây để mở Hồ Sơ Solo.\nBạn có thể kiểm tra và nhận nhiệm vụ tương ứng trong Hồ Sơ Solo.",
-    "translator_note": ""
+    "new_translation_vi": "Chạm vào đây để mở Solo Record.\\nBạn có thể kiểm tra và nhận nhiệm vụ liên quan trong Solo Record.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000615",
@@ -2411,7 +2411,6 @@
     "primary_key": "98",
     "column": "Content",
     "category": "quest",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2421,7 +2420,8 @@
     "ai_reason": "",
     "source_en": "Tap here to aim.",
     "review_note": "",
-    "new_translation_vi": "Chạm vào đây để ngắm.",
-    "translator_note": ""
+    "new_translation_vi": "Chạm vào đây để ngắm bắn.",
+    "translator_note": "",
+    "status": "translated"
   }
 ]

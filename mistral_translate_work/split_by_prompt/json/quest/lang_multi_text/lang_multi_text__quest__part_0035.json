@@ -46,7 +46,7 @@
     "ai_reason": "",
     "source_en": "Reach the roof top",
     "review_note": "",
-    "new_translation_vi": "Lên đến sân thượng",
+    "new_translation_vi": "Đến sân thượng",
     "translator_note": ""
   },
   {
@@ -71,7 +71,7 @@
     "ai_reason": "",
     "source_en": "Head to the Research Institute",
     "review_note": "",
-    "new_translation_vi": "Đến Viện Nghiên Cứu",
+    "new_translation_vi": "Đi đến Viện Nghiên cứu",
     "translator_note": ""
   },
   {
@@ -96,7 +96,7 @@
     "ai_reason": "",
     "source_en": "Head to Bjartr Woods",
     "review_note": "",
-    "new_translation_vi": "Đến Bjartr Woods",
+    "new_translation_vi": "Đi đến Bjartr Woods",
     "translator_note": ""
   },
   {
@@ -121,7 +121,7 @@
     "ai_reason": "",
     "source_en": "Head into the Dimmr Plains",
     "review_note": "",
-    "new_translation_vi": "Đến Dimmr Plains",
+    "new_translation_vi": "Đi vào Dimmr Plains",
     "translator_note": ""
   },
   {
@@ -146,7 +146,7 @@
     "ai_reason": "",
     "source_en": "Head into the Dimmr Plains",
     "review_note": "",
-    "new_translation_vi": "Đến Dimmr Plains",
+    "new_translation_vi": "Đi vào Dimmr Plains",
     "translator_note": ""
   },
   {
@@ -171,7 +171,7 @@
     "ai_reason": "",
     "source_en": "Head into the Dimmr Plains",
     "review_note": "",
-    "new_translation_vi": "Đến Dimmr Plains",
+    "new_translation_vi": "Đi vào Dimmr Plains",
     "translator_note": ""
   },
   {
@@ -196,7 +196,7 @@
     "ai_reason": "",
     "source_en": "Head into the Dimmr Plains",
     "review_note": "",
-    "new_translation_vi": "Đến Dimmr Plains",
+    "new_translation_vi": "Đi vào Dimmr Plains",
     "translator_note": ""
   },
   {
@@ -221,7 +221,7 @@
     "ai_reason": "",
     "source_en": "Head to Bjartr Woods",
     "review_note": "",
-    "new_translation_vi": "Đến Bjartr Woods",
+    "new_translation_vi": "Đi đến Bjartr Woods",
     "translator_note": ""
   },
   {
@@ -236,7 +236,6 @@
     "primary_key": "LevelPlay_121850004_ChildQuestTip_121_14",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -247,7 +246,8 @@
     "source_en": "Find the second Royan Rune",
     "review_note": "",
     "new_translation_vi": "Tìm Rune Royan thứ hai",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017011",
@@ -271,7 +271,7 @@
     "ai_reason": "",
     "source_en": "Leave the Research Institute",
     "review_note": "",
-    "new_translation_vi": "Rời khỏi Viện Nghiên Cứu",
+    "new_translation_vi": "Leave Viện Nghiên cứu",
     "translator_note": ""
   },
   {
@@ -296,7 +296,7 @@
     "ai_reason": "",
     "source_en": "Leave the Research Institute",
     "review_note": "",
-    "new_translation_vi": "Rời khỏi Viện Nghiên Cứu",
+    "new_translation_vi": "Leave Viện Nghiên cứu",
     "translator_note": ""
   },
   {
@@ -336,7 +336,6 @@
     "primary_key": "LevelPlay_121850004_ChildQuestTip_121_24",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -346,8 +345,9 @@
     "ai_reason": "",
     "source_en": "Use the rune Sigrika carved for you",
     "review_note": "",
-    "new_translation_vi": "Hãy dùng Sigrika, biểu tượng được khắc riêng cho ngươi",
-    "translator_note": ""
+    "new_translation_vi": "Sử dụng rune Sigrika đã được khắc cho bạn",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017015",
@@ -361,7 +361,6 @@
     "primary_key": "LevelPlay_121850004_ChildQuestTip_121_25",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -371,8 +370,9 @@
     "ai_reason": "",
     "source_en": "Search for the second Royan rune",
     "review_note": "",
-    "new_translation_vi": "Tìm kiếm Rune Royan thứ hai",
-    "translator_note": ""
+    "new_translation_vi": "Tìm kiếm rune Royan thứ hai",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017016",
@@ -386,7 +386,6 @@
     "primary_key": "LevelPlay_121850004_ChildQuestTip_121_28",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -397,7 +396,8 @@
     "source_en": "Find the first Royan Rune",
     "review_note": "",
     "new_translation_vi": "Tìm Rune Royan đầu tiên",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017017",
@@ -411,7 +411,6 @@
     "primary_key": "LevelPlay_121850004_ChildQuestTip_121_29",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -421,8 +420,9 @@
     "ai_reason": "",
     "source_en": "Use the rune Sigrika carved for you",
     "review_note": "",
-    "new_translation_vi": "Hãy dùng Sigrika, biểu tượng được khắc riêng cho ngươi",
-    "translator_note": ""
+    "new_translation_vi": "Sử dụng rune Sigrika đã được khắc cho bạn",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017018",
@@ -436,7 +436,6 @@
     "primary_key": "LevelPlay_121850004_ChildQuestTip_121_30",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -446,8 +445,9 @@
     "ai_reason": "",
     "source_en": "Search for the first Royan Rune",
     "review_note": "",
-    "new_translation_vi": "Tìm Rune Royan đầu tiên",
-    "translator_note": ""
+    "new_translation_vi": "Tìm kiếm Royan Rune đầu tiên",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017019",
@@ -461,7 +461,6 @@
     "primary_key": "LevelPlay_121850004_ChildQuestTip_121_31",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -471,8 +470,9 @@
     "ai_reason": "",
     "source_en": "Find the third Royan Rune",
     "review_note": "",
-    "new_translation_vi": "Tìm Rune Royan thứ ba",
-    "translator_note": ""
+    "new_translation_vi": "Tìm Royan Rune thứ ba",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017020",
@@ -486,7 +486,6 @@
     "primary_key": "LevelPlay_121850004_ChildQuestTip_121_32",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -496,8 +495,9 @@
     "ai_reason": "",
     "source_en": "Use the rune Sigrika carved for you",
     "review_note": "",
-    "new_translation_vi": "Hãy dùng Sigrika, biểu tượng được khắc riêng cho ngươi",
-    "translator_note": ""
+    "new_translation_vi": "Sử dụng rune Sigrika đã được khắc cho bạn",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017021",
@@ -511,7 +511,6 @@
     "primary_key": "LevelPlay_121850004_ChildQuestTip_121_33",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -521,8 +520,9 @@
     "ai_reason": "",
     "source_en": "Search for the third Royan Rune",
     "review_note": "",
-    "new_translation_vi": "Tìm kiếm Rune Royan thứ ba",
-    "translator_note": ""
+    "new_translation_vi": "Tìm kiếm Royan Rune thứ ba",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017022",
@@ -536,7 +536,6 @@
     "primary_key": "LevelPlay_121850004_ChildQuestTip_121_34",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -547,7 +546,8 @@
     "source_en": "Read Lucilla's WavesLine message",
     "review_note": "",
     "new_translation_vi": "Đọc tin nhắn WavesLine của Lucilla",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017023",
@@ -571,7 +571,7 @@
     "ai_reason": "",
     "source_en": "Head into the Dimmr Plains",
     "review_note": "",
-    "new_translation_vi": "Đến Dimmr Plains",
+    "new_translation_vi": "Đi đến Dimmr Plains",
     "translator_note": ""
   },
   {
@@ -586,7 +586,6 @@
     "primary_key": "LevelPlay_121850004_ChildQuestTip_121_38",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -596,8 +595,9 @@
     "ai_reason": "",
     "source_en": "Send the found rune to Lucilla",
     "review_note": "",
-    "new_translation_vi": "Send ký tự vừa tìm được cho Lucilla",
-    "translator_note": ""
+    "new_translation_vi": "Gửi rune vừa tìm được cho Lucilla",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017025",
@@ -611,7 +611,6 @@
     "primary_key": "LevelPlay_121850004_ChildQuestTip_121_41",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -621,8 +620,9 @@
     "ai_reason": "",
     "source_en": "Send the rune you found to Lucilla",
     "review_note": "",
-    "new_translation_vi": "Send ký tự cậu tìm được cho Lucilla",
-    "translator_note": ""
+    "new_translation_vi": "Gửi rune bạn tìm thấy cho Lucilla",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017026",
@@ -646,7 +646,7 @@
     "ai_reason": "",
     "source_en": "Talk to \"Bliss\"",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với \"Bliss\"",
+    "new_translation_vi": "Trò chuyện với \"Bliss\"",
     "translator_note": ""
   },
   {
@@ -671,7 +671,7 @@
     "ai_reason": "",
     "source_en": "Give \"Bliss\" the photo",
     "review_note": "",
-    "new_translation_vi": "Đưa bức ảnh cho “Bliss”",
+    "new_translation_vi": "Đưa ảnh cho \"Bliss\"",
     "translator_note": ""
   },
   {
@@ -696,7 +696,7 @@
     "ai_reason": "",
     "source_en": "Give \"Bliss\" the photo",
     "review_note": "",
-    "new_translation_vi": "Đưa bức ảnh cho “Bliss”",
+    "new_translation_vi": "Đưa ảnh cho \"Bliss\"",
     "translator_note": ""
   },
   {
@@ -721,7 +721,7 @@
     "ai_reason": "",
     "source_en": "Give \"Bliss\" the photo",
     "review_note": "",
-    "new_translation_vi": "Đưa bức ảnh cho “Bliss”",
+    "new_translation_vi": "Đưa ảnh cho \"Bliss\"",
     "translator_note": ""
   },
   {
@@ -771,7 +771,7 @@
     "ai_reason": "",
     "source_en": "Head to the platform beneath the square to photograph",
     "review_note": "",
-    "new_translation_vi": "Head to the platform dưới quảng trường để chụp ảnh",
+    "new_translation_vi": "Đến nền tảng bên dưới quảng trường để chụp ảnh",
     "translator_note": ""
   },
   {
@@ -811,7 +811,6 @@
     "primary_key": "Quest_181700003_QuestDesc_181_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -821,8 +820,9 @@
     "ai_reason": "",
     "source_en": "Maji tells you about his new campaign. An Echo named \"Bliss\" sends a request, hoping you can help take promotional photos for the ads to attract more customers.",
     "review_note": "",
-    "new_translation_vi": "Maji kể về chiến dịch mới của mình. Một Echo tên \"Bliss\" gửi yêu cầu, mong cậu có thể giúp chụp ảnh quảng cáo để thu hút thêm khách hàng.",
-    "translator_note": ""
+    "new_translation_vi": "Maji kể cho bạn nghe về chiến dịch mới của anh ấy. Một Echo tên là \"Bliss\" gửi yêu cầu, hy vọng bạn có thể giúp chụp ảnh quảng cáo để thu hút thêm khách hàng.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017034",
@@ -836,7 +836,6 @@
     "primary_key": "Quest_181700003_QuestName_181_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -846,8 +845,9 @@
     "ai_reason": "",
     "source_en": "Lollo Genie Campaign: Day 1",
     "review_note": "",
-    "new_translation_vi": "Chiến dịch Lollo Thần Tài: Ngày 1",
-    "translator_note": ""
+    "new_translation_vi": "Chiến dịch Lollo Genie: Ngày 1",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017035",
@@ -871,7 +871,7 @@
     "ai_reason": "",
     "source_en": "In the City Square area",
     "review_note": "",
-    "new_translation_vi": "Khu vực City Square",
+    "new_translation_vi": "Tại khu vực Quảng trường Thành phố",
     "translator_note": ""
   },
   {
@@ -896,7 +896,7 @@
     "ai_reason": "",
     "source_en": "In the City Square platform area",
     "review_note": "",
-    "new_translation_vi": "Khu vực Bệ City Square",
+    "new_translation_vi": "Tại khu vực nền tảng Quảng trường Thành phố",
     "translator_note": ""
   },
   {
@@ -921,7 +921,7 @@
     "ai_reason": "",
     "source_en": "In the Bank Street area",
     "review_note": "",
-    "new_translation_vi": "Khu vực Bank Street",
+    "new_translation_vi": "Tại khu vực Bank Street",
     "translator_note": ""
   },
   {
@@ -1011,7 +1011,6 @@
     "primary_key": "Quest_181700004_ChildQuestTip_181_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1021,8 +1020,9 @@
     "ai_reason": "",
     "source_en": "Talk to Maji",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Maji",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Maji",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017042",
@@ -1036,7 +1036,6 @@
     "primary_key": "Quest_181700004_ChildQuestTip_181_5",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1046,8 +1045,9 @@
     "ai_reason": "",
     "source_en": "Talk to the Plushie Squad",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Đội Bông Thú",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Đội Plushie",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017043",
@@ -1061,7 +1061,6 @@
     "primary_key": "Quest_181700004_QuestDesc_181_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1071,8 +1070,9 @@
     "ai_reason": "",
     "source_en": "The Plushie Squad is stuck in a creative slump and needs your help. You decide to get them out of it.",
     "review_note": "",
-    "new_translation_vi": "Đội Thú Nhồi Bông đang bị bí ý tưởng và cần sự giúp đỡ của cậu. Cậu quyết định giúp họ vượt qua giai đoạn này.",
-    "translator_note": ""
+    "new_translation_vi": "Đội Plushie đang gặp bế tắc trong sáng tạo và cần sự giúp đỡ của bạn. Bạn quyết định giúp họ vượt qua điều đó.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017044",
@@ -1086,7 +1086,6 @@
     "primary_key": "Quest_181700004_QuestName_181_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1096,8 +1095,9 @@
     "ai_reason": "",
     "source_en": "Lollo Genie Campaign: Day 2",
     "review_note": "",
-    "new_translation_vi": "Chiến dịch Lollo Thần Tài: Ngày 2",
-    "translator_note": ""
+    "new_translation_vi": "Chiến dịch Lollo Genie: Ngày 2",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017045",
@@ -1111,7 +1111,6 @@
     "primary_key": "Quest_181700005_ChildQuestTip_181_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1121,8 +1120,9 @@
     "ai_reason": "",
     "source_en": "Talk to Maji",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Maji",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Maji",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017046",
@@ -1136,7 +1136,6 @@
     "primary_key": "Quest_181700005_ChildQuestTip_181_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1147,7 +1146,8 @@
     "source_en": "Help Rightless defeat Leftless",
     "review_note": "",
     "new_translation_vi": "Giúp Rightless đánh bại Leftless",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017047",
@@ -1161,7 +1161,6 @@
     "primary_key": "Quest_181700005_ChildQuestTip_181_10",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1171,8 +1170,9 @@
     "ai_reason": "",
     "source_en": "Talk to Rightless and Leftless",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Rightless và Leftless",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Rightless và Leftless",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017048",
@@ -1196,7 +1196,7 @@
     "ai_reason": "",
     "source_en": "Some tension has arisen between a pair of Echo partners. You decide to look into it.",
     "review_note": "",
-    "new_translation_vi": "Giữa một cặp Resonator hợp tác Echo đã nảy sinh mâu thuẫn. Cậu quyết định vào cuộc điều tra.",
+    "new_translation_vi": "Một chút căng thẳng đã nảy sinh giữa cặp đối tác Echo. Bạn quyết định tìm hiểu chuyện gì đang xảy ra.",
     "translator_note": ""
   },
   {
@@ -1211,7 +1211,6 @@
     "primary_key": "Quest_181700005_QuestName_181_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1221,8 +1220,9 @@
     "ai_reason": "",
     "source_en": "Lollo Genie Campaign: Day 3",
     "review_note": "",
-    "new_translation_vi": "Chiến dịch Lollo Thần Tài: Ngày 3",
-    "translator_note": ""
+    "new_translation_vi": "Chiến dịch Lollo Genie: Ngày 3",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017050",
@@ -1236,7 +1236,6 @@
     "primary_key": "Quest_181700007_ChildQuestTip_181_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1246,8 +1245,9 @@
     "ai_reason": "",
     "source_en": "Talk to Maji",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Maji",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Maji",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017051",
@@ -1261,7 +1261,6 @@
     "primary_key": "Quest_181700007_ChildQuestTip_181_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1271,8 +1270,9 @@
     "ai_reason": "",
     "source_en": "Talk to Mercurio",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Mercurio",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Mercurio",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017052",
@@ -1286,7 +1286,6 @@
     "primary_key": "Quest_181700007_ChildQuestTip_181_7",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1296,8 +1295,9 @@
     "ai_reason": "",
     "source_en": "Deliver the lost package to Mercurio",
     "review_note": "",
-    "new_translation_vi": "Giao kiện hàng thất lạc cho Mercurio",
-    "translator_note": ""
+    "new_translation_vi": "Giao gói hàng bị thất lạc cho Mercurio",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017053",
@@ -1311,7 +1311,6 @@
     "primary_key": "Quest_181700007_HandInItemsDesc_181_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1321,8 +1320,9 @@
     "ai_reason": "",
     "source_en": "Deliver the lost package to Mercurio",
     "review_note": "",
-    "new_translation_vi": "Giao kiện hàng thất lạc cho Mercurio",
-    "translator_note": ""
+    "new_translation_vi": "Giao gói hàng bị thất lạc cho Mercurio",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017054",
@@ -1346,7 +1346,7 @@
     "ai_reason": "",
     "source_en": "Are you alright?",
     "review_note": "",
-    "new_translation_vi": "Cậu ổn chứ?",
+    "new_translation_vi": "Bạn có ổn không?",
     "translator_note": ""
   },
   {
@@ -1361,7 +1361,6 @@
     "primary_key": "Quest_181700007_QuestDesc_181_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1371,8 +1370,9 @@
     "ai_reason": "",
     "source_en": "Maji receives a complaint about a missing package. You decide to track it down and return it to its Echo owner.",
     "review_note": "",
-    "new_translation_vi": "Maji nhận được khiếu nại về một kiện hàng thất lạc. Cậu quyết định truy tìm và trả lại cho chủ nhân Echo của nó.",
-    "translator_note": ""
+    "new_translation_vi": "Maji nhận được khiếu nại về một gói hàng bị mất. Bạn quyết định truy tìm và trả lại cho chủ sở hữu Echo của nó.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017056",
@@ -1386,7 +1386,6 @@
     "primary_key": "Quest_181700007_QuestName_181_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1396,8 +1395,9 @@
     "ai_reason": "",
     "source_en": "Lollo Genie Campaign: Day 4",
     "review_note": "",
-    "new_translation_vi": "Chiến dịch Lollo Thần Tài: Ngày 4",
-    "translator_note": ""
+    "new_translation_vi": "Chiến dịch Lollo Genie: Ngày 4",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017057",
@@ -1411,7 +1411,6 @@
     "primary_key": "Quest_181700008_ChildQuestTip_181_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1421,8 +1420,9 @@
     "ai_reason": "",
     "source_en": "Talk to Maji",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Maji",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Maji",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017058",
@@ -1436,7 +1436,6 @@
     "primary_key": "Quest_181700008_ChildQuestTip_181_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1446,8 +1445,9 @@
     "ai_reason": "",
     "source_en": "Talk to Diggy Duggy",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Diggy Duggy",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Diggy Duggy",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017059",
@@ -1461,7 +1461,6 @@
     "primary_key": "Quest_181700008_ChildQuestTip_181_14",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1471,8 +1470,9 @@
     "ai_reason": "",
     "source_en": "Follow Diggy Duggy to find the treasure spot",
     "review_note": "",
-    "new_translation_vi": "Đi theo Diggy Duggy để tìm kho báu",
-    "translator_note": ""
+    "new_translation_vi": "Đi theo Diggy Duggy để tìm địa điểm kho báu",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017060",
@@ -1486,7 +1486,6 @@
     "primary_key": "Quest_181700008_ChildQuestTip_181_15",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1496,8 +1495,9 @@
     "ai_reason": "",
     "source_en": "Follow Diggy Duggy to find the treasure spot",
     "review_note": "",
-    "new_translation_vi": "Đi theo Diggy Duggy để tìm kho báu",
-    "translator_note": ""
+    "new_translation_vi": "Đi theo Diggy Duggy để tìm địa điểm kho báu",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017061",
@@ -1511,7 +1511,6 @@
     "primary_key": "Quest_181700008_ChildQuestTip_181_22",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1522,7 +1521,8 @@
     "source_en": "Follow Diggy Duggy to find the next treasure spot",
     "review_note": "",
     "new_translation_vi": "Đi theo Diggy Duggy để tìm địa điểm kho báu tiếp theo",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017062",
@@ -1536,7 +1536,6 @@
     "primary_key": "Quest_181700008_ChildQuestTip_181_27",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1547,7 +1546,8 @@
     "source_en": "Follow Diggy Duggy to find the next treasure spot",
     "review_note": "",
     "new_translation_vi": "Đi theo Diggy Duggy để tìm địa điểm kho báu tiếp theo",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017063",
@@ -1571,7 +1571,7 @@
     "ai_reason": "",
     "source_en": "Use Sensor to locate the treasure",
     "review_note": "",
-    "new_translation_vi": "Dùng Sensor để tìm kho báu",
+    "new_translation_vi": "Sử dụng Sensor để xác định vị trí kho báu",
     "translator_note": ""
   },
   {
@@ -1586,7 +1586,6 @@
     "primary_key": "Quest_181700008_ChildQuestTip_181_29",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1596,8 +1595,9 @@
     "ai_reason": "",
     "source_en": "Find the treasure and ask Diggy Duggy to dig it out",
     "review_note": "",
-    "new_translation_vi": "Tìm kho báu rồi bảo Diggy Duggy đào lên",
-    "translator_note": ""
+    "new_translation_vi": "Tìm kho báu và nhờ Diggy Duggy đào nó lên",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017065",
@@ -1621,7 +1621,7 @@
     "ai_reason": "",
     "source_en": "Use Sensor to locate the treasure",
     "review_note": "",
-    "new_translation_vi": "Dùng Sensor để tìm kho báu",
+    "new_translation_vi": "Sử dụng Sensor để xác định vị trí kho báu",
     "translator_note": ""
   },
   {
@@ -1636,7 +1636,6 @@
     "primary_key": "Quest_181700008_ChildQuestTip_181_32",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1646,8 +1645,9 @@
     "ai_reason": "",
     "source_en": "Find the treasure and ask Diggy Duggy to dig it out",
     "review_note": "",
-    "new_translation_vi": "Tìm kho báu rồi bảo Diggy Duggy đào lên",
-    "translator_note": ""
+    "new_translation_vi": "Tìm kho báu và nhờ Diggy Duggy đào nó lên",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017067",
@@ -1671,7 +1671,7 @@
     "ai_reason": "",
     "source_en": "The treasure is not here.",
     "review_note": "",
-    "new_translation_vi": "Kho báu không có ở đây.",
+    "new_translation_vi": "Kho báu không ở đây.",
     "translator_note": ""
   },
   {
@@ -1696,7 +1696,7 @@
     "ai_reason": "",
     "source_en": "Inspect the treasure",
     "review_note": "",
-    "new_translation_vi": "Inspect kho báu",
+    "new_translation_vi": "Kiểm tra kho báu",
     "translator_note": ""
   },
   {
@@ -1721,7 +1721,7 @@
     "ai_reason": "",
     "source_en": "Inspect the treasure",
     "review_note": "",
-    "new_translation_vi": "Inspect kho báu",
+    "new_translation_vi": "Kiểm tra kho báu",
     "translator_note": ""
   },
   {
@@ -1746,7 +1746,7 @@
     "ai_reason": "",
     "source_en": "The treasure is not here.",
     "review_note": "",
-    "new_translation_vi": "Kho báu không có ở đây.",
+    "new_translation_vi": "Kho báu không ở đây.",
     "translator_note": ""
   },
   {
@@ -1771,7 +1771,7 @@
     "ai_reason": "",
     "source_en": "Inspect",
     "review_note": "",
-    "new_translation_vi": "Inspect",
+    "new_translation_vi": "Kiểm tra",
     "translator_note": ""
   },
   {
@@ -1796,7 +1796,7 @@
     "ai_reason": "",
     "source_en": "Inspect",
     "review_note": "",
-    "new_translation_vi": "Inspect",
+    "new_translation_vi": "Kiểm tra",
     "translator_note": ""
   },
   {
@@ -1811,7 +1811,6 @@
     "primary_key": "Quest_181700008_QuestDesc_181_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1821,8 +1820,9 @@
     "ai_reason": "",
     "source_en": "A Diggy Duggy sends you a request, hoping you'll help find the treasure it once buried with its young master.",
     "review_note": "",
-    "new_translation_vi": "Một chú Diggy Duggy gửi yêu cầu nhờ cậu giúp tìm kho báu mà nó từng chôn cùng cậu chủ nhỏ của mình.",
-    "translator_note": ""
+    "new_translation_vi": "Một Diggy Duggy gửi yêu cầu cho bạn, hy vọng bạn sẽ giúp tìm lại kho báu mà nó từng chôn cùng chủ nhân nhỏ tuổi của mình.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017074",
@@ -1836,7 +1836,6 @@
     "primary_key": "Quest_181700008_QuestName_181_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1846,8 +1845,9 @@
     "ai_reason": "",
     "source_en": "Lollo Genie Campaign: Day 5",
     "review_note": "",
-    "new_translation_vi": "Chiến dịch Lollo Thần Tài: Ngày 5",
-    "translator_note": ""
+    "new_translation_vi": "Chiến dịch Lollo Genie: Ngày 5",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017075",
@@ -1861,7 +1861,6 @@
     "primary_key": "Quest_181700009_ChildQuestTip_181_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1871,8 +1870,9 @@
     "ai_reason": "",
     "source_en": "Talk to Maji",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Maji",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Maji",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017076",
@@ -1921,7 +1921,7 @@
     "ai_reason": "",
     "source_en": "Give the flower to the Tubpup",
     "review_note": "",
-    "new_translation_vi": "Đưa bông hoa này cho Tubpup đi",
+    "new_translation_vi": "Đưa hoa cho Tubpup",
     "translator_note": ""
   },
   {
@@ -1946,7 +1946,7 @@
     "ai_reason": "",
     "source_en": "Talk to the Tubpup",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Tubpup",
+    "new_translation_vi": "Trò chuyện với Tubpup",
     "translator_note": ""
   },
   {
@@ -1971,7 +1971,7 @@
     "ai_reason": "",
     "source_en": "Enjoy the bubble bath with the Tubpup",
     "review_note": "",
-    "new_translation_vi": "Thư giãn với Tubpup trong bồn tắm bong bóng nhé!",
+    "new_translation_vi": "Tận hưởng bồn tắm bong bóng cùng Tubpup",
     "translator_note": ""
   },
   {
@@ -1996,7 +1996,7 @@
     "ai_reason": "",
     "source_en": "Hand over a flower",
     "review_note": "",
-    "new_translation_vi": "Trao một bông hoa",
+    "new_translation_vi": "Đưa một bông hoa",
     "translator_note": ""
   },
   {
@@ -2046,7 +2046,7 @@
     "ai_reason": "",
     "source_en": "Give the flower to the Tubpup",
     "review_note": "",
-    "new_translation_vi": "Đưa bông hoa này cho Tubpup đi",
+    "new_translation_vi": "Đưa hoa cho Tubpup",
     "translator_note": ""
   },
   {
@@ -2086,7 +2086,6 @@
     "primary_key": "Quest_181700009_QuestDesc_181_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2096,8 +2095,9 @@
     "ai_reason": "",
     "source_en": "Maji's system receives a request from a Tubpup who's asking for your help to upgrade the bathing service.",
     "review_note": "",
-    "new_translation_vi": "Hệ thống của Maji nhận được yêu cầu từ một Tubpup nhờ cậu giúp nâng cấp dịch vụ tắm táp.",
-    "translator_note": ""
+    "new_translation_vi": "Hệ thống của Maji nhận được yêu cầu từ một Tubpup đang nhờ bạn giúp nâng cấp dịch vụ tắm rửa.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017085",
@@ -2111,7 +2111,6 @@
     "primary_key": "Quest_181700009_QuestName_181_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2121,8 +2120,9 @@
     "ai_reason": "",
     "source_en": "Lollo Genie Campaign: Day 6",
     "review_note": "",
-    "new_translation_vi": "Chiến dịch Lollo Thần Tài: Ngày 6",
-    "translator_note": ""
+    "new_translation_vi": "Chiến dịch Lollo Genie: Ngày 6",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017086",
@@ -2136,7 +2136,6 @@
     "primary_key": "Quest_181700010_ChildQuestTip_181_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2146,8 +2145,9 @@
     "ai_reason": "",
     "source_en": "Talk to Maji",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Maji",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Maji",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017087",
@@ -2171,7 +2171,7 @@
     "ai_reason": "",
     "source_en": "Talk to Bakie",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Bakie",
+    "new_translation_vi": "Trò chuyện với Bakie",
     "translator_note": ""
   },
   {
@@ -2196,7 +2196,7 @@
     "ai_reason": "",
     "source_en": "Hand over the ingredients",
     "review_note": "",
-    "new_translation_vi": "Trao nguyên liệu",
+    "new_translation_vi": "Đưa nguyên liệu",
     "translator_note": ""
   },
   {
@@ -2211,7 +2211,6 @@
     "primary_key": "Quest_181700010_ChildQuestTip_181_15",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2221,8 +2220,9 @@
     "ai_reason": "",
     "source_en": "Find Maji and wrap up this campaign with him",
     "review_note": "",
-    "new_translation_vi": "Tìm Maji và kết thúc chiến dịch cùng cậu ấy",
-    "translator_note": ""
+    "new_translation_vi": "Tìm Maji và kết thúc chiến dịch này cùng anh ấy",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017090",
@@ -2246,7 +2246,7 @@
     "ai_reason": "",
     "source_en": "Think about what dish to cook",
     "review_note": "",
-    "new_translation_vi": "Suy nghĩ xem nên nấu món gì đi.",
+    "new_translation_vi": "Suy nghĩ về món ăn cần nấu",
     "translator_note": ""
   },
   {
@@ -2271,7 +2271,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -2296,7 +2296,7 @@
     "ai_reason": "",
     "source_en": "Hand over the ingredients Bakie needs",
     "review_note": "",
-    "new_translation_vi": "Hand over the ingredients Bakie cần",
+    "new_translation_vi": "Đưa nguyên liệu Bakie cần",
     "translator_note": ""
   },
   {
@@ -2311,7 +2311,6 @@
     "primary_key": "Quest_181700010_QuestDesc_181_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2321,8 +2320,9 @@
     "ai_reason": "",
     "source_en": "After taking Margherita's call, you decide to spend the last day of the campaign cooking with Bakie.",
     "review_note": "",
-    "new_translation_vi": "Sau khi nghe cuộc gọi của Margherita, bạn quyết định dành ngày cuối cùng của chiến dịch để nấu ăn cùng Bakie.",
-    "translator_note": ""
+    "new_translation_vi": "Sau khi nhận cuộc gọi của Margherita, bạn quyết định dành ngày cuối cùng của chiến dịch cooking cùng Bakie.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017094",
@@ -2336,7 +2336,6 @@
     "primary_key": "Quest_181700010_QuestName_181_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2346,8 +2345,9 @@
     "ai_reason": "",
     "source_en": "Lollo Genie Campaign: Day 7",
     "review_note": "",
-    "new_translation_vi": "Chiến dịch Lollo Thần Tài: Ngày 7",
-    "translator_note": ""
+    "new_translation_vi": "Chiến dịch Lollo Genie: Ngày 7",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017095",
@@ -2361,7 +2361,6 @@
     "primary_key": "Quest_181700011_ChildQuestTip_181_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2371,8 +2370,9 @@
     "ai_reason": "",
     "source_en": "Talk to Maji",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Maji",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Maji",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017096",
@@ -2386,7 +2386,6 @@
     "primary_key": "Quest_181700011_QuestDesc_181_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2396,8 +2395,9 @@
     "ai_reason": "",
     "source_en": "Maji tells you about his new campaign centered on the Echoes of Ragunna, and you decide to lend him a hand.",
     "review_note": "",
-    "new_translation_vi": "Maji kể cho cậu về chiến dịch mới tập trung vào Echoes của Ragunna, và cậu quyết định giúp anh ấy một tay.",
-    "translator_note": ""
+    "new_translation_vi": "Maji kể cho bạn nghe về chiến dịch mới của anh ấy tập trung vào các Echo của Ragunna, và bạn quyết định giúp một tay.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017097",
@@ -2411,7 +2411,6 @@
     "primary_key": "Quest_181700011_QuestName_181_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2421,8 +2420,9 @@
     "ai_reason": "",
     "source_en": "Lollo Genie Campaign: Start",
     "review_note": "",
-    "new_translation_vi": "Bắt đầu Chiến dịch Lollo Thần Tài",
-    "translator_note": ""
+    "new_translation_vi": "Lollo Chiến dịch Genie: Bắt đầu",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017098",
@@ -2436,7 +2436,6 @@
     "primary_key": "Quest_157900000_ChildQuestTip_157_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2446,8 +2445,9 @@
     "ai_reason": "",
     "source_en": "Talk to the strange white cat in Ragunna City.",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với con mèo trắng lạ ở Ragunna City.",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với chú mèo trắng lạ tại thành phố Ragunna.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017099",
@@ -2461,7 +2461,6 @@
     "primary_key": "Quest_157900000_QuestDesc_157_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2471,8 +2470,9 @@
     "ai_reason": "",
     "source_en": "You received a message from the white cat of the Somnoire. Go talk to it in Ragunna City.",
     "review_note": "",
-    "new_translation_vi": "Bạn nhận được tin nhắn từ con mèo trắng của Somnoire. Hãy đến nói chuyện với nó ở Thành phố Ragunna.",
-    "translator_note": ""
+    "new_translation_vi": "Bạn nhận được tin nhắn từ chú mèo trắng của Somnoire. Hãy đến trò chuyện với nó tại thành phố Ragunna.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017100",
@@ -2486,7 +2486,6 @@
     "primary_key": "Quest_157900000_QuestName_157_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2497,7 +2496,8 @@
     "source_en": "Dream Patrol I",
     "review_note": "",
     "new_translation_vi": "Tuần tra Giấc mơ I",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017101",
@@ -2511,7 +2511,6 @@
     "primary_key": "Quest_157900001_ChildQuestTip_157_8",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2521,8 +2520,9 @@
     "ai_reason": "",
     "source_en": "Talk to the strange white cat in Ragunna City.",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với con mèo trắng lạ ở Ragunna City.",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với chú mèo trắng lạ tại thành phố Ragunna.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017102",
@@ -2546,7 +2546,7 @@
     "ai_reason": "",
     "source_en": "Continue the challenges of Dream Patrol and defeat the Nightmares hidden within the Dreamscape Nodes.",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục thử thách Dream Patrol và đánh bại những Nightmares ẩn nấp trong các Điểm Cảnh Giấc Mơ.",
+    "new_translation_vi": "Tiếp tục các thử thách của Tuần tra Giấc mơ và tiêu diệt những Nightmare ẩn giấu bên trong các Dreamscape Node.",
     "translator_note": ""
   },
   {
@@ -2561,7 +2561,6 @@
     "primary_key": "Quest_157900001_QuestName_157_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2572,7 +2571,8 @@
     "source_en": "Dream Patrol II",
     "review_note": "",
     "new_translation_vi": "Tuần tra Giấc mơ II",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017104",
@@ -2586,7 +2586,6 @@
     "primary_key": "Quest_157900002_ChildQuestTip_157_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2596,8 +2595,9 @@
     "ai_reason": "",
     "source_en": "Talk to the strange white cat in Ragunna City.",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với con mèo trắng lạ ở Ragunna City.",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với chú mèo trắng lạ tại thành phố Ragunna.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017105",
@@ -2611,7 +2611,6 @@
     "primary_key": "Quest_157900002_QuestDesc_157_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2621,8 +2620,9 @@
     "ai_reason": "",
     "source_en": "The dust of Ragunna's Dreamscape Nodes incident has settled for now. Go talk to the white cat in Ragunna City.",
     "review_note": "",
-    "new_translation_vi": "Bụi từ sự cố Nút Giấc Mơ Ragunna tạm thời đã lắng xuống. Hãy đến nói chuyện với con mèo trắng ở Thành phố Ragunna đi.",
-    "translator_note": ""
+    "new_translation_vi": "Bụi bặm từ sự cố Dreamscape Node của Ragunna tạm thời đã lắng xuống. Hãy đến trò chuyện với chú mèo trắng tại thành phố Ragunna.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017106",
@@ -2646,7 +2646,7 @@
     "ai_reason": "",
     "source_en": "Dream Patrol: Finale",
     "review_note": "",
-    "new_translation_vi": "Dream Patrol: Khúc Kết",
+    "new_translation_vi": "Tuần tra Giấc mơ: Kết thúc",
     "translator_note": ""
   },
   {
@@ -2671,7 +2671,7 @@
     "ai_reason": "",
     "source_en": "See how KU-Roro's doing",
     "review_note": "",
-    "new_translation_vi": "Xem tình hình của KU-Roro",
+    "new_translation_vi": "Xem tình hình của KU-Roro thế nào",
     "translator_note": ""
   },
   {
@@ -2696,7 +2696,7 @@
     "ai_reason": "",
     "source_en": "See how KU-Roro's doing",
     "review_note": "",
-    "new_translation_vi": "Xem tình hình của KU-Roro",
+    "new_translation_vi": "Xem tình hình của KU-Roro thế nào",
     "translator_note": ""
   },
   {
@@ -2721,7 +2721,7 @@
     "ai_reason": "",
     "source_en": "Intermittent cries for help can be heard from the Port City of Guixu. They sound oddly familiar. It's best to go check out what's happening.",
     "review_note": "",
-    "new_translation_vi": "Những tiếng kêu cứu đứt đoạn vọng về từ Thành phố Cảng Guixu. Nghe quen thuộc đến lạ. Tốt nhất là nên đến xem tình hình thế nào.",
+    "new_translation_vi": "Có thể nghe thấy những tiếng kêu cứu ngắt quãng từ Port City of Guixu. Chúng nghe có vẻ quen thuộc một cách kỳ lạ. Tốt nhất là nên đi kiểm tra xem chuyện gì đang xảy ra.",
     "translator_note": ""
   },
   {
@@ -2746,7 +2746,7 @@
     "ai_reason": "",
     "source_en": "Virtual Crisis",
     "review_note": "",
-    "new_translation_vi": "Khủng Hoảng Ảo",
+    "new_translation_vi": "Khủng hoảng Ảo",
     "translator_note": ""
   },
   {
@@ -2761,7 +2761,6 @@
     "primary_key": "Quest_880000004_ChildQuestTip_0_11",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2771,8 +2770,9 @@
     "ai_reason": "",
     "source_en": "Contact Maqi to learn about today's scenario",
     "review_note": "",
-    "new_translation_vi": "Liên lạc với Maqi để biết tình huống hôm nay",
-    "translator_note": ""
+    "new_translation_vi": "Liên hệ Maqi để tìm hiểu về kịch bản hôm nay",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017112",
@@ -2796,7 +2796,7 @@
     "ai_reason": "",
     "source_en": "Did you find the <color=highlight>Local Drink</color>? Then give it to me.",
     "review_note": "",
-    "new_translation_vi": "Đã tìm thấy <color=highlight>Thức Uống Địa Phương</color> chưa? Đưa đây cho ta.",
+    "new_translation_vi": "Bạn đã tìm thấy <color=highlight>Đồ uống Địa phương</color> chưa? Nếu rồi thì đưa cho tôi.",
     "translator_note": ""
   },
   {
@@ -2846,7 +2846,7 @@
     "ai_reason": "",
     "source_en": "I'm turning in <color=highlight>Local Drinks</color>.",
     "review_note": "",
-    "new_translation_vi": "Tôi nộp <color=highlight>Đồ Uống Địa Phương</color>.",
+    "new_translation_vi": "Tôi đang nộp <color=highlight>Đồ uống Địa phương</color>.",
     "translator_note": ""
   },
   {
@@ -2871,7 +2871,7 @@
     "ai_reason": "",
     "source_en": "About the Local Drink in the novel...",
     "review_note": "",
-    "new_translation_vi": "Về Thức Uống Địa Phương trong tiểu thuyết...",
+    "new_translation_vi": "Về Đồ uống Địa phương trong tiểu thuyết...",
     "translator_note": ""
   },
   {
@@ -2896,7 +2896,7 @@
     "ai_reason": "",
     "source_en": "Give me some leads on \"<color=highlight>Local Drinks</color>\"",
     "review_note": "",
-    "new_translation_vi": "Cho ta vài đầu mối về \"<color=highlight>Đồ Uống Địa Phương</color>\".",
+    "new_translation_vi": "Cho tôi vài manh mối về \"<color=highlight>Đồ uống Địa phương</color>\"",
     "translator_note": ""
   },
   {
@@ -2921,7 +2921,7 @@
     "ai_reason": "",
     "source_en": "About the Local Drink in the novel...",
     "review_note": "",
-    "new_translation_vi": "Về Thức Uống Địa Phương trong tiểu thuyết...",
+    "new_translation_vi": "Về Đồ uống Địa phương trong tiểu thuyết...",
     "translator_note": ""
   },
   {
@@ -2936,7 +2936,6 @@
     "primary_key": "Quest_880000004_QuestDesc_0_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2946,8 +2945,9 @@
     "ai_reason": "",
     "source_en": "Maqi is trying to contact you, and it appears to be related to the Pioneer Association's ambitious project, \"Second Coming of Solaris\"...",
     "review_note": "",
-    "new_translation_vi": "Maqi đang cố liên lạc với cậu, dường như có dính líu đến dự án đầy tham vọng của Pioneer Association, \"Solaris Trở Lại\"...",
-    "translator_note": ""
+    "new_translation_vi": "Maqi đang cố liên lạc với bạn, có vẻ như liên quan đến dự án đầy tham vọng của Hiệp hội Tiên phong, \"Sự trở lại của Solaris\"...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017119",
@@ -2971,7 +2971,7 @@
     "ai_reason": "",
     "source_en": "Specialty Drinks",
     "review_note": "",
-    "new_translation_vi": "Đồ uống đặc sản",
+    "new_translation_vi": "Đồ uống Đặc sản",
     "translator_note": ""
   },
   {
@@ -3011,7 +3011,6 @@
     "primary_key": "Quest_880000004_QuestScheduleSubTitle_0_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3021,8 +3020,9 @@
     "ai_reason": "",
     "source_en": "(Optional) Ask Ganxue about the \"Local Drinks\".",
     "review_note": "",
-    "new_translation_vi": "Ask Ganxue về \"Đồ Uống Địa Phương\" (tùy chọn)",
-    "translator_note": ""
+    "new_translation_vi": "(Tùy chọn) Hỏi Ganxue về \"Đồ uống Địa phương\".",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017122",
@@ -3036,7 +3036,6 @@
     "primary_key": "Quest_880000004_QuestScheduleSubTitle_0_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3046,8 +3045,9 @@
     "ai_reason": "",
     "source_en": "Give the Local Drinks to Maqi",
     "review_note": "",
-    "new_translation_vi": "Đưa Đồ Uống Địa Phương cho Maqi",
-    "translator_note": ""
+    "new_translation_vi": "Đưa Đồ uống Địa phương cho Maqi",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017123",
@@ -3061,7 +3061,6 @@
     "primary_key": "Quest_880000005_ChildQuestTip_0_11",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3071,8 +3070,9 @@
     "ai_reason": "",
     "source_en": "Talk to Maqi to find out about today's game scenario.",
     "review_note": "",
-    "new_translation_vi": "Hỏi Maqi về tình huống trò chơi trong ngày.",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Maqi để tìm hiểu về kịch bản trò chơi hôm nay.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017124",
@@ -3096,7 +3096,7 @@
     "ai_reason": "",
     "source_en": "Did you find the <color=highlight>Sea of Flowers</color>? Then give it to me.",
     "review_note": "",
-    "new_translation_vi": "Đã tìm thấy <color=highlight>Biển Hoa</color> chưa? Đưa đây cho ta.",
+    "new_translation_vi": "Bạn đã tìm thấy <color=highlight>Biển Hoa</color> chưa? Nếu rồi thì đưa cho tôi.",
     "translator_note": ""
   },
   {
@@ -3146,7 +3146,7 @@
     "ai_reason": "",
     "source_en": "I'm turning in \"<color=highlight>Sea of Flowers</color>\"",
     "review_note": "",
-    "new_translation_vi": "Tôi nộp \"<color=highlight>Biển Hoa</color>\" đây.",
+    "new_translation_vi": "Tôi đang nộp \"<color=highlight>Biển Hoa</color>\"",
     "translator_note": ""
   },
   {
@@ -3196,7 +3196,7 @@
     "ai_reason": "",
     "source_en": "Give me some clues about <color=highlight>Sea of Flowers</color>.",
     "review_note": "",
-    "new_translation_vi": "Cho ta vài manh mối về <color=highlight>Biển Hoa</color>.",
+    "new_translation_vi": "Cho tôi vài manh mối về <color=highlight>Biển Hoa</color>.",
     "translator_note": ""
   },
   {
@@ -3236,7 +3236,6 @@
     "primary_key": "Quest_880000005_QuestDesc_0_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3246,8 +3245,9 @@
     "ai_reason": "",
     "source_en": "Maqi is trying to contact you, and it appears to be related to the Pioneer Association's ambitious project, \"Second Coming of Solaris\"...",
     "review_note": "",
-    "new_translation_vi": "Maqi đang cố liên lạc với cậu, dường như có dính líu đến dự án đầy tham vọng của Pioneer Association, \"Solaris Trở Lại\"...",
-    "translator_note": ""
+    "new_translation_vi": "Maqi đang cố liên lạc với bạn, có vẻ như liên quan đến dự án đầy tham vọng của Hiệp hội Tiên phong, \"Sự trở lại của Solaris\"...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017131",
@@ -3271,7 +3271,7 @@
     "ai_reason": "",
     "source_en": "Sea of Flowers in the Valley",
     "review_note": "",
-    "new_translation_vi": "Biển Hoa ở Thung Lũng",
+    "new_translation_vi": "Biển Hoa trong Thung lũng",
     "translator_note": ""
   },
   {
@@ -3311,7 +3311,6 @@
     "primary_key": "Quest_880000005_QuestScheduleSubTitle_0_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3321,8 +3320,9 @@
     "ai_reason": "",
     "source_en": "(Optional) Find Linsu and find out about the Sea of Flowers.",
     "review_note": "",
-    "new_translation_vi": "(Tùy chọn) Tìm gặp Linsu và hỏi về Biển Hoa",
-    "translator_note": ""
+    "new_translation_vi": "(Tùy chọn) Tìm Linsu và tìm hiểu về Biển Hoa.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017134",
@@ -3336,7 +3336,6 @@
     "primary_key": "Quest_880000005_QuestScheduleSubTitle_0_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3347,7 +3346,8 @@
     "source_en": "Give the Sea of Flowers to Maqi",
     "review_note": "",
     "new_translation_vi": "Đưa Biển Hoa cho Maqi",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017135",
@@ -3361,7 +3361,6 @@
     "primary_key": "Quest_880000006_ChildQuestTip_0_11",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3371,8 +3370,9 @@
     "ai_reason": "",
     "source_en": "Talk to Maqi to find out about today's game scenario.",
     "review_note": "",
-    "new_translation_vi": "Hỏi Maqi về tình huống trò chơi trong ngày.",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Maqi để tìm hiểu về kịch bản trò chơi hôm nay.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017136",
@@ -3396,7 +3396,7 @@
     "ai_reason": "",
     "source_en": "Did you find \"<color=highlight>Golden Insects</color>\"? Then give it to me.",
     "review_note": "",
-    "new_translation_vi": "Cậu tìm thấy \"<color=highlight>Golden Insect</color>\" rồi à? Đưa đây cho ta.",
+    "new_translation_vi": "Bạn đã tìm thấy \"<color=highlight>Côn trùng Vàng</color>\" chưa? Nếu rồi thì đưa cho tôi.",
     "translator_note": ""
   },
   {
@@ -3446,7 +3446,7 @@
     "ai_reason": "",
     "source_en": "I'm going to turn in \"<color=highlight>Golden Insects</color>\".",
     "review_note": "",
-    "new_translation_vi": "Ta sẽ đi nộp \"<color=highlight>Golden Insect</color>\".",
+    "new_translation_vi": "Tôi sẽ nộp \"<color=highlight>Côn trùng Vàng</color>\".",
     "translator_note": ""
   },
   {
@@ -3471,7 +3471,7 @@
     "ai_reason": "",
     "source_en": "About the Fly in the novel...",
     "review_note": "",
-    "new_translation_vi": "Về con ruồi trong tiểu thuyết ấy...",
+    "new_translation_vi": "Về con Ruồi trong tiểu thuyết...",
     "translator_note": ""
   },
   {
@@ -3496,7 +3496,7 @@
     "ai_reason": "",
     "source_en": "Give me some leads on \"<color=highlight>Golden Insects</color>\".",
     "review_note": "",
-    "new_translation_vi": "Cho ta vài đầu mối về \"<color=highlight>Golden Insect</color>\".",
+    "new_translation_vi": "Cho tôi vài manh mối về \"<color=highlight>Côn trùng Vàng</color>\".",
     "translator_note": ""
   },
   {
@@ -3521,7 +3521,7 @@
     "ai_reason": "",
     "source_en": "About the Fly in the novel...",
     "review_note": "",
-    "new_translation_vi": "Về con ruồi trong tiểu thuyết ấy...",
+    "new_translation_vi": "Về con Ruồi trong tiểu thuyết...",
     "translator_note": ""
   },
   {
@@ -3536,7 +3536,6 @@
     "primary_key": "Quest_880000006_QuestDesc_0_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3546,8 +3545,9 @@
     "ai_reason": "",
     "source_en": "Maqi is trying to contact you, and it appears to be related to the Pioneer Association's ambitious project, \"Second Coming of Solaris\"...",
     "review_note": "",
-    "new_translation_vi": "Maqi đang cố liên lạc với cậu, dường như có dính líu đến dự án đầy tham vọng của Pioneer Association, \"Solaris Trở Lại\"...",
-    "translator_note": ""
+    "new_translation_vi": "Maqi đang cố liên lạc với bạn, có vẻ như liên quan đến dự án đầy tham vọng của Hiệp hội Tiên phong, \"Sự trở lại của Solaris\"...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017143",
@@ -3571,7 +3571,7 @@
     "ai_reason": "",
     "source_en": "Golden Insect",
     "review_note": "",
-    "new_translation_vi": "Insect Vàng",
+    "new_translation_vi": "Côn trùng Vàng",
     "translator_note": ""
   },
   {
@@ -3621,7 +3621,7 @@
     "ai_reason": "",
     "source_en": "(Optional) Go to the pool and look for children who know about insects.",
     "review_note": "",
-    "new_translation_vi": "(Tùy chọn) Tìm đến hồ bơi và hỏi những đứa trẻ biết về côn trùng",
+    "new_translation_vi": "(Tùy chọn) Đến hồ nước và tìm những đứa trẻ biết về côn trùng.",
     "translator_note": ""
   },
   {
@@ -3636,7 +3636,6 @@
     "primary_key": "Quest_880000006_QuestScheduleSubTitle_0_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3646,8 +3645,9 @@
     "ai_reason": "",
     "source_en": "Give the Golden Insect to Maqi",
     "review_note": "",
-    "new_translation_vi": "Đưa Insect Vàng cho Maqi",
-    "translator_note": ""
+    "new_translation_vi": "Đưa Côn trùng Vàng cho Maqi",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017147",
@@ -3661,7 +3661,6 @@
     "primary_key": "Quest_880000007_ChildQuestTip_0_11",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3671,8 +3670,9 @@
     "ai_reason": "",
     "source_en": "Talk to Maqi to find out about today's game scenario.",
     "review_note": "",
-    "new_translation_vi": "Hỏi Maqi về tình huống trò chơi trong ngày.",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Maqi để tìm hiểu về kịch bản trò chơi hôm nay.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017148",
@@ -3696,7 +3696,7 @@
     "ai_reason": "",
     "source_en": "Did you find the <color=highlight>Crownless One</color>? Then give it to me.",
     "review_note": "",
-    "new_translation_vi": "Cậu tìm thấy <color=highlight>Kẻ Không Vương Miện</color> rồi à? Đưa đây cho ta.",
+    "new_translation_vi": "Bạn đã tìm thấy <color=highlight>Crownless One</color> chưa? Nếu rồi thì đưa cho tôi.",
     "translator_note": ""
   },
   {
@@ -3746,7 +3746,7 @@
     "ai_reason": "",
     "source_en": "I'm turning in the <color=highlight>Crownless One</color>.",
     "review_note": "",
-    "new_translation_vi": "Tôi nộp <color=highlight>Kẻ Vô Đạo</color>.",
+    "new_translation_vi": "Tôi đang nộp <color=highlight>Crownless One</color>.",
     "translator_note": ""
   },
   {
@@ -3771,7 +3771,7 @@
     "ai_reason": "",
     "source_en": "About the Crownless King in the novel...",
     "review_note": "",
-    "new_translation_vi": "Về Vua Không Ngai trong tiểu thuyết...",
+    "new_translation_vi": "Về Vua Crownless trong tiểu thuyết...",
     "translator_note": ""
   },
   {
@@ -3796,7 +3796,7 @@
     "ai_reason": "",
     "source_en": "Give me some clues about \"<color=highlight>The Crownless One</color>\".",
     "review_note": "",
-    "new_translation_vi": "Cho ta vài manh mối về \"<color=highlight>Kẻ Vô Vương Miện</color>\".",
+    "new_translation_vi": "Cho tôi vài manh mối về \"<color=highlight>The Crownless One</color>\".",
     "translator_note": ""
   },
   {
@@ -3821,7 +3821,7 @@
     "ai_reason": "",
     "source_en": "About the Crownless King in the novel...",
     "review_note": "",
-    "new_translation_vi": "Về Vua Không Ngai trong tiểu thuyết...",
+    "new_translation_vi": "Về Vua Crownless trong tiểu thuyết...",
     "translator_note": ""
   },
   {
@@ -3836,7 +3836,6 @@
     "primary_key": "Quest_880000007_QuestDesc_0_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3846,8 +3845,9 @@
     "ai_reason": "",
     "source_en": "Maqi is trying to contact you, and it appears to be related to the Pioneer Association's ambitious project The Second Coming of Solaris...",
     "review_note": "",
-    "new_translation_vi": "Maqi đang cố liên lạc với cậu, có vẻ liên quan đến dự án đầy tham vọng của Pioneer Association - \"Solaris Trở Lại\"...",
-    "translator_note": ""
+    "new_translation_vi": "Maqi đang cố liên lạc với bạn, có vẻ như liên quan đến dự án đầy tham vọng của Hiệp hội Tiên phong, Sự trở lại của Solaris...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017155",
@@ -3861,7 +3861,6 @@
     "primary_key": "Quest_880000007_QuestName_0_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3872,7 +3871,8 @@
     "source_en": "Crownless?",
     "review_note": "",
     "new_translation_vi": "Crownless?",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017156",
@@ -3911,7 +3911,6 @@
     "primary_key": "Quest_880000007_QuestScheduleSubTitle_0_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3921,8 +3920,9 @@
     "ai_reason": "",
     "source_en": "(Optional) Find out about the Crownless One from Fibermorn.",
     "review_note": "",
-    "new_translation_vi": "(Tùy chọn) Hỏi Fibermorn về Kẻ Không Vương Miện",
-    "translator_note": ""
+    "new_translation_vi": "(Tùy chọn) Tìm hiểu về Crownless One từ Fibermorn.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017158",
@@ -3936,7 +3936,6 @@
     "primary_key": "Quest_880000007_QuestScheduleSubTitle_0_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3947,7 +3946,8 @@
     "source_en": "Give the Crownless to Maqi",
     "review_note": "",
     "new_translation_vi": "Đưa Crownless cho Maqi",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017159",
@@ -3961,7 +3961,6 @@
     "primary_key": "Quest_880000008_ChildQuestTip_0_11",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3971,8 +3970,9 @@
     "ai_reason": "",
     "source_en": "Talk to Maqi to find out about today's game scenario.",
     "review_note": "",
-    "new_translation_vi": "Hỏi Maqi về tình huống trò chơi trong ngày.",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Maqi để tìm hiểu về kịch bản trò chơi hôm nay.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017160",
@@ -3996,7 +3996,7 @@
     "ai_reason": "",
     "source_en": "Did you find \"<color=highlight>Unforgettable Dish</color>\"? Then give it to me.",
     "review_note": "",
-    "new_translation_vi": "Cậu tìm thấy \"<color=highlight>Dish Khó Quên</color>\" rồi à? Đưa đây cho ta.",
+    "new_translation_vi": "Bạn đã tìm thấy \"<color=highlight>Món ăn Khó quên</color>\" chưa? Nếu rồi thì đưa cho tôi.",
     "translator_note": ""
   },
   {
@@ -4046,7 +4046,7 @@
     "ai_reason": "",
     "source_en": "I'm turning in \"<color=highlight>Unforgettable Dishes</color>\".",
     "review_note": "",
-    "new_translation_vi": "Tôi nộp \"<color=highlight>Dishes Khó Quên</color>\".",
+    "new_translation_vi": "Tôi đang nộp \"<color=highlight>Món ăn Khó quên</color>\".",
     "translator_note": ""
   },
   {
@@ -4071,7 +4071,7 @@
     "ai_reason": "",
     "source_en": "About the Dish in the novel...",
     "review_note": "",
-    "new_translation_vi": "Về Dish trong tiểu thuyết...",
+    "new_translation_vi": "Về Món ăn trong tiểu thuyết...",
     "translator_note": ""
   },
   {
@@ -4096,7 +4096,7 @@
     "ai_reason": "",
     "source_en": "Give me some clues to <color=highlight>Unforgettable Dishes</color>.",
     "review_note": "",
-    "new_translation_vi": "Cho ta vài manh mối về <color=highlight>Dishes Khó Quên</color>.",
+    "new_translation_vi": "Cho tôi vài manh mối về <color=highlight>Món ăn Khó quên</color>.",
     "translator_note": ""
   },
   {
@@ -4121,7 +4121,7 @@
     "ai_reason": "",
     "source_en": "About the Dish in the novel...",
     "review_note": "",
-    "new_translation_vi": "Về Dish trong tiểu thuyết...",
+    "new_translation_vi": "Về Món ăn trong tiểu thuyết...",
     "translator_note": ""
   },
   {
@@ -4136,7 +4136,6 @@
     "primary_key": "Quest_880000008_QuestDesc_0_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4146,8 +4145,9 @@
     "ai_reason": "",
     "source_en": "Maqi is trying to contact you, and it appears to be related to the Pioneer Association's ambitious project, \"Second Coming of Solaris\"...",
     "review_note": "",
-    "new_translation_vi": "Maqi đang cố liên lạc với cậu, dường như có dính líu đến dự án đầy tham vọng của Pioneer Association, \"Solaris Trở Lại\"...",
-    "translator_note": ""
+    "new_translation_vi": "Maqi đang cố liên lạc với bạn, có vẻ như liên quan đến dự án đầy tham vọng của Hiệp hội Tiên phong, \"Sự trở lại của Solaris\"...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017167",
@@ -4171,7 +4171,7 @@
     "ai_reason": "",
     "source_en": "Unforgettable Dishes",
     "review_note": "",
-    "new_translation_vi": "Những Dishes Không Thể Quên",
+    "new_translation_vi": "Món ăn Khó quên",
     "translator_note": ""
   },
   {
@@ -4221,7 +4221,7 @@
     "ai_reason": "",
     "source_en": "(Optional) Find out about \"Unforgettable Dish\" from Flora.",
     "review_note": "",
-    "new_translation_vi": "(Tùy chọn) Hỏi Flora về món \"Dish Không Thể Quên\"",
+    "new_translation_vi": "(Tùy chọn) Tìm hiểu về \"Món ăn Khó quên\" từ Flora.",
     "translator_note": ""
   },
   {
@@ -4236,7 +4236,6 @@
     "primary_key": "Quest_880000008_QuestScheduleSubTitle_0_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4246,8 +4245,9 @@
     "ai_reason": "",
     "source_en": "Give the Unforgettable Dish to Maqi",
     "review_note": "",
-    "new_translation_vi": "Đưa Dish Không Thể Quên cho Maqi",
-    "translator_note": ""
+    "new_translation_vi": "Đưa Món ăn Khó quên cho Maqi",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017171",
@@ -4261,7 +4261,6 @@
     "primary_key": "Quest_880000009_ChildQuestTip_0_11",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4271,8 +4270,9 @@
     "ai_reason": "",
     "source_en": "Talk to Maqi to find out about today's game scenario.",
     "review_note": "",
-    "new_translation_vi": "Hỏi Maqi về tình huống trò chơi trong ngày.",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Maqi để tìm hiểu về kịch bản trò chơi hôm nay.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017172",
@@ -4286,7 +4286,6 @@
     "primary_key": "Quest_880000009_HandInItemsDesc_0_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4296,8 +4295,9 @@
     "ai_reason": "",
     "source_en": "Did you find the <color=highlight>Mithril</color>? Then give it to me.",
     "review_note": "",
-    "new_translation_vi": "Đã tìm thấy <color=highlight>Mithril</color> chưa? Đưa đây cho ta.",
-    "translator_note": ""
+    "new_translation_vi": "Bạn đã tìm thấy <color=highlight>Mithril</color> chưa? Nếu rồi thì đưa cho tôi.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017173",
@@ -4336,7 +4336,6 @@
     "primary_key": "Quest_880000009_InteractContent_0_7",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4346,8 +4345,9 @@
     "ai_reason": "",
     "source_en": "I'm turning in the <color=highlight>Mithril</color>.",
     "review_note": "",
-    "new_translation_vi": "Tôi nộp <color=highlight>Mithril</color>.",
-    "translator_note": ""
+    "new_translation_vi": "Tôi đang nộp <color=highlight>Mithril</color>.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017175",
@@ -4361,7 +4361,6 @@
     "primary_key": "Quest_880000009_InteractContent_0_8",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4372,7 +4371,8 @@
     "source_en": "About the Mithril in the novel...",
     "review_note": "",
     "new_translation_vi": "Về Mithril trong tiểu thuyết...",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017176",
@@ -4386,7 +4386,6 @@
     "primary_key": "Quest_880000009_InteractContent_0_9",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4396,8 +4395,9 @@
     "ai_reason": "",
     "source_en": "Give me some clues to the <color=highlight>Mithril</color>.",
     "review_note": "",
-    "new_translation_vi": "Cho ta vài manh mối về <color=highlight>Mithril</color>.",
-    "translator_note": ""
+    "new_translation_vi": "Cho tôi vài manh mối về <color=highlight>Mithril</color>.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017177",
@@ -4411,7 +4411,6 @@
     "primary_key": "Quest_880000009_InteractContent_0_10",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4422,7 +4421,8 @@
     "source_en": "About the Mithril in the novel...",
     "review_note": "",
     "new_translation_vi": "Về Mithril trong tiểu thuyết...",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017178",
@@ -4436,7 +4436,6 @@
     "primary_key": "Quest_880000009_QuestDesc_0_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4446,8 +4445,9 @@
     "ai_reason": "",
     "source_en": "Maqi is trying to contact you, and it appears to be related to the Pioneer Association's ambitious project, \"Second Coming of Solaris\"...",
     "review_note": "",
-    "new_translation_vi": "Maqi đang cố liên lạc với cậu, dường như có dính líu đến dự án đầy tham vọng của Pioneer Association, \"Solaris Trở Lại\"...",
-    "translator_note": ""
+    "new_translation_vi": "Maqi đang cố liên lạc với bạn, có vẻ liên quan đến dự án đầy tham vọng của Pioneer Association, \"Sự trở lại của Solaris\"...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017179",
@@ -4461,18 +4461,18 @@
     "primary_key": "Quest_880000009_QuestName_0_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Mithril",
     "review_note": "",
     "new_translation_vi": "Mithril",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "QUEST_0017180",
@@ -4511,7 +4511,6 @@
     "primary_key": "Quest_880000009_QuestScheduleSubTitle_0_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4521,8 +4520,9 @@
     "ai_reason": "",
     "source_en": "(Optional) Ask Fuyan about the Mithril.",
     "review_note": "",
-    "new_translation_vi": "Ask Fuyan về Mithril (tùy chọn)",
-    "translator_note": ""
+    "new_translation_vi": "(Tùy chọn) Hỏi Fuyan về Mithril.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017182",
@@ -4536,7 +4536,6 @@
     "primary_key": "Quest_880000009_QuestScheduleSubTitle_0_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4547,7 +4546,8 @@
     "source_en": "Deliver the \"Mithril\" to Maqi",
     "review_note": "",
     "new_translation_vi": "Giao \"Mithril\" cho Maqi",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017183",
@@ -4561,7 +4561,6 @@
     "primary_key": "Quest_880000010_ChildQuestTip_0_11",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4571,8 +4570,9 @@
     "ai_reason": "",
     "source_en": "Talk to Maqi to find out about today's game scenario",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Maqi để biết tình huống trò chơi hôm nay",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Maqi để tìm hiểu về kịch bản trò chơi hôm nay",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017184",
@@ -4596,7 +4596,7 @@
     "ai_reason": "",
     "source_en": "Did you find the <color=highlight>Burning Jade</color>? Then give it to me.",
     "review_note": "",
-    "new_translation_vi": "Cậu tìm thấy <color=highlight>Ngọc Jade Cháy</color> rồi à? Đưa đây cho ta.",
+    "new_translation_vi": "Bạn đã tìm thấy <color=highlight>Burning Jade</color> chưa? Nếu rồi thì đưa cho tôi.",
     "translator_note": ""
   },
   {
@@ -4646,7 +4646,7 @@
     "ai_reason": "",
     "source_en": "I'm turning in the <color=highlight>Burning Jade</color>.",
     "review_note": "",
-    "new_translation_vi": "Tôi nộp <color=highlight>Ngọc Jade Cháy</color>.",
+    "new_translation_vi": "Tôi đang giao <color=highlight>Burning Jade</color>.",
     "translator_note": ""
   },
   {
@@ -4696,7 +4696,7 @@
     "ai_reason": "",
     "source_en": "Give me some clues about the <color=highlight>Burning Jade</color>.",
     "review_note": "",
-    "new_translation_vi": "Cho ta vài manh mối về <color=highlight>Ngọc Jade Cháy</color>.",
+    "new_translation_vi": "Cho tôi vài manh mối về <color=highlight>Burning Jade</color>.",
     "translator_note": ""
   },
   {
@@ -4736,7 +4736,6 @@
     "primary_key": "Quest_880000010_QuestDesc_0_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4746,8 +4745,9 @@
     "ai_reason": "",
     "source_en": "Maqi is trying to contact you, and it appears to be related to the Pioneer Association's ambitious project, \"Second Coming of Solaris\"...",
     "review_note": "",
-    "new_translation_vi": "Maqi đang cố liên lạc với cậu, dường như có dính líu đến dự án đầy tham vọng của Pioneer Association, \"Solaris Trở Lại\"...",
-    "translator_note": ""
+    "new_translation_vi": "Maqi đang cố liên lạc với bạn, có vẻ liên quan đến dự án đầy tham vọng của Pioneer Association, \"Sự trở lại của Solaris\"...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017191",
@@ -4771,7 +4771,7 @@
     "ai_reason": "",
     "source_en": "Burning Jade",
     "review_note": "",
-    "new_translation_vi": "Ngọc Bích Cháy",
+    "new_translation_vi": "Burning Jade",
     "translator_note": ""
   },
   {
@@ -4811,7 +4811,6 @@
     "primary_key": "Quest_880000010_QuestScheduleSubTitle_0_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4821,8 +4820,9 @@
     "ai_reason": "",
     "source_en": "(Optional) Find out about the Burning Jade from Xieyang",
     "review_note": "",
-    "new_translation_vi": "(Tùy chọn) Hỏi Xieyang về Ngọc Jade Cháy",
-    "translator_note": ""
+    "new_translation_vi": "(Tùy chọn) Tìm hiểu về Burning Jade từ Xieyang",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017194",
@@ -4836,7 +4836,6 @@
     "primary_key": "Quest_880000010_QuestScheduleSubTitle_0_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4846,8 +4845,9 @@
     "ai_reason": "",
     "source_en": "Give the Burning Jade to Maqi",
     "review_note": "",
-    "new_translation_vi": "Đưa Ngọc Lửa Cháy cho Maqi",
-    "translator_note": ""
+    "new_translation_vi": "Đưa Burning Jade cho Maqi",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017195",
@@ -4861,7 +4861,6 @@
     "primary_key": "Quest_880800000_ChildQuestTip_0_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4871,8 +4870,9 @@
     "ai_reason": "",
     "source_en": "Talk to Maqi to find out what's going on",
     "review_note": "",
-    "new_translation_vi": "Hỏi Maqi xem có chuyện gì xảy ra",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Maqi để tìm hiểu chuyện gì đang xảy ra",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017196",
@@ -4886,7 +4886,6 @@
     "primary_key": "Quest_880800000_InteractContent_0_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4896,8 +4895,9 @@
     "ai_reason": "",
     "source_en": "Learn about Second Coming of Solaris",
     "review_note": "",
-    "new_translation_vi": "Tìm hiểu về Second Coming of Solaris",
-    "translator_note": ""
+    "new_translation_vi": "Tìm hiểu về Sự trở lại của Solaris",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017197",
@@ -4911,7 +4911,6 @@
     "primary_key": "Quest_880800000_QuestDesc_0_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4921,8 +4920,9 @@
     "ai_reason": "",
     "source_en": "Maqi is trying to contact you, and it appears to be related to the Pioneer Association's ambitious project The Second Coming of Solaris...",
     "review_note": "",
-    "new_translation_vi": "Maqi đang cố liên lạc với cậu, có vẻ liên quan đến dự án đầy tham vọng của Pioneer Association - \"Solaris Trở Lại\"...",
-    "translator_note": ""
+    "new_translation_vi": "Maqi đang cố liên lạc với bạn, có vẻ liên quan đến dự án đầy tham vọng của Pioneer Association, Sự trở lại của Solaris...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017198",
@@ -4936,7 +4936,6 @@
     "primary_key": "Quest_880800000_QuestName_0_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4946,8 +4945,9 @@
     "ai_reason": "",
     "source_en": "Second Coming of Solaris",
     "review_note": "",
-    "new_translation_vi": "Solaris Trở Lại Lần Hai",
-    "translator_note": ""
+    "new_translation_vi": "Sự trở lại của Solaris",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017199",
@@ -4971,7 +4971,7 @@
     "ai_reason": "",
     "source_en": "Meet with Chixia",
     "review_note": "",
-    "new_translation_vi": "Gặp Chixia",
+    "new_translation_vi": "Gặp gỡ Chixia",
     "translator_note": ""
   },
   {
@@ -4996,7 +4996,7 @@
     "ai_reason": "",
     "source_en": "Prepare to leave with Chixia",
     "review_note": "",
-    "new_translation_vi": "Prepare rời đi cùng Chixia",
+    "new_translation_vi": "Chuẩn bị leave cùng Chixia",
     "translator_note": ""
   },
   {
@@ -5021,7 +5021,7 @@
     "ai_reason": "",
     "source_en": "Locate Havoc Warriors",
     "review_note": "",
-    "new_translation_vi": "Xác định vị trí Havoc Warriors",
+    "new_translation_vi": "Tìm vị trí Havoc Warriors",
     "translator_note": ""
   },
   {
@@ -5046,7 +5046,7 @@
     "ai_reason": "",
     "source_en": "Defeat Havoc Warriors ({q_count}/3)",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Havoc Warriors ({q_count}/3)",
+    "new_translation_vi": "Tiêu diệt Havoc Warriors ({q_count}/3)",
     "translator_note": ""
   },
   {
@@ -5061,7 +5061,6 @@
     "primary_key": "Quest_139000017_ChildQuestTip_0_24",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5071,8 +5070,9 @@
     "ai_reason": "",
     "source_en": "Reply to Chixia and Jingzhu",
     "review_note": "",
-    "new_translation_vi": "Trả lời Chixia và Jingzhu",
-    "translator_note": ""
+    "new_translation_vi": "Phản hồi Chixia và Jingzhu",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017204",
@@ -5121,7 +5121,7 @@
     "ai_reason": "",
     "source_en": "Complete Tacet Field Challenge",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Challenge Tacet Field.",
+    "new_translation_vi": "Hoàn thành Thử thách Tacet Field",
     "translator_note": ""
   },
   {
@@ -5136,7 +5136,6 @@
     "primary_key": "Quest_139000017_ChildQuestTip_0_27",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5146,8 +5145,9 @@
     "ai_reason": "",
     "source_en": "Reply to Chixia and Jingzhu",
     "review_note": "",
-    "new_translation_vi": "Trả lời Chixia và Jingzhu",
-    "translator_note": ""
+    "new_translation_vi": "Phản hồi Chixia và Jingzhu",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017207",
@@ -5171,7 +5171,7 @@
     "ai_reason": "",
     "source_en": "Equip Echoes accordingly to make a 2-piece set",
     "review_note": "",
-    "new_translation_vi": "Gắn Echoes tương ứng để tạo bộ 2 mảnh",
+    "new_translation_vi": "Trang bị Echo để tạo bộ 2 món",
     "translator_note": ""
   },
   {
@@ -5186,7 +5186,6 @@
     "primary_key": "Quest_139000017_ChildQuestTip_0_30",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5196,8 +5195,9 @@
     "ai_reason": "",
     "source_en": "Talk to Jingzhu and head back to Jinzhou",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Jingzhu và quay về Jinzhou",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Jingzhu và quay lại Jinzhou",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017209",
@@ -5211,7 +5211,6 @@
     "primary_key": "Quest_139000017_ChildQuestTip_0_31",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5221,8 +5220,9 @@
     "ai_reason": "",
     "source_en": "Talk to Jingzhu and practice his opening lines",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Jingzhu và luyện tập lời mở đầu của cậu ấy",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Jingzhu và tập luyện lời thoại mở đầu của anh ấy",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017210",
@@ -5236,7 +5236,6 @@
     "primary_key": "Quest_139000017_ChildQuestTip_0_32",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5246,8 +5245,9 @@
     "ai_reason": "",
     "source_en": "Visit Linghan with Jingzhu",
     "review_note": "",
-    "new_translation_vi": "Đến thăm Linghan cùng Jingzhu",
-    "translator_note": ""
+    "new_translation_vi": "Ghé thăm Linghan cùng Jingzhu",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017211",
@@ -5271,7 +5271,7 @@
     "ai_reason": "",
     "source_en": "Use Utility: Projector to project any Echo",
     "review_note": "",
-    "new_translation_vi": "Dùng Công cụ: Máy Chiếu để chiếu bất kỳ Echo nào.",
+    "new_translation_vi": "Sử dụng Utility: Projector để chiếu bất kỳ Echo nào",
     "translator_note": ""
   },
   {
@@ -5286,7 +5286,6 @@
     "primary_key": "Quest_139000017_ChildQuestTip_0_35",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5296,8 +5295,9 @@
     "ai_reason": "",
     "source_en": "Ask Linghan for her thoughts",
     "review_note": "",
-    "new_translation_vi": "Hỏi ý kiến Linghan",
-    "translator_note": ""
+    "new_translation_vi": "Hỏi suy nghĩ của Linghan",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017213",
@@ -5311,7 +5311,6 @@
     "primary_key": "Quest_139000017_ChildQuestTip_0_36",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5322,7 +5321,8 @@
     "source_en": "Ask if Jingzhu's alright",
     "review_note": "",
     "new_translation_vi": "Hỏi xem Jingzhu có ổn không",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017214",
@@ -5346,7 +5346,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -5371,7 +5371,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -5396,7 +5396,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -5421,7 +5421,7 @@
     "ai_reason": "",
     "source_en": "Visit",
     "review_note": "",
-    "new_translation_vi": "Visit",
+    "new_translation_vi": "Ghé thăm",
     "translator_note": ""
   },
   {
@@ -5446,7 +5446,7 @@
     "ai_reason": "",
     "source_en": "Inquire",
     "review_note": "",
-    "new_translation_vi": "Inquire",
+    "new_translation_vi": "Hỏi thăm",
     "translator_note": ""
   },
   {
@@ -5471,7 +5471,7 @@
     "ai_reason": "",
     "source_en": "Inquire",
     "review_note": "",
-    "new_translation_vi": "Inquire",
+    "new_translation_vi": "Hỏi thăm",
     "translator_note": ""
   },
   {
@@ -5496,7 +5496,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -5521,7 +5521,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -5546,7 +5546,7 @@
     "ai_reason": "",
     "source_en": "Reach Union Level 16 & complete Utterance of Marvels: Part 2 to unlock",
     "review_note": "",
-    "new_translation_vi": "Đạt Cấp Liên Minh 16 & hoàn thành Kỳ Diệu Ngữ: Phần 2 để mở khóa",
+    "new_translation_vi": "Đạt Union Level 16 & hoàn thành Utterance of Marvels: Phần 2 để mở khóa",
     "translator_note": ""
   },
   {
@@ -5561,7 +5561,6 @@
     "primary_key": "Quest_139000017_QuestDesc_0_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5571,8 +5570,9 @@
     "ai_reason": "",
     "source_en": "Why does Grandpa Jingzhu insist on capturing Echoes? Go meet up with Chixia and help Grandpa Jingzhu together.",
     "review_note": "",
-    "new_translation_vi": "Sao ông nội Jingzhu cứ nhất định phải bắt mấy con Echoes nhỉ? Đi gặp Chixia và giúp ông nội Jingzhu cùng nhau đi.",
-    "translator_note": ""
+    "new_translation_vi": "Tại sao ông Jingzhu lại khăng khăng muốn bắt Echo? Hãy đi gặp Chixia và cùng giúp đỡ ông Jingzhu.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017224",
@@ -5636,7 +5636,6 @@
     "primary_key": "Quest_139000020_ChildQuestTip_0_15",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5646,8 +5645,9 @@
     "ai_reason": "",
     "source_en": "Meet up with Jingzhu",
     "review_note": "",
-    "new_translation_vi": "Gặp Jingzhu",
-    "translator_note": ""
+    "new_translation_vi": "Gặp gỡ Jingzhu",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017227",
@@ -5661,7 +5661,6 @@
     "primary_key": "Quest_139000020_ChildQuestTip_0_16",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5671,8 +5670,9 @@
     "ai_reason": "",
     "source_en": "Go to Instructor Yhan's training ground",
     "review_note": "",
-    "new_translation_vi": "Đến khu huấn luyện của Huấn luyện viên Yhan",
-    "translator_note": ""
+    "new_translation_vi": "Đến sân tập của Huấn luyện viên Yhan",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017228",
@@ -5696,7 +5696,7 @@
     "ai_reason": "",
     "source_en": "Complete Simulation: Sealed Tube",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Mô phỏng: Ống Đã Niêm Phong",
+    "new_translation_vi": "Hoàn thành Mô phỏng: Sealed Tube",
     "translator_note": ""
   },
   {
@@ -5711,7 +5711,6 @@
     "primary_key": "Quest_139000020_ChildQuestTip_0_18",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5721,8 +5720,9 @@
     "ai_reason": "",
     "source_en": "Talk to Instructor Yhan",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Huấn luyện viên Yhan",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Huấn luyện viên Yhan",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017230",
@@ -5736,7 +5736,6 @@
     "primary_key": "Quest_139000020_ChildQuestTip_0_19",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5746,8 +5745,9 @@
     "ai_reason": "",
     "source_en": "Talk to Jingzhu",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Jingzhu",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Jingzhu",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017231",
@@ -5771,7 +5771,7 @@
     "ai_reason": "",
     "source_en": "Upgrade the Echo to Lv. 15",
     "review_note": "",
-    "new_translation_vi": "Nâng cấp Echo lên Cấp 15",
+    "new_translation_vi": "Nâng cấp Echo lên cấp 15",
     "translator_note": ""
   },
   {
@@ -5786,7 +5786,6 @@
     "primary_key": "Quest_139000020_ChildQuestTip_0_21",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5797,7 +5796,8 @@
     "source_en": "Listen to Jingzhu's past",
     "review_note": "",
     "new_translation_vi": "Lắng nghe quá khứ của Jingzhu",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017233",
@@ -5811,7 +5811,6 @@
     "primary_key": "Quest_139000020_ChildQuestTip_0_22",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5821,8 +5820,9 @@
     "ai_reason": "",
     "source_en": "Visit Linghan with Jingzhu",
     "review_note": "",
-    "new_translation_vi": "Đến thăm Linghan cùng Jingzhu",
-    "translator_note": ""
+    "new_translation_vi": "Ghé thăm Linghan cùng Jingzhu",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017234",
@@ -5836,7 +5836,6 @@
     "primary_key": "Quest_139000020_ChildQuestTip_0_23",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5846,8 +5845,9 @@
     "ai_reason": "",
     "source_en": "Talk to Linghan",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Linghan",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Linghan",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017235",
@@ -5861,7 +5861,6 @@
     "primary_key": "Quest_139000020_ChildQuestTip_0_24",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5871,8 +5870,9 @@
     "ai_reason": "",
     "source_en": "Check on Jingzhu",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra tình trạng Jingzhu",
-    "translator_note": ""
+    "new_translation_vi": "Kiểm tra tình hình của Jingzhu",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017236",
@@ -5896,7 +5896,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -5921,7 +5921,7 @@
     "ai_reason": "",
     "source_en": "Simulation: Sealed Tube",
     "review_note": "",
-    "new_translation_vi": "Mô phỏng: Ống Đã Niêm Phong",
+    "new_translation_vi": "Mô phỏng: Sealed Tube",
     "translator_note": ""
   },
   {
@@ -5946,7 +5946,7 @@
     "ai_reason": "",
     "source_en": "Report",
     "review_note": "",
-    "new_translation_vi": "Report",
+    "new_translation_vi": "Báo cáo",
     "translator_note": ""
   },
   {
@@ -5971,7 +5971,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -5996,7 +5996,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -6011,7 +6011,6 @@
     "primary_key": "Quest_139000020_QuestDesc_0_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6021,8 +6020,9 @@
     "ai_reason": "",
     "source_en": "Grandpa Jingzhu has come up with a new method to train Echoes. Go and ask him about the details.",
     "review_note": "",
-    "new_translation_vi": "Ông Jingzhu vừa nghĩ ra phương pháp mới để huấn luyện Echoes. Đến hỏi ông ấy chi tiết đi.",
-    "translator_note": ""
+    "new_translation_vi": "Ông Jingzhu đã nghĩ ra phương pháp mới để huấn luyện Echo. Hãy đi hỏi ông ấy về chi tiết.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017242",
@@ -6061,7 +6061,6 @@
     "primary_key": "Quest_139000021_ChildQuestTip_0_21",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6072,7 +6071,8 @@
     "source_en": "Answer Jingzhu's call",
     "review_note": "",
     "new_translation_vi": "Trả lời cuộc gọi của Jingzhu",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017244",
@@ -6086,7 +6086,6 @@
     "primary_key": "Quest_139000021_ChildQuestTip_0_23",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6096,8 +6095,9 @@
     "ai_reason": "",
     "source_en": "Go to Jinzhou Theater to meet with Jingzhu",
     "review_note": "",
-    "new_translation_vi": "Đến Nhà hát Jinzhou gặp Jingzhu",
-    "translator_note": ""
+    "new_translation_vi": "Đến Nhà hát Jinzhou để gặp Jingzhu",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017245",
@@ -6146,7 +6146,7 @@
     "ai_reason": "",
     "source_en": "Defeat Tacet Discords ({q_count}/3)",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Tacet Discord ({q_count}/3)",
+    "new_translation_vi": "Tiêu diệt Tacet Discord ({q_count}/3)",
     "translator_note": ""
   },
   {
@@ -6161,7 +6161,6 @@
     "primary_key": "Quest_139000021_ChildQuestTip_0_26",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6171,8 +6170,9 @@
     "ai_reason": "",
     "source_en": "Get back to Jingzhu",
     "review_note": "",
-    "new_translation_vi": "Quay lại gặp Jingzhu",
-    "translator_note": ""
+    "new_translation_vi": "Quay lại Jingzhu",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017248",
@@ -6196,7 +6196,7 @@
     "ai_reason": "",
     "source_en": "Tune the Echo in the Echoes interface",
     "review_note": "",
-    "new_translation_vi": "Điều Chỉnh Echo trong giao diện Echo",
+    "new_translation_vi": "Điều chỉnh Echo trong giao diện Echo",
     "translator_note": ""
   },
   {
@@ -6211,7 +6211,6 @@
     "primary_key": "Quest_139000021_ChildQuestTip_0_29",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6221,8 +6220,9 @@
     "ai_reason": "",
     "source_en": "Visit Linghan's place",
     "review_note": "",
-    "new_translation_vi": "Đến chỗ của Linghan",
-    "translator_note": ""
+    "new_translation_vi": "Ghé thăm nơi ở của Linghan",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017250",
@@ -6236,7 +6236,6 @@
     "primary_key": "Quest_139000021_ChildQuestTip_0_30",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6247,7 +6246,8 @@
     "source_en": "Ask Shaohua",
     "review_note": "",
     "new_translation_vi": "Hỏi Shaohua",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017251",
@@ -6261,7 +6261,6 @@
     "primary_key": "Quest_139000021_ChildQuestTip_0_31",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6272,7 +6271,8 @@
     "source_en": "Ask Lanqing",
     "review_note": "",
     "new_translation_vi": "Hỏi Lanqing",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017252",
@@ -6296,7 +6296,7 @@
     "ai_reason": "",
     "source_en": "Go to the cave",
     "review_note": "",
-    "new_translation_vi": "Đến hang động",
+    "new_translation_vi": "Đi đến hang động",
     "translator_note": ""
   },
   {
@@ -6321,7 +6321,7 @@
     "ai_reason": "",
     "source_en": "Use Echo Hunting to track down the Flautist",
     "review_note": "",
-    "new_translation_vi": "Dùng Echo Hunting để truy tìm Flautist",
+    "new_translation_vi": "Sử dụng Echo Hunting để truy tìm Flautist",
     "translator_note": ""
   },
   {
@@ -6346,7 +6346,7 @@
     "ai_reason": "",
     "source_en": "Defeat Tacet Discords ({q_count}/3)",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Tacet Discord ({q_count}/3)",
+    "new_translation_vi": "Tiêu diệt Tacet Discord ({q_count}/3)",
     "translator_note": ""
   },
   {
@@ -6361,7 +6361,6 @@
     "primary_key": "Quest_139000021_ChildQuestTip_0_37",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6371,8 +6370,9 @@
     "ai_reason": "",
     "source_en": "Talk to Linghan",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Linghan",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Linghan",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017256",
@@ -6411,7 +6411,6 @@
     "primary_key": "Quest_139000021_ChildQuestTip_0_39",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6421,8 +6420,9 @@
     "ai_reason": "",
     "source_en": "Deliver the Noctemint to Jingzhu",
     "review_note": "",
-    "new_translation_vi": "Đưa Noctemint cho Jingzhu",
-    "translator_note": ""
+    "new_translation_vi": "Giao Noctemint cho Jingzhu",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017258",
@@ -6436,7 +6436,6 @@
     "primary_key": "Quest_139000021_ChildQuestTip_0_40",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6446,8 +6445,9 @@
     "ai_reason": "",
     "source_en": "Visit Linghan's house and talk to Jingzhu",
     "review_note": "",
-    "new_translation_vi": "Đến nhà Linghan và nói chuyện với Jingzhu",
-    "translator_note": ""
+    "new_translation_vi": "Đến nhà của Linghan và trò chuyện với Jingzhu",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017259",
@@ -6471,7 +6471,7 @@
     "ai_reason": "",
     "source_en": "Go to the designated location",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm đã định",
+    "new_translation_vi": "Đi đến địa điểm được chỉ định",
     "translator_note": ""
   },
   {
@@ -6496,7 +6496,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -6521,7 +6521,7 @@
     "ai_reason": "",
     "source_en": "Inquire",
     "review_note": "",
-    "new_translation_vi": "Inquire",
+    "new_translation_vi": "Hỏi thăm",
     "translator_note": ""
   },
   {
@@ -6546,7 +6546,7 @@
     "ai_reason": "",
     "source_en": "Inquire",
     "review_note": "",
-    "new_translation_vi": "Inquire",
+    "new_translation_vi": "Hỏi thăm",
     "translator_note": ""
   },
   {
@@ -6571,7 +6571,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -6596,7 +6596,7 @@
     "ai_reason": "",
     "source_en": "Offer Noctemint",
     "review_note": "",
-    "new_translation_vi": "Dâng tặng Noctemint",
+    "new_translation_vi": "Đưa Noctemint",
     "translator_note": ""
   },
   {
@@ -6621,7 +6621,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -6636,7 +6636,6 @@
     "primary_key": "Quest_139000021_QuestDesc_0_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6646,8 +6645,9 @@
     "ai_reason": "",
     "source_en": "Grandpa Jingzhu finally reveals the ultimate secret to training Echoes...! Will he finally get what he wants this time?",
     "review_note": "",
-    "new_translation_vi": "Ông Jingzhu cuối cùng cũng tiết lộ bí mật tối thượng về luyện tập Echoes... Liệu lần này ông ấy có đạt được điều mình mong muốn không nhỉ?",
-    "translator_note": ""
+    "new_translation_vi": "Ông Jingzhu cuối cùng cũng tiết lộ bí mật tối thượng để huấn luyện Echo...! Liệu lần này ông ấy có đạt được mục đích không?",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017267",
@@ -6686,7 +6686,6 @@
     "primary_key": "Quest_139000021_QuestScheduleMainTitle_0_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6697,7 +6696,8 @@
     "source_en": "Ask the neighbors about Linghan",
     "review_note": "",
     "new_translation_vi": "Hỏi hàng xóm về Linghan",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017269",
@@ -6711,7 +6711,6 @@
     "primary_key": "Quest_139000021_QuestScheduleSubTitle_0_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6722,7 +6721,8 @@
     "source_en": "Ask Lanqing",
     "review_note": "",
     "new_translation_vi": "Hỏi Lanqing",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017270",
@@ -6736,7 +6736,6 @@
     "primary_key": "Quest_139000021_QuestScheduleSubTitle_0_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6747,7 +6746,8 @@
     "source_en": "Ask Shaohua",
     "review_note": "",
     "new_translation_vi": "Hỏi Shaohua",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017271",
@@ -6771,7 +6771,7 @@
     "ai_reason": "",
     "source_en": "Head to the shooting party's starting location.",
     "review_note": "",
-    "new_translation_vi": "Đến điểm xuất phát của đoàn quay",
+    "new_translation_vi": "Đi đến điểm bắt đầu của buổi tiệc bắn súng.",
     "translator_note": ""
   },
   {
@@ -6796,7 +6796,7 @@
     "ai_reason": "",
     "source_en": "Wait for the shooting party to begin.",
     "review_note": "",
-    "new_translation_vi": "Hãy chờ buổi bắn tập bắt đầu.",
+    "new_translation_vi": "Chờ buổi tiệc bắn súng bắt đầu.",
     "translator_note": ""
   },
   {
@@ -6821,7 +6821,7 @@
     "ai_reason": "",
     "source_en": "Talk to the Exile leader organizing the shooting party",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với thủ lĩnh Exile tổ chức buổi bắn tập",
+    "new_translation_vi": "Trò chuyện với Exile leader đang tổ chức buổi tiệc bắn súng",
     "translator_note": ""
   },
   {
@@ -6846,7 +6846,7 @@
     "ai_reason": "",
     "source_en": "Participate in the Novice Challenge",
     "review_note": "",
-    "new_translation_vi": "Tham gia Thử thách Người mới",
+    "new_translation_vi": "Tham gia Thử thách Tân binh",
     "translator_note": ""
   },
   {
@@ -6871,7 +6871,7 @@
     "ai_reason": "",
     "source_en": "Complete the Novice Challenge",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Thử thách Người mới",
+    "new_translation_vi": "Hoàn thành Thử thách Tân binh",
     "translator_note": ""
   },
   {
@@ -6896,7 +6896,7 @@
     "ai_reason": "",
     "source_en": "Talk to the cunning Exile leader",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với thủ lĩnh Exile gian xảo",
+    "new_translation_vi": "Trò chuyện với Exile leader xảo quyệt",
     "translator_note": ""
   },
   {
@@ -6921,7 +6921,7 @@
     "ai_reason": "",
     "source_en": "Participate in the Intermediate Challenge",
     "review_note": "",
-    "new_translation_vi": "Tham gia Challenge Trung Cấp.",
+    "new_translation_vi": "Tham gia Thử thách Trung cấp",
     "translator_note": ""
   },
   {
@@ -6971,7 +6971,7 @@
     "ai_reason": "",
     "source_en": "Talk to the cunning Exile leader",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với thủ lĩnh Exile gian xảo",
+    "new_translation_vi": "Trò chuyện với Exile leader xảo quyệt",
     "translator_note": ""
   },
   {
@@ -7046,7 +7046,7 @@
     "ai_reason": "",
     "source_en": "Confront the Exile leader",
     "review_note": "",
-    "new_translation_vi": "Đối đầu thủ lĩnh Exile",
+    "new_translation_vi": "Đối mặt với Exile leader",
     "translator_note": ""
   },
   {
@@ -7071,7 +7071,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Exiles in the camp",
     "review_note": "",
-    "new_translation_vi": "Đánh bại nhóm Exile trong trại",
+    "new_translation_vi": "Tiêu diệt các Exile trong trại",
     "translator_note": ""
   },
   {
@@ -7096,7 +7096,7 @@
     "ai_reason": "",
     "source_en": "Claim your rewards",
     "review_note": "",
-    "new_translation_vi": "Nhận phần thưởng của bạn",
+    "new_translation_vi": "Nhận phần thưởng",
     "translator_note": ""
   },
   {
@@ -7196,7 +7196,7 @@
     "ai_reason": "",
     "source_en": "Strange Flyer",
     "review_note": "",
-    "new_translation_vi": "Tờ rơi kỳ lạ",
+    "new_translation_vi": "Tờ rơi lạ",
     "translator_note": ""
   },
   {
@@ -7211,7 +7211,7 @@
     "primary_key": "Quest_142000001_InteractContent_0_13",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7221,7 +7221,7 @@
     "ai_reason": "",
     "source_en": "Premium Supply Chest",
     "review_note": "",
-    "new_translation_vi": "Rương Cung Cấp Cao Cấp",
+    "new_translation_vi": "Premium Supply Chest",
     "translator_note": ""
   },
   {
@@ -7246,7 +7246,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -7271,7 +7271,7 @@
     "ai_reason": "",
     "source_en": "Deliver",
     "review_note": "",
-    "new_translation_vi": "Deliver",
+    "new_translation_vi": "Giao hàng",
     "translator_note": ""
   },
   {
@@ -7296,7 +7296,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -7321,7 +7321,7 @@
     "ai_reason": "",
     "source_en": "Deliver",
     "review_note": "",
-    "new_translation_vi": "Deliver",
+    "new_translation_vi": "Giao hàng",
     "translator_note": ""
   },
   {
@@ -7346,7 +7346,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -7371,7 +7371,7 @@
     "ai_reason": "",
     "source_en": "Deliver",
     "review_note": "",
-    "new_translation_vi": "Deliver",
+    "new_translation_vi": "Giao hàng",
     "translator_note": ""
   },
   {
@@ -7396,7 +7396,7 @@
     "ai_reason": "",
     "source_en": "Confront",
     "review_note": "",
-    "new_translation_vi": "Confront",
+    "new_translation_vi": "Đối mặt",
     "translator_note": ""
   },
   {
@@ -7411,7 +7411,7 @@
     "primary_key": "Quest_142000001_InteractContent_0_21",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7421,7 +7421,7 @@
     "ai_reason": "",
     "source_en": "Premium Supply Chest",
     "review_note": "",
-    "new_translation_vi": "Rương Cung Cấp Cao Cấp",
+    "new_translation_vi": "Premium Supply Chest",
     "translator_note": ""
   },
   {
@@ -7436,7 +7436,7 @@
     "primary_key": "Quest_142000001_InteractContent_0_22",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7446,7 +7446,7 @@
     "ai_reason": "",
     "source_en": "Premium Supply Chest",
     "review_note": "",
-    "new_translation_vi": "Rương Cung Cấp Cao Cấp",
+    "new_translation_vi": "Premium Supply Chest",
     "translator_note": ""
   },
   {
@@ -7471,7 +7471,7 @@
     "ai_reason": "",
     "source_en": "Mission Complete",
     "review_note": "",
-    "new_translation_vi": "Nhiệm vụ hoàn thành",
+    "new_translation_vi": "Hoàn thành nhiệm vụ",
     "translator_note": ""
   },
   {
@@ -7496,7 +7496,7 @@
     "ai_reason": "",
     "source_en": "You've received an invitation to a peculiar shooting party, seemingly related to the damaged robot in Settle Range. Participate to find out more about it.",
     "review_note": "",
-    "new_translation_vi": "Cậu nhận được lời mời đến một buổi tiệc bắn súng kỳ lạ, có vẻ liên quan đến con robot hỏng ở Settle Range. Tham gia để tìm hiểu thêm về nó đi.",
+    "new_translation_vi": "Bạn đã nhận được lời mời tham gia một buổi tiệc bắn súng kỳ lạ, có vẻ liên quan đến con robot bị hỏng ở Settle Range. Hãy tham gia để tìm hiểu thêm.",
     "translator_note": ""
   },
   {
@@ -7521,7 +7521,7 @@
     "ai_reason": "",
     "source_en": "You've received an invitation to a peculiar shooting party, seemingly related to the damaged robot in Settle Range. However, this so-called shooting party turns out to be an outright scam for money! It's time to teach these Exiles a lesson!",
     "review_note": "",
-    "new_translation_vi": "Cậu nhận được lời mời đến một buổi tiệc bắn súng kỳ lạ, có vẻ liên quan đến con robot hỏng ở Settle Range. Nhưng hóa ra cái gọi là \"tiệc bắn súng\" này chỉ là trò lừa đảo kiếm tiền trắng trợn! Đến lúc dạy cho lũ Exile này một bài học rồi!",
+    "new_translation_vi": "Bạn đã nhận được lời mời tham gia một buổi tiệc bắn súng kỳ lạ, có vẻ liên quan đến con robot bị hỏng ở Settle Range. Tuy nhiên, cái gọi là tiệc bắn súng này hóa ra chỉ là một trò lừa đảo tiền bạc! Đã đến lúc dạy cho những tên Exile này một bài học!",
     "translator_note": ""
   },
   {
@@ -7546,7 +7546,7 @@
     "ai_reason": "",
     "source_en": "You've received an invitation to a peculiar shooting party, seemingly related to the damaged robot in Settle Range. However, this so-called shooting party turns out to be an outright scam for money! It's time to teach these Exiles a lesson!",
     "review_note": "",
-    "new_translation_vi": "Cậu nhận được lời mời đến một buổi tiệc bắn súng kỳ lạ, có vẻ liên quan đến con robot hỏng ở Settle Range. Nhưng hóa ra cái gọi là \"tiệc bắn súng\" này chỉ là trò lừa đảo kiếm tiền trắng trợn! Đến lúc dạy cho lũ Exile này một bài học rồi!",
+    "new_translation_vi": "Bạn đã nhận được lời mời tham gia một buổi tiệc bắn súng kỳ lạ, có vẻ liên quan đến con robot bị hỏng ở Settle Range. Tuy nhiên, cái gọi là tiệc bắn súng này hóa ra chỉ là một trò lừa đảo tiền bạc! Đã đến lúc dạy cho những tên Exile này một bài học!",
     "translator_note": ""
   },
   {
@@ -7571,7 +7571,7 @@
     "ai_reason": "",
     "source_en": "You've received an invitation to a peculiar shooting party, seemingly related to the damaged robot in Settle Range. Go check it out.",
     "review_note": "",
-    "new_translation_vi": "Cậu nhận được lời mời đến một buổi tiệc bắn súng kỳ lạ, có vẻ liên quan đến con robot hỏng ở Settle Range. Đến xem thử đi.",
+    "new_translation_vi": "Bạn đã nhận được lời mời tham gia một buổi tiệc bắn súng kỳ lạ, có vẻ liên quan đến con robot bị hỏng ở Settle Range. Hãy đến kiểm tra xem.",
     "translator_note": ""
   },
   {
@@ -7596,7 +7596,7 @@
     "ai_reason": "",
     "source_en": "Shooting Party",
     "review_note": "",
-    "new_translation_vi": "Buổi bắn tập",
+    "new_translation_vi": "Tiệc Bắn Súng",
     "translator_note": ""
   },
   {
@@ -7621,7 +7621,7 @@
     "ai_reason": "",
     "source_en": "Investigate the robot",
     "review_note": "",
-    "new_translation_vi": "Điều tra robot",
+    "new_translation_vi": "Điều tra con robot",
     "translator_note": ""
   },
   {
@@ -7646,7 +7646,7 @@
     "ai_reason": "",
     "source_en": "Use Sensor to investigate the surroundings",
     "review_note": "",
-    "new_translation_vi": "Dùng Sensor để khảo sát khu vực xung quanh",
+    "new_translation_vi": "Sử dụng Sensor để điều tra xung quanh",
     "translator_note": ""
   },
   {
@@ -7671,7 +7671,7 @@
     "ai_reason": "",
     "source_en": "Use Sensor to investigate the surroundings",
     "review_note": "",
-    "new_translation_vi": "Dùng Sensor để khảo sát khu vực xung quanh",
+    "new_translation_vi": "Sử dụng Sensor để điều tra xung quanh",
     "translator_note": ""
   },
   {
@@ -7696,7 +7696,7 @@
     "ai_reason": "",
     "source_en": "Use Sensor to investigate the surroundings",
     "review_note": "",
-    "new_translation_vi": "Dùng Sensor để khảo sát khu vực xung quanh",
+    "new_translation_vi": "Sử dụng Sensor để điều tra xung quanh",
     "translator_note": ""
   },
   {
@@ -7721,7 +7721,7 @@
     "ai_reason": "",
     "source_en": "Use Sensor to investigate the surroundings",
     "review_note": "",
-    "new_translation_vi": "Dùng Sensor để khảo sát khu vực xung quanh",
+    "new_translation_vi": "Sử dụng Sensor để điều tra xung quanh",
     "translator_note": ""
   },
   {
@@ -7746,7 +7746,7 @@
     "ai_reason": "",
     "source_en": "Use Sensor to investigate the surroundings",
     "review_note": "",
-    "new_translation_vi": "Dùng Sensor để khảo sát khu vực xung quanh",
+    "new_translation_vi": "Sử dụng Sensor để điều tra xung quanh",
     "translator_note": ""
   },
   {
@@ -7771,7 +7771,7 @@
     "ai_reason": "",
     "source_en": "Use Sensor to investigate the surroundings",
     "review_note": "",
-    "new_translation_vi": "Dùng Sensor để khảo sát khu vực xung quanh",
+    "new_translation_vi": "Sử dụng Sensor để điều tra xung quanh",
     "translator_note": ""
   },
   {
@@ -7796,7 +7796,7 @@
     "ai_reason": "",
     "source_en": "Find the spare parts",
     "review_note": "",
-    "new_translation_vi": "Tìm phụ tùng thay thế",
+    "new_translation_vi": "Tìm các linh kiện dự phòng",
     "translator_note": ""
   },
   {
@@ -7871,7 +7871,7 @@
     "ai_reason": "",
     "source_en": "Complete the Shooting Party quest",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành nhiệm vụ Shooting Party",
+    "new_translation_vi": "Hoàn thành nhiệm vụ Tiệc Bắn Súng",
     "translator_note": ""
   },
   {
@@ -7896,7 +7896,7 @@
     "ai_reason": "",
     "source_en": "Repair the robot",
     "review_note": "",
-    "new_translation_vi": "Sửa chữa robot",
+    "new_translation_vi": "Sửa chữa con robot",
     "translator_note": ""
   },
   {
@@ -7921,7 +7921,7 @@
     "ai_reason": "",
     "source_en": "Repair the robot",
     "review_note": "",
-    "new_translation_vi": "Sửa chữa robot",
+    "new_translation_vi": "Sửa chữa con robot",
     "translator_note": ""
   },
   {
@@ -7946,7 +7946,7 @@
     "ai_reason": "",
     "source_en": "Broken Radio",
     "review_note": "",
-    "new_translation_vi": "Radio hỏng",
+    "new_translation_vi": "Đài phát thanh hỏng",
     "translator_note": ""
   },
   {
@@ -7971,7 +7971,7 @@
     "ai_reason": "",
     "source_en": "Investigate",
     "review_note": "",
-    "new_translation_vi": "Investigate",
+    "new_translation_vi": "Điều tra",
     "translator_note": ""
   },
   {
@@ -7996,7 +7996,7 @@
     "ai_reason": "",
     "source_en": "Repair",
     "review_note": "",
-    "new_translation_vi": "Repair",
+    "new_translation_vi": "Sửa chữa",
     "translator_note": ""
   },
   {
@@ -8021,7 +8021,7 @@
     "ai_reason": "",
     "source_en": "Mission Complete",
     "review_note": "",
-    "new_translation_vi": "Nhiệm vụ hoàn thành",
+    "new_translation_vi": "Hoàn thành nhiệm vụ",
     "translator_note": ""
   },
   {
@@ -8036,7 +8036,6 @@
     "primary_key": "Quest_142000002_QuestAliasDesc_0_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8046,8 +8045,9 @@
     "ai_reason": "",
     "source_en": "After investigating the robot based on the recording, you found it severely damaged. To repair it, you'll need to find its three missing components. It might be a good idea to investigate the nearby Excarat holes and the Exiles camp for clues.",
     "review_note": "",
-    "new_translation_vi": "Sau khi điều tra robot theo bản ghi, cậu thấy nó bị hư hại nặng. Để sửa chữa, cậu cần tìm ba bộ phận còn thiếu. Có lẽ nên điều tra các hố Excarat gần đó và trại của những kẻ lưu vong để tìm manh mối.",
-    "translator_note": ""
+    "new_translation_vi": "Sau khi điều tra con robot dựa trên bản ghi âm, bạn thấy nó bị hư hỏng nặng. Để sửa chữa, bạn cần tìm ba linh kiện còn thiếu. Có lẽ nên kiểm tra các hố Excarat gần đó và trại Exile để tìm manh mối.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017323",
@@ -8071,7 +8071,7 @@
     "ai_reason": "",
     "source_en": "After investigating the robot based on the recording, you found it severely damaged. Fortunately, you have collected all of its missing components. It's time to wake up this robot.",
     "review_note": "",
-    "new_translation_vi": "Sau khi điều tra robot theo bản ghi, cậu thấy nó bị hư hại nặng. May mắn thay, cậu đã thu thập đủ các bộ phận còn thiếu. Đến lúc đánh thức nó dậy rồi.",
+    "new_translation_vi": "Sau khi điều tra con robot dựa trên bản ghi âm, bạn thấy nó bị hư hỏng nặng. May mắn thay, bạn đã thu thập đủ các linh kiện còn thiếu. Đã đến lúc đánh thức con robot này.",
     "translator_note": ""
   },
   {
@@ -8096,7 +8096,7 @@
     "ai_reason": "",
     "source_en": "You've picked up a recording. The wind is howling in your ears, carrying the whispers. Perhaps, the robot nearby holds the key to unravel the continuation of the story.",
     "review_note": "",
-    "new_translation_vi": "Bạn vừa nhặt được một bản ghi âm. Gió rít lên trong tai, mang theo những lời thì thầm. Có lẽ, con robot gần đó đang giữ chìa khóa để giải mã phần còn lại của câu chuyện.",
+    "new_translation_vi": "Bạn đã nhặt được một bản ghi âm. Tiếng gió rít bên tai mang theo những lời thì thầm. Có lẽ con robot gần đó nắm giữ chìa khóa để làm sáng tỏ phần tiếp theo của câu chuyện.",
     "translator_note": ""
   },
   {
@@ -8121,7 +8121,7 @@
     "ai_reason": "",
     "source_en": "No Response Tonight",
     "review_note": "",
-    "new_translation_vi": "Tối nay không trả lời",
+    "new_translation_vi": "Không Có Phản Hồi Đêm Nay",
     "translator_note": ""
   },
   {
@@ -8146,7 +8146,7 @@
     "ai_reason": "",
     "source_en": "Repair the robot",
     "review_note": "",
-    "new_translation_vi": "Sửa chữa robot",
+    "new_translation_vi": "Sửa chữa con robot",
     "translator_note": ""
   },
   {
@@ -8171,7 +8171,7 @@
     "ai_reason": "",
     "source_en": "Find the spare parts",
     "review_note": "",
-    "new_translation_vi": "Tìm phụ tùng thay thế",
+    "new_translation_vi": "Tìm các linh kiện dự phòng",
     "translator_note": ""
   },
   {
@@ -8246,7 +8246,7 @@
     "ai_reason": "",
     "source_en": "Complete the Shooting Party quest",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành nhiệm vụ Shooting Party",
+    "new_translation_vi": "Hoàn thành nhiệm vụ Tiệc Bắn Súng",
     "translator_note": ""
   },
   {
@@ -8296,7 +8296,7 @@
     "ai_reason": "",
     "source_en": "Meet up with everyone",
     "review_note": "",
-    "new_translation_vi": "Gặp mọi người",
+    "new_translation_vi": "Gặp gỡ mọi người",
     "translator_note": ""
   },
   {
@@ -8321,7 +8321,7 @@
     "ai_reason": "",
     "source_en": "Leave the Cassette Depository",
     "review_note": "",
-    "new_translation_vi": "Rời kho Cassette",
+    "new_translation_vi": "Đến Leave Kho Lưu Trữ Băng Cassette",
     "translator_note": ""
   },
   {
@@ -8371,7 +8371,7 @@
     "ai_reason": "",
     "source_en": "Head to Bjartr Woods",
     "review_note": "",
-    "new_translation_vi": "Đến Bjartr Woods",
+    "new_translation_vi": "Đi đến Bjartr Woods",
     "translator_note": ""
   },
   {
@@ -8386,7 +8386,6 @@
     "primary_key": "LevelPlay_121850007_ChildQuestTip_121_13",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8397,7 +8396,8 @@
     "source_en": "Read Lucilla's WavesLine message",
     "review_note": "",
     "new_translation_vi": "Đọc tin nhắn WavesLine của Lucilla",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017337",
@@ -8421,7 +8421,7 @@
     "ai_reason": "",
     "source_en": "Leave the Research Institute and head for the Dimmr Plains",
     "review_note": "",
-    "new_translation_vi": "Rời khỏi Viện Nghiên Cứu và tiến về Dimmr Plains",
+    "new_translation_vi": "Rời khỏi Viện Nghiên Cứu và đi đến Dimmr Plains",
     "translator_note": ""
   },
   {
@@ -8446,7 +8446,7 @@
     "ai_reason": "",
     "source_en": "Leave the Research Institute and head for the Dimmr Plains",
     "review_note": "",
-    "new_translation_vi": "Rời khỏi Viện Nghiên Cứu và tiến về Dimmr Plains",
+    "new_translation_vi": "Rời khỏi Viện Nghiên Cứu và đi đến Dimmr Plains",
     "translator_note": ""
   },
   {
@@ -8471,7 +8471,7 @@
     "ai_reason": "",
     "source_en": "Leave the Cassette Depository",
     "review_note": "",
-    "new_translation_vi": "Rời kho Cassette",
+    "new_translation_vi": "Đến Leave Kho Lưu Trữ Băng Cassette",
     "translator_note": ""
   },
   {
@@ -8496,7 +8496,7 @@
     "ai_reason": "",
     "source_en": "Go see the amazing discovery",
     "review_note": "",
-    "new_translation_vi": "Đến xem khám phá tuyệt vời",
+    "new_translation_vi": "Đi xem phát hiện kinh ngạc đó",
     "translator_note": ""
   },
   {
@@ -8536,7 +8536,6 @@
     "primary_key": "Quest_192700024_QuestDesc_192_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8546,8 +8545,9 @@
     "ai_reason": "",
     "source_en": "You receive a mis-sent message: Ronan claims to have witnessed the \"miraculous evolution of a Kronapuff\" and excitedly invites you to see it…",
     "review_note": "",
-    "new_translation_vi": "Bạn nhận được tin nhắn gửi nhầm: Ronan khẳng định đã chứng kiến \"sự tiến hóa kỳ diệu của một Kronapuff\" và hào hứng mời cậu đến xem...",
-    "translator_note": ""
+    "new_translation_vi": "Bạn nhận được một tin nhắn gửi nhầm: Ronan khẳng định đã chứng kiến \"sự tiến hóa kỳ diệu của Kronapuff\" và hào hứng mời bạn đến xem…",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017343",
@@ -8571,7 +8571,7 @@
     "ai_reason": "",
     "source_en": "Science Gone Mad I",
     "review_note": "",
-    "new_translation_vi": "Khoa học điên rồ I",
+    "new_translation_vi": "Khoa Học Phát Cuồng I",
     "translator_note": ""
   },
   {
@@ -8646,7 +8646,7 @@
     "ai_reason": "",
     "source_en": "Take the plants for a ride",
     "review_note": "",
-    "new_translation_vi": "Đưa mấy cây này đi dạo một vòng",
+    "new_translation_vi": "Đưa các loại cây đi dạo",
     "translator_note": ""
   },
   {
@@ -8671,7 +8671,7 @@
     "ai_reason": "",
     "source_en": "Check on the students' recorded data",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra dữ liệu ghi lại của sinh viên",
+    "new_translation_vi": "Kiểm tra dữ liệu ghi chép của các sinh viên",
     "translator_note": ""
   },
   {
@@ -8686,7 +8686,6 @@
     "primary_key": "Quest_192700025_QuestDesc_192_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8696,8 +8695,9 @@
     "ai_reason": "",
     "source_en": "Ronan, still hopelessly addicted to research, sends another message, this time about a fantastic \"plant\"…",
     "review_note": "",
-    "new_translation_vi": "Ronan, vẫn còn nghiện nghiên cứu đến mức vô vọng, lại gửi thêm một tin nhắn, lần này về một loài \"thực vật\" tuyệt vời…",
-    "translator_note": ""
+    "new_translation_vi": "Ronan, vẫn chìm đắm trong nghiên cứu, lại gửi một tin nhắn khác, lần này là về một \"loài cây\" tuyệt vời…",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017349",
@@ -8721,7 +8721,7 @@
     "ai_reason": "",
     "source_en": "Science Gone Mad II",
     "review_note": "",
-    "new_translation_vi": "Khoa học điên rồ II",
+    "new_translation_vi": "Khoa Học Phát Cuồng II",
     "translator_note": ""
   },
   {
@@ -8746,7 +8746,7 @@
     "ai_reason": "",
     "source_en": "Go to the Archive",
     "review_note": "",
-    "new_translation_vi": "Vào Kho Archive đi",
+    "new_translation_vi": "Đến Lưu Trữ Viện",
     "translator_note": ""
   },
   {
@@ -8786,7 +8786,6 @@
     "primary_key": "Quest_192700026_QuestDesc_192_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8796,8 +8795,9 @@
     "ai_reason": "",
     "source_en": "Milo reached out to you via WavesLine, inviting you to join a newly formed group called the \"AnomSci Group.\" That's not all—he also mentioned that he, Ronan, and Aniko have prepared something new, and they'd like to give it to you in person.",
     "review_note": "",
-    "new_translation_vi": "Milo liên lạc với cậu qua WavesLine, mời cậu tham gia nhóm \"AnomSci Group\" mới thành lập. Không chỉ vậy—cậu ấy còn nói rằng cậu ấy, Ronan và Aniko đã chuẩn bị thứ gì đó mới và muốn trao tận tay cho cậu.",
-    "translator_note": ""
+    "new_translation_vi": "Milo đã liên lạc với bạn qua WavesLine, mời bạn tham gia một nhóm mới thành lập có tên là \"Nhóm AnomSci.\" Không chỉ vậy—cậu ấy còn đề cập rằng mình, Ronan và Aniko đã chuẩn bị một thứ mới và muốn trực tiếp trao nó cho bạn.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017353",
@@ -8821,7 +8821,7 @@
     "ai_reason": "",
     "source_en": "Science Gone Mad III",
     "review_note": "",
-    "new_translation_vi": "Khoa học điên rồ III",
+    "new_translation_vi": "Khoa Học Phát Cuồng III",
     "translator_note": ""
   },
   {
@@ -8836,7 +8836,6 @@
     "primary_key": "Quest_192700027_ChildQuestTip_192_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8846,8 +8845,9 @@
     "ai_reason": "",
     "source_en": "Take part in Ronan's proposal Q&A",
     "review_note": "",
-    "new_translation_vi": "Tham gia buổi Hỏi Đáp đề xuất của Ronan nào",
-    "translator_note": ""
+    "new_translation_vi": "Tham gia phần hỏi đáp đề xuất của Ronan",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017355",
@@ -8861,7 +8861,6 @@
     "primary_key": "Quest_192700027_QuestDesc_192_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8871,8 +8870,9 @@
     "ai_reason": "",
     "source_en": "To apply for funding, Ronan and his colleagues have each submitted a research proposal. Can you guess which one ends up getting approved?",
     "review_note": "",
-    "new_translation_vi": "Để xin tài trợ, Ronan và các đồng nghiệp của anh ấy đều đã nộp đề xuất nghiên cứu. Cậu đoán xem đề xuất nào được duyệt nhỉ?",
-    "translator_note": ""
+    "new_translation_vi": "Để xin tài trợ, Ronan và các đồng nghiệp của mình đều đã nộp một đề xuất nghiên cứu. Bạn có đoán được đề xuất nào sẽ được phê duyệt không?",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017356",
@@ -8896,7 +8896,7 @@
     "ai_reason": "",
     "source_en": "Science Gone Mad IV",
     "review_note": "",
-    "new_translation_vi": "Khoa học điên rồ IV",
+    "new_translation_vi": "Khoa Học Phát Cuồng IV",
     "translator_note": ""
   },
   {
@@ -8921,7 +8921,7 @@
     "ai_reason": "",
     "source_en": "Take part in Milo's experiment Q&A",
     "review_note": "",
-    "new_translation_vi": "Tham gia buổi Hỏi Đáp thí nghiệm của Milo nhé",
+    "new_translation_vi": "Tham gia phần hỏi đáp thí nghiệm của Milo",
     "translator_note": ""
   },
   {
@@ -8946,7 +8946,7 @@
     "ai_reason": "",
     "source_en": "Recently, Milo has started his research project, and he wonders what you might make of his ideas...",
     "review_note": "",
-    "new_translation_vi": "Gần đây Milo đã bắt đầu dự án nghiên cứu của cậu ấy, và cậu ấy muốn biết ý kiến của cậu về những ý tưởng đó...",
+    "new_translation_vi": "Gần đây, Milo đã bắt đầu dự án nghiên cứu của mình và cậu ấy tự hỏi bạn nghĩ gì về những ý tưởng đó...",
     "translator_note": ""
   },
   {
@@ -8971,7 +8971,7 @@
     "ai_reason": "",
     "source_en": "Science Gone Mad V",
     "review_note": "",
-    "new_translation_vi": "Khoa học điên rồ V",
+    "new_translation_vi": "Khoa Học Phát Cuồng V",
     "translator_note": ""
   },
   {
@@ -8986,7 +8986,6 @@
     "primary_key": "Quest_318850000_ChildQuestTip_318_16",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8996,8 +8995,9 @@
     "ai_reason": "",
     "source_en": "Talk to Polmes",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Polmes",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Polmes",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017361",
@@ -9011,7 +9011,6 @@
     "primary_key": "Quest_318850000_ChildQuestTip_318_19",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9021,8 +9020,9 @@
     "ai_reason": "",
     "source_en": "Head to Honami City",
     "review_note": "",
-    "new_translation_vi": "Đến Honami City",
-    "translator_note": ""
+    "new_translation_vi": "Đến thành phố Honami",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017362",
@@ -9036,7 +9036,6 @@
     "primary_key": "Quest_318850000_ChildQuestTip_318_24",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9046,8 +9045,9 @@
     "ai_reason": "",
     "source_en": "Head to Honami City",
     "review_note": "",
-    "new_translation_vi": "Đến Honami City",
-    "translator_note": ""
+    "new_translation_vi": "Đến thành phố Honami",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017363",
@@ -9071,7 +9071,7 @@
     "ai_reason": "",
     "source_en": "Upgrade Shashou Cafe's design to Phase I",
     "review_note": "",
-    "new_translation_vi": "Nâng cấp thiết kế Shashou Cafe lên Giai Đoạn I",
+    "new_translation_vi": "Nâng cấp thiết kế của Shashou Cafe lên Giai đoạn I",
     "translator_note": ""
   },
   {
@@ -9086,7 +9086,6 @@
     "primary_key": "Quest_318850000_ChildQuestTip_318_41",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9096,8 +9095,9 @@
     "ai_reason": "",
     "source_en": "Upgrade Namipon Badge to increase Stability",
     "review_note": "",
-    "new_translation_vi": "Nâng Cấp Namipon Badge để tăng Độ Stability",
-    "translator_note": ""
+    "new_translation_vi": "Nâng cấp Huy hiệu Namipon để tăng Độ ổn định",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017365",
@@ -9121,7 +9121,7 @@
     "ai_reason": "",
     "source_en": "Upgrade Shashou Cafe's design to Phase II",
     "review_note": "",
-    "new_translation_vi": "Nâng cấp thiết kế Shashou Cafe lên Giai Đoạn II",
+    "new_translation_vi": "Nâng cấp thiết kế của Shashou Cafe lên Giai đoạn II",
     "translator_note": ""
   },
   {
@@ -9146,7 +9146,7 @@
     "ai_reason": "",
     "source_en": "Talk to Sales Champ",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Sales Champ",
+    "new_translation_vi": "Trò chuyện với Sales Champ",
     "translator_note": ""
   },
   {
@@ -9161,7 +9161,6 @@
     "primary_key": "Quest_318850000_ChildQuestTip_318_45",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9171,8 +9170,9 @@
     "ai_reason": "",
     "source_en": "Eliminate the anomaly in the underground street: Thundering Mephis",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt dị thường ở đường ngầm: Thundering Mephis",
-    "translator_note": ""
+    "new_translation_vi": "Tiêu diệt dị thường ở phố ngầm: Thundering Mephis",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017368",
@@ -9186,7 +9186,6 @@
     "primary_key": "Quest_318850000_ChildQuestTip_318_51",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9196,8 +9195,9 @@
     "ai_reason": "",
     "source_en": "Eliminate the anomaly in the park: Feilian Beringal",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt dị thường ở công viên: Feilian Beringal",
-    "translator_note": ""
+    "new_translation_vi": "Tiêu diệt dị thường trong công viên: Feilian Beringal",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017369",
@@ -9211,7 +9211,6 @@
     "primary_key": "Quest_318850000_ChildQuestTip_318_56",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9221,8 +9220,9 @@
     "ai_reason": "",
     "source_en": "Talk to Shouta",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Shouta",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Shouta",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017370",
@@ -9246,7 +9246,7 @@
     "ai_reason": "",
     "source_en": "Finish exploring the residential district",
     "review_note": "",
-    "new_translation_vi": "Finish khám phá khu dân cư",
+    "new_translation_vi": "Hoàn thành khám phá khu dân cư",
     "translator_note": ""
   },
   {
@@ -9271,7 +9271,7 @@
     "ai_reason": "",
     "source_en": "Finish exploring the commercial district",
     "review_note": "",
-    "new_translation_vi": "Finish khám phá khu thương mại",
+    "new_translation_vi": "Hoàn thành khám phá khu thương mại",
     "translator_note": ""
   },
   {
@@ -9286,7 +9286,6 @@
     "primary_key": "Quest_318850000_ChildQuestTip_318_60",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9296,8 +9295,9 @@
     "ai_reason": "",
     "source_en": "Eliminate the anomaly in the underground street: Thundering Mephis",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt dị thường ở đường ngầm: Thundering Mephis",
-    "translator_note": ""
+    "new_translation_vi": "Tiêu diệt dị thường ở phố ngầm: Thundering Mephis",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017373",
@@ -9311,7 +9311,6 @@
     "primary_key": "Quest_318850000_ChildQuestTip_318_62",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9321,8 +9320,9 @@
     "ai_reason": "",
     "source_en": "Finish exploring Honami Crossing",
     "review_note": "",
-    "new_translation_vi": "Finish khám phá Honami Crossing",
-    "translator_note": ""
+    "new_translation_vi": "Hoàn thành khám phá Honami Crossing",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017374",
@@ -9336,7 +9336,6 @@
     "primary_key": "Quest_318850000_ChildQuestTip_318_63",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9346,8 +9345,9 @@
     "ai_reason": "",
     "source_en": "Eliminate the anomaly in the park: Feilian Beringal",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt dị thường ở công viên: Feilian Beringal",
-    "translator_note": ""
+    "new_translation_vi": "Tiêu diệt dị thường trong công viên: Feilian Beringal",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017375",
@@ -9396,7 +9396,7 @@
     "ai_reason": "",
     "source_en": "Unlock the first sticker slot",
     "review_note": "",
-    "new_translation_vi": "Mở khóa ô sticker đầu tiên",
+    "new_translation_vi": "Mở khóa ô dán nhãn đầu tiên",
     "translator_note": ""
   },
   {
@@ -9411,7 +9411,6 @@
     "primary_key": "Quest_318850000_ChildQuestTip_318_71",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9421,8 +9420,9 @@
     "ai_reason": "",
     "source_en": "Head to Honami City",
     "review_note": "",
-    "new_translation_vi": "Đến Honami City",
-    "translator_note": ""
+    "new_translation_vi": "Đến thành phố Honami",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017378",
@@ -9446,7 +9446,7 @@
     "ai_reason": "",
     "source_en": "Upgrade Shashou Cafe's design to Phase III",
     "review_note": "",
-    "new_translation_vi": "Nâng cấp thiết kế Shashou Cafe lên Giai Đoạn III",
+    "new_translation_vi": "Nâng cấp thiết kế của Shashou Cafe lên Giai đoạn III",
     "translator_note": ""
   },
   {
@@ -9471,7 +9471,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -9496,7 +9496,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -9511,7 +9511,6 @@
     "primary_key": "Quest_318850000_QuestDesc_318_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9521,8 +9520,9 @@
     "ai_reason": "",
     "source_en": "After the end of Honami's looping crisis, Chisa heads to the Black Shores to recover. Namipon from Shashou Cafe contacts you to request your help in investigating a series of strange occurrences throughout Honami City. Assist Namipon with the investigation while also gathering supplies to help rebuild the Shashou Cafe.",
     "review_note": "",
-    "new_translation_vi": "Sau khi cuộc khủng hoảng vòng lặp của Honami kết thúc, Chisa lên đường đến Bãi Đen để hồi phục. Namipon từ quán Shashou liên lạc nhờ cậu giúp điều tra hàng loạt hiện tượng kỳ lạ xảy ra khắp thành phố Honami. Hãy hỗ trợ Namipon trong cuộc điều tra, đồng thời thu thập vật tư để giúp xây dựng lại quán Shashou.",
-    "translator_note": ""
+    "new_translation_vi": "Sau khi cuộc khủng hoảng lặp lại của Honami kết thúc, Chisa đến Black Shores để hồi phục. Namipon từ Shashou Cafe liên lạc với bạn để nhờ giúp đỡ điều tra một loạt sự kiện kỳ lạ khắp thành phố Honami. Hãy hỗ trợ Namipon điều tra, đồng thời thu thập vật phẩm để giúp xây dựng lại Shashou Cafe.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017382",
@@ -9536,7 +9536,6 @@
     "primary_key": "Quest_318850000_QuestName_318_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9546,8 +9545,9 @@
     "ai_reason": "",
     "source_en": "Stranger Things in Honami",
     "review_note": "",
-    "new_translation_vi": "Chuyện Lạ Ở Honami",
-    "translator_note": ""
+    "new_translation_vi": "Những Điều Kỳ Lạ ở Honami",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017383",
@@ -9571,7 +9571,7 @@
     "ai_reason": "",
     "source_en": "Unlock Sticker slots in Preparations",
     "review_note": "",
-    "new_translation_vi": "Mở khóa ô Sticker trong Chuẩn bị",
+    "new_translation_vi": "Mở khóa các ô dán nhãn trong phần Chuẩn bị",
     "translator_note": ""
   },
   {
@@ -9586,7 +9586,6 @@
     "primary_key": "Quest_318850000_QuestScheduleMainTitle_318_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9596,8 +9595,9 @@
     "ai_reason": "",
     "source_en": "Upgrade Namipon Badge to increase Stability",
     "review_note": "",
-    "new_translation_vi": "Nâng Cấp Namipon Badge để tăng Độ Stability",
-    "translator_note": ""
+    "new_translation_vi": "Nâng cấp Huy hiệu Namipon để tăng Độ ổn định",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017385",
@@ -9621,7 +9621,7 @@
     "ai_reason": "",
     "source_en": "Upgrade Shashou Cafe's design to Phase I",
     "review_note": "",
-    "new_translation_vi": "Nâng cấp thiết kế Shashou Cafe lên Giai Đoạn I",
+    "new_translation_vi": "Nâng cấp thiết kế của Shashou Cafe lên Giai đoạn I",
     "translator_note": ""
   },
   {
@@ -9636,7 +9636,6 @@
     "primary_key": "Quest_318850000_QuestScheduleMainTitle_318_5",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9646,8 +9645,9 @@
     "ai_reason": "",
     "source_en": "Keep exploring Honami City",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục khám phá Thành phố Honami",
-    "translator_note": ""
+    "new_translation_vi": "Tiếp tục khám phá thành phố Honami",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017387",
@@ -9661,7 +9661,6 @@
     "primary_key": "Quest_318850000_QuestScheduleMainTitle_318_6",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9671,8 +9670,9 @@
     "ai_reason": "",
     "source_en": "Eliminate the anomaly in the underground street: Thundering Mephis",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt dị thường ở đường ngầm: Thundering Mephis",
-    "translator_note": ""
+    "new_translation_vi": "Tiêu diệt dị thường ở phố ngầm: Thundering Mephis",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017388",
@@ -9686,7 +9686,6 @@
     "primary_key": "Quest_318850000_QuestScheduleMainTitle_318_8",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9696,8 +9695,9 @@
     "ai_reason": "",
     "source_en": "Eliminate the anomaly in the park: Feilian Beringal",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt dị thường ở công viên: Feilian Beringal",
-    "translator_note": ""
+    "new_translation_vi": "Tiêu diệt dị thường trong công viên: Feilian Beringal",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017389",
@@ -9711,7 +9711,6 @@
     "primary_key": "Quest_318850000_QuestScheduleSubTitle_318_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9721,8 +9720,9 @@
     "ai_reason": "",
     "source_en": "(Optional) Talk to Polmes",
     "review_note": "",
-    "new_translation_vi": "(Tùy chọn) Talk với Polmes",
-    "translator_note": ""
+    "new_translation_vi": "(Tùy chọn) Trò chuyện với Polmes",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017390",
@@ -9746,7 +9746,7 @@
     "ai_reason": "",
     "source_en": "(Optional) Talk to the Sales Champ",
     "review_note": "",
-    "new_translation_vi": "(Tùy chọn) Talk với Nhà vô địch bán hàng",
+    "new_translation_vi": "(Tùy chọn) Trò chuyện với Sales Champ",
     "translator_note": ""
   },
   {
@@ -9771,7 +9771,7 @@
     "ai_reason": "",
     "source_en": "(Optional) Upgrade Shashou Cafe's Decor",
     "review_note": "",
-    "new_translation_vi": "(Tùy chọn) Nâng cấp trang trí cho quán Shashou Cafe",
+    "new_translation_vi": "(Tùy chọn) Nâng cấp trang trí Shashou Cafe",
     "translator_note": ""
   },
   {
@@ -9786,7 +9786,6 @@
     "primary_key": "Quest_318850001_ChildQuestTip_318_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9797,7 +9796,8 @@
     "source_en": "Find Namipon at Shashou Cafe",
     "review_note": "",
     "new_translation_vi": "Tìm Namipon tại Shashou Cafe",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017393",
@@ -9811,7 +9811,6 @@
     "primary_key": "Quest_318850001_QuestDesc_318_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9821,8 +9820,9 @@
     "ai_reason": "",
     "source_en": "After the end of Honami's looping crisis, Chisa heads to the Black Shores to recover. Namipon from Shashou Cafe contacts you to request your help in investigating a series of strange occurrences throughout Honami City. Assist Namipon with the investigation while also gathering supplies to help rebuild the Shashou Cafe.",
     "review_note": "",
-    "new_translation_vi": "Sau khi cuộc khủng hoảng vòng lặp của Honami kết thúc, Chisa lên đường đến Bãi Đen để hồi phục. Namipon từ quán Shashou liên lạc nhờ cậu giúp điều tra hàng loạt hiện tượng kỳ lạ xảy ra khắp thành phố Honami. Hãy hỗ trợ Namipon trong cuộc điều tra, đồng thời thu thập vật tư để giúp xây dựng lại quán Shashou.",
-    "translator_note": ""
+    "new_translation_vi": "Sau khi cuộc khủng hoảng lặp lại của Honami kết thúc, Chisa đến Black Shores để hồi phục. Namipon từ Shashou Cafe liên lạc với bạn để nhờ giúp đỡ điều tra một loạt sự kiện kỳ lạ khắp thành phố Honami. Hãy hỗ trợ Namipon điều tra, đồng thời thu thập vật phẩm để giúp xây dựng lại Shashou Cafe.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017394",
@@ -9836,7 +9836,6 @@
     "primary_key": "Quest_318850001_QuestName_318_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9846,8 +9845,9 @@
     "ai_reason": "",
     "source_en": "Keep exploring Honami City",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục khám phá Thành phố Honami",
-    "translator_note": ""
+    "new_translation_vi": "Tiếp tục khám phá thành phố Honami",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017395",
@@ -9871,7 +9871,7 @@
     "ai_reason": "",
     "source_en": "Unlocks by completing Moon-Chasing Festival quests",
     "review_note": "",
-    "new_translation_vi": "Mở khóa bằng cách hoàn thành các nhiệm vụ Lễ Hội Đuổi Trăng",
+    "new_translation_vi": "Mở khóa bằng cách hoàn thành các nhiệm vụ Lễ hội Moon-Chasing",
     "translator_note": ""
   },
   {
@@ -9896,7 +9896,7 @@
     "ai_reason": "",
     "source_en": "Unlocks after completing prerequisite quests",
     "review_note": "",
-    "new_translation_vi": "Mở khóa sau khi hoàn thành nhiệm vụ tiên quyết",
+    "new_translation_vi": "Mở khóa sau khi hoàn thành các nhiệm vụ tiên quyết",
     "translator_note": ""
   },
   {
@@ -9921,7 +9921,7 @@
     "ai_reason": "",
     "source_en": "Complete By Moon's Grace event quest: \"Wish Upon the Moon I: Cry of the Soul\" for optimal experience.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành nhiệm vụ sự kiện Ân Điển Của Ánh Trăng: \"Ước Dưới Trăng I: Tiếng Thét Của Linh Hồn\" để có trải nghiệm tối ưu.",
+    "new_translation_vi": "Hoàn thành nhiệm vụ sự kiện By Moon's Grace: \"Wish Upon the Moon I: Cry of the Soul\" để có trải nghiệm tối ưu.",
     "translator_note": ""
   },
   {
@@ -9946,7 +9946,7 @@
     "ai_reason": "",
     "source_en": "Complete \"Silent as a Falling Leaf\" for a better experience",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Lặng Như Lá Rơi\" để có trải nghiệm tốt hơn",
+    "new_translation_vi": "Hoàn thành \"Silent as a Falling Leaf\" để có trải nghiệm tốt hơn",
     "translator_note": ""
   },
   {
@@ -9961,7 +9961,6 @@
     "primary_key": "Farm_RecommendQuestTip",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9971,8 +9970,9 @@
     "ai_reason": "",
     "source_en": "Complete Main Quest \"Dreamcatchers in the Secret Gardens\" for a better experience",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Nhiệm Vụ Chính \"Dreamcatchers in the Secret Gardens\" để có trải nghiệm tốt hơn",
-    "translator_note": ""
+    "new_translation_vi": "Hoàn thành Nhiệm vụ Chính \"Dreamcatchers in the Secret Gardens\" để có trải nghiệm tốt hơn",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017400",
@@ -9996,7 +9996,7 @@
     "ai_reason": "",
     "source_en": "Complete Event Tutorial Quest to unlock",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Nhiệm Vụ Hướng Dẫn Sự Kiện để mở khóa",
+    "new_translation_vi": "Hoàn thành Nhiệm vụ Hướng dẫn Sự kiện để mở khóa",
     "translator_note": ""
   },
   {
@@ -10021,7 +10021,7 @@
     "ai_reason": "",
     "source_en": "SOL3 Phase Ascension: Phase I",
     "review_note": "",
-    "new_translation_vi": "SOL3 Thăng Hoa Pha: Pha I",
+    "new_translation_vi": "Thăng cấp SOL3: Giai đoạn I",
     "translator_note": ""
   },
   {
@@ -10046,7 +10046,7 @@
     "ai_reason": "",
     "source_en": "Complete the Phase Ascension Trial",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Trial Thăng Tiến Pha",
+    "new_translation_vi": "Hoàn thành Thử thách Thăng cấp",
     "translator_note": ""
   },
   {
@@ -10071,7 +10071,7 @@
     "ai_reason": "",
     "source_en": "Head to the Nexus Beacon in Jinzhou",
     "review_note": "",
-    "new_translation_vi": "Hãy đến Điểm Nexus ở Jinzhou",
+    "new_translation_vi": "Đến Nexus Beacon tại Jinzhou",
     "translator_note": ""
   },
   {
@@ -10096,7 +10096,7 @@
     "ai_reason": "",
     "source_en": "Complete the Phase Ascension Trial",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Trial Thăng Tiến Pha",
+    "new_translation_vi": "Hoàn thành Thử thách Thăng cấp",
     "translator_note": ""
   },
   {
@@ -10121,7 +10121,7 @@
     "ai_reason": "",
     "source_en": "Your Terminal has received vague signals. Maybe the Nexus Beacon can help you decipher the information contained within.",
     "review_note": "",
-    "new_translation_vi": "Terminal của cậu vừa bắt được tín hiệu mơ hồ. Có lẽ Nexus Beacon có thể giúp cậu giải mã thông tin bên trong.",
+    "new_translation_vi": "Terminal của bạn đã nhận được những tín hiệu mơ hồ. Có lẽ Nexus Beacon có thể giúp bạn giải mã thông tin bên trong.",
     "translator_note": ""
   },
   {
@@ -10146,7 +10146,7 @@
     "ai_reason": "",
     "source_en": "SOL3 Phase Ascension: Phase I",
     "review_note": "",
-    "new_translation_vi": "SOL3 Thăng Hoa Pha: Pha I",
+    "new_translation_vi": "Thăng cấp SOL3: Giai đoạn I",
     "translator_note": ""
   },
   {
@@ -10171,7 +10171,7 @@
     "ai_reason": "",
     "source_en": "SOL3 Phase Ascension: Phase II",
     "review_note": "",
-    "new_translation_vi": "SOL3 Thăng Hoa Pha: Pha II",
+    "new_translation_vi": "Thăng cấp SOL3: Giai đoạn II",
     "translator_note": ""
   },
   {
@@ -10196,7 +10196,7 @@
     "ai_reason": "",
     "source_en": "Complete the Phase Ascension Trial",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Trial Thăng Tiến Pha",
+    "new_translation_vi": "Hoàn thành Thử thách Thăng cấp",
     "translator_note": ""
   },
   {
@@ -10221,7 +10221,7 @@
     "ai_reason": "",
     "source_en": "Head to the Nexus Beacon in Jinzhou",
     "review_note": "",
-    "new_translation_vi": "Hãy đến Điểm Nexus ở Jinzhou",
+    "new_translation_vi": "Đến Nexus Beacon tại Jinzhou",
     "translator_note": ""
   },
   {
@@ -10246,7 +10246,7 @@
     "ai_reason": "",
     "source_en": "Complete the Phase Ascension Trial",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Trial Thăng Tiến Pha",
+    "new_translation_vi": "Hoàn thành Thử thách Thăng cấp",
     "translator_note": ""
   },
   {
@@ -10271,7 +10271,7 @@
     "ai_reason": "",
     "source_en": "Your Terminal has received similar signals again. Maybe the Nexus Beacon can help you decipher the information contained within.",
     "review_note": "",
-    "new_translation_vi": "Terminal của cậu lại nhận được tín hiệu tương tự. Có lẽ Nexus Beacon có thể giúp cậu giải mã thông tin bên trong.",
+    "new_translation_vi": "Terminal của bạn lại nhận được các tín hiệu tương tự. Có lẽ Nexus Beacon có thể giúp bạn giải mã thông tin bên trong.",
     "translator_note": ""
   },
   {
@@ -10296,7 +10296,7 @@
     "ai_reason": "",
     "source_en": "SOL3 Phase Ascension: Phase II",
     "review_note": "",
-    "new_translation_vi": "SOL3 Thăng Hoa Pha: Pha II",
+    "new_translation_vi": "Thăng cấp SOL3: Giai đoạn II",
     "translator_note": ""
   },
   {
@@ -10321,7 +10321,7 @@
     "ai_reason": "",
     "source_en": "SOL3 Phase Ascension: Phase III",
     "review_note": "",
-    "new_translation_vi": "SOL3 Thăng Hoa Pha: Pha III",
+    "new_translation_vi": "Thăng cấp SOL3: Giai đoạn III",
     "translator_note": ""
   },
   {
@@ -10346,7 +10346,7 @@
     "ai_reason": "",
     "source_en": "Complete the Phase Ascension Trial",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Trial Thăng Tiến Pha",
+    "new_translation_vi": "Hoàn thành Thử thách Thăng cấp",
     "translator_note": ""
   },
   {
@@ -10371,7 +10371,7 @@
     "ai_reason": "",
     "source_en": "Head to the Nexus Beacon in Jinzhou",
     "review_note": "",
-    "new_translation_vi": "Hãy đến Điểm Nexus ở Jinzhou",
+    "new_translation_vi": "Đến Nexus Beacon tại Jinzhou",
     "translator_note": ""
   },
   {
@@ -10396,7 +10396,7 @@
     "ai_reason": "",
     "source_en": "Complete the Phase Ascension Trial",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Trial Thăng Tiến Pha",
+    "new_translation_vi": "Hoàn thành Thử thách Thăng cấp",
     "translator_note": ""
   },
   {
@@ -10421,7 +10421,7 @@
     "ai_reason": "",
     "source_en": "Your Terminal has received similar signals again. Maybe the Nexus Beacon can help you decipher the information contained within.",
     "review_note": "",
-    "new_translation_vi": "Terminal của cậu lại nhận được tín hiệu tương tự. Có lẽ Nexus Beacon có thể giúp cậu giải mã thông tin bên trong.",
+    "new_translation_vi": "Terminal của bạn lại nhận được các tín hiệu tương tự. Có lẽ Nexus Beacon có thể giúp bạn giải mã thông tin bên trong.",
     "translator_note": ""
   },
   {
@@ -10446,7 +10446,7 @@
     "ai_reason": "",
     "source_en": "SOL3 Phase Ascension: Phase III",
     "review_note": "",
-    "new_translation_vi": "SOL3 Thăng Hoa Pha: Pha III",
+    "new_translation_vi": "Thăng cấp SOL3: Giai đoạn III",
     "translator_note": ""
   },
   {
@@ -10521,7 +10521,7 @@
     "ai_reason": "",
     "source_en": "Beside a mysterious gate stands a girl who has accidentally wandered through it—Dorothy. She seeks your help to defeat the monsters lurking behind the gate.\nIn this challenge, you can choose \"Dorothy's Companions\" as Echoes to assist you in battle, which greatly enhances the combat abilities of Resonators.\nYou may complete this task with a friend.",
     "review_note": "",
-    "new_translation_vi": "Bên cạnh cánh cổng bí ẩn là một cô bé vô tình lạc qua đó—Dorothy. Cô bé cầu xin sự giúp đỡ của cậu để đánh bại lũ quái vật ẩn nấp sau cánh cổng.\nTrong thử thách này, cậu có thể chọn \"Bạn Companions của Dorothy\" làm Echoes hỗ trợ chiến đấu, giúp tăng cường đáng kể sức mạnh của Resonators.\nCậu có thể hoàn thành nhiệm vụ này cùng một người bạn.",
+    "new_translation_vi": "Bên cạnh một cánh cổng bí ẩn là một cô gái vô tình đi lạc qua đó—Dorothy. Cô ấy cần bạn giúp đánh bại những con quái vật đang ẩn nấp sau cánh cổng. Trong thử thách này, bạn có thể chọn \"Dorothy's Companions\" làm Echo để hỗ trợ chiến đấu, giúp tăng cường đáng kể khả năng chiến đấu của các Resonator. Bạn có thể hoàn thành nhiệm vụ này cùng bạn bè.",
     "translator_note": ""
   },
   {
@@ -10546,7 +10546,7 @@
     "ai_reason": "",
     "source_en": "Fairy Tale's Finale",
     "review_note": "",
-    "new_translation_vi": "Cái kết của câu chuyện cổ tích",
+    "new_translation_vi": "Hồi Kết Của Truyện Cổ Tích",
     "translator_note": ""
   },
   {
@@ -10621,7 +10621,7 @@
     "ai_reason": "",
     "source_en": "Fairy Tale's Finale: Epilogue",
     "review_note": "",
-    "new_translation_vi": "Fairy Tale's Finale: Lời Bạt",
+    "new_translation_vi": "Hồi Kết Của Truyện Cổ Tích: Đoạn Kết",
     "translator_note": ""
   },
   {
@@ -10646,7 +10646,7 @@
     "ai_reason": "",
     "source_en": "Fairy Tale's Finale: Epilogue",
     "review_note": "",
-    "new_translation_vi": "Fairy Tale's Finale: Lời Bạt",
+    "new_translation_vi": "Hồi Kết Của Truyện Cổ Tích: Đoạn Kết",
     "translator_note": ""
   },
   {
@@ -10671,7 +10671,7 @@
     "ai_reason": "",
     "source_en": "Co-op BOSS challenge reward",
     "review_note": "",
-    "new_translation_vi": "Phần thưởng thử thách BOSS Đồng Đội",
+    "new_translation_vi": "Phần thưởng thử thách BOSS co-op",
     "translator_note": ""
   },
   {
@@ -10696,7 +10696,7 @@
     "ai_reason": "",
     "source_en": "Co-op BOSS challenge reward",
     "review_note": "",
-    "new_translation_vi": "Phần thưởng thử thách BOSS Đồng Đội",
+    "new_translation_vi": "Phần thưởng thử thách BOSS co-op",
     "translator_note": ""
   },
   {
@@ -10721,7 +10721,7 @@
     "ai_reason": "",
     "source_en": "Daily Quests",
     "review_note": "",
-    "new_translation_vi": "Nhiệm Vụ Hằng Ngày",
+    "new_translation_vi": "Nhiệm vụ hàng ngày",
     "translator_note": ""
   },
   {
@@ -10746,7 +10746,7 @@
     "ai_reason": "",
     "source_en": "New Quest",
     "review_note": "",
-    "new_translation_vi": "Nhiệm Vụ Mới",
+    "new_translation_vi": "Nhiệm vụ mới",
     "translator_note": ""
   },
   {
@@ -10771,7 +10771,7 @@
     "ai_reason": "",
     "source_en": "Talk to Dorothy",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Dorothy",
+    "new_translation_vi": "Trò chuyện với Dorothy",
     "translator_note": ""
   },
   {
@@ -10821,7 +10821,7 @@
     "ai_reason": "",
     "source_en": "A girl called Dorothy appears next to a mysterious gate. She claims a sudden crisis is taking place inside.",
     "review_note": "",
-    "new_translation_vi": "Một cô gái tên Dorothy xuất hiện bên cạnh cánh cổng bí ẩn. Cô ấy nói rằng bên trong đang xảy ra một cuộc khủng hoảng đột ngột.",
+    "new_translation_vi": "Một cô gái tên Dorothy xuất hiện cạnh cánh cổng bí ẩn. Cô ấy cho biết một cuộc khủng hoảng bất ngờ đang diễn ra bên trong.",
     "translator_note": ""
   },
   {
@@ -10846,7 +10846,7 @@
     "ai_reason": "",
     "source_en": "If You Gaze Into the Abyss of Dreams",
     "review_note": "",
-    "new_translation_vi": "Nếu Ngươi Nhìn Vào Vực Thẳm Của Giấc Mơ",
+    "new_translation_vi": "Nếu Bạn Nhìn Vào Vực Thẳm Của Những Giấc Mơ",
     "translator_note": ""
   },
   {
@@ -10871,7 +10871,7 @@
     "ai_reason": "",
     "source_en": "Talk to Ebony Gatekeeper",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Ebony Gatekeeper",
+    "new_translation_vi": "Trò chuyện với Ebony Gatekeeper",
     "translator_note": ""
   },
   {
@@ -10896,7 +10896,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -10911,7 +10911,6 @@
     "primary_key": "Quest_171750003_QuestDesc_171_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10921,8 +10920,9 @@
     "ai_reason": "",
     "source_en": "Ebony Gatekeeper tells you of an anomaly inside the Somnoire. Something lurking there is sinisterly gazing at this world. Perhaps this is not the end, but the beginning.",
     "review_note": "",
-    "new_translation_vi": "Ebony Gatekeeper kể cho cậu về một dị thường bên trong Somnoire. Có thứ gì đó đang ẩn nấp ở đó, nhìn thế giới này với ánh mắt đầy ác ý. Có lẽ đây không phải là kết thúc, mà là sự khởi đầu.",
-    "translator_note": ""
+    "new_translation_vi": "Ebony Gatekeeper kể cho bạn nghe về một sự bất thường bên trong Somnoire. Có thứ gì đó đang ẩn nấp ở đó và nhìn chằm chằm vào thế giới này một cách đầy hiểm độc. Có lẽ đây không phải là kết thúc, mà là sự khởi đầu.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017438",
@@ -10946,7 +10946,7 @@
     "ai_reason": "",
     "source_en": "If You Gaze Into the Abyss of Dreams: Epilogue",
     "review_note": "",
-    "new_translation_vi": "Nếu Ngươi Nhìn Vào Vực Thẳm Của Giấc Mơ: Hồi Kết",
+    "new_translation_vi": "Nếu Bạn Nhìn Vào Vực Thẳm Của Những Giấc Mơ: Đoạn Kết",
     "translator_note": ""
   },
   {
@@ -10963,15 +10963,15 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "",
-    "rule_decision": "RETRY",
-    "rule_score": 4,
-    "rule_issues": "same_as_source|low_vietnamese_signal",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "(Do not display) Co-op Challenge show display",
     "review_note": "",
-    "new_translation_vi": "(Không hiển thị) Hiển thị thử thách Đồng Đội",
+    "new_translation_vi": "(Không hiển thị) Hiển thị thử thách Co-op",
     "translator_note": ""
   },
   {
@@ -10988,15 +10988,15 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "",
-    "rule_decision": "RETRY",
-    "rule_score": 4,
-    "rule_issues": "same_as_source|low_vietnamese_signal",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "(Do not display) Co-op Challenge show display",
     "review_note": "",
-    "new_translation_vi": "(Không hiển thị) Hiển thị thử thách Đồng Đội",
+    "new_translation_vi": "(Không hiển thị) Hiển thị thử thách Co-op",
     "translator_note": ""
   },
   {
@@ -11013,15 +11013,15 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "",
-    "rule_decision": "RETRY",
-    "rule_score": 4,
-    "rule_issues": "same_as_source|low_vietnamese_signal",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "(Do not display) Connecting to the challenge to hide display",
     "review_note": "",
-    "new_translation_vi": "(Không hiển thị) Kết nối thử thách để ẩn hiển thị",
+    "new_translation_vi": "(Không hiển thị) Đang kết nối với thử thách để ẩn hiển thị",
     "translator_note": ""
   },
   {
@@ -11038,15 +11038,15 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "",
-    "rule_decision": "RETRY",
-    "rule_score": 4,
-    "rule_issues": "same_as_source|low_vietnamese_signal",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "(Do not display) Connecting to the challenge to hide display",
     "review_note": "",
-    "new_translation_vi": "(Không hiển thị) Kết nối thử thách để ẩn hiển thị",
+    "new_translation_vi": "(Không hiển thị) Đang kết nối với thử thách để ẩn hiển thị",
     "translator_note": ""
   },
   {
@@ -11071,7 +11071,7 @@
     "ai_reason": "",
     "source_en": "Rewards",
     "review_note": "",
-    "new_translation_vi": "Rewards",
+    "new_translation_vi": "Phần thưởng",
     "translator_note": ""
   },
   {
@@ -11096,7 +11096,7 @@
     "ai_reason": "",
     "source_en": "Rewards",
     "review_note": "",
-    "new_translation_vi": "Rewards",
+    "new_translation_vi": "Phần thưởng",
     "translator_note": ""
   },
   {
@@ -11121,7 +11121,7 @@
     "ai_reason": "",
     "source_en": "Head to the designated beacon on the higher level to receive the message",
     "review_note": "",
-    "new_translation_vi": "Đến điểm đánh dấu ở tầng cao hơn để nhận thông điệp",
+    "new_translation_vi": "Đến beacon được chỉ định ở tầng cao hơn để nhận tin nhắn",
     "translator_note": ""
   },
   {
@@ -11271,7 +11271,7 @@
     "ai_reason": "",
     "source_en": "Clear the corrupted data",
     "review_note": "",
-    "new_translation_vi": "Clear dữ liệu bị hỏng",
+    "new_translation_vi": "Xóa dữ liệu bị hỏng",
     "translator_note": ""
   },
   {
@@ -11296,7 +11296,7 @@
     "ai_reason": "",
     "source_en": "Talk to KU-Key",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với KU-Key",
+    "new_translation_vi": "Trò chuyện với KU-Key",
     "translator_note": ""
   },
   {
@@ -11321,7 +11321,7 @@
     "ai_reason": "",
     "source_en": "Obtain clearance",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành nhiệm vụ",
+    "new_translation_vi": "Nhận quyền truy cập",
     "translator_note": ""
   },
   {
@@ -11346,7 +11346,7 @@
     "ai_reason": "",
     "source_en": "Obtain cleareance from KU-Key",
     "review_note": "",
-    "new_translation_vi": "Nhận phép thông qua từ KU-Key",
+    "new_translation_vi": "Nhận quyền truy cập từ KU-Key",
     "translator_note": ""
   },
   {
@@ -11371,7 +11371,7 @@
     "ai_reason": "",
     "source_en": "Rescue the trapped Aetherfin with KU-Key",
     "review_note": "",
-    "new_translation_vi": "Rescue Aetherfin bị mắc kẹt bằng KU-Key",
+    "new_translation_vi": "Giải cứu Aetherfin bị mắc kẹt cùng với KU-Key",
     "translator_note": ""
   },
   {
@@ -11396,7 +11396,7 @@
     "ai_reason": "",
     "source_en": "Cerulean Echoes Adrift in the Winds: Part I",
     "review_note": "",
-    "new_translation_vi": "Dư Âm Xanh Trôi Dạt Trong Gió: Phần I",
+    "new_translation_vi": "Cerulean Echoes Adrift in the Winds: Phần I",
     "translator_note": ""
   },
   {
@@ -11496,7 +11496,7 @@
     "ai_reason": "",
     "source_en": "Clear the corrupted data",
     "review_note": "",
-    "new_translation_vi": "Clear dữ liệu bị hỏng",
+    "new_translation_vi": "Xóa dữ liệu bị hỏng",
     "translator_note": ""
   },
   {
@@ -11521,7 +11521,7 @@
     "ai_reason": "",
     "source_en": "Head to the designated location via the portal",
     "review_note": "",
-    "new_translation_vi": "Head to the designated location qua cổng không gian",
+    "new_translation_vi": "Đến vị trí được chỉ định thông qua cổng dịch chuyển",
     "translator_note": ""
   },
   {
@@ -11546,7 +11546,7 @@
     "ai_reason": "",
     "source_en": "Arrive at the designated location",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm được chỉ định",
+    "new_translation_vi": "Đến vị trí được chỉ định",
     "translator_note": ""
   },
   {
@@ -11571,7 +11571,7 @@
     "ai_reason": "",
     "source_en": "Head to the lower level and rescue the trapped Aetherfin with KU-Key",
     "review_note": "",
-    "new_translation_vi": "Xuống tầng dưới và giải cứu Aetherfin bị mắc kẹt bằng KU-Key",
+    "new_translation_vi": "Đi xuống tầng dưới và giải cứu Aetherfin bị mắc kẹt cùng với KU-Key",
     "translator_note": ""
   },
   {
@@ -11596,7 +11596,7 @@
     "ai_reason": "",
     "source_en": "Cerulean Echoes Adrift in the Winds: Part II",
     "review_note": "",
-    "new_translation_vi": "Dư Âm Xanh Trôi Dạt Trong Gió: Phần II",
+    "new_translation_vi": "Cerulean Echoes Adrift in the Winds: Phần II",
     "translator_note": ""
   },
   {
@@ -11621,7 +11621,7 @@
     "ai_reason": "",
     "source_en": "Talk to the researcher",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với nhà nghiên cứu",
+    "new_translation_vi": "Trò chuyện với nhà nghiên cứu",
     "translator_note": ""
   },
   {
@@ -11671,7 +11671,7 @@
     "ai_reason": "",
     "source_en": "The Black Shores' researcher is waiting for you to test out her new ideas.",
     "review_note": "",
-    "new_translation_vi": "Nhà nghiên cứu của The Black Shores đang đợi cậu đến thử nghiệm ý tưởng mới của cô ấy.",
+    "new_translation_vi": "Nhà nghiên cứu của Black Shores đang đợi bạn thử nghiệm những ý tưởng mới của cô ấy.",
     "translator_note": ""
   },
   {
@@ -11696,7 +11696,7 @@
     "ai_reason": "",
     "source_en": "Data Overdash",
     "review_note": "",
-    "new_translation_vi": "Dữ liệu vượt ngưỡng",
+    "new_translation_vi": "Data Overdash",
     "translator_note": ""
   },
   {
@@ -11721,7 +11721,7 @@
     "ai_reason": "",
     "source_en": "Talk to the Shorekeeper",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Shorekeeper",
+    "new_translation_vi": "Trò chuyện với the Shorekeeper",
     "translator_note": ""
   },
   {
@@ -11746,7 +11746,7 @@
     "ai_reason": "",
     "source_en": "Adjust the time to one day later",
     "review_note": "",
-    "new_translation_vi": "Đặt thời gian lùi lại một ngày",
+    "new_translation_vi": "Điều chỉnh thời gian sang một ngày sau",
     "translator_note": ""
   },
   {
@@ -11771,7 +11771,7 @@
     "ai_reason": "",
     "source_en": "Arrive at the designated location",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm được chỉ định",
+    "new_translation_vi": "Đến vị trí được chỉ định",
     "translator_note": ""
   },
   {
@@ -11796,7 +11796,7 @@
     "ai_reason": "",
     "source_en": "Learn about the Aetherfin from Shorekeeper.",
     "review_note": "",
-    "new_translation_vi": "Tìm hiểu về Aetherfin từ Shorekeeper",
+    "new_translation_vi": "Tìm hiểu về Aetherfin từ Shorekeeper.",
     "translator_note": ""
   },
   {
@@ -11821,7 +11821,7 @@
     "ai_reason": "",
     "source_en": "Cerulean Echoes Adrift in the Winds: Epilogue",
     "review_note": "",
-    "new_translation_vi": "Dư Âm Xanh Trôi Dạt Trong Gió: Hồi Kết",
+    "new_translation_vi": "Cerulean Echoes Adrift in the Winds: Đoạn Kết",
     "translator_note": ""
   },
   {
@@ -11836,7 +11836,6 @@
     "primary_key": "LevelPlay_219850002_ChildQuestTip_219_64",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -11846,8 +11845,9 @@
     "ai_reason": "",
     "source_en": "Follow the Soliskin's guidance",
     "review_note": "",
-    "new_translation_vi": "Làm theo hướng dẫn của Soliskin",
-    "translator_note": ""
+    "new_translation_vi": "Làm theo sự hướng dẫn của Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017475",
@@ -11861,7 +11861,6 @@
     "primary_key": "LevelPlay_219850002_ChildQuestTip_219_67",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -11871,8 +11870,9 @@
     "ai_reason": "",
     "source_en": "Check in on Finella",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra tình trạng Finella",
-    "translator_note": ""
+    "new_translation_vi": "Kiểm tra tình hình của Finella",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017476",
@@ -11896,7 +11896,7 @@
     "ai_reason": "",
     "source_en": "Find Banana",
     "review_note": "",
-    "new_translation_vi": "Tìm Quả chuối",
+    "new_translation_vi": "Tìm Banana",
     "translator_note": ""
   },
   {
@@ -11911,7 +11911,6 @@
     "primary_key": "LevelPlay_219850022_ChildQuestTip_219_16",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -11922,7 +11921,8 @@
     "source_en": "Pick up the Soliskin",
     "review_note": "",
     "new_translation_vi": "Nhặt Soliskin",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0017478",
@@ -11946,7 +11946,7 @@
     "ai_reason": "",
     "source_en": "Move the Lumescribe Component to illuminate the next one",
     "review_note": "",
-    "new_translation_vi": "Di chuyển Bộ Phát Quang Lumescribe để chiếu sáng mục tiếp theo",
+    "new_translation_vi": "Di chuyển Lumescribe Component để chiếu sáng vật tiếp theo",
     "translator_note": ""
   },
   {
@@ -11971,7 +11971,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -11996,7 +11996,7 @@
     "ai_reason": "",
     "source_en": "Play the arcade machine",
     "review_note": "",
-    "new_translation_vi": "Chơi máy game thùng",
+    "new_translation_vi": "Chơi máy trò chơi điện tử",
     "translator_note": ""
   },
   {
@@ -12021,7 +12021,7 @@
     "ai_reason": "",
     "source_en": "Play the arcade machine",
     "review_note": "",
-    "new_translation_vi": "Chơi máy game thùng",
+    "new_translation_vi": "Chơi máy trò chơi điện tử",
     "translator_note": ""
   },
   {
@@ -12046,7 +12046,7 @@
     "ai_reason": "",
     "source_en": "Play the arcade machine",
     "review_note": "",
-    "new_translation_vi": "Chơi máy game thùng",
+    "new_translation_vi": "Chơi máy trò chơi điện tử",
     "translator_note": ""
   },
   {
@@ -12071,7 +12071,7 @@
     "ai_reason": "",
     "source_en": "Play the arcade machine",
     "review_note": "",
-    "new_translation_vi": "Chơi máy game thùng",
+    "new_translation_vi": "Chơi máy trò chơi điện tử",
     "translator_note": ""
   },
   {
@@ -12096,7 +12096,7 @@
     "ai_reason": "",
     "source_en": "Play the arcade machine",
     "review_note": "",
-    "new_translation_vi": "Chơi máy game thùng",
+    "new_translation_vi": "Chơi máy trò chơi điện tử",
     "translator_note": ""
   },
   {
@@ -12121,7 +12121,7 @@
     "ai_reason": "",
     "source_en": "Play the arcade machine",
     "review_note": "",
-    "new_translation_vi": "Chơi máy game thùng",
+    "new_translation_vi": "Chơi máy trò chơi điện tử",
     "translator_note": ""
   },
   {
@@ -12146,7 +12146,7 @@
     "ai_reason": "",
     "source_en": "Play the arcade machine",
     "review_note": "",
-    "new_translation_vi": "Chơi máy game thùng",
+    "new_translation_vi": "Chơi máy trò chơi điện tử",
     "translator_note": ""
   },
   {
@@ -12171,7 +12171,7 @@
     "ai_reason": "",
     "source_en": "Play the arcade machine",
     "review_note": "",
-    "new_translation_vi": "Chơi máy game thùng",
+    "new_translation_vi": "Chơi máy trò chơi điện tử",
     "translator_note": ""
   },
   {

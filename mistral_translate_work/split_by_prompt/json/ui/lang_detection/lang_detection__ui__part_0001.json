@@ -11,7 +11,6 @@
     "primary_key": "1",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -22,7 +21,8 @@
     "source_en": "Vanguard Junrock",
     "review_note": "",
     "new_translation_vi": "Vanguard Junrock",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000158",
@@ -36,7 +36,6 @@
     "primary_key": "2",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -46,8 +45,9 @@
     "ai_reason": "",
     "source_en": "Tacet Discord commonly seen active within mines and mountainous areas, small in size, relatively low danger level.",
     "review_note": "",
-    "new_translation_vi": "Tacet Discord thường hoạt động trong các khu mỏ và vùng núi, kích thước nhỏ, mức độ nguy hiểm tương đối thấp.",
-    "translator_note": ""
+    "new_translation_vi": "Tacet Discord thường thấy hoạt động trong các hầm mỏ và vùng núi, kích thước nhỏ, mức độ nguy hiểm tương đối thấp.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000159",
@@ -61,7 +61,6 @@
     "primary_key": "3",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -71,8 +70,9 @@
     "ai_reason": "",
     "source_en": "Binomial name \"Resinacrustidum lapis\", member of the Resinacrustidum species. This Tacet Discord is often found active in packs within mines and mountainous areas, along with other Fission Junrocks, relatively low danger level.",
     "review_note": "",
-    "new_translation_vi": "Tên khoa học \"Resinacrustidum lapis\", thuộc loài Resinacrustidum. Tacet Discord này thường hoạt động theo bầy trong các khu mỏ và vùng núi, cùng với các Fission Junrock khác, cấp độ nguy hiểm tương đối thấp.",
-    "translator_note": ""
+    "new_translation_vi": "Tên nhị thức \"Resinacrustidum lapis\", thuộc loài Resinacrustidum. Tacet Discord này thường được tìm thấy hoạt động theo bầy trong các hầm mỏ và vùng núi, cùng với các Fission Junrock khác, mức độ nguy hiểm tương đối thấp.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000160",
@@ -86,18 +86,18 @@
     "primary_key": "4",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Fission Junrock",
     "review_note": "",
     "new_translation_vi": "Fission Junrock",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000161",
@@ -111,7 +111,6 @@
     "primary_key": "5",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -121,8 +120,9 @@
     "ai_reason": "",
     "source_en": "A Resinacrustidum species of small size Tacet Discords, often found active in packs. Mainly appears in areas with abundant rock masses. Danger level relatively low.",
     "review_note": "",
-    "new_translation_vi": "Loài Tacet Discord nhỏ thuộc giống Resinacrustidum, thường hoạt động theo bầy đàn. Chủ yếu xuất hiện ở khu vực có nhiều khối đá. Mức độ nguy hiểm tương đối thấp.",
-    "translator_note": ""
+    "new_translation_vi": "Một loài Tacet Discord thuộc giống Resinacrustidum có kích thước nhỏ, thường được tìm thấy hoạt động theo bầy. Chủ yếu xuất hiện ở những khu vực có nhiều khối đá. Mức độ nguy hiểm tương đối thấp.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000162",
@@ -136,7 +136,6 @@
     "primary_key": "6",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -146,8 +145,9 @@
     "ai_reason": "",
     "source_en": "Binomial name \"Resinacrustidum lapis\", part of the Resinacrustidum species. This Tacet Discord is often found active, along with Vanguard Junrocks, relatively low danger level.",
     "review_note": "",
-    "new_translation_vi": "Tên khoa học \"Resinacrustidum lapis\", thuộc loài Resinacrustidum. Tacet Discord này thường hoạt động cùng với các Vanguard Junrock, cấp độ nguy hiểm tương đối thấp.",
-    "translator_note": ""
+    "new_translation_vi": "Tên nhị thức \"Resinacrustidum lapis\", thuộc loài Resinacrustidum. Tacet Discord này thường được tìm thấy hoạt động cùng với Vanguard Junrock, mức độ nguy hiểm tương đối thấp.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000163",
@@ -161,7 +161,6 @@
     "primary_key": "7",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -172,7 +171,8 @@
     "source_en": "Impulse Predator",
     "review_note": "",
     "new_translation_vi": "Impulse Predator",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000164",
@@ -186,7 +186,6 @@
     "primary_key": "8",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -196,8 +195,9 @@
     "ai_reason": "",
     "source_en": "Tacet Discord whose appearance resembles that of a human, has specialized upper limbs that can use conductive energy for long-range attacks. According to witnesses, and is somewhat dangerous.",
     "review_note": "",
-    "new_translation_vi": "Tacet Discord có hình dạng giống con người, sở hữu chi trên chuyên biệt có thể sử dụng năng lượng dẫn điện để tấn công tầm xa. Theo lời nhân chứng, nó khá nguy hiểm.",
-    "translator_note": ""
+    "new_translation_vi": "Tacet Discord có ngoại hình giống con người, có chi trên chuyên biệt có thể sử dụng năng lượng dẫn điện cho các đòn tấn công tầm xa. Theo nhân chứng, nó khá nguy hiểm.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000165",
@@ -211,7 +211,6 @@
     "primary_key": "10",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -222,7 +221,8 @@
     "source_en": "Fusion Warrior",
     "review_note": "",
     "new_translation_vi": "Fusion Warrior",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000166",
@@ -236,7 +236,6 @@
     "primary_key": "11",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -246,8 +245,9 @@
     "ai_reason": "",
     "source_en": "The appearance of this Tacet Discord resembles a humanoid, widely distributed. The attacks are mainly at close range and are dangerous.",
     "review_note": "",
-    "new_translation_vi": "Hình dạng của Tacet Discord này giống hình người, phân bố rộng rãi. Các đòn tấn công chủ yếu ở tầm gần và rất nguy hiểm.",
-    "translator_note": ""
+    "new_translation_vi": "Ngoại hình của Tacet Discord này giống hình người, phân bố rộng rãi. Các đòn tấn công chủ yếu ở cự ly gần và rất nguy hiểm.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000167",
@@ -261,7 +261,6 @@
     "primary_key": "12",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -271,8 +270,9 @@
     "ai_reason": "",
     "source_en": "Binomial name \"Devorsonidum fusio\", a member of the genus Devorsonidum. Bilateral upper limbs resemble long and short spears respectively, and can attack by stabbing and chopping. Moderate danger level.",
     "review_note": "",
-    "new_translation_vi": "Tên nhị thức \"Devorsonidum fusio\", thuộc chi Devorsonidum. Hai chi trước có hình dạng giống giáo dài và ngắn, có thể tấn công bằng cách đâm và chém. Mức độ nguy hiểm trung bình.",
-    "translator_note": ""
+    "new_translation_vi": "Tên nhị thức \"Devorsonidum fusio\", thuộc chi Devorsonidum. Chi trên hai bên lần lượt giống như giáo dài và ngắn, có thể tấn công bằng cách đâm và chém. Mức độ nguy hiểm trung bình.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000168",
@@ -286,7 +286,6 @@
     "primary_key": "13",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -297,7 +296,8 @@
     "source_en": "Rupture Warrior",
     "review_note": "",
     "new_translation_vi": "Rupture Warrior",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000169",
@@ -311,7 +311,6 @@
     "primary_key": "14",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -321,8 +320,9 @@
     "ai_reason": "",
     "source_en": "A humanoid Tacet Discord with a wide distribution that mainly attacks at close range. Possesses unilateral idiosyncratic upper extremity, with some risk.",
     "review_note": "",
-    "new_translation_vi": "Một Tacet Discord hình người phân bố rộng rãi, chủ yếu tấn công ở cự ly gần. Có chi trên đặc biệt lệch lạc, mang một số rủi ro.",
-    "translator_note": ""
+    "new_translation_vi": "Một Tacet Discord hình người với sự phân bố rộng rãi, chủ yếu tấn công ở cự ly gần. Sở hữu chi trên đặc thù ở một bên, có một số rủi ro.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000170",
@@ -336,7 +336,6 @@
     "primary_key": "15",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -346,8 +345,9 @@
     "ai_reason": "",
     "source_en": "Binomial name \"Devorsonidum ruptura\", a member of the genus Disorder. Its appearance resembles that of a human, with a strong desire to attack and a certain degree of danger.",
     "review_note": "",
-    "new_translation_vi": "Tên nhị thức \"Devorsonidum ruptura\", thuộc chi Disorder. Ngoại hình giống con người, có ham muốn tấn công mạnh mẽ và mức độ nguy hiểm nhất định.",
-    "translator_note": ""
+    "new_translation_vi": "Tên nhị thức \"Devorsonidum ruptura\", thuộc chi Disorder. Ngoại hình của nó giống con người, với ham muốn tấn công mạnh mẽ và có mức độ nguy hiểm nhất định.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000171",
@@ -361,7 +361,6 @@
     "primary_key": "16",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -372,7 +371,8 @@
     "source_en": "Rocksteady Guardian",
     "review_note": "",
     "new_translation_vi": "Rocksteady Guardian",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000172",
@@ -386,7 +386,6 @@
     "primary_key": "17",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -396,8 +395,9 @@
     "ai_reason": "",
     "source_en": "Widespread humanoid TDs, according to eyewitnesses, have specialized arms, attack mainly at close range and are dangerous.",
     "review_note": "",
-    "new_translation_vi": "Tổ Tacet hình người phổ biến, theo lời nhân chứng, có cánh tay chuyên biệt, tấn công chủ yếu ở cự ly gần và rất nguy hiểm.",
-    "translator_note": ""
+    "new_translation_vi": "TD hình người phân bố rộng rãi, theo nhân chứng, chúng có cánh tay chuyên biệt, tấn công chủ yếu ở cự ly gần và rất nguy hiểm.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000173",
@@ -411,7 +411,6 @@
     "primary_key": "18",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -422,7 +421,8 @@
     "source_en": "Binomial name \"Devorsonidum spectrum\", a member of the genus Devorsonidum.",
     "review_note": "",
     "new_translation_vi": "Tên nhị thức \"Devorsonidum spectrum\", thuộc chi Devorsonidum.",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000174",
@@ -436,18 +436,18 @@
     "primary_key": "19",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Tic Tac",
     "review_note": "",
     "new_translation_vi": "Tic Tac",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000175",
@@ -461,7 +461,6 @@
     "primary_key": "20",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -471,8 +470,9 @@
     "ai_reason": "",
     "source_en": "A common small Tacet Discord that can release a small amount of Havoc energy to attack. Relatively low danger level.",
     "review_note": "",
-    "new_translation_vi": "Một Tacet Discord nhỏ phổ biến, có thể giải phóng một lượng nhỏ năng lượng Havoc để tấn công. Mức độ nguy hiểm tương đối thấp.",
-    "translator_note": ""
+    "new_translation_vi": "Một Tacet Discord nhỏ phổ biến có thể giải phóng một lượng nhỏ năng lượng Havoc để tấn công. Mức độ nguy hiểm tương đối thấp.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000176",
@@ -486,7 +486,6 @@
     "primary_key": "22",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -497,7 +496,8 @@
     "source_en": "Whiff Whoosh",
     "review_note": "",
     "new_translation_vi": "Whiff Whoosh",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000177",
@@ -511,7 +511,6 @@
     "primary_key": "23",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -521,8 +520,9 @@
     "ai_reason": "",
     "source_en": "A common small Tacet Discord that can release a small amount of Aero energy to attack. Relatively low danger level.",
     "review_note": "",
-    "new_translation_vi": "Một Tacet Discord nhỏ phổ biến, có thể giải phóng một lượng nhỏ năng lượng Aero để tấn công. Mức độ nguy hiểm tương đối thấp.",
-    "translator_note": ""
+    "new_translation_vi": "Một Tacet Discord nhỏ phổ biến có thể giải phóng một lượng nhỏ năng lượng Aero để tấn công. Mức độ nguy hiểm tương đối thấp.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000178",
@@ -536,7 +536,6 @@
     "primary_key": "25",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -547,7 +546,8 @@
     "source_en": "Snip Snap",
     "review_note": "",
     "new_translation_vi": "Snip Snap",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000179",
@@ -561,7 +561,6 @@
     "primary_key": "26",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -571,8 +570,9 @@
     "ai_reason": "",
     "source_en": "A common small size Tacet Discord that can release a small amount of Fusion energy to attack. Relatively low danger level.",
     "review_note": "",
-    "new_translation_vi": "Một Tacet Discord kích cỡ nhỏ phổ biến, có thể giải phóng một lượng nhỏ năng lượng Fusion để tấn công. Mức độ nguy hiểm tương đối thấp.",
-    "translator_note": ""
+    "new_translation_vi": "Một Tacet Discord kích thước nhỏ phổ biến có thể giải phóng một lượng nhỏ năng lượng Fusion để tấn công. Mức độ nguy hiểm tương đối thấp.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000180",
@@ -586,18 +586,18 @@
     "primary_key": "28",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Zig Zag",
     "review_note": "",
     "new_translation_vi": "Zig Zag",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000181",
@@ -611,7 +611,6 @@
     "primary_key": "29",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -621,8 +620,9 @@
     "ai_reason": "",
     "source_en": "A common small Tacet Discord that can releas a small amount of Spectra energy to attack. Relatively low danger level.",
     "review_note": "",
-    "new_translation_vi": "Một Tacet Discord nhỏ phổ biến, có thể giải phóng một lượng nhỏ năng lượng Spectro để tấn công. Mức độ nguy hiểm tương đối thấp.",
-    "translator_note": ""
+    "new_translation_vi": "Một Tacet Discord nhỏ phổ biến có thể giải phóng một lượng nhỏ năng lượng Spectra để tấn công. Mức độ nguy hiểm tương đối thấp.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000182",
@@ -636,7 +636,6 @@
     "primary_key": "30",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -646,8 +645,9 @@
     "ai_reason": "",
     "source_en": "Scientifically named the \"Strepoplasmidum spectrum\", a member of the genus Strepoplasmidum. Gained its name due to the lack of intelligence and simple behavioral logic.",
     "review_note": "",
-    "new_translation_vi": "Được khoa học đặt tên là \"Strepoplasmidum spectrum\", thuộc chi Strepoplasmidum. Loài này có tên gọi như vậy do thiếu trí thông minh và hành vi logic đơn giản.",
-    "translator_note": ""
+    "new_translation_vi": "Tên khoa học là \"Strepoplasmidum spectrum\", thuộc chi Strepoplasmidum. Có tên gọi này do thiếu trí thông minh và logic hành vi đơn giản.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000183",
@@ -661,7 +661,6 @@
     "primary_key": "31",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -672,7 +671,8 @@
     "source_en": "Pneuma Predator",
     "review_note": "",
     "new_translation_vi": "Pneuma Predator",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000184",
@@ -686,7 +686,6 @@
     "primary_key": "32",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -696,8 +695,9 @@
     "ai_reason": "",
     "source_en": "The appearance of this TD resembles a hunter with a bowler hat on his head, appearing in Tacet Fields everywhere, with a special long-range attack and a certain degree of danger.",
     "review_note": "",
-    "new_translation_vi": "Hình dạng của TD này giống một thợ săn đội mũ bowler, xuất hiện ở khắp các Tổ Tacet, sở hữu đòn tấn công tầm xa đặc biệt và có mức độ nguy hiểm nhất định.",
-    "translator_note": ""
+    "new_translation_vi": "Ngoại hình của TD này giống một thợ săn đội mũ quả dưa, xuất hiện ở khắp các Tacet Field, có đòn tấn công tầm xa đặc biệt và có mức độ nguy hiểm nhất định.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000185",
@@ -711,7 +711,6 @@
     "primary_key": "34",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -722,7 +721,8 @@
     "source_en": "Glacio Predator",
     "review_note": "",
     "new_translation_vi": "Glacio Predator",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000186",
@@ -736,7 +736,6 @@
     "primary_key": "35",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -746,8 +745,9 @@
     "ai_reason": "",
     "source_en": "A common humanoid TD found in Tacet Fields of across the world. According to eyewitnesses, it resembles a hunter in a cloak and can use Glacio energy for long-range attacks. Moderate danger level.",
     "review_note": "",
-    "new_translation_vi": "Loài Tacet Discord hình người phổ biến trong các Tổ Tacet trên toàn thế giới. Theo lời kể của nhân chứng, nó giống một thợ săn khoác áo choàng và có thể sử dụng năng lượng Glacio để tấn công tầm xa. Mức độ nguy hiểm trung bình.",
-    "translator_note": ""
+    "new_translation_vi": "Một TD hình người phổ biến được tìm thấy trong các Tacet Field trên khắp thế giới. Theo nhân chứng, nó giống một thợ săn mặc áo choàng và có thể sử dụng năng lượng Glacio cho các đòn tấn công tầm xa. Mức độ nguy hiểm trung bình.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000187",
@@ -761,7 +761,6 @@
     "primary_key": "37",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -772,7 +771,8 @@
     "source_en": "Spectra Prism",
     "review_note": "",
     "new_translation_vi": "Spectra Prism",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000188",
@@ -786,7 +786,6 @@
     "primary_key": "38",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -796,8 +795,9 @@
     "ai_reason": "",
     "source_en": "According to sighting reports, this TD is often found in Tacetite vein systems and can cause Spectra damage.",
     "review_note": "",
-    "new_translation_vi": "Theo báo cáo quan sát, Tacet Discord này thường xuất hiện trong hệ thống mạch Tổ Tacet và có thể gây sát thương Spectro.",
-    "translator_note": ""
+    "new_translation_vi": "Theo báo cáo quan sát, TD này thường được tìm thấy trong các hệ thống mạch Tacetite và có thể gây ra sát thương Spectra.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000189",
@@ -811,7 +811,6 @@
     "primary_key": "39",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -821,8 +820,9 @@
     "ai_reason": "",
     "source_en": "Binomial name \"Resinacrustidum convenire\", a member of the genus Resinacrustidum. One of many low danger level Tacet Discords that are widely found across the world.",
     "review_note": "",
-    "new_translation_vi": "Tên khoa học \"Resinacrustidum convenire\", một thành viên của chi Resinacrustidum. Đây là một trong nhiều Tacet Discord cấp độ nguy hiểm thấp, phân bố rộng rãi trên toàn thế giới.",
-    "translator_note": ""
+    "new_translation_vi": "Tên nhị thức \"Resinacrustidum convenire\", thuộc chi Resinacrustidum. Một trong nhiều Tacet Discord có mức độ nguy hiểm thấp được tìm thấy rộng rãi trên khắp thế giới.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000190",
@@ -836,7 +836,6 @@
     "primary_key": "40",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -847,7 +846,8 @@
     "source_en": "Glacio Prism",
     "review_note": "",
     "new_translation_vi": "Glacio Prism",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000191",
@@ -861,7 +861,6 @@
     "primary_key": "41",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -871,8 +870,9 @@
     "ai_reason": "",
     "source_en": "According to sighting reports, this TD is often found in Tacetite vein systems and can cause Glacio damage.",
     "review_note": "",
-    "new_translation_vi": "Theo báo cáo quan sát, Tacet Discord này thường xuất hiện trong hệ thống mạch Tổ Tacet và có thể gây sát thương Glacio.",
-    "translator_note": ""
+    "new_translation_vi": "Theo báo cáo quan sát, TD này thường được tìm thấy trong các hệ thống mạch Tacetite và có thể gây ra sát thương Glacio.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000192",
@@ -886,7 +886,6 @@
     "primary_key": "43",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -897,7 +896,8 @@
     "source_en": "Rupture Prism",
     "review_note": "",
     "new_translation_vi": "Rupture Prism",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000193",
@@ -911,7 +911,6 @@
     "primary_key": "44",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -921,8 +920,9 @@
     "ai_reason": "",
     "source_en": "According to sighting reports, this TD is often found in Tacetite vein systems and can cause Havoc damage.",
     "review_note": "",
-    "new_translation_vi": "Theo báo cáo quan sát, Tacet Discord này thường xuất hiện trong hệ thống mạch Tổ Tacet và có thể gây sát thương Havoc.",
-    "translator_note": ""
+    "new_translation_vi": "Theo báo cáo quan sát, TD này thường được tìm thấy trong các hệ thống mạch Tacetite và có thể gây ra sát thương Havoc.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000194",
@@ -936,7 +936,6 @@
     "primary_key": "46",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -947,7 +946,8 @@
     "source_en": "Fusion Prism",
     "review_note": "",
     "new_translation_vi": "Fusion Prism",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000195",
@@ -961,7 +961,6 @@
     "primary_key": "47",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -971,8 +970,9 @@
     "ai_reason": "",
     "source_en": "According to sighting reports, this TD is often found in Tacetite vein systems and can cause Fusion damage.",
     "review_note": "",
-    "new_translation_vi": "Theo báo cáo quan sát, Tacet Discord này thường xuất hiện trong hệ thống mạch Tổ Tacet và có thể gây sát thương Fusion.",
-    "translator_note": ""
+    "new_translation_vi": "Theo báo cáo quan sát, TD này thường được tìm thấy trong các hệ thống mạch Tacetite và có thể gây ra sát thương Fusion.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000196",
@@ -986,7 +986,6 @@
     "primary_key": "49",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -997,7 +996,8 @@
     "source_en": "Chasm Guardian",
     "review_note": "",
     "new_translation_vi": "Chasm Guardian",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000197",
@@ -1011,7 +1011,6 @@
     "primary_key": "50",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1021,8 +1020,9 @@
     "ai_reason": "",
     "source_en": "This type of TD is visible in multiple regions, with unilateral upper limb idiosyncrasy, similar to a human raising a shield with one hand, and is dangerous",
     "review_note": "",
-    "new_translation_vi": "Loại Tacet Discord này xuất hiện ở nhiều khu vực, có đặc điểm bất thường ở chi trên một bên, giống như con người giơ khiên một tay, và rất nguy hiểm",
-    "translator_note": ""
+    "new_translation_vi": "Loại TD này có thể nhìn thấy ở nhiều khu vực, với chi trên đặc thù ở một bên, giống như con người giơ khiên bằng một tay, và rất nguy hiểm.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000198",
@@ -1036,7 +1036,6 @@
     "primary_key": "51",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1047,7 +1046,8 @@
     "source_en": "Binomial name \"Devorsonidum ruptura\", a member of the genus Devorsonidum.",
     "review_note": "",
     "new_translation_vi": "Tên nhị thức \"Devorsonidum ruptura\", thuộc chi Devorsonidum.",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000199",
@@ -1061,7 +1061,6 @@
     "primary_key": "52",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1072,7 +1071,8 @@
     "source_en": "Stonewall Bracer",
     "review_note": "",
     "new_translation_vi": "Stonewall Bracer",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000200",
@@ -1086,7 +1086,6 @@
     "primary_key": "53",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1096,8 +1095,9 @@
     "ai_reason": "",
     "source_en": "Commonly found in mountainous hills and other places of human-like TDs, widely distributed, with a certain degree of danger.",
     "review_note": "",
-    "new_translation_vi": "Thường xuất hiện ở các ngọn đồi núi và những nơi có Tổ Tacet giống con người, phân bố rộng rãi, mức độ nguy hiểm nhất định.",
-    "translator_note": ""
+    "new_translation_vi": "TD hình người thường thấy ở các đồi núi và những nơi khác, phân bố rộng rãi, với mức độ nguy hiểm nhất định.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000201",
@@ -1111,7 +1111,6 @@
     "primary_key": "54",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1121,8 +1120,9 @@
     "ai_reason": "",
     "source_en": "Binomial name \"Resinacrustidum lapis\", a member of the genus Resinacrustidum.",
     "review_note": "",
-    "new_translation_vi": "Tên khoa học \"Resinacrustidum lapis\", một thành viên của chi Resinacrustidum.",
-    "translator_note": ""
+    "new_translation_vi": "Tên nhị thức \"Resinacrustidum lapis\", thuộc chi Resinacrustidum.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000202",
@@ -1136,7 +1136,6 @@
     "primary_key": "55",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1147,7 +1146,8 @@
     "source_en": "Flute Instrumentalist",
     "review_note": "",
     "new_translation_vi": "Flute Instrumentalist",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000203",
@@ -1161,7 +1161,6 @@
     "primary_key": "56",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1171,8 +1170,9 @@
     "ai_reason": "",
     "source_en": "Human-like TD, widely distributed and visible in multiple regions. According to eyewitnesses, the attack is similar to humans playing wind instruments and is somewhat dangerous.",
     "review_note": "",
-    "new_translation_vi": "Tổ Tacet dạng người, phân bố rộng và xuất hiện ở nhiều khu vực. Theo lời kể của nhân chứng, cách tấn công của chúng giống như con người chơi các nhạc cụ hơi và khá nguy hiểm.",
-    "translator_note": ""
+    "new_translation_vi": "TD hình người, phân bố rộng rãi và có thể nhìn thấy ở nhiều khu vực. Theo nhân chứng, đòn tấn công giống như con người đang chơi nhạc cụ hơi và khá nguy hiểm.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000204",
@@ -1186,7 +1186,6 @@
     "primary_key": "57",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1197,7 +1196,8 @@
     "source_en": "Binomial name \"Devorsonidum impulsio\", a member of the genus Devorsonidum.",
     "review_note": "",
     "new_translation_vi": "Tên nhị thức \"Devorsonidum impulsio\", thuộc chi Devorsonidum.",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000205",
@@ -1211,7 +1211,6 @@
     "primary_key": "58",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1222,7 +1221,8 @@
     "source_en": "Tambourine Instrumentalist",
     "review_note": "",
     "new_translation_vi": "Tambourine Instrumentalist",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000206",
@@ -1236,7 +1236,6 @@
     "primary_key": "59",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1246,8 +1245,9 @@
     "ai_reason": "",
     "source_en": "Such TDs are widely distributed and visible in multiple regions. Sighting reports indicate that they are capable of influencing the actions of opponents through special attacks and are somewhat dangerous.",
     "review_note": "",
-    "new_translation_vi": "Những Tổ Tacet này phân bố rộng và xuất hiện ở nhiều khu vực. Các báo cáo quan sát cho thấy chúng có khả năng tác động đến hành động của đối thủ thông qua các đòn tấn công đặc biệt và khá nguy hiểm.",
-    "translator_note": ""
+    "new_translation_vi": "Những TD như vậy được phân bố rộng rãi và có thể nhìn thấy ở nhiều khu vực. Các báo cáo quan sát chỉ ra rằng chúng có khả năng ảnh hưởng đến hành động của đối thủ thông qua các đòn tấn công đặc biệt và khá nguy hiểm.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000207",
@@ -1261,7 +1261,6 @@
     "primary_key": "60",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1272,7 +1271,8 @@
     "source_en": "Binomial name \"Devorsonidum ruptura\", a member of the genus Devorsonidum.",
     "review_note": "",
     "new_translation_vi": "Tên nhị thức \"Devorsonidum ruptura\", thuộc chi Devorsonidum.",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000208",
@@ -1286,18 +1286,18 @@
     "primary_key": "61",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Gulpuff",
     "review_note": "",
     "new_translation_vi": "Gulpuff",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000209",
@@ -1311,7 +1311,6 @@
     "primary_key": "62",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1321,8 +1320,9 @@
     "ai_reason": "",
     "source_en": "Small aquatic Mutant Organism, mostly found in freshwater networks, seem to have a habit of sneaking up on their prey and are less dangerous.",
     "review_note": "",
-    "new_translation_vi": "Sinh Vật Đột Biến thủy sinh nhỏ, chủ yếu sống trong các mạng lưới nước ngọt, có thói quen lén lút tiếp cận con mồi, mức độ nguy hiểm thấp.",
-    "translator_note": ""
+    "new_translation_vi": "Sinh vật đột biến thủy sinh nhỏ, chủ yếu được tìm thấy trong các mạng lưới nước ngọt, dường như có thói quen lẻn vào con mồi và ít nguy hiểm hơn.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000210",
@@ -1336,7 +1336,6 @@
     "primary_key": "63",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1346,8 +1345,9 @@
     "ai_reason": "",
     "source_en": "Binomial name \"Tetraodon lateo\", a Mutant Organism of the genus Tetraodon.",
     "review_note": "",
-    "new_translation_vi": "Tên khoa học \"Tetraodon lateo\", một Sinh Vật Đột Biến thuộc chi Tetraodon.",
-    "translator_note": ""
+    "new_translation_vi": "Tên nhị thức \"Tetraodon lateo\", một sinh vật đột biến thuộc chi Tetraodon.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000211",
@@ -1361,7 +1361,6 @@
     "primary_key": "64",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1372,7 +1371,8 @@
     "source_en": "Violet-Feathered Heron",
     "review_note": "",
     "new_translation_vi": "Violet-Feathered Heron",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000212",
@@ -1386,7 +1386,6 @@
     "primary_key": "65",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1396,8 +1395,9 @@
     "ai_reason": "",
     "source_en": "Large Mutant Organism unique to Huanglong, often found in the Huanglong territory between the wetlands and lakes. Desorock Highlands also have their traces, aggressive and territorial awareness is very strong, there is a certain degree of danger.",
     "review_note": "",
-    "new_translation_vi": "Sinh Vật Đột Biến Cỡ Lớn đặc hữu của Huanglong, thường xuất hiện ở vùng đất ngập nước và hồ nước thuộc lãnh thổ Huanglong. Desorock Highlands cũng có dấu vết của chúng, hung hăng và ý thức lãnh thổ rất mạnh, có mức độ nguy hiểm nhất định.",
-    "translator_note": ""
+    "new_translation_vi": "Sinh vật đột biến lớn đặc hữu của Huanglong, thường được tìm thấy ở lãnh thổ Huanglong giữa các vùng đất ngập nước và hồ. Desorock Highland cũng có dấu vết của chúng, hung dữ và ý thức lãnh thổ rất mạnh, có mức độ nguy hiểm nhất định.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000213",
@@ -1411,7 +1411,6 @@
     "primary_key": "66",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1421,8 +1420,9 @@
     "ai_reason": "",
     "source_en": "Trinomial name \"Ardea purpurea bipenna\", a subspecies of Ardea purpurea uniquely found in Huanglong.",
     "review_note": "",
-    "new_translation_vi": "Tên ba phần \"Ardea purpurea bipenna\", một phân loài của Ardea purpurea chỉ tìm thấy duy nhất ở Huanglong.",
-    "translator_note": ""
+    "new_translation_vi": "Tên tam thức \"Ardea purpurea bipenna\", một phân loài của Ardea purpurea chỉ được tìm thấy ở Huanglong.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000214",
@@ -1436,7 +1436,6 @@
     "primary_key": "67",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1447,7 +1446,8 @@
     "source_en": "Cyan-Feathered Heron",
     "review_note": "",
     "new_translation_vi": "Cyan-Feathered Heron",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000215",
@@ -1461,7 +1461,6 @@
     "primary_key": "68",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1471,8 +1470,9 @@
     "ai_reason": "",
     "source_en": "One of the large waders endemic to Huanglong. It is ferocious in nature and is mostly found in the waters of Huanglong and the Desorock Highlands, and is somewhat dangerous.",
     "review_note": "",
-    "new_translation_vi": "Một trong những loài chim lội lớn đặc hữu của Huanglong. Bản tính hung dữ, thường xuất hiện ở vùng nước Huanglong và Desorock Highlands, có thể gây nguy hiểm.",
-    "translator_note": ""
+    "new_translation_vi": "Một trong những loài chim lội nước lớn đặc hữu của Huanglong. Bản tính hung dữ và chủ yếu được tìm thấy ở các vùng nước của Huanglong và Desorock Highland, và khá nguy hiểm.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000216",
@@ -1486,7 +1486,6 @@
     "primary_key": "69",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1496,8 +1495,9 @@
     "ai_reason": "",
     "source_en": "Trinomial name \"Ardea purpurea bipenna\", a subspecies of Ardea purpurea uniquely found in Huanglong.",
     "review_note": "",
-    "new_translation_vi": "Tên ba phần \"Ardea purpurea bipenna\", một phân loài của Ardea purpurea chỉ tìm thấy duy nhất ở Huanglong.",
-    "translator_note": ""
+    "new_translation_vi": "Tên tam thức \"Ardea purpurea bipenna\", một phân loài của Ardea purpurea chỉ được tìm thấy ở Huanglong.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000217",
@@ -1511,7 +1511,6 @@
     "primary_key": "70",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1522,7 +1521,8 @@
     "source_en": "Cruisewing",
     "review_note": "",
     "new_translation_vi": "Cruisewing",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000218",
@@ -1536,7 +1536,6 @@
     "primary_key": "71",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1546,8 +1545,9 @@
     "ai_reason": "",
     "source_en": "Commonly found in the territories within Huanglong, the existing sightings report that it only appears in the daytime. Relatively low danger level.",
     "review_note": "",
-    "new_translation_vi": "Thường được tìm thấy trong lãnh thổ Huanglong, các báo cáo hiện tại cho thấy nó chỉ xuất hiện vào ban ngày. Mức độ nguy hiểm tương đối thấp.",
-    "translator_note": ""
+    "new_translation_vi": "Thường được tìm thấy ở các vùng lãnh thổ trong Huanglong, các báo cáo quan sát hiện có cho thấy nó chỉ xuất hiện vào ban ngày. Mức độ nguy hiểm tương đối thấp.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000219",
@@ -1561,7 +1561,6 @@
     "primary_key": "72",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1571,8 +1570,9 @@
     "ai_reason": "",
     "source_en": "Binomial name \"Acanthacorydalis squapenna\", a member of the genus Resinacrustidum. Commonly found on waterfronts in warm and humid areas throughout Huanglong. Although slightly aggressive, they are easily preyed upon by Geohide Saurians and others, and are not very dangerous. Relatively low danger level.",
     "review_note": "",
-    "new_translation_vi": "Tên nhị thức \"Acanthacorydalis squapenna\", thuộc chi Resinacrustidum. Thường xuất hiện ở các khu vực ven nước tại những vùng ấm áp và ẩm ướt trên khắp Huanglong. Dù hơi hung dữ, chúng lại dễ dàng trở thành con mồi của Geohide Saurian và các loài khác, nên không quá nguy hiểm. Mức độ nguy hiểm tương đối thấp.",
-    "translator_note": ""
+    "new_translation_vi": "Tên nhị thức \"Acanthacorydalis squapenna\", thuộc chi Resinacrustidum. Thường được tìm thấy ở các bờ sông trong các khu vực ấm áp và ẩm ướt trên khắp Huanglong. Mặc dù hơi hung dữ, chúng dễ dàng bị Geohide Saurian và những loài khác săn mồi, và không quá nguy hiểm. Mức độ nguy hiểm tương đối thấp.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000220",
@@ -1586,7 +1586,6 @@
     "primary_key": "73",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1597,7 +1596,8 @@
     "source_en": "Sabyr Boar",
     "review_note": "",
     "new_translation_vi": "Sabyr Boar",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000221",
@@ -1611,7 +1611,6 @@
     "primary_key": "74",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1621,8 +1620,9 @@
     "ai_reason": "",
     "source_en": "A medium-sized Mutant Organism with a violent temperament. Terrestrial, mostly living in groups, good at running and rushing, widely distributed. Relatively low danger level.",
     "review_note": "",
-    "new_translation_vi": "Một Sinh Vật Đột Biến cỡ trung với tính khí hung dữ. Sống trên cạn, thường đi theo đàn, giỏi chạy và lao nhanh, phân bố rộng rãi. Mức độ nguy hiểm tương đối thấp.",
-    "translator_note": ""
+    "new_translation_vi": "Một sinh vật đột biến cỡ trung bình với tính khí hung bạo. Sống trên cạn, chủ yếu sống theo nhóm, giỏi chạy và lao tới, phân bố rộng rãi. Mức độ nguy hiểm tương đối thấp.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000222",
@@ -1636,7 +1636,6 @@
     "primary_key": "75",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1646,8 +1645,9 @@
     "ai_reason": "",
     "source_en": "Binomial name \"Babyrousa fractden\", a Mutant Organism the genus Babyrousa. An omnivore Mutant Organism commonly seen everywhere. Although its diet is mainly of vegetative origin, but the temperament is unlike the ordinary herbivores.",
     "review_note": "",
-    "new_translation_vi": "Tên nhị thức \"Babyrousa fractden\", một Sinh Vật Đột Biến thuộc chi Babyrousa. Là loài ăn tạp phổ biến khắp nơi. Dù chủ yếu ăn thực vật, nhưng tính khí của chúng không hề giống các loài ăn cỏ thông thường.",
-    "translator_note": ""
+    "new_translation_vi": "Tên nhị thức \"Babyrousa fractden\", một sinh vật đột biến thuộc chi Babyrousa. Một sinh vật đột biến ăn tạp thường thấy ở khắp mọi nơi. Mặc dù chế độ ăn chủ yếu là thực vật, nhưng tính khí không giống như các loài động vật ăn cỏ thông thường.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000223",
@@ -1661,18 +1661,18 @@
     "primary_key": "76",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Excarat",
     "review_note": "",
     "new_translation_vi": "Excarat",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000224",
@@ -1686,7 +1686,6 @@
     "primary_key": "77",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1696,8 +1695,9 @@
     "ai_reason": "",
     "source_en": "Small boar-like Mutant Organism common within Huanglong, they are easily found in warmer areas during the day. Relatively low danger level.",
     "review_note": "",
-    "new_translation_vi": "Sinh Vật Đột Biến giống lợn nhỏ phổ biến ở Huanglong, thường xuất hiện ở những khu vực ấm áp vào ban ngày. Mức độ nguy hiểm tương đối thấp.",
-    "translator_note": ""
+    "new_translation_vi": "Sinh vật đột biến nhỏ giống lợn rừng phổ biến ở Huanglong, chúng dễ dàng được tìm thấy ở những khu vực ấm áp hơn vào ban ngày. Mức độ nguy hiểm tương đối thấp.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000225",
@@ -1711,7 +1711,6 @@
     "primary_key": "78",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1721,8 +1720,9 @@
     "ai_reason": "",
     "source_en": "Binomial name \"Myospalax actinoaftia\", a Mutant Organism the genus Myospalax. A common small rodent Mutant Organism, mostly found in grasslands or temperate forests and mountains.",
     "review_note": "",
-    "new_translation_vi": "Tên khoa học \"Myospalax actinoaftia\", một Sinh Vật Đột Biến thuộc chi Myospalax. Đây là loài gặm nhấm đột biến nhỏ phổ biến, thường xuất hiện ở đồng cỏ, rừng ôn đới và vùng núi.",
-    "translator_note": ""
+    "new_translation_vi": "Tên nhị thức \"Myospalax actinoaftia\", một sinh vật đột biến thuộc chi Myospalax. Một sinh vật đột biến gặm nhấm nhỏ phổ biến, chủ yếu được tìm thấy ở đồng cỏ hoặc rừng ôn đới và núi.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000226",
@@ -1736,7 +1736,6 @@
     "primary_key": "79",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1747,7 +1746,8 @@
     "source_en": "Geohide Saurian Minor",
     "review_note": "",
     "new_translation_vi": "Geohide Saurian Minor",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000227",
@@ -1761,7 +1761,6 @@
     "primary_key": "80",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1771,8 +1770,9 @@
     "ai_reason": "",
     "source_en": "Mostly seen as juvenile reptiles in the Desorock Highlands. According to witnesses, it usually follows the adults and hunts in concert, which is dangerous.",
     "review_note": "",
-    "new_translation_vi": "Thường thấy dưới dạng bò sát non ở Desorock Highlands. Theo lời nhân chứng, chúng thường đi theo cá thể trưởng thành và săn mồi theo đàn, rất nguy hiểm.",
-    "translator_note": ""
+    "new_translation_vi": "Chủ yếu được nhìn thấy là bò sát con ở Desorock Highland. Theo nhân chứng, nó thường đi theo con trưởng thành và săn mồi phối hợp, rất nguy hiểm.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000228",
@@ -1786,7 +1786,6 @@
     "primary_key": "81",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1796,8 +1795,9 @@
     "ai_reason": "",
     "source_en": "Binomial name \"Aigialosauridae lapis\", a Mutant Organism the genus Aigialosauridae. The lizards have no natural habit of caring for their younglings, thus hatchlings can only survive by imitating the hunting behavior of the adults, scavenging the remains of their food and, if necessary, using other hatchlings as targets for prey.",
     "review_note": "",
-    "new_translation_vi": "Tên nhị thức \"Aigialosauridae lapis\", một Sinh Vật Đột Biến thuộc chi Aigialosauridae. Loài thằn lằn này không có tập tính chăm sóc con non, vì vậy những con mới nở chỉ có thể sống sót bằng cách bắt chước hành vi săn mồi của con trưởng thành, ăn xác thối của con mồi và nếu cần, sử dụng những con non khác làm mục tiêu tập săn.",
-    "translator_note": ""
+    "new_translation_vi": "Tên nhị thức \"Aigialosauridae lapis\", một sinh vật đột biến thuộc chi Aigialosauridae. Loài thằn lằn này không có thói quen tự nhiên chăm sóc con non, do đó con non chỉ có thể sống sót bằng cách bắt chước hành vi săn mồi của con trưởng thành, nhặt nhạnh thức ăn thừa và nếu cần, sử dụng các con non khác làm mục tiêu săn mồi.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000229",
@@ -1811,18 +1811,18 @@
     "primary_key": "82",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Geohide Saurian Major",
     "review_note": "",
     "new_translation_vi": "Geohide Saurian Major",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000230",
@@ -1836,7 +1836,6 @@
     "primary_key": "83",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1846,8 +1845,9 @@
     "ai_reason": "",
     "source_en": "The Mutant Organism is mostly found in the Desorock Highlands. According to witnesses, it is a large reptile, fast action, more dangerous.",
     "review_note": "",
-    "new_translation_vi": "Sinh Vật Đột Biến này chủ yếu xuất hiện ở Desorock Highlands. Theo lời kể của nhân chứng, nó là một loài bò sát lớn, di chuyển nhanh và nguy hiểm hơn.",
-    "translator_note": ""
+    "new_translation_vi": "Sinh vật đột biến này chủ yếu được tìm thấy ở Desorock Highland. Theo nhân chứng, đây là một loài bò sát lớn, hành động nhanh, nguy hiểm hơn.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000231",
@@ -1861,7 +1861,6 @@
     "primary_key": "84",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1871,8 +1870,9 @@
     "ai_reason": "",
     "source_en": "Binomial name \"Aigialosauridae lapis\", a Mutant Organism of the genus Aigialosauridae.",
     "review_note": "",
-    "new_translation_vi": "Tên nhị thức \"Aigialosauridae lapis\", một Sinh Vật Đột Biến thuộc chi Aigialosauridae.",
-    "translator_note": ""
+    "new_translation_vi": "Tên nhị thức \"Aigialosauridae lapis\", một sinh vật đột biến thuộc chi Aigialosauridae.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000232",
@@ -1886,7 +1886,6 @@
     "primary_key": "85",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1897,7 +1896,8 @@
     "source_en": "Roseshroom (Immature)",
     "review_note": "",
     "new_translation_vi": "Roseshroom (Immature)",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000233",
@@ -1911,7 +1911,6 @@
     "primary_key": "86",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1921,8 +1920,9 @@
     "ai_reason": "",
     "source_en": "Mature stage mutant plant, widely distributed worldwide, prefers wet areas with more Tacetites. Relatively low danger level.",
     "review_note": "",
-    "new_translation_vi": "Thực vật đột biến giai đoạn trưởng thành, phân bố rộng khắp thế giới, ưa thích khu vực ẩm ướt có nhiều Tacetite. Mức độ nguy hiểm tương đối thấp.",
-    "translator_note": ""
+    "new_translation_vi": "Thực vật đột biến giai đoạn trưởng thành, phân bố rộng rãi trên toàn thế giới, ưa thích những khu vực ẩm ướt có nhiều Tacetite. Mức độ nguy hiểm tương đối thấp.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000234",
@@ -1936,7 +1936,6 @@
     "primary_key": "87",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1946,8 +1945,9 @@
     "ai_reason": "",
     "source_en": "Binomial name \"Agaricus mimetikos\", a Mutant Organism the genus Agaricus. In its immatured stage, the Roseshroom does not yet possess the ability to absorb nutrients from Tacetites, thus needing to gather nutrients from nearby matured Roseshrooms in order to survive.",
     "review_note": "",
-    "new_translation_vi": "Tên nhị thức \"Agaricus mimetikos\", một Sinh Vật Đột Biến thuộc chi Agaricus. Ở giai đoạn chưa trưởng thành, Roseshroom chưa có khả năng hấp thụ dưỡng chất từ Tacetite, do đó cần thu thập chất dinh dưỡng từ những cây Roseshroom trưởng thành gần đó để sinh tồn.",
-    "translator_note": ""
+    "new_translation_vi": "Tên khoa học \"Agaricus mimetikos\", một sinh vật đột biến thuộc chi Agaricus. Ở giai đoạn chưa trưởng thành, Roseshroom chưa có khả năng hấp thụ chất dinh dưỡng từ Tacetite, vì vậy cần thu thập chất dinh dưỡng từ những Roseshroom đã trưởng thành gần đó để tồn tại.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000235",
@@ -1961,7 +1961,6 @@
     "primary_key": "88",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1972,7 +1971,8 @@
     "source_en": "Roseshroom (Mature)",
     "review_note": "",
     "new_translation_vi": "Roseshroom (Mature)",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000236",
@@ -1986,7 +1986,6 @@
     "primary_key": "89",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1996,8 +1995,9 @@
     "ai_reason": "",
     "source_en": "Widely distributed mutant plants, mostly found in areas with more Tacetite, less dangerous.",
     "review_note": "",
-    "new_translation_vi": "Thực vật đột biến phân bố rộng, chủ yếu xuất hiện ở khu vực có nhiều Tacetite, ít nguy hiểm.",
-    "translator_note": ""
+    "new_translation_vi": "Thực vật đột biến phân bố rộng rãi, chủ yếu được tìm thấy ở những khu vực có nhiều Tacetite, ít nguy hiểm.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000237",
@@ -2011,7 +2011,6 @@
     "primary_key": "90",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2021,8 +2020,9 @@
     "ai_reason": "",
     "source_en": "Binomial name \"Agaricus mimicus\". Prefers shade and humidity, tend to gather in groups of two or three in west caves rich in Tacetite.",
     "review_note": "",
-    "new_translation_vi": "Tên nhị thức \"Agaricus mimicus\". Ưa bóng râm và độ ẩm, thường tụ tập thành nhóm hai hoặc ba cá thể trong các hang động phía tây giàu Tacetite.",
-    "translator_note": ""
+    "new_translation_vi": "Tên khoa học \"Agaricus mimicus\". Ưa bóng râm và độ ẩm, thường tụ tập thành nhóm hai hoặc ba trong các hang động phía tây giàu Tacetite.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000238",
@@ -2036,7 +2036,6 @@
     "primary_key": "91",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2047,7 +2046,8 @@
     "source_en": "Rupture Dreadmane Major",
     "review_note": "",
     "new_translation_vi": "Rupture Dreadmane Major",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000239",
@@ -2061,7 +2061,6 @@
     "primary_key": "92",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2071,8 +2070,9 @@
     "ai_reason": "",
     "source_en": "A widely distributed canidae with numerous subspecies. This subspecies appears to have evolved specifically for Havoc properties. Posses a danger levels of certain degree.",
     "review_note": "",
-    "new_translation_vi": "Một loài chó phân bố rộng rãi với nhiều phân loài. Phân loài này dường như đã tiến hóa đặc biệt để thích nghi với thuộc tính Havoc. Có mức độ nguy hiểm nhất định.",
-    "translator_note": ""
+    "new_translation_vi": "Một loài thuộc họ chó phân bố rộng rãi với nhiều phân loài. Phân loài này dường như đã tiến hóa đặc biệt cho các đặc tính Havoc. Có mức độ nguy hiểm nhất định.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000240",
@@ -2086,7 +2086,6 @@
     "primary_key": "93",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2096,8 +2095,9 @@
     "ai_reason": "",
     "source_en": "Trinomial name \"Chrysocyon brachyurus terreo\". Adult Dreadmanes are larger in size, ambulant and nocturnal, and lives in packs, with strong social and aggressive characteristics.",
     "review_note": "",
-    "new_translation_vi": "Tên ba phần \"Chrysocyon brachyurus terreo\". Dreadmane trưởng thành có kích thước lớn hơn, di chuyển và hoạt động về đêm, sống theo bầy đàn, với đặc tính xã hội mạnh mẽ và hung hãn.",
-    "translator_note": ""
+    "new_translation_vi": "Tên tam phân \"Chrysocyon brachyurus terreo\". Dreadmane trưởng thành có kích thước lớn hơn, hoạt động về đêm, sống theo bầy đàn, có đặc tính xã hội và hung hăng mạnh mẽ.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000241",
@@ -2111,18 +2111,18 @@
     "primary_key": "94",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Fusion Dreadmane Minor",
     "review_note": "",
     "new_translation_vi": "Fusion Dreadmane Minor",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000242",
@@ -2136,7 +2136,6 @@
     "primary_key": "95",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2146,8 +2145,9 @@
     "ai_reason": "",
     "source_en": "A widely distributed juvenile canidae with numerous subspecies, usually following the adults around in groups. This subspecies appears to have evolved specificity for fusion property and is less dangerous.",
     "review_note": "",
-    "new_translation_vi": "Một loài chó con phân bố rộng rãi với nhiều phân loài, thường đi theo đàn con trưởng thành. Phân loài này dường như đã tiến hóa đặc tính chuyên biệt cho thuộc tính Fusion và ít nguy hiểm hơn.",
-    "translator_note": ""
+    "new_translation_vi": "Một loài thuộc họ chó chưa trưởng thành phân bố rộng rãi với nhiều phân loài, thường đi theo con trưởng thành theo nhóm. Phân loài này dường như đã tiến hóa đặc biệt cho đặc tính Fusion và ít nguy hiểm hơn.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000243",
@@ -2161,7 +2161,6 @@
     "primary_key": "96",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2171,8 +2170,9 @@
     "ai_reason": "",
     "source_en": "Trinomial name \"Chrysocyon brachyurus terreo\", a Mutant Organism the subspecies Chrysocyon brachyurus.",
     "review_note": "",
-    "new_translation_vi": "Tên ba phần \"Chrysocyon brachyurus terreo\", một Sinh Vật Đột Biến thuộc phân loài Chrysocyon brachyurus.",
-    "translator_note": ""
+    "new_translation_vi": "Tên tam phân \"Chrysocyon brachyurus terreo\", một sinh vật đột biến thuộc phân loài Chrysocyon brachyurus.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000244",
@@ -2186,7 +2186,6 @@
     "primary_key": "97",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2197,7 +2196,8 @@
     "source_en": "Exile Commoner",
     "review_note": "",
     "new_translation_vi": "Exile Commoner",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000245",
@@ -2211,7 +2211,6 @@
     "primary_key": "98",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2221,8 +2220,9 @@
     "ai_reason": "",
     "source_en": "Dangerous individuals roaming the wilderness of various nations, mostly operating in groups, appearing in groups, easy to deal with singly. Relatively low danger level.",
     "review_note": "",
-    "new_translation_vi": "Những cá nhân nguy hiểm lang thang ở vùng hoang dã của các quốc gia, thường hoạt động theo nhóm và xuất hiện theo nhóm, dễ đối phó nếu đơn lẻ. Mức độ nguy hiểm tương đối thấp.",
-    "translator_note": ""
+    "new_translation_vi": "Những cá thể nguy hiểm lang thang ở vùng hoang dã của nhiều quốc gia, chủ yếu hoạt động theo nhóm, xuất hiện theo nhóm, dễ đối phó khi đi lẻ. Mức độ nguy hiểm tương đối thấp.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000246",
@@ -2236,7 +2236,6 @@
     "primary_key": "99",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2246,8 +2245,9 @@
     "ai_reason": "",
     "source_en": "The name \"Exile\" bears an unforgivable felony. They can not enter towns, thus left wandering in the wilderness. Although most of the Exiles only paid for their past misdeeds, considering that not all trials in various nations are \"fair\", there are quite a number who were wrongfully exiled and are rebelling with a sense of fury in mind",
     "review_note": "",
-    "new_translation_vi": "Cái tên \"Kẻ Lưu Đày\" mang theo trọng tội không thể tha thứ. Họ không được phép vào các thị trấn, đành lang thang nơi hoang dã. Dù phần lớn Kẻ Lưu Đày chỉ phải trả giá cho những lỗi lầm trong quá khứ, nhưng xét rằng không phải phiên tòa nào ở các quốc gia cũng \"công bằng\", vẫn có không ít người bị lưu đày oan uổng và đang nổi dậy với lòng căm phẫn.",
-    "translator_note": ""
+    "new_translation_vi": "Cái tên \"Exile\" mang một trọng tội không thể tha thứ. Họ không thể vào thị trấn, vì vậy bị bỏ lại lang thang trong vùng hoang dã. Mặc dù hầu hết các Exile chỉ trả giá cho những sai lầm trong quá khứ của họ, nhưng xét đến việc không phải tất cả các phiên tòa ở các quốc gia đều \"công bằng\", có khá nhiều người bị lưu đày oan uổng và đang nổi loạn với sự giận dữ trong tâm trí.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000247",
@@ -2261,7 +2261,6 @@
     "primary_key": "100",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2271,8 +2270,9 @@
     "ai_reason": "",
     "source_en": "Exile Leader",
     "review_note": "",
-    "new_translation_vi": "Thủ Lĩnh Lưu Đày",
-    "translator_note": ""
+    "new_translation_vi": "Exile Leader",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000248",
@@ -2286,7 +2286,6 @@
     "primary_key": "101",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2296,8 +2295,9 @@
     "ai_reason": "",
     "source_en": "Leaders of the outlaws, usually found in the Exile Campgrounds across the world, has more combat experience and skills than the average Exile, and are somewhat dangerous.",
     "review_note": "",
-    "new_translation_vi": "Kẻ cầm đầu bọn lưu vong, thường xuất hiện tại các Bãi tập trung Lưu vong trên khắp thế giới, có kinh nghiệm và kỹ năng chiến đấu vượt trội so với Lưu vong thông thường, và khá nguy hiểm.",
-    "translator_note": ""
+    "new_translation_vi": "Những kẻ cầm đầu bọn ngoài vòng pháp luật, thường được tìm thấy tại các Exile Campgrounds trên khắp thế giới, có nhiều kinh nghiệm chiến đấu và kỹ năng hơn Exile thông thường, và khá nguy hiểm.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000249",
@@ -2311,7 +2311,6 @@
     "primary_key": "102",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2321,8 +2320,9 @@
     "ai_reason": "",
     "source_en": "Exile Leaders are mostly Resonators. In the Huanglong region, for example, the Exile Leaders are usually those who have been expelled from the Mornguard for various reasons, and their combat experience and abilities cannot be compared with those of ordinary Exiles.",
     "review_note": "",
-    "new_translation_vi": "Thủ Lĩnh Lưu Đày hầu hết đều là Resonator. Ví dụ như ở khu vực Huanglong, họ thường là những người bị trục xuất khỏi Mornguard vì nhiều lý do khác nhau, và kinh nghiệm chiến đấu cũng như khả năng của họ không thể so sánh với dân Lưu Đày thông thường.",
-    "translator_note": ""
+    "new_translation_vi": "Exile Leaders hầu hết là các Resonator. Ví dụ, ở khu vực Huanglong, Exile Leaders thường là những người đã bị trục xuất khỏi Mornguard vì nhiều lý do khác nhau, và kinh nghiệm cũng như khả năng chiến đấu của họ không thể so sánh với những Exile bình thường.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000250",
@@ -2336,18 +2336,18 @@
     "primary_key": "103",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Hooscamp",
     "review_note": "",
     "new_translation_vi": "Hooscamp",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000251",
@@ -2361,7 +2361,6 @@
     "primary_key": "104",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2371,8 +2370,9 @@
     "ai_reason": "",
     "source_en": "Primate larvae unique to the Dim Forest. Multiple sighting reports indicate that they often move with the adults and have relatively high intelligence, but are less mobile and less dangerous than the adults.",
     "review_note": "",
-    "new_translation_vi": "Ấu trùng Primate đặc hữu của Dim Forest. Nhiều báo cáo quan sát cho thấy chúng thường di chuyển cùng cá thể trưởng thành, có trí thông minh tương đối cao nhưng kém linh hoạt và ít nguy hiểm hơn cá thể trưởng thành.",
-    "translator_note": ""
+    "new_translation_vi": "Ấu trùng linh trưởng độc nhất ở Dim Forest. Nhiều báo cáo quan sát cho thấy chúng thường di chuyển cùng con trưởng thành và có trí thông minh tương đối cao, nhưng kém linh hoạt và ít nguy hiểm hơn con trưởng thành.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000252",
@@ -2386,7 +2386,6 @@
     "primary_key": "106",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2397,7 +2396,8 @@
     "source_en": "Cyrscorpion",
     "review_note": "",
     "new_translation_vi": "Cyrscorpion",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000253",
@@ -2411,7 +2411,6 @@
     "primary_key": "107",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2421,8 +2420,9 @@
     "ai_reason": "",
     "source_en": "Small Mutant Organism, widely distributed, with different subspecies reported in various regions, mostly found in caves, mines and other dark and humid places around the world, with a low level of danger.",
     "review_note": "",
-    "new_translation_vi": "Sinh Vật Đột Biến nhỏ, phân bố rộng rãi, với nhiều phân loài được ghi nhận ở nhiều khu vực khác nhau, chủ yếu sống trong hang động, hầm mỏ và những nơi tối tăm, ẩm ướt trên thế giới, mức độ nguy hiểm thấp.",
-    "translator_note": ""
+    "new_translation_vi": "Sinh vật đột biến nhỏ, phân bố rộng rãi, với các phân loài khác nhau được báo cáo ở nhiều khu vực, chủ yếu được tìm thấy trong các hang động, hầm mỏ và những nơi tối tăm, ẩm ướt khác trên khắp thế giới, với mức độ nguy hiểm thấp.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000254",
@@ -2436,7 +2436,6 @@
     "primary_key": "108",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2446,8 +2445,9 @@
     "ai_reason": "",
     "source_en": "The Cyrscorpion is one of the few Mutant Organisms that shares the same common name and scientific classification.",
     "review_note": "",
-    "new_translation_vi": "Cyrscorpion là một trong số ít Sinh Vật Đột Biến có tên thông thường và phân loại khoa học trùng nhau.",
-    "translator_note": ""
+    "new_translation_vi": "Cyrscorpion là một trong số ít các sinh vật đột biến có cùng tên gọi thông thường và phân loại khoa học.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000255",
@@ -2461,18 +2461,18 @@
     "primary_key": "109",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Hoochief",
     "review_note": "",
     "new_translation_vi": "Hoochief",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000256",
@@ -2486,7 +2486,6 @@
     "primary_key": "110",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2496,8 +2495,9 @@
     "ai_reason": "",
     "source_en": "Mutant Organism unique to the Dim Forest. Multiple sighting reports show that such Mutant Organisms are relatively high in intelligence, have strong ability to act cooperatively, capable of group combat, and are somewhat dangerous.",
     "review_note": "",
-    "new_translation_vi": "Sinh Vật Đột Biến độc nhất tại Rừng Mờ. Nhiều báo cáo quan sát cho thấy loài Sinh Vật Đột Biến này có trí thông minh tương đối cao, khả năng phối hợp nhóm mạnh mẽ, có thể chiến đấu theo bầy đàn và khá nguy hiểm.",
-    "translator_note": ""
+    "new_translation_vi": "Sinh vật đột biến độc nhất ở Dim Forest. Nhiều báo cáo quan sát cho thấy những sinh vật đột biến như vậy có trí thông minh tương đối cao, có khả năng phối hợp mạnh mẽ, có khả năng chiến đấu theo nhóm và khá nguy hiểm.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000257",
@@ -2511,7 +2511,6 @@
     "primary_key": "112",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2522,7 +2521,8 @@
     "source_en": "Spearback Ursa",
     "review_note": "",
     "new_translation_vi": "Spearback Ursa",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000258",
@@ -2536,7 +2536,6 @@
     "primary_key": "113",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2546,8 +2545,9 @@
     "ai_reason": "",
     "source_en": "Large Mutant Organism inhabiting the Huanglong Forest, usually moving in small groups of 3-5, with a keen sense of smell and a certain degree of danger.",
     "review_note": "",
-    "new_translation_vi": "Sinh Vật Đột Biến Cỡ Lớn sinh sống trong Rừng Huanglong, thường di chuyển theo nhóm nhỏ 3-5 cá thể, có khứu giác nhạy bén và mức độ nguy hiểm nhất định.",
-    "translator_note": ""
+    "new_translation_vi": "Sinh vật đột biến lớn sống trong rừng Huanglong, thường di chuyển theo nhóm nhỏ từ 3-5 con, có khứu giác nhạy bén và mức độ nguy hiểm nhất định.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000259",
@@ -2561,7 +2561,6 @@
     "primary_key": "114",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2571,8 +2570,9 @@
     "ai_reason": "",
     "source_en": "Trinomial name \"Ursus spelaeus sagispina\", mainly found inhabiting the Huanglong Forest. This Mutant Organism has poor eyesight and relies mainly on hearing for hunting.",
     "review_note": "",
-    "new_translation_vi": "Tên ba phần \"Ursus spelaeus sagispina\", chủ yếu sinh sống tại Rừng Huanglong. Sinh Vật Đột Biến này có thị lực kém và chủ yếu dựa vào thính giác để săn mồi.",
-    "translator_note": ""
+    "new_translation_vi": "Tên tam phân \"Ursus spelaeus sagispina\", chủ yếu sống trong rừng Huanglong. Sinh vật đột biến này có thị lực kém và chủ yếu dựa vào thính giác để săn mồi.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000260",
@@ -2586,18 +2586,18 @@
     "primary_key": "115",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Chaserazor",
     "review_note": "",
     "new_translation_vi": "Chaserazor",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000261",
@@ -2611,7 +2611,6 @@
     "primary_key": "116",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2621,8 +2620,9 @@
     "ai_reason": "",
     "source_en": "Tacet Discord unique to the Dim Forest. Sighting reports and insurance claims state that it has a strong desire to hunt and attack, and is presumed to be dangerous.",
     "review_note": "",
-    "new_translation_vi": "Tacet Discord đặc trưng của Rừng Mờ. Các báo cáo và yêu cầu bồi thường bảo hiểm cho thấy nó có ham muốn săn mồi và tấn công mạnh mẽ, được đánh giá là nguy hiểm.",
-    "translator_note": ""
+    "new_translation_vi": "Tacet Discord độc nhất ở Dim Forest. Các báo cáo quan sát và yêu cầu bảo hiểm cho biết nó có ham muốn săn mồi và tấn công mạnh mẽ, và được cho là nguy hiểm.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000262",
@@ -2636,7 +2636,6 @@
     "primary_key": "121",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2647,7 +2646,8 @@
     "source_en": "Fractsidus Executioner",
     "review_note": "",
     "new_translation_vi": "Fractsidus Executioner",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000263",
@@ -2661,7 +2661,6 @@
     "primary_key": "124",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2672,7 +2671,8 @@
     "source_en": "Thunder Squama",
     "review_note": "",
     "new_translation_vi": "Thunder Squama",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000264",
@@ -2686,7 +2686,6 @@
     "primary_key": "125",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2696,8 +2695,9 @@
     "ai_reason": "",
     "source_en": "A powerful Tacet Discord that appears in the Tacet Field of Desorock Highlands and is capable of using the power of the Electro.",
     "review_note": "",
-    "new_translation_vi": "Một Tacet Discord mạnh mẽ xuất hiện tại Tổ Tacet của Desorock Highlands và có khả năng sử dụng sức mạnh của Electro.",
-    "translator_note": ""
+    "new_translation_vi": "Một Tacet Discord mạnh mẽ xuất hiện trong Tacet Field của Desorock Highlands và có khả năng sử dụng sức mạnh của Electro.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000265",
@@ -2711,7 +2711,6 @@
     "primary_key": "127",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2722,7 +2721,8 @@
     "source_en": "Inferno Rider",
     "review_note": "",
     "new_translation_vi": "Inferno Rider",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000266",
@@ -2736,7 +2736,6 @@
     "primary_key": "128",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2746,8 +2745,9 @@
     "ai_reason": "",
     "source_en": "A powerful Tacet Discord located in the Forsaken Abundance, According to witnesses, its movement is different from other TDs, more information to be further researched.",
     "review_note": "",
-    "new_translation_vi": "Một Tacet Discord mạnh mẽ xuất hiện tại Forsaken Abundance. Theo lời nhân chứng, chuyển động của nó khác biệt so với các TD khác, cần nghiên cứu thêm để có thông tin chi tiết.",
-    "translator_note": ""
+    "new_translation_vi": "Một Tacet Discord mạnh mẽ nằm ở Forsaken Abundance. Theo các nhân chứng, chuyển động của nó khác với các TD khác, cần nghiên cứu thêm thông tin.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000267",
@@ -2761,7 +2761,6 @@
     "primary_key": "130",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2772,7 +2771,8 @@
     "source_en": "Gleamtender",
     "review_note": "",
     "new_translation_vi": "Gleamtender",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000268",
@@ -2786,7 +2786,6 @@
     "primary_key": "131",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2796,8 +2795,9 @@
     "ai_reason": "",
     "source_en": "Powerful Tacet Discord that reside in the deep shafts of the Tiger's Maw. There's very few available sighting reports, all of which claiming that they resemble insects.",
     "review_note": "",
-    "new_translation_vi": "Tacet Discord mạnh mẽ trú ngụ trong những hầm sâu của Tiger's Maw. Rất ít báo cáo quan sát được ghi nhận, tất cả đều cho rằng chúng giống côn trùng.",
-    "translator_note": ""
+    "new_translation_vi": "Tacet Discord mạnh mẽ cư trú trong các trục sâu của Tiger's Maw. Có rất ít báo cáo quan sát, tất cả đều cho rằng chúng giống côn trùng.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000269",
@@ -2811,18 +2811,18 @@
     "primary_key": "133",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Feilian Beringal",
     "review_note": "",
     "new_translation_vi": "Feilian Beringal",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000270",
@@ -2836,7 +2836,6 @@
     "primary_key": "134",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2846,8 +2845,9 @@
     "ai_reason": "",
     "source_en": "A formidable Mutant Organism deep in the Dim Forest. Leader of the Hoochiefs.",
     "review_note": "",
-    "new_translation_vi": "Một Sinh Vật Đột Biến đáng gờm sâu trong Rừng Mờ. Thủ lĩnh của tộc Hoochief.",
-    "translator_note": ""
+    "new_translation_vi": "Một sinh vật đột biến đáng gờm sâu trong Dim Forest. Thủ lĩnh của các Hoochief.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000271",
@@ -2861,7 +2861,6 @@
     "primary_key": "136",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2872,7 +2871,8 @@
     "source_en": "Mourning Aix",
     "review_note": "",
     "new_translation_vi": "Mourning Aix",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000272",
@@ -2886,7 +2886,6 @@
     "primary_key": "137",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2896,8 +2895,9 @@
     "ai_reason": "",
     "source_en": "A formidable Tacet Discord that nested in the Whining Aix's Mire, its wailing is called the \"Never-ending elegy\" by the people of Huanglong.",
     "review_note": "",
-    "new_translation_vi": "Một Tacet Discord đáng gờm trú ngụ tại Whining Aix's Mire, tiếng gào thét của nó được người dân Huanglong gọi là \"Khúc bi ca bất tận\".",
-    "translator_note": ""
+    "new_translation_vi": "Một Tacet Discord đáng gờm làm tổ ở Whining Aix's Mire, tiếng kêu than của nó được người dân Huanglong gọi là \"Khúc bi ca bất tận\".",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000273",
@@ -2911,7 +2911,6 @@
     "primary_key": "139",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2922,7 +2921,8 @@
     "source_en": "Crownless",
     "review_note": "",
     "new_translation_vi": "Crownless",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000274",
@@ -2936,7 +2936,6 @@
     "primary_key": "140",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2946,8 +2945,9 @@
     "ai_reason": "",
     "source_en": "A Tacet Discord observed in the Central Plains, there has been only sighting report for this TD, that of which from the Rover. There is no detailed record of its full appearance, and it is judged to be extremely dangerous according to its energy level.",
     "review_note": "",
-    "new_translation_vi": "Một Tacet Discord được quan sát tại Central Plains, chỉ có duy nhất một báo cáo nhìn thấy từ Rover. Không có ghi chép chi tiết về hình dáng đầy đủ của nó, nhưng dựa trên mức năng lượng, nó được đánh giá là cực kỳ nguy hiểm.",
-    "translator_note": ""
+    "new_translation_vi": "Một Tacet Discord được quan sát thấy ở Central Plains, chỉ có một báo cáo quan sát cho TD này, đó là từ Rover. Không có hồ sơ chi tiết về ngoại hình đầy đủ của nó, và nó được đánh giá là cực kỳ nguy hiểm dựa trên mức năng lượng của nó.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000275",
@@ -2961,7 +2961,6 @@
     "primary_key": "142",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2972,7 +2971,8 @@
     "source_en": "Bell-Borne Geochelone",
     "review_note": "",
     "new_translation_vi": "Bell-Borne Geochelone",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000276",
@@ -2986,7 +2986,6 @@
     "primary_key": "143",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2996,8 +2995,9 @@
     "ai_reason": "",
     "source_en": "Large Mutant Organism hidden deep in the Gorges of Spirit, deemed to be extremely dangerous. There is no detailed record of its full appearance yet.",
     "review_note": "",
-    "new_translation_vi": "Sinh Vật Đột Biến Cỡ Lớn ẩn sâu trong Hẻm núi Spirit, được đánh giá là cực kỳ nguy hiểm. Chưa có ghi chép chi tiết về toàn bộ hình dạng của nó.",
-    "translator_note": ""
+    "new_translation_vi": "Sinh vật đột biến lớn ẩn sâu trong Gorges of Spirit, được coi là cực kỳ nguy hiểm. Chưa có hồ sơ chi tiết về ngoại hình đầy đủ của nó.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000277",
@@ -3011,18 +3011,18 @@
     "primary_key": "145",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Chirpuff",
     "review_note": "",
     "new_translation_vi": "Chirpuff",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000278",
@@ -3036,7 +3036,6 @@
     "primary_key": "146",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3046,8 +3045,9 @@
     "ai_reason": "",
     "source_en": "A low-risk Mutant Organism with a peculiar activity pattern that is commonly found in the waters of Whining Aix's Mire.",
     "review_note": "",
-    "new_translation_vi": "Một Sinh Vật Đột Biến có mức độ nguy hiểm thấp với kiểu hoạt động kỳ lạ, thường thấy ở vùng nước thuộc Whining Aix's Mire.",
-    "translator_note": ""
+    "new_translation_vi": "Một sinh vật đột biến có rủi ro thấp với kiểu hoạt động kỳ lạ thường được tìm thấy ở vùng nước của Whining Aix's Mire.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000279",
@@ -3061,7 +3061,6 @@
     "primary_key": "19",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3071,8 +3070,9 @@
     "ai_reason": "",
     "source_en": "Progressing Base",
     "review_note": "",
-    "new_translation_vi": "Căn Cứ Đang Phát Triển",
-    "translator_note": ""
+    "new_translation_vi": "Progressing Base",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000280",
@@ -3086,7 +3086,6 @@
     "primary_key": "22",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3096,8 +3095,9 @@
     "ai_reason": "",
     "source_en": "Zero Point Research Station",
     "review_note": "",
-    "new_translation_vi": "Trạm Nghiên cứu Điểm Không",
-    "translator_note": ""
+    "new_translation_vi": "Zero Point Research Station",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000281",
@@ -3111,7 +3111,6 @@
     "primary_key": "1",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3121,8 +3120,9 @@
     "ai_reason": "",
     "source_en": "Medium Tacet Field - Transmitter",
     "review_note": "",
-    "new_translation_vi": "Tổ Tacet Cỡ Trung - Bộ Truyền Tín",
-    "translator_note": ""
+    "new_translation_vi": "Tacet Field trung bình - Transmitter",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000282",
@@ -3136,7 +3136,6 @@
     "primary_key": "4",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3146,8 +3145,9 @@
     "ai_reason": "",
     "source_en": "Medium Tacet Field - Weapon",
     "review_note": "",
-    "new_translation_vi": "Tổ Tacet Cỡ Trung - Vũ Khí",
-    "translator_note": ""
+    "new_translation_vi": "Tacet Field trung bình - Vũ khí",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000283",
@@ -3161,7 +3161,6 @@
     "primary_key": "7",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3171,8 +3170,9 @@
     "ai_reason": "",
     "source_en": "Medium Tacet Field - Echo",
     "review_note": "",
-    "new_translation_vi": "Tổ Tacet Cấp Trung - Echo",
-    "translator_note": ""
+    "new_translation_vi": "Tacet Field trung bình - Echo",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000284",
@@ -3186,7 +3186,6 @@
     "primary_key": "10",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3196,8 +3195,9 @@
     "ai_reason": "",
     "source_en": "Medium Tacet Field - Tacetite",
     "review_note": "",
-    "new_translation_vi": "Tổ Tacet Cấp Trung - Tacetite",
-    "translator_note": ""
+    "new_translation_vi": "Tacet Field trung bình - Tacetite",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000285",
@@ -3211,7 +3211,6 @@
     "primary_key": "28",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3222,7 +3221,8 @@
     "source_en": "Thunder Squama",
     "review_note": "",
     "new_translation_vi": "Thunder Squama",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000286",
@@ -3236,7 +3236,6 @@
     "primary_key": "29",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3246,8 +3245,9 @@
     "ai_reason": "",
     "source_en": "A powerful Tacet Discord that appears in the Tacet Field of Desorock Highlands and is capable of using the power of the Electro.",
     "review_note": "",
-    "new_translation_vi": "Một Tacet Discord mạnh mẽ xuất hiện tại Tổ Tacet của Desorock Highlands và có khả năng sử dụng sức mạnh của Electro.",
-    "translator_note": ""
+    "new_translation_vi": "Một Tacet Discord mạnh mẽ xuất hiện trong Tacet Field của Desorock Highlands và có khả năng sử dụng sức mạnh của Electro.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000287",
@@ -3261,7 +3261,6 @@
     "primary_key": "30",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3271,8 +3270,9 @@
     "ai_reason": "",
     "source_en": "The Thunder Squama resembles the fusion of a human and a lizard. It is able to use Wutherons within the Tacet Field for high-speed maneuvers. Initially, it is judged to be the result of the natural evolution of TDs,.",
     "review_note": "",
-    "new_translation_vi": "Thunder Squama có hình dạng giống sự kết hợp giữa người và thằn lằn. Nó có thể sử dụng Wutheron trong Tổ Tacet để thực hiện các động tác cơ động tốc độ cao. Ban đầu, nó được cho là kết quả của quá trình tiến hóa tự nhiên của TD.",
-    "translator_note": ""
+    "new_translation_vi": "Thunder Squama giống như sự hợp nhất giữa người và thằn lằn. Nó có thể sử dụng Wutherons trong Tacet Field để di chuyển tốc độ cao. Ban đầu, nó được đánh giá là kết quả của quá trình tiến hóa tự nhiên của các TD.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000288",
@@ -3286,7 +3286,6 @@
     "primary_key": "31",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3297,7 +3296,8 @@
     "source_en": "Inferno Rider",
     "review_note": "",
     "new_translation_vi": "Inferno Rider",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000289",
@@ -3311,7 +3311,6 @@
     "primary_key": "34",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3322,7 +3321,8 @@
     "source_en": "Crownless",
     "review_note": "",
     "new_translation_vi": "Crownless",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000290",
@@ -3336,7 +3336,6 @@
     "primary_key": "35",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3346,8 +3345,9 @@
     "ai_reason": "",
     "source_en": "A Tacet Discord observed in the Central Plains, there has been only sighting report for this TD, that of which from the Rover. There is no detailed record of its full appearance, and it is judged to be extremely dangerous according to its energy level.",
     "review_note": "",
-    "new_translation_vi": "Một Tacet Discord được quan sát tại Central Plains, chỉ có duy nhất một báo cáo nhìn thấy từ Rover. Không có ghi chép chi tiết về hình dáng đầy đủ của nó, nhưng dựa trên mức năng lượng, nó được đánh giá là cực kỳ nguy hiểm.",
-    "translator_note": ""
+    "new_translation_vi": "Một Tacet Discord được quan sát thấy ở Central Plains, chỉ có một báo cáo quan sát cho TD này, đó là từ Rover. Không có hồ sơ chi tiết về ngoại hình đầy đủ của nó, và nó được đánh giá là cực kỳ nguy hiểm dựa trên mức năng lượng của nó.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000291",
@@ -3361,7 +3361,6 @@
     "primary_key": "36",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3371,8 +3370,9 @@
     "ai_reason": "",
     "source_en": "A copy of the Threnodian \"Crownless\". It resembles a white-armored knight in appearance, and when risen in power, it extends its blood-red wings, presumably because it briefly manipulates the structure of Wutherons in its body, instantly increasing its mobility and attack power. Recently, it has also been observed that it can produce a body structure that mimics human \"weapons\".",
     "review_note": "",
-    "new_translation_vi": "Bản sao của \"Crownless\" thuộc Threnody. Về ngoại hình, nó giống một hiệp sĩ mặc giáp trắng, và khi sức mạnh tăng lên, đôi cánh đỏ như máu sẽ bung ra, có lẽ do nó tạm thời điều khiển cấu trúc Wutheron trong cơ thể, giúp tăng khả năng di chuyển và sức tấn công tức thì. Gần đây, người ta còn quan sát thấy nó có thể tạo ra cấu trúc cơ thể mô phỏng \"vũ khí\" của con người.",
-    "translator_note": ""
+    "new_translation_vi": "Một bản sao của Threnodian \"Crownless\". Nó có vẻ ngoài giống một hiệp sĩ giáp trắng, và khi sức mạnh tăng lên, nó mở rộng đôi cánh đỏ như máu, có lẽ vì nó thao túng cấu trúc Wutherons trong cơ thể trong thời gian ngắn, ngay lập tức tăng khả năng di chuyển và sức tấn công. Gần đây, người ta cũng quan sát thấy nó có thể tạo ra một cấu trúc cơ thể bắt chước \"vũ khí\" của con người.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000292",
@@ -3386,7 +3386,6 @@
     "primary_key": "11",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3397,6 +3396,7 @@
     "source_en": "Concerto Effect",
     "review_note": "",
     "new_translation_vi": "Hiệu ứng Concerto",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   }
 ]

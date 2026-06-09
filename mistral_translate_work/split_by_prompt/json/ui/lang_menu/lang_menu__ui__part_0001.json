@@ -11,7 +11,6 @@
     "primary_key": "1",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -22,7 +21,8 @@
     "source_en": "Audio",
     "review_note": "",
     "new_translation_vi": "Âm thanh",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000879",
@@ -36,7 +36,6 @@
     "primary_key": "2",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -47,7 +46,8 @@
     "source_en": "Master Volume",
     "review_note": "",
     "new_translation_vi": "Âm lượng tổng",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000880",
@@ -61,7 +61,6 @@
     "primary_key": "3",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -72,7 +71,8 @@
     "source_en": "Audio",
     "review_note": "",
     "new_translation_vi": "Âm thanh",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000881",
@@ -86,7 +86,6 @@
     "primary_key": "4",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -96,8 +95,9 @@
     "ai_reason": "",
     "source_en": "Dialog Volume",
     "review_note": "",
-    "new_translation_vi": "Âm lượng Lời thoại",
-    "translator_note": ""
+    "new_translation_vi": "Âm lượng hội thoại",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000882",
@@ -111,7 +111,6 @@
     "primary_key": "5",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -122,7 +121,8 @@
     "source_en": "Audio",
     "review_note": "",
     "new_translation_vi": "Âm thanh",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000883",
@@ -136,7 +136,6 @@
     "primary_key": "6",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -147,7 +146,8 @@
     "source_en": "Music Volume",
     "review_note": "",
     "new_translation_vi": "Âm lượng nhạc",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000884",
@@ -161,7 +161,6 @@
     "primary_key": "7",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -172,7 +171,8 @@
     "source_en": "Audio",
     "review_note": "",
     "new_translation_vi": "Âm thanh",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000885",
@@ -186,7 +186,6 @@
     "primary_key": "8",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -196,8 +195,9 @@
     "ai_reason": "",
     "source_en": "Sound Effects Volume",
     "review_note": "",
-    "new_translation_vi": "Âm Lượng Hiệu Ứng",
-    "translator_note": ""
+    "new_translation_vi": "Âm lượng hiệu ứng",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000886",
@@ -211,7 +211,6 @@
     "primary_key": "9",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -222,7 +221,8 @@
     "source_en": "General",
     "review_note": "",
     "new_translation_vi": "Chung",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000887",
@@ -236,7 +236,6 @@
     "primary_key": "10",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -246,8 +245,9 @@
     "ai_reason": "",
     "source_en": "Texture Quality",
     "review_note": "",
-    "new_translation_vi": "Chất Lượng Họa Tiết",
-    "translator_note": ""
+    "new_translation_vi": "Chất lượng kết cấu",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000888",
@@ -261,7 +261,6 @@
     "primary_key": "11",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -272,7 +271,8 @@
     "source_en": "Low",
     "review_note": "",
     "new_translation_vi": "Thấp",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000889",
@@ -286,7 +286,6 @@
     "primary_key": "12",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -297,7 +296,8 @@
     "source_en": "Medium",
     "review_note": "",
     "new_translation_vi": "Trung bình",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000890",
@@ -311,7 +311,6 @@
     "primary_key": "13",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -322,7 +321,8 @@
     "source_en": "High",
     "review_note": "",
     "new_translation_vi": "Cao",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000891",
@@ -336,7 +336,6 @@
     "primary_key": "14",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -347,7 +346,8 @@
     "source_en": "General",
     "review_note": "",
     "new_translation_vi": "Chung",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000892",
@@ -361,7 +361,6 @@
     "primary_key": "15",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -371,8 +370,9 @@
     "ai_reason": "",
     "source_en": "Display Mode",
     "review_note": "",
-    "new_translation_vi": "Chế độ Hiển thị",
-    "translator_note": ""
+    "new_translation_vi": "Chế độ hiển thị",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000893",
@@ -386,7 +386,6 @@
     "primary_key": "16",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -396,8 +395,9 @@
     "ai_reason": "",
     "source_en": "Fullscreen",
     "review_note": "",
-    "new_translation_vi": "Toàn màn hình",
-    "translator_note": ""
+    "new_translation_vi": "Fullscreen",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000894",
@@ -411,7 +411,6 @@
     "primary_key": "17",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -421,8 +420,9 @@
     "ai_reason": "",
     "source_en": "Windowed",
     "review_note": "",
-    "new_translation_vi": "Cửa Sổ",
-    "translator_note": ""
+    "new_translation_vi": "Cửa sổ",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000895",
@@ -436,7 +436,6 @@
     "primary_key": "18",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -447,7 +446,8 @@
     "source_en": "General",
     "review_note": "",
     "new_translation_vi": "Chung",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000896",
@@ -461,7 +461,6 @@
     "primary_key": "19",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -471,8 +470,9 @@
     "ai_reason": "",
     "source_en": "Display Resolution",
     "review_note": "",
-    "new_translation_vi": "Độ phân giải Màn hình",
-    "translator_note": ""
+    "new_translation_vi": "Độ phân giải hiển thị",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000897",
@@ -486,7 +486,6 @@
     "primary_key": "29",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -497,7 +496,8 @@
     "source_en": "General",
     "review_note": "",
     "new_translation_vi": "Chung",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000898",
@@ -511,7 +511,6 @@
     "primary_key": "30",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -521,8 +520,9 @@
     "ai_reason": "",
     "source_en": "Display Resolution",
     "review_note": "",
-    "new_translation_vi": "Độ phân giải Màn hình",
-    "translator_note": ""
+    "new_translation_vi": "Độ phân giải hiển thị",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000899",
@@ -536,7 +536,6 @@
     "primary_key": "35",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -547,7 +546,8 @@
     "source_en": "General",
     "review_note": "",
     "new_translation_vi": "Chung",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000900",
@@ -561,7 +561,6 @@
     "primary_key": "37",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -571,8 +570,9 @@
     "ai_reason": "",
     "source_en": "Setup",
     "review_note": "",
-    "new_translation_vi": "Thiết Lập",
-    "translator_note": ""
+    "new_translation_vi": "Thiết lập",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000901",
@@ -586,7 +586,6 @@
     "primary_key": "38",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -597,7 +596,8 @@
     "source_en": "Custom",
     "review_note": "",
     "new_translation_vi": "Tùy chỉnh",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000902",
@@ -611,7 +611,6 @@
     "primary_key": "39",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -622,7 +621,8 @@
     "source_en": "Maximum Frame Rate",
     "review_note": "",
     "new_translation_vi": "Tốc độ khung hình tối đa",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000903",
@@ -636,7 +636,6 @@
     "primary_key": "40",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -646,8 +645,9 @@
     "ai_reason": "",
     "source_en": "30fps",
     "review_note": "",
-    "new_translation_vi": "30 FPS",
-    "translator_note": ""
+    "new_translation_vi": "30fps",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000904",
@@ -661,7 +661,6 @@
     "primary_key": "41",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -671,8 +670,9 @@
     "ai_reason": "",
     "source_en": "60fps",
     "review_note": "",
-    "new_translation_vi": "60 FPS",
-    "translator_note": ""
+    "new_translation_vi": "60fps",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000905",
@@ -686,7 +686,6 @@
     "primary_key": "42",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -697,7 +696,8 @@
     "source_en": "Custom",
     "review_note": "",
     "new_translation_vi": "Tùy chỉnh",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000906",
@@ -711,7 +711,6 @@
     "primary_key": "44",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -722,7 +721,8 @@
     "source_en": "On",
     "review_note": "",
     "new_translation_vi": "Bật",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000907",
@@ -736,7 +736,6 @@
     "primary_key": "45",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -747,7 +746,8 @@
     "source_en": "Off",
     "review_note": "",
     "new_translation_vi": "Tắt",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000908",
@@ -761,7 +761,6 @@
     "primary_key": "46",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -772,7 +771,8 @@
     "source_en": "Custom",
     "review_note": "",
     "new_translation_vi": "Tùy chỉnh",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000909",
@@ -786,7 +786,6 @@
     "primary_key": "47",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -796,8 +795,9 @@
     "ai_reason": "",
     "source_en": "Shadow Quality",
     "review_note": "",
-    "new_translation_vi": "Chất Lượng Bóng",
-    "translator_note": ""
+    "new_translation_vi": "Chất lượng bóng đổ",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000910",
@@ -811,7 +811,6 @@
     "primary_key": "48",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -822,7 +821,8 @@
     "source_en": "Low",
     "review_note": "",
     "new_translation_vi": "Thấp",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000911",
@@ -836,7 +836,6 @@
     "primary_key": "49",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -847,7 +846,8 @@
     "source_en": "Medium",
     "review_note": "",
     "new_translation_vi": "Trung bình",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000912",
@@ -861,7 +861,6 @@
     "primary_key": "50",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -872,7 +871,8 @@
     "source_en": "High",
     "review_note": "",
     "new_translation_vi": "Cao",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000913",
@@ -886,7 +886,6 @@
     "primary_key": "51",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -897,7 +896,8 @@
     "source_en": "Custom",
     "review_note": "",
     "new_translation_vi": "Tùy chỉnh",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000914",
@@ -911,7 +911,6 @@
     "primary_key": "52",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -921,8 +920,9 @@
     "ai_reason": "",
     "source_en": "Special Effects",
     "review_note": "",
-    "new_translation_vi": "Hiệu Ứng Đặc Biệt",
-    "translator_note": ""
+    "new_translation_vi": "Hiệu ứng đặc biệt",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000915",
@@ -936,7 +936,6 @@
     "primary_key": "53",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -947,7 +946,8 @@
     "source_en": "Low",
     "review_note": "",
     "new_translation_vi": "Thấp",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000916",
@@ -961,7 +961,6 @@
     "primary_key": "54",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -972,7 +971,8 @@
     "source_en": "High",
     "review_note": "",
     "new_translation_vi": "Cao",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000917",
@@ -986,7 +986,6 @@
     "primary_key": "55",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -997,7 +996,8 @@
     "source_en": "Custom",
     "review_note": "",
     "new_translation_vi": "Tùy chỉnh",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000918",
@@ -1011,7 +1011,6 @@
     "primary_key": "56",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1021,8 +1020,9 @@
     "ai_reason": "",
     "source_en": "Texture Details",
     "review_note": "",
-    "new_translation_vi": "Chi Tiết Họa Tiết",
-    "translator_note": ""
+    "new_translation_vi": "Chi tiết kết cấu",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000919",
@@ -1036,7 +1036,6 @@
     "primary_key": "57",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1047,7 +1046,8 @@
     "source_en": "Low",
     "review_note": "",
     "new_translation_vi": "Thấp",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000920",
@@ -1061,7 +1061,6 @@
     "primary_key": "58",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1072,7 +1071,8 @@
     "source_en": "Medium",
     "review_note": "",
     "new_translation_vi": "Trung bình",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000921",
@@ -1086,7 +1086,6 @@
     "primary_key": "59",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1097,7 +1096,8 @@
     "source_en": "High",
     "review_note": "",
     "new_translation_vi": "Cao",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000922",
@@ -1111,7 +1111,6 @@
     "primary_key": "60",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1122,7 +1121,8 @@
     "source_en": "Custom",
     "review_note": "",
     "new_translation_vi": "Tùy chỉnh",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000923",
@@ -1136,7 +1136,6 @@
     "primary_key": "61",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1147,7 +1146,8 @@
     "source_en": "Anti-Aliasing",
     "review_note": "",
     "new_translation_vi": "Khử răng cưa",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000924",
@@ -1161,7 +1161,6 @@
     "primary_key": "62",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1172,7 +1171,8 @@
     "source_en": "On",
     "review_note": "",
     "new_translation_vi": "Bật",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000925",
@@ -1186,7 +1186,6 @@
     "primary_key": "63",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1197,7 +1196,8 @@
     "source_en": "Off",
     "review_note": "",
     "new_translation_vi": "Tắt",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000926",
@@ -1211,7 +1211,6 @@
     "primary_key": "64",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1222,7 +1221,8 @@
     "source_en": "Custom",
     "review_note": "",
     "new_translation_vi": "Tùy chỉnh",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000927",
@@ -1236,18 +1236,18 @@
     "primary_key": "65",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "AO",
     "review_note": "",
     "new_translation_vi": "AO",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000928",
@@ -1261,7 +1261,6 @@
     "primary_key": "66",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1272,7 +1271,8 @@
     "source_en": "On",
     "review_note": "",
     "new_translation_vi": "Bật",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000929",
@@ -1286,7 +1286,6 @@
     "primary_key": "67",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1297,7 +1296,8 @@
     "source_en": "Off",
     "review_note": "",
     "new_translation_vi": "Tắt",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000930",
@@ -1311,7 +1311,6 @@
     "primary_key": "68",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1322,7 +1321,8 @@
     "source_en": "Custom",
     "review_note": "",
     "new_translation_vi": "Tùy chỉnh",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000931",
@@ -1336,7 +1336,6 @@
     "primary_key": "70",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1347,7 +1346,8 @@
     "source_en": "On",
     "review_note": "",
     "new_translation_vi": "Bật",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000932",
@@ -1361,7 +1361,6 @@
     "primary_key": "71",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1372,7 +1371,8 @@
     "source_en": "Off",
     "review_note": "",
     "new_translation_vi": "Tắt",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000933",
@@ -1386,7 +1386,6 @@
     "primary_key": "72",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1397,7 +1396,8 @@
     "source_en": "Custom",
     "review_note": "",
     "new_translation_vi": "Tùy chỉnh",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000934",
@@ -1411,7 +1411,6 @@
     "primary_key": "74",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1422,7 +1421,8 @@
     "source_en": "On",
     "review_note": "",
     "new_translation_vi": "Bật",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000935",
@@ -1436,7 +1436,6 @@
     "primary_key": "75",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1447,7 +1446,8 @@
     "source_en": "Off",
     "review_note": "",
     "new_translation_vi": "Tắt",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000936",
@@ -1461,7 +1461,6 @@
     "primary_key": "76",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1472,7 +1471,8 @@
     "source_en": "Custom",
     "review_note": "",
     "new_translation_vi": "Tùy chỉnh",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000937",
@@ -1486,7 +1486,6 @@
     "primary_key": "78",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1497,7 +1496,8 @@
     "source_en": "On",
     "review_note": "",
     "new_translation_vi": "Bật",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000938",
@@ -1511,7 +1511,6 @@
     "primary_key": "79",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1522,7 +1521,8 @@
     "source_en": "Off",
     "review_note": "",
     "new_translation_vi": "Tắt",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000939",
@@ -1536,7 +1536,6 @@
     "primary_key": "80",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1546,8 +1545,9 @@
     "ai_reason": "",
     "source_en": "Operate",
     "review_note": "",
-    "new_translation_vi": "Thao Tác",
-    "translator_note": ""
+    "new_translation_vi": "Thao tác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000940",
@@ -1561,7 +1561,6 @@
     "primary_key": "81",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1571,8 +1570,9 @@
     "ai_reason": "",
     "source_en": "Move Forwards",
     "review_note": "",
-    "new_translation_vi": "Tiến",
-    "translator_note": ""
+    "new_translation_vi": "Tiến về phía trước",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000941",
@@ -1586,18 +1586,18 @@
     "primary_key": "82",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "W",
     "review_note": "",
     "new_translation_vi": "W",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000942",
@@ -1611,7 +1611,6 @@
     "primary_key": "83",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1621,8 +1620,9 @@
     "ai_reason": "",
     "source_en": "Operate",
     "review_note": "",
-    "new_translation_vi": "Thao Tác",
-    "translator_note": ""
+    "new_translation_vi": "Thao tác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000943",
@@ -1636,7 +1636,6 @@
     "primary_key": "84",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1646,8 +1645,9 @@
     "ai_reason": "",
     "source_en": "Move Backwards",
     "review_note": "",
-    "new_translation_vi": "Lùi",
-    "translator_note": ""
+    "new_translation_vi": "Lùi về phía sau",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000944",
@@ -1661,18 +1661,18 @@
     "primary_key": "85",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "S",
     "review_note": "",
     "new_translation_vi": "S",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000945",
@@ -1686,7 +1686,6 @@
     "primary_key": "86",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1696,8 +1695,9 @@
     "ai_reason": "",
     "source_en": "Operate",
     "review_note": "",
-    "new_translation_vi": "Thao Tác",
-    "translator_note": ""
+    "new_translation_vi": "Thao tác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000946",
@@ -1711,7 +1711,6 @@
     "primary_key": "87",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1721,8 +1720,9 @@
     "ai_reason": "",
     "source_en": "Move Left",
     "review_note": "",
-    "new_translation_vi": "Trái",
-    "translator_note": ""
+    "new_translation_vi": "Di chuyển sang trái",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000947",
@@ -1736,18 +1736,18 @@
     "primary_key": "88",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "A",
     "review_note": "",
     "new_translation_vi": "A",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000948",
@@ -1761,7 +1761,6 @@
     "primary_key": "89",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1771,8 +1770,9 @@
     "ai_reason": "",
     "source_en": "Operate",
     "review_note": "",
-    "new_translation_vi": "Thao Tác",
-    "translator_note": ""
+    "new_translation_vi": "Thao tác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000949",
@@ -1786,7 +1786,6 @@
     "primary_key": "90",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1796,8 +1795,9 @@
     "ai_reason": "",
     "source_en": "Move Right",
     "review_note": "",
-    "new_translation_vi": "Phải",
-    "translator_note": ""
+    "new_translation_vi": "Di chuyển sang phải",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000950",
@@ -1811,18 +1811,18 @@
     "primary_key": "91",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "D",
     "review_note": "",
     "new_translation_vi": "D",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000951",
@@ -1836,7 +1836,6 @@
     "primary_key": "92",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1846,8 +1845,9 @@
     "ai_reason": "",
     "source_en": "Operate",
     "review_note": "",
-    "new_translation_vi": "Thao Tác",
-    "translator_note": ""
+    "new_translation_vi": "Thao tác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000952",
@@ -1861,7 +1861,6 @@
     "primary_key": "93",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1871,8 +1870,9 @@
     "ai_reason": "",
     "source_en": "Toggle Walk/Run",
     "review_note": "",
-    "new_translation_vi": "Bật/Tắt Đi/Bộ",
-    "translator_note": ""
+    "new_translation_vi": "Chuyển đổi Đi bộ/Chạy",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000953",
@@ -1886,7 +1886,6 @@
     "primary_key": "94",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1897,7 +1896,8 @@
     "source_en": "Left Ctrl",
     "review_note": "",
     "new_translation_vi": "Ctrl Trái",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000954",
@@ -1911,7 +1911,6 @@
     "primary_key": "95",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1921,8 +1920,9 @@
     "ai_reason": "",
     "source_en": "Operate",
     "review_note": "",
-    "new_translation_vi": "Thao Tác",
-    "translator_note": ""
+    "new_translation_vi": "Thao tác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000955",
@@ -1936,7 +1936,6 @@
     "primary_key": "96",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1947,7 +1946,8 @@
     "source_en": "Normal Attack",
     "review_note": "",
     "new_translation_vi": "Normal Attack",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000956",
@@ -1961,7 +1961,6 @@
     "primary_key": "97",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1972,7 +1971,8 @@
     "source_en": "Left Mouse Click",
     "review_note": "",
     "new_translation_vi": "Nhấp Chuột Trái",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000957",
@@ -1986,7 +1986,6 @@
     "primary_key": "98",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1996,8 +1995,9 @@
     "ai_reason": "",
     "source_en": "Operate",
     "review_note": "",
-    "new_translation_vi": "Thao Tác",
-    "translator_note": ""
+    "new_translation_vi": "Thao tác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000958",
@@ -2011,7 +2011,6 @@
     "primary_key": "99",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2022,7 +2021,8 @@
     "source_en": "Target Lock-On",
     "review_note": "",
     "new_translation_vi": "Khóa Mục Tiêu",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000959",
@@ -2036,7 +2036,6 @@
     "primary_key": "100",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2046,8 +2045,9 @@
     "ai_reason": "",
     "source_en": "MMB",
     "review_note": "",
-    "new_translation_vi": "Nút Chuột Giữa",
-    "translator_note": ""
+    "new_translation_vi": "MMB",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000960",
@@ -2061,7 +2061,6 @@
     "primary_key": "101",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2071,8 +2070,9 @@
     "ai_reason": "",
     "source_en": "Operate",
     "review_note": "",
-    "new_translation_vi": "Thao Tác",
-    "translator_note": ""
+    "new_translation_vi": "Thao tác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000961",
@@ -2086,7 +2086,6 @@
     "primary_key": "102",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2096,8 +2095,9 @@
     "ai_reason": "",
     "source_en": "Disengage Target Lock-On",
     "review_note": "",
-    "new_translation_vi": "Hủy Khóa Mục tiêu",
-    "translator_note": ""
+    "new_translation_vi": "Hủy Khóa Mục Tiêu",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000962",
@@ -2111,7 +2111,6 @@
     "primary_key": "103",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2121,8 +2120,9 @@
     "ai_reason": "",
     "source_en": "Hold MMB",
     "review_note": "",
-    "new_translation_vi": "Giữ nút chuột giữa",
-    "translator_note": ""
+    "new_translation_vi": "Giữ Chuột Giữa (MMB = Middle Mouse Button)",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000963",
@@ -2136,7 +2136,6 @@
     "primary_key": "104",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2146,8 +2145,9 @@
     "ai_reason": "",
     "source_en": "Operate",
     "review_note": "",
-    "new_translation_vi": "Thao Tác",
-    "translator_note": ""
+    "new_translation_vi": "Thao tác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000964",
@@ -2161,7 +2161,6 @@
     "primary_key": "105",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2172,7 +2171,8 @@
     "source_en": "Resonance Skill",
     "review_note": "",
     "new_translation_vi": "Resonance Skill",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000965",
@@ -2186,18 +2186,18 @@
     "primary_key": "106",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "E",
     "review_note": "",
     "new_translation_vi": "E",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000966",
@@ -2211,7 +2211,6 @@
     "primary_key": "107",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2221,8 +2220,9 @@
     "ai_reason": "",
     "source_en": "Operate",
     "review_note": "",
-    "new_translation_vi": "Thao Tác",
-    "translator_note": ""
+    "new_translation_vi": "Thao tác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000967",
@@ -2236,7 +2236,6 @@
     "primary_key": "108",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2247,7 +2246,8 @@
     "source_en": "Resonance Liberation",
     "review_note": "",
     "new_translation_vi": "Resonance Liberation",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000968",
@@ -2261,18 +2261,18 @@
     "primary_key": "109",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "R",
     "review_note": "",
     "new_translation_vi": "R",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000969",
@@ -2286,7 +2286,6 @@
     "primary_key": "110",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2296,8 +2295,9 @@
     "ai_reason": "",
     "source_en": "Operate",
     "review_note": "",
-    "new_translation_vi": "Thao Tác",
-    "translator_note": ""
+    "new_translation_vi": "Thao tác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000970",
@@ -2311,7 +2311,6 @@
     "primary_key": "111",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2321,8 +2320,9 @@
     "ai_reason": "",
     "source_en": "Sprint/Evade",
     "review_note": "",
-    "new_translation_vi": "Tăng Tốc/Tránh Né",
-    "translator_note": ""
+    "new_translation_vi": "Chạy Nhanh/Né",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000971",
@@ -2336,7 +2336,6 @@
     "primary_key": "112",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2347,7 +2346,8 @@
     "source_en": "Left Shift",
     "review_note": "",
     "new_translation_vi": "Shift Trái",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000972",
@@ -2361,7 +2361,6 @@
     "primary_key": "113",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2371,8 +2370,9 @@
     "ai_reason": "",
     "source_en": "Operate",
     "review_note": "",
-    "new_translation_vi": "Thao Tác",
-    "translator_note": ""
+    "new_translation_vi": "Thao tác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000973",
@@ -2386,7 +2386,6 @@
     "primary_key": "114",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2396,8 +2395,9 @@
     "ai_reason": "",
     "source_en": "Sprint/Evade",
     "review_note": "",
-    "new_translation_vi": "Tăng Tốc/Tránh Né",
-    "translator_note": ""
+    "new_translation_vi": "Chạy Nhanh/Né",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000974",
@@ -2411,7 +2411,6 @@
     "primary_key": "115",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2422,7 +2421,8 @@
     "source_en": "Right Mouse Click",
     "review_note": "",
     "new_translation_vi": "Nhấp Chuột Phải",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000975",
@@ -2436,7 +2436,6 @@
     "primary_key": "116",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2446,8 +2445,9 @@
     "ai_reason": "",
     "source_en": "Operate",
     "review_note": "",
-    "new_translation_vi": "Thao Tác",
-    "translator_note": ""
+    "new_translation_vi": "Thao tác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000976",
@@ -2461,7 +2461,6 @@
     "primary_key": "117",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2471,8 +2470,9 @@
     "ai_reason": "",
     "source_en": "Exploration Tools",
     "review_note": "",
-    "new_translation_vi": "Dụng Cụ Thám Hiểm",
-    "translator_note": ""
+    "new_translation_vi": "Exploration Tools",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000977",
@@ -2486,18 +2486,18 @@
     "primary_key": "118",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "T",
     "review_note": "",
     "new_translation_vi": "T",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000978",
@@ -2511,7 +2511,6 @@
     "primary_key": "119",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2521,8 +2520,9 @@
     "ai_reason": "",
     "source_en": "Operate",
     "review_note": "",
-    "new_translation_vi": "Thao Tác",
-    "translator_note": ""
+    "new_translation_vi": "Thao tác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000979",
@@ -2536,7 +2536,6 @@
     "primary_key": "120",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2546,8 +2545,9 @@
     "ai_reason": "",
     "source_en": "Echo Ability",
     "review_note": "",
-    "new_translation_vi": "Kỹ Năng Echo",
-    "translator_note": ""
+    "new_translation_vi": "Kỹ năng Echo (Keep \"Echo\")",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000980",
@@ -2561,18 +2561,18 @@
     "primary_key": "121",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Q",
     "review_note": "",
     "new_translation_vi": "Q",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000981",
@@ -2586,7 +2586,6 @@
     "primary_key": "122",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2596,8 +2595,9 @@
     "ai_reason": "",
     "source_en": "Operate",
     "review_note": "",
-    "new_translation_vi": "Thao Tác",
-    "translator_note": ""
+    "new_translation_vi": "Thao tác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000982",
@@ -2611,7 +2611,6 @@
     "primary_key": "123",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2621,8 +2620,9 @@
     "ai_reason": "",
     "source_en": "Toggle Aiming Mode",
     "review_note": "",
-    "new_translation_vi": "Bật/Tắt Chế Độ Ngắm",
-    "translator_note": ""
+    "new_translation_vi": "Chuyển đổi Chế độ Ngắm",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000983",
@@ -2636,18 +2636,18 @@
     "primary_key": "124",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "G",
     "review_note": "",
     "new_translation_vi": "G",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000984",
@@ -2661,7 +2661,6 @@
     "primary_key": "125",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2671,8 +2670,9 @@
     "ai_reason": "",
     "source_en": "Operate",
     "review_note": "",
-    "new_translation_vi": "Thao Tác",
-    "translator_note": ""
+    "new_translation_vi": "Thao tác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000985",
@@ -2686,7 +2686,6 @@
     "primary_key": "126",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2697,7 +2696,8 @@
     "source_en": "Jump",
     "review_note": "",
     "new_translation_vi": "Nhảy",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000986",
@@ -2711,7 +2711,6 @@
     "primary_key": "127",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2721,8 +2720,9 @@
     "ai_reason": "",
     "source_en": "Space",
     "review_note": "",
-    "new_translation_vi": "Không Gian",
-    "translator_note": ""
+    "new_translation_vi": "Space",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000987",
@@ -2736,7 +2736,6 @@
     "primary_key": "128",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2746,8 +2745,9 @@
     "ai_reason": "",
     "source_en": "Operate",
     "review_note": "",
-    "new_translation_vi": "Thao Tác",
-    "translator_note": ""
+    "new_translation_vi": "Thao tác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000988",
@@ -2761,7 +2761,6 @@
     "primary_key": "129",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2771,8 +2770,9 @@
     "ai_reason": "",
     "source_en": "Drop",
     "review_note": "",
-    "new_translation_vi": "Rơi",
-    "translator_note": ""
+    "new_translation_vi": "Thả",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000989",
@@ -2786,18 +2786,18 @@
     "primary_key": "130",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "X",
     "review_note": "",
     "new_translation_vi": "X",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000990",
@@ -2811,7 +2811,6 @@
     "primary_key": "131",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2821,8 +2820,9 @@
     "ai_reason": "",
     "source_en": "Operate",
     "review_note": "",
-    "new_translation_vi": "Thao Tác",
-    "translator_note": ""
+    "new_translation_vi": "Thao tác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000991",
@@ -2836,7 +2836,6 @@
     "primary_key": "132",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2846,8 +2845,9 @@
     "ai_reason": "",
     "source_en": "Side Sprint",
     "review_note": "",
-    "new_translation_vi": "Trượt Nhanh",
-    "translator_note": ""
+    "new_translation_vi": "Lướt ngang",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000992",
@@ -2861,7 +2861,6 @@
     "primary_key": "133",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2871,8 +2870,9 @@
     "ai_reason": "",
     "source_en": "Right Mouse Click",
     "review_note": "",
-    "new_translation_vi": "Nhấp Chuột Phải",
-    "translator_note": ""
+    "new_translation_vi": "Chuột phải",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000993",
@@ -2886,7 +2886,6 @@
     "primary_key": "134",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2896,8 +2895,9 @@
     "ai_reason": "",
     "source_en": "Operate",
     "review_note": "",
-    "new_translation_vi": "Thao Tác",
-    "translator_note": ""
+    "new_translation_vi": "Thao tác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000994",
@@ -2911,7 +2911,6 @@
     "primary_key": "135",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2922,7 +2921,8 @@
     "source_en": "Collect/Interact",
     "review_note": "",
     "new_translation_vi": "Thu thập/Tương tác",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000995",
@@ -2936,18 +2936,18 @@
     "primary_key": "136",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "F",
     "review_note": "",
     "new_translation_vi": "F",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000996",
@@ -2961,7 +2961,6 @@
     "primary_key": "137",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2971,8 +2970,9 @@
     "ai_reason": "",
     "source_en": "Operate",
     "review_note": "",
-    "new_translation_vi": "Thao Tác",
-    "translator_note": ""
+    "new_translation_vi": "Thao tác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000997",
@@ -2986,7 +2986,6 @@
     "primary_key": "138",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2996,8 +2995,9 @@
     "ai_reason": "",
     "source_en": "Switch to Team Member 1",
     "review_note": "",
-    "new_translation_vi": "Đổi sang Thành viên 1",
-    "translator_note": ""
+    "new_translation_vi": "Chuyển sang Thành viên Đội 1",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000998",
@@ -3011,18 +3011,18 @@
     "primary_key": "139",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "1",
     "review_note": "",
     "new_translation_vi": "1",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000999",
@@ -3036,7 +3036,6 @@
     "primary_key": "140",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3046,8 +3045,9 @@
     "ai_reason": "",
     "source_en": "Operate",
     "review_note": "",
-    "new_translation_vi": "Thao Tác",
-    "translator_note": ""
+    "new_translation_vi": "Thao tác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001000",
@@ -3061,7 +3061,6 @@
     "primary_key": "141",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3071,8 +3070,9 @@
     "ai_reason": "",
     "source_en": "Switch to Team Member 2",
     "review_note": "",
-    "new_translation_vi": "Đổi sang Thành viên 2",
-    "translator_note": ""
+    "new_translation_vi": "Chuyển sang Thành viên Đội 2",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001001",
@@ -3086,18 +3086,18 @@
     "primary_key": "142",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "2",
     "review_note": "",
     "new_translation_vi": "2",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0001002",
@@ -3111,7 +3111,6 @@
     "primary_key": "143",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3121,8 +3120,9 @@
     "ai_reason": "",
     "source_en": "Operate",
     "review_note": "",
-    "new_translation_vi": "Thao Tác",
-    "translator_note": ""
+    "new_translation_vi": "Thao tác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001003",
@@ -3136,7 +3136,6 @@
     "primary_key": "144",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3146,8 +3145,9 @@
     "ai_reason": "",
     "source_en": "Switch to Team Member 3",
     "review_note": "",
-    "new_translation_vi": "Đổi sang Thành viên 3",
-    "translator_note": ""
+    "new_translation_vi": "Chuyển sang Thành viên Đội 3",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001004",
@@ -3161,18 +3161,18 @@
     "primary_key": "145",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "3",
     "review_note": "",
     "new_translation_vi": "3",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0001005",
@@ -3186,18 +3186,18 @@
     "primary_key": "146",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Menu",
     "review_note": "",
     "new_translation_vi": "Menu",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001006",
@@ -3211,7 +3211,6 @@
     "primary_key": "147",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3222,7 +3221,8 @@
     "source_en": "Mail",
     "review_note": "",
     "new_translation_vi": "Thư",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001007",
@@ -3236,7 +3236,6 @@
     "primary_key": "148",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3246,8 +3245,9 @@
     "ai_reason": "",
     "source_en": "N",
     "review_note": "",
-    "new_translation_vi": "Không",
-    "translator_note": ""
+    "new_translation_vi": "N",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0001008",
@@ -3261,18 +3261,18 @@
     "primary_key": "149",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Menu",
     "review_note": "",
     "new_translation_vi": "Menu",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001009",
@@ -3286,7 +3286,6 @@
     "primary_key": "150",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3296,8 +3295,9 @@
     "ai_reason": "",
     "source_en": "Map",
     "review_note": "",
-    "new_translation_vi": "Bản Đồ",
-    "translator_note": ""
+    "new_translation_vi": "Bản đồ",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001010",
@@ -3311,18 +3311,18 @@
     "primary_key": "151",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "M",
     "review_note": "",
     "new_translation_vi": "M",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0001011",
@@ -3336,18 +3336,18 @@
     "primary_key": "152",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Menu",
     "review_note": "",
     "new_translation_vi": "Menu",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001012",
@@ -3361,7 +3361,6 @@
     "primary_key": "153",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3371,8 +3370,9 @@
     "ai_reason": "",
     "source_en": "Open Task Terminal",
     "review_note": "",
-    "new_translation_vi": "Mở Thiết Bị Nhiệm Vụ",
-    "translator_note": ""
+    "new_translation_vi": "Mở Thiết bị Nhiệm vụ",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001013",
@@ -3386,18 +3386,18 @@
     "primary_key": "154",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "J",
     "review_note": "",
     "new_translation_vi": "J",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0001014",
@@ -3411,18 +3411,18 @@
     "primary_key": "155",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Menu",
     "review_note": "",
     "new_translation_vi": "Menu",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001015",
@@ -3436,7 +3436,6 @@
     "primary_key": "156",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3447,7 +3446,8 @@
     "source_en": "Open Menu",
     "review_note": "",
     "new_translation_vi": "Mở Menu",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001016",
@@ -3461,18 +3461,18 @@
     "primary_key": "157",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Esc",
     "review_note": "",
     "new_translation_vi": "Esc",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001017",
@@ -3486,18 +3486,18 @@
     "primary_key": "158",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Menu",
     "review_note": "",
     "new_translation_vi": "Menu",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001018",
@@ -3511,7 +3511,6 @@
     "primary_key": "159",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3521,8 +3520,9 @@
     "ai_reason": "",
     "source_en": "Open Team Setup Screen",
     "review_note": "",
-    "new_translation_vi": "Mở Màn Hình Đội Hình",
-    "translator_note": ""
+    "new_translation_vi": "Mở Màn hình Thiết lập Đội",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001019",
@@ -3536,18 +3536,18 @@
     "primary_key": "160",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "L",
     "review_note": "",
     "new_translation_vi": "L",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0001020",
@@ -3561,18 +3561,18 @@
     "primary_key": "161",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Menu",
     "review_note": "",
     "new_translation_vi": "Menu",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001021",
@@ -3586,7 +3586,6 @@
     "primary_key": "162",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3596,8 +3595,9 @@
     "ai_reason": "",
     "source_en": "Backpack",
     "review_note": "",
-    "new_translation_vi": "Hành trang",
-    "translator_note": ""
+    "new_translation_vi": "Backpack $\\rightarrow$ Túi đồ (or Kho đồ, but Backpack is usually Túi đồ/Hành trang. Given \"Inventory\" is \"Kho đồ\", \"Backpack\" is \"Túi đồ\").",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001022",
@@ -3611,18 +3611,18 @@
     "primary_key": "163",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "B",
     "review_note": "",
     "new_translation_vi": "B",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0001023",
@@ -3636,18 +3636,18 @@
     "primary_key": "164",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Menu",
     "review_note": "",
-    "new_translation_vi": "Menu",
-    "translator_note": ""
+    "new_translation_vi": "Menu $\\rightarrow$ Menu (Standard game term).",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001024",
@@ -3661,7 +3661,6 @@
     "primary_key": "165",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3671,8 +3670,9 @@
     "ai_reason": "",
     "source_en": "Open Resonator Interface",
     "review_note": "",
-    "new_translation_vi": "Mở Giao Diện Resonator",
-    "translator_note": ""
+    "new_translation_vi": "Open Resonator Interface $\\rightarrow$ Mở Giao diện Resonator (Keep Resonator).",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001025",
@@ -3686,18 +3686,18 @@
     "primary_key": "166",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "C",
     "review_note": "",
     "new_translation_vi": "C",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0001026",
@@ -3711,18 +3711,18 @@
     "primary_key": "167",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Menu",
     "review_note": "",
-    "new_translation_vi": "Menu",
-    "translator_note": ""
+    "new_translation_vi": "Menu $\\rightarrow$ Menu.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001027",
@@ -3736,7 +3736,6 @@
     "primary_key": "168",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3746,8 +3745,9 @@
     "ai_reason": "",
     "source_en": "Open Exploration Utilities Wheel",
     "review_note": "",
-    "new_translation_vi": "Mở Bánh Xe Tiện Ích Thám Hiểm",
-    "translator_note": ""
+    "new_translation_vi": "Open Exploration Utilities Wheel $\\rightarrow$ Mở Vòng Công cụ Khám phá.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001028",
@@ -3761,18 +3761,18 @@
     "primary_key": "169",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Tab",
     "review_note": "",
-    "new_translation_vi": "Tab",
-    "translator_note": ""
+    "new_translation_vi": "Tab $\\rightarrow$ Tab.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001029",
@@ -3786,18 +3786,18 @@
     "primary_key": "170",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Menu",
     "review_note": "",
-    "new_translation_vi": "Menu",
-    "translator_note": ""
+    "new_translation_vi": "Menu $\\rightarrow$ Menu.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001030",
@@ -3811,7 +3811,6 @@
     "primary_key": "171",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3821,8 +3820,9 @@
     "ai_reason": "",
     "source_en": "Configure Exploration Utilities",
     "review_note": "",
-    "new_translation_vi": "Cài đặt Tiện ích Khám phá",
-    "translator_note": ""
+    "new_translation_vi": "Configure Exploration Utilities $\\rightarrow$ Cấu hình Công cụ Khám phá.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001031",
@@ -3836,7 +3836,6 @@
     "primary_key": "172",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3846,8 +3845,9 @@
     "ai_reason": "",
     "source_en": "P",
     "review_note": "",
-    "new_translation_vi": "Tạm Dừng",
-    "translator_note": ""
+    "new_translation_vi": "P",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0001032",
@@ -3861,7 +3861,6 @@
     "primary_key": "173",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3871,8 +3870,9 @@
     "ai_reason": "",
     "source_en": "In-Game Text Language",
     "review_note": "",
-    "new_translation_vi": "Ngôn ngữ văn bản trong game",
-    "translator_note": ""
+    "new_translation_vi": "In-Game Text Language $\\rightarrow$ Ngôn ngữ Văn bản trong Game.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001033",
@@ -3886,7 +3886,6 @@
     "primary_key": "174",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3896,8 +3895,9 @@
     "ai_reason": "",
     "source_en": "Language Selection",
     "review_note": "",
-    "new_translation_vi": "Chọn Ngôn Ngữ",
-    "translator_note": ""
+    "new_translation_vi": "Language Selection $\\rightarrow$ Chọn Ngôn ngữ.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001034",
@@ -3911,7 +3911,6 @@
     "primary_key": "175",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3921,8 +3920,9 @@
     "ai_reason": "",
     "source_en": "简体中文",
     "review_note": "",
-    "new_translation_vi": "Tiếng Trung Giản Thể",
-    "translator_note": ""
+    "new_translation_vi": "简体中文",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0001035",
@@ -3936,7 +3936,6 @@
     "primary_key": "176",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3946,8 +3945,9 @@
     "ai_reason": "",
     "source_en": "English",
     "review_note": "",
-    "new_translation_vi": "Tiếng Anh",
-    "translator_note": ""
+    "new_translation_vi": "English $\\rightarrow$ Tiếng Anh.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001036",
@@ -3961,7 +3961,6 @@
     "primary_key": "177",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3971,8 +3970,9 @@
     "ai_reason": "",
     "source_en": "日本語",
     "review_note": "",
-    "new_translation_vi": "Tiếng Nhật",
-    "translator_note": ""
+    "new_translation_vi": "日本語",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0001037",
@@ -3986,7 +3986,6 @@
     "primary_key": "178",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3996,8 +3995,9 @@
     "ai_reason": "",
     "source_en": "Voice-Over Language",
     "review_note": "",
-    "new_translation_vi": "Ngôn Ngữ Lồng Tiếng",
-    "translator_note": ""
+    "new_translation_vi": "Voice-Over Language $\\rightarrow$ Ngôn ngữ Lồng tiếng.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001038",
@@ -4011,7 +4011,6 @@
     "primary_key": "179",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4021,8 +4020,9 @@
     "ai_reason": "",
     "source_en": "Voice-Over Language Selection",
     "review_note": "",
-    "new_translation_vi": "Lựa Chọn Ngôn Ngữ Lồng Tiếng",
-    "translator_note": ""
+    "new_translation_vi": "Voice-Over Language Selection $\\rightarrow$ Chọn Ngôn ngữ Lồng tiếng.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001039",
@@ -4036,7 +4036,6 @@
     "primary_key": "180",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4046,8 +4045,9 @@
     "ai_reason": "",
     "source_en": "普通话",
     "review_note": "",
-    "new_translation_vi": "Tiếng Trung Phổ Thông",
-    "translator_note": ""
+    "new_translation_vi": "普通话",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0001040",
@@ -4061,7 +4061,6 @@
     "primary_key": "181",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4071,8 +4070,9 @@
     "ai_reason": "",
     "source_en": "English",
     "review_note": "",
-    "new_translation_vi": "Tiếng Anh",
-    "translator_note": ""
+    "new_translation_vi": "English $\\rightarrow$ Tiếng Anh.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001041",
@@ -4086,7 +4086,6 @@
     "primary_key": "182",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4096,8 +4095,9 @@
     "ai_reason": "",
     "source_en": "日本語",
     "review_note": "",
-    "new_translation_vi": "Tiếng Nhật",
-    "translator_note": ""
+    "new_translation_vi": "日本語",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0001042",
@@ -4111,7 +4111,6 @@
     "primary_key": "183",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4121,8 +4120,9 @@
     "ai_reason": "",
     "source_en": "Voice-Over Language",
     "review_note": "",
-    "new_translation_vi": "Ngôn Ngữ Lồng Tiếng",
-    "translator_note": ""
+    "new_translation_vi": "Voice-Over Language $\\rightarrow$ Ngôn ngữ Lồng tiếng.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001043",
@@ -4136,7 +4136,6 @@
     "primary_key": "184",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4146,8 +4145,9 @@
     "ai_reason": "",
     "source_en": "Manage Voice-Over Files",
     "review_note": "",
-    "new_translation_vi": "Quản Lý File Lồng Tiếng",
-    "translator_note": ""
+    "new_translation_vi": "Manage Voice-Over Files $\\rightarrow$ Quản lý Tệp Lồng tiếng.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001044",
@@ -4161,7 +4161,6 @@
     "primary_key": "185",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4171,8 +4170,9 @@
     "ai_reason": "",
     "source_en": "普通话",
     "review_note": "",
-    "new_translation_vi": "Tiếng Trung Phổ Thông",
-    "translator_note": ""
+    "new_translation_vi": "普通话",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0001045",
@@ -4186,7 +4186,6 @@
     "primary_key": "186",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4196,8 +4195,9 @@
     "ai_reason": "",
     "source_en": "English",
     "review_note": "",
-    "new_translation_vi": "Tiếng Anh",
-    "translator_note": ""
+    "new_translation_vi": "English $\\rightarrow$ Tiếng Anh.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001046",
@@ -4211,7 +4211,6 @@
     "primary_key": "187",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4221,8 +4220,9 @@
     "ai_reason": "",
     "source_en": "日本語",
     "review_note": "",
-    "new_translation_vi": "Tiếng Nhật",
-    "translator_note": ""
+    "new_translation_vi": "日本語",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0001047",
@@ -4236,7 +4236,6 @@
     "primary_key": "188",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4246,8 +4245,9 @@
     "ai_reason": "",
     "source_en": "Setup",
     "review_note": "",
-    "new_translation_vi": "Thiết Lập",
-    "translator_note": ""
+    "new_translation_vi": "Setup $\\rightarrow$ Thiết lập.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001048",
@@ -4261,7 +4261,6 @@
     "primary_key": "191",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4271,8 +4270,9 @@
     "ai_reason": "",
     "source_en": "Open",
     "review_note": "",
-    "new_translation_vi": "Mở",
-    "translator_note": ""
+    "new_translation_vi": "Open $\\rightarrow$ Mở.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001049",
@@ -4286,7 +4286,6 @@
     "primary_key": "192",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4296,8 +4295,9 @@
     "ai_reason": "",
     "source_en": "Close",
     "review_note": "",
-    "new_translation_vi": "Đóng",
-    "translator_note": ""
+    "new_translation_vi": "Close $\\rightarrow$ Đóng.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001050",
@@ -4311,18 +4311,18 @@
     "primary_key": "193",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Menu",
     "review_note": "",
-    "new_translation_vi": "Menu",
-    "translator_note": ""
+    "new_translation_vi": "Menu $\\rightarrow$ Menu.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001051",
@@ -4336,18 +4336,18 @@
     "primary_key": "196",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Menu",
     "review_note": "",
-    "new_translation_vi": "Menu",
-    "translator_note": ""
+    "new_translation_vi": "Menu $\\rightarrow$ Menu.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001052",
@@ -4361,7 +4361,6 @@
     "primary_key": "199",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4371,8 +4370,9 @@
     "ai_reason": "",
     "source_en": "Audio",
     "review_note": "",
-    "new_translation_vi": "Âm thanh",
-    "translator_note": ""
+    "new_translation_vi": "Audio $\\rightarrow$ Âm thanh.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001053",
@@ -4386,7 +4386,6 @@
     "primary_key": "201",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4396,8 +4395,9 @@
     "ai_reason": "",
     "source_en": "Audio",
     "review_note": "",
-    "new_translation_vi": "Âm thanh",
-    "translator_note": ""
+    "new_translation_vi": "Audio $\\rightarrow$ Âm thanh.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001054",
@@ -4411,7 +4411,6 @@
     "primary_key": "203",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4421,8 +4420,9 @@
     "ai_reason": "",
     "source_en": "Audio",
     "review_note": "",
-    "new_translation_vi": "Âm thanh",
-    "translator_note": ""
+    "new_translation_vi": "Audio $\\rightarrow$ Âm thanh.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001055",
@@ -4436,7 +4436,6 @@
     "primary_key": "208",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4447,7 +4446,8 @@
     "source_en": "High",
     "review_note": "",
     "new_translation_vi": "Cao",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001056",
@@ -4461,7 +4461,6 @@
     "primary_key": "212",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4472,7 +4471,8 @@
     "source_en": "Close",
     "review_note": "",
     "new_translation_vi": "Đóng",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001057",
@@ -4486,7 +4486,6 @@
     "primary_key": "213",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4497,7 +4496,8 @@
     "source_en": "Open",
     "review_note": "",
     "new_translation_vi": "Mở",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001058",
@@ -4511,7 +4511,6 @@
     "primary_key": "216",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4522,7 +4521,8 @@
     "source_en": "Close",
     "review_note": "",
     "new_translation_vi": "Đóng",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001059",
@@ -4536,7 +4536,6 @@
     "primary_key": "217",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4547,7 +4546,8 @@
     "source_en": "Open",
     "review_note": "",
     "new_translation_vi": "Mở",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001060",
@@ -4561,7 +4561,6 @@
     "primary_key": "220",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4572,7 +4571,8 @@
     "source_en": "Close",
     "review_note": "",
     "new_translation_vi": "Đóng",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001061",
@@ -4586,7 +4586,6 @@
     "primary_key": "221",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4597,7 +4596,8 @@
     "source_en": "Open",
     "review_note": "",
     "new_translation_vi": "Mở",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001062",
@@ -4611,7 +4611,6 @@
     "primary_key": "224",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4622,7 +4621,8 @@
     "source_en": "Close",
     "review_note": "",
     "new_translation_vi": "Đóng",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001063",
@@ -4636,7 +4636,6 @@
     "primary_key": "225",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4647,7 +4646,8 @@
     "source_en": "Open",
     "review_note": "",
     "new_translation_vi": "Mở",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001064",
@@ -4661,7 +4661,6 @@
     "primary_key": "236",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4672,7 +4671,8 @@
     "source_en": "Custom",
     "review_note": "",
     "new_translation_vi": "Tùy chỉnh",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001065",
@@ -4686,7 +4686,6 @@
     "primary_key": "238",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4697,7 +4696,8 @@
     "source_en": "Low",
     "review_note": "",
     "new_translation_vi": "Thấp",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001066",
@@ -4711,7 +4711,6 @@
     "primary_key": "239",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4722,7 +4721,8 @@
     "source_en": "High",
     "review_note": "",
     "new_translation_vi": "Cao",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001067",
@@ -4736,7 +4736,6 @@
     "primary_key": "240",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4747,7 +4746,8 @@
     "source_en": "Custom",
     "review_note": "",
     "new_translation_vi": "Tùy chỉnh",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001068",
@@ -4761,7 +4761,6 @@
     "primary_key": "245",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4772,7 +4771,8 @@
     "source_en": "Custom",
     "review_note": "",
     "new_translation_vi": "Tùy chỉnh",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001069",
@@ -4786,7 +4786,6 @@
     "primary_key": "247",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4797,7 +4796,8 @@
     "source_en": "Close",
     "review_note": "",
     "new_translation_vi": "Đóng",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001070",
@@ -4811,7 +4811,6 @@
     "primary_key": "248",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4822,7 +4821,8 @@
     "source_en": "Open",
     "review_note": "",
     "new_translation_vi": "Mở",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001071",
@@ -4836,7 +4836,6 @@
     "primary_key": "249",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4847,7 +4846,8 @@
     "source_en": "Custom",
     "review_note": "",
     "new_translation_vi": "Tùy chỉnh",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001072",
@@ -4861,7 +4861,6 @@
     "primary_key": "251",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4872,7 +4871,8 @@
     "source_en": "Close",
     "review_note": "",
     "new_translation_vi": "Đóng",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001073",
@@ -4886,7 +4886,6 @@
     "primary_key": "252",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4897,7 +4896,8 @@
     "source_en": "Open",
     "review_note": "",
     "new_translation_vi": "Mở",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001074",
@@ -4911,7 +4911,6 @@
     "primary_key": "253",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4922,7 +4921,8 @@
     "source_en": "Custom",
     "review_note": "",
     "new_translation_vi": "Tùy chỉnh",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001075",
@@ -4936,7 +4936,6 @@
     "primary_key": "255",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4947,7 +4946,8 @@
     "source_en": "Close",
     "review_note": "",
     "new_translation_vi": "Đóng",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001076",
@@ -4961,7 +4961,6 @@
     "primary_key": "256",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4972,7 +4971,8 @@
     "source_en": "Open",
     "review_note": "",
     "new_translation_vi": "Mở",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001077",
@@ -4986,7 +4986,6 @@
     "primary_key": "261",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4997,7 +4996,8 @@
     "source_en": "Custom",
     "review_note": "",
     "new_translation_vi": "Tùy chỉnh",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001078",
@@ -5011,7 +5011,6 @@
     "primary_key": "263",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5022,7 +5021,8 @@
     "source_en": "Custom",
     "review_note": "",
     "new_translation_vi": "Tùy chỉnh",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001079",
@@ -5036,7 +5036,6 @@
     "primary_key": "265",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5047,7 +5046,8 @@
     "source_en": "Close",
     "review_note": "",
     "new_translation_vi": "Đóng",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001080",
@@ -5061,7 +5061,6 @@
     "primary_key": "266",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5072,7 +5071,8 @@
     "source_en": "Open",
     "review_note": "",
     "new_translation_vi": "Mở",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001081",
@@ -5086,7 +5086,6 @@
     "primary_key": "268",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5096,8 +5095,9 @@
     "ai_reason": "",
     "source_en": "Operate",
     "review_note": "",
-    "new_translation_vi": "Thao Tác",
-    "translator_note": ""
+    "new_translation_vi": "In UI context, \"Thao tác\" is more common.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001082",
@@ -5111,7 +5111,6 @@
     "primary_key": "270",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5121,8 +5120,9 @@
     "ai_reason": "",
     "source_en": "Setup",
     "review_note": "",
-    "new_translation_vi": "Thiết Lập",
-    "translator_note": ""
+    "new_translation_vi": "Thiết lập",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001083",
@@ -5136,7 +5136,6 @@
     "primary_key": "271",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5147,7 +5146,8 @@
     "source_en": "Custom",
     "review_note": "",
     "new_translation_vi": "Tùy chỉnh",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001084",
@@ -5161,7 +5161,6 @@
     "primary_key": "273",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5172,7 +5171,8 @@
     "source_en": "Close",
     "review_note": "",
     "new_translation_vi": "Đóng",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001085",
@@ -5186,7 +5186,6 @@
     "primary_key": "274",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5197,7 +5196,8 @@
     "source_en": "Open",
     "review_note": "",
     "new_translation_vi": "Mở",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001086",
@@ -5211,7 +5211,6 @@
     "primary_key": "1",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5221,8 +5220,9 @@
     "ai_reason": "",
     "source_en": "Sound",
     "review_note": "",
-    "new_translation_vi": "Âm Thanh",
-    "translator_note": ""
+    "new_translation_vi": "Âm thanh",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001087",
@@ -5236,7 +5236,6 @@
     "primary_key": "2",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5246,8 +5245,9 @@
     "ai_reason": "",
     "source_en": "Graphic",
     "review_note": "",
-    "new_translation_vi": "Đồ Họa",
-    "translator_note": ""
+    "new_translation_vi": "Đồ họa",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001088",
@@ -5261,7 +5261,6 @@
     "primary_key": "3",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5271,8 +5270,9 @@
     "ai_reason": "",
     "source_en": "Keys",
     "review_note": "",
-    "new_translation_vi": "Phím",
-    "translator_note": ""
+    "new_translation_vi": "Phím tắt",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001089",
@@ -5286,7 +5286,6 @@
     "primary_key": "4",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5296,8 +5295,9 @@
     "ai_reason": "",
     "source_en": "Language",
     "review_note": "",
-    "new_translation_vi": "Ngôn Ngữ",
-    "translator_note": ""
+    "new_translation_vi": "Ngôn ngữ",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0001090",
@@ -5311,7 +5311,6 @@
     "primary_key": "5",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5322,6 +5321,7 @@
     "source_en": "Others",
     "review_note": "",
     "new_translation_vi": "Khác",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   }
 ]

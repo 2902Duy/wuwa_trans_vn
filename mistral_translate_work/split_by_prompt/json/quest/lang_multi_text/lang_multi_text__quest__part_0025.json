@@ -46,7 +46,7 @@
     "ai_reason": "",
     "source_en": "Go to Avinoleum",
     "review_note": "",
-    "new_translation_vi": "Đến Avinoleum",
+    "new_translation_vi": "Đi đến Avinoleum",
     "translator_note": ""
   },
   {
@@ -61,7 +61,6 @@
     "primary_key": "Quest_125000125_ChildQuestTip_159_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -71,8 +70,9 @@
     "ai_reason": "",
     "source_en": "Ride the Wingray",
     "review_note": "",
-    "new_translation_vi": "Ride cá đuối Wingray",
-    "translator_note": ""
+    "new_translation_vi": "Đi Wingray",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012004",
@@ -86,7 +86,6 @@
     "primary_key": "Quest_125000125_ChildQuestTip_159_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -96,8 +95,9 @@
     "ai_reason": "",
     "source_en": "Go to Septimont",
     "review_note": "",
-    "new_translation_vi": "Đến Septimont",
-    "translator_note": ""
+    "new_translation_vi": "Đi đến Septimont",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012005",
@@ -121,7 +121,7 @@
     "ai_reason": "",
     "source_en": "(Optional) Ask Septimontians about their opinions of the Sentinel",
     "review_note": "",
-    "new_translation_vi": "Ask người Septimont về ý kiến của họ về Sentinel (tùy chọn)",
+    "new_translation_vi": "(Tùy chọn) Hỏi người dân Septimontians về ý kiến của họ đối với Sentinel",
     "translator_note": ""
   },
   {
@@ -146,7 +146,7 @@
     "ai_reason": "",
     "source_en": "(Optional) Ask Septimontians about their opinions of the Lioness of Glory",
     "review_note": "",
-    "new_translation_vi": "Ask người Septimont về ý kiến của họ về Sư Tử Cái Glory (tùy chọn)",
+    "new_translation_vi": "(Tùy chọn) Hỏi người dân Septimontians về ý kiến của họ đối với Lioness of Glory",
     "translator_note": ""
   },
   {
@@ -171,7 +171,7 @@
     "ai_reason": "",
     "source_en": "Go to the arena",
     "review_note": "",
-    "new_translation_vi": "Đến đấu trường",
+    "new_translation_vi": "Đi đến đấu trường",
     "translator_note": ""
   },
   {
@@ -196,7 +196,7 @@
     "ai_reason": "",
     "source_en": "Go to the location of the experimental unit",
     "review_note": "",
-    "new_translation_vi": "Đến vị trí của đơn vị thử nghiệm",
+    "new_translation_vi": "Đi đến vị trí của đơn vị thử nghiệm",
     "translator_note": ""
   },
   {
@@ -246,7 +246,7 @@
     "ai_reason": "",
     "source_en": "Go to the city",
     "review_note": "",
-    "new_translation_vi": "Đến thành phố",
+    "new_translation_vi": "Đi đến thành phố",
     "translator_note": ""
   },
   {
@@ -271,7 +271,7 @@
     "ai_reason": "",
     "source_en": "Leave the cave",
     "review_note": "",
-    "new_translation_vi": "Rời khỏi hang động",
+    "new_translation_vi": "Leave hang động",
     "translator_note": ""
   },
   {
@@ -286,7 +286,6 @@
     "primary_key": "Quest_125000125_ChildQuestTip_159_30",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -296,8 +295,9 @@
     "ai_reason": "",
     "source_en": "Team up with Lupa",
     "review_note": "",
-    "new_translation_vi": "Hợp tác với Lupa",
-    "translator_note": ""
+    "new_translation_vi": "Lập đội với Lupa",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012013",
@@ -321,7 +321,7 @@
     "ai_reason": "",
     "source_en": "Leave the arena",
     "review_note": "",
-    "new_translation_vi": "Rời khỏi đấu trường",
+    "new_translation_vi": "Leave đấu trường",
     "translator_note": ""
   },
   {
@@ -346,7 +346,7 @@
     "ai_reason": "",
     "source_en": "Enter the lower city",
     "review_note": "",
-    "new_translation_vi": "Vào khu thành phố thấp",
+    "new_translation_vi": "Vào khu vực thành phố phía dưới",
     "translator_note": ""
   },
   {
@@ -371,7 +371,7 @@
     "ai_reason": "",
     "source_en": "Go to the arena",
     "review_note": "",
-    "new_translation_vi": "Đến đấu trường",
+    "new_translation_vi": "Đi đến đấu trường",
     "translator_note": ""
   },
   {
@@ -421,7 +421,7 @@
     "ai_reason": "",
     "source_en": "Win your second special qualifier",
     "review_note": "",
-    "new_translation_vi": "Giành chiến thắng trong vòng loại đặc biệt thứ hai",
+    "new_translation_vi": "Thắng vòng loại đặc biệt thứ hai",
     "translator_note": ""
   },
   {
@@ -471,7 +471,7 @@
     "ai_reason": "",
     "source_en": "Go to the tower",
     "review_note": "",
-    "new_translation_vi": "Đến tháp",
+    "new_translation_vi": "Đi đến tòa tháp",
     "translator_note": ""
   },
   {
@@ -496,7 +496,7 @@
     "ai_reason": "",
     "source_en": "Take the elevator inside the tower",
     "review_note": "",
-    "new_translation_vi": "Đi thang máy vào trong tháp",
+    "new_translation_vi": "Đi thang máy bên trong tòa tháp",
     "translator_note": ""
   },
   {
@@ -521,7 +521,7 @@
     "ai_reason": "",
     "source_en": "Go to the top of the tower",
     "review_note": "",
-    "new_translation_vi": "Lên đỉnh tháp",
+    "new_translation_vi": "Đi lên đỉnh tòa tháp",
     "translator_note": ""
   },
   {
@@ -546,7 +546,7 @@
     "ai_reason": "",
     "source_en": "Go to the body of water",
     "review_note": "",
-    "new_translation_vi": "Đến vùng nước kia",
+    "new_translation_vi": "Đi đến khu vực mặt nước",
     "translator_note": ""
   },
   {
@@ -571,7 +571,7 @@
     "ai_reason": "",
     "source_en": "Enter the upper city",
     "review_note": "",
-    "new_translation_vi": "Vào khu thành phố cao",
+    "new_translation_vi": "Vào khu vực thành phố phía trên",
     "translator_note": ""
   },
   {
@@ -596,7 +596,7 @@
     "ai_reason": "",
     "source_en": "Go to the location where the burst of energy originated",
     "review_note": "",
-    "new_translation_vi": "Đến nơi phát ra luồng năng lượng đó",
+    "new_translation_vi": "Đi đến vị trí nơi luồng năng lượng phát ra",
     "translator_note": ""
   },
   {
@@ -621,7 +621,7 @@
     "ai_reason": "",
     "source_en": "Collapse the experimental unit",
     "review_note": "",
-    "new_translation_vi": "Phá hủy đơn vị thử nghiệm",
+    "new_translation_vi": "Làm sụp đổ đơn vị thử nghiệm",
     "translator_note": ""
   },
   {
@@ -636,7 +636,6 @@
     "primary_key": "Quest_125000125_ChildQuestTip_159_111",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -646,8 +645,9 @@
     "ai_reason": "",
     "source_en": "(Optional) Ride the Wingray",
     "review_note": "",
-    "new_translation_vi": "(Tùy chọn) Ride Wingray",
-    "translator_note": ""
+    "new_translation_vi": "(Tùy chọn) Đi Wingray",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012027",
@@ -721,7 +721,7 @@
     "ai_reason": "",
     "source_en": "Go to the location where the burst of energy originated",
     "review_note": "",
-    "new_translation_vi": "Đến nơi phát ra luồng năng lượng đó",
+    "new_translation_vi": "Đi đến vị trí nơi luồng năng lượng phát ra",
     "translator_note": ""
   },
   {
@@ -746,7 +746,7 @@
     "ai_reason": "",
     "source_en": "Go to the location where the burst of energy originated",
     "review_note": "",
-    "new_translation_vi": "Đến nơi phát ra luồng năng lượng đó",
+    "new_translation_vi": "Đi đến vị trí nơi luồng năng lượng phát ra",
     "translator_note": ""
   },
   {
@@ -771,7 +771,7 @@
     "ai_reason": "",
     "source_en": "Go to the location where the burst of energy originated",
     "review_note": "",
-    "new_translation_vi": "Đến nơi phát ra luồng năng lượng đó",
+    "new_translation_vi": "Đi đến vị trí nơi luồng năng lượng phát ra",
     "translator_note": ""
   },
   {
@@ -796,7 +796,7 @@
     "ai_reason": "",
     "source_en": "Go to the location where the burst of energy originated",
     "review_note": "",
-    "new_translation_vi": "Đến nơi phát ra luồng năng lượng đó",
+    "new_translation_vi": "Đi đến vị trí nơi luồng năng lượng phát ra",
     "translator_note": ""
   },
   {
@@ -811,7 +811,6 @@
     "primary_key": "Quest_125000125_ChildQuestTip_159_140",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -821,8 +820,9 @@
     "ai_reason": "",
     "source_en": "Ride the Wingray",
     "review_note": "",
-    "new_translation_vi": "Ride cá đuối Wingray",
-    "translator_note": ""
+    "new_translation_vi": "Đi Wingray",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012034",
@@ -871,7 +871,7 @@
     "ai_reason": "",
     "source_en": "Chat",
     "review_note": "",
-    "new_translation_vi": "Chat",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -896,7 +896,7 @@
     "ai_reason": "",
     "source_en": "Chat",
     "review_note": "",
-    "new_translation_vi": "Chat",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -963,15 +963,15 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Vulcan Mining",
     "review_note": "",
-    "new_translation_vi": "Vulcan Mining",
+    "new_translation_vi": "Khai thác Vulcan",
     "translator_note": ""
   },
   {
@@ -996,7 +996,7 @@
     "ai_reason": "",
     "source_en": "The Maiden left the tower without saying goodbye. Follow her trail to the land of glory.",
     "review_note": "",
-    "new_translation_vi": "Thánh Nữ đã rời khỏi tháp mà không nói lời từ biệt. Hãy lần theo dấu vết của nàng đến vùng đất vinh quang.",
+    "new_translation_vi": "Thiếu nữ đã rời khỏi tòa tháp mà không nói lời từ biệt. Hãy lần theo dấu vết của cô ấy đến vùng đất vinh quang.",
     "translator_note": ""
   },
   {
@@ -1021,7 +1021,7 @@
     "ai_reason": "",
     "source_en": "Shadow of Glory",
     "review_note": "",
-    "new_translation_vi": "Shadow Glory",
+    "new_translation_vi": "Bóng tối Vinh quang",
     "translator_note": ""
   },
   {
@@ -1071,7 +1071,7 @@
     "ai_reason": "",
     "source_en": "(Optional) Ask Septimontians about their opinions of the Sentinel",
     "review_note": "",
-    "new_translation_vi": "Ask người Septimont về ý kiến của họ về Sentinel (tùy chọn)",
+    "new_translation_vi": "(Tùy chọn) Hỏi người dân Septimontians về ý kiến của họ đối với Sentinel",
     "translator_note": ""
   },
   {
@@ -1096,7 +1096,7 @@
     "ai_reason": "",
     "source_en": "(Optional) Ask Septimontians about their opinions of the Lioness of Glory",
     "review_note": "",
-    "new_translation_vi": "Ask người Septimont về ý kiến của họ về Sư Tử Cái Glory (tùy chọn)",
+    "new_translation_vi": "(Tùy chọn) Hỏi người dân Septimontians về ý kiến của họ đối với Lioness of Glory",
     "translator_note": ""
   },
   {
@@ -1171,7 +1171,7 @@
     "ai_reason": "",
     "source_en": "Get some rest",
     "review_note": "",
-    "new_translation_vi": "Nghỉ ngơi đi",
+    "new_translation_vi": "Nghỉ ngơi một chút",
     "translator_note": ""
   },
   {
@@ -1196,7 +1196,7 @@
     "ai_reason": "",
     "source_en": "Opening of the semi-final",
     "review_note": "",
-    "new_translation_vi": "Khai mạc trận bán kết",
+    "new_translation_vi": "Khai mạc bán kết",
     "translator_note": ""
   },
   {
@@ -1221,7 +1221,7 @@
     "ai_reason": "",
     "source_en": "Win the semi-final",
     "review_note": "",
-    "new_translation_vi": "Giành chiến thắng trong trận bán kết",
+    "new_translation_vi": "Thắng trận bán kết",
     "translator_note": ""
   },
   {
@@ -1261,7 +1261,6 @@
     "primary_key": "Quest_125000126_ChildQuestTip_125_8",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1271,8 +1270,9 @@
     "ai_reason": "",
     "source_en": "Iuno the Priestess",
     "review_note": "",
-    "new_translation_vi": "Iuno the Priestess",
-    "translator_note": ""
+    "new_translation_vi": "Iuno Nữ tư tế",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012052",
@@ -1346,7 +1346,7 @@
     "ai_reason": "",
     "source_en": "Find a quiet spot to ponder on the situation",
     "review_note": "",
-    "new_translation_vi": "Tìm một chỗ yên tĩnh để suy nghĩ về tình hình",
+    "new_translation_vi": "Tìm một nơi yên tĩnh để suy ngẫm về tình hình",
     "translator_note": ""
   },
   {
@@ -1396,7 +1396,7 @@
     "ai_reason": "",
     "source_en": "Use the Copper Mirror of Truth",
     "review_note": "",
-    "new_translation_vi": "Dùng Đồng Gương Chân Thực",
+    "new_translation_vi": "Sử dụng Copper Mirror of Truth",
     "translator_note": ""
   },
   {
@@ -1421,7 +1421,7 @@
     "ai_reason": "",
     "source_en": "Use the Copper Mirror of Truth",
     "review_note": "",
-    "new_translation_vi": "Dùng Đồng Gương Chân Thực",
+    "new_translation_vi": "Sử dụng Copper Mirror of Truth",
     "translator_note": ""
   },
   {
@@ -1446,7 +1446,7 @@
     "ai_reason": "",
     "source_en": "Use the Copper Mirror of Truth",
     "review_note": "",
-    "new_translation_vi": "Dùng Đồng Gương Chân Thực",
+    "new_translation_vi": "Sử dụng Copper Mirror of Truth",
     "translator_note": ""
   },
   {
@@ -1471,7 +1471,7 @@
     "ai_reason": "",
     "source_en": "Overlapping shadows",
     "review_note": "",
-    "new_translation_vi": "Bóng đổ chồng chất",
+    "new_translation_vi": "Những cái bóng chồng chéo",
     "translator_note": ""
   },
   {
@@ -1496,7 +1496,7 @@
     "ai_reason": "",
     "source_en": "Opening of the final",
     "review_note": "",
-    "new_translation_vi": "Khai mạc trận chung kết",
+    "new_translation_vi": "Khai mạc chung kết",
     "translator_note": ""
   },
   {
@@ -1546,7 +1546,7 @@
     "ai_reason": "",
     "source_en": "Black Glory",
     "review_note": "",
-    "new_translation_vi": "Glory Tối",
+    "new_translation_vi": "Black Glory",
     "translator_note": ""
   },
   {
@@ -1596,7 +1596,7 @@
     "ai_reason": "",
     "source_en": "Fight side by side",
     "review_note": "",
-    "new_translation_vi": "Chiến đấu bên cạnh nhau",
+    "new_translation_vi": "Chiến đấu sát cánh",
     "translator_note": ""
   },
   {
@@ -1646,7 +1646,7 @@
     "ai_reason": "",
     "source_en": "Defeat all enemies",
     "review_note": "",
-    "new_translation_vi": "Đánh bại tất cả kẻ địch",
+    "new_translation_vi": "Tiêu diệt tất cả kẻ địch",
     "translator_note": ""
   },
   {
@@ -1661,7 +1661,6 @@
     "primary_key": "Quest_125000126_ChildQuestTip_125_43",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1672,7 +1671,8 @@
     "source_en": "Go to the Leonidas Hotel",
     "review_note": "",
     "new_translation_vi": "Đến khách sạn Leonidas",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012068",
@@ -1696,7 +1696,7 @@
     "ai_reason": "",
     "source_en": "Leave the hotel room and go to the Colosseum",
     "review_note": "",
-    "new_translation_vi": "Leave the hotel room và đến Colosseum",
+    "new_translation_vi": "Leave phòng khách sạn và đến Colosseum",
     "translator_note": ""
   },
   {
@@ -1721,7 +1721,7 @@
     "ai_reason": "",
     "source_en": "Defeat Beasts Beneath",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Beasts Beneath",
+    "new_translation_vi": "Tiêu diệt Beasts Beneath",
     "translator_note": ""
   },
   {
@@ -1746,7 +1746,7 @@
     "ai_reason": "",
     "source_en": "Leave the hotel room",
     "review_note": "",
-    "new_translation_vi": "Rời khỏi phòng khách sạn",
+    "new_translation_vi": "Leave phòng khách sạn",
     "translator_note": ""
   },
   {
@@ -1921,7 +1921,7 @@
     "ai_reason": "",
     "source_en": "Watch what the Copper Mirror reveals",
     "review_note": "",
-    "new_translation_vi": "Xem Đồng Gương tiết lộ điều gì",
+    "new_translation_vi": "Xem những gì Copper Mirror tiết lộ",
     "translator_note": ""
   },
   {
@@ -1946,7 +1946,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Bough of Legions",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Bough of Legions",
+    "new_translation_vi": "Tiêu diệt Bough of Legions",
     "translator_note": ""
   },
   {
@@ -1971,7 +1971,7 @@
     "ai_reason": "",
     "source_en": "Watch what the Copper Mirror reveals",
     "review_note": "",
-    "new_translation_vi": "Xem Đồng Gương tiết lộ điều gì",
+    "new_translation_vi": "Xem những gì Copper Mirror tiết lộ",
     "translator_note": ""
   },
   {
@@ -1996,7 +1996,7 @@
     "ai_reason": "",
     "source_en": "Locate the ringing sound",
     "review_note": "",
-    "new_translation_vi": "Xác định vị trí âm thanh reo",
+    "new_translation_vi": "Tìm vị trí phát ra âm thanh rung chuông",
     "translator_note": ""
   },
   {
@@ -2021,7 +2021,7 @@
     "ai_reason": "",
     "source_en": "Locate the ringing sound",
     "review_note": "",
-    "new_translation_vi": "Xác định vị trí âm thanh reo",
+    "new_translation_vi": "Tìm vị trí phát ra âm thanh rung chuông",
     "translator_note": ""
   },
   {
@@ -2046,7 +2046,7 @@
     "ai_reason": "",
     "source_en": "Locate the ringing sound",
     "review_note": "",
-    "new_translation_vi": "Xác định vị trí âm thanh reo",
+    "new_translation_vi": "Tìm vị trí phát ra âm thanh rung chuông",
     "translator_note": ""
   },
   {
@@ -2071,7 +2071,7 @@
     "ai_reason": "",
     "source_en": "(Optional) Leave by taking the elevator",
     "review_note": "",
-    "new_translation_vi": "Leave bằng thang máy (Tùy chọn)",
+    "new_translation_vi": "(Tùy chọn) Leave bằng cách đi thang máy",
     "translator_note": ""
   },
   {
@@ -2096,7 +2096,7 @@
     "ai_reason": "",
     "source_en": "(Optional) Enter by taking the elevator",
     "review_note": "",
-    "new_translation_vi": "Đi thang máy vào trong (Tùy chọn)",
+    "new_translation_vi": "(Tùy chọn) Vào bằng cách đi thang máy",
     "translator_note": ""
   },
   {
@@ -2146,7 +2146,7 @@
     "ai_reason": "",
     "source_en": "(Optional) Enter by taking the elevator",
     "review_note": "",
-    "new_translation_vi": "Đi thang máy vào trong (Tùy chọn)",
+    "new_translation_vi": "(Tùy chọn) Vào bằng cách đi thang máy",
     "translator_note": ""
   },
   {
@@ -2196,7 +2196,7 @@
     "ai_reason": "",
     "source_en": "Get some rest",
     "review_note": "",
-    "new_translation_vi": "Nghỉ ngơi đi",
+    "new_translation_vi": "Nghỉ ngơi một chút",
     "translator_note": ""
   },
   {
@@ -2211,7 +2211,6 @@
     "primary_key": "Quest_125000126_ChildQuestTip_125_116",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2221,8 +2220,9 @@
     "ai_reason": "",
     "source_en": "Talk to Lupa",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Lupa",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Lupa",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012090",
@@ -2246,7 +2246,7 @@
     "ai_reason": "",
     "source_en": "Win the final",
     "review_note": "",
-    "new_translation_vi": "Chiến thắng trận chung kết",
+    "new_translation_vi": "Thắng trận chung kết",
     "translator_note": ""
   },
   {
@@ -2271,7 +2271,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Bough of Legions",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Bough of Legions",
+    "new_translation_vi": "Tiêu diệt Bough of Legions",
     "translator_note": ""
   },
   {
@@ -2296,7 +2296,7 @@
     "ai_reason": "",
     "source_en": "Defeat Beasts Beneath",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Beasts Beneath",
+    "new_translation_vi": "Tiêu diệt Beasts Beneath",
     "translator_note": ""
   },
   {
@@ -2346,7 +2346,7 @@
     "ai_reason": "",
     "source_en": "Win the final",
     "review_note": "",
-    "new_translation_vi": "Chiến thắng trận chung kết",
+    "new_translation_vi": "Thắng trận chung kết",
     "translator_note": ""
   },
   {
@@ -2396,7 +2396,7 @@
     "ai_reason": "",
     "source_en": "Prepare to fight",
     "review_note": "",
-    "new_translation_vi": "Prepare chiến đấu",
+    "new_translation_vi": "Chuẩn bị chiến đấu",
     "translator_note": ""
   },
   {
@@ -2471,7 +2471,7 @@
     "ai_reason": "",
     "source_en": "Seek victory in the city of glory while searching for tales hidden in shadow.",
     "review_note": "",
-    "new_translation_vi": "Hãy tìm kiếm chiến thắng tại thành phố vinh quang, đồng thời khám phá những câu chuyện ẩn mình trong bóng tối.",
+    "new_translation_vi": "Tìm kiếm vinh quang tại thành phố trong khi truy tìm những câu chuyện ẩn giấu trong bóng tối.",
     "translator_note": ""
   },
   {
@@ -2496,7 +2496,7 @@
     "ai_reason": "",
     "source_en": "Shadow of Glory",
     "review_note": "",
-    "new_translation_vi": "Shadow Glory",
+    "new_translation_vi": "Bóng tối Vinh quang",
     "translator_note": ""
   },
   {
@@ -2521,7 +2521,7 @@
     "ai_reason": "",
     "source_en": "Find a quiet spot to ponder on the situation",
     "review_note": "",
-    "new_translation_vi": "Tìm một chỗ yên tĩnh để suy nghĩ về tình hình",
+    "new_translation_vi": "Tìm một nơi yên tĩnh để suy ngẫm về tình hình",
     "translator_note": ""
   },
   {
@@ -2621,7 +2621,7 @@
     "ai_reason": "",
     "source_en": "(Optional) Leave by taking the elevator",
     "review_note": "",
-    "new_translation_vi": "Leave bằng thang máy (Tùy chọn)",
+    "new_translation_vi": "(Tùy chọn) Leave bằng cách đi thang máy",
     "translator_note": ""
   },
   {
@@ -2646,7 +2646,7 @@
     "ai_reason": "",
     "source_en": "(Optional) Enter by taking the elevator",
     "review_note": "",
-    "new_translation_vi": "Đi thang máy vào trong (Tùy chọn)",
+    "new_translation_vi": "(Tùy chọn) Vào bằng cách đi thang máy",
     "translator_note": ""
   },
   {
@@ -2671,7 +2671,7 @@
     "ai_reason": "",
     "source_en": "(Optional) Enter by taking the elevator",
     "review_note": "",
-    "new_translation_vi": "Đi thang máy vào trong (Tùy chọn)",
+    "new_translation_vi": "(Tùy chọn) Vào bằng cách đi thang máy",
     "translator_note": ""
   },
   {
@@ -2721,7 +2721,7 @@
     "ai_reason": "",
     "source_en": "Go to the restaurant and talk to Cartethyia",
     "review_note": "",
-    "new_translation_vi": "Đến nhà hàng và nói chuyện với Cartethyia",
+    "new_translation_vi": "Đến nhà hàng và trò chuyện với Cartethyia",
     "translator_note": ""
   },
   {
@@ -2746,7 +2746,7 @@
     "ai_reason": "",
     "source_en": "Now the medal of victory rests upon your chest.",
     "review_note": "",
-    "new_translation_vi": "Giờ đây, huân chương chiến thắng đã nằm trên ngực cậu rồi.",
+    "new_translation_vi": "Giờ đây, huy chương chiến thắng đã nằm trên ngực bạn.",
     "translator_note": ""
   },
   {
@@ -2771,7 +2771,7 @@
     "ai_reason": "",
     "source_en": "Agon of Champions: The Last Call",
     "review_note": "",
-    "new_translation_vi": "Agon của Những Nhà Vô Địch: Lời Kêu Gọi Cuối Cùng",
+    "new_translation_vi": "Agon of Champions: Lời kêu gọi cuối cùng",
     "translator_note": ""
   },
   {
@@ -2796,7 +2796,7 @@
     "ai_reason": "",
     "source_en": "Go to the Vale of Glory",
     "review_note": "",
-    "new_translation_vi": "Đến Vale of Glory.",
+    "new_translation_vi": "Đến Vale of Glory",
     "translator_note": ""
   },
   {
@@ -2821,7 +2821,7 @@
     "ai_reason": "",
     "source_en": "Go to the Vale of Glory",
     "review_note": "",
-    "new_translation_vi": "Đến Vale of Glory.",
+    "new_translation_vi": "Đến Vale of Glory",
     "translator_note": ""
   },
   {
@@ -2846,7 +2846,7 @@
     "ai_reason": "",
     "source_en": "Defeat the abnormal TDs ({q_count}/5)",
     "review_note": "",
-    "new_translation_vi": "Đánh bại các TD bất thường ({q_count}/5)",
+    "new_translation_vi": "Tiêu diệt các TD bất thường ({q_count}/5)",
     "translator_note": ""
   },
   {
@@ -2871,7 +2871,7 @@
     "ai_reason": "",
     "source_en": "Continue on",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục thôi",
+    "new_translation_vi": "Tiếp tục đi",
     "translator_note": ""
   },
   {
@@ -2896,7 +2896,7 @@
     "ai_reason": "",
     "source_en": "Continue on",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục thôi",
+    "new_translation_vi": "Tiếp tục đi",
     "translator_note": ""
   },
   {
@@ -2921,7 +2921,7 @@
     "ai_reason": "",
     "source_en": "Listen to the whispering of the ancient sword",
     "review_note": "",
-    "new_translation_vi": "Hãy lắng nghe lời thì thầm của thanh kiếm cổ xưa",
+    "new_translation_vi": "Lắng nghe tiếng thì thầm của thanh cổ kiếm",
     "translator_note": ""
   },
   {
@@ -2946,7 +2946,7 @@
     "ai_reason": "",
     "source_en": "Defeat the abnormal TDs",
     "review_note": "",
-    "new_translation_vi": "Đánh bại các TD bất thường",
+    "new_translation_vi": "Tiêu diệt các Tacet Discord bất thường",
     "translator_note": ""
   },
   {
@@ -2971,7 +2971,7 @@
     "ai_reason": "",
     "source_en": "Go to the source of the strange sound",
     "review_note": "",
-    "new_translation_vi": "Đến chỗ phát ra âm thanh lạ kia",
+    "new_translation_vi": "Đi đến nơi phát ra âm thanh lạ",
     "translator_note": ""
   },
   {
@@ -2996,7 +2996,7 @@
     "ai_reason": "",
     "source_en": "Go to the Old District",
     "review_note": "",
-    "new_translation_vi": "Đến Khu Phố Cổ",
+    "new_translation_vi": "Đi đến Old District",
     "translator_note": ""
   },
   {
@@ -3021,7 +3021,7 @@
     "ai_reason": "",
     "source_en": "Drain the submerged areas of the Old District",
     "review_note": "",
-    "new_translation_vi": "Tháo nước khu vực ngập lụt ở Khu Phố Cũ",
+    "new_translation_vi": "Tháo nước các khu vực bị ngập tại Old District",
     "translator_note": ""
   },
   {
@@ -3046,7 +3046,7 @@
     "ai_reason": "",
     "source_en": "Go to the Bell Tower",
     "review_note": "",
-    "new_translation_vi": "Đến Tháp Chuông",
+    "new_translation_vi": "Đi đến tháp chuông",
     "translator_note": ""
   },
   {
@@ -3071,7 +3071,7 @@
     "ai_reason": "",
     "source_en": "Go to the elevator",
     "review_note": "",
-    "new_translation_vi": "Đến thang máy",
+    "new_translation_vi": "Đi đến thang máy",
     "translator_note": ""
   },
   {
@@ -3096,7 +3096,7 @@
     "ai_reason": "",
     "source_en": "Take the elevator to reach the underground waterway",
     "review_note": "",
-    "new_translation_vi": "Đi thang máy xuống đường thủy ngầm",
+    "new_translation_vi": "Sử dụng thang máy để đến đường dẫn nước ngầm",
     "translator_note": ""
   },
   {
@@ -3121,7 +3121,7 @@
     "ai_reason": "",
     "source_en": "Use the Copper Mirror of Truth",
     "review_note": "",
-    "new_translation_vi": "Dùng Đồng Gương Chân Thực",
+    "new_translation_vi": "Sử dụng Copper Mirror of Truth",
     "translator_note": ""
   },
   {
@@ -3146,7 +3146,7 @@
     "ai_reason": "",
     "source_en": "Continue on",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục thôi",
+    "new_translation_vi": "Tiếp tục đi",
     "translator_note": ""
   },
   {
@@ -3171,7 +3171,7 @@
     "ai_reason": "",
     "source_en": "Use the Copper Mirror of Truth",
     "review_note": "",
-    "new_translation_vi": "Dùng Đồng Gương Chân Thực",
+    "new_translation_vi": "Sử dụng Copper Mirror of Truth",
     "translator_note": ""
   },
   {
@@ -3196,7 +3196,7 @@
     "ai_reason": "",
     "source_en": "Continue on",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục thôi",
+    "new_translation_vi": "Tiếp tục đi",
     "translator_note": ""
   },
   {
@@ -3221,7 +3221,7 @@
     "ai_reason": "",
     "source_en": "Locate the ringing sound",
     "review_note": "",
-    "new_translation_vi": "Xác định vị trí âm thanh reo",
+    "new_translation_vi": "Xác định vị trí âm thanh vang vọng",
     "translator_note": ""
   },
   {
@@ -3246,7 +3246,7 @@
     "ai_reason": "",
     "source_en": "Use the Copper Mirror of Truth",
     "review_note": "",
-    "new_translation_vi": "Dùng Đồng Gương Chân Thực",
+    "new_translation_vi": "Sử dụng Copper Mirror of Truth",
     "translator_note": ""
   },
   {
@@ -3271,7 +3271,7 @@
     "ai_reason": "",
     "source_en": "Return to the aqueduct gate",
     "review_note": "",
-    "new_translation_vi": "Return cổng kênh dẫn nước",
+    "new_translation_vi": "Quay lại cổng dẫn nước",
     "translator_note": ""
   },
   {
@@ -3296,7 +3296,7 @@
     "ai_reason": "",
     "source_en": "Continue on",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục thôi",
+    "new_translation_vi": "Tiếp tục đi",
     "translator_note": ""
   },
   {
@@ -3321,7 +3321,7 @@
     "ai_reason": "",
     "source_en": "Take the elevator to reach the depths of the waterway",
     "review_note": "",
-    "new_translation_vi": "Đi thang máy xuống sâu trong đường thủy đạo",
+    "new_translation_vi": "Sử dụng thang máy để đến sâu trong đường dẫn nước",
     "translator_note": ""
   },
   {
@@ -3346,7 +3346,7 @@
     "ai_reason": "",
     "source_en": "Follow the path",
     "review_note": "",
-    "new_translation_vi": "Đi theo con đường này",
+    "new_translation_vi": "Đi theo con đường",
     "translator_note": ""
   },
   {
@@ -3371,7 +3371,7 @@
     "ai_reason": "",
     "source_en": "Follow the Lady of the Sea and access \"The Finale\"",
     "review_note": "",
-    "new_translation_vi": "Đi theo Nữ Thần Biển và mở khóa \"The Finale\"",
+    "new_translation_vi": "Đi theo Lady of the Sea và truy cập \"The Finale\"",
     "translator_note": ""
   },
   {
@@ -3421,7 +3421,7 @@
     "ai_reason": "",
     "source_en": "Reenter the Central Hub",
     "review_note": "",
-    "new_translation_vi": "Quay lại Trung Tâm Điều Hành",
+    "new_translation_vi": "Vào lại Central Hub",
     "translator_note": ""
   },
   {
@@ -3446,7 +3446,7 @@
     "ai_reason": "",
     "source_en": "Continue on",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục thôi",
+    "new_translation_vi": "Tiếp tục đi",
     "translator_note": ""
   },
   {
@@ -3471,7 +3471,7 @@
     "ai_reason": "",
     "source_en": "Defeat the abnormal TDs ({q_count}/3)",
     "review_note": "",
-    "new_translation_vi": "Đánh bại các TD bất thường ({q_count}/3)",
+    "new_translation_vi": "Tiêu diệt các Tacet Discord bất thường ({q_count}/3)",
     "translator_note": ""
   },
   {
@@ -3496,7 +3496,7 @@
     "ai_reason": "",
     "source_en": "Locate the ringing sound",
     "review_note": "",
-    "new_translation_vi": "Xác định vị trí âm thanh reo",
+    "new_translation_vi": "Xác định vị trí âm thanh vang vọng",
     "translator_note": ""
   },
   {
@@ -3521,7 +3521,7 @@
     "ai_reason": "",
     "source_en": "Go inside the mountain",
     "review_note": "",
-    "new_translation_vi": "Vào trong núi",
+    "new_translation_vi": "Đi vào bên trong ngọn núi",
     "translator_note": ""
   },
   {
@@ -3571,7 +3571,7 @@
     "ai_reason": "",
     "source_en": "Watch what the Copper Mirror reveals",
     "review_note": "",
-    "new_translation_vi": "Xem Đồng Gương tiết lộ điều gì",
+    "new_translation_vi": "Xem những gì Copper Mirror tiết lộ",
     "translator_note": ""
   },
   {
@@ -3596,7 +3596,7 @@
     "ai_reason": "",
     "source_en": "Watch what the Copper Mirror reveals",
     "review_note": "",
-    "new_translation_vi": "Xem Đồng Gương tiết lộ điều gì",
+    "new_translation_vi": "Xem những gì Copper Mirror tiết lộ",
     "translator_note": ""
   },
   {
@@ -3621,7 +3621,7 @@
     "ai_reason": "",
     "source_en": "Defeat the abnormal TDs ({q_count}/4)",
     "review_note": "",
-    "new_translation_vi": "Đánh bại các TD bất thường ({q_count}/4)",
+    "new_translation_vi": "Tiêu diệt các Tacet Discord bất thường ({q_count}/4)",
     "translator_note": ""
   },
   {
@@ -3646,7 +3646,7 @@
     "ai_reason": "",
     "source_en": "Continue on",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục thôi",
+    "new_translation_vi": "Tiếp tục đi",
     "translator_note": ""
   },
   {
@@ -3696,7 +3696,7 @@
     "ai_reason": "",
     "source_en": "Defeat the abnormal TDs ({q_count}/3)",
     "review_note": "",
-    "new_translation_vi": "Đánh bại các TD bất thường ({q_count}/3)",
+    "new_translation_vi": "Tiêu diệt các Tacet Discord bất thường ({q_count}/3)",
     "translator_note": ""
   },
   {
@@ -3721,7 +3721,7 @@
     "ai_reason": "",
     "source_en": "Defeat the abnormal TDs ({q_count}/3)",
     "review_note": "",
-    "new_translation_vi": "Đánh bại các TD bất thường ({q_count}/3)",
+    "new_translation_vi": "Tiêu diệt các Tacet Discord bất thường ({q_count}/3)",
     "translator_note": ""
   },
   {
@@ -3746,7 +3746,7 @@
     "ai_reason": "",
     "source_en": "Continue on",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục thôi",
+    "new_translation_vi": "Tiếp tục đi",
     "translator_note": ""
   },
   {
@@ -3761,7 +3761,6 @@
     "primary_key": "Quest_121000038_ChildQuestTip_121_146",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3771,8 +3770,9 @@
     "ai_reason": "",
     "source_en": "Ride the Wingray high up to the sky",
     "review_note": "",
-    "new_translation_vi": "Ride Wingray bay cao lên bầu trời",
-    "translator_note": ""
+    "new_translation_vi": "Cưỡi Wingray bay lên cao",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012152",
@@ -3786,7 +3786,6 @@
     "primary_key": "Quest_121000038_ChildQuestTip_121_149",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3796,8 +3795,9 @@
     "ai_reason": "",
     "source_en": "Ride the Wingray",
     "review_note": "",
-    "new_translation_vi": "Ride cá đuối Wingray",
-    "translator_note": ""
+    "new_translation_vi": "Cưỡi Wingray",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012153",
@@ -3811,7 +3811,6 @@
     "primary_key": "Quest_121000038_ChildQuestTip_121_156",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3821,8 +3820,9 @@
     "ai_reason": "",
     "source_en": "Go to the arena and meet up with Lupa",
     "review_note": "",
-    "new_translation_vi": "Đến đấu trường và gặp Lupa nào",
-    "translator_note": ""
+    "new_translation_vi": "Đến đấu trường và gặp Lupa",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012154",
@@ -3836,7 +3836,6 @@
     "primary_key": "Quest_121000038_ChildQuestTip_121_157",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3846,8 +3845,9 @@
     "ai_reason": "",
     "source_en": "Go to the arena and meet up with Lupa",
     "review_note": "",
-    "new_translation_vi": "Đến đấu trường và gặp Lupa nào",
-    "translator_note": ""
+    "new_translation_vi": "Đến đấu trường và gặp Lupa",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012155",
@@ -3871,7 +3871,7 @@
     "ai_reason": "",
     "source_en": "Go to the elevator",
     "review_note": "",
-    "new_translation_vi": "Đến thang máy",
+    "new_translation_vi": "Đi đến thang máy",
     "translator_note": ""
   },
   {
@@ -3896,7 +3896,7 @@
     "ai_reason": "",
     "source_en": "Gather Recollection of Heroes",
     "review_note": "",
-    "new_translation_vi": "Thu thập Ký Ức Anh Hùng",
+    "new_translation_vi": "Thu thập Recollection of Heroes",
     "translator_note": ""
   },
   {
@@ -3921,7 +3921,7 @@
     "ai_reason": "",
     "source_en": "Gather Recollection of Heroes",
     "review_note": "",
-    "new_translation_vi": "Thu thập Ký Ức Anh Hùng",
+    "new_translation_vi": "Thu thập Recollection of Heroes",
     "translator_note": ""
   },
   {
@@ -3946,7 +3946,7 @@
     "ai_reason": "",
     "source_en": "Defeat the abnormal TDs ({q_count}/4)",
     "review_note": "",
-    "new_translation_vi": "Đánh bại các TD bất thường ({q_count}/4)",
+    "new_translation_vi": "Tiêu diệt các Tacet Discord bất thường ({q_count}/4)",
     "translator_note": ""
   },
   {
@@ -3971,7 +3971,7 @@
     "ai_reason": "",
     "source_en": "Eliminate the Tidal Blight",
     "review_note": "",
-    "new_translation_vi": "Loại bỏ Tidal Blight",
+    "new_translation_vi": "Tiêu diệt Tidal Blight",
     "translator_note": ""
   },
   {
@@ -3996,7 +3996,7 @@
     "ai_reason": "",
     "source_en": "Defeat the abnormal TDs ({q_count}/3)",
     "review_note": "",
-    "new_translation_vi": "Đánh bại các TD bất thường ({q_count}/3)",
+    "new_translation_vi": "Tiêu diệt các Tacet Discord bất thường ({q_count}/3)",
     "translator_note": ""
   },
   {
@@ -4021,7 +4021,7 @@
     "ai_reason": "",
     "source_en": "Defeat the abnormal TDs ({q_count}/4)",
     "review_note": "",
-    "new_translation_vi": "Đánh bại các TD bất thường ({q_count}/4)",
+    "new_translation_vi": "Tiêu diệt các Tacet Discord bất thường ({q_count}/4)",
     "translator_note": ""
   },
   {
@@ -4046,7 +4046,7 @@
     "ai_reason": "",
     "source_en": "Eliminate the Tidal Blight",
     "review_note": "",
-    "new_translation_vi": "Loại bỏ Tidal Blight",
+    "new_translation_vi": "Tiêu diệt Tidal Blight",
     "translator_note": ""
   },
   {
@@ -4061,7 +4061,6 @@
     "primary_key": "Quest_121000038_OccupyDesc_121_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4071,8 +4070,9 @@
     "ai_reason": "",
     "source_en": "Resonator Lupa is currently in another quest. You cannot continue the quest yet.",
     "review_note": "",
-    "new_translation_vi": "Resonator Lupa hiện đang trong nhiệm vụ khác. Bạn chưa thể tiếp tục nhiệm vụ.",
-    "translator_note": ""
+    "new_translation_vi": "Resonator Lupa hiện đang trong một nhiệm vụ khác. Bạn chưa thể tiếp tục nhiệm vụ này.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012164",
@@ -4096,7 +4096,7 @@
     "ai_reason": "",
     "source_en": "You feel the weight of hope. You're all alone now, but are determined to reach the end and finish the story, whatever it takes.",
     "review_note": "",
-    "new_translation_vi": "Cậu cảm nhận sức nặng của hy vọng. Dù giờ đây chỉ còn một mình, cậu vẫn quyết tâm đi đến cùng và hoàn thành câu chuyện, bất kể phải trả giá gì.",
+    "new_translation_vi": "Bạn cảm nhận được sức nặng của hy vọng. Bạn chỉ còn một mình, nhưng quyết tâm đi đến cuối cùng và hoàn thành câu chuyện, bất kể giá nào.",
     "translator_note": ""
   },
   {
@@ -4121,7 +4121,7 @@
     "ai_reason": "",
     "source_en": "The story has been rewritten. Journey to the burial ground of the heroes and write a fitting ending to it.",
     "review_note": "",
-    "new_translation_vi": "Câu chuyện đã được viết lại. Hãy đến nơi an nghỉ của những anh hùng và viết nên một cái kết xứng đáng.",
+    "new_translation_vi": "Câu chuyện đã được viết lại. Hãy hành trình đến nơi an nghỉ của các anh hùng và viết nên một cái kết xứng đáng.",
     "translator_note": ""
   },
   {
@@ -4146,7 +4146,7 @@
     "ai_reason": "",
     "source_en": "The curtain has fallen on the grand competitions. Don your medal and travel onward to the Vale of Glory, where you shall make a decision that may change how the story goes.",
     "review_note": "",
-    "new_translation_vi": "Bức màn đã khép lại trên những cuộc thi hoành tráng. Hãy đeo huy chương của bạn và tiến về Thung Lũng Glory, nơi bạn sẽ đưa ra quyết định có thể thay đổi cục diện câu chuyện.",
+    "new_translation_vi": "Bức màn đã khép lại trên các cuộc thi lớn. Hãy đeo huy chương của bạn và tiếp tục hành trình đến Vale of Glory, nơi bạn sẽ đưa ra quyết định có thể thay đổi diễn biến câu chuyện.",
     "translator_note": ""
   },
   {
@@ -4171,7 +4171,7 @@
     "ai_reason": "",
     "source_en": "Flames of Heart",
     "review_note": "",
-    "new_translation_vi": "Ngọn Lửa Trái Tim",
+    "new_translation_vi": "Ngọn lửa Trái tim",
     "translator_note": ""
   },
   {
@@ -4196,7 +4196,7 @@
     "ai_reason": "",
     "source_en": "Touch the weapons left behind by the heroes",
     "review_note": "",
-    "new_translation_vi": "Touch vào vũ khí của những anh hùng đã bỏ lại",
+    "new_translation_vi": "Chạm vào vũ khí do các anh hùng để lại",
     "translator_note": ""
   },
   {
@@ -4221,7 +4221,7 @@
     "ai_reason": "",
     "source_en": "Gather Recollection of Heroes",
     "review_note": "",
-    "new_translation_vi": "Thu thập Ký Ức Anh Hùng",
+    "new_translation_vi": "Thu thập Recollection of Heroes",
     "translator_note": ""
   },
   {
@@ -4271,7 +4271,7 @@
     "ai_reason": "",
     "source_en": "Gather Recollection of Heroes",
     "review_note": "",
-    "new_translation_vi": "Thu thập Ký Ức Anh Hùng",
+    "new_translation_vi": "Thu thập Recollection of Heroes",
     "translator_note": ""
   },
   {
@@ -4286,7 +4286,6 @@
     "primary_key": "Quest_164000000_ChildQuestTip_164_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4296,8 +4295,9 @@
     "ai_reason": "",
     "source_en": "Head to Solis Tavern",
     "review_note": "",
-    "new_translation_vi": "Đến Solis Tavern",
-    "translator_note": ""
+    "new_translation_vi": "Đến quán rượu Solis",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012173",
@@ -4396,7 +4396,7 @@
     "ai_reason": "",
     "source_en": "Talk with Nestor and learn about the Ephor's story",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Nestor và tìm hiểu câu chuyện về Ephor",
+    "new_translation_vi": "Trò chuyện với Nestor và tìm hiểu câu chuyện của Ephor",
     "translator_note": ""
   },
   {
@@ -4411,7 +4411,6 @@
     "primary_key": "Quest_164000000_ChildQuestTip_164_27",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4421,8 +4420,9 @@
     "ai_reason": "",
     "source_en": "Head to Solis Tavern",
     "review_note": "",
-    "new_translation_vi": "Đến Solis Tavern",
-    "translator_note": ""
+    "new_translation_vi": "Đến quán rượu Solis",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012178",
@@ -4436,7 +4436,6 @@
     "primary_key": "Quest_164000000_ChildQuestTip_164_28",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4446,8 +4445,9 @@
     "ai_reason": "",
     "source_en": "Head to Solis Tavern",
     "review_note": "",
-    "new_translation_vi": "Đến Solis Tavern",
-    "translator_note": ""
+    "new_translation_vi": "Đến quán rượu Solis",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012179",
@@ -4461,7 +4461,6 @@
     "primary_key": "Quest_164000000_QuestDesc_164_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4471,8 +4470,9 @@
     "ai_reason": "",
     "source_en": "While waiting for contact from the Ephor's Palace, you and Abby arrive at Solis Tavern, where you run into a blind wandering bard—Nestor. Having learned of the Ephor's invitation to the hunt, Nestor shares with you Augusta's stories before she rose to power.",
     "review_note": "",
-    "new_translation_vi": "Trong lúc chờ liên lạc từ Ephor's Palace, cậu và Abby đến Solis Tavern và tình cờ gặp một nghệ nhân mù lang thang tên Nestor. Biết được lời mời săn bắn từ Ephor, Nestor kể cho cậu nghe những câu chuyện về Augusta trước khi bà lên nắm quyền.",
-    "translator_note": ""
+    "new_translation_vi": "Trong khi chờ liên lạc từ Cung điện Ephor, bạn và Abby đến quán rượu Solis, nơi bạn tình cờ gặp một người hát rong mù - Nestor. Sau khi biết về lời mời đi săn của Ephor, Nestor chia sẻ với bạn những câu chuyện về Augusta trước khi cô ấy nắm quyền.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012180",
@@ -4496,7 +4496,7 @@
     "ai_reason": "",
     "source_en": "Rust, Sword and the Sun",
     "review_note": "",
-    "new_translation_vi": "Gỉ Sét, Kiếm và Mặt Trời",
+    "new_translation_vi": "Gỉ sét, Kiếm và Mặt trời",
     "translator_note": ""
   },
   {
@@ -4521,7 +4521,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi",
     "translator_note": ""
   },
   {
@@ -4546,7 +4546,7 @@
     "ai_reason": "",
     "source_en": "Defeat the enemies",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt kẻ địch",
+    "new_translation_vi": "Đánh bại kẻ địch",
     "translator_note": ""
   },
   {
@@ -4621,7 +4621,7 @@
     "ai_reason": "",
     "source_en": "The Dreamer seals her heart and surrenders to a world of dreams beyond mortal sight. In this hidden realm built upon melancholy melodies, she walks a path of fragile hope and delusions without looking back. But the dreams she longs to realize have long been tangled up in shadow and deceit. Beneath the lofty facade of the Orchestrator, who seems to have everything, is but a wretched, pitiful soul, drowning in her own illusions.\n\nIn the end, will this dream of blooming and withering be a sweet reverie or a haunting nightmare?",
     "review_note": "",
-    "new_translation_vi": "Kẻ Mộng Mơ khóa chặt trái tim mình, chìm đắm vào thế giới mộng ảo ngoài tầm mắt phàm tục. Trong cõi ẩn này, được xây dựng từ những giai điệu u sầu, nàng bước đi trên con đường đầy hy vọng mong manh và ảo tưởng, không hề ngoảnh lại. Nhưng những giấc mơ nàng khao khát thực hiện từ lâu đã bị vướng vào bóng tối và dối trá. Dưới vỏ bọc cao sang của Nhạc Trưởng—kẻ dường như có tất cả—chỉ là một linh hồn đáng thương, khốn khổ, chìm đắm trong ảo vọng của chính mình.\n\nCuối cùng, giấc mơ nở rồi tàn này sẽ là một giấc mơ ngọt ngào hay một cơn ác mộng ám ảnh?",
+    "new_translation_vi": "Người mơ mộng khép chặt trái tim và đầu hàng trước thế giới mộng ảo ngoài tầm mắt người thường. Trong cõi ẩn giấu được xây dựng trên những giai điệu u sầu này, cô ấy bước đi trên con đường của hy vọng mong manh và ảo tưởng mà không hề ngoảnh lại. Nhưng những giấc mơ cô khao khát thực hiện từ lâu đã bị vướng vào bóng tối và sự lừa dối. Bên dưới vẻ ngoài cao quý của Orchestrator, người dường như có tất cả, chỉ là một linh hồn khốn khổ, đáng thương, đang chìm đắm trong những ảo tưởng của chính mình.",
     "translator_note": ""
   },
   {
@@ -4636,7 +4636,6 @@
     "primary_key": "Quest_172000001_QuestName_172_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4646,8 +4645,9 @@
     "ai_reason": "",
     "source_en": "Dreamcatchers in the Secret Gardens",
     "review_note": "",
-    "new_translation_vi": "Dreamcatcher tại Khu Vườn Bí Mật",
-    "translator_note": ""
+    "new_translation_vi": "Dreamcatchers trong Secret Gardens",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012187",
@@ -4696,7 +4696,7 @@
     "ai_reason": "",
     "source_en": "Defeat the enemies",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt kẻ địch",
+    "new_translation_vi": "Đánh bại kẻ địch",
     "translator_note": ""
   },
   {
@@ -4721,7 +4721,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi",
     "translator_note": ""
   },
   {
@@ -4746,7 +4746,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi",
     "translator_note": ""
   },
   {
@@ -4771,7 +4771,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi",
     "translator_note": ""
   },
   {
@@ -4796,7 +4796,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi",
     "translator_note": ""
   },
   {
@@ -4821,7 +4821,7 @@
     "ai_reason": "",
     "source_en": "Reach the platform",
     "review_note": "",
-    "new_translation_vi": "Đến được bệ đứng",
+    "new_translation_vi": "Đến nền tảng",
     "translator_note": ""
   },
   {
@@ -4846,7 +4846,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi",
     "translator_note": ""
   },
   {
@@ -4871,7 +4871,7 @@
     "ai_reason": "",
     "source_en": "Defeat the enemies",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt kẻ địch",
+    "new_translation_vi": "Đánh bại kẻ địch",
     "translator_note": ""
   },
   {
@@ -4921,7 +4921,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục tiến lên",
     "translator_note": ""
   },
   {
@@ -4946,7 +4946,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục tiến lên",
     "translator_note": ""
   },
   {
@@ -4971,7 +4971,7 @@
     "ai_reason": "",
     "source_en": "Ride the current",
     "review_note": "",
-    "new_translation_vi": "Ride theo dòng chảy",
+    "new_translation_vi": "Đi theo dòng chảy",
     "translator_note": ""
   },
   {
@@ -4996,7 +4996,7 @@
     "ai_reason": "",
     "source_en": "Talk to Phrolova",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Phrolova",
+    "new_translation_vi": "Trò chuyện với Phrolova",
     "translator_note": ""
   },
   {
@@ -5021,7 +5021,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục tiến lên",
     "translator_note": ""
   },
   {
@@ -5046,7 +5046,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục tiến lên",
     "translator_note": ""
   },
   {
@@ -5071,7 +5071,7 @@
     "ai_reason": "",
     "source_en": "Complete the Orchestration",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Bản Hòa Tấu",
+    "new_translation_vi": "Hoàn thành Orchestration",
     "translator_note": ""
   },
   {
@@ -5096,7 +5096,7 @@
     "ai_reason": "",
     "source_en": "Ride the current",
     "review_note": "",
-    "new_translation_vi": "Ride theo dòng chảy",
+    "new_translation_vi": "Đi theo dòng chảy",
     "translator_note": ""
   },
   {
@@ -5121,7 +5121,7 @@
     "ai_reason": "",
     "source_en": "Continue onward while Orchestrating",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục tiến lên trong lúc Điều Phối",
+    "new_translation_vi": "Tiếp tục tiến lên trong khi Orchestrating",
     "translator_note": ""
   },
   {
@@ -5146,7 +5146,7 @@
     "ai_reason": "",
     "source_en": "Continue onward while Orchestrating",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục tiến lên trong lúc Điều Phối",
+    "new_translation_vi": "Tiếp tục tiến lên trong khi Orchestrating",
     "translator_note": ""
   },
   {
@@ -5171,7 +5171,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục tiến lên",
     "translator_note": ""
   },
   {
@@ -5196,7 +5196,7 @@
     "ai_reason": "",
     "source_en": "Continue onward while Orchestrating",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục tiến lên trong lúc Điều Phối",
+    "new_translation_vi": "Tiếp tục tiến lên trong khi Orchestrating",
     "translator_note": ""
   },
   {
@@ -5221,7 +5221,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục tiến lên",
     "translator_note": ""
   },
   {
@@ -5246,7 +5246,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục tiến lên",
     "translator_note": ""
   },
   {
@@ -5271,7 +5271,7 @@
     "ai_reason": "",
     "source_en": "Continue onward while Orchestrating",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục tiến lên trong lúc Điều Phối",
+    "new_translation_vi": "Tiếp tục tiến lên trong khi Orchestrating",
     "translator_note": ""
   },
   {
@@ -5296,7 +5296,7 @@
     "ai_reason": "",
     "source_en": "Ride the rail",
     "review_note": "",
-    "new_translation_vi": "Đi trên đường ray",
+    "new_translation_vi": "Đi theo đường ray",
     "translator_note": ""
   },
   {
@@ -5321,7 +5321,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục tiến lên",
     "translator_note": ""
   },
   {
@@ -5371,7 +5371,7 @@
     "ai_reason": "",
     "source_en": "Examine",
     "review_note": "",
-    "new_translation_vi": "Examine",
+    "new_translation_vi": "Kiểm tra",
     "translator_note": ""
   },
   {
@@ -5396,7 +5396,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục tiến lên",
     "translator_note": ""
   },
   {
@@ -5421,7 +5421,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục tiến lên",
     "translator_note": ""
   },
   {
@@ -5446,7 +5446,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục tiến lên",
     "translator_note": ""
   },
   {
@@ -5471,7 +5471,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục tiến lên",
     "translator_note": ""
   },
   {
@@ -5496,7 +5496,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục tiến lên",
     "translator_note": ""
   },
   {
@@ -5521,7 +5521,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục tiến lên",
     "translator_note": ""
   },
   {
@@ -5546,7 +5546,7 @@
     "ai_reason": "",
     "source_en": "Proceed to the next area",
     "review_note": "",
-    "new_translation_vi": "Tiến vào khu vực tiếp theo",
+    "new_translation_vi": "Đi đến khu vực tiếp theo",
     "translator_note": ""
   },
   {
@@ -5571,7 +5571,7 @@
     "ai_reason": "",
     "source_en": "Continue onward while Orchestrating",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục tiến lên trong lúc Điều Phối",
+    "new_translation_vi": "Tiếp tục tiến lên trong khi Orchestrating",
     "translator_note": ""
   },
   {
@@ -5596,7 +5596,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục tiến lên",
     "translator_note": ""
   },
   {
@@ -5621,7 +5621,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -5671,7 +5671,7 @@
     "ai_reason": "",
     "source_en": "The Dreamer seals her heart and surrenders to a world of dreams beyond mortal sight. In this hidden realm built upon melancholy melodies, she walks a path of fragile hope and delusions without looking back. But the dreams she longs to realize have long been tangled up in shadow and deceit. Beneath the lofty facade of the Orchestrator, who seems to have everything, is but a wretched, pitiful soul, drowning in her own illusions.\n\nIn the end, will this dream of blooming and withering be a sweet reverie or a haunting nightmare?",
     "review_note": "",
-    "new_translation_vi": "Kẻ Mộng Mơ khóa chặt trái tim mình, chìm đắm vào thế giới mộng ảo ngoài tầm mắt phàm tục. Trong cõi ẩn này, được xây dựng từ những giai điệu u sầu, nàng bước đi trên con đường đầy hy vọng mong manh và ảo tưởng, không hề ngoảnh lại. Nhưng những giấc mơ nàng khao khát thực hiện từ lâu đã bị vướng vào bóng tối và dối trá. Dưới vỏ bọc cao sang của Nhạc Trưởng—kẻ dường như có tất cả—chỉ là một linh hồn đáng thương, khốn khổ, chìm đắm trong ảo vọng của chính mình.\n\nCuối cùng, giấc mơ nở rồi tàn này sẽ là một giấc mơ ngọt ngào hay một cơn ác mộng ám ảnh?",
+    "new_translation_vi": "Người Mộng Mơ khép chặt trái tim và chìm đắm vào thế giới giấc mơ nằm ngoài tầm mắt người thường. Trong cõi ẩn giấu được xây dựng từ những giai điệu u buồn này, cô bước đi trên con đường của hy vọng mong manh và ảo tưởng mà không hề ngoảnh lại. Nhưng những giấc mơ mà cô khao khát thực hiện từ lâu đã bị vướng vào bóng tối và sự lừa dối. Bên dưới vẻ ngoài cao quý của Orchestrator, người dường như có tất cả, chỉ là một linh hồn khốn khổ, đáng thương đang chìm đắm trong những ảo tưởng của chính mình.\\n\\nCuối cùng, giấc mơ về sự nở rộ và tàn phai này sẽ là một giấc mộng ngọt ngào hay một cơn ác mộng ám ảnh?",
     "translator_note": ""
   },
   {
@@ -5686,7 +5686,6 @@
     "primary_key": "Quest_172000000_QuestAliasName_150_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5696,8 +5695,9 @@
     "ai_reason": "",
     "source_en": "Dreamcatchers in the Secret Gardens",
     "review_note": "",
-    "new_translation_vi": "Dreamcatcher tại Khu Vườn Bí Mật",
-    "translator_note": ""
+    "new_translation_vi": "Dreamcatchers trong Secret Gardens",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012229",
@@ -5721,7 +5721,7 @@
     "ai_reason": "",
     "source_en": "The Dreamer seals her heart and surrenders to a world of dreams beyond mortal sight. In this hidden realm built upon melancholy melodies, she walks a path of fragile hope and delusions without looking back. But the dreams she longs to realize have long been tangled up in shadow and deceit. Beneath the lofty facade of the Orchestrator, who seems to have everything, is but a wretched, pitiful soul, drowning in her own illusions.\n\nIn the end, will this dream of blooming and withering be a sweet reverie or a haunting nightmare?",
     "review_note": "",
-    "new_translation_vi": "Kẻ Mộng Mơ khóa chặt trái tim mình, chìm đắm vào thế giới mộng ảo ngoài tầm mắt phàm tục. Trong cõi ẩn này, được xây dựng từ những giai điệu u sầu, nàng bước đi trên con đường đầy hy vọng mong manh và ảo tưởng, không hề ngoảnh lại. Nhưng những giấc mơ nàng khao khát thực hiện từ lâu đã bị vướng vào bóng tối và dối trá. Dưới vỏ bọc cao sang của Nhạc Trưởng—kẻ dường như có tất cả—chỉ là một linh hồn đáng thương, khốn khổ, chìm đắm trong ảo vọng của chính mình.\n\nCuối cùng, giấc mơ nở rồi tàn này sẽ là một giấc mơ ngọt ngào hay một cơn ác mộng ám ảnh?",
+    "new_translation_vi": "Người Mộng Mơ khép chặt trái tim và chìm đắm vào thế giới giấc mơ nằm ngoài tầm mắt người thường. Trong cõi ẩn giấu được xây dựng từ những giai điệu u buồn này, cô bước đi trên con đường của hy vọng mong manh và ảo tưởng mà không hề ngoảnh lại. Nhưng những giấc mơ mà cô khao khát thực hiện từ lâu đã bị vướng vào bóng tối và sự lừa dối. Bên dưới vẻ ngoài cao quý của Orchestrator, người dường như có tất cả, chỉ là một linh hồn khốn khổ, đáng thương đang chìm đắm trong những ảo tưởng của chính mình.\\n\\nCuối cùng, giấc mơ về sự nở rộ và tàn phai này sẽ là một giấc mộng ngọt ngào hay một cơn ác mộng ám ảnh?",
     "translator_note": ""
   },
   {
@@ -5736,7 +5736,6 @@
     "primary_key": "Quest_172000000_QuestName_172_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5746,8 +5745,9 @@
     "ai_reason": "",
     "source_en": "Dreamcatchers in the Secret Gardens",
     "review_note": "",
-    "new_translation_vi": "Dreamcatcher tại Khu Vườn Bí Mật",
-    "translator_note": ""
+    "new_translation_vi": "Dreamcatchers trong Secret Gardens",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012231",
@@ -5771,7 +5771,7 @@
     "ai_reason": "",
     "source_en": "Find another way out",
     "review_note": "",
-    "new_translation_vi": "Tìm lối ra khác",
+    "new_translation_vi": "Tìm lối thoát khác",
     "translator_note": ""
   },
   {
@@ -5871,7 +5871,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục tiến lên",
     "translator_note": ""
   },
   {
@@ -5896,7 +5896,7 @@
     "ai_reason": "",
     "source_en": "Proceed to the next area",
     "review_note": "",
-    "new_translation_vi": "Tiến vào khu vực tiếp theo",
+    "new_translation_vi": "Đi đến khu vực tiếp theo",
     "translator_note": ""
   },
   {
@@ -5921,7 +5921,7 @@
     "ai_reason": "",
     "source_en": "Go left",
     "review_note": "",
-    "new_translation_vi": "Rẽ trái",
+    "new_translation_vi": "Đi sang trái",
     "translator_note": ""
   },
   {
@@ -5946,7 +5946,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục tiến lên",
     "translator_note": ""
   },
   {
@@ -5971,7 +5971,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục tiến lên",
     "translator_note": ""
   },
   {
@@ -6046,7 +6046,7 @@
     "ai_reason": "",
     "source_en": "Head to the Orchestration Altar",
     "review_note": "",
-    "new_translation_vi": "Đến Orchestration Altar",
+    "new_translation_vi": "Đi đến Orchestration Altar",
     "translator_note": ""
   },
   {
@@ -6096,7 +6096,7 @@
     "ai_reason": "",
     "source_en": "Investigate",
     "review_note": "",
-    "new_translation_vi": "Investigate",
+    "new_translation_vi": "Điều tra",
     "translator_note": ""
   },
   {
@@ -6121,7 +6121,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục tiến lên",
     "translator_note": ""
   },
   {
@@ -6146,7 +6146,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục tiến lên",
     "translator_note": ""
   },
   {
@@ -6196,7 +6196,7 @@
     "ai_reason": "",
     "source_en": "Ride the rail",
     "review_note": "",
-    "new_translation_vi": "Đi trên đường ray",
+    "new_translation_vi": "Đi theo đường ray",
     "translator_note": ""
   },
   {
@@ -6221,7 +6221,7 @@
     "ai_reason": "",
     "source_en": "Ride the rail",
     "review_note": "",
-    "new_translation_vi": "Đi trên đường ray",
+    "new_translation_vi": "Đi theo đường ray",
     "translator_note": ""
   },
   {
@@ -6246,7 +6246,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục tiến lên",
     "translator_note": ""
   },
   {
@@ -6271,7 +6271,7 @@
     "ai_reason": "",
     "source_en": "Use the cable to activate the rail",
     "review_note": "",
-    "new_translation_vi": "Dùng dây cáp kích hoạt đường ray",
+    "new_translation_vi": "Sử dụng cáp để kích hoạt đường ray",
     "translator_note": ""
   },
   {
@@ -6321,7 +6321,7 @@
     "ai_reason": "",
     "source_en": "Ride the rail",
     "review_note": "",
-    "new_translation_vi": "Đi trên đường ray",
+    "new_translation_vi": "Đi theo đường ray",
     "translator_note": ""
   },
   {
@@ -6346,7 +6346,7 @@
     "ai_reason": "",
     "source_en": "Reach the upper platform",
     "review_note": "",
-    "new_translation_vi": "Đến bệ đứng trên cao",
+    "new_translation_vi": "Đến nền tảng phía trên",
     "translator_note": ""
   },
   {
@@ -6371,7 +6371,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục tiến lên",
     "translator_note": ""
   },
   {
@@ -6396,7 +6396,7 @@
     "ai_reason": "",
     "source_en": "Ride the rail",
     "review_note": "",
-    "new_translation_vi": "Đi trên đường ray",
+    "new_translation_vi": "Đi theo đường ray",
     "translator_note": ""
   },
   {
@@ -6421,7 +6421,7 @@
     "ai_reason": "",
     "source_en": "Use the rails to reach the Orchestration Altar",
     "review_note": "",
-    "new_translation_vi": "Dùng đường ray để đến Bệ Điều Khiển Giao Hưởng",
+    "new_translation_vi": "Sử dụng đường ray để đến Orchestration Altar",
     "translator_note": ""
   },
   {
@@ -6446,7 +6446,7 @@
     "ai_reason": "",
     "source_en": "Proceed to the next area",
     "review_note": "",
-    "new_translation_vi": "Tiến vào khu vực tiếp theo",
+    "new_translation_vi": "Đi đến khu vực tiếp theo",
     "translator_note": ""
   },
   {
@@ -6471,7 +6471,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục tiến lên",
     "translator_note": ""
   },
   {
@@ -6546,7 +6546,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục tiến lên",
     "translator_note": ""
   },
   {
@@ -6571,7 +6571,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục tiến lên",
     "translator_note": ""
   },
   {
@@ -6596,7 +6596,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục tiến lên",
     "translator_note": ""
   },
   {
@@ -6621,7 +6621,7 @@
     "ai_reason": "",
     "source_en": "Go right",
     "review_note": "",
-    "new_translation_vi": "Rẽ phải",
+    "new_translation_vi": "Đi sang phải",
     "translator_note": ""
   },
   {
@@ -6646,7 +6646,7 @@
     "ai_reason": "",
     "source_en": "Go right",
     "review_note": "",
-    "new_translation_vi": "Rẽ phải",
+    "new_translation_vi": "Đi sang phải",
     "translator_note": ""
   },
   {
@@ -6671,7 +6671,7 @@
     "ai_reason": "",
     "source_en": "Talk to Phrolova",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Phrolova",
+    "new_translation_vi": "Trò chuyện với Phrolova",
     "translator_note": ""
   },
   {
@@ -6696,7 +6696,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục tiến lên",
     "translator_note": ""
   },
   {
@@ -6721,7 +6721,7 @@
     "ai_reason": "",
     "source_en": "Go left",
     "review_note": "",
-    "new_translation_vi": "Rẽ trái",
+    "new_translation_vi": "Đi sang trái",
     "translator_note": ""
   },
   {
@@ -6746,7 +6746,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục tiến lên",
     "translator_note": ""
   },
   {
@@ -6771,7 +6771,7 @@
     "ai_reason": "",
     "source_en": "Proceed to the next area",
     "review_note": "",
-    "new_translation_vi": "Tiến vào khu vực tiếp theo",
+    "new_translation_vi": "Đi đến khu vực tiếp theo",
     "translator_note": ""
   },
   {
@@ -6796,7 +6796,7 @@
     "ai_reason": "",
     "source_en": "Proceed to the next area",
     "review_note": "",
-    "new_translation_vi": "Tiến vào khu vực tiếp theo",
+    "new_translation_vi": "Đi đến khu vực tiếp theo",
     "translator_note": ""
   },
   {
@@ -6821,7 +6821,7 @@
     "ai_reason": "",
     "source_en": "Ride the rail to continue onward",
     "review_note": "",
-    "new_translation_vi": "Ride the rail để tiếp tục tiến lên",
+    "new_translation_vi": "Đi theo đường ray để tiếp tục tiến lên",
     "translator_note": ""
   },
   {
@@ -6846,7 +6846,7 @@
     "ai_reason": "",
     "source_en": "The Dreamer seals her heart and surrenders to a world of dreams beyond mortal sight. In this hidden realm built upon melancholy melodies, she walks a path of fragile hope and delusions without looking back. But the dreams she longs to realize have long been tangled up in shadow and deceit. Beneath the lofty facade of the Orchestrator, who seems to have everything, is but a wretched, pitiful soul, drowning in her own illusions.\n\nIn the end, will this dream of blooming and withering be a sweet reverie or a haunting nightmare?",
     "review_note": "",
-    "new_translation_vi": "Kẻ Mộng Mơ khóa chặt trái tim mình, chìm đắm vào thế giới mộng ảo ngoài tầm mắt phàm tục. Trong cõi ẩn này, được xây dựng từ những giai điệu u sầu, nàng bước đi trên con đường đầy hy vọng mong manh và ảo tưởng, không hề ngoảnh lại. Nhưng những giấc mơ nàng khao khát thực hiện từ lâu đã bị vướng vào bóng tối và dối trá. Dưới vỏ bọc cao sang của Nhạc Trưởng—kẻ dường như có tất cả—chỉ là một linh hồn đáng thương, khốn khổ, chìm đắm trong ảo vọng của chính mình.\n\nCuối cùng, giấc mơ nở rồi tàn này sẽ là một giấc mơ ngọt ngào hay một cơn ác mộng ám ảnh?",
+    "new_translation_vi": "Người Mộng Mơ khép chặt trái tim và chìm đắm vào thế giới giấc mơ nằm ngoài tầm mắt người thường. Trong cõi ẩn giấu được xây dựng từ những giai điệu u buồn này, cô bước đi trên con đường của hy vọng mong manh và ảo tưởng mà không hề ngoảnh lại. Nhưng những giấc mơ mà cô khao khát thực hiện từ lâu đã bị vướng vào bóng tối và sự lừa dối. Bên dưới vẻ ngoài cao quý của Orchestrator, người dường như có tất cả, chỉ là một linh hồn khốn khổ, đáng thương đang chìm đắm trong những ảo tưởng của chính mình.\\n\\nCuối cùng, giấc mơ về sự nở rộ và tàn phai này sẽ là một giấc mộng ngọt ngào hay một cơn ác mộng ám ảnh?",
     "translator_note": ""
   },
   {
@@ -6861,7 +6861,6 @@
     "primary_key": "Quest_147000002_QuestName_147_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6871,8 +6870,9 @@
     "ai_reason": "",
     "source_en": "Dreamcatchers in the Secret Gardens",
     "review_note": "",
-    "new_translation_vi": "Dreamcatcher tại Khu Vườn Bí Mật",
-    "translator_note": ""
+    "new_translation_vi": "Dreamcatchers trong Secret Gardens",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012276",
@@ -6896,7 +6896,7 @@
     "ai_reason": "",
     "source_en": "Examine the Broadcast Echo",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra Echo Broadcast",
+    "new_translation_vi": "Kiểm tra chương trình phát sóng Echo",
     "translator_note": ""
   },
   {
@@ -6911,7 +6911,6 @@
     "primary_key": "Quest_171000004_ChildQuestTip_171_10",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6921,8 +6920,9 @@
     "ai_reason": "",
     "source_en": "Head to Solis Tavern",
     "review_note": "",
-    "new_translation_vi": "Đến Solis Tavern",
-    "translator_note": ""
+    "new_translation_vi": "Đến quán rượu Solis",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012278",
@@ -6971,7 +6971,7 @@
     "ai_reason": "",
     "source_en": "Take the Gondola",
     "review_note": "",
-    "new_translation_vi": "Đi cáp treo",
+    "new_translation_vi": "Đi Gondola",
     "translator_note": ""
   },
   {
@@ -6996,7 +6996,7 @@
     "ai_reason": "",
     "source_en": "Head to the target location",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm mục tiêu",
+    "new_translation_vi": "Đến vị trí mục tiêu",
     "translator_note": ""
   },
   {
@@ -7021,7 +7021,7 @@
     "ai_reason": "",
     "source_en": "Reach the Gondola",
     "review_note": "",
-    "new_translation_vi": "Đến Gondola",
+    "new_translation_vi": "Đến chỗ Gondola",
     "translator_note": ""
   },
   {
@@ -7046,7 +7046,7 @@
     "ai_reason": "",
     "source_en": "The Dreamer seals her heart and surrenders to a world of dreams beyond mortal sight. In this hidden realm built upon melancholy melodies, she walks a path of fragile hope and delusions without looking back. But the dreams she longs to realize have long been tangled up in shadow and deceit. Beneath the lofty facade of the Orchestrator, who seems to have everything, is but a wretched, pitiful soul, drowning in her own illusions.\n\nIn the end, will this dream of blooming and withering be a sweet reverie or a haunting nightmare?",
     "review_note": "",
-    "new_translation_vi": "Kẻ Mộng Mơ khóa chặt trái tim mình, chìm đắm vào thế giới mộng ảo ngoài tầm mắt phàm tục. Trong cõi ẩn này, được xây dựng từ những giai điệu u sầu, nàng bước đi trên con đường đầy hy vọng mong manh và ảo tưởng, không hề ngoảnh lại. Nhưng những giấc mơ nàng khao khát thực hiện từ lâu đã bị vướng vào bóng tối và dối trá. Dưới vỏ bọc cao sang của Nhạc Trưởng—kẻ dường như có tất cả—chỉ là một linh hồn đáng thương, khốn khổ, chìm đắm trong ảo vọng của chính mình.\n\nCuối cùng, giấc mơ nở rồi tàn này sẽ là một giấc mơ ngọt ngào hay một cơn ác mộng ám ảnh?",
+    "new_translation_vi": "Kẻ mộng mơ khép chặt trái tim mình, đầu hàng trước thế giới mộng ảo nằm ngoài tầm mắt người thường. Trong cõi ẩn giấu được xây dựng từ những giai điệu u buồn này, cô bước đi trên con đường của hy vọng mong manh và ảo tưởng mà không hề ngoảnh lại. Nhưng những giấc mơ mà cô khao khát thực hiện từ lâu đã vướng vào bóng tối và sự lừa dối. Bên dưới vẻ ngoài cao quý của Orchestrator, người dường như có tất cả, chỉ là một linh hồn khốn khổ, đáng thương đang chìm đắm trong ảo tưởng của chính mình.\\n\\nCuối cùng, giấc mơ nở rộ và tàn phai này sẽ là một giấc mộng ngọt ngào hay một cơn ác mộng ám ảnh?",
     "translator_note": ""
   },
   {
@@ -7061,7 +7061,6 @@
     "primary_key": "Quest_171000004_QuestName_171_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7071,8 +7070,9 @@
     "ai_reason": "",
     "source_en": "Dreamcatchers in the Secret Gardens",
     "review_note": "",
-    "new_translation_vi": "Dreamcatcher tại Khu Vườn Bí Mật",
-    "translator_note": ""
+    "new_translation_vi": "Dreamcatchers tại Secret Gardens",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012284",
@@ -7096,7 +7096,7 @@
     "ai_reason": "",
     "source_en": "Examine the Broadcast Echo",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra Echo Broadcast",
+    "new_translation_vi": "Kiểm tra chương trình phát sóng Echo",
     "translator_note": ""
   },
   {
@@ -7171,7 +7171,7 @@
     "ai_reason": "",
     "source_en": "Talk to the Acolyte",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Acolyte",
+    "new_translation_vi": "Trò chuyện với Acolyte",
     "translator_note": ""
   },
   {
@@ -7196,7 +7196,7 @@
     "ai_reason": "",
     "source_en": "Continue onward and find a way out",
     "review_note": "",
-    "new_translation_vi": "Tiến lên và tìm lối thoát",
+    "new_translation_vi": "Tiếp tục đi về phía trước và tìm lối thoát",
     "translator_note": ""
   },
   {
@@ -7246,7 +7246,7 @@
     "ai_reason": "",
     "source_en": "Find a way out",
     "review_note": "",
-    "new_translation_vi": "Tìm đường ra",
+    "new_translation_vi": "Tìm lối thoát",
     "translator_note": ""
   },
   {
@@ -7271,7 +7271,7 @@
     "ai_reason": "",
     "source_en": "Find a way out",
     "review_note": "",
-    "new_translation_vi": "Tìm đường ra",
+    "new_translation_vi": "Tìm lối thoát",
     "translator_note": ""
   },
   {
@@ -7296,7 +7296,7 @@
     "ai_reason": "",
     "source_en": "Find a way out",
     "review_note": "",
-    "new_translation_vi": "Tìm đường ra",
+    "new_translation_vi": "Tìm lối thoát",
     "translator_note": ""
   },
   {
@@ -7321,7 +7321,7 @@
     "ai_reason": "",
     "source_en": "Find a way out",
     "review_note": "",
-    "new_translation_vi": "Tìm đường ra",
+    "new_translation_vi": "Tìm lối thoát",
     "translator_note": ""
   },
   {
@@ -7346,7 +7346,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -7371,7 +7371,7 @@
     "ai_reason": "",
     "source_en": "The Dreamer seals her heart and surrenders to a world of dreams beyond mortal sight. In this hidden realm built upon melancholy melodies, she walks a path of fragile hope and delusions without looking back. But the dreams she longs to realize have long been tangled up in shadow and deceit. Beneath the lofty facade of the Orchestrator, who seems to have everything, is but a wretched, pitiful soul, drowning in her own illusions.\n\nIn the end, will this dream of blooming and withering be a sweet reverie or a haunting nightmare?",
     "review_note": "",
-    "new_translation_vi": "Kẻ Mộng Mơ khóa chặt trái tim mình, chìm đắm vào thế giới mộng ảo ngoài tầm mắt phàm tục. Trong cõi ẩn này, được xây dựng từ những giai điệu u sầu, nàng bước đi trên con đường đầy hy vọng mong manh và ảo tưởng, không hề ngoảnh lại. Nhưng những giấc mơ nàng khao khát thực hiện từ lâu đã bị vướng vào bóng tối và dối trá. Dưới vỏ bọc cao sang của Nhạc Trưởng—kẻ dường như có tất cả—chỉ là một linh hồn đáng thương, khốn khổ, chìm đắm trong ảo vọng của chính mình.\n\nCuối cùng, giấc mơ nở rồi tàn này sẽ là một giấc mơ ngọt ngào hay một cơn ác mộng ám ảnh?",
+    "new_translation_vi": "Kẻ mộng mơ khép chặt trái tim mình, đầu hàng trước thế giới mộng ảo nằm ngoài tầm mắt người thường. Trong cõi ẩn giấu được xây dựng từ những giai điệu u buồn này, cô bước đi trên con đường của hy vọng mong manh và ảo tưởng mà không hề ngoảnh lại. Nhưng những giấc mơ mà cô khao khát thực hiện từ lâu đã vướng vào bóng tối và sự lừa dối. Bên dưới vẻ ngoài cao quý của Orchestrator, người dường như có tất cả, chỉ là một linh hồn khốn khổ, đáng thương đang chìm đắm trong ảo tưởng của chính mình.\\n\\nCuối cùng, giấc mơ nở rộ và tàn phai này sẽ là một giấc mộng ngọt ngào hay một cơn ác mộng ám ảnh?",
     "translator_note": ""
   },
   {
@@ -7386,7 +7386,6 @@
     "primary_key": "Quest_147000005_QuestName_147_6",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7396,8 +7395,9 @@
     "ai_reason": "",
     "source_en": "Dreamcatchers in the Secret Gardens",
     "review_note": "",
-    "new_translation_vi": "Dreamcatcher tại Khu Vườn Bí Mật",
-    "translator_note": ""
+    "new_translation_vi": "Dreamcatchers tại Secret Gardens",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012297",
@@ -7421,7 +7421,7 @@
     "ai_reason": "",
     "source_en": "Proceed to the next area",
     "review_note": "",
-    "new_translation_vi": "Tiến vào khu vực tiếp theo",
+    "new_translation_vi": "Đi đến khu vực tiếp theo",
     "translator_note": ""
   },
   {
@@ -7446,7 +7446,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi về phía trước",
     "translator_note": ""
   },
   {
@@ -7596,7 +7596,7 @@
     "ai_reason": "",
     "source_en": "Head to the lower level",
     "review_note": "",
-    "new_translation_vi": "Xuống tầng dưới",
+    "new_translation_vi": "Đến tầng dưới",
     "translator_note": ""
   },
   {
@@ -7621,7 +7621,7 @@
     "ai_reason": "",
     "source_en": "The Dreamer seals her heart and surrenders to a world of dreams beyond mortal sight. In this hidden realm built upon melancholy melodies, she walks a path of fragile hope and delusions without looking back. But the dreams she longs to realize have long been tangled up in shadow and deceit. Beneath the lofty facade of the Orchestrator, who seems to have everything, is but a wretched, pitiful soul, drowning in her own illusions.\n\nIn the end, will this dream of blooming and withering be a sweet reverie or a haunting nightmare?",
     "review_note": "",
-    "new_translation_vi": "Kẻ Mộng Mơ khóa chặt trái tim mình, chìm đắm vào thế giới mộng ảo ngoài tầm mắt phàm tục. Trong cõi ẩn này, được xây dựng từ những giai điệu u sầu, nàng bước đi trên con đường đầy hy vọng mong manh và ảo tưởng, không hề ngoảnh lại. Nhưng những giấc mơ nàng khao khát thực hiện từ lâu đã bị vướng vào bóng tối và dối trá. Dưới vỏ bọc cao sang của Nhạc Trưởng—kẻ dường như có tất cả—chỉ là một linh hồn đáng thương, khốn khổ, chìm đắm trong ảo vọng của chính mình.\n\nCuối cùng, giấc mơ nở rồi tàn này sẽ là một giấc mơ ngọt ngào hay một cơn ác mộng ám ảnh?",
+    "new_translation_vi": "Kẻ mộng mơ khép chặt trái tim mình, đầu hàng trước thế giới mộng ảo nằm ngoài tầm mắt người thường. Trong cõi ẩn giấu được xây dựng từ những giai điệu u buồn này, cô bước đi trên con đường của hy vọng mong manh và ảo tưởng mà không hề ngoảnh lại. Nhưng những giấc mơ mà cô khao khát thực hiện từ lâu đã vướng vào bóng tối và sự lừa dối. Bên dưới vẻ ngoài cao quý của Orchestrator, người dường như có tất cả, chỉ là một linh hồn khốn khổ, đáng thương đang chìm đắm trong ảo tưởng của chính mình.\\n\\nCuối cùng, giấc mơ nở rộ và tàn phai này sẽ là một giấc mộng ngọt ngào hay một cơn ác mộng ám ảnh?",
     "translator_note": ""
   },
   {
@@ -7636,7 +7636,6 @@
     "primary_key": "Quest_150000000_QuestName_150_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7646,8 +7645,9 @@
     "ai_reason": "",
     "source_en": "Dreamcatchers in the Secret Gardens",
     "review_note": "",
-    "new_translation_vi": "Dreamcatcher tại Khu Vườn Bí Mật",
-    "translator_note": ""
+    "new_translation_vi": "Dreamcatchers tại Secret Gardens",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012307",
@@ -7721,7 +7721,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi về phía trước",
     "translator_note": ""
   },
   {
@@ -7746,7 +7746,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi về phía trước",
     "translator_note": ""
   },
   {
@@ -7771,7 +7771,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi về phía trước",
     "translator_note": ""
   },
   {
@@ -7821,7 +7821,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi về phía trước",
     "translator_note": ""
   },
   {
@@ -7846,7 +7846,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi về phía trước",
     "translator_note": ""
   },
   {
@@ -7871,7 +7871,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi về phía trước",
     "translator_note": ""
   },
   {
@@ -7896,7 +7896,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi về phía trước",
     "translator_note": ""
   },
   {
@@ -7921,7 +7921,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi về phía trước",
     "translator_note": ""
   },
   {
@@ -7946,7 +7946,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi về phía trước",
     "translator_note": ""
   },
   {
@@ -7996,7 +7996,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi về phía trước",
     "translator_note": ""
   },
   {
@@ -8021,7 +8021,7 @@
     "ai_reason": "",
     "source_en": "Sneak your way forward",
     "review_note": "",
-    "new_translation_vi": "Lén tiến về phía trước",
+    "new_translation_vi": "Lén lút đi về phía trước",
     "translator_note": ""
   },
   {
@@ -8046,7 +8046,7 @@
     "ai_reason": "",
     "source_en": "Orchestrate",
     "review_note": "",
-    "new_translation_vi": "Orchestrate",
+    "new_translation_vi": "Điều phối",
     "translator_note": ""
   },
   {
@@ -8071,7 +8071,7 @@
     "ai_reason": "",
     "source_en": "Leave the area",
     "review_note": "",
-    "new_translation_vi": "Rời khỏi khu vực",
+    "new_translation_vi": "Leave khu vực này",
     "translator_note": ""
   },
   {
@@ -8096,7 +8096,7 @@
     "ai_reason": "",
     "source_en": "Complete Orchestration",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Bản Hòa Tấu",
+    "new_translation_vi": "Hoàn thành điều phối",
     "translator_note": ""
   },
   {
@@ -8121,7 +8121,7 @@
     "ai_reason": "",
     "source_en": "Continue onward and find the music sheet",
     "review_note": "",
-    "new_translation_vi": "Tiến lên và tìm bản nhạc",
+    "new_translation_vi": "Tiếp tục đi về phía trước và tìm bản nhạc",
     "translator_note": ""
   },
   {
@@ -8146,7 +8146,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi về phía trước",
     "translator_note": ""
   },
   {
@@ -8171,7 +8171,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi về phía trước",
     "translator_note": ""
   },
   {
@@ -8221,7 +8221,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi về phía trước",
     "translator_note": ""
   },
   {
@@ -8246,7 +8246,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi về phía trước",
     "translator_note": ""
   },
   {
@@ -8271,7 +8271,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi về phía trước",
     "translator_note": ""
   },
   {
@@ -8296,7 +8296,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi về phía trước",
     "translator_note": ""
   },
   {
@@ -8321,7 +8321,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi về phía trước",
     "translator_note": ""
   },
   {
@@ -8346,7 +8346,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi về phía trước",
     "translator_note": ""
   },
   {
@@ -8371,7 +8371,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi về phía trước",
     "translator_note": ""
   },
   {
@@ -8396,7 +8396,7 @@
     "ai_reason": "",
     "source_en": "Continue onward and obtain the music piece",
     "review_note": "",
-    "new_translation_vi": "Tiến lên và lấy mảnh nhạc",
+    "new_translation_vi": "Tiếp tục đi về phía trước và lấy bản nhạc",
     "translator_note": ""
   },
   {
@@ -8421,7 +8421,7 @@
     "ai_reason": "",
     "source_en": "Proceed to the next area",
     "review_note": "",
-    "new_translation_vi": "Tiến vào khu vực tiếp theo",
+    "new_translation_vi": "Đi đến khu vực tiếp theo",
     "translator_note": ""
   },
   {
@@ -8446,7 +8446,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi về phía trước",
     "translator_note": ""
   },
   {
@@ -8496,7 +8496,7 @@
     "ai_reason": "",
     "source_en": "Continue onward and find the music sheet",
     "review_note": "",
-    "new_translation_vi": "Tiến lên và tìm bản nhạc",
+    "new_translation_vi": "Tiếp tục đi về phía trước và tìm bản nhạc",
     "translator_note": ""
   },
   {
@@ -8521,7 +8521,7 @@
     "ai_reason": "",
     "source_en": "Ride the rail",
     "review_note": "",
-    "new_translation_vi": "Đi trên đường ray",
+    "new_translation_vi": "Đi đường ray",
     "translator_note": ""
   },
   {
@@ -8546,7 +8546,7 @@
     "ai_reason": "",
     "source_en": "Leave this area",
     "review_note": "",
-    "new_translation_vi": "Rời khỏi khu vực này",
+    "new_translation_vi": "Leave khu vực này",
     "translator_note": ""
   },
   {
@@ -8571,7 +8571,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi về phía trước",
     "translator_note": ""
   },
   {
@@ -8596,7 +8596,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi về phía trước",
     "translator_note": ""
   },
   {
@@ -8621,7 +8621,7 @@
     "ai_reason": "",
     "source_en": "Continue onward and find the music sheet",
     "review_note": "",
-    "new_translation_vi": "Tiến lên và tìm bản nhạc",
+    "new_translation_vi": "Tiếp tục đi về phía trước và tìm bản nhạc",
     "translator_note": ""
   },
   {
@@ -8646,7 +8646,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi về phía trước",
     "translator_note": ""
   },
   {
@@ -8671,7 +8671,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi về phía trước",
     "translator_note": ""
   },
   {
@@ -8721,7 +8721,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi về phía trước",
     "translator_note": ""
   },
   {
@@ -8746,7 +8746,7 @@
     "ai_reason": "",
     "source_en": "Ride the rail to continue onward",
     "review_note": "",
-    "new_translation_vi": "Ride the rail để tiếp tục tiến lên",
+    "new_translation_vi": "Đi đường ray để tiếp tục đi về phía trước",
     "translator_note": ""
   },
   {
@@ -8771,7 +8771,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi về phía trước",
     "translator_note": ""
   },
   {
@@ -8796,7 +8796,7 @@
     "ai_reason": "",
     "source_en": "Read the file",
     "review_note": "",
-    "new_translation_vi": "Đọc tập tin",
+    "new_translation_vi": "Đọc tệp tin",
     "translator_note": ""
   },
   {
@@ -8821,7 +8821,7 @@
     "ai_reason": "",
     "source_en": "Read the file",
     "review_note": "",
-    "new_translation_vi": "Đọc tập tin",
+    "new_translation_vi": "Đọc tệp tin",
     "translator_note": ""
   },
   {
@@ -8846,7 +8846,7 @@
     "ai_reason": "",
     "source_en": "Read the file",
     "review_note": "",
-    "new_translation_vi": "Đọc tập tin",
+    "new_translation_vi": "Đọc tệp tin",
     "translator_note": ""
   },
   {
@@ -8896,7 +8896,7 @@
     "ai_reason": "",
     "source_en": "The Dreamer seals her heart and surrenders to a world of dreams beyond mortal sight. In this hidden realm built upon melancholy melodies, she walks a path of fragile hope and delusions without looking back. But the dreams she longs to realize have long been tangled up in shadow and deceit. Beneath the lofty facade of the Orchestrator, who seems to have everything, is but a wretched, pitiful soul, drowning in her own illusions.\n\nIn the end, will this dream of blooming and withering be a sweet reverie or a haunting nightmare?",
     "review_note": "",
-    "new_translation_vi": "Kẻ Mộng Mơ khóa chặt trái tim mình, chìm đắm vào thế giới mộng ảo ngoài tầm mắt phàm tục. Trong cõi ẩn này, được xây dựng từ những giai điệu u sầu, nàng bước đi trên con đường đầy hy vọng mong manh và ảo tưởng, không hề ngoảnh lại. Nhưng những giấc mơ nàng khao khát thực hiện từ lâu đã bị vướng vào bóng tối và dối trá. Dưới vỏ bọc cao sang của Nhạc Trưởng—kẻ dường như có tất cả—chỉ là một linh hồn đáng thương, khốn khổ, chìm đắm trong ảo vọng của chính mình.\n\nCuối cùng, giấc mơ nở rồi tàn này sẽ là một giấc mơ ngọt ngào hay một cơn ác mộng ám ảnh?",
+    "new_translation_vi": "Người mộng mơ khóa chặt trái tim mình, đầu hàng trước thế giới mộng ảo nằm ngoài tầm mắt người phàm. Trong cõi ẩn giấu được xây dựng từ những giai điệu u sầu này, cô bước đi trên con đường của hy vọng mong manh và những ảo tưởng mà không hề ngoảnh lại. Nhưng những giấc mơ cô khao khát thực hiện từ lâu đã bị vướng vào bóng tối và sự dối trá. Bên dưới vẻ ngoài cao quý của Orchestrator, người dường như có tất cả, chỉ là một linh hồn khốn khổ, đáng thương đang chìm đắm trong những ảo tưởng của chính mình.\\n\\nCuối cùng, giấc mơ về sự nở rộ và tàn phai này sẽ là một giấc mộng ngọt ngào hay một cơn ác mộng ám ảnh?",
     "translator_note": ""
   },
   {
@@ -8911,7 +8911,6 @@
     "primary_key": "Quest_172000003_QuestName_172_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8921,8 +8920,9 @@
     "ai_reason": "",
     "source_en": "Dreamcatchers in the Secret Gardens",
     "review_note": "",
-    "new_translation_vi": "Dreamcatcher tại Khu Vườn Bí Mật",
-    "translator_note": ""
+    "new_translation_vi": "Dreamcatchers tại Secret Gardens",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012358",
@@ -8971,7 +8971,7 @@
     "ai_reason": "",
     "source_en": "Talk to Avidius (Optional)",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Avidius (Tùy chọn)",
+    "new_translation_vi": "Trò chuyện với Avidius (Tùy chọn)",
     "translator_note": ""
   },
   {
@@ -8996,7 +8996,7 @@
     "ai_reason": "",
     "source_en": "Talk to the lady holding a candelabra",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với người phụ nữ cầm chân nến",
+    "new_translation_vi": "Trò chuyện với người phụ nữ đang cầm chân nến",
     "translator_note": ""
   },
   {
@@ -9046,7 +9046,7 @@
     "ai_reason": "",
     "source_en": "Listen in on the Gladiators' conversation",
     "review_note": "",
-    "new_translation_vi": "Nghe lén cuộc trò chuyện của bọn Đấu Sĩ",
+    "new_translation_vi": "Nghe lén cuộc trò chuyện của các Gladiator",
     "translator_note": ""
   },
   {
@@ -9071,7 +9071,7 @@
     "ai_reason": "",
     "source_en": "(Optional) About the High Tide of unprecedented scale",
     "review_note": "",
-    "new_translation_vi": "(Tùy chọn) Về Đại Triều Tide chưa từng có tiền lệ",
+    "new_translation_vi": "(Tùy chọn) Về Tide quy mô chưa từng có",
     "translator_note": ""
   },
   {
@@ -9096,7 +9096,7 @@
     "ai_reason": "",
     "source_en": "Leave the Ephor's Palace and wait for the hunt",
     "review_note": "",
-    "new_translation_vi": "Rời Ephor's Palace và chờ lệnh săn",
+    "new_translation_vi": "Leave Ephor's Palace và chờ đợi cuộc săn",
     "translator_note": ""
   },
   {
@@ -9146,7 +9146,7 @@
     "ai_reason": "",
     "source_en": "Look for Augusta",
     "review_note": "",
-    "new_translation_vi": "Tìm Augusta",
+    "new_translation_vi": "Tìm kiếm Augusta",
     "translator_note": ""
   },
   {
@@ -9171,7 +9171,7 @@
     "ai_reason": "",
     "source_en": "Pursue Corrosaurus: Tyrannos",
     "review_note": "",
-    "new_translation_vi": "Đuổi theo Corrosaurus: Tyrannos",
+    "new_translation_vi": "Truy đuổi Corrosaurus: Tyrannos",
     "translator_note": ""
   },
   {
@@ -9186,7 +9186,6 @@
     "primary_key": "Quest_311000001_ChildQuestTip_173_125",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9196,8 +9195,9 @@
     "ai_reason": "",
     "source_en": "Ride the Wingray",
     "review_note": "",
-    "new_translation_vi": "Ride cá đuối Wingray",
-    "translator_note": ""
+    "new_translation_vi": "Cưỡi Wingray",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012369",
@@ -9221,7 +9221,7 @@
     "ai_reason": "",
     "source_en": "Use Utility: Sensor to track down Tyrannos",
     "review_note": "",
-    "new_translation_vi": "Dùng Công cụ: Sensor để truy tìm Tyrannos.",
+    "new_translation_vi": "Sử dụng Utility: Sensor để theo dấu Tyrannos",
     "translator_note": ""
   },
   {
@@ -9246,7 +9246,7 @@
     "ai_reason": "",
     "source_en": "Head towards the cries",
     "review_note": "",
-    "new_translation_vi": "Đi về phía tiếng kêu",
+    "new_translation_vi": "Đi về phía những tiếng kêu",
     "translator_note": ""
   },
   {
@@ -9296,7 +9296,7 @@
     "ai_reason": "",
     "source_en": "Pursue Corrosaurus: Tyrannos",
     "review_note": "",
-    "new_translation_vi": "Đuổi theo Corrosaurus: Tyrannos",
+    "new_translation_vi": "Truy đuổi Corrosaurus: Tyrannos",
     "translator_note": ""
   },
   {
@@ -9346,7 +9346,7 @@
     "ai_reason": "",
     "source_en": "Follow Avidius to Tempest Cliffs",
     "review_note": "",
-    "new_translation_vi": "Đi theo Avidius đến Tempest Cliffs.",
+    "new_translation_vi": "Đi theo Avidius đến Tempest Cliffs",
     "translator_note": ""
   },
   {
@@ -9361,7 +9361,6 @@
     "primary_key": "Quest_311000001_ChildQuestTip_173_162",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9371,8 +9370,9 @@
     "ai_reason": "",
     "source_en": "(Optional) Ride the Wingray",
     "review_note": "",
-    "new_translation_vi": "(Tùy chọn) Ride Wingray",
-    "translator_note": ""
+    "new_translation_vi": "(Tùy chọn) Cưỡi Wingray",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012376",
@@ -9421,7 +9421,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Corrosaurus",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt Corrosaurus",
+    "new_translation_vi": "Đánh bại Corrosaurus",
     "translator_note": ""
   },
   {
@@ -9461,7 +9461,6 @@
     "primary_key": "Quest_311000001_ChildQuestTip_29_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9471,8 +9470,9 @@
     "ai_reason": "",
     "source_en": "Follow Augusta and Iuno to the Hunter's Den",
     "review_note": "",
-    "new_translation_vi": "Đi theo Augusta và Iuno đến Hang Thợ Săn.",
-    "translator_note": ""
+    "new_translation_vi": "Đi theo Augusta và Iuno đến Hunter's Den",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012380",
@@ -9486,7 +9486,6 @@
     "primary_key": "Quest_311000001_ChildQuestTip_311_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9496,8 +9495,9 @@
     "ai_reason": "",
     "source_en": "Return to the Leonidas Hotel",
     "review_note": "",
-    "new_translation_vi": "Quay lại Khách sạn Leonidas",
-    "translator_note": ""
+    "new_translation_vi": "Quay lại Leonidas Hotel",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012381",
@@ -9546,7 +9546,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Corrosaurus",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt Corrosaurus",
+    "new_translation_vi": "Đánh bại Corrosaurus",
     "translator_note": ""
   },
   {
@@ -9596,7 +9596,7 @@
     "ai_reason": "",
     "source_en": "Meet with Augusta",
     "review_note": "",
-    "new_translation_vi": "Gặp Augusta",
+    "new_translation_vi": "Gặp gỡ Augusta",
     "translator_note": ""
   },
   {
@@ -9646,7 +9646,7 @@
     "ai_reason": "",
     "source_en": "Follow Tyrannos's trail and press onward",
     "review_note": "",
-    "new_translation_vi": "Đi theo dấu vết của Tyrannos và tiến lên phía trước",
+    "new_translation_vi": "Theo dấu vết của Tyrannos và tiếp tục tiến lên",
     "translator_note": ""
   },
   {
@@ -9696,7 +9696,7 @@
     "ai_reason": "",
     "source_en": "Pursue Corrosaurus: Tyrannos",
     "review_note": "",
-    "new_translation_vi": "Đuổi theo Corrosaurus: Tyrannos",
+    "new_translation_vi": "Truy đuổi Corrosaurus: Tyrannos",
     "translator_note": ""
   },
   {
@@ -9721,7 +9721,7 @@
     "ai_reason": "",
     "source_en": "Pursue Corrosaurus: Tyrannos",
     "review_note": "",
-    "new_translation_vi": "Đuổi theo Corrosaurus: Tyrannos",
+    "new_translation_vi": "Truy đuổi Corrosaurus: Tyrannos",
     "translator_note": ""
   },
   {
@@ -9746,7 +9746,7 @@
     "ai_reason": "",
     "source_en": "Pursue Corrosaurus: Tyrannos",
     "review_note": "",
-    "new_translation_vi": "Đuổi theo Corrosaurus: Tyrannos",
+    "new_translation_vi": "Truy đuổi Corrosaurus: Tyrannos",
     "translator_note": ""
   },
   {
@@ -9761,18 +9761,18 @@
     "primary_key": "Quest_311000001_InteractContent_173_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Lillibet",
     "review_note": "",
     "new_translation_vi": "Lillibet",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "QUEST_0012392",
@@ -9896,7 +9896,7 @@
     "ai_reason": "",
     "source_en": "Follow",
     "review_note": "",
-    "new_translation_vi": "Follow",
+    "new_translation_vi": "Đi theo",
     "translator_note": ""
   },
   {
@@ -9921,7 +9921,7 @@
     "ai_reason": "",
     "source_en": "Follow",
     "review_note": "",
-    "new_translation_vi": "Follow",
+    "new_translation_vi": "Đi theo",
     "translator_note": ""
   },
   {
@@ -9946,7 +9946,7 @@
     "ai_reason": "",
     "source_en": "Enter",
     "review_note": "",
-    "new_translation_vi": "Enter",
+    "new_translation_vi": "Vào",
     "translator_note": ""
   },
   {
@@ -9961,7 +9961,6 @@
     "primary_key": "Quest_311000001_QuestDesc_311_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9971,8 +9970,9 @@
     "ai_reason": "",
     "source_en": "As the High Tide draws near, a lurking calamity stirs, with its gaze fixed upon the borders of Septimont. Ephor Augusta invites you to the Sanguis Plateaus for a fateful hunt, the one that may decide the realm's survival...",
     "review_note": "",
-    "new_translation_vi": "Khi Thủy Triều High đến gần, một tai họa tiềm ẩn đang thức tỉnh, ánh mắt hắn đổ dồn về biên giới Septimont. Ephor Augusta mời ngươi đến Sanguis Plateaus để tham gia một cuộc săn định mệnh, cuộc săn có thể quyết định sự sống còn của vương quốc...",
-    "translator_note": ""
+    "new_translation_vi": "Khi High Tide đến gần, một tai họa đang rình rập trỗi dậy, với ánh mắt đổ dồn về phía biên giới của Septimont. Ephor Augusta mời bạn đến Sanguis Plateaus cho một cuộc săn định mệnh, cuộc săn có thể quyết định sự sống còn của vương quốc...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012400",
@@ -9996,7 +9996,7 @@
     "ai_reason": "",
     "source_en": "By Sun's Burning Hand",
     "review_note": "",
-    "new_translation_vi": "Bằng Bàn Tay Cháy Bỏng Của Mặt Trời",
+    "new_translation_vi": "Bởi bàn tay của Sun Burning",
     "translator_note": ""
   },
   {
@@ -10061,7 +10061,6 @@
     "primary_key": "Quest_311000001_QuestScheduleMainTitle_173_10",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10071,8 +10070,9 @@
     "ai_reason": "",
     "source_en": "Follow Augusta and Iuno to the Hunter's Den",
     "review_note": "",
-    "new_translation_vi": "Đi theo Augusta và Iuno đến Hang Thợ Săn.",
-    "translator_note": ""
+    "new_translation_vi": "Đi theo Augusta và Iuno đến Hunter's Den",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012404",
@@ -10096,7 +10096,7 @@
     "ai_reason": "",
     "source_en": "Follow Avidius to Tempest Cliffs",
     "review_note": "",
-    "new_translation_vi": "Đi theo Avidius đến Tempest Cliffs.",
+    "new_translation_vi": "Đi theo Avidius đến Tempest Cliffs",
     "translator_note": ""
   },
   {
@@ -10196,7 +10196,7 @@
     "ai_reason": "",
     "source_en": "Listen in on the Gladiators' conversation",
     "review_note": "",
-    "new_translation_vi": "Nghe lén cuộc trò chuyện của bọn Đấu Sĩ",
+    "new_translation_vi": "Nghe lén cuộc trò chuyện của các Gladiator",
     "translator_note": ""
   },
   {
@@ -10211,7 +10211,6 @@
     "primary_key": "Quest_311000001_QuestScheduleSubTitle_173_15",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10221,8 +10220,9 @@
     "ai_reason": "",
     "source_en": "Ride the Wingray (Optional)",
     "review_note": "",
-    "new_translation_vi": "Ride cá đuối Wingray (Tùy chọn)",
-    "translator_note": ""
+    "new_translation_vi": "Cưỡi Wingray (Tùy chọn)",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012410",
@@ -10246,7 +10246,7 @@
     "ai_reason": "",
     "source_en": "Examine the small murals on the upper left and right (optional)",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra hai bức tranh tường nhỏ ở góc trên trái và phải (không bắt buộc)",
+    "new_translation_vi": "Kiểm tra các bức tranh tường nhỏ ở phía trên bên trái và bên phải (tùy chọn)",
     "translator_note": ""
   },
   {
@@ -10261,7 +10261,6 @@
     "primary_key": "Quest_311000001_QuestScheduleSubTitle_173_17",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10271,8 +10270,9 @@
     "ai_reason": "",
     "source_en": "Ride the Wingray (optional)",
     "review_note": "",
-    "new_translation_vi": "Ride Wingray (tùy chọn)",
-    "translator_note": ""
+    "new_translation_vi": "Cưỡi Wingray (tùy chọn)",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012412",
@@ -10286,7 +10286,6 @@
     "primary_key": "Quest_311000001_ChildQuestTip_311_58",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10296,8 +10295,9 @@
     "ai_reason": "",
     "source_en": "Ride the Wingray and head to Murmurstown",
     "review_note": "",
-    "new_translation_vi": "Ride Wingray đến Murmurstown",
-    "translator_note": ""
+    "new_translation_vi": "Cưỡi Wingray và đến Murmurstown",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012413",
@@ -10346,7 +10346,7 @@
     "ai_reason": "",
     "source_en": "Enter the Sonoro Sphere at the Waystone",
     "review_note": "",
-    "new_translation_vi": "Enter the Sonoro Sphere tại Waystone",
+    "new_translation_vi": "Vào Sonoro Sphere tại Waystone",
     "translator_note": ""
   },
   {
@@ -10396,7 +10396,7 @@
     "ai_reason": "",
     "source_en": "Exit the Sonoro Sphere at the Waystone",
     "review_note": "",
-    "new_translation_vi": "Rời Sonoro Sphere tại Điểm Waystone",
+    "new_translation_vi": "Rời khỏi Sonoro Sphere tại Waystone",
     "translator_note": ""
   },
   {
@@ -10421,7 +10421,7 @@
     "ai_reason": "",
     "source_en": "Shatter the Hollow Figures and free the \"light spark\"",
     "review_note": "",
-    "new_translation_vi": "Phá vỡ Hollow Figure và giải phóng \"tia sáng\"",
+    "new_translation_vi": "Phá hủy các Hollow Figure và giải phóng \"tia sáng\"",
     "translator_note": ""
   },
   {
@@ -10446,7 +10446,7 @@
     "ai_reason": "",
     "source_en": "Inspect the Phantoms again",
     "review_note": "",
-    "new_translation_vi": "Inspect lại bọn Phantom",
+    "new_translation_vi": "Kiểm tra lại các Phantom",
     "translator_note": ""
   },
   {
@@ -10471,7 +10471,7 @@
     "ai_reason": "",
     "source_en": "Follow after the Phantoms",
     "review_note": "",
-    "new_translation_vi": "Đuổi theo các Phantom",
+    "new_translation_vi": "Đi theo các Phantom",
     "translator_note": ""
   },
   {
@@ -10521,7 +10521,7 @@
     "ai_reason": "",
     "source_en": "Follow the coordinates and pursue the False Sovereign",
     "review_note": "",
-    "new_translation_vi": "Theo tọa độ và truy đuổi False Sovereign",
+    "new_translation_vi": "Đi theo tọa độ và truy đuổi the False Sovereign",
     "translator_note": ""
   },
   {
@@ -10546,7 +10546,7 @@
     "ai_reason": "",
     "source_en": "Head to Earthrend Wedge with the Anchor Stone",
     "review_note": "",
-    "new_translation_vi": "Đến Earthrend Wedge cùng với Đá Neo",
+    "new_translation_vi": "Đến Earthrend Wedge cùng với Anchor Stone",
     "translator_note": ""
   },
   {
@@ -10621,7 +10621,7 @@
     "ai_reason": "",
     "source_en": "Talk to Augusta",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Augusta",
+    "new_translation_vi": "Trò chuyện với Augusta",
     "translator_note": ""
   },
   {
@@ -10646,7 +10646,7 @@
     "ai_reason": "",
     "source_en": "Retrieve Imperator's Relic before heading to the Earthrend Wedge",
     "review_note": "",
-    "new_translation_vi": "Thu thập Di Vật Đế Vương trước khi đến Earthrend Wedge",
+    "new_translation_vi": "Lấy Imperator's Relic trước khi đến Earthrend Wedge",
     "translator_note": ""
   },
   {
@@ -10671,7 +10671,7 @@
     "ai_reason": "",
     "source_en": "Talk to Augusta",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Augusta",
+    "new_translation_vi": "Trò chuyện với Augusta",
     "translator_note": ""
   },
   {
@@ -10696,7 +10696,7 @@
     "ai_reason": "",
     "source_en": "Inspect the Phantoms",
     "review_note": "",
-    "new_translation_vi": "Inspect bọn Phantom",
+    "new_translation_vi": "Kiểm tra các Phantom",
     "translator_note": ""
   },
   {
@@ -10746,7 +10746,7 @@
     "ai_reason": "",
     "source_en": "(Optional) Talk to Avidius",
     "review_note": "",
-    "new_translation_vi": "(Tùy chọn) Talk với Avidius",
+    "new_translation_vi": "(Tùy chọn) Trò chuyện với Avidius",
     "translator_note": ""
   },
   {
@@ -10771,7 +10771,7 @@
     "ai_reason": "",
     "source_en": "Enter",
     "review_note": "",
-    "new_translation_vi": "Enter",
+    "new_translation_vi": "Vào",
     "translator_note": ""
   },
   {
@@ -10796,7 +10796,7 @@
     "ai_reason": "",
     "source_en": "Enter the Sonoro Sphere at the Waystone",
     "review_note": "",
-    "new_translation_vi": "Enter the Sonoro Sphere tại Waystone",
+    "new_translation_vi": "Vào Sonoro Sphere tại Waystone",
     "translator_note": ""
   },
   {
@@ -10871,7 +10871,7 @@
     "ai_reason": "",
     "source_en": "Inspect the Phantoms again",
     "review_note": "",
-    "new_translation_vi": "Inspect lại bọn Phantom",
+    "new_translation_vi": "Kiểm tra lại các Phantom",
     "translator_note": ""
   },
   {
@@ -10921,7 +10921,7 @@
     "ai_reason": "",
     "source_en": "Inspect the source of the noise",
     "review_note": "",
-    "new_translation_vi": "Inspect nguồn phát ra tiếng động",
+    "new_translation_vi": "Kiểm tra nguồn gốc tiếng ồn",
     "translator_note": ""
   },
   {
@@ -10946,7 +10946,7 @@
     "ai_reason": "",
     "source_en": "Exit the Sonoro Sphere at the Waystone",
     "review_note": "",
-    "new_translation_vi": "Rời Sonoro Sphere tại Điểm Waystone",
+    "new_translation_vi": "Rời khỏi Sonoro Sphere tại Waystone",
     "translator_note": ""
   },
   {
@@ -10971,7 +10971,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Tacet Discords",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Tacet Discords",
+    "new_translation_vi": "Tiêu diệt các Tacet Discord",
     "translator_note": ""
   },
   {
@@ -10996,7 +10996,7 @@
     "ai_reason": "",
     "source_en": "Enter the Sonoro Sphere at the Waystone",
     "review_note": "",
-    "new_translation_vi": "Enter the Sonoro Sphere tại Waystone",
+    "new_translation_vi": "Vào Sonoro Sphere tại Waystone",
     "translator_note": ""
   },
   {
@@ -11021,7 +11021,7 @@
     "ai_reason": "",
     "source_en": "Inspect the Phantom in Oak Hollow",
     "review_note": "",
-    "new_translation_vi": "Inspect Phantom ở Oak Hollow",
+    "new_translation_vi": "Kiểm tra Phantom ở Oak Hollow",
     "translator_note": ""
   },
   {
@@ -11046,7 +11046,7 @@
     "ai_reason": "",
     "source_en": "Obtain the pure Dark Tide frequency",
     "review_note": "",
-    "new_translation_vi": "Thu thập tần số Dark Tide tinh khiết",
+    "new_translation_vi": "Thu thập tần số Dark Tide thuần khiết",
     "translator_note": ""
   },
   {
@@ -11071,7 +11071,7 @@
     "ai_reason": "",
     "source_en": "Defeat the False Sovereign",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Kẻ giả mạo Quân chủ",
+    "new_translation_vi": "Đánh bại the False Sovereign",
     "translator_note": ""
   },
   {
@@ -11096,7 +11096,7 @@
     "ai_reason": "",
     "source_en": "Follow the \"light spark\"  and explore the Sonoro",
     "review_note": "",
-    "new_translation_vi": "Đi theo \"tia sáng\" và khám phá Sonoro",
+    "new_translation_vi": "Theo dấu \"tia sáng\" và khám phá Sonoro",
     "translator_note": ""
   },
   {
@@ -11121,7 +11121,7 @@
     "ai_reason": "",
     "source_en": "Enter the Sonoro Sphere at the Waystone",
     "review_note": "",
-    "new_translation_vi": "Enter the Sonoro Sphere tại Waystone",
+    "new_translation_vi": "Vào Sonoro Sphere tại Waystone",
     "translator_note": ""
   },
   {
@@ -11146,7 +11146,7 @@
     "ai_reason": "",
     "source_en": "Enter the Sonoro Sphere at the Waystone",
     "review_note": "",
-    "new_translation_vi": "Enter the Sonoro Sphere tại Waystone",
+    "new_translation_vi": "Vào Sonoro Sphere tại Waystone",
     "translator_note": ""
   },
   {
@@ -11171,7 +11171,7 @@
     "ai_reason": "",
     "source_en": "Follow the \"light spark\"  and explore the Sonoro",
     "review_note": "",
-    "new_translation_vi": "Đi theo \"tia sáng\" và khám phá Sonoro",
+    "new_translation_vi": "Theo dấu \"tia sáng\" và khám phá Sonoro",
     "translator_note": ""
   },
   {
@@ -11196,7 +11196,7 @@
     "ai_reason": "",
     "source_en": "Enter the Sonoro Sphere at the Waystone",
     "review_note": "",
-    "new_translation_vi": "Enter the Sonoro Sphere tại Waystone",
+    "new_translation_vi": "Vào Sonoro Sphere tại Waystone",
     "translator_note": ""
   },
   {
@@ -11221,7 +11221,7 @@
     "ai_reason": "",
     "source_en": "Follow the \"light spark\"  and explore the Sonoro",
     "review_note": "",
-    "new_translation_vi": "Đi theo \"tia sáng\" và khám phá Sonoro",
+    "new_translation_vi": "Theo dấu \"tia sáng\" và khám phá Sonoro",
     "translator_note": ""
   },
   {
@@ -11246,7 +11246,7 @@
     "ai_reason": "",
     "source_en": "Enter the Sonoro Sphere at the Waystone",
     "review_note": "",
-    "new_translation_vi": "Enter the Sonoro Sphere tại Waystone",
+    "new_translation_vi": "Vào Sonoro Sphere tại Waystone",
     "translator_note": ""
   },
   {
@@ -11271,7 +11271,7 @@
     "ai_reason": "",
     "source_en": "Follow the \"light spark\"  and explore the Sonoro",
     "review_note": "",
-    "new_translation_vi": "Đi theo \"tia sáng\" và khám phá Sonoro",
+    "new_translation_vi": "Theo dấu \"tia sáng\" và khám phá Sonoro",
     "translator_note": ""
   },
   {
@@ -11296,7 +11296,7 @@
     "ai_reason": "",
     "source_en": "Enter the Sonoro Sphere at the Waystone",
     "review_note": "",
-    "new_translation_vi": "Enter the Sonoro Sphere tại Waystone",
+    "new_translation_vi": "Vào Sonoro Sphere tại Waystone",
     "translator_note": ""
   },
   {
@@ -11321,7 +11321,7 @@
     "ai_reason": "",
     "source_en": "Inspect the Phantoms again",
     "review_note": "",
-    "new_translation_vi": "Inspect lại bọn Phantom",
+    "new_translation_vi": "Kiểm tra lại các Phantom",
     "translator_note": ""
   },
   {
@@ -11346,7 +11346,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Tacet Discords and pass through Murmurstown",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Tacet Discords và đi qua Murmurstown",
+    "new_translation_vi": "Tiêu diệt các Tacet Discord và đi qua Murmurstown",
     "translator_note": ""
   },
   {
@@ -11371,7 +11371,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Tacet Discords and pass through Murmurstown",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Tacet Discords và đi qua Murmurstown",
+    "new_translation_vi": "Tiêu diệt các Tacet Discord và đi qua Murmurstown",
     "translator_note": ""
   },
   {
@@ -11396,7 +11396,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Tacet Discords and pass through Murmurstown",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Tacet Discords và đi qua Murmurstown",
+    "new_translation_vi": "Tiêu diệt các Tacet Discord và đi qua Murmurstown",
     "translator_note": ""
   },
   {
@@ -11421,7 +11421,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Tacet Discords and pass through Murmurstown",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Tacet Discords và đi qua Murmurstown",
+    "new_translation_vi": "Tiêu diệt các Tacet Discord và đi qua Murmurstown",
     "translator_note": ""
   },
   {
@@ -11446,7 +11446,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Tacet Discords and pass through Murmurstown",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Tacet Discords và đi qua Murmurstown",
+    "new_translation_vi": "Tiêu diệt các Tacet Discord và đi qua Murmurstown",
     "translator_note": ""
   },
   {
@@ -11471,7 +11471,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Tacet Discords and pass through Murmurstown",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Tacet Discords và đi qua Murmurstown",
+    "new_translation_vi": "Tiêu diệt các Tacet Discord và đi qua Murmurstown",
     "translator_note": ""
   },
   {
@@ -11496,7 +11496,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Tacet Discords and pass through Murmurstown",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Tacet Discords và đi qua Murmurstown",
+    "new_translation_vi": "Tiêu diệt các Tacet Discord và đi qua Murmurstown",
     "translator_note": ""
   },
   {
@@ -11521,7 +11521,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Tacet Discords and pass through Murmurstown",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Tacet Discords và đi qua Murmurstown",
+    "new_translation_vi": "Tiêu diệt các Tacet Discord và đi qua Murmurstown",
     "translator_note": ""
   },
   {
@@ -11546,7 +11546,7 @@
     "ai_reason": "",
     "source_en": "Exit the Sonoro Sphere at the Waystone",
     "review_note": "",
-    "new_translation_vi": "Rời Sonoro Sphere tại Điểm Waystone",
+    "new_translation_vi": "Rời khỏi Sonoro Sphere tại Waystone",
     "translator_note": ""
   },
   {
@@ -11596,7 +11596,7 @@
     "ai_reason": "",
     "source_en": "Exit the Sonoro Sphere at the Waystone",
     "review_note": "",
-    "new_translation_vi": "Rời Sonoro Sphere tại Điểm Waystone",
+    "new_translation_vi": "Rời khỏi Sonoro Sphere tại Waystone",
     "translator_note": ""
   },
   {
@@ -11621,7 +11621,7 @@
     "ai_reason": "",
     "source_en": "Shatter the Hollow Figures and free the \"light spark\"",
     "review_note": "",
-    "new_translation_vi": "Phá vỡ Hollow Figure và giải phóng \"tia sáng\"",
+    "new_translation_vi": "Phá hủy các Hollow Figure và giải phóng \"tia sáng\"",
     "translator_note": ""
   },
   {
@@ -11646,7 +11646,7 @@
     "ai_reason": "",
     "source_en": "Defeat the False Sovereign",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Kẻ giả mạo Quân chủ",
+    "new_translation_vi": "Đánh bại the False Sovereign",
     "translator_note": ""
   },
   {
@@ -11671,7 +11671,7 @@
     "ai_reason": "",
     "source_en": "Enter the Sonoro Sphere at the Waystone",
     "review_note": "",
-    "new_translation_vi": "Enter the Sonoro Sphere tại Waystone",
+    "new_translation_vi": "Vào Sonoro Sphere tại Waystone",
     "translator_note": ""
   },
   {
@@ -11696,7 +11696,7 @@
     "ai_reason": "",
     "source_en": "Investigate the source of the noise",
     "review_note": "",
-    "new_translation_vi": "Tìm nguồn gốc tiếng động",
+    "new_translation_vi": "Kiểm tra nguồn gốc tiếng ồn",
     "translator_note": ""
   },
   {
@@ -11721,7 +11721,7 @@
     "ai_reason": "",
     "source_en": "Enter the Sonoro Sphere at the Waystone",
     "review_note": "",
-    "new_translation_vi": "Enter the Sonoro Sphere tại Waystone",
+    "new_translation_vi": "Vào Sonoro Sphere tại Waystone",
     "translator_note": ""
   },
   {
@@ -11746,7 +11746,7 @@
     "ai_reason": "",
     "source_en": "Follow the \"light spark\"  and explore the Sonoro",
     "review_note": "",
-    "new_translation_vi": "Đi theo \"tia sáng\" và khám phá Sonoro",
+    "new_translation_vi": "Theo dấu \"tia sáng\" và khám phá Sonoro",
     "translator_note": ""
   },
   {
@@ -11771,7 +11771,7 @@
     "ai_reason": "",
     "source_en": "Enter the Sonoro Sphere at the Waystone",
     "review_note": "",
-    "new_translation_vi": "Enter the Sonoro Sphere tại Waystone",
+    "new_translation_vi": "Vào Sonoro Sphere tại Waystone",
     "translator_note": ""
   },
   {
@@ -11796,7 +11796,7 @@
     "ai_reason": "",
     "source_en": "Inspect the Phantoms",
     "review_note": "",
-    "new_translation_vi": "Inspect bọn Phantom",
+    "new_translation_vi": "Kiểm tra các Phantom",
     "translator_note": ""
   },
   {
@@ -11821,7 +11821,7 @@
     "ai_reason": "",
     "source_en": "Venture deep into the Sonoro",
     "review_note": "",
-    "new_translation_vi": "Đi sâu vào Sonoro",
+    "new_translation_vi": "Tiến sâu vào Sonoro",
     "translator_note": ""
   },
   {
@@ -11846,7 +11846,7 @@
     "ai_reason": "",
     "source_en": "Head to Earthrend Wedge",
     "review_note": "",
-    "new_translation_vi": "Đến Earthrend Wedge",
+    "new_translation_vi": "Đi đến Earthrend Wedge",
     "translator_note": ""
   },
   {
@@ -11871,7 +11871,7 @@
     "ai_reason": "",
     "source_en": "Exit the Sonoro Sphere at the Waystone",
     "review_note": "",
-    "new_translation_vi": "Rời Sonoro Sphere tại Điểm Waystone",
+    "new_translation_vi": "Rời khỏi Sonoro Sphere tại Waystone",
     "translator_note": ""
   },
   {
@@ -11896,7 +11896,7 @@
     "ai_reason": "",
     "source_en": "Listen in",
     "review_note": "",
-    "new_translation_vi": "Nghe lén",
+    "new_translation_vi": "Lắng nghe",
     "translator_note": ""
   },
   {
@@ -11921,7 +11921,7 @@
     "ai_reason": "",
     "source_en": "Take",
     "review_note": "",
-    "new_translation_vi": "Take",
+    "new_translation_vi": "Lấy",
     "translator_note": ""
   },
   {
@@ -11946,7 +11946,7 @@
     "ai_reason": "",
     "source_en": "Listen in",
     "review_note": "",
-    "new_translation_vi": "Nghe lén",
+    "new_translation_vi": "Lắng nghe",
     "translator_note": ""
   },
   {
@@ -11971,7 +11971,7 @@
     "ai_reason": "",
     "source_en": "Listen in",
     "review_note": "",
-    "new_translation_vi": "Nghe lén",
+    "new_translation_vi": "Lắng nghe",
     "translator_note": ""
   },
   {
@@ -11996,7 +11996,7 @@
     "ai_reason": "",
     "source_en": "Listen in",
     "review_note": "",
-    "new_translation_vi": "Nghe lén",
+    "new_translation_vi": "Lắng nghe",
     "translator_note": ""
   },
   {
@@ -12021,7 +12021,7 @@
     "ai_reason": "",
     "source_en": "Listen in",
     "review_note": "",
-    "new_translation_vi": "Nghe lén",
+    "new_translation_vi": "Lắng nghe",
     "translator_note": ""
   },
   {
@@ -12046,7 +12046,7 @@
     "ai_reason": "",
     "source_en": "Listen in",
     "review_note": "",
-    "new_translation_vi": "Nghe lén",
+    "new_translation_vi": "Lắng nghe",
     "translator_note": ""
   },
   {
@@ -12071,7 +12071,7 @@
     "ai_reason": "",
     "source_en": "Listen in",
     "review_note": "",
-    "new_translation_vi": "Nghe lén",
+    "new_translation_vi": "Lắng nghe",
     "translator_note": ""
   },
   {
@@ -12096,7 +12096,7 @@
     "ai_reason": "",
     "source_en": "Listen in",
     "review_note": "",
-    "new_translation_vi": "Nghe lén",
+    "new_translation_vi": "Lắng nghe",
     "translator_note": ""
   },
   {
@@ -12121,7 +12121,7 @@
     "ai_reason": "",
     "source_en": "Remove the Anchor Stone",
     "review_note": "",
-    "new_translation_vi": "Gỡ Đá Neo",
+    "new_translation_vi": "Di dời Anchor Stone",
     "translator_note": ""
   },
   {
@@ -12136,7 +12136,6 @@
     "primary_key": "Quest_311000002_QuestDesc_311_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -12146,8 +12145,9 @@
     "ai_reason": "",
     "source_en": "As the High Tide draws near, a lurking calamity stirs, with its gaze fixed upon the borders of Septimont. Ephor Augusta invites you to the Sanguis Plateaus for a fateful hunt, the one that may decide the realm's survival...",
     "review_note": "",
-    "new_translation_vi": "Khi Thủy Triều High đến gần, một tai họa tiềm ẩn đang thức tỉnh, ánh mắt hắn đổ dồn về biên giới Septimont. Ephor Augusta mời ngươi đến Sanguis Plateaus để tham gia một cuộc săn định mệnh, cuộc săn có thể quyết định sự sống còn của vương quốc...",
-    "translator_note": ""
+    "new_translation_vi": "Khi High Tide đến gần, một tai họa đang rình rập, với ánh mắt đổ dồn về phía biên giới của Septimont. Ephor Augusta mời bạn đến Sanguis Plateaus cho một cuộc săn định mệnh, điều có thể quyết định sự sống còn của vương quốc...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012487",
@@ -12171,7 +12171,7 @@
     "ai_reason": "",
     "source_en": "By Sun's Burning Hand",
     "review_note": "",
-    "new_translation_vi": "Bằng Bàn Tay Cháy Bỏng Của Mặt Trời",
+    "new_translation_vi": "Bởi Bàn Tay Burning của Mặt Trời",
     "translator_note": ""
   },
   {
@@ -12196,7 +12196,7 @@
     "ai_reason": "",
     "source_en": "Offer petals to enliven the ceremony",
     "review_note": "",
-    "new_translation_vi": "Rắc cánh hoa để làm sinh động buổi lễ",
+    "new_translation_vi": "Dâng cánh hoa để làm sống động buổi lễ",
     "translator_note": ""
   },
   {
@@ -12221,7 +12221,7 @@
     "ai_reason": "",
     "source_en": "Investigate and find a way through",
     "review_note": "",
-    "new_translation_vi": "Điều tra và tìm lối vượt qua",
+    "new_translation_vi": "Điều tra và tìm đường đi qua",
     "translator_note": ""
   },
   {
@@ -12246,7 +12246,7 @@
     "ai_reason": "",
     "source_en": "(Optional) Use Sensor to scan the area",
     "review_note": "",
-    "new_translation_vi": "(Tùy chọn) Dùng Sensor quét khu vực",
+    "new_translation_vi": "(Tùy chọn) Sử dụng Sensor để quét khu vực",
     "translator_note": ""
   },
   {
@@ -12261,7 +12261,6 @@
     "primary_key": "Quest_886000001_ChildQuestTip_185_11",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -12271,8 +12270,9 @@
     "ai_reason": "",
     "source_en": "Ride the Wingray and return to the Hunter's Den",
     "review_note": "",
-    "new_translation_vi": "Ride Wingray trở về Hang Thợ Săn",
-    "translator_note": ""
+    "new_translation_vi": "Cưỡi Wingray và quay lại Hunter's Den",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012492",
@@ -12296,7 +12296,7 @@
     "ai_reason": "",
     "source_en": "Look around and see what's going on",
     "review_note": "",
-    "new_translation_vi": "Nhìn quanh và xem chuyện gì đang xảy ra",
+    "new_translation_vi": "Nhìn xung quanh xem chuyện gì đang xảy ra",
     "translator_note": ""
   },
   {
@@ -12321,7 +12321,7 @@
     "ai_reason": "",
     "source_en": "Investigate the area behind the secret door",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra khu vực sau cánh cửa bí mật",
+    "new_translation_vi": "Điều tra khu vực phía sau cánh cửa bí mật",
     "translator_note": ""
   },
   {
@@ -12336,7 +12336,6 @@
     "primary_key": "Quest_886000001_ChildQuestTip_185_20",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -12347,7 +12346,8 @@
     "source_en": "Find Grandmother Lillibet",
     "review_note": "",
     "new_translation_vi": "Tìm bà Lillibet",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0012495",
@@ -12371,7 +12371,7 @@
     "ai_reason": "",
     "source_en": "Return to the Hunter's Den",
     "review_note": "",
-    "new_translation_vi": "Return Hang Thợ Săn",
+    "new_translation_vi": "Quay lại Hunter's Den",
     "translator_note": ""
   },
   {
@@ -12396,7 +12396,7 @@
     "ai_reason": "",
     "source_en": "Return to the edge of the Wastelands",
     "review_note": "",
-    "new_translation_vi": "Return rìa Vùng Đất Hoang",
+    "new_translation_vi": "Quay lại rìa Wastelands",
     "translator_note": ""
   },
   {
@@ -12421,7 +12421,7 @@
     "ai_reason": "",
     "source_en": "Arrive at the Hunter's Den and take part in the ceremony",
     "review_note": "",
-    "new_translation_vi": "Đến Hang Thợ Săn và tham gia lễ nghi",
+    "new_translation_vi": "Đến Hunter's Den và tham gia buổi lễ",
     "translator_note": ""
   },
   {
@@ -12471,7 +12471,7 @@
     "ai_reason": "",
     "source_en": "Go somewhere quiet to gather your thoughts",
     "review_note": "",
-    "new_translation_vi": "Đi tìm chỗ yên tĩnh để suy nghĩ đã",
+    "new_translation_vi": "Đến một nơi yên tĩnh để suy ngẫm",
     "translator_note": ""
   },
   {

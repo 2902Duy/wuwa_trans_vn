@@ -43,6 +43,7 @@
       "lang_quest.db",
       "lang_questtype.db",
       "lang_quest_chapter.db",
+      "lang_quest_step.db",
       "lang_revive.db",
       "lang_roleDescription.db",
       "lang_roleInfluence.db",
@@ -103,6 +104,7 @@
       "lang_quest.db",
       "lang_questtype.db",
       "lang_quest_chapter.db",
+      "lang_quest_step.db",
       "lang_revive.db",
       "lang_roleDescription.db",
       "lang_roleInfluence.db",
@@ -163,6 +165,7 @@
       "lang_quest.db",
       "lang_questtype.db",
       "lang_quest_chapter.db",
+      "lang_quest_step.db",
       "lang_revive.db",
       "lang_roleDescription.db",
       "lang_roleInfluence.db",
@@ -192,9 +195,11 @@
     ],
     "size_name_candidates": [
       "lang_advice.db",
-      "lang_compose.db",
+      "lang_condition.db",
+      "lang_error_code.db",
+      "lang_instance_dungeon.db",
       "lang_once_tower_challenge.db",
-      "lang_shop.db"
+      "lang_text.db"
     ],
     "table_name_candidates": [
       "lang_compose.db"
@@ -217,7 +222,8 @@
       "SpecialCook"
     ],
     "size_name_candidates": [
-      "lang_cook.db"
+      "lang_cook.db",
+      "lang_skill.db"
     ],
     "table_name_candidates": [
       "lang_cook.db"
@@ -262,20 +268,17 @@
     "size": 65536,
     "quick_check": "ok",
     "tables": [
-      "DetectionText",
-      "DungeonDetection",
-      "GuideData",
-      "MonsterDetection",
-      "SilentAreaDetection"
+      "MonsterInfo",
+      "MonsterPerch",
+      "MonsterRarity"
     ],
     "size_name_candidates": [
-      "lang_detection.db",
       "lang_monster_Info.db"
     ],
     "table_name_candidates": [
-      "lang_detection.db"
+      "lang_monster_Info.db"
     ],
-    "matched_db": "lang_detection.db"
+    "matched_db": "lang_monster_Info.db"
   },
   {
     "index": 7,
@@ -298,7 +301,7 @@
       "lang_element_info.db",
       "lang_function.db",
       "lang_mail.db",
-      "lang_quest_step.db"
+      "lang_shop.db"
     ],
     "table_name_candidates": [
       "lang_element_info.db"
@@ -349,6 +352,7 @@
       "lang_quest.db",
       "lang_questtype.db",
       "lang_quest_chapter.db",
+      "lang_quest_step.db",
       "lang_revive.db",
       "lang_roleDescription.db",
       "lang_roleInfluence.db",
@@ -380,8 +384,7 @@
       "FavorWord"
     ],
     "size_name_candidates": [
-      "lang_favor.db",
-      "lang_ui_prefabTextItem.db"
+      "lang_favor.db"
     ],
     "table_name_candidates": [
       "lang_favor.db"
@@ -432,6 +435,7 @@
       "lang_quest.db",
       "lang_questtype.db",
       "lang_quest_chapter.db",
+      "lang_quest_step.db",
       "lang_revive.db",
       "lang_roleDescription.db",
       "lang_roleInfluence.db",
@@ -469,7 +473,7 @@
       "lang_element_info.db",
       "lang_function.db",
       "lang_mail.db",
-      "lang_quest_step.db"
+      "lang_shop.db"
     ],
     "table_name_candidates": [
       "lang_function.db"
@@ -493,7 +497,7 @@
       "lang_hot_patch.db",
       "lang_menu.db",
       "lang_payshop.db",
-      "lang_role_reson.db"
+      "lang_resonate_chain.db"
     ],
     "table_name_candidates": [
       "lang_generic_tips.db"
@@ -504,8 +508,8 @@
     "index": 13,
     "offset": 549606,
     "page_size": 4096,
-    "page_count": 25,
-    "size": 102400,
+    "page_count": 23,
+    "size": 94208,
     "quick_check": "ok",
     "tables": [
       "GuideFocusNew",
@@ -565,6 +569,7 @@
       "lang_quest.db",
       "lang_questtype.db",
       "lang_quest_chapter.db",
+      "lang_quest_step.db",
       "lang_revive.db",
       "lang_roleDescription.db",
       "lang_roleInfluence.db",
@@ -585,8 +590,8 @@
     "index": 15,
     "offset": 701264,
     "page_size": 4096,
-    "page_count": 35,
-    "size": 143360,
+    "page_count": 34,
+    "size": 139264,
     "quick_check": "ok",
     "tables": [
       "AnimalHandBook",
@@ -625,7 +630,7 @@
       "lang_hot_patch.db",
       "lang_menu.db",
       "lang_payshop.db",
-      "lang_role_reson.db"
+      "lang_resonate_chain.db"
     ],
     "table_name_candidates": [
       "lang_hot_patch.db"
@@ -706,6 +711,7 @@
       "lang_quest.db",
       "lang_questtype.db",
       "lang_quest_chapter.db",
+      "lang_quest_step.db",
       "lang_revive.db",
       "lang_roleDescription.db",
       "lang_roleInfluence.db",
@@ -766,6 +772,7 @@
       "lang_quest.db",
       "lang_questtype.db",
       "lang_quest_chapter.db",
+      "lang_quest_step.db",
       "lang_revive.db",
       "lang_roleDescription.db",
       "lang_roleInfluence.db",
@@ -790,22 +797,22 @@
     "size": 110592,
     "quick_check": "ok",
     "tables": [
-      "InfoDisplay"
+      "SubtitleText"
     ],
     "size_name_candidates": [
-      "lang_infodisplay.db"
+      "lang_subtitle_text.db"
     ],
     "table_name_candidates": [
-      "lang_infodisplay.db"
+      "lang_subtitle_text.db"
     ],
-    "matched_db": "lang_infodisplay.db"
+    "matched_db": "lang_subtitle_text.db"
   },
   {
     "index": 21,
     "offset": 1184910,
     "page_size": 4096,
-    "page_count": 19,
-    "size": 77824,
+    "page_count": 18,
+    "size": 73728,
     "quick_check": "ok",
     "tables": [
       "MapMark"
@@ -831,7 +838,6 @@
       "MonsterRarity"
     ],
     "size_name_candidates": [
-      "lang_detection.db",
       "lang_monster_Info.db"
     ],
     "table_name_candidates": [
@@ -843,8 +849,8 @@
     "index": 23,
     "offset": 1422584,
     "page_size": 4096,
-    "page_count": 56,
-    "size": 229376,
+    "page_count": 53,
+    "size": 217088,
     "quick_check": "ok",
     "tables": [
       "ItemInfo",
@@ -852,9 +858,7 @@
       "PreviewItem",
       "QualityInfo"
     ],
-    "size_name_candidates": [
-      "lang_item.db"
-    ],
+    "size_name_candidates": [],
     "table_name_candidates": [
       "lang_item.db"
     ],
@@ -871,28 +875,26 @@
       "MultiText"
     ],
     "size_name_candidates": [
-      "lang_multi_text_2ndhalf.db"
+      "lang_speaker.db"
     ],
     "table_name_candidates": [
       "lang_multi_text.db",
       "lang_multi_text_1sthalf.db",
       "lang_multi_text_2ndhalf.db"
     ],
-    "matched_db": "lang_multi_text_2ndhalf.db"
+    "matched_db": "lang_speaker.db"
   },
   {
     "index": 25,
     "offset": 2094434,
     "page_size": 4096,
-    "page_count": 76,
-    "size": 311296,
+    "page_count": 74,
+    "size": 303104,
     "quick_check": "ok",
     "tables": [
       "MultiText"
     ],
-    "size_name_candidates": [
-      "lang_multi_text_1sthalf.db"
-    ],
+    "size_name_candidates": [],
     "table_name_candidates": [
       "lang_multi_text.db",
       "lang_multi_text_1sthalf.db",
@@ -915,9 +917,11 @@
     ],
     "size_name_candidates": [
       "lang_advice.db",
-      "lang_compose.db",
+      "lang_condition.db",
+      "lang_error_code.db",
+      "lang_instance_dungeon.db",
       "lang_once_tower_challenge.db",
-      "lang_shop.db"
+      "lang_text.db"
     ],
     "table_name_candidates": [
       "lang_once_tower_challenge.db"
@@ -996,6 +1000,7 @@
       "lang_quest.db",
       "lang_questtype.db",
       "lang_quest_chapter.db",
+      "lang_quest_step.db",
       "lang_revive.db",
       "lang_roleDescription.db",
       "lang_roleInfluence.db",
@@ -1056,6 +1061,7 @@
       "lang_quest.db",
       "lang_questtype.db",
       "lang_quest_chapter.db",
+      "lang_quest_step.db",
       "lang_revive.db",
       "lang_roleDescription.db",
       "lang_roleInfluence.db",
@@ -1076,8 +1082,8 @@
     "index": 30,
     "offset": 2791019,
     "page_size": 4096,
-    "page_count": 65,
-    "size": 266240,
+    "page_count": 59,
+    "size": 241664,
     "quick_check": "ok",
     "tables": [
       "PhantomFetter",
@@ -1107,7 +1113,9 @@
       "SkillInput",
       "SkillTree"
     ],
-    "size_name_candidates": [],
+    "size_name_candidates": [
+      "lang_skillTree.db"
+    ],
     "table_name_candidates": [
       "lang_skillTree.db"
     ],
@@ -1157,6 +1165,7 @@
       "lang_quest.db",
       "lang_questtype.db",
       "lang_quest_chapter.db",
+      "lang_quest_step.db",
       "lang_revive.db",
       "lang_roleDescription.db",
       "lang_roleInfluence.db",
@@ -1177,28 +1186,28 @@
     "index": 33,
     "offset": 3389194,
     "page_size": 4096,
-    "page_count": 14,
-    "size": 57344,
+    "page_count": 16,
+    "size": 65536,
     "quick_check": "ok",
     "tables": [
-      "WeaponConf",
-      "WeaponQualityInfo",
-      "WeaponReson"
+      "MonsterInfo",
+      "MonsterPerch",
+      "MonsterRarity"
     ],
     "size_name_candidates": [
-      "lang_instance_dungeon.db"
+      "lang_monster_Info.db"
     ],
     "table_name_candidates": [
-      "lang_weapon.db"
+      "lang_monster_Info.db"
     ],
-    "matched_db": "lang_instance_dungeon.db"
+    "matched_db": "lang_monster_Info.db"
   },
   {
     "index": 34,
     "offset": 7030424,
     "page_size": 4096,
-    "page_count": 10596,
-    "size": 43401216,
+    "page_count": 11229,
+    "size": 45993984,
     "quick_check": "ok",
     "tables": [
       "MultiText"

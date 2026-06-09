@@ -11,7 +11,6 @@
     "primary_key": "Quest_108750000_ChildQuestTip_108_46",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -22,7 +21,8 @@
     "source_en": "Head to the Upphaf Life Chamber",
     "review_note": "",
     "new_translation_vi": "Đến Upphaf Life Chamber",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011002",
@@ -36,18 +36,18 @@
     "primary_key": "Quest_108750000_InteractContent_108_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Skavitz",
     "review_note": "",
     "new_translation_vi": "Skavitz",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011003",
@@ -71,7 +71,7 @@
     "ai_reason": "",
     "source_en": "Investigate the Bioprinter",
     "review_note": "",
-    "new_translation_vi": "Điều tra Máy In Sinh Học",
+    "new_translation_vi": "Điều tra Bioprinter",
     "translator_note": ""
   },
   {
@@ -96,7 +96,7 @@
     "ai_reason": "",
     "source_en": "Though buried deep beneath the snow, the rusted iron bird still longs to sing.",
     "review_note": "",
-    "new_translation_vi": "Dù bị chôn vùi sâu dưới tuyết, con chim sắt han gỉ vẫn khao khát cất lên tiếng hát.",
+    "new_translation_vi": "Dù bị chôn vùi sâu dưới lớp tuyết, chú chim sắt rỉ sét vẫn khao khát được cất tiếng hót.",
     "translator_note": ""
   },
   {
@@ -121,7 +121,7 @@
     "ai_reason": "",
     "source_en": "The Song of Ice and Steel",
     "review_note": "",
-    "new_translation_vi": "Song Băng Thép",
+    "new_translation_vi": "Khúc Ca Băng Giá và Thép",
     "translator_note": ""
   },
   {
@@ -136,7 +136,6 @@
     "primary_key": "Quest_108750000_QuestScheduleTrackAreaText_108_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -146,8 +145,9 @@
     "ai_reason": "",
     "source_en": "Head to Mount Gjallar",
     "review_note": "",
-    "new_translation_vi": "Đến Núi Gjallar",
-    "translator_note": ""
+    "new_translation_vi": "Đến Mount Gjallar",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011007",
@@ -171,7 +171,7 @@
     "ai_reason": "",
     "source_en": "Read the incoming WavesLine message",
     "review_note": "",
-    "new_translation_vi": "Đọc tin nhắn WavesLine đến",
+    "new_translation_vi": "Đọc tin nhắn WavesLine vừa nhận",
     "translator_note": ""
   },
   {
@@ -196,7 +196,7 @@
     "ai_reason": "",
     "source_en": "Question Skavitz",
     "review_note": "",
-    "new_translation_vi": "Hỏi thăm Skavitz",
+    "new_translation_vi": "Chất vấn Skavitz",
     "translator_note": ""
   },
   {
@@ -221,7 +221,7 @@
     "ai_reason": "",
     "source_en": "Head deeper into the cave",
     "review_note": "",
-    "new_translation_vi": "Đi sâu hơn vào hang động",
+    "new_translation_vi": "Đi sâu vào trong hang",
     "translator_note": ""
   },
   {
@@ -246,7 +246,7 @@
     "ai_reason": "",
     "source_en": "Head deeper into the cave",
     "review_note": "",
-    "new_translation_vi": "Đi sâu hơn vào hang động",
+    "new_translation_vi": "Đi sâu vào trong hang",
     "translator_note": ""
   },
   {
@@ -271,7 +271,7 @@
     "ai_reason": "",
     "source_en": "Head deeper into the cave",
     "review_note": "",
-    "new_translation_vi": "Đi sâu hơn vào hang động",
+    "new_translation_vi": "Đi sâu vào trong hang",
     "translator_note": ""
   },
   {
@@ -296,7 +296,7 @@
     "ai_reason": "",
     "source_en": "Head deeper into the cave",
     "review_note": "",
-    "new_translation_vi": "Đi sâu hơn vào hang động",
+    "new_translation_vi": "Đi sâu vào trong hang",
     "translator_note": ""
   },
   {
@@ -321,7 +321,7 @@
     "ai_reason": "",
     "source_en": "Talk to Skavitz",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Skavitz",
+    "new_translation_vi": "Trò chuyện với Skavitz",
     "translator_note": ""
   },
   {
@@ -336,18 +336,18 @@
     "primary_key": "Quest_108750001_InteractContent_108_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Skavitz",
     "review_note": "",
     "new_translation_vi": "Skavitz",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011015",
@@ -361,18 +361,18 @@
     "primary_key": "Quest_108750001_InteractContent_108_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Skavitz",
     "review_note": "",
     "new_translation_vi": "Skavitz",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011016",
@@ -396,7 +396,7 @@
     "ai_reason": "",
     "source_en": "Hope is not found in spring, but in deep winter, when life first begins to sprout.",
     "review_note": "",
-    "new_translation_vi": "Hy vọng không nằm ở mùa xuân, mà ở giữa mùa đông khắc nghiệt, khi sự sống mới bắt đầu nhú mầm.",
+    "new_translation_vi": "Hy vọng không tìm thấy vào mùa xuân, mà là trong mùa đông giá rét, khi sự sống bắt đầu nảy mầm.",
     "translator_note": ""
   },
   {
@@ -421,7 +421,7 @@
     "ai_reason": "",
     "source_en": "Unfrozen Hope",
     "review_note": "",
-    "new_translation_vi": "Hy Vọng Tan Băng",
+    "new_translation_vi": "Hy Vọng Không Băng Giá",
     "translator_note": ""
   },
   {
@@ -436,7 +436,6 @@
     "primary_key": "Quest_108750001_QuestScheduleTrackAreaText_108_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -447,7 +446,8 @@
     "source_en": "Go visit the Upphaf Forest Ruins",
     "review_note": "",
     "new_translation_vi": "Đến thăm Upphaf Forest Ruins",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011019",
@@ -471,7 +471,7 @@
     "ai_reason": "",
     "source_en": "Try out the \"Ultimate Masterpiece\"",
     "review_note": "",
-    "new_translation_vi": "Thử nghiệm \"Kiệt Tác Cuối Cùng\"",
+    "new_translation_vi": "Thử nghiệm \"Kiệt Tác Tối Thượng\"",
     "translator_note": ""
   },
   {
@@ -496,7 +496,7 @@
     "ai_reason": "",
     "source_en": "You come across a hologram left behind by a researcher. It seems he's inviting you to try out the \"masterpiece\" he's so proud of.",
     "review_note": "",
-    "new_translation_vi": "Bạn bắt gặp một hologram do một nhà nghiên cứu để lại. Có vẻ như ông ấy đang mời bạn thử nghiệm \"kiệt tác\" mà ông tự hào.",
+    "new_translation_vi": "Bạn bắt gặp một hình chiếu do một nhà nghiên cứu để lại. Có vẻ như họ đang mời bạn thử nghiệm \"kiệt tác\" mà họ rất tự hào.",
     "translator_note": ""
   },
   {
@@ -521,7 +521,7 @@
     "ai_reason": "",
     "source_en": "Ultimate Masterpiece",
     "review_note": "",
-    "new_translation_vi": "Kiệt Tác Cuối Cùng",
+    "new_translation_vi": "Kiệt Tác Tối Thượng",
     "translator_note": ""
   },
   {
@@ -546,7 +546,7 @@
     "ai_reason": "",
     "source_en": "Talk to the anxious researcher",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với nhà nghiên cứu đang lo lắng",
+    "new_translation_vi": "Trò chuyện với nhà nghiên cứu đang lo lắng",
     "translator_note": ""
   },
   {
@@ -571,7 +571,7 @@
     "ai_reason": "",
     "source_en": "Find the first of the lost TARD-Es",
     "review_note": "",
-    "new_translation_vi": "Tìm chiếc TARD-Es đầu tiên bị thất lạc",
+    "new_translation_vi": "Tìm TARD-E bị lạc đầu tiên",
     "translator_note": ""
   },
   {
@@ -596,7 +596,7 @@
     "ai_reason": "",
     "source_en": "Defeat the strange Exoswarm",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Exoswarm kỳ lạ",
+    "new_translation_vi": "Đánh bại Exoswarm lạ",
     "translator_note": ""
   },
   {
@@ -621,7 +621,7 @@
     "ai_reason": "",
     "source_en": "Talk to the TARD-E again",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện lại với TARD-E",
+    "new_translation_vi": "Trò chuyện với TARD-E lần nữa",
     "translator_note": ""
   },
   {
@@ -646,7 +646,7 @@
     "ai_reason": "",
     "source_en": "Find the second of the lost TARD-Es",
     "review_note": "",
-    "new_translation_vi": "Tìm chiếc TARD-Es thứ hai trong số những chiếc bị thất lạc",
+    "new_translation_vi": "Tìm TARD-E bị lạc thứ hai",
     "translator_note": ""
   },
   {
@@ -671,7 +671,7 @@
     "ai_reason": "",
     "source_en": "Talk to the TARD-E",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với TARD-E",
+    "new_translation_vi": "Trò chuyện với TARD-E",
     "translator_note": ""
   },
   {
@@ -696,7 +696,7 @@
     "ai_reason": "",
     "source_en": "Find the third and fourth of the lost TARD-Es",
     "review_note": "",
-    "new_translation_vi": "Tìm hai chiếc TARD-Es thứ ba và thứ tư trong số những chiếc bị thất lạc",
+    "new_translation_vi": "Tìm TARD-E bị lạc thứ ba và thứ tư",
     "translator_note": ""
   },
   {
@@ -711,7 +711,6 @@
     "primary_key": "Quest_146850000_ChildQuestTip_146_9",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -721,8 +720,9 @@
     "ai_reason": "",
     "source_en": "Head to a suitable spot and take a photo of the Solvein Heartwood tree root",
     "review_note": "",
-    "new_translation_vi": "Tìm vị trí thích hợp và chụp ảnh rễ cây Solvein Heartwood",
-    "translator_note": ""
+    "new_translation_vi": "Đến vị trí thích hợp và chụp ảnh rễ cây Solvein Heartwood",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011030",
@@ -761,7 +761,6 @@
     "primary_key": "Quest_146850000_ChildQuestTip_146_12",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -771,8 +770,9 @@
     "ai_reason": "",
     "source_en": "Head to a suitable spot and take a photo of the Solvein Heartwood tree canopy",
     "review_note": "",
-    "new_translation_vi": "Tìm vị trí thích hợp và chụp ảnh tán cây Solvein Heartwood",
-    "translator_note": ""
+    "new_translation_vi": "Đến vị trí thích hợp và chụp ảnh tán cây Solvein Heartwood",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011032",
@@ -821,7 +821,7 @@
     "ai_reason": "",
     "source_en": "Deliver the photos to the TARD-Es",
     "review_note": "",
-    "new_translation_vi": "Đưa mấy tấm ảnh này cho bọn TARD-Es đi.",
+    "new_translation_vi": "Gửi ảnh cho các TARD-E",
     "translator_note": ""
   },
   {
@@ -846,7 +846,7 @@
     "ai_reason": "",
     "source_en": "Find the fifth of the lost TARD-Es",
     "review_note": "",
-    "new_translation_vi": "Tìm chiếc TARD-Es thứ năm bị thất lạc",
+    "new_translation_vi": "Tìm TARD-E bị lạc thứ năm",
     "translator_note": ""
   },
   {
@@ -871,7 +871,7 @@
     "ai_reason": "",
     "source_en": "Try to recharge the TARD-E",
     "review_note": "",
-    "new_translation_vi": "Thử nạp năng lượng cho TARD-E",
+    "new_translation_vi": "Thử sạc pin cho TARD-E",
     "translator_note": ""
   },
   {
@@ -896,7 +896,7 @@
     "ai_reason": "",
     "source_en": "Talk to the TARD-E",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với TARD-E",
+    "new_translation_vi": "Trò chuyện với TARD-E",
     "translator_note": ""
   },
   {
@@ -921,7 +921,7 @@
     "ai_reason": "",
     "source_en": "Recount what you discovered to Lector",
     "review_note": "",
-    "new_translation_vi": "Thuật lại những gì ngươi phát hiện cho Lector",
+    "new_translation_vi": "Kể lại những gì bạn đã phát hiện cho Lector",
     "translator_note": ""
   },
   {
@@ -946,7 +946,7 @@
     "ai_reason": "",
     "source_en": "Free the TARD-E from the Voidmatter",
     "review_note": "",
-    "new_translation_vi": "Giải thoát TARD-E khỏi Vật Chất Hư Không",
+    "new_translation_vi": "Giải cứu TARD-E khỏi Voidmatter",
     "translator_note": ""
   },
   {
@@ -971,7 +971,7 @@
     "ai_reason": "",
     "source_en": "Defeat the enemies",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt kẻ địch",
+    "new_translation_vi": "Đánh bại kẻ địch",
     "translator_note": ""
   },
   {
@@ -996,7 +996,7 @@
     "ai_reason": "",
     "source_en": "Take a photo of the tree root",
     "review_note": "",
-    "new_translation_vi": "Chụp ảnh gốc cây",
+    "new_translation_vi": "Chụp ảnh rễ cây",
     "translator_note": ""
   },
   {
@@ -1146,7 +1146,7 @@
     "ai_reason": "",
     "source_en": "Free the TARD-E from the Voidmatter",
     "review_note": "",
-    "new_translation_vi": "Giải thoát TARD-E khỏi Vật Chất Hư Không",
+    "new_translation_vi": "Giải cứu TARD-E khỏi Voidmatter",
     "translator_note": ""
   },
   {
@@ -1171,7 +1171,7 @@
     "ai_reason": "",
     "source_en": "Talk to the TARD-E",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với TARD-E",
+    "new_translation_vi": "Trò chuyện với TARD-E",
     "translator_note": ""
   },
   {
@@ -1196,7 +1196,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -1221,7 +1221,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -1246,7 +1246,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -1346,7 +1346,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -1396,7 +1396,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -1421,7 +1421,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -1446,7 +1446,7 @@
     "ai_reason": "",
     "source_en": "Free",
     "review_note": "",
-    "new_translation_vi": "Free",
+    "new_translation_vi": "Giải cứu",
     "translator_note": ""
   },
   {
@@ -1471,7 +1471,7 @@
     "ai_reason": "",
     "source_en": "Free",
     "review_note": "",
-    "new_translation_vi": "Free",
+    "new_translation_vi": "Giải cứu",
     "translator_note": ""
   },
   {
@@ -1496,7 +1496,7 @@
     "ai_reason": "",
     "source_en": "You encounter an anxious researcher who is searching for a batch of lost TARD-Es  in the Dimmr Plains...",
     "review_note": "",
-    "new_translation_vi": "Bạn gặp một nhà nghiên cứu đang lo lắng, tìm kiếm lô TARD-Es thất lạc ở Dimmr Plains...",
+    "new_translation_vi": "Bạn gặp một nhà nghiên cứu đang lo lắng, người đang tìm kiếm một nhóm TARD-E bị lạc tại Dimmr Plains...",
     "translator_note": ""
   },
   {
@@ -1521,7 +1521,7 @@
     "ai_reason": "",
     "source_en": "Find Me the TARD-Es",
     "review_note": "",
-    "new_translation_vi": "Tìm giúp tôi các TARD-E",
+    "new_translation_vi": "Tìm Giúp Tôi Các TARD-E",
     "translator_note": ""
   },
   {
@@ -1546,7 +1546,7 @@
     "ai_reason": "",
     "source_en": "Take a picture of the tree canopy",
     "review_note": "",
-    "new_translation_vi": "Chụp tán cây kia đi.",
+    "new_translation_vi": "Chụp ảnh tán cây",
     "translator_note": ""
   },
   {
@@ -1571,7 +1571,7 @@
     "ai_reason": "",
     "source_en": "Take a picture of the tree root",
     "review_note": "",
-    "new_translation_vi": "Chụp gốc cây ấy xem nào.",
+    "new_translation_vi": "Chụp ảnh rễ cây",
     "translator_note": ""
   },
   {
@@ -1596,7 +1596,7 @@
     "ai_reason": "",
     "source_en": "Head to the Void Storm supply point",
     "review_note": "",
-    "new_translation_vi": "Đến điểm cung cấp Void Storm",
+    "new_translation_vi": "Đến điểm tiếp tế Void Storm",
     "translator_note": ""
   },
   {
@@ -1696,7 +1696,7 @@
     "ai_reason": "",
     "source_en": "Investigate the final belongings",
     "review_note": "",
-    "new_translation_vi": "Điều tra vật dụng cuối cùng",
+    "new_translation_vi": "Điều tra những món đồ cuối cùng",
     "translator_note": ""
   },
   {
@@ -1721,7 +1721,7 @@
     "ai_reason": "",
     "source_en": "Play the game on the console",
     "review_note": "",
-    "new_translation_vi": "Play trò chơi trên thiết bị đầu cuối",
+    "new_translation_vi": "Chơi trò chơi trên bảng điều khiển",
     "translator_note": ""
   },
   {
@@ -1746,7 +1746,7 @@
     "ai_reason": "",
     "source_en": "Use Sensor to find Alcor's belongings",
     "review_note": "",
-    "new_translation_vi": "Dùng Sensor để tìm đồ của Alcor",
+    "new_translation_vi": "Sử dụng Sensor để tìm đồ đạc của Alcor",
     "translator_note": ""
   },
   {
@@ -1771,7 +1771,7 @@
     "ai_reason": "",
     "source_en": "Investigate",
     "review_note": "",
-    "new_translation_vi": "Investigate",
+    "new_translation_vi": "Điều tra",
     "translator_note": ""
   },
   {
@@ -1796,7 +1796,7 @@
     "ai_reason": "",
     "source_en": "Investigate",
     "review_note": "",
-    "new_translation_vi": "Investigate",
+    "new_translation_vi": "Điều tra",
     "translator_note": ""
   },
   {
@@ -1821,7 +1821,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -1846,7 +1846,7 @@
     "ai_reason": "",
     "source_en": "Investigate",
     "review_note": "",
-    "new_translation_vi": "Investigate",
+    "new_translation_vi": "Điều tra",
     "translator_note": ""
   },
   {
@@ -1871,7 +1871,7 @@
     "ai_reason": "",
     "source_en": "Inquire",
     "review_note": "",
-    "new_translation_vi": "Inquire",
+    "new_translation_vi": "Hỏi thăm",
     "translator_note": ""
   },
   {
@@ -1896,7 +1896,7 @@
     "ai_reason": "",
     "source_en": "A researcher in charge of supplies is in trouble and needs help.",
     "review_note": "",
-    "new_translation_vi": "Một nhà nghiên cứu phụ trách vật tư đang gặp rắc rối và cần giúp đỡ.",
+    "new_translation_vi": "Một nhà nghiên cứu phụ trách hậu cần đang gặp rắc rối và cần được giúp đỡ.",
     "translator_note": ""
   },
   {
@@ -1921,7 +1921,7 @@
     "ai_reason": "",
     "source_en": "The Memory of Your Eyes",
     "review_note": "",
-    "new_translation_vi": "Ký Ức Trong Đôi Mắt Em",
+    "new_translation_vi": "Ký Ức Trong Ánh Mắt Bạn",
     "translator_note": ""
   },
   {
@@ -1936,7 +1936,6 @@
     "primary_key": "Quest_184850000_ChildQuestTip_184_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1946,8 +1945,9 @@
     "ai_reason": "",
     "source_en": "Restore the Voidborn Eldertree in Solisia Landing",
     "review_note": "",
-    "new_translation_vi": "Khôi phục Cây Cổ Thụ Hư Không tại Bến Đáp Solisia",
-    "translator_note": ""
+    "new_translation_vi": "Khôi phục Voidborn Eldertree tại Solisia Landing",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011079",
@@ -1961,7 +1961,6 @@
     "primary_key": "Quest_184850000_QuestDesc_184_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1971,8 +1970,9 @@
     "ai_reason": "",
     "source_en": "Collect and deliver Type-Q Restoratives to progress the Voidbane Eldertree Restoration in Solisia Landing.",
     "review_note": "",
-    "new_translation_vi": "Thu thập và giao Type-Q Restorative để tiến hành phục hồi Voidbane Eldertree tại Solisia Landing.",
-    "translator_note": ""
+    "new_translation_vi": "Thu thập và giao Type-Q Restorative để thúc đẩy quá trình khôi phục Voidbane Eldertree tại Solisia Landing.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011080",
@@ -1996,7 +1996,7 @@
     "ai_reason": "",
     "source_en": "Survey: Solisia Landing!",
     "review_note": "",
-    "new_translation_vi": "Quan sát: Solisia Landing!",
+    "new_translation_vi": "Khảo sát: Solisia Landing!",
     "translator_note": ""
   },
   {
@@ -2011,7 +2011,6 @@
     "primary_key": "Quest_184850000_QuestScheduleMainTitle_184_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2021,8 +2020,9 @@
     "ai_reason": "",
     "source_en": "Restore the Voidborn Eldertree in Solisia Landing",
     "review_note": "",
-    "new_translation_vi": "Khôi phục Cây Cổ Thụ Hư Không tại Bến Đáp Solisia",
-    "translator_note": ""
+    "new_translation_vi": "Khôi phục Voidborn Eldertree tại Solisia Landing",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011082",
@@ -2046,7 +2046,7 @@
     "ai_reason": "",
     "source_en": "Type-Q Restorative: {count_1}/4400",
     "review_note": "",
-    "new_translation_vi": "Chất Phục Hồi Loại-Q: {count_1}/4400",
+    "new_translation_vi": "Type-Q Restorative: {count_1}/4400",
     "translator_note": ""
   },
   {
@@ -2071,7 +2071,7 @@
     "ai_reason": "",
     "source_en": "Type-Q Restorative: {count_1}/4400",
     "review_note": "",
-    "new_translation_vi": "Chất Phục Hồi Loại-Q: {count_1}/4400",
+    "new_translation_vi": "Type-Q Restorative: {count_1}/4400",
     "translator_note": ""
   },
   {
@@ -2086,7 +2086,6 @@
     "primary_key": "Quest_184850001_ChildQuestTip_184_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2096,8 +2095,9 @@
     "ai_reason": "",
     "source_en": "Restore the Voidborn Eldertree in the Sealed Fissure",
     "review_note": "",
-    "new_translation_vi": "Khôi phục Cây Cổ Thụ Hư Không tại Sealed Fissure",
-    "translator_note": ""
+    "new_translation_vi": "Khôi phục Voidborn Eldertree tại Sealed Fissure",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011085",
@@ -2111,7 +2111,6 @@
     "primary_key": "Quest_184850001_QuestDesc_184_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2121,8 +2120,9 @@
     "ai_reason": "",
     "source_en": "Collect and deliver Type-S Restoratives to progress the Voidbane Eldertree Restoration in the Sealed Fissure.",
     "review_note": "",
-    "new_translation_vi": "Thu thập và giao Type-S Restorative để tiến hành phục hồi Voidbane Eldertree tại Sealed Fissure.",
-    "translator_note": ""
+    "new_translation_vi": "Thu thập và giao Type-S Restorative để thúc đẩy quá trình khôi phục Voidbane Eldertree tại Sealed Fissure.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011086",
@@ -2161,7 +2161,6 @@
     "primary_key": "Quest_184850001_QuestScheduleMainTitle_184_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2171,8 +2170,9 @@
     "ai_reason": "",
     "source_en": "Restore the Voidborn Eldertree in the Sealed Fissure",
     "review_note": "",
-    "new_translation_vi": "Khôi phục Cây Cổ Thụ Hư Không tại Sealed Fissure",
-    "translator_note": ""
+    "new_translation_vi": "Khôi phục Voidborn Eldertree tại Sealed Fissure",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011088",
@@ -2196,7 +2196,7 @@
     "ai_reason": "",
     "source_en": "Type-S Restorative: {count_1}/1900",
     "review_note": "",
-    "new_translation_vi": "Chất Phục Hồi Loại-S: {count_1}/1900",
+    "new_translation_vi": "Type-S Restorative: {count_1}/1900",
     "translator_note": ""
   },
   {
@@ -2221,7 +2221,7 @@
     "ai_reason": "",
     "source_en": "Type-S Restorative: {count_1}/1900",
     "review_note": "",
-    "new_translation_vi": "Chất Phục Hồi Loại-S: {count_1}/1900",
+    "new_translation_vi": "Type-S Restorative: {count_1}/1900",
     "translator_note": ""
   },
   {
@@ -2236,7 +2236,6 @@
     "primary_key": "Quest_184850002_ChildQuestTip_184_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2246,8 +2245,9 @@
     "ai_reason": "",
     "source_en": "Restore the Voidbane Eldertree in the Silent Crag",
     "review_note": "",
-    "new_translation_vi": "Khôi phục Cây Cổ Thụ Hóa Kỵ tại Vách Đá Im Lặng",
-    "translator_note": ""
+    "new_translation_vi": "Khôi phục Voidbane Eldertree tại Silent Crag",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011091",
@@ -2261,7 +2261,6 @@
     "primary_key": "Quest_184850002_QuestDesc_184_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2271,8 +2270,9 @@
     "ai_reason": "",
     "source_en": "Collect and deliver Type-F Restoratives to progress the Voidbane Eldertree Restoration in the Silent Crag.",
     "review_note": "",
-    "new_translation_vi": "Thu thập và giao Type-F Restorative để tiến hành phục hồi Voidbane Eldertree tại Silent Crag.",
-    "translator_note": ""
+    "new_translation_vi": "Thu thập và giao Type-F Restorative để thúc đẩy quá trình khôi phục Voidbane Eldertree tại Silent Crag.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011092",
@@ -2311,7 +2311,6 @@
     "primary_key": "Quest_184850002_QuestScheduleMainTitle_184_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2321,8 +2320,9 @@
     "ai_reason": "",
     "source_en": "Restore the Voidbane Eldertree in the Silent Crag",
     "review_note": "",
-    "new_translation_vi": "Khôi phục Cây Cổ Thụ Hóa Kỵ tại Vách Đá Im Lặng",
-    "translator_note": ""
+    "new_translation_vi": "Khôi phục Voidbane Eldertree tại Silent Crag",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011094",
@@ -2346,7 +2346,7 @@
     "ai_reason": "",
     "source_en": "Type-F Restorative: {count_1}/2600",
     "review_note": "",
-    "new_translation_vi": "Chất Phục Hồi Loại-F: {count_1}/2600",
+    "new_translation_vi": "Type-F Restorative: {count_1}/2600",
     "translator_note": ""
   },
   {
@@ -2371,7 +2371,7 @@
     "ai_reason": "",
     "source_en": "Type-F Restorative: {count_1}/2600",
     "review_note": "",
-    "new_translation_vi": "Chất Phục Hồi Loại-F: {count_1}/2600",
+    "new_translation_vi": "Type-F Restorative: {count_1}/2600",
     "translator_note": ""
   },
   {
@@ -2386,7 +2386,6 @@
     "primary_key": "Quest_184850003_ChildQuestTip_184_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2396,8 +2395,9 @@
     "ai_reason": "",
     "source_en": "Restore the Voidborn Eldertree in the Dimmr Deep",
     "review_note": "",
-    "new_translation_vi": "Khôi phục Cây Cổ Thụ Hư Không tại Vực Sâu Dimmr",
-    "translator_note": ""
+    "new_translation_vi": "Khôi phục Voidborn Eldertree tại Dimmr Deep",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011097",
@@ -2411,7 +2411,6 @@
     "primary_key": "Quest_184850003_QuestDesc_184_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2421,8 +2420,9 @@
     "ai_reason": "",
     "source_en": "Collect and deliver Type-T Restoratives to progress the Voidbane Eldertree Restoration in the Dimmr Deep.",
     "review_note": "",
-    "new_translation_vi": "Thu thập và giao Type-T Restorative để tiến hành phục hồi Voidbane Eldertree tại Dimmr Deep.",
-    "translator_note": ""
+    "new_translation_vi": "Thu thập và giao Type-T Restorative để thúc đẩy quá trình khôi phục Voidbane Eldertree tại Dimmr Deep.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011098",
@@ -2461,7 +2461,6 @@
     "primary_key": "Quest_184850003_QuestScheduleMainTitle_184_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2471,8 +2470,9 @@
     "ai_reason": "",
     "source_en": "Restore the Voidborn Eldertree in the Dimmr Deep",
     "review_note": "",
-    "new_translation_vi": "Khôi phục Cây Cổ Thụ Hư Không tại Vực Sâu Dimmr",
-    "translator_note": ""
+    "new_translation_vi": "Khôi phục Voidborn Eldertree tại Dimmr Deep",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011100",
@@ -2496,7 +2496,7 @@
     "ai_reason": "",
     "source_en": "Type-T Restorative: {count_1}/3100",
     "review_note": "",
-    "new_translation_vi": "Chất Phục Hồi Loại-T: {count_1}/3100",
+    "new_translation_vi": "Type-T Restorative: {count_1}/3100",
     "translator_note": ""
   },
   {
@@ -2521,7 +2521,7 @@
     "ai_reason": "",
     "source_en": "Type-T Restorative: {count_1}/3100",
     "review_note": "",
-    "new_translation_vi": "Chất Phục Hồi Loại-T: {count_1}/3100",
+    "new_translation_vi": "Type-T Restorative: {count_1}/3100",
     "translator_note": ""
   },
   {
@@ -2546,7 +2546,7 @@
     "ai_reason": "",
     "source_en": "Clear the Voidcreeps",
     "review_note": "",
-    "new_translation_vi": "Dọn sạch Voidcreep",
+    "new_translation_vi": "Dọn dẹp các Voidcreep",
     "translator_note": ""
   },
   {
@@ -2561,7 +2561,6 @@
     "primary_key": "Quest_184850004_QuestDesc_184_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2571,8 +2570,9 @@
     "ai_reason": "",
     "source_en": "The Voidcreeps in the Solisia Landing Survey Site has yet to be cleared. Soliskin Barton seems to have an idea of what to do.",
     "review_note": "",
-    "new_translation_vi": "Voidcreep ở Khu Khảo Sát Solisia Landing vẫn chưa được dọn sạch. Soliskin Barton dường như đã có kế hoạch.",
-    "translator_note": ""
+    "new_translation_vi": "Các Voidcreep tại khu vực khảo sát Solisia Landing vẫn chưa được dọn dẹp. Soliskin Barton dường như có ý tưởng về việc phải làm gì.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011104",
@@ -2596,7 +2596,7 @@
     "ai_reason": "",
     "source_en": "Restoration: Solisia Landing!",
     "review_note": "",
-    "new_translation_vi": "Phục hồi: Solisia Landing!",
+    "new_translation_vi": "Khôi phục: Solisia Landing!",
     "translator_note": ""
   },
   {
@@ -2611,7 +2611,6 @@
     "primary_key": "Quest_184850004_QuestScheduleMainTitle_184_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2621,8 +2620,9 @@
     "ai_reason": "",
     "source_en": "Initiate the Voidbane Eldertree Restoration in Solisia Landing",
     "review_note": "",
-    "new_translation_vi": "Khởi động Khôi phục Cây Cổ Thụ Voidbane tại Bến Đáp Solisia",
-    "translator_note": ""
+    "new_translation_vi": "Bắt đầu khôi phục Voidbane Eldertree tại Solisia Landing",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011106",
@@ -2661,7 +2661,6 @@
     "primary_key": "Quest_184850005_QuestDesc_184_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2671,8 +2670,9 @@
     "ai_reason": "",
     "source_en": "The Sealed Fissure shows few signs of Voidmatter contamination, but a disoriented Soliskin, Bada, is trapped in the ice and in desperate need of rescue.",
     "review_note": "",
-    "new_translation_vi": "Vết Nứt Bị Phong Ấn cho thấy ít dấu hiệu nhiễm Vật Chất Hư Không, nhưng một Soliskin tên Bada đang bị mắc kẹt trong băng và đang rất cần được giải cứu.",
-    "translator_note": ""
+    "new_translation_vi": "Sealed Fissure cho thấy ít dấu hiệu nhiễm Voidmatter, nhưng một Soliskin mất phương hướng, Bada, đang bị mắc kẹt trong băng và rất cần được giải cứu.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011108",
@@ -2696,7 +2696,7 @@
     "ai_reason": "",
     "source_en": "Restoration: Sealed Fissure!",
     "review_note": "",
-    "new_translation_vi": "Phục hồi: Sealed Fissure!",
+    "new_translation_vi": "Khôi phục: Sealed Fissure!",
     "translator_note": ""
   },
   {
@@ -2711,7 +2711,6 @@
     "primary_key": "Quest_184850005_QuestScheduleMainTitle_184_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2721,8 +2720,9 @@
     "ai_reason": "",
     "source_en": "Initiate the Voidbane Eldertree Restoration in the Sealed Fissure",
     "review_note": "",
-    "new_translation_vi": "Khởi động Khôi phục Cây Cổ Thụ Voidbane tại Sealed Fissure",
-    "translator_note": ""
+    "new_translation_vi": "Bắt đầu khôi phục Voidbane Eldertree tại Sealed Fissure",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011110",
@@ -2736,7 +2736,6 @@
     "primary_key": "Quest_184850006_ChildQuestTip_184_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2746,8 +2745,9 @@
     "ai_reason": "",
     "source_en": "Find and bring back Finella and Soliskin Budee",
     "review_note": "",
-    "new_translation_vi": "Tìm và đưa Finella cùng Soliskin Budee trở về.",
-    "translator_note": ""
+    "new_translation_vi": "Tìm và mang Finella cùng Soliskin Budee trở lại",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011111",
@@ -2761,7 +2761,6 @@
     "primary_key": "Quest_184850006_QuestDesc_184_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2771,8 +2770,9 @@
     "ai_reason": "",
     "source_en": "Rampaging Exoswarm are closing in on the research station. Help Professor Maeve find her missing student, Finella, and Soliskin Budee.",
     "review_note": "",
-    "new_translation_vi": "Đàn Exoswarm Cuồng Nộ đang tiến gần đến trạm nghiên cứu. Hãy giúp Professor Maeve tìm học trò mất tích của bà, Finella, và Soliskin Budee.",
-    "translator_note": ""
+    "new_translation_vi": "Đàn Exoswarm đang tiến gần đến trạm nghiên cứu. Hãy giúp Giáo sư Maeve tìm sinh viên mất tích của cô ấy, Finella, và Soliskin Budee.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011112",
@@ -2796,7 +2796,7 @@
     "ai_reason": "",
     "source_en": "Restoration: Silent Crag!",
     "review_note": "",
-    "new_translation_vi": "Phục hồi: Silent Crag!",
+    "new_translation_vi": "Khôi phục: Silent Crag!",
     "translator_note": ""
   },
   {
@@ -2811,7 +2811,6 @@
     "primary_key": "Quest_184850006_QuestScheduleMainTitle_184_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2821,8 +2820,9 @@
     "ai_reason": "",
     "source_en": "Initiate the Voidbane Eldertree Restoration in the Silent Crag",
     "review_note": "",
-    "new_translation_vi": "Khởi động Khôi phục Cây Cổ Thụ Voidbane tại Vách Đá Câm Lặng",
-    "translator_note": ""
+    "new_translation_vi": "Bắt đầu khôi phục Voidbane Eldertree tại Silent Crag",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011114",
@@ -2846,7 +2846,7 @@
     "ai_reason": "",
     "source_en": "Find and bring back the Geospider S4",
     "review_note": "",
-    "new_translation_vi": "Tìm và đưa Geospider S4 trở lại.",
+    "new_translation_vi": "Tìm và mang Geospider S4 trở lại",
     "translator_note": ""
   },
   {
@@ -2861,7 +2861,6 @@
     "primary_key": "Quest_184850007_QuestDesc_184_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2871,8 +2870,9 @@
     "ai_reason": "",
     "source_en": "The surveying of the Dimmr Deep is at a critical juncture. Help the researchers recover their Geospider S4, which Soliskin Banana has taken for a joyride.",
     "review_note": "",
-    "new_translation_vi": "Việc khảo sát Vực Dimmr đang ở giai đoạn then chốt. Hãy giúp các nhà nghiên cứu lấy lại Geospider S4 mà Soliskin Banana đã \"mượn\" đi chơi.",
-    "translator_note": ""
+    "new_translation_vi": "Việc khảo sát Dimmr Deep đang ở giai đoạn quan trọng. Hãy giúp các nhà nghiên cứu thu hồi Geospider S4 của họ, thứ mà Soliskin Banana đã lấy đi để nghịch ngợm.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011116",
@@ -2896,7 +2896,7 @@
     "ai_reason": "",
     "source_en": "Restoration: Dimmr Deep!",
     "review_note": "",
-    "new_translation_vi": "Phục hồi: Dimmr Deep!",
+    "new_translation_vi": "Khôi phục: Dimmr Deep!",
     "translator_note": ""
   },
   {
@@ -2911,7 +2911,6 @@
     "primary_key": "Quest_184850007_QuestScheduleMainTitle_184_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2921,8 +2920,9 @@
     "ai_reason": "",
     "source_en": "Initiate the Voidbane Eldertree Restoration in the Dimmr Deep",
     "review_note": "",
-    "new_translation_vi": "Khởi động Khôi phục Cây Cổ Thụ Voidbane tại Vực Sâu Dimmr",
-    "translator_note": ""
+    "new_translation_vi": "Bắt đầu khôi phục Voidbane Eldertree tại Dimmr Deep",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011118",
@@ -2936,7 +2936,6 @@
     "primary_key": "Quest_692000003_ChildQuestTip_692_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2946,8 +2945,9 @@
     "ai_reason": "",
     "source_en": "Help the Soliskin defeat the enemies",
     "review_note": "",
-    "new_translation_vi": "Giúp tộc Soliskin đánh bại kẻ địch.",
-    "translator_note": ""
+    "new_translation_vi": "Giúp Soliskin đánh bại kẻ địch",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011119",
@@ -2971,7 +2971,7 @@
     "ai_reason": "",
     "source_en": "Find the student who needs support in the Twilight Woodlands",
     "review_note": "",
-    "new_translation_vi": "Tìm học sinh cần hỗ trợ ở Twilight Woodlands",
+    "new_translation_vi": "Tìm sinh viên cần hỗ trợ trong Twilight Woodlands",
     "translator_note": ""
   },
   {
@@ -2996,7 +2996,7 @@
     "ai_reason": "",
     "source_en": "Clear the area of contamination",
     "review_note": "",
-    "new_translation_vi": "Dọn sạch khu vực nhiễm bẩn",
+    "new_translation_vi": "Dọn sạch khu vực bị ô nhiễm",
     "translator_note": ""
   },
   {
@@ -3021,7 +3021,7 @@
     "ai_reason": "",
     "source_en": "Clear the area of contamination",
     "review_note": "",
-    "new_translation_vi": "Dọn sạch khu vực nhiễm bẩn",
+    "new_translation_vi": "Dọn sạch khu vực bị ô nhiễm",
     "translator_note": ""
   },
   {
@@ -3036,7 +3036,6 @@
     "primary_key": "Quest_692000003_ChildQuestTip_692_19",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3046,8 +3045,9 @@
     "ai_reason": "",
     "source_en": "Talk to the Soliskin",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Soliskin",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011123",
@@ -3071,7 +3071,7 @@
     "ai_reason": "",
     "source_en": "Clear the area of contamination",
     "review_note": "",
-    "new_translation_vi": "Dọn sạch khu vực nhiễm bẩn",
+    "new_translation_vi": "Dọn sạch khu vực bị ô nhiễm",
     "translator_note": ""
   },
   {
@@ -3096,7 +3096,7 @@
     "ai_reason": "",
     "source_en": "Use Sensor to search the area",
     "review_note": "",
-    "new_translation_vi": "Dùng Sensor để quét khu vực",
+    "new_translation_vi": "Sử dụng Sensor để tìm kiếm khu vực",
     "translator_note": ""
   },
   {
@@ -3121,7 +3121,7 @@
     "ai_reason": "",
     "source_en": "Descend underground via the cave entrance",
     "review_note": "",
-    "new_translation_vi": "Đi xuống lòng đất qua lối vào hang động",
+    "new_translation_vi": "Đi xuống lòng đất qua lối vào hang",
     "translator_note": ""
   },
   {
@@ -3146,7 +3146,7 @@
     "ai_reason": "",
     "source_en": "Ride the motorbike deeper into the cave by using the rails",
     "review_note": "",
-    "new_translation_vi": "Lái xe máy sâu hơn vào hang động bằng đường ray",
+    "new_translation_vi": "Lái xe máy đi sâu vào hang bằng cách sử dụng đường ray",
     "translator_note": ""
   },
   {
@@ -3171,7 +3171,7 @@
     "ai_reason": "",
     "source_en": "Defeat the enemy",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt kẻ địch",
+    "new_translation_vi": "Đánh bại kẻ địch",
     "translator_note": ""
   },
   {
@@ -3186,7 +3186,6 @@
     "primary_key": "Quest_692000003_ChildQuestTip_692_42",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3197,7 +3196,8 @@
     "source_en": "Defeat the enemies with Mornye",
     "review_note": "",
     "new_translation_vi": "Đánh bại kẻ địch cùng Mornye",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011129",
@@ -3221,7 +3221,7 @@
     "ai_reason": "",
     "source_en": "Head to where the core energy has been leaking",
     "review_note": "",
-    "new_translation_vi": "Đến nơi năng lượng lõi đang rò rỉ",
+    "new_translation_vi": "Đi đến nơi năng lượng lõi đang bị rò rỉ",
     "translator_note": ""
   },
   {
@@ -3246,7 +3246,7 @@
     "ai_reason": "",
     "source_en": "Defeat the enemies",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt kẻ địch",
+    "new_translation_vi": "Đánh bại kẻ địch",
     "translator_note": ""
   },
   {
@@ -3271,7 +3271,7 @@
     "ai_reason": "",
     "source_en": "Head to the Reactor Drive",
     "review_note": "",
-    "new_translation_vi": "Đến Reactor Drive",
+    "new_translation_vi": "Đi đến Reactor Drive",
     "translator_note": ""
   },
   {
@@ -3286,7 +3286,6 @@
     "primary_key": "Quest_692000003_ChildQuestTip_692_61",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3296,8 +3295,9 @@
     "ai_reason": "",
     "source_en": "Search for the other Soliskin with Cher",
     "review_note": "",
-    "new_translation_vi": "Tìm các Soliskin khác cùng Cher",
-    "translator_note": ""
+    "new_translation_vi": "Tìm kiếm Soliskin còn lại cùng Cher",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011133",
@@ -3311,7 +3311,6 @@
     "primary_key": "Quest_692000003_ChildQuestTip_692_62",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3321,8 +3320,9 @@
     "ai_reason": "",
     "source_en": "Search for the other Soliskin",
     "review_note": "",
-    "new_translation_vi": "Tìm các Soliskin khác",
-    "translator_note": ""
+    "new_translation_vi": "Tìm kiếm Soliskin còn lại",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011134",
@@ -3336,7 +3336,6 @@
     "primary_key": "Quest_692000003_ChildQuestTip_692_65",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3347,7 +3346,8 @@
     "source_en": "Arrive at the location of the other Soliskin",
     "review_note": "",
     "new_translation_vi": "Đến vị trí của Soliskin còn lại",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011135",
@@ -3371,7 +3371,7 @@
     "ai_reason": "",
     "source_en": "Examine the components",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra các bộ phận",
+    "new_translation_vi": "Kiểm tra các linh kiện",
     "translator_note": ""
   },
   {
@@ -3386,7 +3386,6 @@
     "primary_key": "Quest_692000003_ChildQuestTip_692_69",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3396,8 +3395,9 @@
     "ai_reason": "",
     "source_en": "Search for the Soliskin with Cher and Amaro",
     "review_note": "",
-    "new_translation_vi": "Cùng Cher và Amaro tìm Soliskin",
-    "translator_note": ""
+    "new_translation_vi": "Tìm kiếm Soliskin cùng Cher và Amaro",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011137",
@@ -3411,7 +3411,6 @@
     "primary_key": "Quest_692000003_ChildQuestTip_692_70",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3422,7 +3421,8 @@
     "source_en": "Arrive at the location of the other Soliskin",
     "review_note": "",
     "new_translation_vi": "Đến vị trí của Soliskin còn lại",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011138",
@@ -3436,7 +3436,6 @@
     "primary_key": "Quest_692000003_ChildQuestTip_692_71",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3446,8 +3445,9 @@
     "ai_reason": "",
     "source_en": "Search for the Soliskin",
     "review_note": "",
-    "new_translation_vi": "Tìm Soliskin",
-    "translator_note": ""
+    "new_translation_vi": "Tìm kiếm Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011139",
@@ -3471,7 +3471,7 @@
     "ai_reason": "",
     "source_en": "Pop the Fluff Ball",
     "review_note": "",
-    "new_translation_vi": "Bóp vỡ Quả Bông",
+    "new_translation_vi": "Làm nổ Fluff Ball",
     "translator_note": ""
   },
   {
@@ -3496,7 +3496,7 @@
     "ai_reason": "",
     "source_en": "Pop the Fluff Ball",
     "review_note": "",
-    "new_translation_vi": "Bóp vỡ Quả Bông",
+    "new_translation_vi": "Làm nổ Fluff Ball",
     "translator_note": ""
   },
   {
@@ -3521,7 +3521,7 @@
     "ai_reason": "",
     "source_en": "Pop the Fluff Ball",
     "review_note": "",
-    "new_translation_vi": "Bóp vỡ Quả Bông",
+    "new_translation_vi": "Làm nổ Fluff Ball",
     "translator_note": ""
   },
   {
@@ -3536,7 +3536,6 @@
     "primary_key": "Quest_692000003_ChildQuestTip_692_78",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3547,7 +3546,8 @@
     "source_en": "Go back to Lenie",
     "review_note": "",
     "new_translation_vi": "Quay lại gặp Lenie",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011143",
@@ -3561,7 +3561,6 @@
     "primary_key": "Quest_692000003_ChildQuestTip_692_80",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3571,8 +3570,9 @@
     "ai_reason": "",
     "source_en": "Find the components inside the Soliskin Fluff Balls in the area",
     "review_note": "",
-    "new_translation_vi": "Tìm các thành phần bên trong những Quả Bông Soliskin trong khu vực",
-    "translator_note": ""
+    "new_translation_vi": "Tìm các linh kiện bên trong các Fluff Ball Soliskin trong khu vực",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011144",
@@ -3596,7 +3596,7 @@
     "ai_reason": "",
     "source_en": "Turn the Rock Mirror to reflect the light beam to the moth",
     "review_note": "",
-    "new_translation_vi": "Xoay Rock Mirror để phản chiếu chùm sáng vào con bướm",
+    "new_translation_vi": "Xoay Rock Mirror để phản chiếu tia sáng vào con bướm đêm",
     "translator_note": ""
   },
   {
@@ -3621,7 +3621,7 @@
     "ai_reason": "",
     "source_en": "Activate the Lumescribe Component (attack or Hoverdroid)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Bộ phận Lumescribe (tấn công hoặc Hoverdroid)",
+    "new_translation_vi": "Kích hoạt Lumescribe Component (tấn công hoặc dùng Hoverdroid)",
     "translator_note": ""
   },
   {
@@ -3646,7 +3646,7 @@
     "ai_reason": "",
     "source_en": "Activate the other Lumescribe Component to light up the moth",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Component Lumescribe còn lại để thắp sáng con bướm đêm",
+    "new_translation_vi": "Kích hoạt Lumescribe Component còn lại để chiếu sáng con bướm đêm",
     "translator_note": ""
   },
   {
@@ -3671,7 +3671,7 @@
     "ai_reason": "",
     "source_en": "Freeze the Rock Mirror",
     "review_note": "",
-    "new_translation_vi": "Đóng Băng Rock Mirror",
+    "new_translation_vi": "Freeze Rock Mirror",
     "translator_note": ""
   },
   {
@@ -3696,7 +3696,7 @@
     "ai_reason": "",
     "source_en": "Read the incoming WavesLine message",
     "review_note": "",
-    "new_translation_vi": "Đọc tin nhắn WavesLine đến",
+    "new_translation_vi": "Đọc tin nhắn WavesLine vừa nhận",
     "translator_note": ""
   },
   {
@@ -3721,7 +3721,7 @@
     "ai_reason": "",
     "source_en": "Take a photo of the object that looks like the Reactor Drive",
     "review_note": "",
-    "new_translation_vi": "Chụp lại vật thể trông giống Bộ Phản Ứng Lái",
+    "new_translation_vi": "Chụp ảnh vật thể trông giống Reactor Drive",
     "translator_note": ""
   },
   {
@@ -3746,7 +3746,7 @@
     "ai_reason": "",
     "source_en": "Take a photo of the components",
     "review_note": "",
-    "new_translation_vi": "Chụp lại các bộ phận kia đi",
+    "new_translation_vi": "Chụp ảnh các linh kiện",
     "translator_note": ""
   },
   {
@@ -3761,7 +3761,6 @@
     "primary_key": "Quest_692000003_ChildQuestTip_692_102",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3771,8 +3770,9 @@
     "ai_reason": "",
     "source_en": "Talk to Lenie",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Lenie",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Lenie",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011152",
@@ -3786,7 +3786,6 @@
     "primary_key": "Quest_692000003_ChildQuestTip_692_105",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3796,8 +3795,9 @@
     "ai_reason": "",
     "source_en": "Go to the other side and talk to Mornye (Optional)",
     "review_note": "",
-    "new_translation_vi": "Sang bên kia nói chuyện với Mornye (Tùy chọn)",
-    "translator_note": ""
+    "new_translation_vi": "Đi sang phía bên kia và trò chuyện với Mornye (Tùy chọn)",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011153",
@@ -3811,7 +3811,6 @@
     "primary_key": "Quest_692000003_ChildQuestTip_692_109",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3821,8 +3820,9 @@
     "ai_reason": "",
     "source_en": "Ask Lenie about the Reactor Drive",
     "review_note": "",
-    "new_translation_vi": "Ask Lenie về Bộ Phản Ứng Lái",
-    "translator_note": ""
+    "new_translation_vi": "Hỏi Lenie về Reactor Drive",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011154",
@@ -3836,7 +3836,6 @@
     "primary_key": "Quest_692000003_ChildQuestTip_692_110",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3846,8 +3845,9 @@
     "ai_reason": "",
     "source_en": "Check what the Soliskin found",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra thứ Soliskin tìm thấy",
-    "translator_note": ""
+    "new_translation_vi": "Kiểm tra xem Soliskin đã tìm thấy gì",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011155",
@@ -3871,7 +3871,7 @@
     "ai_reason": "",
     "source_en": "Head back up to the Reactor Drive",
     "review_note": "",
-    "new_translation_vi": "Quay lên Bộ Phản Ứng",
+    "new_translation_vi": "Quay lại Reactor Drive",
     "translator_note": ""
   },
   {
@@ -3886,7 +3886,6 @@
     "primary_key": "Quest_692000003_ChildQuestTip_692_114",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3896,8 +3895,9 @@
     "ai_reason": "",
     "source_en": "Talk to Kamil",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Kamil",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Kamil",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011157",
@@ -3946,7 +3946,7 @@
     "ai_reason": "",
     "source_en": "Freeze the Rock Mirror",
     "review_note": "",
-    "new_translation_vi": "Đóng Băng Rock Mirror",
+    "new_translation_vi": "Freeze Rock Mirror",
     "translator_note": ""
   },
   {
@@ -3971,7 +3971,7 @@
     "ai_reason": "",
     "source_en": "Turn the Rock Mirror to reflect the light beam to the moth",
     "review_note": "",
-    "new_translation_vi": "Xoay Rock Mirror để phản chiếu chùm sáng vào con bướm",
+    "new_translation_vi": "Xoay Rock Mirror để phản chiếu tia sáng vào con bướm đêm",
     "translator_note": ""
   },
   {
@@ -3996,7 +3996,7 @@
     "ai_reason": "",
     "source_en": "Defeat the enemies",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt kẻ địch",
+    "new_translation_vi": "Đánh bại kẻ địch",
     "translator_note": ""
   },
   {
@@ -4021,7 +4021,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Threnodian creations",
     "review_note": "",
-    "new_translation_vi": "Đánh bại các tạo vật Threnodian",
+    "new_translation_vi": "Đánh bại các tạo vật của Threnodian",
     "translator_note": ""
   },
   {
@@ -4046,7 +4046,7 @@
     "ai_reason": "",
     "source_en": "Defeat the enemies",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt kẻ địch",
+    "new_translation_vi": "Đánh bại kẻ địch",
     "translator_note": ""
   },
   {
@@ -4071,7 +4071,7 @@
     "ai_reason": "",
     "source_en": "Hit the moth with the light beam",
     "review_note": "",
-    "new_translation_vi": "Chiếu tia sáng vào con bướm đêm.",
+    "new_translation_vi": "Chiếu tia sáng vào con bướm đêm",
     "translator_note": ""
   },
   {
@@ -4086,7 +4086,6 @@
     "primary_key": "Quest_692000003_ChildQuestTip_692_142",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4096,8 +4095,9 @@
     "ai_reason": "",
     "source_en": "Talk to Lenie",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Lenie",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Lenie",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011165",
@@ -4111,7 +4111,6 @@
     "primary_key": "Quest_692000003_ChildQuestTip_692_157",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4122,7 +4121,8 @@
     "source_en": "Go back to Lenie",
     "review_note": "",
     "new_translation_vi": "Quay lại gặp Lenie",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011166",
@@ -4146,7 +4146,7 @@
     "ai_reason": "",
     "source_en": "Head back up to the Reactor Drive",
     "review_note": "",
-    "new_translation_vi": "Quay lên Bộ Phản Ứng",
+    "new_translation_vi": "Quay lại Reactor Drive",
     "translator_note": ""
   },
   {
@@ -4171,7 +4171,7 @@
     "ai_reason": "",
     "source_en": "How's it going?",
     "review_note": "",
-    "new_translation_vi": "Thế nào rồi?",
+    "new_translation_vi": "Mọi chuyện thế nào rồi?",
     "translator_note": ""
   },
   {
@@ -4196,7 +4196,7 @@
     "ai_reason": "",
     "source_en": "What do do you want to chat about?",
     "review_note": "",
-    "new_translation_vi": "Cậu muốn nói chuyện gì nào?",
+    "new_translation_vi": "Bạn muốn trò chuyện về điều gì?",
     "translator_note": ""
   },
   {
@@ -4211,18 +4211,18 @@
     "primary_key": "Quest_692000003_InteractContent_692_7",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Kamil",
     "review_note": "",
     "new_translation_vi": "Kamil",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "QUEST_0011170",
@@ -4246,7 +4246,7 @@
     "ai_reason": "",
     "source_en": "Investigate",
     "review_note": "",
-    "new_translation_vi": "Investigate",
+    "new_translation_vi": "Điều tra",
     "translator_note": ""
   },
   {
@@ -4271,7 +4271,7 @@
     "ai_reason": "",
     "source_en": "Investigate",
     "review_note": "",
-    "new_translation_vi": "Investigate",
+    "new_translation_vi": "Điều tra",
     "translator_note": ""
   },
   {
@@ -4296,7 +4296,7 @@
     "ai_reason": "",
     "source_en": "Inspect",
     "review_note": "",
-    "new_translation_vi": "Inspect",
+    "new_translation_vi": "Kiểm tra",
     "translator_note": ""
   },
   {
@@ -4311,7 +4311,6 @@
     "primary_key": "Quest_692000003_QuestDesc_692_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4321,8 +4320,9 @@
     "ai_reason": "",
     "source_en": "You receive an anonymous message informing you that Lenie, a member of the Survey Team, is in grave danger within the Twilight Woodlands. After rescuing Lenie, you discover Helios's prototype, a machine thought lost long ago in a Void Storm. As you investigate the prototype in this contaminated area, the freak accident that occurred during an experiment on the prototype slowly comes to light.",
     "review_note": "",
-    "new_translation_vi": "Bạn nhận được tin nhắn ẩn danh báo rằng Lenie, thành viên Đội Khảo Sát, đang gặp nguy hiểm nghiêm trọng trong Twilight Woodlands. Sau khi giải cứu Lenie, bạn phát hiện ra nguyên mẫu Helios—cỗ máy bị cho là đã mất tích từ lâu trong một cơn Void Storm. Khi điều tra nguyên mẫu trong khu vực bị ô nhiễm này, sự cố kỳ lạ xảy ra trong một thí nghiệm trên nguyên mẫu dần được hé lộ.",
-    "translator_note": ""
+    "new_translation_vi": "Bạn nhận được một tin nhắn ẩn danh thông báo rằng Lenie, một thành viên của Đội Khảo sát, đang gặp nguy hiểm tại Twilight Woodlands. Sau khi giải cứu Lenie, bạn phát hiện ra nguyên mẫu của Helios, một cỗ máy tưởng chừng đã mất tích từ lâu trong một Void Storm. Khi bạn điều tra nguyên mẫu trong khu vực bị ô nhiễm này, tai nạn hy hữu xảy ra trong quá trình thử nghiệm nguyên mẫu dần dần được hé lộ.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011174",
@@ -4346,7 +4346,7 @@
     "ai_reason": "",
     "source_en": "Broken Dimmr Heart",
     "review_note": "",
-    "new_translation_vi": "Trái Tim Dimmr Vỡ Nát",
+    "new_translation_vi": "Broken Dimmr Heart",
     "translator_note": ""
   },
   {
@@ -4371,7 +4371,7 @@
     "ai_reason": "",
     "source_en": "Take a photo of the object that looks like the Reactor Drive",
     "review_note": "",
-    "new_translation_vi": "Chụp lại vật thể trông giống Bộ Phản Ứng Lái",
+    "new_translation_vi": "Chụp ảnh vật thể trông giống Reactor Drive",
     "translator_note": ""
   },
   {
@@ -4396,7 +4396,7 @@
     "ai_reason": "",
     "source_en": "Take a photo of the components",
     "review_note": "",
-    "new_translation_vi": "Chụp lại các bộ phận kia đi",
+    "new_translation_vi": "Chụp ảnh các linh kiện",
     "translator_note": ""
   },
   {
@@ -4421,7 +4421,7 @@
     "ai_reason": "",
     "source_en": "Take a photo of the object that looks like the Reactor Drive",
     "review_note": "",
-    "new_translation_vi": "Chụp lại vật thể trông giống Bộ Phản Ứng Lái",
+    "new_translation_vi": "Chụp ảnh vật thể trông giống Reactor Drive",
     "translator_note": ""
   },
   {
@@ -4446,7 +4446,7 @@
     "ai_reason": "",
     "source_en": "Component",
     "review_note": "",
-    "new_translation_vi": "Component",
+    "new_translation_vi": "Linh kiện",
     "translator_note": ""
   },
   {
@@ -4471,7 +4471,7 @@
     "ai_reason": "",
     "source_en": "Component",
     "review_note": "",
-    "new_translation_vi": "Component",
+    "new_translation_vi": "Linh kiện",
     "translator_note": ""
   },
   {
@@ -4521,7 +4521,7 @@
     "ai_reason": "",
     "source_en": "Head to the Research Institute",
     "review_note": "",
-    "new_translation_vi": "Đến Viện Nghiên Cứu",
+    "new_translation_vi": "Đến Viện Nghiên cứu",
     "translator_note": ""
   },
   {
@@ -4536,7 +4536,6 @@
     "primary_key": "Quest_692850001_ChildQuestTip_692_5",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4546,8 +4545,9 @@
     "ai_reason": "",
     "source_en": "Talk to Anslem",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Anslem",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Anslem",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011183",
@@ -4571,7 +4571,7 @@
     "ai_reason": "",
     "source_en": "Leave the Research Institute",
     "review_note": "",
-    "new_translation_vi": "Rời khỏi Viện Nghiên Cứu",
+    "new_translation_vi": "Leave Viện Nghiên cứu",
     "translator_note": ""
   },
   {
@@ -4586,7 +4586,6 @@
     "primary_key": "Quest_692850001_ChildQuestTip_692_9",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4596,8 +4595,9 @@
     "ai_reason": "",
     "source_en": "Meet Lucilla at the Academic Affairs office",
     "review_note": "",
-    "new_translation_vi": "Gặp Lucilla tại Văn phòng Sự vụ Học viện",
-    "translator_note": ""
+    "new_translation_vi": "Gặp Lucilla tại văn phòng Học vụ",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011185",
@@ -4611,7 +4611,6 @@
     "primary_key": "Quest_692850001_ChildQuestTip_692_10",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4621,8 +4620,9 @@
     "ai_reason": "",
     "source_en": "Talk to Lucilla",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Lucilla",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Lucilla",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011186",
@@ -4636,7 +4636,6 @@
     "primary_key": "Quest_692850001_InteractContent_692_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4646,8 +4645,9 @@
     "ai_reason": "",
     "source_en": "Talk to Anslem",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Anslem",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Anslem",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011187",
@@ -4671,7 +4671,7 @@
     "ai_reason": "",
     "source_en": "After resolving the crisis with the prototype in the Twilight Woodlands, you head to the Spacetrek Collective's Research Institute at the request of an anonymous message.",
     "review_note": "",
-    "new_translation_vi": "Sau khi giải quyết cuộc khủng hoảng với nguyên mẫu ở Twilight Woodlands, cậu nhận được lời nhắn ẩn danh và đến Viện Nghiên Cứu Spacetrek Collective.",
+    "new_translation_vi": "Sau khi giải quyết cuộc khủng hoảng với nguyên mẫu tại Twilight Woodlands, bạn đến Viện Nghiên cứu của Spacetrek Collective theo yêu cầu từ một tin nhắn ẩn danh.",
     "translator_note": ""
   },
   {
@@ -4696,7 +4696,7 @@
     "ai_reason": "",
     "source_en": "Broken Dimmr Heart: Finale",
     "review_note": "",
-    "new_translation_vi": "Broken Dimmr Heart: Khúc Kết",
+    "new_translation_vi": "Broken Dimmr Heart: Hồi kết",
     "translator_note": ""
   },
   {
@@ -4746,7 +4746,7 @@
     "ai_reason": "",
     "source_en": "Head to the frozen island",
     "review_note": "",
-    "new_translation_vi": "Đến hòn đảo băng giá",
+    "new_translation_vi": "Đến hòn đảo frozen",
     "translator_note": ""
   },
   {
@@ -4771,7 +4771,7 @@
     "ai_reason": "",
     "source_en": "Use the Projector to smash the Luxite",
     "review_note": "",
-    "new_translation_vi": "Dùng Máy Chiếu để đập vỡ Luxite",
+    "new_translation_vi": "Sử dụng Máy chiếu để phá vỡ Luxite",
     "translator_note": ""
   },
   {
@@ -4796,7 +4796,7 @@
     "ai_reason": "",
     "source_en": "Instruct \"Currie\" to open the mechanism",
     "review_note": "",
-    "new_translation_vi": "Ra lệnh cho \"Currie\" mở cơ chế",
+    "new_translation_vi": "Hướng dẫn \"Currie\" mở cơ chế",
     "translator_note": ""
   },
   {
@@ -4821,7 +4821,7 @@
     "ai_reason": "",
     "source_en": "Follow the bright feather",
     "review_note": "",
-    "new_translation_vi": "Đi theo chiếc lông sáng",
+    "new_translation_vi": "Đi theo chiếc lông vũ sáng rực",
     "translator_note": ""
   },
   {
@@ -4836,7 +4836,6 @@
     "primary_key": "Quest_183000000_ChildQuestTip_183_5",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4846,8 +4845,9 @@
     "ai_reason": "",
     "source_en": "Continue onward with Sigrika",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục cùng Sigrika",
-    "translator_note": ""
+    "new_translation_vi": "Tiếp tục đi cùng Sigrika",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011195",
@@ -4896,7 +4896,7 @@
     "ai_reason": "",
     "source_en": "Instruct \"Currie\" to open the mechanism",
     "review_note": "",
-    "new_translation_vi": "Ra lệnh cho \"Currie\" mở cơ chế",
+    "new_translation_vi": "Hướng dẫn \"Currie\" mở cơ chế",
     "translator_note": ""
   },
   {
@@ -4911,7 +4911,6 @@
     "primary_key": "Quest_183000000_ChildQuestTip_183_11",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4921,8 +4920,9 @@
     "ai_reason": "",
     "source_en": "Talk to Sigrika",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Sigrika",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Sigrika",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011198",
@@ -4946,7 +4946,7 @@
     "ai_reason": "",
     "source_en": "Instruct \"Currie\" to open the mechanism",
     "review_note": "",
-    "new_translation_vi": "Ra lệnh cho \"Currie\" mở cơ chế",
+    "new_translation_vi": "Hướng dẫn \"Currie\" mở cơ chế",
     "translator_note": ""
   },
   {
@@ -4971,7 +4971,7 @@
     "ai_reason": "",
     "source_en": "Free the Kronaclaw",
     "review_note": "",
-    "new_translation_vi": "Giải thoát Kronaclaw",
+    "new_translation_vi": "Giải cứu Kronaclaw",
     "translator_note": ""
   },
   {
@@ -5071,7 +5071,7 @@
     "ai_reason": "",
     "source_en": "Follow the bright feather",
     "review_note": "",
-    "new_translation_vi": "Đi theo chiếc lông sáng",
+    "new_translation_vi": "Đi theo chiếc lông vũ sáng rực",
     "translator_note": ""
   },
   {
@@ -5121,7 +5121,7 @@
     "ai_reason": "",
     "source_en": "Follow the bright feather",
     "review_note": "",
-    "new_translation_vi": "Đi theo chiếc lông sáng",
+    "new_translation_vi": "Đi theo chiếc lông vũ sáng rực",
     "translator_note": ""
   },
   {
@@ -5171,7 +5171,7 @@
     "ai_reason": "",
     "source_en": "Follow the bright feather",
     "review_note": "",
-    "new_translation_vi": "Đi theo chiếc lông sáng",
+    "new_translation_vi": "Đi theo chiếc lông vũ sáng rực",
     "translator_note": ""
   },
   {
@@ -5261,7 +5261,6 @@
     "primary_key": "Quest_183000000_ChildQuestTip_183_42",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5271,8 +5270,9 @@
     "ai_reason": "",
     "source_en": "Talk to Sigrika",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Sigrika",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Sigrika",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011212",
@@ -5336,7 +5336,6 @@
     "primary_key": "Quest_183000000_ChildQuestTip_215_43",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5346,8 +5345,9 @@
     "ai_reason": "",
     "source_en": "Search for Sigrika",
     "review_note": "",
-    "new_translation_vi": "Tìm Sigrika",
-    "translator_note": ""
+    "new_translation_vi": "Tìm kiếm Sigrika",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011215",
@@ -5371,7 +5371,7 @@
     "ai_reason": "",
     "source_en": "Take in the view from high above",
     "review_note": "",
-    "new_translation_vi": "Ngắm nhìn cảnh vật từ trên cao nào",
+    "new_translation_vi": "Ngắm nhìn khung cảnh từ trên cao",
     "translator_note": ""
   },
   {
@@ -5396,7 +5396,7 @@
     "ai_reason": "",
     "source_en": "Find the cave exit",
     "review_note": "",
-    "new_translation_vi": "Tìm lối ra khỏi hang động",
+    "new_translation_vi": "Tìm lối ra hang động",
     "translator_note": ""
   },
   {
@@ -5446,7 +5446,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi tới",
     "translator_note": ""
   },
   {
@@ -5461,7 +5461,6 @@
     "primary_key": "Quest_183000000_ChildQuestTip_215_51",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5471,8 +5470,9 @@
     "ai_reason": "",
     "source_en": "Talk to Sigrika",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Sigrika",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Sigrika",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011220",
@@ -5486,7 +5486,6 @@
     "primary_key": "Quest_183000000_ChildQuestTip_215_52",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5496,8 +5495,9 @@
     "ai_reason": "",
     "source_en": "Head to the place specified in Sigrika's WavesLine message",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm được nhắc đến trong tin nhắn WavesLine của Sigrika đi",
-    "translator_note": ""
+    "new_translation_vi": "Đến địa điểm được chỉ định trong tin nhắn WavesLine của Sigrika",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011221",
@@ -5546,7 +5546,7 @@
     "ai_reason": "",
     "source_en": "Find the cave exit",
     "review_note": "",
-    "new_translation_vi": "Tìm lối ra khỏi hang động",
+    "new_translation_vi": "Tìm lối ra hang động",
     "translator_note": ""
   },
   {
@@ -5571,7 +5571,7 @@
     "ai_reason": "",
     "source_en": "Start the mechanism",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt cơ chế",
+    "new_translation_vi": "Khởi động cơ chế",
     "translator_note": ""
   },
   {
@@ -5671,7 +5671,7 @@
     "ai_reason": "",
     "source_en": "Defeat the enemy guards",
     "review_note": "",
-    "new_translation_vi": "Đánh bại lính canh địch",
+    "new_translation_vi": "Đánh bại lính canh",
     "translator_note": ""
   },
   {
@@ -5696,7 +5696,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi tới",
     "translator_note": ""
   },
   {
@@ -5721,7 +5721,7 @@
     "ai_reason": "",
     "source_en": "Follow the bright feather",
     "review_note": "",
-    "new_translation_vi": "Đi theo chiếc lông sáng",
+    "new_translation_vi": "Đi theo chiếc lông vũ sáng rực",
     "translator_note": ""
   },
   {
@@ -5746,7 +5746,7 @@
     "ai_reason": "",
     "source_en": "Examine the feather that suddenly appeared",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra chiếc lông vũ đột nhiên xuất hiện này",
+    "new_translation_vi": "Kiểm tra chiếc lông vũ vừa xuất hiện",
     "translator_note": ""
   },
   {
@@ -5771,7 +5771,7 @@
     "ai_reason": "",
     "source_en": "Examine",
     "review_note": "",
-    "new_translation_vi": "Examine",
+    "new_translation_vi": "Kiểm tra",
     "translator_note": ""
   },
   {
@@ -5796,7 +5796,7 @@
     "ai_reason": "",
     "source_en": "Examine",
     "review_note": "",
-    "new_translation_vi": "Examine",
+    "new_translation_vi": "Kiểm tra",
     "translator_note": ""
   },
   {
@@ -5846,7 +5846,7 @@
     "ai_reason": "",
     "source_en": "Examine",
     "review_note": "",
-    "new_translation_vi": "Examine",
+    "new_translation_vi": "Kiểm tra",
     "translator_note": ""
   },
   {
@@ -5871,7 +5871,7 @@
     "ai_reason": "",
     "source_en": "Examine",
     "review_note": "",
-    "new_translation_vi": "Examine",
+    "new_translation_vi": "Kiểm tra",
     "translator_note": ""
   },
   {
@@ -5896,7 +5896,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -5921,7 +5921,7 @@
     "ai_reason": "",
     "source_en": "Ride",
     "review_note": "",
-    "new_translation_vi": "Ride",
+    "new_translation_vi": "Cưỡi",
     "translator_note": ""
   },
   {
@@ -5946,7 +5946,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -5971,7 +5971,7 @@
     "ai_reason": "",
     "source_en": "Examine",
     "review_note": "",
-    "new_translation_vi": "Examine",
+    "new_translation_vi": "Kiểm tra",
     "translator_note": ""
   },
   {
@@ -5996,7 +5996,7 @@
     "ai_reason": "",
     "source_en": "Examine",
     "review_note": "",
-    "new_translation_vi": "Examine",
+    "new_translation_vi": "Kiểm tra",
     "translator_note": ""
   },
   {
@@ -6011,7 +6011,6 @@
     "primary_key": "Quest_183000000_QuestDesc_183_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6021,8 +6020,9 @@
     "ai_reason": "",
     "source_en": "Even an island that has slumbered for years may hold sights that have withstood the test of time. At Sigrika's invitation, your journey into the unknown begins...",
     "review_note": "",
-    "new_translation_vi": "Dù là hòn đảo đã ngủ yên bao năm, nơi đây vẫn có thể ẩn chứa những cảnh sắc trường tồn với thời gian. Theo lời mời của Sigrika, hành trình khám phá những điều chưa biết của cậu bắt đầu...",
-    "translator_note": ""
+    "new_translation_vi": "Ngay cả một hòn đảo đã ngủ yên nhiều năm cũng có thể chứa đựng những cảnh tượng trường tồn với thời gian. Theo lời mời của Sigrika, hành trình vào vùng đất chưa biết của bạn bắt đầu...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011242",
@@ -6046,7 +6046,7 @@
     "ai_reason": "",
     "source_en": "A Perfect Day for Flying",
     "review_note": "",
-    "new_translation_vi": "Ngày Hoàn Hảo Để Bay",
+    "new_translation_vi": "Một ngày hoàn hảo để bay",
     "translator_note": ""
   },
   {
@@ -6071,7 +6071,7 @@
     "ai_reason": "",
     "source_en": "Head to the Gourmet Street",
     "review_note": "",
-    "new_translation_vi": "Đến Phố Ẩm Thực",
+    "new_translation_vi": "Đến Gourmet Street",
     "translator_note": ""
   },
   {
@@ -6096,7 +6096,7 @@
     "ai_reason": "",
     "source_en": "Head to City Hall",
     "review_note": "",
-    "new_translation_vi": "Đến Tòa Thị Chính",
+    "new_translation_vi": "Đến City Hall",
     "translator_note": ""
   },
   {
@@ -6121,7 +6121,7 @@
     "ai_reason": "",
     "source_en": "Head to the Meeting Room",
     "review_note": "",
-    "new_translation_vi": "Đến Phòng Họp",
+    "new_translation_vi": "Đến phòng họp",
     "translator_note": ""
   },
   {
@@ -6146,7 +6146,7 @@
     "ai_reason": "",
     "source_en": "Talk to Sanhua",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Sanhua",
+    "new_translation_vi": "Trò chuyện với Sanhua",
     "translator_note": ""
   },
   {
@@ -6171,7 +6171,7 @@
     "ai_reason": "",
     "source_en": "Leave City Hall",
     "review_note": "",
-    "new_translation_vi": "Rời Tòa Thị Chính",
+    "new_translation_vi": "City Hall Leave",
     "translator_note": ""
   },
   {
@@ -6196,7 +6196,7 @@
     "ai_reason": "",
     "source_en": "Head to City Hall",
     "review_note": "",
-    "new_translation_vi": "Đến Tòa Thị Chính",
+    "new_translation_vi": "Đến City Hall",
     "translator_note": ""
   },
   {
@@ -6221,7 +6221,7 @@
     "ai_reason": "",
     "source_en": "Your forgotten past, hazy memories, and a strange dream... So many questions linger about your identity, and who you used to be. Meanwhile, a mysterious pull guides you to a hidden place on the distant sea...",
     "review_note": "",
-    "new_translation_vi": "Quá khứ bị lãng quên, ký ức mơ hồ, cùng một giấc mơ kỳ lạ… Có quá nhiều câu hỏi về thân phận của cậu, về con người cậu từng là. Trong khi đó, một sức hút bí ẩn lại dẫn lối cậu đến một nơi ẩn khuất ngoài biển xa…",
+    "new_translation_vi": "Quá khứ bị lãng quên, những ký ức mờ nhạt và một giấc mơ kỳ lạ... Có quá nhiều câu hỏi về danh tính và con người trước đây của bạn. Trong khi đó, một lực hút bí ẩn dẫn dắt bạn đến một nơi ẩn giấu trên vùng biển xa xôi...",
     "translator_note": ""
   },
   {
@@ -6246,7 +6246,7 @@
     "ai_reason": "",
     "source_en": "Dreamweaver's Ascent",
     "review_note": "",
-    "new_translation_vi": "Thăng Tiến Của Người Dệt Giấc Mơ",
+    "new_translation_vi": "Dreamweaver's Ascent",
     "translator_note": ""
   },
   {
@@ -6271,7 +6271,7 @@
     "ai_reason": "",
     "source_en": "Head to the Ferry",
     "review_note": "",
-    "new_translation_vi": "Đến Bến Phà",
+    "new_translation_vi": "Đến bến phà",
     "translator_note": ""
   },
   {
@@ -6296,7 +6296,7 @@
     "ai_reason": "",
     "source_en": "Arrive at Mt. Firmament",
     "review_note": "",
-    "new_translation_vi": "Đến Núi Firmament",
+    "new_translation_vi": "Đến Mt. Firmament",
     "translator_note": ""
   },
   {
@@ -6346,7 +6346,7 @@
     "ai_reason": "",
     "source_en": "Repair the Bridge with Chronosorter",
     "review_note": "",
-    "new_translation_vi": "Sửa cầu bằng Chronosorter",
+    "new_translation_vi": "Sửa chữa cây cầu bằng Chronosorter",
     "translator_note": ""
   },
   {
@@ -6371,7 +6371,7 @@
     "ai_reason": "",
     "source_en": "Go Further into Mt. Firmament",
     "review_note": "",
-    "new_translation_vi": "Đi sâu hơn vào Núi Firmament",
+    "new_translation_vi": "Đi sâu hơn vào Mt. Firmament",
     "translator_note": ""
   },
   {
@@ -6396,7 +6396,7 @@
     "ai_reason": "",
     "source_en": "Go Further into Mt. Firmament",
     "review_note": "",
-    "new_translation_vi": "Đi sâu hơn vào Núi Firmament",
+    "new_translation_vi": "Đi sâu hơn vào Mt. Firmament",
     "translator_note": ""
   },
   {
@@ -6421,7 +6421,7 @@
     "ai_reason": "",
     "source_en": "Go Further into Mt. Firmament",
     "review_note": "",
-    "new_translation_vi": "Đi sâu hơn vào Núi Firmament",
+    "new_translation_vi": "Đi sâu hơn vào Mt. Firmament",
     "translator_note": ""
   },
   {
@@ -6446,7 +6446,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Fractsidus",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Fractsidus",
+    "new_translation_vi": "Tiêu diệt Fractsidus",
     "translator_note": ""
   },
   {
@@ -6471,7 +6471,7 @@
     "ai_reason": "",
     "source_en": "Search for Clues about Jinhsi",
     "review_note": "",
-    "new_translation_vi": "Tìm manh mối về Jinhsi",
+    "new_translation_vi": "Tìm kiếm manh mối về Jinhsi",
     "translator_note": ""
   },
   {
@@ -6496,7 +6496,7 @@
     "ai_reason": "",
     "source_en": "Inspect the Pond",
     "review_note": "",
-    "new_translation_vi": "Inspect cái Ao",
+    "new_translation_vi": "Kiểm tra cái ao",
     "translator_note": ""
   },
   {
@@ -6521,7 +6521,7 @@
     "ai_reason": "",
     "source_en": "Inspect the Vase",
     "review_note": "",
-    "new_translation_vi": "Inspect chiếc bình",
+    "new_translation_vi": "Kiểm tra chiếc bình",
     "translator_note": ""
   },
   {
@@ -6571,7 +6571,7 @@
     "ai_reason": "",
     "source_en": "Enter the Chamber",
     "review_note": "",
-    "new_translation_vi": "Vào Phòng",
+    "new_translation_vi": "Vào căn phòng",
     "translator_note": ""
   },
   {
@@ -6586,7 +6586,6 @@
     "primary_key": "Quest_125000121_ChildQuestTip_0_31",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6597,7 +6596,8 @@
     "source_en": "Follow Xinyi",
     "review_note": "",
     "new_translation_vi": "Đi theo Xinyi",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011265",
@@ -6621,7 +6621,7 @@
     "ai_reason": "",
     "source_en": "Talk to the Residents",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với cư dân",
+    "new_translation_vi": "Trò chuyện với cư dân",
     "translator_note": ""
   },
   {
@@ -6636,7 +6636,6 @@
     "primary_key": "Quest_125000121_ChildQuestTip_0_33",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6646,8 +6645,9 @@
     "ai_reason": "",
     "source_en": "Talk to Xinyi",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Xinyi",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Xinyi",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011267",
@@ -6671,7 +6671,7 @@
     "ai_reason": "",
     "source_en": "Head to the Truthseeker's Pass",
     "review_note": "",
-    "new_translation_vi": "Đến Đèo Truthseeker",
+    "new_translation_vi": "Đến Truthseeker's Pass",
     "translator_note": ""
   },
   {
@@ -6696,7 +6696,7 @@
     "ai_reason": "",
     "source_en": "Head to the Truthseeker's Pass",
     "review_note": "",
-    "new_translation_vi": "Đến Đèo Truthseeker",
+    "new_translation_vi": "Đến Truthseeker's Pass",
     "translator_note": ""
   },
   {
@@ -6721,7 +6721,7 @@
     "ai_reason": "",
     "source_en": "Head to the Truthseeker's Pass",
     "review_note": "",
-    "new_translation_vi": "Đến Đèo Truthseeker",
+    "new_translation_vi": "Đến Truthseeker's Pass",
     "translator_note": ""
   },
   {
@@ -6746,7 +6746,7 @@
     "ai_reason": "",
     "source_en": "Follow the Resonance Traces",
     "review_note": "",
-    "new_translation_vi": "Theo dấu vết Cộng Hưởng",
+    "new_translation_vi": "Theo dấu vết cộng hưởng",
     "translator_note": ""
   },
   {
@@ -6771,7 +6771,7 @@
     "ai_reason": "",
     "source_en": "Follow the Resonance Traces",
     "review_note": "",
-    "new_translation_vi": "Theo dấu vết Cộng Hưởng",
+    "new_translation_vi": "Theo dấu vết cộng hưởng",
     "translator_note": ""
   },
   {
@@ -6796,7 +6796,7 @@
     "ai_reason": "",
     "source_en": "Go further into Mt. Firmament",
     "review_note": "",
-    "new_translation_vi": "Đi sâu hơn vào Núi Firmament",
+    "new_translation_vi": "Đi sâu hơn vào Mt. Firmament",
     "translator_note": ""
   },
   {
@@ -6821,7 +6821,7 @@
     "ai_reason": "",
     "source_en": "Head to the Temporal Barrier Through the Cave",
     "review_note": "",
-    "new_translation_vi": "Đến Rào Cản Thời Gian qua hang động",
+    "new_translation_vi": "Đến rào chắn thời gian qua hang động",
     "translator_note": ""
   },
   {
@@ -6846,7 +6846,7 @@
     "ai_reason": "",
     "source_en": "Cross the Temporal Barrier",
     "review_note": "",
-    "new_translation_vi": "Vượt qua Rào Cản Thời Gian",
+    "new_translation_vi": "Vượt qua rào chắn thời gian",
     "translator_note": ""
   },
   {
@@ -6871,7 +6871,7 @@
     "ai_reason": "",
     "source_en": "Go further into Mt. Firmament",
     "review_note": "",
-    "new_translation_vi": "Đi sâu hơn vào Núi Firmament",
+    "new_translation_vi": "Đi sâu hơn vào Mt. Firmament",
     "translator_note": ""
   },
   {
@@ -6896,7 +6896,7 @@
     "ai_reason": "",
     "source_en": "Go further into Mt. Firmament",
     "review_note": "",
-    "new_translation_vi": "Đi sâu hơn vào Núi Firmament",
+    "new_translation_vi": "Đi sâu hơn vào Mt. Firmament",
     "translator_note": ""
   },
   {
@@ -6911,7 +6911,6 @@
     "primary_key": "Quest_125000121_ChildQuestTip_125_24",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6921,8 +6920,9 @@
     "ai_reason": "",
     "source_en": "Check the Tutorials for Information on the Photonvault and the Photon Barrier",
     "review_note": "",
-    "new_translation_vi": "Xem Hướng dẫn về Photonvault và Rào cản Photon",
-    "translator_note": ""
+    "new_translation_vi": "Kiểm tra hướng dẫn để biết thông tin về Photonvault và rào chắn Photon",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011278",
@@ -6971,7 +6971,7 @@
     "ai_reason": "",
     "source_en": "Mt. Firmament, once serene, now lies in eerie silence after the devastating Temporal Disruption hit. Are there any survivors left...",
     "review_note": "",
-    "new_translation_vi": "Núi Firmament, từng yên bình, giờ đây chìm trong sự im lặng đáng sợ sau khi Rối Loạn Thời Gian tàn phá. Không biết còn ai sống sót không...",
+    "new_translation_vi": "Mt. Firmament từng yên bình, giờ đây chìm trong silence kỳ quái sau khi sự gián đoạn thời gian tàn khốc xảy ra. Liệu còn người sống sót nào không...",
     "translator_note": ""
   },
   {
@@ -6996,7 +6996,7 @@
     "ai_reason": "",
     "source_en": "Town in the Mountains",
     "review_note": "",
-    "new_translation_vi": "Thị Trấn Trong Núi",
+    "new_translation_vi": "Thị trấn trên núi",
     "translator_note": ""
   },
   {
@@ -7011,7 +7011,6 @@
     "primary_key": "Quest_125000121_QuestDesc_0_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7021,8 +7020,9 @@
     "ai_reason": "",
     "source_en": "Jinhsi has gone missing, and you just had an enigmatic dream.... That Wayfinder at the ferry may hold some answers to these mysteries.",
     "review_note": "",
-    "new_translation_vi": "Jinhsi đã mất tích, và cậu vừa trải qua một giấc mơ kỳ bí... Người Hướng Đạo ở bến phà có thể biết đôi điều về những bí ẩn này.",
-    "translator_note": ""
+    "new_translation_vi": "Jinhsi đã mất tích, và bạn vừa có một giấc mơ khó hiểu.... Wayfinder tại bến phà có thể nắm giữ câu trả lời cho những bí ẩn này.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011282",
@@ -7046,7 +7046,7 @@
     "ai_reason": "",
     "source_en": "To Mt. Firmament",
     "review_note": "",
-    "new_translation_vi": "Đến Núi Firmament",
+    "new_translation_vi": "Đến Mt. Firmament",
     "translator_note": ""
   },
   {
@@ -7061,7 +7061,6 @@
     "primary_key": "Quest_125000121_QuestScheduleMainTitle_0_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7071,8 +7070,9 @@
     "ai_reason": "",
     "source_en": "Learn about the life of Hongzhen residents",
     "review_note": "",
-    "new_translation_vi": "Tìm hiểu cuộc sống của cư dân Hongzhen",
-    "translator_note": ""
+    "new_translation_vi": "Tìm hiểu về cuộc sống của cư dân Hongzhen",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011284",
@@ -7086,7 +7086,6 @@
     "primary_key": "Quest_125000121_QuestScheduleMainTitle_125_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7096,8 +7095,9 @@
     "ai_reason": "",
     "source_en": "Disable the Photonvault and Photon Barrier",
     "review_note": "",
-    "new_translation_vi": "Vô hiệu hóa Kho Photon và Rào Cản Photon",
-    "translator_note": ""
+    "new_translation_vi": "Vô hiệu hóa Photonvault và rào chắn Photon",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011285",
@@ -7111,7 +7111,6 @@
     "primary_key": "Quest_125000121_QuestScheduleMainTitle_125_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7121,8 +7120,9 @@
     "ai_reason": "",
     "source_en": "Disable the Photonvault and Photon Barrier",
     "review_note": "",
-    "new_translation_vi": "Vô hiệu hóa Kho Photon và Rào Cản Photon",
-    "translator_note": ""
+    "new_translation_vi": "Vô hiệu hóa Photonvault và rào chắn Photon",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011286",
@@ -7136,7 +7136,6 @@
     "primary_key": "Quest_125000121_QuestScheduleSubTitle_0_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7147,7 +7146,8 @@
     "source_en": "Follow Xinyi",
     "review_note": "",
     "new_translation_vi": "Đi theo Xinyi",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011287",
@@ -7161,7 +7161,6 @@
     "primary_key": "Quest_125000121_QuestScheduleSubTitle_0_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7171,8 +7170,9 @@
     "ai_reason": "",
     "source_en": "(Optional) Talk to the Hongzhen residents",
     "review_note": "",
-    "new_translation_vi": "(Tùy chọn) Talk với dân làng Hongzhen",
-    "translator_note": ""
+    "new_translation_vi": "(Tùy chọn) Trò chuyện với cư dân Hongzhen",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011288",
@@ -7196,7 +7196,7 @@
     "ai_reason": "",
     "source_en": "Head to the Central Chamber",
     "review_note": "",
-    "new_translation_vi": "Đến Phòng Trung Tâm",
+    "new_translation_vi": "Đến phòng trung tâm",
     "translator_note": ""
   },
   {
@@ -7221,7 +7221,7 @@
     "ai_reason": "",
     "source_en": "Head to the Central Chamber",
     "review_note": "",
-    "new_translation_vi": "Đến Phòng Trung Tâm",
+    "new_translation_vi": "Đến phòng trung tâm",
     "translator_note": ""
   },
   {
@@ -7246,7 +7246,7 @@
     "ai_reason": "",
     "source_en": "Head to the Central Chamber",
     "review_note": "",
-    "new_translation_vi": "Đến Phòng Trung Tâm",
+    "new_translation_vi": "Đến phòng trung tâm",
     "translator_note": ""
   },
   {
@@ -7271,7 +7271,7 @@
     "ai_reason": "",
     "source_en": "Retrieve the Cipher Key",
     "review_note": "",
-    "new_translation_vi": "Thu thập Cipher Key",
+    "new_translation_vi": "Lấy chìa khóa mã hóa",
     "translator_note": ""
   },
   {
@@ -7296,7 +7296,7 @@
     "ai_reason": "",
     "source_en": "Leave the Chamber",
     "review_note": "",
-    "new_translation_vi": "Rời Phòng",
+    "new_translation_vi": "Vào Leave căn phòng",
     "translator_note": ""
   },
   {
@@ -7446,7 +7446,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi tới",
     "translator_note": ""
   },
   {
@@ -7471,7 +7471,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi tới",
     "translator_note": ""
   },
   {
@@ -7496,7 +7496,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi tới",
     "translator_note": ""
   },
   {
@@ -7521,7 +7521,7 @@
     "ai_reason": "",
     "source_en": "Inspect the Hibernation Pod",
     "review_note": "",
-    "new_translation_vi": "Inspect Cỗ Máy Ngủ Đông",
+    "new_translation_vi": "Kiểm tra kén ngủ đông",
     "translator_note": ""
   },
   {
@@ -7536,7 +7536,6 @@
     "primary_key": "Quest_125000122_ChildQuestTip_125_9",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7546,8 +7545,9 @@
     "ai_reason": "",
     "source_en": "Return to Hongzhen",
     "review_note": "",
-    "new_translation_vi": "Quay về Hongzhen",
-    "translator_note": ""
+    "new_translation_vi": "Quay lại Hongzhen",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011303",
@@ -7571,7 +7571,7 @@
     "ai_reason": "",
     "source_en": "Enter the Secret Chamber",
     "review_note": "",
-    "new_translation_vi": "Vào Phòng Bí Mật",
+    "new_translation_vi": "Vào căn phòng bí mật",
     "translator_note": ""
   },
   {
@@ -7596,7 +7596,7 @@
     "ai_reason": "",
     "source_en": "The hibernating deity silently awaits the pilgrims' arrival. To distinguish truth from lies, seek answers from this divine being.",
     "review_note": "",
-    "new_translation_vi": "Vị thần ngủ quên đang lặng lẽ chờ đợi những người hành hương tới. Để phân biệt thật giả, hãy tìm câu trả lời từ đấng thiêng liêng này.",
+    "new_translation_vi": "Vị thần đang ngủ đông lặng lẽ chờ đợi những người hành hương đến. Để phân biệt thật giả, hãy tìm câu trả lời từ vị thần này.",
     "translator_note": ""
   },
   {
@@ -7621,7 +7621,7 @@
     "ai_reason": "",
     "source_en": "Road of Pilgrimage",
     "review_note": "",
-    "new_translation_vi": "Con Đường Hành Hương",
+    "new_translation_vi": "Con đường hành hương",
     "translator_note": ""
   },
   {
@@ -7646,7 +7646,7 @@
     "ai_reason": "",
     "source_en": "Leave Mianloong Chamber",
     "review_note": "",
-    "new_translation_vi": "Rời Mianloong Chamber",
+    "new_translation_vi": "Leave Mianloong Chamber",
     "translator_note": ""
   },
   {
@@ -7671,7 +7671,7 @@
     "ai_reason": "",
     "source_en": "Complete the Destined Battle",
     "review_note": "",
-    "new_translation_vi": "Hoàn Thành Trận Chiến Định Mệnh",
+    "new_translation_vi": "Hoàn thành trận chiến định mệnh",
     "translator_note": ""
   },
   {
@@ -7696,7 +7696,7 @@
     "ai_reason": "",
     "source_en": "It is the deity that commands time. It is the deity that bestows blessings. Now is your time to confront Sentinel Jué.",
     "review_note": "",
-    "new_translation_vi": "Ngài là vị thần cai quản thời gian. Ngài là vị thần ban phước lành. Giờ là lúc ngươi đối mặt với Sentinel Jué.",
+    "new_translation_vi": "Đó là vị thần điều khiển thời gian. Đó là vị thần ban phước lành. Đã đến lúc bạn đối mặt với Sentinel Jué.",
     "translator_note": ""
   },
   {
@@ -7721,7 +7721,7 @@
     "ai_reason": "",
     "source_en": "The Commander of Time",
     "review_note": "",
-    "new_translation_vi": "Chỉ Huy Thời Gian",
+    "new_translation_vi": "Người chỉ huy thời gian",
     "translator_note": ""
   },
   {
@@ -7736,7 +7736,6 @@
     "primary_key": "Quest_125000124_ChildQuestTip_125_12",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7746,8 +7745,9 @@
     "ai_reason": "",
     "source_en": "Return to Hongzhen",
     "review_note": "",
-    "new_translation_vi": "Quay về Hongzhen",
-    "translator_note": ""
+    "new_translation_vi": "Quay lại Hongzhen",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011311",
@@ -7771,7 +7771,7 @@
     "ai_reason": "",
     "source_en": "Time resumes and the snow clears. Mt. Firmament emerges from its long seclusion, ready to embrace its revival.",
     "review_note": "",
-    "new_translation_vi": "Thời gian tiếp tục trôi và tuyết tan dần. Núi Firmament hiện ra sau thời gian ẩn dật dài đằng đẵng, sẵn sàng đón nhận sự hồi sinh.",
+    "new_translation_vi": "Thời gian tiếp tục trôi và tuyết tan. Mt. Firmament thoát khỏi sự cô lập lâu dài, sẵn sàng đón nhận sự hồi sinh.",
     "translator_note": ""
   },
   {
@@ -7796,7 +7796,7 @@
     "ai_reason": "",
     "source_en": "When the Snow Clears",
     "review_note": "",
-    "new_translation_vi": "Khi Tuyết Tan",
+    "new_translation_vi": "Khi tuyết tan",
     "translator_note": ""
   },
   {
@@ -7811,7 +7811,6 @@
     "primary_key": "Quest_125000124_QuestScheduleMainTitle_125_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7821,8 +7820,9 @@
     "ai_reason": "",
     "source_en": "Leave Loong's Crest",
     "review_note": "",
-    "new_translation_vi": "Rời Loong's Crest",
-    "translator_note": ""
+    "new_translation_vi": "Đỉnh Loong Leave",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011314",
@@ -7846,7 +7846,7 @@
     "ai_reason": "",
     "source_en": "(Optional) Ski Down the Mountain",
     "review_note": "",
-    "new_translation_vi": "(Tùy chọn) Ski xuống núi",
+    "new_translation_vi": "(Tùy chọn) Trượt xuống núi",
     "translator_note": ""
   },
   {
@@ -7861,7 +7861,6 @@
     "primary_key": "Quest_125000124_QuestScheduleSubTitle_125_7",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7871,8 +7870,9 @@
     "ai_reason": "",
     "source_en": "Return to Hongzhen",
     "review_note": "",
-    "new_translation_vi": "Quay về Hongzhen",
-    "translator_note": ""
+    "new_translation_vi": "Quay lại Hongzhen",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011316",
@@ -7896,7 +7896,7 @@
     "ai_reason": "",
     "source_en": "Thaw of Eons",
     "review_note": "",
-    "new_translation_vi": "Tan Băng Ngàn Năm",
+    "new_translation_vi": "Sự tan băng của kỷ nguyên",
     "translator_note": ""
   },
   {
@@ -7921,7 +7921,7 @@
     "ai_reason": "",
     "source_en": "Disable the Photon Barrier on the gate and enter Truthseeker's Pass",
     "review_note": "",
-    "new_translation_vi": "Vô hiệu hóa rào chắn Photon trên cổng và tiến vào Lối Đi Của Kẻ Tìm Chân Lý",
+    "new_translation_vi": "Vô hiệu hóa Rào chắn Photon trên cổng và vào Truthseeker's Pass",
     "translator_note": ""
   },
   {
@@ -7946,7 +7946,7 @@
     "ai_reason": "",
     "source_en": "Control the Tacetite Fulminate",
     "review_note": "",
-    "new_translation_vi": "Điều khiển Tacetite Fulminate",
+    "new_translation_vi": "Kiểm soát Tacetite Fulminate",
     "translator_note": ""
   },
   {
@@ -7971,7 +7971,7 @@
     "ai_reason": "",
     "source_en": "Throw the Tacetite Fulminate at the cracks in the Ledge Wheels to create a path",
     "review_note": "",
-    "new_translation_vi": "Throw Tacetite Fulminate vào các vết nứt trên Bánh Xe Vách Đá để mở đường",
+    "new_translation_vi": "Ném Tacetite Fulminate vào các vết nứt trên Ledge Wheels để tạo lối đi",
     "translator_note": ""
   },
   {
@@ -7986,7 +7986,6 @@
     "primary_key": "Quest_133000009_ChildQuestTip_0_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7997,7 +7996,8 @@
     "source_en": "Turn off the Photonvault",
     "review_note": "",
     "new_translation_vi": "Tắt Photonvault",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011321",
@@ -8046,7 +8046,7 @@
     "ai_reason": "",
     "source_en": "Disable the Photon Barrier on the gate to Truthseeker's Pass",
     "review_note": "",
-    "new_translation_vi": "Vô hiệu hóa Rào Cản Photon trên cổng dẫn đến Đèo Truthseeker",
+    "new_translation_vi": "Vô hiệu hóa Rào chắn Photon trên cổng vào Truthseeker's Pass",
     "translator_note": ""
   },
   {
@@ -8121,7 +8121,7 @@
     "ai_reason": "",
     "source_en": "Defeat the TD holograms",
     "review_note": "",
-    "new_translation_vi": "Đánh bại các hologram TD",
+    "new_translation_vi": "Đánh bại các hình chiếu TD",
     "translator_note": ""
   },
   {
@@ -8146,7 +8146,7 @@
     "ai_reason": "",
     "source_en": "Approach and activate the Flare Stone, then put out the Flare Crest (Part One)",
     "review_note": "",
-    "new_translation_vi": "Tiến đến kích hoạt Viên Đá Flare, rồi dập tắt Flare Crest (Phần Một)",
+    "new_translation_vi": "Tiếp cận và kích hoạt Flare Stone, sau đó dập tắt Flare Crest (Phần một)",
     "translator_note": ""
   },
   {
@@ -8171,7 +8171,7 @@
     "ai_reason": "",
     "source_en": "Leave the upper tier of Truthseeker's Pass for the middle tier",
     "review_note": "",
-    "new_translation_vi": "Rời khỏi tầng trên của Đèo Truthseeker để xuống tầng giữa",
+    "new_translation_vi": "Leave tầng trên của Truthseeker's Pass để đến tầng giữa",
     "translator_note": ""
   },
   {
@@ -8196,7 +8196,7 @@
     "ai_reason": "",
     "source_en": "Leave the upper tier of Truthseeker's Pass for the middle tier",
     "review_note": "",
-    "new_translation_vi": "Rời khỏi tầng trên của Đèo Truthseeker để xuống tầng giữa",
+    "new_translation_vi": "Leave tầng trên của Truthseeker's Pass để đến tầng giữa",
     "translator_note": ""
   },
   {
@@ -8221,7 +8221,7 @@
     "ai_reason": "",
     "source_en": "Leave the upper tier of Truthseeker's Pass for the middle tier",
     "review_note": "",
-    "new_translation_vi": "Rời khỏi tầng trên của Đèo Truthseeker để xuống tầng giữa",
+    "new_translation_vi": "Leave tầng trên của Truthseeker's Pass để đến tầng giữa",
     "translator_note": ""
   },
   {
@@ -8246,7 +8246,7 @@
     "ai_reason": "",
     "source_en": "Leave the upper tier of Truthseeker's Pass for the middle tier",
     "review_note": "",
-    "new_translation_vi": "Rời khỏi tầng trên của Đèo Truthseeker để xuống tầng giữa",
+    "new_translation_vi": "Leave tầng trên của Truthseeker's Pass để đến tầng giữa",
     "translator_note": ""
   },
   {
@@ -8271,7 +8271,7 @@
     "ai_reason": "",
     "source_en": "Leave the upper tier of Truthseeker's Pass for the middle tier",
     "review_note": "",
-    "new_translation_vi": "Rời khỏi tầng trên của Đèo Truthseeker để xuống tầng giữa",
+    "new_translation_vi": "Leave tầng trên của Truthseeker's Pass để đến tầng giữa",
     "translator_note": ""
   },
   {
@@ -8296,7 +8296,7 @@
     "ai_reason": "",
     "source_en": "Operate the Chronosorter and find a way to leave the chamber",
     "review_note": "",
-    "new_translation_vi": "Vận hành Chronosorter và tìm cách rời khỏi căn phòng này",
+    "new_translation_vi": "Vận hành Chronosorter và tìm cách leave căn phòng",
     "translator_note": ""
   },
   {
@@ -8321,7 +8321,7 @@
     "ai_reason": "",
     "source_en": "Enter the Carrier Room",
     "review_note": "",
-    "new_translation_vi": "Vào Phòng Vận Chuyển",
+    "new_translation_vi": "Vào Carrier Room",
     "translator_note": ""
   },
   {
@@ -8346,7 +8346,7 @@
     "ai_reason": "",
     "source_en": "Approach and activate the Flare Stone, then put out the Flare Crest (Part Two)",
     "review_note": "",
-    "new_translation_vi": "Tiến đến kích hoạt Viên Đá Flare, rồi dập tắt Flare Crest (Phần Hai)",
+    "new_translation_vi": "Tiếp cận và kích hoạt Flare Stone, sau đó dập tắt Flare Crest (Phần hai)",
     "translator_note": ""
   },
   {
@@ -8371,7 +8371,7 @@
     "ai_reason": "",
     "source_en": "Take the Carrier Lift to the lower tier",
     "review_note": "",
-    "new_translation_vi": "Dùng Thang Máy Chở Hàng xuống tầng dưới",
+    "new_translation_vi": "Đi thang máy Carrier Lift xuống tầng dưới",
     "translator_note": ""
   },
   {
@@ -8396,7 +8396,7 @@
     "ai_reason": "",
     "source_en": "Take the Carrier Lift to the lower tier",
     "review_note": "",
-    "new_translation_vi": "Dùng Thang Máy Chở Hàng xuống tầng dưới",
+    "new_translation_vi": "Đi thang máy Carrier Lift xuống tầng dưới",
     "translator_note": ""
   },
   {
@@ -8486,7 +8486,6 @@
     "primary_key": "Quest_133000009_ChildQuestTip_0_29",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8497,7 +8496,8 @@
     "source_en": "Turn off Photonvault and operate Chronosorter",
     "review_note": "",
     "new_translation_vi": "Tắt Photonvault và vận hành Chronosorter",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011341",
@@ -8521,7 +8521,7 @@
     "ai_reason": "",
     "source_en": "Approach and activate the Flare Stone, then put out the Flare Crest (Part Three)",
     "review_note": "",
-    "new_translation_vi": "Tiến đến kích hoạt Viên Đá Flare, rồi dập tắt Flare Crest (Phần Ba)",
+    "new_translation_vi": "Tiếp cận và kích hoạt Flare Stone, sau đó dập tắt Flare Crest (Phần ba)",
     "translator_note": ""
   },
   {
@@ -8546,7 +8546,7 @@
     "ai_reason": "",
     "source_en": "Head to the Carrier Lift",
     "review_note": "",
-    "new_translation_vi": "Đến Thang Nâng Vận Chuyển",
+    "new_translation_vi": "Đi đến thang máy Carrier Lift",
     "translator_note": ""
   },
   {
@@ -8571,7 +8571,7 @@
     "ai_reason": "",
     "source_en": "Head to the Carrier Lift",
     "review_note": "",
-    "new_translation_vi": "Đến Thang Nâng Vận Chuyển",
+    "new_translation_vi": "Đi đến thang máy Carrier Lift",
     "translator_note": ""
   },
   {
@@ -8596,7 +8596,7 @@
     "ai_reason": "",
     "source_en": "Take the Carrier Lift to the upper tier",
     "review_note": "",
-    "new_translation_vi": "Dùng Thang Máy Chở Hàng lên tầng trên",
+    "new_translation_vi": "Đi thang máy Carrier Lift lên tầng trên",
     "translator_note": ""
   },
   {
@@ -8621,7 +8621,7 @@
     "ai_reason": "",
     "source_en": "Enter the secret tunnel",
     "review_note": "",
-    "new_translation_vi": "Enter đường hầm bí mật",
+    "new_translation_vi": "Vào đường hầm bí mật",
     "translator_note": ""
   },
   {
@@ -8646,7 +8646,7 @@
     "ai_reason": "",
     "source_en": "Approach and activate the Flare Stone, then put out the Flare Crest (Part Three)",
     "review_note": "",
-    "new_translation_vi": "Tiến đến kích hoạt Viên Đá Flare, rồi dập tắt Flare Crest (Phần Ba)",
+    "new_translation_vi": "Tiếp cận và kích hoạt Flare Stone, sau đó dập tắt Flare Crest (Phần ba)",
     "translator_note": ""
   },
   {
@@ -8661,7 +8661,6 @@
     "primary_key": "Quest_133000009_ChildQuestTip_133_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8672,7 +8671,8 @@
     "source_en": "Defeat Lumiscale Construct: Severedge",
     "review_note": "",
     "new_translation_vi": "Đánh bại Lumiscale Construct: Severedge",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011348",
@@ -8696,7 +8696,7 @@
     "ai_reason": "",
     "source_en": "Defeat the TD holograms",
     "review_note": "",
-    "new_translation_vi": "Đánh bại các hologram TD",
+    "new_translation_vi": "Đánh bại các hình chiếu TD",
     "translator_note": ""
   },
   {
@@ -8721,7 +8721,7 @@
     "ai_reason": "",
     "source_en": "Inspect the CSC tome",
     "review_note": "",
-    "new_translation_vi": "Inspect cuốn sách CSC",
+    "new_translation_vi": "Kiểm tra tập sách CSC",
     "translator_note": ""
   },
   {
@@ -8746,7 +8746,7 @@
     "ai_reason": "",
     "source_en": "Inspect the CSC tome",
     "review_note": "",
-    "new_translation_vi": "Inspect cuốn sách CSC",
+    "new_translation_vi": "Kiểm tra tập sách CSC",
     "translator_note": ""
   },
   {
@@ -8771,7 +8771,7 @@
     "ai_reason": "",
     "source_en": "Head to the Carrier Lift",
     "review_note": "",
-    "new_translation_vi": "Đến Thang Nâng Vận Chuyển",
+    "new_translation_vi": "Đi đến thang máy Carrier Lift",
     "translator_note": ""
   },
   {
@@ -8811,7 +8811,6 @@
     "primary_key": "Quest_133000009_QuestDesc_0_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8821,8 +8820,9 @@
     "ai_reason": "",
     "source_en": "According to Xinyi, Hongzhen's Mayor, Jinhsi has gone off to Truthseeker's Pass, or the Court of Savantae Ruins. The Cipher Key stored in the heart of Truthseeker's Pass is a precondition to opening Mianloong Chamber and the audience with Jué, the Sentinel.",
     "review_note": "",
-    "new_translation_vi": "Theo lời Xinyi, Thị trưởng Hongzhen, Jinhsi đã đi đến Đèo Truthseeker, hay còn gọi là Ruins Court of Savantae. Chìa khóa Mật Mã lưu giữ trong lòng Đèo Truthseeker là điều kiện tiên quyết để mở Mianloong Chamber và diện kiến Jué, Sentinel.",
-    "translator_note": ""
+    "new_translation_vi": "Theo Xinyi, Thị trưởng của Hongzhen, Jinhsi đã đi đến Truthseeker's Pass hoặc tàn tích Court of Savantae. Chìa khóa mật mã được lưu trữ tại trung tâm Truthseeker's Pass là điều kiện tiên quyết để mở Mianloong Chamber và diện kiến Jué, Sentinel.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011354",
@@ -8861,7 +8861,6 @@
     "primary_key": "Quest_133000009_QuestScheduleMainTitle_0_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8871,8 +8870,9 @@
     "ai_reason": "",
     "source_en": "Turn off the Photonvaults and the Photon Barrier",
     "review_note": "",
-    "new_translation_vi": "Tắt các Photonvault và Rào Cản Photon",
-    "translator_note": ""
+    "new_translation_vi": "Tắt Photonvaults và Rào chắn Photon",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011356",
@@ -8886,7 +8886,6 @@
     "primary_key": "Quest_133000009_QuestScheduleSubTitle_0_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8897,7 +8896,8 @@
     "source_en": "Turn off the Photonvault: I",
     "review_note": "",
     "new_translation_vi": "Tắt Photonvault: I",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011357",
@@ -8911,7 +8911,6 @@
     "primary_key": "Quest_133000009_QuestScheduleSubTitle_0_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8922,7 +8921,8 @@
     "source_en": "Turn off the Photonvault: II",
     "review_note": "",
     "new_translation_vi": "Tắt Photonvault: II",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011358",
@@ -8936,7 +8936,6 @@
     "primary_key": "Quest_133000009_QuestScheduleSubTitle_0_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8947,7 +8946,8 @@
     "source_en": "Turn off the Photonvault: III",
     "review_note": "",
     "new_translation_vi": "Tắt Photonvault: III",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011359",
@@ -8971,7 +8971,7 @@
     "ai_reason": "",
     "source_en": "Inspect the hibernation pod",
     "review_note": "",
-    "new_translation_vi": "Inspect khoang ngủ đông",
+    "new_translation_vi": "Kiểm tra kén ngủ đông",
     "translator_note": ""
   },
   {
@@ -9021,7 +9021,7 @@
     "ai_reason": "",
     "source_en": "Return to Mianloong Chamber and inspect the hibernation pod",
     "review_note": "",
-    "new_translation_vi": "Trở về Mianloong Chamber và kiểm tra khoang ngủ đông",
+    "new_translation_vi": "Quay lại Mianloong Chamber và kiểm tra kén ngủ đông",
     "translator_note": ""
   },
   {
@@ -9046,7 +9046,7 @@
     "ai_reason": "",
     "source_en": "Approach and activate the Flare Stone to put out the Flare Crest (Part One)",
     "review_note": "",
-    "new_translation_vi": "Tiến đến và kích hoạt Viên Đá Flare để dập tắt Flare Crest (Phần Một)",
+    "new_translation_vi": "Tiếp cận và kích hoạt Flare Stone để dập tắt Flare Crest (Phần một)",
     "translator_note": ""
   },
   {
@@ -9071,7 +9071,7 @@
     "ai_reason": "",
     "source_en": "Approach and activate the Flare Stone to put out the Flare Crest (Part Two)",
     "review_note": "",
-    "new_translation_vi": "Tiến đến và kích hoạt Viên Đá Flare để dập tắt Flare Crest (Phần Hai)",
+    "new_translation_vi": "Tiếp cận và kích hoạt Flare Stone để dập tắt Flare Crest (Phần hai)",
     "translator_note": ""
   },
   {
@@ -9121,7 +9121,7 @@
     "ai_reason": "",
     "source_en": "Levitate the Tacetite Fulminate",
     "review_note": "",
-    "new_translation_vi": "Bay lên cùng Tacetite Fulminate",
+    "new_translation_vi": "Làm nổi Tacetite Fulminate",
     "translator_note": ""
   },
   {
@@ -9146,7 +9146,7 @@
     "ai_reason": "",
     "source_en": "Use the Tacetite Fulminate to destroy the Fissured Ledge",
     "review_note": "",
-    "new_translation_vi": "Dùng Tacetite Fulminate để phá hủy Fissured Ledge",
+    "new_translation_vi": "Sử dụng Tacetite Fulminate để phá hủy Fissured Ledge",
     "translator_note": ""
   },
   {
@@ -9171,7 +9171,7 @@
     "ai_reason": "",
     "source_en": "Approach and activate the Flare Stone to put out the Flare Crest (Part Two)",
     "review_note": "",
-    "new_translation_vi": "Tiến đến và kích hoạt Viên Đá Flare để dập tắt Flare Crest (Phần Hai)",
+    "new_translation_vi": "Tiếp cận và kích hoạt Flare Stone để dập tắt Flare Crest (Phần hai)",
     "translator_note": ""
   },
   {
@@ -9196,7 +9196,7 @@
     "ai_reason": "",
     "source_en": "Approach and activate the Flare Stone to put out the Flare Crest (Part Three)",
     "review_note": "",
-    "new_translation_vi": "Tiến đến và kích hoạt Viên Đá Flare để dập tắt Flare Crest (Phần Ba)",
+    "new_translation_vi": "Tiếp cận và kích hoạt Flare Stone để dập tắt Flare Crest (Phần ba)",
     "translator_note": ""
   },
   {
@@ -9221,7 +9221,7 @@
     "ai_reason": "",
     "source_en": "Use the Tacetite Fulminate to destroy the Fissured Ledge",
     "review_note": "",
-    "new_translation_vi": "Dùng Tacetite Fulminate để phá hủy Fissured Ledge",
+    "new_translation_vi": "Sử dụng Tacetite Fulminate để phá hủy Fissured Ledge",
     "translator_note": ""
   },
   {
@@ -9246,7 +9246,7 @@
     "ai_reason": "",
     "source_en": "Approach and activate the Flare Stone to put out the Flare Crest (Part Two)",
     "review_note": "",
-    "new_translation_vi": "Tiến đến và kích hoạt Viên Đá Flare để dập tắt Flare Crest (Phần Hai)",
+    "new_translation_vi": "Tiếp cận và kích hoạt Flare Stone để dập tắt Flare Crest (Phần hai)",
     "translator_note": ""
   },
   {
@@ -9296,7 +9296,7 @@
     "ai_reason": "",
     "source_en": "Check the file",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra tập tin",
+    "new_translation_vi": "Kiểm tra tệp tin",
     "translator_note": ""
   },
   {
@@ -9346,7 +9346,7 @@
     "ai_reason": "",
     "source_en": "Defeat the TD holograms",
     "review_note": "",
-    "new_translation_vi": "Đánh bại các hologram TD",
+    "new_translation_vi": "Đánh bại các hình chiếu TD",
     "translator_note": ""
   },
   {
@@ -9371,7 +9371,7 @@
     "ai_reason": "",
     "source_en": "Read",
     "review_note": "",
-    "new_translation_vi": "Read",
+    "new_translation_vi": "Đọc",
     "translator_note": ""
   },
   {
@@ -9396,7 +9396,7 @@
     "ai_reason": "",
     "source_en": "According to the Sentinel's hints, three Flare Stones must be activated, and the Flare Crests be put out to remove the chains on them that are made of special Flare Crests.",
     "review_note": "",
-    "new_translation_vi": "Theo gợi ý của Sentinel, cần kích hoạt ba Viên Đá Flare và dập tắt các Huy Hiệu Flare để phá bỏ những chiếc xích đặc biệt làm từ Huy Hiệu Flare trên chúng.",
+    "new_translation_vi": "Theo gợi ý của Sentinel, cần kích hoạt ba Flare Stone và dập tắt các Flare Crest để gỡ bỏ những sợi xích được tạo thành từ các Flare Crest đặc biệt trên đó.",
     "translator_note": ""
   },
   {
@@ -9411,7 +9411,7 @@
     "primary_key": "Quest_146000002_QuestName_0_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9436,7 +9436,6 @@
     "primary_key": "Quest_880000013_ChildQuestTip_0_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9446,8 +9445,9 @@
     "ai_reason": "",
     "source_en": "Head to Panhua's Restaurant and talk to your friends",
     "review_note": "",
-    "new_translation_vi": "Head to Panhua's Restaurant và trò chuyện với bạn bè",
-    "translator_note": ""
+    "new_translation_vi": "Đến nhà hàng của Panhua và trò chuyện với bạn bè",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011379",
@@ -9471,7 +9471,7 @@
     "ai_reason": "",
     "source_en": "Talk to your friends",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với bạn bè",
+    "new_translation_vi": "Trò chuyện với bạn bè",
     "translator_note": ""
   },
   {
@@ -9496,7 +9496,7 @@
     "ai_reason": "",
     "source_en": "Reach Union Level 21",
     "review_note": "",
-    "new_translation_vi": "Đạt Cấp Độ Liên Minh 21",
+    "new_translation_vi": "Đạt Cấp Union 21",
     "translator_note": ""
   },
   {
@@ -9511,7 +9511,6 @@
     "primary_key": "Quest_880000013_QuestDesc_0_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9521,8 +9520,9 @@
     "ai_reason": "",
     "source_en": "After the battle of Norfall Barren, everything came to an end. Your friends are calling you for a meet-up with snacks at Panhua's Restaurant. It seems they like to know more about that \"little one\" from within your body...",
     "review_note": "",
-    "new_translation_vi": "Sau trận chiến ở Norfall Barren, mọi chuyện đã kết thúc. Bạn bè của cậu calling mời đến tụ tập ăn vặt ở Nhà hàng Panhua. Có vẻ họ rất muốn biết thêm về \"thằng nhỏ\" bên trong người cậu...",
-    "translator_note": ""
+    "new_translation_vi": "Sau trận chiến tại Norfall Barren, mọi thứ đã kết thúc. Bạn bè đang gọi bạn đến gặp mặt và ăn nhẹ tại nhà hàng của Panhua. Có vẻ như họ muốn biết thêm về \"người nhỏ bé\" bên trong cơ thể bạn...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011382",
@@ -9546,7 +9546,7 @@
     "ai_reason": "",
     "source_en": "A New Companion",
     "review_note": "",
-    "new_translation_vi": "Người Bạn Mới",
+    "new_translation_vi": "Người bạn đồng hành mới",
     "translator_note": ""
   },
   {
@@ -9596,7 +9596,7 @@
     "ai_reason": "",
     "source_en": "Anchor at the Haven of Sprouts restored",
     "review_note": "",
-    "new_translation_vi": "Mỏ Neo tại Nơi Ấp Mầm đã được khôi phục",
+    "new_translation_vi": "Đã khôi phục điểm neo tại Haven of Sprouts",
     "translator_note": ""
   },
   {
@@ -9621,7 +9621,7 @@
     "ai_reason": "",
     "source_en": "Anchor at the Eye of Asteria restored",
     "review_note": "",
-    "new_translation_vi": "Mỏ Neo tại Mắt Asteria đã được khôi phục",
+    "new_translation_vi": "Đã khôi phục điểm neo tại Eye of Asteria",
     "translator_note": ""
   },
   {
@@ -9646,7 +9646,7 @@
     "ai_reason": "",
     "source_en": "Talk to Aalto",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Aalto",
+    "new_translation_vi": "Trò chuyện với Aalto",
     "translator_note": ""
   },
   {
@@ -9661,7 +9661,6 @@
     "primary_key": "Quest_145000004_ChildQuestTip_0_22",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9671,8 +9670,9 @@
     "ai_reason": "",
     "source_en": "Head to the Stargate",
     "review_note": "",
-    "new_translation_vi": "Đến Cổng Sao",
-    "translator_note": ""
+    "new_translation_vi": "Đi đến Stargate",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011388",
@@ -9696,7 +9696,7 @@
     "ai_reason": "",
     "source_en": "Leave the Bank of Life",
     "review_note": "",
-    "new_translation_vi": "Rời Bank of Life",
+    "new_translation_vi": "Leave Bank of Life",
     "translator_note": ""
   },
   {
@@ -9721,7 +9721,7 @@
     "ai_reason": "",
     "source_en": "Take the elevator and leave the Error Cell",
     "review_note": "",
-    "new_translation_vi": "Đi thang máy rời Error Cell",
+    "new_translation_vi": "Đi thang máy và leave Error Cell",
     "translator_note": ""
   },
   {
@@ -9771,7 +9771,7 @@
     "ai_reason": "",
     "source_en": "Arrive at the Modulation Hall",
     "review_note": "",
-    "new_translation_vi": "Đến Đại Sảnh Modulation",
+    "new_translation_vi": "Đến sảnh Modulation",
     "translator_note": ""
   },
   {
@@ -9796,7 +9796,7 @@
     "ai_reason": "",
     "source_en": "Enter the Modulation Hall",
     "review_note": "",
-    "new_translation_vi": "Vào Phòng Modulation",
+    "new_translation_vi": "Vào sảnh Modulation",
     "translator_note": ""
   },
   {
@@ -9821,7 +9821,7 @@
     "ai_reason": "",
     "source_en": "Talk to the Stellar Matrix Navigator",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Stellar Matrix Navigator",
+    "new_translation_vi": "Trò chuyện với Hoa tiêu Stellar Matrix",
     "translator_note": ""
   },
   {
@@ -9846,7 +9846,7 @@
     "ai_reason": "",
     "source_en": "Enter the Stellar Matrix and complete the remodulation",
     "review_note": "",
-    "new_translation_vi": "Enter the Stellar Matrix và hoàn tất tái điều chế",
+    "new_translation_vi": "Vào Stellar Matrix và hoàn tất việc điều biến lại",
     "translator_note": ""
   },
   {
@@ -9871,7 +9871,7 @@
     "ai_reason": "",
     "source_en": "Venture deeper into the Tethys System and find the Shorekeeper",
     "review_note": "",
-    "new_translation_vi": "Đi sâu hơn vào Hệ Tethys và tìm Shorekeeper",
+    "new_translation_vi": "Tiến sâu hơn vào Tethys System và tìm the Shorekeeper",
     "translator_note": ""
   },
   {
@@ -9896,7 +9896,7 @@
     "ai_reason": "",
     "source_en": "Arrive at the Data Torrent",
     "review_note": "",
-    "new_translation_vi": "Đến Dòng Dữ Liệu",
+    "new_translation_vi": "Đến Data Torrent",
     "translator_note": ""
   },
   {
@@ -9921,7 +9921,7 @@
     "ai_reason": "",
     "source_en": "Neutralize the Tethys System",
     "review_note": "",
-    "new_translation_vi": "Vô hiệu hóa Hệ Thống Tethys",
+    "new_translation_vi": "Vô hiệu hóa Tethys System",
     "translator_note": ""
   },
   {
@@ -9946,7 +9946,7 @@
     "ai_reason": "",
     "source_en": "Head to the headquarters of the Black Shores",
     "review_note": "",
-    "new_translation_vi": "Đến trụ sở của Black Shores",
+    "new_translation_vi": "Đi đến trụ sở của Black Shores",
     "translator_note": ""
   },
   {
@@ -9971,7 +9971,7 @@
     "ai_reason": "",
     "source_en": "Head to the Port City of Guixu and meet with Yangyang",
     "review_note": "",
-    "new_translation_vi": "Đến Port City of Guixu và gặp Yangyang",
+    "new_translation_vi": "Đi đến Port City of Guixu và gặp Yangyang",
     "translator_note": ""
   },
   {
@@ -9996,7 +9996,7 @@
     "ai_reason": "",
     "source_en": "Head to the designated coordinates",
     "review_note": "",
-    "new_translation_vi": "Đến tọa độ được chỉ định",
+    "new_translation_vi": "Đi đến tọa độ được chỉ định",
     "translator_note": ""
   },
   {
@@ -10046,7 +10046,7 @@
     "ai_reason": "",
     "source_en": "Enter the Shorekeeper's Sonoro Sphere",
     "review_note": "",
-    "new_translation_vi": "Vào Sonoro Sphere của Shorekeeper",
+    "new_translation_vi": "Vào Sonoro Sphere của the Shorekeeper",
     "translator_note": ""
   },
   {
@@ -10071,7 +10071,7 @@
     "ai_reason": "",
     "source_en": "Search for the Black Shores researcher",
     "review_note": "",
-    "new_translation_vi": "Tìm nhà nghiên cứu ở Bãi Đen",
+    "new_translation_vi": "Tìm kiếm nhà nghiên cứu của Black Shores",
     "translator_note": ""
   },
   {
@@ -10121,7 +10121,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Tacet Discords ({q_count}/5)",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Tacet Discords ({q_count}/5)",
+    "new_translation_vi": "Tiêu diệt các Tacet Discord ({q_count}/5)",
     "translator_note": ""
   },
   {
@@ -10146,7 +10146,7 @@
     "ai_reason": "",
     "source_en": "Head to the headquarters of the Black Shores",
     "review_note": "",
-    "new_translation_vi": "Đến trụ sở của Black Shores",
+    "new_translation_vi": "Đi đến trụ sở của Black Shores",
     "translator_note": ""
   },
   {
@@ -10171,7 +10171,7 @@
     "ai_reason": "",
     "source_en": "Enter the Greenhouse",
     "review_note": "",
-    "new_translation_vi": "Vào Nhà Kính",
+    "new_translation_vi": "Vào Greenhouse",
     "translator_note": ""
   },
   {
@@ -10221,7 +10221,7 @@
     "ai_reason": "",
     "source_en": "Leave the Greenhouse",
     "review_note": "",
-    "new_translation_vi": "Rời Nhà Kính",
+    "new_translation_vi": "Leave Greenhouse",
     "translator_note": ""
   },
   {
@@ -10246,7 +10246,7 @@
     "ai_reason": "",
     "source_en": "Search for Monica",
     "review_note": "",
-    "new_translation_vi": "Tìm Monica",
+    "new_translation_vi": "Tìm kiếm Monica",
     "translator_note": ""
   },
   {
@@ -10271,7 +10271,7 @@
     "ai_reason": "",
     "source_en": "Search for the robot that can upload the data",
     "review_note": "",
-    "new_translation_vi": "Tìm robot có thể tải lên dữ liệu",
+    "new_translation_vi": "Tìm kiếm robot có thể tải dữ liệu lên",
     "translator_note": ""
   },
   {
@@ -10296,7 +10296,7 @@
     "ai_reason": "",
     "source_en": "Restore the Anchor at the Haven of Sprouts",
     "review_note": "",
-    "new_translation_vi": "Khôi phục Mỏ Neo tại Nơi Ấp Mầm",
+    "new_translation_vi": "Khôi phục Anchor tại Haven of Sprouts",
     "translator_note": ""
   },
   {
@@ -10321,7 +10321,7 @@
     "ai_reason": "",
     "source_en": "Head to the Haven of Sprouts",
     "review_note": "",
-    "new_translation_vi": "Đến Thiên Đường Mầm Xanh nào",
+    "new_translation_vi": "Đi đến Haven of Sprouts",
     "translator_note": ""
   },
   {
@@ -10346,7 +10346,7 @@
     "ai_reason": "",
     "source_en": "Head to the Eye of Asteria",
     "review_note": "",
-    "new_translation_vi": "Đến Mắt Asteria",
+    "new_translation_vi": "Đi đến Eye of Asteria",
     "translator_note": ""
   },
   {
@@ -10371,7 +10371,7 @@
     "ai_reason": "",
     "source_en": "Restore the Anchor at the Eye of Asteria",
     "review_note": "",
-    "new_translation_vi": "Khôi phục Mỏ Neo tại Mắt Asteria",
+    "new_translation_vi": "Khôi phục Anchor tại Eye of Asteria",
     "translator_note": ""
   },
   {
@@ -10396,7 +10396,7 @@
     "ai_reason": "",
     "source_en": "Restore the Anchor at the TD Observatory",
     "review_note": "",
-    "new_translation_vi": "Khôi phục Mỏ Neo tại TD Observatory TD",
+    "new_translation_vi": "Khôi phục Anchor tại TD Observatory",
     "translator_note": ""
   },
   {
@@ -10421,7 +10421,7 @@
     "ai_reason": "",
     "source_en": "Talk to the \"Shorekeeper\"",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với \"Shorekeeper\"",
+    "new_translation_vi": "Trò chuyện với \"Shorekeeper\"",
     "translator_note": ""
   },
   {
@@ -10446,7 +10446,7 @@
     "ai_reason": "",
     "source_en": "(Optional) Talk to Aalto",
     "review_note": "",
-    "new_translation_vi": "(Tùy chọn) Talk với Aalto",
+    "new_translation_vi": "(Tùy chọn) Trò chuyện với Aalto",
     "translator_note": ""
   },
   {
@@ -10471,7 +10471,7 @@
     "ai_reason": "",
     "source_en": "Head to the Charging Station",
     "review_note": "",
-    "new_translation_vi": "Đến Trạm Sạc",
+    "new_translation_vi": "Đi đến Charging Station",
     "translator_note": ""
   },
   {
@@ -10571,7 +10571,7 @@
     "ai_reason": "",
     "source_en": "Investigate the anomaly under the bridge",
     "review_note": "",
-    "new_translation_vi": "Điều tra dị thường dưới gầm cầu",
+    "new_translation_vi": "Điều tra điểm bất thường dưới gầm cầu",
     "translator_note": ""
   },
   {
@@ -10596,7 +10596,7 @@
     "ai_reason": "",
     "source_en": "Inspect the info left by the Necrostar",
     "review_note": "",
-    "new_translation_vi": "Inspect thông tin Necrostar để lại",
+    "new_translation_vi": "Kiểm tra thông tin do Necrostar để lại",
     "translator_note": ""
   },
   {
@@ -10621,7 +10621,7 @@
     "ai_reason": "",
     "source_en": "Leave the Error Cell",
     "review_note": "",
-    "new_translation_vi": "Rời khỏi Error Cell",
+    "new_translation_vi": "Leave Error Cell",
     "translator_note": ""
   },
   {
@@ -10671,7 +10671,7 @@
     "ai_reason": "",
     "source_en": "Enter the Error Cell",
     "review_note": "",
-    "new_translation_vi": "Bước vào Error Cell",
+    "new_translation_vi": "Vào Error Cell",
     "translator_note": ""
   },
   {
@@ -10721,7 +10721,7 @@
     "ai_reason": "",
     "source_en": "Head to the designated coordinates",
     "review_note": "",
-    "new_translation_vi": "Đến tọa độ được chỉ định",
+    "new_translation_vi": "Đi đến tọa độ được chỉ định",
     "translator_note": ""
   },
   {
@@ -10746,7 +10746,7 @@
     "ai_reason": "",
     "source_en": "Investigate the abnormal Tacet Discord",
     "review_note": "",
-    "new_translation_vi": "Điều tra Discord bất thường",
+    "new_translation_vi": "Điều tra Tacet Discord bất thường",
     "translator_note": ""
   },
   {
@@ -10771,7 +10771,7 @@
     "ai_reason": "",
     "source_en": "(Optional) Ask Aalto about the robot",
     "review_note": "",
-    "new_translation_vi": "(Tùy chọn) Ask Aalto về con robot",
+    "new_translation_vi": "(Tùy chọn) Hỏi Aalto về con robot",
     "translator_note": ""
   },
   {
@@ -10796,7 +10796,7 @@
     "ai_reason": "",
     "source_en": "Talk to KU-Chase about the situation",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với KU-Chase về tình hình",
+    "new_translation_vi": "Trò chuyện với KU-Chase về tình hình",
     "translator_note": ""
   },
   {
@@ -10846,7 +10846,7 @@
     "ai_reason": "",
     "source_en": "Defeat all abnormal Tacet Discords",
     "review_note": "",
-    "new_translation_vi": "Đánh bại tất cả Tacet Discord bất thường",
+    "new_translation_vi": "Tiêu diệt tất cả Tacet Discord bất thường",
     "translator_note": ""
   },
   {
@@ -10871,7 +10871,7 @@
     "ai_reason": "",
     "source_en": "Talk to the Stellar Matrix Navigator",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Stellar Matrix Navigator",
+    "new_translation_vi": "Trò chuyện với Stellar Matrix Navigator",
     "translator_note": ""
   },
   {
@@ -10896,7 +10896,7 @@
     "ai_reason": "",
     "source_en": "Search for the document",
     "review_note": "",
-    "new_translation_vi": "Tìm tài liệu",
+    "new_translation_vi": "Tìm kiếm tài liệu",
     "translator_note": ""
   },
   {
@@ -10921,7 +10921,7 @@
     "ai_reason": "",
     "source_en": "Put the Necrostar's core on the analyzer",
     "review_note": "",
-    "new_translation_vi": "Đặt lõi Necrostar lên máy phân tích đi",
+    "new_translation_vi": "Đặt lõi của Necrostar lên máy phân tích",
     "translator_note": ""
   },
   {
@@ -10946,7 +10946,7 @@
     "ai_reason": "",
     "source_en": "Search for Shorekeeper's records",
     "review_note": "",
-    "new_translation_vi": "Tìm hồ sơ của Shorekeeper",
+    "new_translation_vi": "Tìm kiếm hồ sơ của Shorekeeper",
     "translator_note": ""
   },
   {
@@ -10971,7 +10971,7 @@
     "ai_reason": "",
     "source_en": "Search for the sealed Tethys System logs",
     "review_note": "",
-    "new_translation_vi": "Tìm nhật ký hệ thống Tethys bị niêm phong",
+    "new_translation_vi": "Tìm kiếm các bản ghi Tethys System đã niêm phong",
     "translator_note": ""
   },
   {
@@ -10996,7 +10996,7 @@
     "ai_reason": "",
     "source_en": "Defeat Fallacy of No Return: Tethys System",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Fallacy of Không Return: Tethys Hệ thống",
+    "new_translation_vi": "Đánh bại Fallacy of No Return: Tethys System",
     "translator_note": ""
   },
   {
@@ -11021,7 +11021,7 @@
     "ai_reason": "",
     "source_en": "Return to the beach",
     "review_note": "",
-    "new_translation_vi": "Return bãi biển",
+    "new_translation_vi": "Quay lại bãi biển",
     "translator_note": ""
   },
   {
@@ -11046,7 +11046,7 @@
     "ai_reason": "",
     "source_en": "Take the elevator and leave the Error Cell",
     "review_note": "",
-    "new_translation_vi": "Đi thang máy rời Error Cell",
+    "new_translation_vi": "Đi thang máy và leave Error Cell",
     "translator_note": ""
   },
   {
@@ -11096,7 +11096,7 @@
     "ai_reason": "",
     "source_en": "Leave the cave",
     "review_note": "",
-    "new_translation_vi": "Rời khỏi hang động",
+    "new_translation_vi": "Leave hang động",
     "translator_note": ""
   },
   {
@@ -11121,7 +11121,7 @@
     "ai_reason": "",
     "source_en": "Venture deeper into the cave",
     "review_note": "",
-    "new_translation_vi": "Đi sâu hơn vào hang động",
+    "new_translation_vi": "Tiến sâu hơn vào hang động",
     "translator_note": ""
   },
   {
@@ -11146,7 +11146,7 @@
     "ai_reason": "",
     "source_en": "Activate the beacon",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt đèn hiệu",
+    "new_translation_vi": "Kích hoạt beacon",
     "translator_note": ""
   },
   {
@@ -11171,7 +11171,7 @@
     "ai_reason": "",
     "source_en": "(Optional) Talk to Aalto",
     "review_note": "",
-    "new_translation_vi": "(Tùy chọn) Talk với Aalto",
+    "new_translation_vi": "(Tùy chọn) Trò chuyện với Aalto",
     "translator_note": ""
   },
   {
@@ -11196,7 +11196,7 @@
     "ai_reason": "",
     "source_en": "Contact the others at the beacon",
     "review_note": "",
-    "new_translation_vi": "Liên lạc với những người khác tại đèn hiệu",
+    "new_translation_vi": "Liên lạc với những người khác tại beacon",
     "translator_note": ""
   },
   {
@@ -11221,7 +11221,7 @@
     "ai_reason": "",
     "source_en": "Head to the TD Observatory",
     "review_note": "",
-    "new_translation_vi": "Đến TD Observatory TD",
+    "new_translation_vi": "Đi đến TD Observatory",
     "translator_note": ""
   },
   {
@@ -11246,7 +11246,7 @@
     "ai_reason": "",
     "source_en": "Head to the Data Hub",
     "review_note": "",
-    "new_translation_vi": "Đến Data Hub",
+    "new_translation_vi": "Đi đến Data Hub",
     "translator_note": ""
   },
   {
@@ -11271,7 +11271,7 @@
     "ai_reason": "",
     "source_en": "Search for the observatory keeper",
     "review_note": "",
-    "new_translation_vi": "Tìm người trông coi đài thiên văn",
+    "new_translation_vi": "Tìm kiếm người trông coi đài quan sát",
     "translator_note": ""
   },
   {
@@ -11296,7 +11296,7 @@
     "ai_reason": "",
     "source_en": "Defeat the abnormal Tacet Discords",
     "review_note": "",
-    "new_translation_vi": "Đánh bại các Tacet Discord bất thường",
+    "new_translation_vi": "Tiêu diệt các Tacet Discord bất thường",
     "translator_note": ""
   },
   {
@@ -11321,7 +11321,7 @@
     "ai_reason": "",
     "source_en": "Leave the Stellar Matrix",
     "review_note": "",
-    "new_translation_vi": "Rời khỏi Stellar Matrix",
+    "new_translation_vi": "Leave Stellar Matrix",
     "translator_note": ""
   },
   {
@@ -11346,7 +11346,7 @@
     "ai_reason": "",
     "source_en": "Leave the Tethys System",
     "review_note": "",
-    "new_translation_vi": "Rời khỏi Tethys Hệ thống",
+    "new_translation_vi": "Leave Tethys System",
     "translator_note": ""
   },
   {
@@ -11371,7 +11371,7 @@
     "ai_reason": "",
     "source_en": "Head to the highest point in the Greenhouse",
     "review_note": "",
-    "new_translation_vi": "Đến điểm cao nhất trong Nhà kính",
+    "new_translation_vi": "Đi đến điểm cao nhất trong Greenhouse",
     "translator_note": ""
   },
   {
@@ -11396,7 +11396,7 @@
     "ai_reason": "",
     "source_en": "Head to the highest point in the Greenhouse",
     "review_note": "",
-    "new_translation_vi": "Đến điểm cao nhất trong Nhà kính",
+    "new_translation_vi": "Đi đến điểm cao nhất trong Greenhouse",
     "translator_note": ""
   },
   {
@@ -11421,7 +11421,7 @@
     "ai_reason": "",
     "source_en": "Head to the highest point in the Greenhouse",
     "review_note": "",
-    "new_translation_vi": "Đến điểm cao nhất trong Nhà kính",
+    "new_translation_vi": "Đi đến điểm cao nhất trong Greenhouse",
     "translator_note": ""
   },
   {
@@ -11446,7 +11446,7 @@
     "ai_reason": "",
     "source_en": "Head to the highest point in the Greenhouse",
     "review_note": "",
-    "new_translation_vi": "Đến điểm cao nhất trong Nhà kính",
+    "new_translation_vi": "Đi đến điểm cao nhất trong Greenhouse",
     "translator_note": ""
   },
   {
@@ -11471,7 +11471,7 @@
     "ai_reason": "",
     "source_en": "Address the Black Shores as their new leader",
     "review_note": "",
-    "new_translation_vi": "Đứng trước Black Shores với tư cách thủ lĩnh mới",
+    "new_translation_vi": "Phát biểu trước Black Shores với tư cách là người lãnh đạo mới",
     "translator_note": ""
   },
   {
@@ -11496,7 +11496,7 @@
     "ai_reason": "",
     "source_en": "Return to the Modulation Hall",
     "review_note": "",
-    "new_translation_vi": "Return Đại Sảnh Modulation",
+    "new_translation_vi": "Quay lại Modulation Hall",
     "translator_note": ""
   },
   {
@@ -11521,7 +11521,7 @@
     "ai_reason": "",
     "source_en": "Return to the Modulation Hall",
     "review_note": "",
-    "new_translation_vi": "Return Đại Sảnh Modulation",
+    "new_translation_vi": "Quay lại Modulation Hall",
     "translator_note": ""
   },
   {
@@ -11546,7 +11546,7 @@
     "ai_reason": "",
     "source_en": "Clear the corrupted data and head to the lower level",
     "review_note": "",
-    "new_translation_vi": "Clear dữ liệu bị hỏng và tiến xuống tầng dưới",
+    "new_translation_vi": "Xóa dữ liệu bị hỏng và đi đến tầng dưới",
     "translator_note": ""
   },
   {
@@ -11571,7 +11571,7 @@
     "ai_reason": "",
     "source_en": "Leave the Bank of Life",
     "review_note": "",
-    "new_translation_vi": "Rời Bank of Life",
+    "new_translation_vi": "Leave Bank of Life",
     "translator_note": ""
   },
   {
@@ -11596,7 +11596,7 @@
     "ai_reason": "",
     "source_en": "Rescue the robots at the Eidoscope",
     "review_note": "",
-    "new_translation_vi": "Rescue mấy con robot ở Eidoscope",
+    "new_translation_vi": "Giải cứu các robot tại Eidoscope",
     "translator_note": ""
   },
   {
@@ -11621,7 +11621,7 @@
     "ai_reason": "",
     "source_en": "Rescue the robots at the Charging Station plaza",
     "review_note": "",
-    "new_translation_vi": "Rescue mấy con robot ở quảng trường Thiết bị đầu cuối",
+    "new_translation_vi": "Giải cứu các robot tại quảng trường Charging Station",
     "translator_note": ""
   },
   {
@@ -11646,7 +11646,7 @@
     "ai_reason": "",
     "source_en": "Rescue the robots at the Charging Station platform",
     "review_note": "",
-    "new_translation_vi": "Rescue mấy con robot ở bệ sạc Thiết bị đầu cuối",
+    "new_translation_vi": "Giải cứu các robot tại nền tảng Charging Station",
     "translator_note": ""
   },
   {
@@ -11671,7 +11671,7 @@
     "ai_reason": "",
     "source_en": "Provide support at the Error Cell",
     "review_note": "",
-    "new_translation_vi": "Hỗ trợ tại Ô Lỗi",
+    "new_translation_vi": "Hỗ trợ tại Error Cell",
     "translator_note": ""
   },
   {
@@ -11696,7 +11696,7 @@
     "ai_reason": "",
     "source_en": "Leave the cave",
     "review_note": "",
-    "new_translation_vi": "Rời khỏi hang động",
+    "new_translation_vi": "Leave hang động",
     "translator_note": ""
   },
   {
@@ -11721,7 +11721,7 @@
     "ai_reason": "",
     "source_en": "Leave the cave",
     "review_note": "",
-    "new_translation_vi": "Rời khỏi hang động",
+    "new_translation_vi": "Leave hang động",
     "translator_note": ""
   },
   {
@@ -11746,7 +11746,7 @@
     "ai_reason": "",
     "source_en": "Leave the cave",
     "review_note": "",
-    "new_translation_vi": "Rời khỏi hang động",
+    "new_translation_vi": "Leave hang động",
     "translator_note": ""
   },
   {
@@ -11771,7 +11771,7 @@
     "ai_reason": "",
     "source_en": "Find a away out",
     "review_note": "",
-    "new_translation_vi": "Tìm đường ra",
+    "new_translation_vi": "Tìm lối thoát",
     "translator_note": ""
   },
   {
@@ -11796,7 +11796,7 @@
     "ai_reason": "",
     "source_en": "Defeat the abnormal TDs at the Eidoscope",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt Echo bất thường tại Eidoscope",
+    "new_translation_vi": "Tiêu diệt các TD bất thường tại Eidoscope",
     "translator_note": ""
   },
   {
@@ -11821,7 +11821,7 @@
     "ai_reason": "",
     "source_en": "Defeat the abnormal TDs at the Charging Station plaza",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt Echo bất thường tại quảng trường Trạm Nạp Năng Lượng",
+    "new_translation_vi": "Tiêu diệt các TD bất thường tại quảng trường Charging Station",
     "translator_note": ""
   },
   {
@@ -11846,7 +11846,7 @@
     "ai_reason": "",
     "source_en": "Defeat the abnormal TDs at the Charging Station platform",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt Echo bất thường tại bệ sạc Trạm Nạp Năng Lượng",
+    "new_translation_vi": "Tiêu diệt các TD bất thường tại nền tảng Charging Station",
     "translator_note": ""
   },
   {
@@ -11871,7 +11871,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Tacet Discords",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Tacet Discords",
+    "new_translation_vi": "Tiêu diệt các Tacet Discord",
     "translator_note": ""
   },
   {
@@ -11896,7 +11896,7 @@
     "ai_reason": "",
     "source_en": "Head to the Greenhouse and find the Shorekeeper",
     "review_note": "",
-    "new_translation_vi": "Đến Nhà Kính và tìm Người Gác Bờ",
+    "new_translation_vi": "Đến nhà kính và tìm the Shorekeeper",
     "translator_note": ""
   },
   {
@@ -11921,7 +11921,7 @@
     "ai_reason": "",
     "source_en": "Wait for a while",
     "review_note": "",
-    "new_translation_vi": "Đợi một lúc",
+    "new_translation_vi": "Chờ một lát",
     "translator_note": ""
   },
   {
@@ -11961,7 +11961,6 @@
     "primary_key": "Quest_145000004_ChildQuestTip_145_402",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -11971,8 +11970,9 @@
     "ai_reason": "",
     "source_en": "Investigate the surrounding and report to Niya",
     "review_note": "",
-    "new_translation_vi": "Khảo sát khu vực xung quanh và báo cáo cho Niya",
-    "translator_note": ""
+    "new_translation_vi": "Điều tra khu vực xung quanh và báo cáo với Niya",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0011480",
@@ -11996,7 +11996,7 @@
     "ai_reason": "",
     "source_en": "(Optional) Use the Grapple Shooter",
     "review_note": "",
-    "new_translation_vi": "(Tùy chọn) Dùng Grapple",
+    "new_translation_vi": "(Tùy chọn) Sử dụng Grapple Shooter",
     "translator_note": ""
   },
   {
@@ -12021,7 +12021,7 @@
     "ai_reason": "",
     "source_en": "Defeat all abnormal Tacet Discords",
     "review_note": "",
-    "new_translation_vi": "Đánh bại tất cả Tacet Discord bất thường",
+    "new_translation_vi": "Tiêu diệt tất cả Tacet Discord bất thường",
     "translator_note": ""
   },
   {
@@ -12046,7 +12046,7 @@
     "ai_reason": "",
     "source_en": "Defeat all abnormal TDs: ({q_count}/5)",
     "review_note": "",
-    "new_translation_vi": "Đánh bại tất cả TD bất thường: ({q_count}/5)",
+    "new_translation_vi": "Tiêu diệt tất cả TD bất thường: ({q_count}/5)",
     "translator_note": ""
   },
   {
@@ -12096,7 +12096,7 @@
     "ai_reason": "",
     "source_en": "Follow the Shorekeeper's instructions and press the keys",
     "review_note": "",
-    "new_translation_vi": "Làm theo chỉ dẫn của Người Gác Bờ và nhấn các phím",
+    "new_translation_vi": "Làm theo hướng dẫn của the Shorekeeper và nhấn các phím",
     "translator_note": ""
   },
   {
@@ -12171,7 +12171,7 @@
     "ai_reason": "",
     "source_en": "View the old documents",
     "review_note": "",
-    "new_translation_vi": "Xem tài liệu cũ",
+    "new_translation_vi": "Xem các tài liệu cũ",
     "translator_note": ""
   },
   {
@@ -12221,7 +12221,7 @@
     "ai_reason": "",
     "source_en": "View the sealed log",
     "review_note": "",
-    "new_translation_vi": "Xem nhật ký bị niêm phong",
+    "new_translation_vi": "Xem nhật ký đã niêm phong",
     "translator_note": ""
   },
   {
@@ -12246,7 +12246,7 @@
     "ai_reason": "",
     "source_en": "Enter the Tethys System",
     "review_note": "",
-    "new_translation_vi": "Vào Tethys Hệ thống",
+    "new_translation_vi": "Vào Tethys System",
     "translator_note": ""
   },
   {
@@ -12296,7 +12296,7 @@
     "ai_reason": "",
     "source_en": "Inspect the sealed gate",
     "review_note": "",
-    "new_translation_vi": "Inspect cánh cổng bị phong ấn",
+    "new_translation_vi": "Kiểm tra cổng đã niêm phong",
     "translator_note": ""
   },
   {
@@ -12421,7 +12421,7 @@
     "ai_reason": "",
     "source_en": "Examine the cabinet with plants",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra tủ chứa cây cối",
+    "new_translation_vi": "Kiểm tra tủ có cây cối",
     "translator_note": ""
   },
   {
@@ -12446,7 +12446,7 @@
     "ai_reason": "",
     "source_en": "Examine the cabinet with plants",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra tủ chứa cây cối",
+    "new_translation_vi": "Kiểm tra tủ có cây cối",
     "translator_note": ""
   },
   {
@@ -12471,7 +12471,7 @@
     "ai_reason": "",
     "source_en": "Examine the cabinet with plants",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra tủ chứa cây cối",
+    "new_translation_vi": "Kiểm tra tủ có cây cối",
     "translator_note": ""
   },
   {
@@ -12496,7 +12496,7 @@
     "ai_reason": "",
     "source_en": "Examine the cabinet with plants",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra tủ chứa cây cối",
+    "new_translation_vi": "Kiểm tra tủ có cây cối",
     "translator_note": ""
   }
 ]

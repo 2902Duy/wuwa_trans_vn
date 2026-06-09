@@ -21,7 +21,7 @@
     "ai_reason": "",
     "source_en": "Jinzhou is getting lively lately. Go back and ask around",
     "review_note": "",
-    "new_translation_vi": "Dạo này Tấn Châu nhộn nhịp lắm. Về hỏi thăm xem sao.",
+    "new_translation_vi": "Jinzhou dạo này có vẻ sôi nổi hẳn lên. Hãy quay lại và hỏi thăm xem sao",
     "translator_note": ""
   },
   {
@@ -46,7 +46,7 @@
     "ai_reason": "",
     "source_en": "Head to the \"Wishing Tree\"",
     "review_note": "",
-    "new_translation_vi": "Đến \"Cây Ước Nguyện\"",
+    "new_translation_vi": "Đi đến \"Wishing Tree\"",
     "translator_note": ""
   },
   {
@@ -96,7 +96,7 @@
     "ai_reason": "",
     "source_en": "Examine the strange robot",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra robot lạ",
+    "new_translation_vi": "Kiểm tra con robot lạ",
     "translator_note": ""
   },
   {
@@ -146,7 +146,7 @@
     "ai_reason": "",
     "source_en": "Go to the Wishing Stall",
     "review_note": "",
-    "new_translation_vi": "Đến quầy Ước Nguyện",
+    "new_translation_vi": "Đến Wishing Stall",
     "translator_note": ""
   },
   {
@@ -171,7 +171,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -186,7 +186,6 @@
     "primary_key": "Quest_880000015_OccupyDesc_880_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -196,8 +195,9 @@
     "ai_reason": "",
     "source_en": "Taoyuan Vale occupied",
     "review_note": "",
-    "new_translation_vi": "Taoyuan Vale bị chiếm đóng",
-    "translator_note": ""
+    "new_translation_vi": "Taoyuan Vale đang bận rộn",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009009",
@@ -211,7 +211,6 @@
     "primary_key": "Quest_880000015_QuestDesc_0_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -221,8 +220,9 @@
     "ai_reason": "",
     "source_en": "As the Moon-Chasing Festival approaches, you become aware of the \"Moontree Lodge\" tales under the Wishing Tree. An encounter with a strange robot links you to the mysterious wish granter at the Lodge...",
     "review_note": "",
-    "new_translation_vi": "Khi Moon-Chasing Festival đến gần, cậu bắt đầu nghe về những câu chuyện \"Lữ Quán Mộc Nguyệt\" dưới gốc Cây Wish. Một cuộc gặp gỡ với robot kỳ lạ đã kết nối cậu với người ban ước bí ẩn tại lữ quán...",
-    "translator_note": ""
+    "new_translation_vi": "Khi Moon-Chasing Festival đến gần, bạn biết đến những câu chuyện về \"Moontree Lodge\" dưới gốc Wishing Tree. Cuộc gặp gỡ với một con robot lạ đã kết nối bạn với người thực hiện điều ước bí ẩn tại Lodge...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009010",
@@ -246,7 +246,7 @@
     "ai_reason": "",
     "source_en": "Moonlit Reunion",
     "review_note": "",
-    "new_translation_vi": "Đoàn Tụ Dưới Trăng",
+    "new_translation_vi": "Đoàn tụ dưới ánh trăng",
     "translator_note": ""
   },
   {
@@ -271,7 +271,7 @@
     "ai_reason": "",
     "source_en": "Talk to Xiangli Yao to find out the meaning of the Wish Tag",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Xiangli Yao để tìm hiểu ý nghĩa của Thẻ Ước Nguyện",
+    "new_translation_vi": "Trò chuyện với Xiangli Yao để tìm hiểu ý nghĩa của Wish Tag",
     "translator_note": ""
   },
   {
@@ -286,7 +286,6 @@
     "primary_key": "Quest_880000017_ChildQuestTip_880_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -296,8 +295,9 @@
     "ai_reason": "",
     "source_en": "Return to the laboratory to find and talk to Shifan",
     "review_note": "",
-    "new_translation_vi": "Return phòng thí nghiệm và tìm gặp Shifan",
-    "translator_note": ""
+    "new_translation_vi": "Quay lại phòng thí nghiệm để tìm và trò chuyện với Shifan",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009013",
@@ -311,7 +311,6 @@
     "primary_key": "Quest_880000017_ChildQuestTip_880_10",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -321,8 +320,9 @@
     "ai_reason": "",
     "source_en": "Follow the Wish Tag clues to find Xiaosheng",
     "review_note": "",
-    "new_translation_vi": "Đi theo manh mối từ Thẻ Nguyện ước để tìm Xiaosheng",
-    "translator_note": ""
+    "new_translation_vi": "Theo dấu Wish Tag để tìm Xiaosheng",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009014",
@@ -346,7 +346,7 @@
     "ai_reason": "",
     "source_en": "Decode the first Wish Tag with Patty",
     "review_note": "",
-    "new_translation_vi": "Giải mã Thẻ Điều Ước đầu tiên cùng Patty",
+    "new_translation_vi": "Giải mã Wish Tag đầu tiên cùng Patty",
     "translator_note": ""
   },
   {
@@ -371,7 +371,7 @@
     "ai_reason": "",
     "source_en": "Ask the researcher about the clues",
     "review_note": "",
-    "new_translation_vi": "Ask nhà nghiên cứu về manh mối",
+    "new_translation_vi": "Hỏi nhà nghiên cứu về các manh mối",
     "translator_note": ""
   },
   {
@@ -396,7 +396,7 @@
     "ai_reason": "",
     "source_en": "Talk to the eavesdropper",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với kẻ nghe lén",
+    "new_translation_vi": "Trò chuyện với người nghe lén",
     "translator_note": ""
   },
   {
@@ -461,7 +461,6 @@
     "primary_key": "Quest_880000017_InteractContent_880_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -472,7 +471,8 @@
     "source_en": "Discuss the wish of \"Xiaosheng\"",
     "review_note": "",
     "new_translation_vi": "Thảo luận về điều ước của \"Xiaosheng\"",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009020",
@@ -496,7 +496,7 @@
     "ai_reason": "",
     "source_en": "Listen",
     "review_note": "",
-    "new_translation_vi": "Listen",
+    "new_translation_vi": "Lắng nghe",
     "translator_note": ""
   },
   {
@@ -521,7 +521,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -536,7 +536,6 @@
     "primary_key": "Quest_880000017_OccupyDesc_880_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -546,8 +545,9 @@
     "ai_reason": "",
     "source_en": "Taoyuan Vale occupied",
     "review_note": "",
-    "new_translation_vi": "Taoyuan Vale bị chiếm đóng",
-    "translator_note": ""
+    "new_translation_vi": "Taoyuan Vale đang bận rộn",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009023",
@@ -561,7 +561,6 @@
     "primary_key": "Quest_880000017_QuestAliasDesc_880_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -571,8 +570,9 @@
     "ai_reason": "",
     "source_en": "Following the clues in the wish, you uncover the true identity of \"Xiaosheng\", and what he has to tell...",
     "review_note": "",
-    "new_translation_vi": "Theo manh mối trong lời ước, cậu khám phá ra danh tính thật của \"Xiaosheng\" và những gì hắn phải nói...",
-    "translator_note": ""
+    "new_translation_vi": "Theo những manh mối trong điều ước, bạn khám phá ra danh tính thực sự của \"Xiaosheng\" và những điều người đó muốn nhắn gửi...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009024",
@@ -596,7 +596,7 @@
     "ai_reason": "",
     "source_en": "Wish Upon the Moon I: Cry of the Soul",
     "review_note": "",
-    "new_translation_vi": "Wish Upon the Moon I: Tiếng Khóc Của Linh Hồn",
+    "new_translation_vi": "Điều ước dưới ánh trăng I: Tiếng lòng",
     "translator_note": ""
   },
   {
@@ -621,7 +621,7 @@
     "ai_reason": "",
     "source_en": "Try to solve the first wish",
     "review_note": "",
-    "new_translation_vi": "Thử giải quyết điều ước đầu tiên xem sao.",
+    "new_translation_vi": "Thử giải quyết điều ước đầu tiên",
     "translator_note": ""
   },
   {
@@ -646,7 +646,7 @@
     "ai_reason": "",
     "source_en": "Decode corrupted wishes: I",
     "review_note": "",
-    "new_translation_vi": "Giải mã điều ước bị hỏng: I",
+    "new_translation_vi": "Giải mã các điều ước bị hỏng: I",
     "translator_note": ""
   },
   {
@@ -696,7 +696,7 @@
     "ai_reason": "",
     "source_en": "You meet Xiangli Yao again under the Wishing Tree. Yet, this time you share a walk not for others' wishes but for the moon's glory and the bustling lives of people.",
     "review_note": "",
-    "new_translation_vi": "Bạn gặp lại Xiangli Yao dưới gốc Cây Ước Nguyện. Nhưng lần này, hai người cùng đi dạo không phải vì ước nguyện của ai khác, mà để ngắm vinh quang của vầng trăng và cuộc sống nhộn nhịp của mọi người.",
+    "new_translation_vi": "Bạn gặp lại Xiangli Yao dưới gốc Wishing Tree. Nhưng lần này, hai người đi dạo không phải vì điều ước của người khác, mà là để tận hưởng vẻ đẹp của ánh trăng và cuộc sống nhộn nhịp của mọi người.",
     "translator_note": ""
   },
   {
@@ -721,7 +721,7 @@
     "ai_reason": "",
     "source_en": "Moon Shall Be My Guest",
     "review_note": "",
-    "new_translation_vi": "Trăng Là Khách Quý",
+    "new_translation_vi": "Trăng là khách quý của ta",
     "translator_note": ""
   },
   {
@@ -771,7 +771,7 @@
     "ai_reason": "",
     "source_en": "Talk to Zhezhi",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Zhezhi",
+    "new_translation_vi": "Trò chuyện với Zhezhi",
     "translator_note": ""
   },
   {
@@ -796,7 +796,7 @@
     "ai_reason": "",
     "source_en": "Talk to Zhezhi",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Zhezhi",
+    "new_translation_vi": "Trò chuyện với Zhezhi",
     "translator_note": ""
   },
   {
@@ -821,7 +821,7 @@
     "ai_reason": "",
     "source_en": "Talk about the fan earlier",
     "review_note": "",
-    "new_translation_vi": "Nói về chiếc quạt lúc trước",
+    "new_translation_vi": "Trò chuyện về chiếc quạt lúc nãy",
     "translator_note": ""
   },
   {
@@ -836,7 +836,6 @@
     "primary_key": "Quest_880000019_QuestDesc_880_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -846,8 +845,9 @@
     "ai_reason": "",
     "source_en": "Not far away from Yumyum Haven, you meet Zhezhi, who is troubled by a lack of inspiration for her paintings. Ask her about it.",
     "review_note": "",
-    "new_translation_vi": "Cách Yumyum Haven không xa, cậu gặp Zhezhi, người đang buồn phiền vì thiếu cảm hứng vẽ tranh. Ask cô ấy về chuyện đó đi.",
-    "translator_note": ""
+    "new_translation_vi": "Không xa Yumyum Haven, bạn gặp Zhezhi, người đang gặp khó khăn vì thiếu cảm hứng cho các bức tranh của mình. Hãy hỏi cô ấy xem sao.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009035",
@@ -871,7 +871,7 @@
     "ai_reason": "",
     "source_en": "Chasing the Moon's Glory",
     "review_note": "",
-    "new_translation_vi": "Theo Đuổi Vinh Quang Của Trăng",
+    "new_translation_vi": "Theo đuổi vẻ đẹp ánh trăng",
     "translator_note": ""
   },
   {
@@ -896,7 +896,7 @@
     "ai_reason": "",
     "source_en": "Figure out the meaning of the second Wish Tag",
     "review_note": "",
-    "new_translation_vi": "Tìm hiểu ý nghĩa của Thẻ Nguyện ước thứ hai",
+    "new_translation_vi": "Tìm hiểu ý nghĩa của Wish Tag thứ hai",
     "translator_note": ""
   },
   {
@@ -911,7 +911,6 @@
     "primary_key": "Quest_880000021_ChildQuestTip_880_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -921,8 +920,9 @@
     "ai_reason": "",
     "source_en": "Visit Mrs. Heying at Xiehua Village",
     "review_note": "",
-    "new_translation_vi": "Đến thăm bà Heying ở làng Xiehua",
-    "translator_note": ""
+    "new_translation_vi": "Ghé thăm bà Heying tại Xiehua Village",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009038",
@@ -936,7 +936,6 @@
     "primary_key": "Quest_880000021_ChildQuestTip_880_16",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -947,7 +946,8 @@
     "source_en": "Take Mrs. Heying to the Yumyum Haven",
     "review_note": "",
     "new_translation_vi": "Đưa bà Heying đến Yumyum Haven",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009039",
@@ -971,7 +971,7 @@
     "ai_reason": "",
     "source_en": "Decode the second Wish Tag with Patty",
     "review_note": "",
-    "new_translation_vi": "Giải mã Thẻ Điều Ước thứ hai cùng Patty",
+    "new_translation_vi": "Giải mã Wish Tag thứ hai cùng Patty",
     "translator_note": ""
   },
   {
@@ -996,7 +996,7 @@
     "ai_reason": "",
     "source_en": "Talk to Xiangli Yao",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Xiangli Yao",
+    "new_translation_vi": "Trò chuyện với Xiangli Yao",
     "translator_note": ""
   },
   {
@@ -1021,7 +1021,7 @@
     "ai_reason": "",
     "source_en": "Take Mrs. Heying to the Fan Drawing Stall",
     "review_note": "",
-    "new_translation_vi": "Đưa bà Heying đến quầy Tranh Quạt",
+    "new_translation_vi": "Đưa bà Heying đến quầy vẽ quạt",
     "translator_note": ""
   },
   {
@@ -1096,7 +1096,7 @@
     "ai_reason": "",
     "source_en": "Head to the \"Wishing Stall\" and continue the preparations",
     "review_note": "",
-    "new_translation_vi": "Đến quầy \"Ước Nguyện\" và tiếp tục chuẩn bị",
+    "new_translation_vi": "Đến \"Wishing Stall\" và tiếp tục chuẩn bị",
     "translator_note": ""
   },
   {
@@ -1146,7 +1146,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -1171,7 +1171,7 @@
     "ai_reason": "",
     "source_en": "About Heying's wish",
     "review_note": "",
-    "new_translation_vi": "Về điều ước của Heying",
+    "new_translation_vi": "Về điều ước của bà Heying",
     "translator_note": ""
   },
   {
@@ -1186,7 +1186,6 @@
     "primary_key": "Quest_880000021_OccupyDesc_880_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1196,8 +1195,9 @@
     "ai_reason": "",
     "source_en": "Taoyuan Vale occupied",
     "review_note": "",
-    "new_translation_vi": "Taoyuan Vale bị chiếm đóng",
-    "translator_note": ""
+    "new_translation_vi": "Taoyuan Vale đang bận rộn",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009049",
@@ -1221,7 +1221,7 @@
     "ai_reason": "",
     "source_en": "Try to solve the second wish.",
     "review_note": "",
-    "new_translation_vi": "Thử giải quyết điều ước thứ hai đi.",
+    "new_translation_vi": "Thử giải quyết điều ước thứ hai.",
     "translator_note": ""
   },
   {
@@ -1246,7 +1246,7 @@
     "ai_reason": "",
     "source_en": "The wish that finds difficulty making a choice and seeks an answer starts to understand the weight of \"choices\" after you listen to it.",
     "review_note": "",
-    "new_translation_vi": "Điều ước gặp khó khăn khi phải lựa chọn và tìm kiếm câu trả lời sẽ bắt đầu hiểu được sức nặng của \"sự lựa chọn\" sau khi cậu lắng nghe nó.",
+    "new_translation_vi": "Điều ước đang gặp khó khăn trong việc đưa ra lựa chọn và tìm kiếm câu trả lời, bắt đầu hiểu được sức nặng của \"sự lựa chọn\" sau khi bạn lắng nghe nó.",
     "translator_note": ""
   },
   {
@@ -1271,7 +1271,7 @@
     "ai_reason": "",
     "source_en": "Wish Upon the Moon II: The Elder's Promise",
     "review_note": "",
-    "new_translation_vi": "Wish Upon the Moon II: Lời Hứa Của Người Elder",
+    "new_translation_vi": "Điều ước dưới ánh trăng II: Lời hứa của người già",
     "translator_note": ""
   },
   {
@@ -1296,7 +1296,7 @@
     "ai_reason": "",
     "source_en": "Decode corrupted wishes: II",
     "review_note": "",
-    "new_translation_vi": "Giải mã điều ước bị hỏng: II",
+    "new_translation_vi": "Giải mã các điều ước bị hỏng: II",
     "translator_note": ""
   },
   {
@@ -1311,7 +1311,6 @@
     "primary_key": "Quest_880000021_QuestDesc_880_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1321,8 +1320,9 @@
     "ai_reason": "",
     "source_en": "Begin the early-stage festival preparation at Taoyuan Vale",
     "review_note": "",
-    "new_translation_vi": "Begin chuẩn bị lễ hội giai đoạn đầu tại Taoyuan Vale",
-    "translator_note": ""
+    "new_translation_vi": "Bắt đầu chuẩn bị lễ hội giai đoạn đầu tại Taoyuan Vale",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009054",
@@ -1346,7 +1346,7 @@
     "ai_reason": "",
     "source_en": "Festival Preparations II",
     "review_note": "",
-    "new_translation_vi": "Chuẩn Bị Lễ Hội II",
+    "new_translation_vi": "Chuẩn bị lễ hội II",
     "translator_note": ""
   },
   {
@@ -1371,7 +1371,7 @@
     "ai_reason": "",
     "source_en": "Go to the Wishing Stall and continue to prepare for the Moon-Chasing Festival",
     "review_note": "",
-    "new_translation_vi": "Đến gian hàng Ước Nguyện và tiếp tục chuẩn bị cho Moon-Chasing Festival nào",
+    "new_translation_vi": "Đến Wishing Stall và tiếp tục chuẩn bị cho Moon-Chasing Festival",
     "translator_note": ""
   },
   {
@@ -1396,7 +1396,7 @@
     "ai_reason": "",
     "source_en": "Build \"Fan Drawing Stall\"",
     "review_note": "",
-    "new_translation_vi": "Xây dựng \"Gian Vẽ Quạt\"",
+    "new_translation_vi": "Xây dựng \"Quầy vẽ quạt\"",
     "translator_note": ""
   },
   {
@@ -1436,7 +1436,6 @@
     "primary_key": "Quest_880000021_QuestScheduleSubTitle_880_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1447,7 +1446,8 @@
     "source_en": "Build \"Yumyum Haven\"",
     "review_note": "",
     "new_translation_vi": "Xây dựng \"Yumyum Haven\"",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009059",
@@ -1496,7 +1496,7 @@
     "ai_reason": "",
     "source_en": "Search for clues with the Sensor Module",
     "review_note": "",
-    "new_translation_vi": "Dò tìm manh mối bằng Mô-đun Cảm biến",
+    "new_translation_vi": "Tìm kiếm manh mối bằng Sensor Module",
     "translator_note": ""
   },
   {
@@ -1546,7 +1546,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Tacet Discords",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Tacet Discords",
+    "new_translation_vi": "Tiêu diệt các Tacet Discord",
     "translator_note": ""
   },
   {
@@ -1571,7 +1571,7 @@
     "ai_reason": "",
     "source_en": "Talk to Xiangli Yao",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Xiangli Yao",
+    "new_translation_vi": "Trò chuyện với Xiangli Yao",
     "translator_note": ""
   },
   {
@@ -1596,7 +1596,7 @@
     "ai_reason": "",
     "source_en": "Save the trapped child",
     "review_note": "",
-    "new_translation_vi": "Cứu đứa trẻ bị mắc kẹt",
+    "new_translation_vi": "Giải cứu đứa trẻ bị mắc kẹt",
     "translator_note": ""
   },
   {
@@ -1621,7 +1621,7 @@
     "ai_reason": "",
     "source_en": "Decode the third Wish Tag with Patty",
     "review_note": "",
-    "new_translation_vi": "Giải mã Thẻ Điều Ước thứ ba cùng Patty",
+    "new_translation_vi": "Giải mã Wish Tag thứ ba cùng Patty",
     "translator_note": ""
   },
   {
@@ -1646,7 +1646,7 @@
     "ai_reason": "",
     "source_en": "Head to the \"Wishing Stall\" and continue the preparations",
     "review_note": "",
-    "new_translation_vi": "Đến quầy \"Ước Nguyện\" và tiếp tục chuẩn bị",
+    "new_translation_vi": "Đến \"Quầy Ước Nguyện\" và tiếp tục chuẩn bị",
     "translator_note": ""
   },
   {
@@ -1671,7 +1671,7 @@
     "ai_reason": "",
     "source_en": "Ask the children",
     "review_note": "",
-    "new_translation_vi": "Hỏi bọn trẻ",
+    "new_translation_vi": "Hỏi những đứa trẻ",
     "translator_note": ""
   },
   {
@@ -1686,7 +1686,6 @@
     "primary_key": "Quest_880000025_OccupyDesc_880_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1696,8 +1695,9 @@
     "ai_reason": "",
     "source_en": "Taoyuan Vale occupied",
     "review_note": "",
-    "new_translation_vi": "Taoyuan Vale bị chiếm đóng",
-    "translator_note": ""
+    "new_translation_vi": "Taoyuan Vale đang bận",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009069",
@@ -1721,7 +1721,7 @@
     "ai_reason": "",
     "source_en": "Try to solve the second wish.",
     "review_note": "",
-    "new_translation_vi": "Thử giải quyết điều ước thứ hai đi.",
+    "new_translation_vi": "Thử giải quyết điều ước thứ hai.",
     "translator_note": ""
   },
   {
@@ -1746,7 +1746,7 @@
     "ai_reason": "",
     "source_en": "A wish to become a hero. Now that you have your own interpretation of how to become one, maybe you can help him.",
     "review_note": "",
-    "new_translation_vi": "Ước muốn trở thành anh hùng. Giờ ngươi đã có cách hiểu riêng về việc trở thành anh hùng, có lẽ ngươi có thể giúp cậu ta.",
+    "new_translation_vi": "Một điều ước trở thành anh hùng. Giờ bạn đã có cách hiểu riêng về việc trở thành anh hùng, có lẽ bạn có thể giúp cậu ấy.",
     "translator_note": ""
   },
   {
@@ -1771,7 +1771,7 @@
     "ai_reason": "",
     "source_en": "Wish Upon the Moon III: Dreaming of Heroism",
     "review_note": "",
-    "new_translation_vi": "Wish Upon the Moon III: Giấc Mơ Anh Hùng",
+    "new_translation_vi": "Ước Nguyện Dưới Trăng III: Mơ Về Anh Hùng",
     "translator_note": ""
   },
   {
@@ -1796,7 +1796,7 @@
     "ai_reason": "",
     "source_en": "Decode corrupted wishes: III",
     "review_note": "",
-    "new_translation_vi": "Giải mã điều ước bị hỏng: III",
+    "new_translation_vi": "Giải mã các điều ước bị hỏng: III",
     "translator_note": ""
   },
   {
@@ -1811,7 +1811,6 @@
     "primary_key": "Quest_880000025_QuestDesc_880_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1821,8 +1820,9 @@
     "ai_reason": "",
     "source_en": "Begin the second-stage festival preparation at Taoyuan Vale",
     "review_note": "",
-    "new_translation_vi": "Begin chuẩn bị lễ hội giai đoạn hai tại Taoyuan Vale",
-    "translator_note": ""
+    "new_translation_vi": "Bắt đầu chuẩn bị lễ hội giai đoạn hai tại Taoyuan Vale",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009074",
@@ -1871,7 +1871,7 @@
     "ai_reason": "",
     "source_en": "Head to the \"Wishing Stall\" and continue the preparations",
     "review_note": "",
-    "new_translation_vi": "Đến quầy \"Ước Nguyện\" và tiếp tục chuẩn bị",
+    "new_translation_vi": "Đến \"Quầy Ước Nguyện\" và tiếp tục chuẩn bị",
     "translator_note": ""
   },
   {
@@ -1896,7 +1896,7 @@
     "ai_reason": "",
     "source_en": "Build \"Thus Says the Moon\"",
     "review_note": "",
-    "new_translation_vi": "Xây dựng \"Thus Says the Moon\"",
+    "new_translation_vi": "Xây dựng \"Lời Trăng Nói\"",
     "translator_note": ""
   },
   {
@@ -1946,7 +1946,7 @@
     "ai_reason": "",
     "source_en": "Build \"Riddle Twiddle\"",
     "review_note": "",
-    "new_translation_vi": "Xây dựng \"Riddle Twiddle\"",
+    "new_translation_vi": "Xây dựng \"Trò Đố Vui\"",
     "translator_note": ""
   },
   {
@@ -1971,7 +1971,7 @@
     "ai_reason": "",
     "source_en": "Tap Patty to enter the unknown Sonoro Sphere",
     "review_note": "",
-    "new_translation_vi": "Nhấn Patty để bước vào Sonoro Sphere bí ẩn.",
+    "new_translation_vi": "Chạm vào Patty để vào Sonoro Sphere chưa xác định",
     "translator_note": ""
   },
   {
@@ -1996,7 +1996,7 @@
     "ai_reason": "",
     "source_en": "Tap Patty and enter the unknown Sonoro Sphere",
     "review_note": "",
-    "new_translation_vi": "Nhấn Patty và bước vào Sonoro Sphere bí ẩn.",
+    "new_translation_vi": "Chạm vào Patty và vào Sonoro Sphere chưa xác định",
     "translator_note": ""
   },
   {
@@ -2011,7 +2011,6 @@
     "primary_key": "Quest_880000032_ChildQuestTip_880_17",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2021,8 +2020,9 @@
     "ai_reason": "",
     "source_en": "Head to Panhua's Restaurant",
     "review_note": "",
-    "new_translation_vi": "Đến Nhà hàng Panhua",
-    "translator_note": ""
+    "new_translation_vi": "Đến nhà hàng của Panhua",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009082",
@@ -2046,7 +2046,7 @@
     "ai_reason": "",
     "source_en": "Go to the place where you agreed to meet Xiangli Yao",
     "review_note": "",
-    "new_translation_vi": "Đến chỗ hẹn gặp Xiangli Yao",
+    "new_translation_vi": "Đến nơi đã hẹn gặp Xiangli Yao",
     "translator_note": ""
   },
   {
@@ -2071,7 +2071,7 @@
     "ai_reason": "",
     "source_en": "Go back and find Xiangli Yao",
     "review_note": "",
-    "new_translation_vi": "Quay lại tìm Xiangli Yao đi.",
+    "new_translation_vi": "Quay lại và tìm Xiangli Yao",
     "translator_note": ""
   },
   {
@@ -2096,7 +2096,7 @@
     "ai_reason": "",
     "source_en": "Wait for the Moonlit Fair to begin (set the time to after 8:00 of the next day)",
     "review_note": "",
-    "new_translation_vi": "Chờ Hội Chợ Trăng Sáng bắt đầu (đặt giờ sau 8 giờ ngày hôm sau)",
+    "new_translation_vi": "Chờ Lễ Hội Trăng Rằm bắt đầu (chỉnh thời gian sau 8:00 ngày hôm sau)",
     "translator_note": ""
   },
   {
@@ -2121,7 +2121,7 @@
     "ai_reason": "",
     "source_en": "Head to the \"Wishing Stall\" and continue the preparations",
     "review_note": "",
-    "new_translation_vi": "Đến quầy \"Ước Nguyện\" và tiếp tục chuẩn bị",
+    "new_translation_vi": "Đến \"Quầy Ước Nguyện\" và tiếp tục chuẩn bị",
     "translator_note": ""
   },
   {
@@ -2136,7 +2136,6 @@
     "primary_key": "Quest_880000032_OccupyDesc_880_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2146,8 +2145,9 @@
     "ai_reason": "",
     "source_en": "Taoyuan Vale occupied",
     "review_note": "",
-    "new_translation_vi": "Taoyuan Vale bị chiếm đóng",
-    "translator_note": ""
+    "new_translation_vi": "Taoyuan Vale đang bận",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009087",
@@ -2171,7 +2171,7 @@
     "ai_reason": "",
     "source_en": "The frequencies building up within Patty have resonated with the environment and generated a Sonoro Sphere. The truth about the fourth wish may be hidden therein. The name Patty keeps mumbling about seems to be connected with Xiangli Yao. You must head it off at the pass before things get out of hands at the Moonlit Fair.",
     "review_note": "",
-    "new_translation_vi": "Tần số tích tụ trong Patty đã cộng hưởng với môi trường và tạo ra một Sonoro Sphere. Sự thật về điều ước thứ tư có thể ẩn giấu ở đó. Cái tên mà Patty cứ lẩm bẩm dường như có liên quan đến Xiangli Yao. Các cậu phải chặn nó lại trước khi mọi chuyện tại Hội Chợ Trăng Sáng vượt khỏi tầm kiểm soát.",
+    "new_translation_vi": "Tần số tích tụ bên trong Patty đã cộng hưởng với môi trường và tạo ra một Sonoro Sphere. Sự thật về điều ước thứ tư có thể ẩn giấu trong đó. Cái tên mà Patty cứ lẩm bẩm dường như có liên quan đến Xiangli Yao. Bạn phải ngăn chặn nó trước khi mọi chuyện vượt khỏi tầm kiểm soát tại Lễ Hội Trăng Rằm.",
     "translator_note": ""
   },
   {
@@ -2196,7 +2196,7 @@
     "ai_reason": "",
     "source_en": "The festival is in the air. It's time to join your friends at the Fair to celebrate the occasion as promised. Capture the moments with the camera you received.",
     "review_note": "",
-    "new_translation_vi": "Không khí lễ hội đang tràn ngập khắp nơi. Đến lúc giữ lời hẹn, cùng bạn bè đến Hội Chợ để chung vui rồi. Hãy lưu giữ những khoảnh khắc ấy bằng chiếc máy ảnh cậu nhận được.",
+    "new_translation_vi": "Không khí lễ hội đang tràn ngập. Đã đến lúc tham gia cùng bạn bè tại Lễ Hội để ăn mừng như đã hứa. Hãy ghi lại những khoảnh khắc bằng chiếc máy ảnh bạn nhận được.",
     "translator_note": ""
   },
   {
@@ -2211,7 +2211,6 @@
     "primary_key": "Quest_880000032_QuestAliasDesc_880_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2221,8 +2220,9 @@
     "ai_reason": "",
     "source_en": "Panhua Restaurant is celebrating the Moonlit Fair with some new dishes. You decide to drop by and have a taste.",
     "review_note": "",
-    "new_translation_vi": "Panhua Restaurant đang kỷ niệm Hội Trăng Sáng với vài món mới. Cậu quyết định ghé qua nếm thử.",
-    "translator_note": ""
+    "new_translation_vi": "Nhà hàng Panhua đang ăn mừng Lễ Hội Trăng Rằm với vài món mới. Bạn quyết định ghé qua và nếm thử.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009090",
@@ -2246,7 +2246,7 @@
     "ai_reason": "",
     "source_en": "Wish Upon the Moon IV: Swan Song",
     "review_note": "",
-    "new_translation_vi": "Wish Upon the Moon IV: Song Thiên Nga",
+    "new_translation_vi": "Ước Nguyện Dưới Trăng IV: Khúc Ca Thiên Nga",
     "translator_note": ""
   },
   {
@@ -2296,7 +2296,7 @@
     "ai_reason": "",
     "source_en": "Before the Moonlit Fair starts",
     "review_note": "",
-    "new_translation_vi": "Trước khi Hội Trăng Rằm bắt đầu",
+    "new_translation_vi": "Trước khi Lễ Hội Trăng Rằm bắt đầu",
     "translator_note": ""
   },
   {
@@ -2311,7 +2311,6 @@
     "primary_key": "Quest_880000032_QuestDesc_880_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2321,8 +2320,9 @@
     "ai_reason": "",
     "source_en": "Begin the third-stage festival preparation at Taoyuan Vale",
     "review_note": "",
-    "new_translation_vi": "Begin chuẩn bị lễ hội giai đoạn ba tại Taoyuan Vale",
-    "translator_note": ""
+    "new_translation_vi": "Bắt đầu chuẩn bị lễ hội giai đoạn ba tại Taoyuan Vale",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009094",
@@ -2371,7 +2371,7 @@
     "ai_reason": "",
     "source_en": "Moonlit Fair Begins",
     "review_note": "",
-    "new_translation_vi": "Hội Trăng Rằm Bắt Đầu",
+    "new_translation_vi": "Lễ Hội Trăng Rằm Bắt Đầu",
     "translator_note": ""
   },
   {
@@ -2396,7 +2396,7 @@
     "ai_reason": "",
     "source_en": "Head to the \"Wishing Stall\" and continue the preparations",
     "review_note": "",
-    "new_translation_vi": "Đến quầy \"Ước Nguyện\" và tiếp tục chuẩn bị",
+    "new_translation_vi": "Đến \"Quầy Ước Nguyện\" và tiếp tục chuẩn bị",
     "translator_note": ""
   },
   {
@@ -2421,7 +2421,7 @@
     "ai_reason": "",
     "source_en": "Talk to Zhezhi",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Zhezhi",
+    "new_translation_vi": "Trò chuyện với Zhezhi",
     "translator_note": ""
   },
   {
@@ -2436,7 +2436,6 @@
     "primary_key": "Quest_880000032_QuestScheduleSubTitle_880_5",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2446,8 +2445,9 @@
     "ai_reason": "",
     "source_en": "Meet up with Xiangli Yao as promised after exploring Taoyuan Vale",
     "review_note": "",
-    "new_translation_vi": "Giữ lời hẹn với Xiangli Yao sau khi khám phá Taoyuan Vale",
-    "translator_note": ""
+    "new_translation_vi": "Gặp Xiangli Yao như đã hứa sau khi khám phá Taoyuan Vale",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009099",
@@ -2471,7 +2471,7 @@
     "ai_reason": "",
     "source_en": "Build \"Puppet Theater\"",
     "review_note": "",
-    "new_translation_vi": "Xây dựng \"Nhà Hát Múa Rối\"",
+    "new_translation_vi": "Xây dựng \"Nhà Hát Rối\"",
     "translator_note": ""
   },
   {
@@ -2496,7 +2496,7 @@
     "ai_reason": "",
     "source_en": "Build \"Hsin's Fortuity\"",
     "review_note": "",
-    "new_translation_vi": "Xây dựng \"Hsin's Fortuity\"",
+    "new_translation_vi": "Xây dựng \"Vận May Của Hsin\"",
     "translator_note": ""
   },
   {
@@ -2511,7 +2511,6 @@
     "primary_key": "Quest_880000032_QuestScheduleSubTitle_880_8",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2521,8 +2520,9 @@
     "ai_reason": "",
     "source_en": "Build \"Swim, Gulpuff, Swim\"",
     "review_note": "",
-    "new_translation_vi": "Xây dựng \"Swim, Gulpuff, Swim\"",
-    "translator_note": ""
+    "new_translation_vi": "Xây dựng \"Bơi Đi, Gulpuff, Bơi Đi\"",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009102",
@@ -2536,7 +2536,6 @@
     "primary_key": "Quest_880000032_QuestScheduleSubTitle_880_9",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2546,8 +2545,9 @@
     "ai_reason": "",
     "source_en": "Pop by \"Swim, Gulpuff, Swim\"",
     "review_note": "",
-    "new_translation_vi": "Ghé qua \"Swim, Gulpuff, Swim\"",
-    "translator_note": ""
+    "new_translation_vi": "Ghé qua \"Bơi Đi, Gulpuff, Bơi Đi\"",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009103",
@@ -2571,7 +2571,7 @@
     "ai_reason": "",
     "source_en": "Pop by \"Moon Shooter\"",
     "review_note": "",
-    "new_translation_vi": "Ghé qua \"Moon Shooter\"",
+    "new_translation_vi": "Ghé qua \"Xạ Thủ Trăng\"",
     "translator_note": ""
   },
   {
@@ -2586,7 +2586,6 @@
     "primary_key": "Quest_880000032_QuestScheduleSubTitle_880_11",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2597,7 +2596,8 @@
     "source_en": "Pop by \"Yumyum Haven\"",
     "review_note": "",
     "new_translation_vi": "Ghé qua \"Yumyum Haven\"",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009105",
@@ -2611,7 +2611,6 @@
     "primary_key": "Quest_880700000_InteractContent_880_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2622,7 +2621,8 @@
     "source_en": "Pop by Yumyum Haven",
     "review_note": "",
     "new_translation_vi": "Ghé qua Yumyum Haven",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009106",
@@ -2636,7 +2636,6 @@
     "primary_key": "Quest_880700000_OccupyDesc_880_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2646,8 +2645,9 @@
     "ai_reason": "",
     "source_en": "Taoyuan Vale occupied",
     "review_note": "",
-    "new_translation_vi": "Taoyuan Vale bị chiếm đóng",
-    "translator_note": ""
+    "new_translation_vi": "Taoyuan Vale đang bận",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009107",
@@ -2671,7 +2671,7 @@
     "ai_reason": "",
     "source_en": "Moon-Chasing Festival venue",
     "review_note": "",
-    "new_translation_vi": "Địa điểm Moon-Chasing Festival",
+    "new_translation_vi": "Địa điểm Lễ Hội Đuổi Trăng",
     "translator_note": ""
   },
   {
@@ -2696,7 +2696,7 @@
     "ai_reason": "",
     "source_en": "Head to the \"Wishing Stall\" and create even more festival vibe (Raise the Popularity to above 20,000)",
     "review_note": "",
-    "new_translation_vi": "Đến quầy \"Ước Nguyện\" và tạo thêm không khí lễ hội (Nâng Popularity lên trên 20.000)",
+    "new_translation_vi": "Đến \"Quầy Ước Nguyện\" và tạo thêm không khí lễ hội (Tăng Độ Phổ Biến lên trên 20.000)",
     "translator_note": ""
   },
   {
@@ -2711,7 +2711,6 @@
     "primary_key": "Quest_880700004_ChildQuestTip_880_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2721,8 +2720,9 @@
     "ai_reason": "",
     "source_en": "Tour around Taoyuan Vale",
     "review_note": "",
-    "new_translation_vi": "Dạo quanh Thung Lũng Taoyuan",
-    "translator_note": ""
+    "new_translation_vi": "Dạo quanh Taoyuan Vale",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009110",
@@ -2736,7 +2736,6 @@
     "primary_key": "Quest_880700004_OccupyDesc_880_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2746,8 +2745,9 @@
     "ai_reason": "",
     "source_en": "Taoyuan Vale occupied",
     "review_note": "",
-    "new_translation_vi": "Taoyuan Vale bị chiếm đóng",
-    "translator_note": ""
+    "new_translation_vi": "Taoyuan Vale đang bận",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009111",
@@ -2771,7 +2771,7 @@
     "ai_reason": "",
     "source_en": "The Moonlit Fair has started as expected. Please maintain its popularity.",
     "review_note": "",
-    "new_translation_vi": "Moonlit Fair đã bắt đầu như dự kiến. Hãy duy trì sự sôi động của nó nhé.",
+    "new_translation_vi": "Lễ Hội Trăng Rằm đã bắt đầu như dự kiến. Vui lòng duy trì độ phổ biến của nó.",
     "translator_note": ""
   },
   {
@@ -2796,7 +2796,7 @@
     "ai_reason": "",
     "source_en": "Chasing the Moon, Here and Now",
     "review_note": "",
-    "new_translation_vi": "Đuổi theo Mặt Trăng, tại đây và ngay bây giờ",
+    "new_translation_vi": "Đuổi Theo Trăng, Ngay Lúc Này",
     "translator_note": ""
   },
   {
@@ -2821,7 +2821,7 @@
     "ai_reason": "",
     "source_en": "Invite Calcharo for a selfie together",
     "review_note": "",
-    "new_translation_vi": "Invite Calcharo chụp ảnh cùng nào",
+    "new_translation_vi": "Mời Calcharo chụp ảnh selfie cùng nhau",
     "translator_note": ""
   },
   {
@@ -2846,7 +2846,7 @@
     "ai_reason": "",
     "source_en": "Invite Taoqi for a selfie together",
     "review_note": "",
-    "new_translation_vi": "Rủ Taoqi chụp ảnh selfie cùng",
+    "new_translation_vi": "Mời Taoqi chụp ảnh selfie cùng nhau",
     "translator_note": ""
   },
   {
@@ -2871,7 +2871,7 @@
     "ai_reason": "",
     "source_en": "Invite Yuanwu for a selfie together",
     "review_note": "",
-    "new_translation_vi": "Rủ Yuanwu chụp ảnh selfie cùng",
+    "new_translation_vi": "Mời Yuanwu chụp ảnh selfie cùng nhau",
     "translator_note": ""
   },
   {
@@ -2896,7 +2896,7 @@
     "ai_reason": "",
     "source_en": "Invite Verina for a selfie together",
     "review_note": "",
-    "new_translation_vi": "Rủ Verina chụp ảnh selfie cùng",
+    "new_translation_vi": "Mời Verina chụp ảnh selfie cùng nhau",
     "translator_note": ""
   },
   {
@@ -2921,7 +2921,7 @@
     "ai_reason": "",
     "source_en": "Invite Danjin for a selfie together",
     "review_note": "",
-    "new_translation_vi": "Invite Danjin chụp ảnh cùng",
+    "new_translation_vi": "Mời Danjin chụp ảnh selfie cùng nhau",
     "translator_note": ""
   },
   {
@@ -2946,7 +2946,7 @@
     "ai_reason": "",
     "source_en": "Invite Baizhi for a selfie together",
     "review_note": "",
-    "new_translation_vi": "Invite Baizhi chụp ảnh cùng nào",
+    "new_translation_vi": "Mời Baizhi chụp ảnh selfie cùng nhau",
     "translator_note": ""
   },
   {
@@ -2971,7 +2971,7 @@
     "ai_reason": "",
     "source_en": "Invite Jianxin for a selfie together",
     "review_note": "",
-    "new_translation_vi": "Invite Jianxin chụp ảnh cùng",
+    "new_translation_vi": "Mời Jianxin chụp ảnh selfie cùng nhau",
     "translator_note": ""
   },
   {
@@ -2996,7 +2996,7 @@
     "ai_reason": "",
     "source_en": "Invite Encore for a selfie together",
     "review_note": "",
-    "new_translation_vi": "Invite Encore chụp ảnh cùng",
+    "new_translation_vi": "Mời Encore chụp ảnh selfie cùng nhau",
     "translator_note": ""
   },
   {
@@ -3021,7 +3021,7 @@
     "ai_reason": "",
     "source_en": "Invite Yangyang for a selfie together",
     "review_note": "",
-    "new_translation_vi": "Rủ Yangyang chụp ảnh selfie cùng",
+    "new_translation_vi": "Mời Yangyang chụp ảnh selfie cùng nhau",
     "translator_note": ""
   },
   {
@@ -3046,7 +3046,7 @@
     "ai_reason": "",
     "source_en": "Invite Lingyang for a selfie together",
     "review_note": "",
-    "new_translation_vi": "Invite Lingyang chụp ảnh cùng",
+    "new_translation_vi": "Mời Lingyang chụp ảnh selfie cùng nhau",
     "translator_note": ""
   },
   {
@@ -3071,7 +3071,7 @@
     "ai_reason": "",
     "source_en": "Invite Changli for a selfie together",
     "review_note": "",
-    "new_translation_vi": "Invite Changli chụp ảnh cùng nào",
+    "new_translation_vi": "Mời Changli chụp ảnh selfie cùng nhau",
     "translator_note": ""
   },
   {
@@ -3096,7 +3096,7 @@
     "ai_reason": "",
     "source_en": "Invite Jinhsi for a selfie together",
     "review_note": "",
-    "new_translation_vi": "Invite Jinhsi chụp ảnh cùng",
+    "new_translation_vi": "Mời Jinhsi chụp ảnh selfie cùng nhau",
     "translator_note": ""
   },
   {
@@ -3121,7 +3121,7 @@
     "ai_reason": "",
     "source_en": "Invite Sanhua for a selfie together",
     "review_note": "",
-    "new_translation_vi": "Rủ Sanhua chụp ảnh selfie cùng",
+    "new_translation_vi": "Mời Sanhua chụp ảnh selfie cùng nhau",
     "translator_note": ""
   },
   {
@@ -3146,7 +3146,7 @@
     "ai_reason": "",
     "source_en": "Invite Yinlin for a selfie together",
     "review_note": "",
-    "new_translation_vi": "Rủ Yinlin chụp ảnh selfie cùng",
+    "new_translation_vi": "Mời Yinlin chụp ảnh selfie cùng nhau",
     "translator_note": ""
   },
   {
@@ -3171,7 +3171,7 @@
     "ai_reason": "",
     "source_en": "Invite Mortefi for a selfie together",
     "review_note": "",
-    "new_translation_vi": "Invite Mortefi chụp ảnh cùng",
+    "new_translation_vi": "Mời Mortefi chụp ảnh selfie cùng nhau",
     "translator_note": ""
   },
   {
@@ -3196,7 +3196,7 @@
     "ai_reason": "",
     "source_en": "Available after completing Companion Story \"True Colors\".",
     "review_note": "",
-    "new_translation_vi": "Mở sau khi hoàn thành Companion Story \"True Color Sự\"",
+    "new_translation_vi": "Có sẵn sau khi hoàn thành Nhiệm Vụ Đồng Hành \"True Colors\".",
     "translator_note": ""
   },
   {
@@ -3221,7 +3221,7 @@
     "ai_reason": "",
     "source_en": "Date with Zhezhi: Epilogue 1",
     "review_note": "",
-    "new_translation_vi": "Hẹn hò với Zhezhi: Hồi kết 1",
+    "new_translation_vi": "Hẹn hò với Zhezhi: Hậu truyện 1",
     "translator_note": ""
   },
   {
@@ -3246,7 +3246,7 @@
     "ai_reason": "",
     "source_en": "Date with Zhezhi: Epilogue 2",
     "review_note": "",
-    "new_translation_vi": "Hẹn hò với Zhezhi: Hồi kết 2",
+    "new_translation_vi": "Hẹn hò với Zhezhi: Hậu truyện 2",
     "translator_note": ""
   },
   {
@@ -3321,7 +3321,7 @@
     "ai_reason": "",
     "source_en": "Defeat the False Sovereign",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Kẻ giả mạo Quân chủ",
+    "new_translation_vi": "Đánh bại the False Sovereign",
     "translator_note": ""
   },
   {
@@ -3346,7 +3346,7 @@
     "ai_reason": "",
     "source_en": "Defeat the False Sovereign",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Kẻ giả mạo Quân chủ",
+    "new_translation_vi": "Đánh bại the False Sovereign",
     "translator_note": ""
   },
   {
@@ -3471,7 +3471,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Nameless Explorer",
     "review_note": "",
-    "new_translation_vi": "Hạ gục Nameless Explorer.",
+    "new_translation_vi": "Đánh bại Nameless Explorer",
     "translator_note": ""
   },
   {
@@ -3496,7 +3496,7 @@
     "ai_reason": "",
     "source_en": "Defeat Nameless Explorer",
     "review_note": "",
-    "new_translation_vi": "Hạ gục Nameless Explorer",
+    "new_translation_vi": "Đánh bại Nameless Explorer",
     "translator_note": ""
   },
   {
@@ -3511,7 +3511,6 @@
     "primary_key": "LevelPlay_151850007_ChildQuestTip_151_29",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3522,7 +3521,8 @@
     "source_en": "Defeat the Kerasaurs",
     "review_note": "",
     "new_translation_vi": "Đánh bại Kerasaurs",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009142",
@@ -3546,7 +3546,7 @@
     "ai_reason": "",
     "source_en": "Listen to what people are saying",
     "review_note": "",
-    "new_translation_vi": "Hãy lắng nghe những gì mọi người đang bàn tán",
+    "new_translation_vi": "Lắng nghe mọi người đang nói gì",
     "translator_note": ""
   },
   {
@@ -3571,7 +3571,7 @@
     "ai_reason": "",
     "source_en": "Ask what the boy worries about",
     "review_note": "",
-    "new_translation_vi": "Ask cậu bé đang lo lắng điều gì",
+    "new_translation_vi": "Hỏi xem cậu bé đang lo lắng điều gì",
     "translator_note": ""
   },
   {
@@ -3596,7 +3596,7 @@
     "ai_reason": "",
     "source_en": "Tell the boy the hidden truth",
     "review_note": "",
-    "new_translation_vi": "Nói với cậu bé sự thật bị che giấu đi",
+    "new_translation_vi": "Nói cho cậu bé biết sự thật ẩn giấu",
     "translator_note": ""
   },
   {
@@ -3621,7 +3621,7 @@
     "ai_reason": "",
     "source_en": "Activate the trial",
     "review_note": "",
-    "new_translation_vi": "Bắt đầu thử thách",
+    "new_translation_vi": "Kích hoạt thử thách",
     "translator_note": ""
   },
   {
@@ -3646,7 +3646,7 @@
     "ai_reason": "",
     "source_en": "Draw the pattern to ignite the Lumenstone",
     "review_note": "",
-    "new_translation_vi": "Vẽ hoa văn để kích hoạt Đá Lumen.",
+    "new_translation_vi": "Vẽ hình để kích hoạt Lumenstone",
     "translator_note": ""
   },
   {
@@ -3696,7 +3696,7 @@
     "ai_reason": "",
     "source_en": "Draw the pattern to ignite the Lumenstone",
     "review_note": "",
-    "new_translation_vi": "Vẽ hoa văn để kích hoạt Đá Lumen.",
+    "new_translation_vi": "Vẽ hình để kích hoạt Lumenstone",
     "translator_note": ""
   },
   {
@@ -3721,7 +3721,7 @@
     "ai_reason": "",
     "source_en": "Activate the trial",
     "review_note": "",
-    "new_translation_vi": "Bắt đầu thử thách",
+    "new_translation_vi": "Kích hoạt thử thách",
     "translator_note": ""
   },
   {
@@ -3746,7 +3746,7 @@
     "ai_reason": "",
     "source_en": "Draw the pattern to ignite the Lumenstone",
     "review_note": "",
-    "new_translation_vi": "Vẽ hoa văn để kích hoạt Đá Lumen.",
+    "new_translation_vi": "Vẽ hình để kích hoạt Lumenstone",
     "translator_note": ""
   },
   {
@@ -3771,7 +3771,7 @@
     "ai_reason": "",
     "source_en": "Activate the trial",
     "review_note": "",
-    "new_translation_vi": "Bắt đầu thử thách",
+    "new_translation_vi": "Kích hoạt thử thách",
     "translator_note": ""
   },
   {
@@ -3821,7 +3821,7 @@
     "ai_reason": "",
     "source_en": "Wait for the patrol unit to retrieve the spear",
     "review_note": "",
-    "new_translation_vi": "Hãy chờ đội tuần tra đến thu hồi ngọn giáo.",
+    "new_translation_vi": "Đợi đơn vị tuần tra lấy giáo",
     "translator_note": ""
   },
   {
@@ -3846,7 +3846,7 @@
     "ai_reason": "",
     "source_en": "Use the spear to cleanse the Tidal Blight",
     "review_note": "",
-    "new_translation_vi": "Dùng thương để thanh tẩy Tidal Blight",
+    "new_translation_vi": "Sử dụng giáo để thanh tẩy Tidal Blight",
     "translator_note": ""
   },
   {
@@ -3871,7 +3871,7 @@
     "ai_reason": "",
     "source_en": "Head to the tower",
     "review_note": "",
-    "new_translation_vi": "Đến tòa tháp",
+    "new_translation_vi": "Đi đến tòa tháp",
     "translator_note": ""
   },
   {
@@ -3896,7 +3896,7 @@
     "ai_reason": "",
     "source_en": "Wait for the patrol unit to retrieve the spear",
     "review_note": "",
-    "new_translation_vi": "Hãy chờ đội tuần tra đến thu hồi ngọn giáo.",
+    "new_translation_vi": "Đợi đơn vị tuần tra lấy giáo",
     "translator_note": ""
   },
   {
@@ -3921,7 +3921,7 @@
     "ai_reason": "",
     "source_en": "Use the spear to cleanse the Tidal Blight",
     "review_note": "",
-    "new_translation_vi": "Dùng thương để thanh tẩy Tidal Blight",
+    "new_translation_vi": "Sử dụng giáo để thanh tẩy Tidal Blight",
     "translator_note": ""
   },
   {
@@ -3971,7 +3971,7 @@
     "ai_reason": "",
     "source_en": "Wait for the patrol unit to retrieve the spear",
     "review_note": "",
-    "new_translation_vi": "Hãy chờ đội tuần tra đến thu hồi ngọn giáo.",
+    "new_translation_vi": "Đợi đơn vị tuần tra lấy giáo",
     "translator_note": ""
   },
   {
@@ -3996,7 +3996,7 @@
     "ai_reason": "",
     "source_en": "Use the spear to cleanse the Tidal Blight",
     "review_note": "",
-    "new_translation_vi": "Dùng thương để thanh tẩy Tidal Blight",
+    "new_translation_vi": "Sử dụng giáo để thanh tẩy Tidal Blight",
     "translator_note": ""
   },
   {
@@ -4046,7 +4046,7 @@
     "ai_reason": "",
     "source_en": "Defeat the remaining TDs",
     "review_note": "",
-    "new_translation_vi": "Đánh bại các TD còn lại",
+    "new_translation_vi": "Tiêu diệt các TD còn lại",
     "translator_note": ""
   },
   {
@@ -4071,7 +4071,7 @@
     "ai_reason": "",
     "source_en": "Defeat the remaining TDs",
     "review_note": "",
-    "new_translation_vi": "Đánh bại các TD còn lại",
+    "new_translation_vi": "Tiêu diệt các TD còn lại",
     "translator_note": ""
   },
   {
@@ -4096,7 +4096,7 @@
     "ai_reason": "",
     "source_en": "Defeat the remaining TDs",
     "review_note": "",
-    "new_translation_vi": "Đánh bại các TD còn lại",
+    "new_translation_vi": "Tiêu diệt các TD còn lại",
     "translator_note": ""
   },
   {
@@ -4121,7 +4121,7 @@
     "ai_reason": "",
     "source_en": "Defeat the remaining TDs",
     "review_note": "",
-    "new_translation_vi": "Đánh bại các TD còn lại",
+    "new_translation_vi": "Tiêu diệt các TD còn lại",
     "translator_note": ""
   },
   {
@@ -4146,7 +4146,7 @@
     "ai_reason": "",
     "source_en": "Defeat the remaining TDs",
     "review_note": "",
-    "new_translation_vi": "Đánh bại các TD còn lại",
+    "new_translation_vi": "Tiêu diệt các TD còn lại",
     "translator_note": ""
   },
   {
@@ -4171,7 +4171,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Tacet Discords and protect the patrol unit",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Tacet Discords và bảo vệ đơn vị tuần tra",
+    "new_translation_vi": "Tiêu diệt các Tacet Discord và bảo vệ đơn vị tuần tra",
     "translator_note": ""
   },
   {
@@ -4196,7 +4196,7 @@
     "ai_reason": "",
     "source_en": "Escort the patrol unit to the platform",
     "review_note": "",
-    "new_translation_vi": "Hộ tống đội tuần tra đến bệ đáp",
+    "new_translation_vi": "Hộ tống đơn vị tuần tra đến bệ đỡ",
     "translator_note": ""
   },
   {
@@ -4246,7 +4246,7 @@
     "ai_reason": "",
     "source_en": "Escort the patrol unit to the platform",
     "review_note": "",
-    "new_translation_vi": "Hộ tống đội tuần tra đến bệ đáp",
+    "new_translation_vi": "Hộ tống đơn vị tuần tra đến bệ đỡ",
     "translator_note": ""
   },
   {
@@ -4296,7 +4296,7 @@
     "ai_reason": "",
     "source_en": "Venture deep underground",
     "review_note": "",
-    "new_translation_vi": "Đi sâu vào lòng đất",
+    "new_translation_vi": "Tiến sâu xuống lòng đất",
     "translator_note": ""
   },
   {
@@ -4346,7 +4346,7 @@
     "ai_reason": "",
     "source_en": "Complete track inspection",
     "review_note": "",
-    "new_translation_vi": "Complete kiểm tra đường đua",
+    "new_translation_vi": "Hoàn thành kiểm tra đường ray",
     "translator_note": ""
   },
   {
@@ -4396,7 +4396,7 @@
     "ai_reason": "",
     "source_en": "Head to the target location",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm mục tiêu",
+    "new_translation_vi": "Đi đến vị trí mục tiêu",
     "translator_note": ""
   },
   {
@@ -4421,7 +4421,7 @@
     "ai_reason": "",
     "source_en": "Head to the target location",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm mục tiêu",
+    "new_translation_vi": "Đi đến vị trí mục tiêu",
     "translator_note": ""
   },
   {
@@ -4446,7 +4446,7 @@
     "ai_reason": "",
     "source_en": "Complete track inspection",
     "review_note": "",
-    "new_translation_vi": "Complete kiểm tra đường đua",
+    "new_translation_vi": "Hoàn thành kiểm tra đường ray",
     "translator_note": ""
   },
   {
@@ -4496,7 +4496,7 @@
     "ai_reason": "",
     "source_en": "Follow Talkie to the second damage point",
     "review_note": "",
-    "new_translation_vi": "Theo Talkie đến điểm hư hại thứ hai",
+    "new_translation_vi": "Đi theo Talkie đến điểm hư hại thứ hai",
     "translator_note": ""
   },
   {
@@ -4521,7 +4521,7 @@
     "ai_reason": "",
     "source_en": "Follow Talkie to the second damage point",
     "review_note": "",
-    "new_translation_vi": "Theo Talkie đến điểm hư hại thứ hai",
+    "new_translation_vi": "Đi theo Talkie đến điểm hư hại thứ hai",
     "translator_note": ""
   },
   {
@@ -4571,7 +4571,7 @@
     "ai_reason": "",
     "source_en": "Use Projector: Geospider S4 to assist with the investigation",
     "review_note": "",
-    "new_translation_vi": "Sử dụng Projector: Geospider S4 hỗ trợ điều tra",
+    "new_translation_vi": "Sử dụng Projector: Geospider S4 để hỗ trợ điều tra",
     "translator_note": ""
   },
   {
@@ -4596,7 +4596,7 @@
     "ai_reason": "",
     "source_en": "Investigate the anomaly",
     "review_note": "",
-    "new_translation_vi": "Điều tra hiện tượng bất thường",
+    "new_translation_vi": "Điều tra sự bất thường",
     "translator_note": ""
   },
   {
@@ -4621,7 +4621,7 @@
     "ai_reason": "",
     "source_en": "Defeat Zip Zaps",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Zip Zaps",
+    "new_translation_vi": "Đánh bại Zip Zap",
     "translator_note": ""
   },
   {
@@ -4646,7 +4646,7 @@
     "ai_reason": "",
     "source_en": "Inspect the damage point",
     "review_note": "",
-    "new_translation_vi": "Inspect điểm hư hại",
+    "new_translation_vi": "Kiểm tra điểm hư hại",
     "translator_note": ""
   },
   {
@@ -4671,7 +4671,7 @@
     "ai_reason": "",
     "source_en": "Use Projector: Zip Zap to repair the circuit",
     "review_note": "",
-    "new_translation_vi": "Dùng Máy Chiếu: Zip Zap để sửa mạch điện",
+    "new_translation_vi": "Sử dụng Projector: Zip Zap để sửa chữa mạch điện",
     "translator_note": ""
   },
   {
@@ -4721,7 +4721,7 @@
     "ai_reason": "",
     "source_en": "Repair the locator on the other side",
     "review_note": "",
-    "new_translation_vi": "Repair the locator ở phía bên kia",
+    "new_translation_vi": "Sửa chữa thiết bị định vị ở phía bên kia",
     "translator_note": ""
   },
   {
@@ -4746,7 +4746,7 @@
     "ai_reason": "",
     "source_en": "Use Sensor to trace the circuit",
     "review_note": "",
-    "new_translation_vi": "Dùng Sensor để truy vết mạch điện",
+    "new_translation_vi": "Sử dụng cảm biến để dò mạch điện",
     "translator_note": ""
   },
   {
@@ -4771,7 +4771,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Outcasts",
     "review_note": "",
-    "new_translation_vi": "Đánh bại những kẻ bị ruồng bỏ",
+    "new_translation_vi": "Đánh bại Outcast",
     "translator_note": ""
   },
   {
@@ -4796,7 +4796,7 @@
     "ai_reason": "",
     "source_en": "Use Projector: Zip Zap to repair the circuit",
     "review_note": "",
-    "new_translation_vi": "Dùng Máy Chiếu: Zip Zap để sửa mạch điện",
+    "new_translation_vi": "Sử dụng Projector: Zip Zap để sửa chữa mạch điện",
     "translator_note": ""
   },
   {
@@ -4821,7 +4821,7 @@
     "ai_reason": "",
     "source_en": "Investigate the anomaly",
     "review_note": "",
-    "new_translation_vi": "Điều tra hiện tượng bất thường",
+    "new_translation_vi": "Điều tra sự bất thường",
     "translator_note": ""
   },
   {
@@ -4846,7 +4846,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Outcasts",
     "review_note": "",
-    "new_translation_vi": "Đánh bại những kẻ bị ruồng bỏ",
+    "new_translation_vi": "Đánh bại Outcast",
     "translator_note": ""
   },
   {
@@ -4871,7 +4871,7 @@
     "ai_reason": "",
     "source_en": "Confront Sephira",
     "review_note": "",
-    "new_translation_vi": "Đối đầu với Sephira",
+    "new_translation_vi": "Đối mặt với Sephira",
     "translator_note": ""
   },
   {
@@ -4896,7 +4896,7 @@
     "ai_reason": "",
     "source_en": "Use Sensor to examine the circuit",
     "review_note": "",
-    "new_translation_vi": "Dùng Sensor để kiểm tra mạch điện.",
+    "new_translation_vi": "Sử dụng cảm biến để kiểm tra mạch điện",
     "translator_note": ""
   },
   {
@@ -4911,7 +4911,6 @@
     "primary_key": "LevelPlay_169000009_ChildQuestTip_169_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4921,8 +4920,9 @@
     "ai_reason": "",
     "source_en": "Subdue the out-of-control Ironhoof",
     "review_note": "",
-    "new_translation_vi": "Kiềm chế Ironhoof mất kiểm soát",
-    "translator_note": ""
+    "new_translation_vi": "Khống chế Ironhoof đang mất kiểm soát",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009198",
@@ -4936,7 +4936,6 @@
     "primary_key": "LevelPlay_169000009_ChildQuestTip_169_13",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4946,8 +4945,9 @@
     "ai_reason": "",
     "source_en": "Subdue the out-of-control Ironhoof",
     "review_note": "",
-    "new_translation_vi": "Kiềm chế Ironhoof mất kiểm soát",
-    "translator_note": ""
+    "new_translation_vi": "Khống chế Ironhoof đang mất kiểm soát",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009199",
@@ -4971,7 +4971,7 @@
     "ai_reason": "",
     "source_en": "Interact with the student to begin the challenge",
     "review_note": "",
-    "new_translation_vi": "Tương tác với học sinh để bắt đầu thử thách",
+    "new_translation_vi": "Tương tác với học viên để bắt đầu thử thách",
     "translator_note": ""
   },
   {
@@ -4996,7 +4996,7 @@
     "ai_reason": "",
     "source_en": "Destroy the required number of destructibles before reaching the finish line",
     "review_note": "",
-    "new_translation_vi": "Phá hủy đủ số vật thể có thể phá hủy trước khi đến vạch đích",
+    "new_translation_vi": "Phá hủy số lượng vật thể yêu cầu trước khi đến đích",
     "translator_note": ""
   },
   {
@@ -5021,7 +5021,7 @@
     "ai_reason": "",
     "source_en": "Deliver the goods to the station",
     "review_note": "",
-    "new_translation_vi": "Deliver đến ga",
+    "new_translation_vi": "Giao hàng đến trạm",
     "translator_note": ""
   },
   {
@@ -5036,7 +5036,6 @@
     "primary_key": "LevelPlay_923700001_ChildQuestTip_923_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5046,8 +5045,9 @@
     "ai_reason": "",
     "source_en": "Mount the motorbike and deliver the parts to Zeon",
     "review_note": "",
-    "new_translation_vi": "Mount và giao linh kiện cho Zeon",
-    "translator_note": ""
+    "new_translation_vi": "Lên xe máy và giao linh kiện cho Zeon",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009203",
@@ -5071,7 +5071,7 @@
     "ai_reason": "",
     "source_en": "Board the platform",
     "review_note": "",
-    "new_translation_vi": "Lên bệ",
+    "new_translation_vi": "Lên bệ đỡ",
     "translator_note": ""
   },
   {
@@ -5096,7 +5096,7 @@
     "ai_reason": "",
     "source_en": "Board the platform",
     "review_note": "",
-    "new_translation_vi": "Lên bệ",
+    "new_translation_vi": "Lên bệ đỡ",
     "translator_note": ""
   },
   {
@@ -5121,7 +5121,7 @@
     "ai_reason": "",
     "source_en": "Board the platform",
     "review_note": "",
-    "new_translation_vi": "Lên bệ",
+    "new_translation_vi": "Lên bệ đỡ",
     "translator_note": ""
   },
   {
@@ -5146,7 +5146,7 @@
     "ai_reason": "",
     "source_en": "Board the platform",
     "review_note": "",
-    "new_translation_vi": "Lên bệ",
+    "new_translation_vi": "Lên bệ đỡ",
     "translator_note": ""
   },
   {
@@ -5171,7 +5171,7 @@
     "ai_reason": "",
     "source_en": "Board the platform",
     "review_note": "",
-    "new_translation_vi": "Lên bệ",
+    "new_translation_vi": "Lên bệ đỡ",
     "translator_note": ""
   },
   {
@@ -5196,7 +5196,7 @@
     "ai_reason": "",
     "source_en": "Board the platform",
     "review_note": "",
-    "new_translation_vi": "Lên bệ",
+    "new_translation_vi": "Lên bệ đỡ",
     "translator_note": ""
   },
   {
@@ -5221,7 +5221,7 @@
     "ai_reason": "",
     "source_en": "Board the platform",
     "review_note": "",
-    "new_translation_vi": "Lên bệ",
+    "new_translation_vi": "Lên bệ đỡ",
     "translator_note": ""
   },
   {
@@ -5246,7 +5246,7 @@
     "ai_reason": "",
     "source_en": "Claim Rewards",
     "review_note": "",
-    "new_translation_vi": "Nhận Phần Thưởng",
+    "new_translation_vi": "Nhận phần thưởng",
     "translator_note": ""
   },
   {
@@ -5271,7 +5271,7 @@
     "ai_reason": "",
     "source_en": "Exit the simulator",
     "review_note": "",
-    "new_translation_vi": "Exit trình mô phỏng",
+    "new_translation_vi": "Rời khỏi trình mô phỏng",
     "translator_note": ""
   },
   {
@@ -5296,7 +5296,7 @@
     "ai_reason": "",
     "source_en": "Exit the simulator",
     "review_note": "",
-    "new_translation_vi": "Exit trình mô phỏng",
+    "new_translation_vi": "Rời khỏi trình mô phỏng",
     "translator_note": ""
   },
   {
@@ -5321,7 +5321,7 @@
     "ai_reason": "",
     "source_en": "Investigate",
     "review_note": "",
-    "new_translation_vi": "Investigate",
+    "new_translation_vi": "Điều tra",
     "translator_note": ""
   },
   {
@@ -5371,7 +5371,7 @@
     "ai_reason": "",
     "source_en": "Examine the traces on the ground",
     "review_note": "",
-    "new_translation_vi": "Xem xét dấu vết trên mặt đất",
+    "new_translation_vi": "Kiểm tra dấu vết trên mặt đất",
     "translator_note": ""
   },
   {
@@ -5396,7 +5396,7 @@
     "ai_reason": "",
     "source_en": "Investigate the anomaly in the area",
     "review_note": "",
-    "new_translation_vi": "Điều tra hiện tượng bất thường trong khu vực",
+    "new_translation_vi": "Điều tra sự bất thường trong khu vực",
     "translator_note": ""
   },
   {
@@ -5411,7 +5411,6 @@
     "primary_key": "LevelPlay_692700013_ChildQuestTip_692_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5421,8 +5420,9 @@
     "ai_reason": "",
     "source_en": "Talk to Sobetto",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Sobetto",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Sobetto",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009218",
@@ -5446,7 +5446,7 @@
     "ai_reason": "",
     "source_en": "Use Projector: Geospider S4 to assist with the investigation",
     "review_note": "",
-    "new_translation_vi": "Sử dụng Projector: Geospider S4 hỗ trợ điều tra",
+    "new_translation_vi": "Sử dụng Projector: Geospider S4 để hỗ trợ điều tra",
     "translator_note": ""
   },
   {
@@ -5496,7 +5496,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -5546,7 +5546,7 @@
     "ai_reason": "",
     "source_en": "Ride along the track to the finish line",
     "review_note": "",
-    "new_translation_vi": "Đua dọc theo đường đua đến vạch đích",
+    "new_translation_vi": "Di chuyển dọc theo đường ray đến đích",
     "translator_note": ""
   },
   {
@@ -5571,7 +5571,7 @@
     "ai_reason": "",
     "source_en": "Ride along the track to the finish line",
     "review_note": "",
-    "new_translation_vi": "Đua dọc theo đường đua đến vạch đích",
+    "new_translation_vi": "Di chuyển dọc theo đường ray đến đích",
     "translator_note": ""
   },
   {
@@ -5596,7 +5596,7 @@
     "ai_reason": "",
     "source_en": "Ride along the track to the finish line",
     "review_note": "",
-    "new_translation_vi": "Đua dọc theo đường đua đến vạch đích",
+    "new_translation_vi": "Di chuyển dọc theo đường ray đến đích",
     "translator_note": ""
   },
   {
@@ -5621,7 +5621,7 @@
     "ai_reason": "",
     "source_en": "Ride along the track to the finish line",
     "review_note": "",
-    "new_translation_vi": "Đua dọc theo đường đua đến vạch đích",
+    "new_translation_vi": "Di chuyển dọc theo đường ray đến đích",
     "translator_note": ""
   },
   {
@@ -5646,7 +5646,7 @@
     "ai_reason": "",
     "source_en": "Ride along the track to the finish line",
     "review_note": "",
-    "new_translation_vi": "Đua dọc theo đường đua đến vạch đích",
+    "new_translation_vi": "Lái xe dọc theo đường đua đến vạch đích",
     "translator_note": ""
   },
   {
@@ -5671,7 +5671,7 @@
     "ai_reason": "",
     "source_en": "Ride along the track to the finish line",
     "review_note": "",
-    "new_translation_vi": "Đua dọc theo đường đua đến vạch đích",
+    "new_translation_vi": "Lái xe dọc theo đường đua đến vạch đích",
     "translator_note": ""
   },
   {
@@ -5696,7 +5696,7 @@
     "ai_reason": "",
     "source_en": "Ride along the track to the finish line",
     "review_note": "",
-    "new_translation_vi": "Đua dọc theo đường đua đến vạch đích",
+    "new_translation_vi": "Lái xe dọc theo đường đua đến vạch đích",
     "translator_note": ""
   },
   {
@@ -5721,7 +5721,7 @@
     "ai_reason": "",
     "source_en": "Ride along the track to the finish line",
     "review_note": "",
-    "new_translation_vi": "Đua dọc theo đường đua đến vạch đích",
+    "new_translation_vi": "Lái xe dọc theo đường đua đến vạch đích",
     "translator_note": ""
   },
   {
@@ -5746,7 +5746,7 @@
     "ai_reason": "",
     "source_en": "Ride along the track to the finish line",
     "review_note": "",
-    "new_translation_vi": "Đua dọc theo đường đua đến vạch đích",
+    "new_translation_vi": "Lái xe dọc theo đường đua đến vạch đích",
     "translator_note": ""
   },
   {
@@ -5771,7 +5771,7 @@
     "ai_reason": "",
     "source_en": "Ride along the track to the finish line",
     "review_note": "",
-    "new_translation_vi": "Đua dọc theo đường đua đến vạch đích",
+    "new_translation_vi": "Lái xe dọc theo đường đua đến vạch đích",
     "translator_note": ""
   },
   {
@@ -5796,7 +5796,7 @@
     "ai_reason": "",
     "source_en": "Ride along the track to the finish line",
     "review_note": "",
-    "new_translation_vi": "Đua dọc theo đường đua đến vạch đích",
+    "new_translation_vi": "Lái xe dọc theo đường đua đến vạch đích",
     "translator_note": ""
   },
   {
@@ -5821,7 +5821,7 @@
     "ai_reason": "",
     "source_en": "Jump onto the track",
     "review_note": "",
-    "new_translation_vi": "Nhảy lên đường ray",
+    "new_translation_vi": "Nhảy lên đường đua",
     "translator_note": ""
   },
   {
@@ -5846,7 +5846,7 @@
     "ai_reason": "",
     "source_en": "Ride along the track to the finish line",
     "review_note": "",
-    "new_translation_vi": "Đua dọc theo đường đua đến vạch đích",
+    "new_translation_vi": "Lái xe dọc theo đường đua đến vạch đích",
     "translator_note": ""
   },
   {
@@ -5871,7 +5871,7 @@
     "ai_reason": "",
     "source_en": "Ride along the track to the finish line",
     "review_note": "",
-    "new_translation_vi": "Đua dọc theo đường đua đến vạch đích",
+    "new_translation_vi": "Lái xe dọc theo đường đua đến vạch đích",
     "translator_note": ""
   },
   {
@@ -5896,7 +5896,7 @@
     "ai_reason": "",
     "source_en": "Ride along the track to the finish line",
     "review_note": "",
-    "new_translation_vi": "Đua dọc theo đường đua đến vạch đích",
+    "new_translation_vi": "Lái xe dọc theo đường đua đến vạch đích",
     "translator_note": ""
   },
   {
@@ -5921,7 +5921,7 @@
     "ai_reason": "",
     "source_en": "Ride along the track to the finish line",
     "review_note": "",
-    "new_translation_vi": "Đua dọc theo đường đua đến vạch đích",
+    "new_translation_vi": "Lái xe dọc theo đường đua đến vạch đích",
     "translator_note": ""
   },
   {
@@ -5946,7 +5946,7 @@
     "ai_reason": "",
     "source_en": "Ride along the track to the finish line",
     "review_note": "",
-    "new_translation_vi": "Đua dọc theo đường đua đến vạch đích",
+    "new_translation_vi": "Lái xe dọc theo đường đua đến vạch đích",
     "translator_note": ""
   },
   {
@@ -5971,7 +5971,7 @@
     "ai_reason": "",
     "source_en": "Find the hidden musical note",
     "review_note": "",
-    "new_translation_vi": "Tìm nốt nhạc ẩn",
+    "new_translation_vi": "Tìm nốt nhạc ẩn giấu",
     "translator_note": ""
   },
   {
@@ -5986,7 +5986,6 @@
     "primary_key": "LevelPlay_146000065_ChildQuestTip_146_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5996,8 +5995,9 @@
     "ai_reason": "",
     "source_en": "Talk to Lynae",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Lynae",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Lynae",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009241",
@@ -6121,7 +6121,7 @@
     "ai_reason": "",
     "source_en": "Continue forward along the fallen tree trunk",
     "review_note": "",
-    "new_translation_vi": "Tiến về phía trước dọc thân cây đổ",
+    "new_translation_vi": "Tiếp tục đi dọc theo thân cây đổ",
     "translator_note": ""
   },
   {
@@ -6146,7 +6146,7 @@
     "ai_reason": "",
     "source_en": "Pull the wooden crate to break the ice spike",
     "review_note": "",
-    "new_translation_vi": "Kéo thùng gỗ để đập vỡ mũi băng nhọn",
+    "new_translation_vi": "Kéo thùng gỗ để phá vỡ gai băng",
     "translator_note": ""
   },
   {
@@ -6171,7 +6171,7 @@
     "ai_reason": "",
     "source_en": "Use the airflow to go up",
     "review_note": "",
-    "new_translation_vi": "Dùng luồng khí để bay lên",
+    "new_translation_vi": "Sử dụng luồng khí để đi lên",
     "translator_note": ""
   },
   {
@@ -6221,7 +6221,7 @@
     "ai_reason": "",
     "source_en": "Use the airflow to go up",
     "review_note": "",
-    "new_translation_vi": "Dùng luồng khí để bay lên",
+    "new_translation_vi": "Sử dụng luồng khí để đi lên",
     "translator_note": ""
   },
   {
@@ -6246,7 +6246,7 @@
     "ai_reason": "",
     "source_en": "Stand on the wooden crate and slide",
     "review_note": "",
-    "new_translation_vi": "Stand lên thùng gỗ và trượt đi",
+    "new_translation_vi": "Đứng lên thùng gỗ và trượt đi",
     "translator_note": ""
   },
   {
@@ -6371,7 +6371,7 @@
     "ai_reason": "",
     "source_en": "Investigate the plants along the path",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra những cây dọc lối đi",
+    "new_translation_vi": "Điều tra các loại cây dọc theo con đường",
     "translator_note": ""
   },
   {
@@ -6471,7 +6471,7 @@
     "ai_reason": "",
     "source_en": "Approach the giant tree",
     "review_note": "",
-    "new_translation_vi": "Tiến đến cây khổng lồ",
+    "new_translation_vi": "Tiến lại gần cái cây khổng lồ",
     "translator_note": ""
   },
   {
@@ -6521,7 +6521,7 @@
     "ai_reason": "",
     "source_en": "Activate the Lumescribe Component (attack or Hoverdroid)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Bộ phận Lumescribe (tấn công hoặc Hoverdroid)",
+    "new_translation_vi": "Kích hoạt Lumescribe Component (tấn công hoặc dùng Hoverdroid)",
     "translator_note": ""
   },
   {
@@ -6546,7 +6546,7 @@
     "ai_reason": "",
     "source_en": "Move the Lumescribe Component",
     "review_note": "",
-    "new_translation_vi": "Di chuyển Bộ phận Lumescribe",
+    "new_translation_vi": "Di chuyển Lumescribe Component",
     "translator_note": ""
   },
   {
@@ -6571,7 +6571,7 @@
     "ai_reason": "",
     "source_en": "Move the Lumescribe Component",
     "review_note": "",
-    "new_translation_vi": "Di chuyển Bộ phận Lumescribe",
+    "new_translation_vi": "Di chuyển Lumescribe Component",
     "translator_note": ""
   },
   {
@@ -6596,7 +6596,7 @@
     "ai_reason": "",
     "source_en": "Activate the next Lumescribe Component (attack or Hoverdroid shot)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Component Lumescribe tiếp theo (tấn công hoặc bắn Hoverdroid)",
+    "new_translation_vi": "Kích hoạt Lumescribe Component tiếp theo (tấn công hoặc bắn bằng Hoverdroid)",
     "translator_note": ""
   },
   {
@@ -6621,7 +6621,7 @@
     "ai_reason": "",
     "source_en": "Move the Lumescribe Component to illuminate the next one",
     "review_note": "",
-    "new_translation_vi": "Di chuyển Bộ Phát Quang Lumescribe để chiếu sáng mục tiếp theo",
+    "new_translation_vi": "Di chuyển Lumescribe Component để chiếu sáng thành phần tiếp theo",
     "translator_note": ""
   },
   {
@@ -6646,7 +6646,7 @@
     "ai_reason": "",
     "source_en": "Move the Lumescribe Component to disperse the contaminants",
     "review_note": "",
-    "new_translation_vi": "Move the Lumescribe Component để phân tán các chất gây ô nhiễm",
+    "new_translation_vi": "Di chuyển Lumescribe Component để xua tan các chất ô nhiễm",
     "translator_note": ""
   },
   {
@@ -6671,7 +6671,7 @@
     "ai_reason": "",
     "source_en": "Break obstacles",
     "review_note": "",
-    "new_translation_vi": "Phá bỏ chướng ngại vật",
+    "new_translation_vi": "Phá vỡ các chướng ngại vật",
     "translator_note": ""
   },
   {
@@ -6696,7 +6696,7 @@
     "ai_reason": "",
     "source_en": "Activate the Lumescribe Component (attack or Hoverdroid)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Bộ phận Lumescribe (tấn công hoặc Hoverdroid)",
+    "new_translation_vi": "Kích hoạt Lumescribe Component (tấn công hoặc dùng Hoverdroid)",
     "translator_note": ""
   },
   {
@@ -6721,7 +6721,7 @@
     "ai_reason": "",
     "source_en": "Move the Lumescribe Component to illuminate the other components",
     "review_note": "",
-    "new_translation_vi": "Di chuyển Bộ Phát Quang Lumescribe để chiếu sáng các mục còn lại",
+    "new_translation_vi": "Di chuyển Lumescribe Component để chiếu sáng các thành phần khác",
     "translator_note": ""
   },
   {
@@ -6746,7 +6746,7 @@
     "ai_reason": "",
     "source_en": "Move the Lumescribe Component to illuminate the next one",
     "review_note": "",
-    "new_translation_vi": "Di chuyển Bộ Phát Quang Lumescribe để chiếu sáng mục tiếp theo",
+    "new_translation_vi": "Di chuyển Lumescribe Component để chiếu sáng thành phần tiếp theo",
     "translator_note": ""
   },
   {
@@ -6771,7 +6771,7 @@
     "ai_reason": "",
     "source_en": "Find a way to rekindle the Lumescribe Component",
     "review_note": "",
-    "new_translation_vi": "Tìm cách kích hoạt lại Bộ phận Lumescribe",
+    "new_translation_vi": "Tìm cách thắp sáng lại Lumescribe Component",
     "translator_note": ""
   },
   {
@@ -6796,7 +6796,7 @@
     "ai_reason": "",
     "source_en": "Move the Lumescribe Component to clear the last contaminant",
     "review_note": "",
-    "new_translation_vi": "Move the Lumescribe Component để loại bỏ chất gây ô nhiễm cuối cùng",
+    "new_translation_vi": "Di chuyển Lumescribe Component để dọn sạch chất ô nhiễm cuối cùng",
     "translator_note": ""
   },
   {
@@ -6811,7 +6811,6 @@
     "primary_key": "LevelPlay_692850014_ChildQuestTip_692_29",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6821,8 +6820,9 @@
     "ai_reason": "",
     "source_en": "Defeat the Threnodian creations summoned by the Voidwing Moth",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt những tạo vật Threnodian do Voidwing Moth triệu hồi",
-    "translator_note": ""
+    "new_translation_vi": "Đánh bại các tạo vật Threnodian do Voidwing Moth triệu hồi",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009274",
@@ -6846,7 +6846,7 @@
     "ai_reason": "",
     "source_en": "Move the Lumescribe Component to illuminate the next one",
     "review_note": "",
-    "new_translation_vi": "Di chuyển Bộ Phát Quang Lumescribe để chiếu sáng mục tiếp theo",
+    "new_translation_vi": "Di chuyển Lumescribe Component để chiếu sáng thành phần tiếp theo",
     "translator_note": ""
   },
   {
@@ -6871,7 +6871,7 @@
     "ai_reason": "",
     "source_en": "Defeat the incoming enemies",
     "review_note": "",
-    "new_translation_vi": "Đánh bại kẻ địch đang đến",
+    "new_translation_vi": "Đánh bại kẻ địch đang tiến đến",
     "translator_note": ""
   },
   {
@@ -6896,7 +6896,7 @@
     "ai_reason": "",
     "source_en": "Activate the Lumescribe Component (attack or Hoverdroid)",
     "review_note": "",
-    "new_translation_vi": "Kích hoạt Bộ phận Lumescribe (tấn công hoặc Hoverdroid)",
+    "new_translation_vi": "Kích hoạt Lumescribe Component (tấn công hoặc dùng Hoverdroid)",
     "translator_note": ""
   },
   {
@@ -6921,7 +6921,7 @@
     "ai_reason": "",
     "source_en": "Move the Lumescribe Component to disperse the contaminants",
     "review_note": "",
-    "new_translation_vi": "Move the Lumescribe Component để phân tán các chất gây ô nhiễm",
+    "new_translation_vi": "Di chuyển Lumescribe Component để xua tan các chất ô nhiễm",
     "translator_note": ""
   },
   {
@@ -6946,7 +6946,7 @@
     "ai_reason": "",
     "source_en": "Move the Lumescribe Component to disperse the contaminants",
     "review_note": "",
-    "new_translation_vi": "Move the Lumescribe Component để phân tán các chất gây ô nhiễm",
+    "new_translation_vi": "Di chuyển Lumescribe Component để xua tan các chất ô nhiễm",
     "translator_note": ""
   },
   {
@@ -6971,7 +6971,7 @@
     "ai_reason": "",
     "source_en": "Move the Lumescribe Component to disperse the contaminants",
     "review_note": "",
-    "new_translation_vi": "Move the Lumescribe Component để phân tán các chất gây ô nhiễm",
+    "new_translation_vi": "Di chuyển Lumescribe Component để xua tan các chất ô nhiễm",
     "translator_note": ""
   },
   {
@@ -6996,7 +6996,7 @@
     "ai_reason": "",
     "source_en": "Defeat the incoming enemies",
     "review_note": "",
-    "new_translation_vi": "Đánh bại kẻ địch đang đến",
+    "new_translation_vi": "Đánh bại kẻ địch đang tiến đến",
     "translator_note": ""
   },
   {
@@ -7021,7 +7021,7 @@
     "ai_reason": "",
     "source_en": "Restart the Reactor Drive Prototype",
     "review_note": "",
-    "new_translation_vi": "Restart Mẫu Động Cơ Phản Ứng",
+    "new_translation_vi": "Khởi động lại Reactor Drive Prototype",
     "translator_note": ""
   },
   {
@@ -7046,7 +7046,7 @@
     "ai_reason": "",
     "source_en": "Approach the chair under the tree",
     "review_note": "",
-    "new_translation_vi": "Tiến đến chiếc ghế dưới gốc cây",
+    "new_translation_vi": "Tiến lại gần chiếc ghế dưới gốc cây",
     "translator_note": ""
   },
   {
@@ -7071,7 +7071,7 @@
     "ai_reason": "",
     "source_en": "Cher has something more to say to you",
     "review_note": "",
-    "new_translation_vi": "Cher còn muốn nói thêm điều gì đó với cậu",
+    "new_translation_vi": "Cher có điều muốn nói với bạn",
     "translator_note": ""
   },
   {
@@ -7096,7 +7096,7 @@
     "ai_reason": "",
     "source_en": "Take a look underground when you've got time",
     "review_note": "",
-    "new_translation_vi": "Khi nào rảnh thì xuống dưới lòng đất xem thử đi",
+    "new_translation_vi": "Hãy ghé thăm khu vực dưới lòng đất khi có thời gian",
     "translator_note": ""
   },
   {
@@ -7121,7 +7121,7 @@
     "ai_reason": "",
     "source_en": "Take a look underground when you've got time",
     "review_note": "",
-    "new_translation_vi": "Khi nào rảnh thì xuống dưới lòng đất xem thử đi",
+    "new_translation_vi": "Hãy ghé thăm khu vực dưới lòng đất khi có thời gian",
     "translator_note": ""
   },
   {
@@ -7146,7 +7146,7 @@
     "ai_reason": "",
     "source_en": "Ride the Aurora Kronaclaw",
     "review_note": "",
-    "new_translation_vi": "Ride Aurora Kronaclaw",
+    "new_translation_vi": "Cưỡi Aurora Kronaclaw",
     "translator_note": ""
   },
   {
@@ -7161,7 +7161,6 @@
     "primary_key": "Quest_162700000_ChildQuestTip_162_19",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7171,8 +7170,9 @@
     "ai_reason": "",
     "source_en": "Talk to Levito",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Levito",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Levito",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009288",
@@ -7196,7 +7196,7 @@
     "ai_reason": "",
     "source_en": "Complete the Whimpering Wastes challenge once",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành thử thách tại Whimpering Wastes một lần",
+    "new_translation_vi": "Hoàn thành thử thách Whimpering Wastes một lần",
     "translator_note": ""
   },
   {
@@ -7246,7 +7246,7 @@
     "ai_reason": "",
     "source_en": "The ominous sound drifting from the fog lures the lost seafarers, drawing them into the land of death where Tacet Discords run wild.",
     "review_note": "",
-    "new_translation_vi": "Âm thanh ma quái từ sương mù dụ dỗ những thủy thủ lạc lối, kéo họ vào vùng đất chết chóc nơi Tacet Discord hoành hành.",
+    "new_translation_vi": "Âm thanh đáng ngại trôi dạt từ màn sương dụ dỗ những thủy thủ lạc lối, kéo họ vào vùng đất chết nơi các Tacet Discord hoành hành.",
     "translator_note": ""
   },
   {
@@ -7271,7 +7271,7 @@
     "ai_reason": "",
     "source_en": "Ocean Is a Soul's Rest",
     "review_note": "",
-    "new_translation_vi": "Ocean - Nơi Linh Hồn Nghỉ Yên",
+    "new_translation_vi": "Ocean Is a Soul's Rest",
     "translator_note": ""
   },
   {
@@ -7286,7 +7286,6 @@
     "primary_key": "Quest_162700001_ChildQuestTip_162_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7296,8 +7295,9 @@
     "ai_reason": "",
     "source_en": "Talk to Levito",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Levito",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Levito",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009293",
@@ -7321,7 +7321,7 @@
     "ai_reason": "",
     "source_en": "The ominous sound drifting from the fog lures the lost seafarers, drawing them into the land of death where Tacet Discords run wild.",
     "review_note": "",
-    "new_translation_vi": "Âm thanh ma quái từ sương mù dụ dỗ những thủy thủ lạc lối, kéo họ vào vùng đất chết chóc nơi Tacet Discord hoành hành.",
+    "new_translation_vi": "Âm thanh đáng ngại trôi dạt từ màn sương dụ dỗ những thủy thủ lạc lối, kéo họ vào vùng đất chết nơi các Tacet Discord hoành hành.",
     "translator_note": ""
   },
   {
@@ -7346,7 +7346,7 @@
     "ai_reason": "",
     "source_en": "Ocean Is a Soul's Rest",
     "review_note": "",
-    "new_translation_vi": "Ocean - Nơi Linh Hồn Nghỉ Yên",
+    "new_translation_vi": "Ocean Is a Soul's Rest",
     "translator_note": ""
   },
   {
@@ -7396,7 +7396,7 @@
     "ai_reason": "",
     "source_en": "Find the Gondolier to prepare for the voyage to the Riccioli Islands",
     "review_note": "",
-    "new_translation_vi": "Tìm Gondolier để chuẩn bị cho chuyến đi đến Riccioli Islands",
+    "new_translation_vi": "Tìm người lái đò để chuẩn bị cho chuyến đi đến Riccioli Islands",
     "translator_note": ""
   },
   {
@@ -7419,9 +7419,9 @@
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
-    "source_en": "Tìm kiếm thuyền trưởng cũ, \"Ahab\"",
+    "source_en": "Search for the former captain, \"Ahab\"",
     "review_note": "",
-    "new_translation_vi": "Tìm kiếm thuyền trưởng cũ, \"Ahab\"...",
+    "new_translation_vi": "Tìm kiếm cựu thuyền trưởng \"Ahab\"",
     "translator_note": ""
   },
   {
@@ -7446,7 +7446,7 @@
     "ai_reason": "",
     "source_en": "Visit the market in Riccioli Port",
     "review_note": "",
-    "new_translation_vi": "Ghé chợ ở Cảng Riccioli đi",
+    "new_translation_vi": "Ghé thăm khu chợ ở Riccioli Port",
     "translator_note": ""
   },
   {
@@ -7461,7 +7461,6 @@
     "primary_key": "Quest_880000034_ChildQuestTip_880_56",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7471,8 +7470,9 @@
     "ai_reason": "",
     "source_en": "Speak with Planck and get ready to set sail",
     "review_note": "",
-    "new_translation_vi": "Speak chuyện với Planck và chuẩn bị ra khơi.",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Planck và chuẩn bị ra khơi",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009300",
@@ -7496,7 +7496,7 @@
     "ai_reason": "",
     "source_en": "With the fish back in the net, go chat with Ahab",
     "review_note": "",
-    "new_translation_vi": "Cá đã vào lưới rồi, đi nói chuyện với Ahab thôi.",
+    "new_translation_vi": "Sau khi lấy lại được cá trong lưới, hãy trò chuyện với Ahab",
     "translator_note": ""
   },
   {
@@ -7511,7 +7511,6 @@
     "primary_key": "Quest_880000034_ChildQuestTip_880_74",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7521,8 +7520,9 @@
     "ai_reason": "",
     "source_en": "Speak to Planck to upgrade the ship's technology",
     "review_note": "",
-    "new_translation_vi": "Speak chuyện với Planck để nâng cấp công nghệ tàu.",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Planck để nâng cấp công nghệ cho con tàu",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009302",
@@ -7546,7 +7546,7 @@
     "ai_reason": "",
     "source_en": "Talk with the fisherman",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với ngư dân",
+    "new_translation_vi": "Trò chuyện với ngư dân",
     "translator_note": ""
   },
   {
@@ -7571,7 +7571,7 @@
     "ai_reason": "",
     "source_en": "Talk with the Gondolier",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Gondolier",
+    "new_translation_vi": "Trò chuyện với người lái đò",
     "translator_note": ""
   },
   {
@@ -7596,7 +7596,7 @@
     "ai_reason": "",
     "source_en": "Speak with Ahab",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Ahab",
+    "new_translation_vi": "Trò chuyện với Ahab",
     "translator_note": ""
   },
   {
@@ -7621,7 +7621,7 @@
     "ai_reason": "",
     "source_en": "Phoebe is currently in another quest. You cannot continue the quest yet.",
     "review_note": "",
-    "new_translation_vi": "Phoebe hiện đang làm nhiệm vụ khác. Bạn chưa thể tiếp tục nhiệm vụ này.",
+    "new_translation_vi": "Phoebe hiện đang thực hiện nhiệm vụ khác. Bạn chưa thể tiếp tục nhiệm vụ này.",
     "translator_note": ""
   },
   {
@@ -7636,7 +7636,6 @@
     "primary_key": "Quest_880000034_QuestDesc_880_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7646,8 +7645,9 @@
     "ai_reason": "",
     "source_en": "Sunshine, beach, ocean… and fish! Rinascita, surrounded entirely by the sea, thrives on its love for fishing. A young man named Ishmael will guide you to the Riccioli Islands, a fishing paradise like no other...",
     "review_note": "",
-    "new_translation_vi": "Ánh nắng, bãi biển, đại dương... và cá! Rinascita, vùng đất bao bọc bởi biển cả, sống và thở bằng niềm đam mê câu cá. Một chàng trai tên Ishmael sẽ dẫn dắt các cậu đến quần đảo Riccioli - thiên đường câu cá không nơi nào sánh bằng...",
-    "translator_note": ""
+    "new_translation_vi": "Nắng, bãi biển, đại dương… và cá! Rinascita, nơi được bao quanh hoàn toàn bởi biển cả, phát triển nhờ niềm đam mê câu cá. Một chàng trai trẻ tên Ishmael sẽ dẫn bạn đến quần đảo Riccioli, một thiên đường câu cá không nơi nào sánh bằng...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009307",
@@ -7671,7 +7671,7 @@
     "ai_reason": "",
     "source_en": "Set Sail! Pro Angler!",
     "review_note": "",
-    "new_translation_vi": "Căng buồm! Ngư phủ chuyên nghiệp!",
+    "new_translation_vi": "Ra khơi! Cần thủ chuyên nghiệp!",
     "translator_note": ""
   },
   {
@@ -7696,7 +7696,7 @@
     "ai_reason": "",
     "source_en": "Complete fishing requests",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành yêu cầu câu cá",
+    "new_translation_vi": "Hoàn thành các yêu cầu câu cá",
     "translator_note": ""
   },
   {
@@ -7721,7 +7721,7 @@
     "ai_reason": "",
     "source_en": "Complete Priority Request \"Ahab's Request: First Test\"",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Priority Request \"Lệnh Ahab: Bài Kiểm Tra Đầu Tiên\"",
+    "new_translation_vi": "Hoàn thành Yêu cầu Ưu tiên \"Ahab's Request: First Test\"",
     "translator_note": ""
   },
   {
@@ -7746,7 +7746,7 @@
     "ai_reason": "",
     "source_en": "Head to the marked Fishing Spot",
     "review_note": "",
-    "new_translation_vi": "Đến Điểm Fishing đã đánh dấu",
+    "new_translation_vi": "Đi đến Điểm câu cá được đánh dấu",
     "translator_note": ""
   },
   {
@@ -7771,7 +7771,7 @@
     "ai_reason": "",
     "source_en": "Complete Priority Request \"Ahab's Request: Catch the Big Fish\"",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Priority Request \"Lệnh Ahab: Bắt Con Cá Lớn\"",
+    "new_translation_vi": "Hoàn thành Yêu cầu Ưu tiên \"Ahab's Request: Catch the Big Fish\"",
     "translator_note": ""
   },
   {
@@ -7821,7 +7821,7 @@
     "ai_reason": "",
     "source_en": "Find a shipwright to learn more about the large ship",
     "review_note": "",
-    "new_translation_vi": "Tìm một thợ đóng tàu để tìm hiểu thêm về con tàu lớn",
+    "new_translation_vi": "Tìm thợ đóng tàu để tìm hiểu thêm về con tàu lớn",
     "translator_note": ""
   },
   {
@@ -7846,7 +7846,7 @@
     "ai_reason": "",
     "source_en": "Travel to Helm Village",
     "review_note": "",
-    "new_translation_vi": "Đến Helm Village",
+    "new_translation_vi": "Đến Làng Helm",
     "translator_note": ""
   },
   {
@@ -7896,7 +7896,7 @@
     "ai_reason": "",
     "source_en": "Head back to Helm Village and find Starbuck",
     "review_note": "",
-    "new_translation_vi": "Quay về Helm Village và tìm Starbuck",
+    "new_translation_vi": "Quay lại Làng Helm và tìm Starbuck",
     "translator_note": ""
   },
   {
@@ -7921,7 +7921,7 @@
     "ai_reason": "",
     "source_en": "Use the key to light up the lighthouse in Helm Village",
     "review_note": "",
-    "new_translation_vi": "Dùng chìa khóa thắp sáng ngọn hải đăng ở Helm Village",
+    "new_translation_vi": "Sử dụng chìa khóa để thắp sáng ngọn hải đăng ở Làng Helm",
     "translator_note": ""
   },
   {
@@ -7946,7 +7946,7 @@
     "ai_reason": "",
     "source_en": "Go to the dock, prepare for departure, and travel to Helm Village",
     "review_note": "",
-    "new_translation_vi": "Ra bến tàu, chuẩn bị khởi hành và đến Helm Village",
+    "new_translation_vi": "Đến bến tàu, chuẩn bị khởi hành và đi đến Làng Helm",
     "translator_note": ""
   },
   {
@@ -7971,7 +7971,7 @@
     "ai_reason": "",
     "source_en": "Set sail from the dock and find the abandoned gondola",
     "review_note": "",
-    "new_translation_vi": "Giương buồm rời bến và tìm chiếc thuyền gondola bị bỏ hoang",
+    "new_translation_vi": "Ra khơi từ bến tàu và tìm chiếc thuyền gondola bị bỏ hoang",
     "translator_note": ""
   },
   {
@@ -7996,7 +7996,7 @@
     "ai_reason": "",
     "source_en": "Go to the location where the Gondola is trapped",
     "review_note": "",
-    "new_translation_vi": "Đến nơi Gondola bị mắc kẹt",
+    "new_translation_vi": "Đi đến vị trí chiếc Gondola đang bị mắc kẹt",
     "translator_note": ""
   },
   {
@@ -8021,7 +8021,7 @@
     "ai_reason": "",
     "source_en": "Set sail and catch big fish for trading",
     "review_note": "",
-    "new_translation_vi": "Giương buồm và bắt cá lớn để trao đổi",
+    "new_translation_vi": "Ra khơi và bắt cá lớn để giao dịch",
     "translator_note": ""
   },
   {
@@ -8046,7 +8046,7 @@
     "ai_reason": "",
     "source_en": "Fish for large catches at designated Fishing Spot",
     "review_note": "",
-    "new_translation_vi": "Câu mẻ lớn tại Điểm Fishing chỉ định",
+    "new_translation_vi": "Câu những con cá lớn tại Điểm câu cá được chỉ định",
     "translator_note": ""
   },
   {
@@ -8071,7 +8071,7 @@
     "ai_reason": "",
     "source_en": "Complete Requests to increase your Fame to Level 3 or above",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Requests để tăng Fame lên Cấp 3 trở lên",
+    "new_translation_vi": "Hoàn thành các Yêu cầu để tăng Danh tiếng lên Cấp 3 trở lên",
     "translator_note": ""
   },
   {
@@ -8096,7 +8096,7 @@
     "ai_reason": "",
     "source_en": "Complete Requests or update the Index to increase your Fame to Level 3 or above",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Requests hoặc cập nhật Chỉ Số để tăng Fame lên Cấp 3 trở lên",
+    "new_translation_vi": "Hoàn thành các Yêu cầu hoặc cập nhật Chỉ mục để tăng Danh tiếng lên Cấp 3 trở lên",
     "translator_note": ""
   },
   {
@@ -8121,7 +8121,7 @@
     "ai_reason": "",
     "source_en": "Clear the rubble and free the Gondola",
     "review_note": "",
-    "new_translation_vi": "Dọn đống đổ nát và giải phóng Gondola",
+    "new_translation_vi": "Dọn dẹp đống đổ nát và giải cứu chiếc Gondola",
     "translator_note": ""
   },
   {
@@ -8136,7 +8136,6 @@
     "primary_key": "Quest_880000036_ChildQuestTip_880_37",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8146,8 +8145,9 @@
     "ai_reason": "",
     "source_en": "Hand over logs and materials to Queequeg",
     "review_note": "",
-    "new_translation_vi": "Giao sổ ghi chép và vật liệu cho Queequeg",
-    "translator_note": ""
+    "new_translation_vi": "Giao gỗ và vật liệu cho Queequeg",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009327",
@@ -8171,7 +8171,7 @@
     "ai_reason": "",
     "source_en": "Head to the dock and get ready to depart",
     "review_note": "",
-    "new_translation_vi": "Head to the dock và chuẩn bị khởi hành",
+    "new_translation_vi": "Đến bến tàu và chuẩn bị khởi hành",
     "translator_note": ""
   },
   {
@@ -8196,7 +8196,7 @@
     "ai_reason": "",
     "source_en": "Wait for the evening (or adjust the time to 19:00-05:00)",
     "review_note": "",
-    "new_translation_vi": "Chờ đến tối (hoặc chỉnh giờ từ 19:00 đến 05:00)",
+    "new_translation_vi": "Đợi đến tối (hoặc điều chỉnh thời gian từ 19:00-05:00)",
     "translator_note": ""
   },
   {
@@ -8221,7 +8221,7 @@
     "ai_reason": "",
     "source_en": "Set sail and complete all Priority Requests",
     "review_note": "",
-    "new_translation_vi": "Giương buồm và hoàn thành tất cả Priority Request",
+    "new_translation_vi": "Ra khơi và hoàn thành tất cả các Yêu cầu Ưu tiên",
     "translator_note": ""
   },
   {
@@ -8246,7 +8246,7 @@
     "ai_reason": "",
     "source_en": "Completed all Priority Requests",
     "review_note": "",
-    "new_translation_vi": "Completed tất cả Yêu cầu Ưu tiên",
+    "new_translation_vi": "Đã hoàn thành tất cả các Yêu cầu Ưu tiên",
     "translator_note": ""
   },
   {
@@ -8271,7 +8271,7 @@
     "ai_reason": "",
     "source_en": "Complete Requests or update the Index to increase your Fame to Level 6 or above",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Requests hoặc cập nhật Chỉ Số để tăng Fame lên Cấp 6 trở lên",
+    "new_translation_vi": "Hoàn thành các Yêu cầu hoặc cập nhật Chỉ mục để tăng Danh tiếng lên Cấp 6 trở lên",
     "translator_note": ""
   },
   {
@@ -8296,7 +8296,7 @@
     "ai_reason": "",
     "source_en": "Complete Requests or update the Index to increase your Fame to Level 6 or above",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Requests hoặc cập nhật Chỉ Số để tăng Fame lên Cấp 6 trở lên",
+    "new_translation_vi": "Hoàn thành các Yêu cầu hoặc cập nhật Chỉ mục để tăng Danh tiếng lên Cấp 6 trở lên",
     "translator_note": ""
   },
   {
@@ -8321,7 +8321,7 @@
     "ai_reason": "",
     "source_en": "Insert the key",
     "review_note": "",
-    "new_translation_vi": "Insert chìa khóa",
+    "new_translation_vi": "Cắm chìa khóa vào",
     "translator_note": ""
   },
   {
@@ -8346,7 +8346,7 @@
     "ai_reason": "",
     "source_en": "What would you like to give me?",
     "review_note": "",
-    "new_translation_vi": "Cậu muốn tặng ta thứ gì?",
+    "new_translation_vi": "Bạn muốn đưa cho tôi thứ gì?",
     "translator_note": ""
   },
   {
@@ -8371,7 +8371,7 @@
     "ai_reason": "",
     "source_en": "Put in the \"Sweet Puff\"",
     "review_note": "",
-    "new_translation_vi": "Bỏ \"Sweet Puff\" vào",
+    "new_translation_vi": "Đặt \"Sweet Puff\" vào",
     "translator_note": ""
   },
   {
@@ -8396,7 +8396,7 @@
     "ai_reason": "",
     "source_en": "Speak with Ahab",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Ahab",
+    "new_translation_vi": "Trò chuyện với Ahab",
     "translator_note": ""
   },
   {
@@ -8421,7 +8421,7 @@
     "ai_reason": "",
     "source_en": "Talk to the shipwright",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với thợ đóng tàu",
+    "new_translation_vi": "Trò chuyện với thợ đóng tàu",
     "translator_note": ""
   },
   {
@@ -8446,7 +8446,7 @@
     "ai_reason": "",
     "source_en": "Insert the key",
     "review_note": "",
-    "new_translation_vi": "Insert chìa khóa",
+    "new_translation_vi": "Cắm chìa khóa vào",
     "translator_note": ""
   },
   {
@@ -8471,7 +8471,7 @@
     "ai_reason": "",
     "source_en": "Put in the \"Sweet Puff\"",
     "review_note": "",
-    "new_translation_vi": "Bỏ \"Sweet Puff\" vào",
+    "new_translation_vi": "Đặt \"Sweet Puff\" vào",
     "translator_note": ""
   },
   {
@@ -8496,7 +8496,7 @@
     "ai_reason": "",
     "source_en": "Phoebe is currently in another quest. You cannot continue the quest yet.",
     "review_note": "",
-    "new_translation_vi": "Phoebe hiện đang làm nhiệm vụ khác. Bạn chưa thể tiếp tục nhiệm vụ này.",
+    "new_translation_vi": "Phoebe hiện đang thực hiện nhiệm vụ khác. Bạn chưa thể tiếp tục nhiệm vụ này.",
     "translator_note": ""
   },
   {
@@ -8546,7 +8546,7 @@
     "ai_reason": "",
     "source_en": "A sailor named Starbuck has fallen into mental turmoil—rumor has it, a fish drove him to this state...",
     "review_note": "",
-    "new_translation_vi": "Một thủy thủ tên Starbuck đã rơi vào trạng thái hỗn loạn tinh thần—tin đồn nói rằng một con cá đã đẩy hắn đến bước đường này...",
+    "new_translation_vi": "Một thủy thủ tên Starbuck đã rơi vào trạng thái bất ổn tinh thần—nghe đồn rằng, một con cá đã khiến anh ta ra nông nỗi này...",
     "translator_note": ""
   },
   {
@@ -8571,7 +8571,7 @@
     "ai_reason": "",
     "source_en": "Love in the Time of Fishing",
     "review_note": "",
-    "new_translation_vi": "Tình Yêu Thời Fishing",
+    "new_translation_vi": "Tình yêu thời câu cá",
     "translator_note": ""
   },
   {
@@ -8596,7 +8596,7 @@
     "ai_reason": "",
     "source_en": "Complete Priority Requests ({q_count}/5)",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Yêu cầu Ưu tiên ({q_count}/5)",
+    "new_translation_vi": "Hoàn thành các Yêu cầu Ưu tiên ({q_count}/5)",
     "translator_note": ""
   },
   {
@@ -8611,7 +8611,6 @@
     "primary_key": "Quest_880000036_QuestScheduleMainTitle_880_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8621,8 +8620,9 @@
     "ai_reason": "",
     "source_en": "Collect Palm Tree Logs and Riccioli Fishery Coins for Queequeg",
     "review_note": "",
-    "new_translation_vi": "Thu thập Gỗ Cây Cọ và Riccioli Fishery Coins cho Queequeg",
-    "translator_note": ""
+    "new_translation_vi": "Thu thập Gỗ Cọ và Xu Ngư nghiệp Riccioli cho Queequeg",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009346",
@@ -8636,7 +8636,6 @@
     "primary_key": "Quest_880000036_QuestScheduleSubTitle_880_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8646,8 +8645,9 @@
     "ai_reason": "",
     "source_en": "Completed Priority Request \"Airsailing Seadragon\"",
     "review_note": "",
-    "new_translation_vi": "Completed - Nhiệm Vụ Ưu Tiên \"Rồng Biển Lướt Gió\"",
-    "translator_note": ""
+    "new_translation_vi": "Đã hoàn thành Yêu cầu Ưu tiên \"Airsailing Seadragon\"",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009347",
@@ -8671,7 +8671,7 @@
     "ai_reason": "",
     "source_en": "Completed Priority Request \"The Cutting of the Gordian Knot\"",
     "review_note": "",
-    "new_translation_vi": "Completed - Nhiệm Vụ Ưu Tiên \"Chém Đứt Thắt Gordius\"",
+    "new_translation_vi": "Đã hoàn thành Yêu cầu Ưu tiên \"The Cutting of the Gordian Knot\"",
     "translator_note": ""
   },
   {
@@ -8696,7 +8696,7 @@
     "ai_reason": "",
     "source_en": "Completed Priority Request \"Cute Ocean Dwellers\"",
     "review_note": "",
-    "new_translation_vi": "Completed - Nhiệm Vụ Ưu Tiên \"Cư Dân Ocean Dễ Thương\"",
+    "new_translation_vi": "Đã hoàn thành Yêu cầu Ưu tiên \"Cute Ocean Dwellers\"",
     "translator_note": ""
   },
   {
@@ -8721,7 +8721,7 @@
     "ai_reason": "",
     "source_en": "Completed Priority Request \"Take a Giant Gulp\"",
     "review_note": "",
-    "new_translation_vi": "Completed - Nhiệm Vụ Ưu Tiên \"Hớp Một Ngụm Khổng Lồ\"",
+    "new_translation_vi": "Đã hoàn thành Yêu cầu Ưu tiên \"Take a Giant Gulp\"",
     "translator_note": ""
   },
   {
@@ -8746,7 +8746,7 @@
     "ai_reason": "",
     "source_en": "Completed Priority Request \"Prickly Pugilist\"",
     "review_note": "",
-    "new_translation_vi": "Completed - Nhiệm Vụ Ưu Tiên \"Võ Sĩ Gai Góc\"",
+    "new_translation_vi": "Đã hoàn thành Yêu cầu Ưu tiên \"Prickly Pugilist\"",
     "translator_note": ""
   },
   {
@@ -8771,7 +8771,7 @@
     "ai_reason": "",
     "source_en": "Gather 50 Palm Logs",
     "review_note": "",
-    "new_translation_vi": "Thu thập 50 khúc Gỗ Cọ",
+    "new_translation_vi": "Thu thập 50 Gỗ Cọ",
     "translator_note": ""
   },
   {
@@ -8796,7 +8796,7 @@
     "ai_reason": "",
     "source_en": "Earn 500 Riccioli Fishery Coins",
     "review_note": "",
-    "new_translation_vi": "Kiếm 500 Riccioli Fishery Coins",
+    "new_translation_vi": "Kiếm 500 Xu Ngư nghiệp Riccioli",
     "translator_note": ""
   },
   {
@@ -8811,7 +8811,6 @@
     "primary_key": "Quest_880000037_ChildQuestTip_880_6",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8821,8 +8820,9 @@
     "ai_reason": "",
     "source_en": "Find the dock in Serene Bay and ask Planck for details",
     "review_note": "",
-    "new_translation_vi": "Tìm bến tàu ở Serene Bay và hỏi Planck để biết chi tiết",
-    "translator_note": ""
+    "new_translation_vi": "Tìm bến tàu ở Vịnh Serene và hỏi Planck để biết chi tiết",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009354",
@@ -8846,7 +8846,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Tacet Discords",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Tacet Discords",
+    "new_translation_vi": "Tiêu diệt các Tacet Discord",
     "translator_note": ""
   },
   {
@@ -8871,7 +8871,7 @@
     "ai_reason": "",
     "source_en": "Light up the lighthouse in Serene Bay",
     "review_note": "",
-    "new_translation_vi": "Light up the lighthouse ở Serene Bay",
+    "new_translation_vi": "Thắp sáng ngọn hải đăng ở Vịnh Serene",
     "translator_note": ""
   },
   {
@@ -8921,7 +8921,7 @@
     "ai_reason": "",
     "source_en": "Prepare for departure at the dock and head to Serene Bay",
     "review_note": "",
-    "new_translation_vi": "Prepare xuất phát tại bến tàu và tiến về Serene Bay",
+    "new_translation_vi": "Chuẩn bị khởi hành tại bến tàu và đi đến Vịnh Serene",
     "translator_note": ""
   },
   {
@@ -8936,7 +8936,6 @@
     "primary_key": "Quest_880000037_ChildQuestTip_880_19",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8947,7 +8946,8 @@
     "source_en": "Complete Planck's mission request",
     "review_note": "",
     "new_translation_vi": "Hoàn thành yêu cầu nhiệm vụ của Planck",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009359",
@@ -8961,7 +8961,6 @@
     "primary_key": "Quest_880000037_ChildQuestTip_880_44",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8971,8 +8970,9 @@
     "ai_reason": "",
     "source_en": "You have obtained the ship blueprint. Go ask Queequeg about ship repairs",
     "review_note": "",
-    "new_translation_vi": "Bạn đã nhận được bản thiết kế tàu. Hãy đi hỏi Queequeg về việc sửa chữa tàu.",
-    "translator_note": ""
+    "new_translation_vi": "Bạn đã nhận được bản thiết kế tàu. Hãy hỏi Queequeg về việc sửa chữa tàu",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009360",
@@ -8996,7 +8996,7 @@
     "ai_reason": "",
     "source_en": "Set sail and catch Titanium Mackerel at the given location",
     "review_note": "",
-    "new_translation_vi": "Giương buồm và bắt Titanium Mackerel ở vị trí đã chỉ định",
+    "new_translation_vi": "Ra khơi và bắt Cá thu Titanium tại vị trí được chỉ định",
     "translator_note": ""
   },
   {
@@ -9021,7 +9021,7 @@
     "ai_reason": "",
     "source_en": "Complete Requests to increase your Fame to Level 9 or above",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Requests để tăng Fame lên Cấp 9 trở lên",
+    "new_translation_vi": "Hoàn thành các Yêu cầu để tăng Danh tiếng lên Cấp 9 trở lên",
     "translator_note": ""
   },
   {
@@ -9046,7 +9046,7 @@
     "ai_reason": "",
     "source_en": "Complete Requests or update the Index to increase your Fame to Level 9 or above",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Requests hoặc cập nhật Chỉ Số để tăng Fame lên Cấp 9 trở lên",
+    "new_translation_vi": "Hoàn thành các Yêu cầu hoặc cập nhật Chỉ mục để tăng Danh tiếng lên Cấp 9 trở lên",
     "translator_note": ""
   },
   {
@@ -9071,7 +9071,7 @@
     "ai_reason": "",
     "source_en": "Set sail and catch Titanium Mackerel at the given location",
     "review_note": "",
-    "new_translation_vi": "Giương buồm và bắt Titanium Mackerel ở vị trí đã chỉ định",
+    "new_translation_vi": "Ra khơi và bắt Cá thu Titanium tại vị trí được chỉ định",
     "translator_note": ""
   },
   {
@@ -9096,7 +9096,7 @@
     "ai_reason": "",
     "source_en": "Place the \"Titanium Mackerel\" into the slot",
     "review_note": "",
-    "new_translation_vi": "Đặt \"Titanium Mackerel\" vào khe",
+    "new_translation_vi": "Đặt \"Cá thu Titanium\" vào khe",
     "translator_note": ""
   },
   {
@@ -9111,7 +9111,6 @@
     "primary_key": "Quest_880000037_InteractContent_880_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9121,8 +9120,9 @@
     "ai_reason": "",
     "source_en": "Talk to Planck",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Planck",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Planck",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009366",
@@ -9146,7 +9146,7 @@
     "ai_reason": "",
     "source_en": "Place the Titanium Mackerel into the slot",
     "review_note": "",
-    "new_translation_vi": "Gắn Titanium Mackerel vào khe",
+    "new_translation_vi": "Đặt Cá thu Titanium vào khe",
     "translator_note": ""
   },
   {
@@ -9171,7 +9171,7 @@
     "ai_reason": "",
     "source_en": "Phoebe is currently in another quest. You cannot continue the quest yet.",
     "review_note": "",
-    "new_translation_vi": "Phoebe hiện đang làm nhiệm vụ khác. Bạn chưa thể tiếp tục nhiệm vụ này.",
+    "new_translation_vi": "Phoebe hiện đang thực hiện nhiệm vụ khác. Bạn chưa thể tiếp tục nhiệm vụ này.",
     "translator_note": ""
   },
   {
@@ -9196,7 +9196,7 @@
     "ai_reason": "",
     "source_en": "Phoebe is currently in another quest. You cannot continue the quest yet.",
     "review_note": "",
-    "new_translation_vi": "Phoebe hiện đang làm nhiệm vụ khác. Bạn chưa thể tiếp tục nhiệm vụ này.",
+    "new_translation_vi": "Phoebe hiện đang thực hiện nhiệm vụ khác. Bạn chưa thể tiếp tục nhiệm vụ này.",
     "translator_note": ""
   },
   {
@@ -9221,7 +9221,7 @@
     "ai_reason": "",
     "source_en": "Here, all fish gather—and since whales are also considered \"fish\", then...",
     "review_note": "",
-    "new_translation_vi": "Nơi đây, mọi loài cá đều tụ họp—và vì cá voi cũng được coi là \"cá\", nên...",
+    "new_translation_vi": "Nơi đây, tất cả các loài cá đều tụ họp—và vì cá voi cũng được coi là \"cá\", nên...",
     "translator_note": ""
   },
   {
@@ -9246,7 +9246,7 @@
     "ai_reason": "",
     "source_en": "Where All Fish Converge",
     "review_note": "",
-    "new_translation_vi": "Nơi Cá Tụ Hội",
+    "new_translation_vi": "Nơi muôn loài cá hội tụ",
     "translator_note": ""
   },
   {
@@ -9261,7 +9261,6 @@
     "primary_key": "Quest_880000037_QuestScheduleMainTitle_880_5",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9271,8 +9270,9 @@
     "ai_reason": "",
     "source_en": "Deliver the required materials to continue Pequod's repairs",
     "review_note": "",
-    "new_translation_vi": "Giao đủ nguyên liệu cần thiết để tiếp tục sửa chữa Pequod.",
-    "translator_note": ""
+    "new_translation_vi": "Giao các vật liệu cần thiết để tiếp tục việc sửa chữa của Pequod",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009372",
@@ -9296,7 +9296,7 @@
     "ai_reason": "",
     "source_en": "Complete Priority Requests ({q_count}/4)",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Yêu cầu Ưu tiên ({q_count}/4)",
+    "new_translation_vi": "Hoàn thành các Yêu cầu Ưu tiên ({q_count}/4)",
     "translator_note": ""
   },
   {
@@ -9346,7 +9346,7 @@
     "ai_reason": "",
     "source_en": "Collect 2,000 Riccioli Fishery Coins",
     "review_note": "",
-    "new_translation_vi": "Thu thập 2.000 Riccioli Fishery Coins",
+    "new_translation_vi": "Thu thập 2.000 Xu Ngư nghiệp Riccioli",
     "translator_note": ""
   },
   {
@@ -9361,7 +9361,6 @@
     "primary_key": "Quest_880000037_QuestScheduleSubTitle_880_10",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9371,8 +9370,9 @@
     "ai_reason": "",
     "source_en": "Retrieve \"Pequod Blueprint: Basic\"",
     "review_note": "",
-    "new_translation_vi": "Thu thập \"Pequod Blueprint: Basic\"",
-    "translator_note": ""
+    "new_translation_vi": "Lấy \"Pequod Blueprint: Basic\"",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009376",
@@ -9396,7 +9396,7 @@
     "ai_reason": "",
     "source_en": "Complete Priority Request \"Ahab's Request: Finding the Key\"",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Priority Request \"Lệnh Ahab: Tìm Chiếc Chìa Khóa\"",
+    "new_translation_vi": "Hoàn thành Yêu cầu Ưu tiên \"Ahab's Request: Finding the Key\"",
     "translator_note": ""
   },
   {
@@ -9419,9 +9419,9 @@
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
-    "source_en": "Hoàn thành Yêu cầu ưu tiên \"Yêu cầu của A-háp: Một chiếc lông vũ?\"",
+    "source_en": "Complete Priority Request \"Ahab's Request: A Feather?\"",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Nhiệm vụ ưu tiên \"Yêu cầu của A-háp: Một chiếc lông vũ?\"",
+    "new_translation_vi": "Hoàn thành Yêu cầu Ưu tiên \"Ahab's Request: A Feather?\"",
     "translator_note": ""
   },
   {
@@ -9446,7 +9446,7 @@
     "ai_reason": "",
     "source_en": "Complete Priority Request \"Ahab's Request: Into the Underworld\"",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Priority Request \"Lệnh Ahab: Đi Vào Địa Ngục\"",
+    "new_translation_vi": "Hoàn thành Yêu cầu Ưu tiên \"Ahab's Request: Into the Underworld\"",
     "translator_note": ""
   },
   {
@@ -9471,7 +9471,7 @@
     "ai_reason": "",
     "source_en": "Complete Priority Request \"Ahab's Request: Setting the Trap\"",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Priority Request \"Lệnh Ahab: Đặt Bẫy\"",
+    "new_translation_vi": "Hoàn thành Yêu cầu Ưu tiên \"Ahab's Request: Setting the Trap\"",
     "translator_note": ""
   },
   {
@@ -9486,7 +9486,6 @@
     "primary_key": "Quest_880000038_ChildQuestTip_880_5",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9496,8 +9495,9 @@
     "ai_reason": "",
     "source_en": "Meet Brant aboard \"Pequod\" to set sail",
     "review_note": "",
-    "new_translation_vi": "Gặp Brant trên tàu \"Pequod\" để khởi hành",
-    "translator_note": ""
+    "new_translation_vi": "Gặp Brant trên tàu \"Pequod\" để ra khơi",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009381",
@@ -9521,7 +9521,7 @@
     "ai_reason": "",
     "source_en": "Find Phoebe and exchange the gathered clues",
     "review_note": "",
-    "new_translation_vi": "Tìm Phoebe và trao đổi manh mối đã thu thập",
+    "new_translation_vi": "Tìm Phoebe và trao đổi các manh mối đã thu thập được",
     "translator_note": ""
   },
   {
@@ -9571,7 +9571,7 @@
     "ai_reason": "",
     "source_en": "Discuss the island with Phoebe and begin the investigation",
     "review_note": "",
-    "new_translation_vi": "Thảo luận về hòn đảo cùng Phoebe và bắt đầu điều tra",
+    "new_translation_vi": "Thảo luận về hòn đảo với Phoebe và bắt đầu điều tra",
     "translator_note": ""
   },
   {
@@ -9586,7 +9586,6 @@
     "primary_key": "Quest_880000038_ChildQuestTip_880_18",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9596,8 +9595,9 @@
     "ai_reason": "",
     "source_en": "Light up the lighthouse on Reyes Island",
     "review_note": "",
-    "new_translation_vi": "Light up the lighthouse trên đảo Reyes",
-    "translator_note": ""
+    "new_translation_vi": "Thắp sáng ngọn hải đăng trên Đảo Reyes",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009385",
@@ -9621,7 +9621,7 @@
     "ai_reason": "",
     "source_en": "Sail from the dock to the small island designated by Ahab",
     "review_note": "",
-    "new_translation_vi": "Rời bến, tiến đến hòn đảo nhỏ mà Ahab chỉ định",
+    "new_translation_vi": "Ra khơi từ bến tàu đến hòn đảo nhỏ do Ahab chỉ định",
     "translator_note": ""
   },
   {
@@ -9646,7 +9646,7 @@
     "ai_reason": "",
     "source_en": "Sail from the dock to the small island designated by Ahab",
     "review_note": "",
-    "new_translation_vi": "Rời bến, tiến đến hòn đảo nhỏ mà Ahab chỉ định",
+    "new_translation_vi": "Chèo thuyền từ bến cảng đến hòn đảo nhỏ do Ahab chỉ định",
     "translator_note": ""
   },
   {
@@ -9671,7 +9671,7 @@
     "ai_reason": "",
     "source_en": "Set sail to seek the \"Gift\" hidden in the ocean",
     "review_note": "",
-    "new_translation_vi": "Giương buồm tìm kiếm \"Món Quà\" ẩn giấu dưới đại dương",
+    "new_translation_vi": "Ra khơi tìm kiếm \"Món quà\" ẩn giấu dưới đại dương",
     "translator_note": ""
   },
   {
@@ -9696,7 +9696,7 @@
     "ai_reason": "",
     "source_en": "Deliver the catch to the first location",
     "review_note": "",
-    "new_translation_vi": "Chuyển hàng bắt được đến địa điểm thứ nhất",
+    "new_translation_vi": "Giao mẻ cá đến địa điểm đầu tiên",
     "translator_note": ""
   },
   {
@@ -9721,7 +9721,7 @@
     "ai_reason": "",
     "source_en": "Deliver the catch to the second location",
     "review_note": "",
-    "new_translation_vi": "Chuyển hàng bắt được đến địa điểm thứ hai",
+    "new_translation_vi": "Giao mẻ cá đến địa điểm thứ hai",
     "translator_note": ""
   },
   {
@@ -9746,7 +9746,7 @@
     "ai_reason": "",
     "source_en": "Deliver the catch to the third location",
     "review_note": "",
-    "new_translation_vi": "Chuyển hàng bắt được đến địa điểm thứ ba",
+    "new_translation_vi": "Giao mẻ cá đến địa điểm thứ ba",
     "translator_note": ""
   },
   {
@@ -9771,7 +9771,7 @@
     "ai_reason": "",
     "source_en": "Wait for Phoebe to recover. Adjust the time to between 4:00 and 9:00",
     "review_note": "",
-    "new_translation_vi": "Khoan Phoebe hồi phục. Điều chỉnh thời gian từ 4:00 đến 9:00",
+    "new_translation_vi": "Đợi Phoebe hồi phục. Điều chỉnh thời gian từ 4:00 đến 9:00",
     "translator_note": ""
   },
   {
@@ -9786,7 +9786,6 @@
     "primary_key": "Quest_880000038_ChildQuestTip_880_88",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9796,8 +9795,9 @@
     "ai_reason": "",
     "source_en": "Go investigate Cetus the Tidebreakder near Reyes Island",
     "review_note": "",
-    "new_translation_vi": "Đến đảo Reyes điều tra Cetus the Tidebreaker đi",
-    "translator_note": ""
+    "new_translation_vi": "Đi điều tra Cetus the Tidebreakder gần đảo Reyes",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009393",
@@ -9971,7 +9971,7 @@
     "ai_reason": "",
     "source_en": "Speak with Ahab",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Ahab",
+    "new_translation_vi": "Trò chuyện với Ahab",
     "translator_note": ""
   },
   {
@@ -9996,7 +9996,7 @@
     "ai_reason": "",
     "source_en": "Talk to Phoebe",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Phoebe",
+    "new_translation_vi": "Trò chuyện với Phoebe",
     "translator_note": ""
   },
   {
@@ -10021,7 +10021,7 @@
     "ai_reason": "",
     "source_en": "Talk to Phoebe",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Phoebe",
+    "new_translation_vi": "Trò chuyện với Phoebe",
     "translator_note": ""
   },
   {
@@ -10046,7 +10046,7 @@
     "ai_reason": "",
     "source_en": "Speak to Brant and prepare to set sail",
     "review_note": "",
-    "new_translation_vi": "Speak chuyện với Brant và chuẩn bị ra khơi.",
+    "new_translation_vi": "Trò chuyện với Brant và chuẩn bị ra khơi",
     "translator_note": ""
   },
   {
@@ -10096,7 +10096,7 @@
     "ai_reason": "",
     "source_en": "View the note left by Ahab",
     "review_note": "",
-    "new_translation_vi": "Xem ghi chú do Ahab để lại",
+    "new_translation_vi": "Xem mảnh giấy Ahab để lại",
     "translator_note": ""
   },
   {
@@ -10136,7 +10136,6 @@
     "primary_key": "Quest_880000038_InteractContent_880_20",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10146,8 +10145,9 @@
     "ai_reason": "",
     "source_en": "Investigate traces of Cetus the Tidebreaker",
     "review_note": "",
-    "new_translation_vi": "Tìm dấu vết của Cetus the Tidebreaker",
-    "translator_note": ""
+    "new_translation_vi": "Điều tra dấu vết của Cetus the Tidebreaker",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009407",
@@ -10171,7 +10171,7 @@
     "ai_reason": "",
     "source_en": "Phoebe is currently in another quest. You cannot continue the quest yet.",
     "review_note": "",
-    "new_translation_vi": "Phoebe hiện đang làm nhiệm vụ khác. Bạn chưa thể tiếp tục nhiệm vụ này.",
+    "new_translation_vi": "Phoebe hiện đang ở trong một nhiệm vụ khác. Bạn chưa thể tiếp tục nhiệm vụ này.",
     "translator_note": ""
   },
   {
@@ -10196,7 +10196,7 @@
     "ai_reason": "",
     "source_en": "The \"Rachel\" is lost at sea and cannot be summoned temporarily",
     "review_note": "",
-    "new_translation_vi": "\"Rachel\" đã mất tích ngoài biển và tạm thời không thể triệu hồi",
+    "new_translation_vi": "\"Rachel\" đang bị lạc trên biển và tạm thời không thể triệu hồi",
     "translator_note": ""
   },
   {
@@ -10221,7 +10221,7 @@
     "ai_reason": "",
     "source_en": "Wait for Ahab to gather information about the final island (Locked until 2025-02-14 04:00)",
     "review_note": "",
-    "new_translation_vi": "Khoan Ahab thu thập thông tin về hòn đảo cuối cùng (Bị khóa đến 14-02-2025 04:00)",
+    "new_translation_vi": "Đợi Ahab thu thập thông tin về hòn đảo cuối cùng (Khóa đến 04:00 ngày 14/02/2025)",
     "translator_note": ""
   },
   {
@@ -10246,7 +10246,7 @@
     "ai_reason": "",
     "source_en": "In a storm long ago, a captain and a whale sank beneath the waves together. Now, a similar storm rages, and the whale roams the sea once more…",
     "review_note": "",
-    "new_translation_vi": "Ngày xưa, trong một cơn bão, thuyền trưởng và con cá voi đã cùng chìm xuống biển sâu. Giờ đây, một cơn bão tương tự lại nổi lên, và con cá voi lại lang thang trên biển...",
+    "new_translation_vi": "Trong một cơn bão từ lâu, một thuyền trưởng và một con cá voi đã cùng chìm xuống đáy biển. Giờ đây, một cơn bão tương tự lại nổi lên, và con cá voi lại lang thang trên biển một lần nữa…",
     "translator_note": ""
   },
   {
@@ -10271,7 +10271,7 @@
     "ai_reason": "",
     "source_en": "Old Man and the Whale",
     "review_note": "",
-    "new_translation_vi": "Ông Già và Cá Voi",
+    "new_translation_vi": "Ông lão và Cá voi",
     "translator_note": ""
   },
   {
@@ -10296,7 +10296,7 @@
     "ai_reason": "",
     "source_en": "Catch the required fish and hand them over following the riddles (use the Index to track the target)",
     "review_note": "",
-    "new_translation_vi": "Bắt đúng loài cá theo yêu cầu rồi giao nộp theo câu đố (dùng Chỉ Mục để theo dõi mục tiêu)",
+    "new_translation_vi": "Bắt các loại cá được yêu cầu và giao chúng theo các câu đố (sử dụng Chỉ mục để theo dõi mục tiêu)",
     "translator_note": ""
   },
   {
@@ -10321,7 +10321,7 @@
     "ai_reason": "",
     "source_en": "Catch the required fish and hand them over following the riddles (use the Index to track the target)",
     "review_note": "",
-    "new_translation_vi": "Bắt đúng loài cá theo yêu cầu rồi giao nộp theo câu đố (dùng Chỉ Mục để theo dõi mục tiêu)",
+    "new_translation_vi": "Bắt các loại cá được yêu cầu và giao chúng theo các câu đố (sử dụng Chỉ mục để theo dõi mục tiêu)",
     "translator_note": ""
   },
   {
@@ -10346,7 +10346,7 @@
     "ai_reason": "",
     "source_en": "Catch the required \"gifts\" and deliver them following the riddles (use the Index for help)",
     "review_note": "",
-    "new_translation_vi": "Bắt những \"món quà\" cần thiết rồi giao nộp theo câu đố (dùng Chỉ Mục để tra cứu)",
+    "new_translation_vi": "Bắt các \"món quà\" được yêu cầu và giao chúng theo các câu đố (sử dụng Chỉ mục để được trợ giúp)",
     "translator_note": ""
   },
   {
@@ -10396,7 +10396,7 @@
     "ai_reason": "",
     "source_en": "Deliver the catch to the second location",
     "review_note": "",
-    "new_translation_vi": "Chuyển hàng bắt được đến địa điểm thứ hai",
+    "new_translation_vi": "Giao mẻ cá đến địa điểm thứ hai",
     "translator_note": ""
   },
   {
@@ -10446,7 +10446,7 @@
     "ai_reason": "",
     "source_en": "Deliver the catch to the third location",
     "review_note": "",
-    "new_translation_vi": "Chuyển hàng bắt được đến địa điểm thứ ba",
+    "new_translation_vi": "Giao mẻ cá đến địa điểm thứ ba",
     "translator_note": ""
   },
   {
@@ -10496,7 +10496,7 @@
     "ai_reason": "",
     "source_en": "Deliver the \"gift\" at the first location",
     "review_note": "",
-    "new_translation_vi": "Giao \"món quà\" ở địa điểm đầu tiên",
+    "new_translation_vi": "Giao \"món quà\" tại địa điểm đầu tiên",
     "translator_note": ""
   },
   {
@@ -10521,7 +10521,7 @@
     "ai_reason": "",
     "source_en": "Find Ishmael in Riccioli Port",
     "review_note": "",
-    "new_translation_vi": "Tìm Ishmael ở Cảng Riccioli",
+    "new_translation_vi": "Tìm Ishmael tại Cảng Riccioli",
     "translator_note": ""
   },
   {
@@ -10546,7 +10546,7 @@
     "ai_reason": "",
     "source_en": "Find Ishmael in Riccioli Port",
     "review_note": "",
-    "new_translation_vi": "Tìm Ishmael ở Cảng Riccioli",
+    "new_translation_vi": "Tìm Ishmael tại Cảng Riccioli",
     "translator_note": ""
   },
   {
@@ -10571,7 +10571,7 @@
     "ai_reason": "",
     "source_en": "Complete Requests or update the Index to increase your Fame to Level 10 or above",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Requests hoặc cập nhật Chỉ Số để tăng Fame lên Cấp 10 trở lên",
+    "new_translation_vi": "Hoàn thành Yêu cầu hoặc cập nhật Chỉ mục để tăng Danh tiếng lên Cấp 10 trở lên",
     "translator_note": ""
   },
   {
@@ -10596,7 +10596,7 @@
     "ai_reason": "",
     "source_en": "Complete Requests or update the Index to increase your Fame to Level 12 or above",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Requests hoặc cập nhật Chỉ Số để tăng Fame lên Cấp 12 trở lên",
+    "new_translation_vi": "Hoàn thành Yêu cầu hoặc cập nhật Chỉ mục để tăng Danh tiếng lên Cấp 12 trở lên",
     "translator_note": ""
   },
   {
@@ -10646,7 +10646,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -10671,7 +10671,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -10721,7 +10721,7 @@
     "ai_reason": "",
     "source_en": "The sea has calmed, but Captain Ahab and his crew are gone. Ishmael, who first brought you to the Riccioli Islands, seems to be studying the relics left behind by the legendary captain…",
     "review_note": "",
-    "new_translation_vi": "Biển đã lặng, nhưng thuyền trưởng Ahab và thủy thủ đoàn của ông đã biến mất. Ishmael, người đầu tiên đưa cậu đến quần đảo Riccioli, dường như đang nghiên cứu những di vật còn sót lại của vị thuyền trưởng huyền thoại…",
+    "new_translation_vi": "Biển đã lặng, nhưng Thuyền trưởng Ahab và thủy thủ đoàn đã biến mất. Ishmael, người đầu tiên đưa bạn đến Quần đảo Riccioli, dường như đang nghiên cứu những di vật mà vị thuyền trưởng huyền thoại để lại…",
     "translator_note": ""
   },
   {
@@ -10746,7 +10746,7 @@
     "ai_reason": "",
     "source_en": "I Alone Survived",
     "review_note": "",
-    "new_translation_vi": "Ta Là Người Sống Sót Duy Nhất",
+    "new_translation_vi": "Chỉ mình tôi sống sót",
     "translator_note": ""
   },
   {
@@ -10761,7 +10761,6 @@
     "primary_key": "Quest_880700010_QuestName_880_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10771,8 +10770,9 @@
     "ai_reason": "",
     "source_en": "Carnevale Finale",
     "review_note": "",
-    "new_translation_vi": "Carnevale Finale",
-    "translator_note": ""
+    "new_translation_vi": "Carnevale Hồi kết",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009432",
@@ -10786,7 +10786,6 @@
     "primary_key": "Quest_880700011_ChildQuestTip_880_7",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10796,8 +10795,9 @@
     "ai_reason": "",
     "source_en": "Got the new ship blueprint. Go deliver it to Queequeg at the shipyard",
     "review_note": "",
-    "new_translation_vi": "Có bản thiết kế tàu mới rồi. Đưa ngay cho Queequeg ở xưởng đóng tàu đi.",
-    "translator_note": ""
+    "new_translation_vi": "Đã có bản thiết kế tàu mới. Hãy mang đến cho Queequeg tại xưởng đóng tàu",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009433",
@@ -10821,7 +10821,7 @@
     "ai_reason": "",
     "source_en": "A long-dead captain, a ship that cannot sail. Yet now, that captain has set upon an inevitable course, and the ship must sail once again...",
     "review_note": "",
-    "new_translation_vi": "Một thuyền trưởng đã chết từ lâu, một con tàu không thể ra khơi. Nhưng giờ đây, thuyền trưởng ấy đã chọn con đường không thể tránh khỏi, và con tàu phải ra khơi một lần nữa...",
+    "new_translation_vi": "Một vị thuyền trưởng đã chết từ lâu, một con tàu không thể ra khơi. Nhưng giờ đây, vị thuyền trưởng đó đã bắt đầu một hành trình không thể tránh khỏi, và con tàu phải ra khơi một lần nữa...",
     "translator_note": ""
   },
   {
@@ -10846,7 +10846,7 @@
     "ai_reason": "",
     "source_en": "Old Man and the Whale",
     "review_note": "",
-    "new_translation_vi": "Ông Già và Cá Voi",
+    "new_translation_vi": "Ông lão và Cá voi",
     "translator_note": ""
   },
   {
@@ -10861,7 +10861,6 @@
     "primary_key": "Quest_880700011_QuestScheduleMainTitle_880_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10871,8 +10870,9 @@
     "ai_reason": "",
     "source_en": "Deliver the required materials to continue Pequod's repairs",
     "review_note": "",
-    "new_translation_vi": "Giao đủ nguyên liệu cần thiết để tiếp tục sửa chữa Pequod.",
-    "translator_note": ""
+    "new_translation_vi": "Giao các vật phẩm cần thiết để tiếp tục sửa chữa Pequod",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009436",
@@ -10896,7 +10896,7 @@
     "ai_reason": "",
     "source_en": "Collect 200 Palm Logs",
     "review_note": "",
-    "new_translation_vi": "Thu thập 200 Gỗ Cọ",
+    "new_translation_vi": "Thu thập 200 Gỗ cọ",
     "translator_note": ""
   },
   {
@@ -10921,7 +10921,7 @@
     "ai_reason": "",
     "source_en": "Collect 10,000 Riccioli Fishery Coins",
     "review_note": "",
-    "new_translation_vi": "Thu thập 10.000 Riccioli Fishery Coins",
+    "new_translation_vi": "Thu thập 10.000 Xu Ngư nghiệp Riccioli",
     "translator_note": ""
   },
   {
@@ -10936,7 +10936,6 @@
     "primary_key": "Quest_880700011_QuestScheduleSubTitle_880_5",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10946,8 +10945,9 @@
     "ai_reason": "",
     "source_en": "Retrieve \"Pequod Blueprint: Advanced\"",
     "review_note": "",
-    "new_translation_vi": "Thu thập \"Pequod Blueprint: Advanced\"",
-    "translator_note": ""
+    "new_translation_vi": "Lấy \"Pequod Blueprint: Advanced\"",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009439",
@@ -10996,7 +10996,7 @@
     "ai_reason": "",
     "source_en": "Go to the Dock",
     "review_note": "",
-    "new_translation_vi": "Đến Bến tàu",
+    "new_translation_vi": "Đến Bến cảng",
     "translator_note": ""
   },
   {
@@ -11021,7 +11021,7 @@
     "ai_reason": "",
     "source_en": "Talk to the masked individual",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với người đeo mặt nạ",
+    "new_translation_vi": "Trò chuyện với người đeo mặt nạ",
     "translator_note": ""
   },
   {
@@ -11046,7 +11046,7 @@
     "ai_reason": "",
     "source_en": "Check on Dana",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra Dana",
+    "new_translation_vi": "Kiểm tra tình hình của Dana",
     "translator_note": ""
   },
   {
@@ -11071,7 +11071,7 @@
     "ai_reason": "",
     "source_en": "Check on Dana",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra Dana",
+    "new_translation_vi": "Kiểm tra tình hình của Dana",
     "translator_note": ""
   },
   {
@@ -11096,7 +11096,7 @@
     "ai_reason": "",
     "source_en": "Check on Dana",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra Dana",
+    "new_translation_vi": "Kiểm tra tình hình của Dana",
     "translator_note": ""
   },
   {
@@ -11121,7 +11121,7 @@
     "ai_reason": "",
     "source_en": "Search for information at Ahab's place",
     "review_note": "",
-    "new_translation_vi": "Tìm thông tin ở chỗ Ahab",
+    "new_translation_vi": "Tìm kiếm thông tin tại nơi ở của Ahab",
     "translator_note": ""
   },
   {
@@ -11146,7 +11146,7 @@
     "ai_reason": "",
     "source_en": "Ask Dana about the kinds of fish she needs (Optional)",
     "review_note": "",
-    "new_translation_vi": "Ask Dana xem cô ấy cần loại cá nào (Không bắt buộc)",
+    "new_translation_vi": "Hỏi Dana về các loại cá cô ấy cần (Tùy chọn)",
     "translator_note": ""
   },
   {
@@ -11171,7 +11171,7 @@
     "ai_reason": "",
     "source_en": "Ask Dana about the kinds of fish she needs (Optional)",
     "review_note": "",
-    "new_translation_vi": "Ask Dana xem cô ấy cần loại cá nào (Không bắt buộc)",
+    "new_translation_vi": "Hỏi Dana về các loại cá cô ấy cần (Tùy chọn)",
     "translator_note": ""
   },
   {
@@ -11196,7 +11196,7 @@
     "ai_reason": "",
     "source_en": "Ask Dana about the kinds of fish she needs (Optional)",
     "review_note": "",
-    "new_translation_vi": "Ask Dana xem cô ấy cần loại cá nào (Không bắt buộc)",
+    "new_translation_vi": "Hỏi Dana về các loại cá cô ấy cần (Tùy chọn)",
     "translator_note": ""
   },
   {
@@ -11221,7 +11221,7 @@
     "ai_reason": "",
     "source_en": "Ask Dana about the kinds of fish she needs (Optional)",
     "review_note": "",
-    "new_translation_vi": "Ask Dana xem cô ấy cần loại cá nào (Không bắt buộc)",
+    "new_translation_vi": "Hỏi Dana về các loại cá cô ấy cần (Tùy chọn)",
     "translator_note": ""
   },
   {
@@ -11246,7 +11246,7 @@
     "ai_reason": "",
     "source_en": "Catch the corresponding fish then deliver it to Dana",
     "review_note": "",
-    "new_translation_vi": "Bắt đúng loài cá rồi đưa cho Dana",
+    "new_translation_vi": "Bắt loại cá tương ứng rồi giao cho Dana",
     "translator_note": ""
   },
   {
@@ -11271,7 +11271,7 @@
     "ai_reason": "",
     "source_en": "Catch the corresponding fish then deliver it to Dana",
     "review_note": "",
-    "new_translation_vi": "Bắt đúng loài cá rồi đưa cho Dana",
+    "new_translation_vi": "Bắt loại cá tương ứng rồi giao cho Dana",
     "translator_note": ""
   },
   {
@@ -11296,7 +11296,7 @@
     "ai_reason": "",
     "source_en": "Catch the corresponding fish then deliver it to Dana",
     "review_note": "",
-    "new_translation_vi": "Bắt đúng loài cá rồi đưa cho Dana",
+    "new_translation_vi": "Bắt loại cá tương ứng rồi giao cho Dana",
     "translator_note": ""
   },
   {
@@ -11321,7 +11321,7 @@
     "ai_reason": "",
     "source_en": "Catch the corresponding fish then deliver it to Dana",
     "review_note": "",
-    "new_translation_vi": "Bắt đúng loài cá rồi đưa cho Dana",
+    "new_translation_vi": "Bắt loại cá tương ứng rồi giao cho Dana",
     "translator_note": ""
   },
   {
@@ -11346,7 +11346,7 @@
     "ai_reason": "",
     "source_en": "Catch the corresponding fish then deliver it to Dana",
     "review_note": "",
-    "new_translation_vi": "Bắt đúng loài cá rồi đưa cho Dana",
+    "new_translation_vi": "Bắt loại cá tương ứng rồi giao cho Dana",
     "translator_note": ""
   },
   {
@@ -11371,7 +11371,7 @@
     "ai_reason": "",
     "source_en": "Catch the corresponding fish then deliver it to Dana",
     "review_note": "",
-    "new_translation_vi": "Bắt đúng loài cá rồi đưa cho Dana",
+    "new_translation_vi": "Bắt loại cá tương ứng rồi giao cho Dana",
     "translator_note": ""
   },
   {
@@ -11396,7 +11396,7 @@
     "ai_reason": "",
     "source_en": "Catch the corresponding fish then deliver it to Dana",
     "review_note": "",
-    "new_translation_vi": "Bắt đúng loài cá rồi đưa cho Dana",
+    "new_translation_vi": "Bắt loại cá tương ứng rồi giao cho Dana",
     "translator_note": ""
   },
   {
@@ -11421,7 +11421,7 @@
     "ai_reason": "",
     "source_en": "Catch the corresponding fish then deliver it to Dana",
     "review_note": "",
-    "new_translation_vi": "Bắt đúng loài cá rồi đưa cho Dana",
+    "new_translation_vi": "Bắt loại cá tương ứng rồi giao cho Dana",
     "translator_note": ""
   },
   {
@@ -11446,7 +11446,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -11471,7 +11471,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -11496,7 +11496,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -11521,7 +11521,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -11546,7 +11546,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -11596,7 +11596,7 @@
     "ai_reason": "",
     "source_en": "A well-dressed mysterious person in a mask has appeared on Riccioli Island, but their odd demeanor doesn't match their refined attire.",
     "review_note": "",
-    "new_translation_vi": "Một nhân vật bí ẩn ăn mặc lịch lãm, đeo mặt nạ vừa xuất hiện trên Đảo Riccioli, nhưng cử chỉ kỳ lạ của họ không hề phù hợp với vẻ ngoài trau chuốt.",
+    "new_translation_vi": "Một người bí ẩn ăn mặc sang trọng đeo mặt nạ đã xuất hiện trên Đảo Riccioli, nhưng phong thái kỳ lạ của họ không hề phù hợp với trang phục tinh tế đó.",
     "translator_note": ""
   },
   {
@@ -11636,7 +11636,6 @@
     "primary_key": "Quest_165000001_ChildQuestTip_165_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -11647,7 +11646,8 @@
     "source_en": "Ask Toretto about the treasure",
     "review_note": "",
     "new_translation_vi": "Hỏi Toretto về kho báu",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009467",
@@ -11696,7 +11696,7 @@
     "ai_reason": "",
     "source_en": "Go to the treasure spot",
     "review_note": "",
-    "new_translation_vi": "Đến vị trí kho báu",
+    "new_translation_vi": "Đến địa điểm kho báu",
     "translator_note": ""
   },
   {
@@ -11721,7 +11721,7 @@
     "ai_reason": "",
     "source_en": "Investigate the treasure spot",
     "review_note": "",
-    "new_translation_vi": "Điều tra vị trí kho báu",
+    "new_translation_vi": "Điều tra địa điểm kho báu",
     "translator_note": ""
   },
   {
@@ -11746,7 +11746,7 @@
     "ai_reason": "",
     "source_en": "Talk to Phoebe",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Phoebe",
+    "new_translation_vi": "Trò chuyện với Phoebe",
     "translator_note": ""
   },
   {
@@ -11771,7 +11771,7 @@
     "ai_reason": "",
     "source_en": "Use Sensor to search for treasure",
     "review_note": "",
-    "new_translation_vi": "Dùng Sensor để tìm kho báu",
+    "new_translation_vi": "Sử dụng Sensor để tìm kiếm kho báu",
     "translator_note": ""
   },
   {
@@ -11796,7 +11796,7 @@
     "ai_reason": "",
     "source_en": "Bring the treasure map to Ahab",
     "review_note": "",
-    "new_translation_vi": "Đưa tấm bản đồ kho báu cho Ahab đi",
+    "new_translation_vi": "Mang bản đồ kho báu đến cho Ahab",
     "translator_note": ""
   },
   {
@@ -11821,7 +11821,7 @@
     "ai_reason": "",
     "source_en": "Bring the treasure map to Ahab",
     "review_note": "",
-    "new_translation_vi": "Đưa tấm bản đồ kho báu cho Ahab đi",
+    "new_translation_vi": "Mang bản đồ kho báu đến cho Ahab",
     "translator_note": ""
   },
   {
@@ -11846,7 +11846,7 @@
     "ai_reason": "",
     "source_en": "Ask around about the treasure",
     "review_note": "",
-    "new_translation_vi": "Hỏi thăm về kho báu",
+    "new_translation_vi": "Hỏi thăm xung quanh về kho báu",
     "translator_note": ""
   },
   {
@@ -11871,7 +11871,7 @@
     "ai_reason": "",
     "source_en": "Investigate",
     "review_note": "",
-    "new_translation_vi": "Investigate",
+    "new_translation_vi": "Điều tra",
     "translator_note": ""
   },
   {
@@ -11896,7 +11896,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -11921,7 +11921,7 @@
     "ai_reason": "",
     "source_en": "Rachel is now being used and cannot be summoned.",
     "review_note": "",
-    "new_translation_vi": "Rachel đang được sử dụng và không thể triệu hồi.",
+    "new_translation_vi": "Rachel hiện đang được sử dụng và không thể triệu hồi.",
     "translator_note": ""
   },
   {
@@ -11946,7 +11946,7 @@
     "ai_reason": "",
     "source_en": "Not all treasure of the sea is left behind by pirates, some could have been left by ordinary sailors... or a captain.",
     "review_note": "",
-    "new_translation_vi": "Không phải mọi kho báu dưới biển đều do cướp biển để lại, có thể chúng thuộc về những thủy thủ bình thường… hay một vị thuyền trưởng.",
+    "new_translation_vi": "Không phải kho báu nào của biển cả cũng do cướp biển để lại, một số có thể là của những thủy thủ bình thường... hoặc một vị thuyền trưởng.",
     "translator_note": ""
   },
   {
@@ -11971,7 +11971,7 @@
     "ai_reason": "",
     "source_en": "The Sailor's Treasure",
     "review_note": "",
-    "new_translation_vi": "Kho Báu Thủy Thủ",
+    "new_translation_vi": "Kho Báu Của Thủy Thủ",
     "translator_note": ""
   },
   {
@@ -11996,7 +11996,7 @@
     "ai_reason": "",
     "source_en": "The Sailor's Treasure",
     "review_note": "",
-    "new_translation_vi": "Kho Báu Thủy Thủ",
+    "new_translation_vi": "Kho Báu Của Thủy Thủ",
     "translator_note": ""
   },
   {
@@ -12021,7 +12021,7 @@
     "ai_reason": "",
     "source_en": "The Sailor's Treasure",
     "review_note": "",
-    "new_translation_vi": "Kho Báu Thủy Thủ",
+    "new_translation_vi": "Kho Báu Của Thủy Thủ",
     "translator_note": ""
   },
   {
@@ -12046,7 +12046,7 @@
     "ai_reason": "",
     "source_en": "You received a new request",
     "review_note": "",
-    "new_translation_vi": "Bạn nhận được một yêu cầu mới",
+    "new_translation_vi": "Bạn đã nhận được một yêu cầu mới",
     "translator_note": ""
   },
   {
@@ -12096,7 +12096,7 @@
     "ai_reason": "",
     "source_en": "Put down the bottle",
     "review_note": "",
-    "new_translation_vi": "Đặt chai xuống",
+    "new_translation_vi": "Đặt cái chai xuống",
     "translator_note": ""
   },
   {
@@ -12121,7 +12121,7 @@
     "ai_reason": "",
     "source_en": "Put your message in the bottle",
     "review_note": "",
-    "new_translation_vi": "Bỏ lời nhắn của cậu vào chai đi",
+    "new_translation_vi": "Đặt thông điệp của bạn vào trong chai",
     "translator_note": ""
   },
   {
@@ -12146,7 +12146,7 @@
     "ai_reason": "",
     "source_en": "Talk",
     "review_note": "",
-    "new_translation_vi": "Talk",
+    "new_translation_vi": "Trò chuyện",
     "translator_note": ""
   },
   {
@@ -12171,7 +12171,7 @@
     "ai_reason": "",
     "source_en": "Put the bottle in the water",
     "review_note": "",
-    "new_translation_vi": "Thả cái chai xuống nước đi",
+    "new_translation_vi": "Thả cái chai xuống nước",
     "translator_note": ""
   },
   {
@@ -12196,7 +12196,7 @@
     "ai_reason": "",
     "source_en": "If you come across a message in a bottle, don't hesitate to check it out. Who knows, it might be one with precious dreams and hopes inside...",
     "review_note": "",
-    "new_translation_vi": "Nếu tình cờ thấy thông điệp trong chai, đừng ngần ngại mở ra xem. Biết đâu trong đó lại chứa đựng những ước mơ và hy vọng quý giá...",
+    "new_translation_vi": "Nếu bạn tình cờ thấy một thông điệp trong chai, đừng ngần ngại kiểm tra nó. Biết đâu đó lại là nơi chứa đựng những ước mơ và hy vọng quý giá...",
     "translator_note": ""
   },
   {
@@ -12221,7 +12221,7 @@
     "ai_reason": "",
     "source_en": "Message in a Bottle",
     "review_note": "",
-    "new_translation_vi": "Thông điệp trong chai",
+    "new_translation_vi": "Thông Điệp Trong Chai",
     "translator_note": ""
   },
   {
@@ -12261,7 +12261,6 @@
     "primary_key": "Quest_880000041_ChildQuestTip_880_5",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -12271,8 +12270,9 @@
     "ai_reason": "",
     "source_en": "Talk to Planck, then go out fishing and complete his request",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Planck, sau đó đi câu cá và hoàn thành yêu cầu của anh ấy",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Planck, sau đó đi câu cá và hoàn thành yêu cầu của người đó",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009492",
@@ -12296,7 +12296,7 @@
     "ai_reason": "",
     "source_en": "How about it? You got fish for me?",
     "review_note": "",
-    "new_translation_vi": "Thế nào? Có cá cho tớ không?",
+    "new_translation_vi": "Sao rồi? Bạn có cá cho tôi không?",
     "translator_note": ""
   },
   {
@@ -12346,7 +12346,7 @@
     "ai_reason": "",
     "source_en": "It's fish-hunting time!",
     "review_note": "",
-    "new_translation_vi": "Đến giờ săn cá rồi!",
+    "new_translation_vi": "Đến giờ đi săn cá rồi!",
     "translator_note": ""
   },
   {
@@ -12371,7 +12371,7 @@
     "ai_reason": "",
     "source_en": "Go Get Some Fish",
     "review_note": "",
-    "new_translation_vi": "Đi bắt cá",
+    "new_translation_vi": "Đi Bắt Cá",
     "translator_note": ""
   },
   {
@@ -12386,7 +12386,6 @@
     "primary_key": "Quest_880000041_QuestScheduleMainTitle_880_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -12397,7 +12396,8 @@
     "source_en": "Complete Planck's request",
     "review_note": "",
     "new_translation_vi": "Hoàn thành yêu cầu của Planck",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009497",
@@ -12421,7 +12421,7 @@
     "ai_reason": "",
     "source_en": "Complete the request Night: Go Get Some Fish",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành yêu cầu Night: Đi Bắt Cá Thôi.",
+    "new_translation_vi": "Hoàn thành yêu cầu Night: Go Get Some Fish",
     "translator_note": ""
   },
   {
@@ -12446,7 +12446,7 @@
     "ai_reason": "",
     "source_en": "Give the Every Flavor Bell-less Crab to Sarah",
     "review_note": "",
-    "new_translation_vi": "Đưa Cua Chuông Vị Mọi Mùi (không chuông) cho Sarah",
+    "new_translation_vi": "Đưa Every Flavor Bell-less Crab cho Sarah",
     "translator_note": ""
   },
   {
@@ -12461,7 +12461,6 @@
     "primary_key": "Quest_880000042_ChildQuestTip_880_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -12471,8 +12470,9 @@
     "ai_reason": "",
     "source_en": "Talk to Planck, then go out fishing and complete his request",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Planck, sau đó đi câu cá và hoàn thành yêu cầu của anh ấy",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Planck, sau đó đi câu cá và hoàn thành yêu cầu của người đó",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0009500",
@@ -12496,7 +12496,7 @@
     "ai_reason": "",
     "source_en": "You got Every Flavor Bell-less Crab for me?",
     "review_note": "",
-    "new_translation_vi": "Cậu có mang Cua Chuông Vị Mọi Loại không vỏ cho tớ không?",
+    "new_translation_vi": "Bạn có Every Flavor Bell-less Crab cho tôi không?",
     "translator_note": ""
   }
 ]

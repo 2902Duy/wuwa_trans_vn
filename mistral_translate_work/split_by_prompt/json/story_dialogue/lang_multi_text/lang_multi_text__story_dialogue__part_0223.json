@@ -21,7 +21,7 @@
     "ai_reason": "",
     "source_en": "You have not fully prepared for the duel. Please build your deck and select a set of Resonator Tactics before the duel.",
     "review_note": "",
-    "new_translation_vi": "Bạn chưa chuẩn bị đầy đủ cho trận đấu. Hãy xây dựng bộ bài và chọn Chiến Thuật Cộng Hưởng trước khi bắt đầu.",
+    "new_translation_vi": "Cậu chưa chuẩn bị kỹ cho trận đấu. Vui lòng xây dựng bộ bài và chọn một bộ Resonator Tactics trước khi bắt đầu.",
     "translator_note": ""
   },
   {
@@ -38,9 +38,9 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "",
-    "rule_decision": "RETRY",
-    "rule_score": 4,
-    "rule_issues": "same_as_source,low_vietnamese_signal",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
@@ -96,7 +96,7 @@
     "ai_reason": "",
     "source_en": "Passive Tactic: Draw one additional card when a round starts. Effective from Round {0} to Round {1}.",
     "review_note": "",
-    "new_translation_vi": "Thụ Động Chiến Thuật: Khi bắt đầu mỗi hiệp, rút thêm một lá bài. Hiệu lực từ Hiệp {0} đến Hiệp {1}.",
+    "new_translation_vi": "Passive Tactic: Rút thêm một lá bài khi bắt đầu vòng đấu. Có hiệu lực từ Vòng {0} đến Vòng {1}.",
     "translator_note": ""
   },
   {
@@ -121,7 +121,7 @@
     "ai_reason": "",
     "source_en": "Active Tactic ({0}): Reconstruct a card on hand. You're bound to draw this card in the next round.",
     "review_note": "",
-    "new_translation_vi": "Chiến Thuật Chủ Động ({0}): Tái cấu trúc một lá bài trên tay. Bạn chắc chắn sẽ rút được lá bài này vào lượt sau.",
+    "new_translation_vi": "Active Tactic ({0}): Tái cấu trúc một lá bài trên tay. Cậu chắc chắn sẽ rút được lá bài này ở vòng sau.",
     "translator_note": ""
   },
   {
@@ -146,7 +146,7 @@
     "ai_reason": "",
     "source_en": "Passive Tactic: Draw one additional card at the start of the first three rounds.",
     "review_note": "",
-    "new_translation_vi": "Thụ Động Chiến Thuật: Ở ba hiệp đầu, rút thêm một lá bài.",
+    "new_translation_vi": "Passive Tactic: Rút thêm một lá bài khi bắt đầu ba vòng đầu tiên.",
     "translator_note": ""
   },
   {
@@ -171,7 +171,7 @@
     "ai_reason": "",
     "source_en": "- When you Modulate this Echo, draw 2 cards.",
     "review_note": "",
-    "new_translation_vi": "Khi ngươi Điều Chỉnh Tacet Discord này, rút 2 lá bài.",
+    "new_translation_vi": "- Khi Modulate Echo này, rút 2 lá bài.",
     "translator_note": ""
   },
   {
@@ -196,7 +196,7 @@
     "ai_reason": "",
     "source_en": "- When you Modulate this Echo, add up to 1 Galescourge Stalker to your hand.",
     "review_note": "",
-    "new_translation_vi": "Khi ngươi Điều Chỉnh Tacet Discord này, thêm tối đa 1 Galescourge Stalker vào tay.",
+    "new_translation_vi": "- Khi Modulate Echo này, thêm tối đa 1 Galescourge Stalker vào tay.",
     "translator_note": ""
   },
   {
@@ -221,7 +221,7 @@
     "ai_reason": "",
     "source_en": "- Draw 1 additional card at the start of the Deployment Stage each round.",
     "review_note": "",
-    "new_translation_vi": "Bắt đầu mỗi lượt Triển Khai, rút thêm 1 lá bài.",
+    "new_translation_vi": "- Rút thêm 1 lá bài khi bắt đầu Giai đoạn Triển khai mỗi vòng.",
     "translator_note": ""
   },
   {
@@ -246,7 +246,7 @@
     "ai_reason": "",
     "source_en": "- When you Modulate this Echo, add up to 1 Diurnus Knight to your hand and gain {0} Energy.",
     "review_note": "",
-    "new_translation_vi": "Khi ngươi Điều Chỉnh Tacet Discord này, thêm tối đa 1 Diurnus Knight vào tay và nhận {0} Năng Lượng.",
+    "new_translation_vi": "- Khi Modulate Echo này, thêm tối đa 1 Diurnus Knight vào tay và nhận {0} Năng lượng.",
     "translator_note": ""
   },
   {
@@ -271,7 +271,7 @@
     "ai_reason": "",
     "source_en": "- When this Echo is in the Deployment Zone, draw 1 additional card at the start of the Deployment Stage each round.",
     "review_note": "",
-    "new_translation_vi": "Khi Tacet Discord này ở trong Vùng Triển Khai, rút thêm 1 lá bài vào đầu mỗi Giai Đoạn Triển Khai.",
+    "new_translation_vi": "- Khi Echo này ở trong Khu vực Triển khai, rút thêm 1 lá bài khi bắt đầu Giai đoạn Triển khai mỗi vòng.",
     "translator_note": ""
   },
   {
@@ -296,7 +296,7 @@
     "ai_reason": "",
     "source_en": "- When you Modulate this Echo, draw 3 cards.",
     "review_note": "",
-    "new_translation_vi": "Khi ngươi Điều Chỉnh Tacet Discord này, rút 3 lá bài.",
+    "new_translation_vi": "- Khi Modulate Echo này, rút 3 lá bài.",
     "translator_note": ""
   },
   {
@@ -321,7 +321,7 @@
     "ai_reason": "",
     "source_en": "- When you Modulate this Echo, draw 2 cards.",
     "review_note": "",
-    "new_translation_vi": "Khi ngươi Điều Chỉnh Tacet Discord này, rút 2 lá bài.",
+    "new_translation_vi": "- Khi Modulate Echo này, rút 2 lá bài.",
     "translator_note": ""
   },
   {
@@ -346,7 +346,7 @@
     "ai_reason": "",
     "source_en": "- Transform (1): Display up to 3 Cost 1 cards from the deck. Add one of them to your hand, then shuffle the unselected cards back into your deck.",
     "review_note": "",
-    "new_translation_vi": "- Biến Hóa (1): Hiển thị tối đa 3 lá bài Cost 1 từ bộ bài. Rút 1 lá vào tay, sau đó xáo trộn các lá còn lại vào bộ bài.",
+    "new_translation_vi": "- Transform (1): Hiển thị tối đa 3 lá bài Chi phí 1 từ bộ bài. Thêm một lá vào tay, sau đó xáo trộn các lá không được chọn trở lại bộ bài.",
     "translator_note": ""
   },
   {
@@ -371,7 +371,7 @@
     "ai_reason": "",
     "source_en": "- Transform ({0}): Gain <SapTag=1>{1}</SapTag> {Cus:Sap,S=point P=points SapTag=1} of Energy.",
     "review_note": "",
-    "new_translation_vi": "Biến Hóa ({0}): Nhận <SapTag=1>{1}</SapTag> {Cus:Sap,S=Điểm Năng Lượng P=Điểm Năng Lượng SapTag=1}.",
+    "new_translation_vi": "- Transform ({0}): Nhận <SapTag=1>{1}</SapTag> {Cus:Sap,S=điểm P=điểm SapTag=1} Năng lượng.",
     "translator_note": ""
   },
   {
@@ -396,7 +396,7 @@
     "ai_reason": "",
     "source_en": "- When you Modulate this Echo, draw 2 cards.",
     "review_note": "",
-    "new_translation_vi": "Khi ngươi Điều Chỉnh Tacet Discord này, rút 2 lá bài.",
+    "new_translation_vi": "- Khi Modulate Echo này, rút 2 lá bài.",
     "translator_note": ""
   },
   {
@@ -421,7 +421,7 @@
     "ai_reason": "",
     "source_en": "- Transform ({0}): Draw 3 cards.",
     "review_note": "",
-    "new_translation_vi": "Biến Hóa ({0}): Rút 3 lá bài.",
+    "new_translation_vi": "- Transform ({0}): Rút 3 lá bài.",
     "translator_note": ""
   },
   {
@@ -438,9 +438,9 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
@@ -471,7 +471,7 @@
     "ai_reason": "",
     "source_en": "Green-Colored Class!",
     "review_note": "",
-    "new_translation_vi": "Lớp Học Màu Xanh Lá!",
+    "new_translation_vi": "Lớp học màu xanh!",
     "translator_note": ""
   },
   {
@@ -496,7 +496,7 @@
     "ai_reason": "",
     "source_en": "Today's story is... the great battle between a righteous knight and the wicked <te href=850074>Threnodian</te>! The victor is—Cartethyia the Knight!",
     "review_note": "",
-    "new_translation_vi": "Câu chuyện hôm nay là... trận chiến vĩ đại giữa một hiệp sĩ chính nghĩa và <te href=850074>Threnodian</te> độc ác! Người chiến thắng là—Hiệp sĩ Cartethyia!",
+    "new_translation_vi": "Câu chuyện hôm nay là... trận chiến vĩ đại giữa một hiệp sĩ chính nghĩa và <te href=850074>Threnodian</te> độc ác! Người chiến thắng là—Cartethyia Hiệp sĩ!",
     "translator_note": ""
   },
   {
@@ -521,7 +521,7 @@
     "ai_reason": "",
     "source_en": "Smells so good...",
     "review_note": "",
-    "new_translation_vi": "Thơm quá đi...",
+    "new_translation_vi": "Thơm quá...",
     "translator_note": ""
   },
   {
@@ -546,7 +546,7 @@
     "ai_reason": "",
     "source_en": "Time for a little nap... It's... It's just a dream...",
     "review_note": "",
-    "new_translation_vi": "Đến lúc chợp mắt tí... Chỉ là... giấc mơ thôi...",
+    "new_translation_vi": "Đến lúc chợp mắt một chút rồi... Chỉ là... chỉ là một giấc mơ thôi mà...",
     "translator_note": ""
   },
   {
@@ -571,7 +571,7 @@
     "ai_reason": "",
     "source_en": "The crown of winds... has been engulfed by the sea. Tell me, are you the one who summoned this blade?",
     "review_note": "",
-    "new_translation_vi": "Vương miện của gió... giờ đã bị biển cả nuốt chửng. Nói ta nghe, ngươi có phải kẻ đã triệu hồi thanh kiếm này?",
+    "new_translation_vi": "Vương miện của gió... đã bị biển cả nhấn chìm. Nói cho ta biết, có phải cậu là người đã triệu hồi thanh kiếm này không?",
     "translator_note": ""
   },
   {
@@ -596,7 +596,7 @@
     "ai_reason": "",
     "source_en": "Now begins the knight's story!",
     "review_note": "",
-    "new_translation_vi": "Giờ là lúc câu chuyện của hiệp sĩ bắt đầu!",
+    "new_translation_vi": "Câu chuyện của hiệp sĩ bắt đầu từ đây!",
     "translator_note": ""
   },
   {
@@ -621,7 +621,7 @@
     "ai_reason": "",
     "source_en": "This sword shall follow your will.",
     "review_note": "",
-    "new_translation_vi": "Thanh kiếm này sẽ tuân theo ý chí của ngươi.",
+    "new_translation_vi": "Thanh kiếm này sẽ tuân theo ý chí của cậu.",
     "translator_note": ""
   },
   {
@@ -646,7 +646,7 @@
     "ai_reason": "",
     "source_en": "Ready to venture forth together?",
     "review_note": "",
-    "new_translation_vi": "Sẵn sàng cùng nhau phiêu lưu chứ?",
+    "new_translation_vi": "Sẵn sàng cùng nhau lên đường chưa?",
     "translator_note": ""
   },
   {
@@ -671,7 +671,7 @@
     "ai_reason": "",
     "source_en": "My swordsmanship has reached new heights!",
     "review_note": "",
-    "new_translation_vi": "Kỹ năng kiếm thuật của ta đã đạt đến tầm cao mới!",
+    "new_translation_vi": "Kiếm thuật của tôi đã đạt đến tầm cao mới!",
     "translator_note": ""
   },
   {
@@ -696,7 +696,7 @@
     "ai_reason": "",
     "source_en": "Can you feel it? The frequency of the wind... it's resonating between us.",
     "review_note": "",
-    "new_translation_vi": "Cậu cảm nhận được không? Tần số của gió... nó đang cộng hưởng giữa chúng ta.",
+    "new_translation_vi": "Cậu có cảm nhận được không? Tần số của gió... nó đang cộng hưởng giữa chúng ta.",
     "translator_note": ""
   },
   {
@@ -721,7 +721,7 @@
     "ai_reason": "",
     "source_en": "The power within me once terrified me. I wondered how monstrous I'd become if it consumed me... But such terrors have started to fade, with you by my side.",
     "review_note": "",
-    "new_translation_vi": "Sức mạnh bên trong ta từng khiến ta kinh hãi. Ta tự hỏi mình sẽ trở thành quái vật như thế nào nếu nó nuốt chửng ta... Nhưng những nỗi sợ ấy giờ đã bắt đầu phai nhạt, khi có em bên cạnh.",
+    "new_translation_vi": "Sức mạnh bên trong từng khiến tôi khiếp sợ. Tôi đã tự hỏi mình sẽ trở thành quái vật thế nào nếu bị nó nuốt chửng... Nhưng nỗi sợ đó đã dần tan biến, khi có cậu ở bên.",
     "translator_note": ""
   },
   {
@@ -746,7 +746,7 @@
     "ai_reason": "",
     "source_en": "Salvation.",
     "review_note": "",
-    "new_translation_vi": "Cứu rỗi.",
+    "new_translation_vi": "Sự cứu rỗi.",
     "translator_note": ""
   },
   {
@@ -771,7 +771,7 @@
     "ai_reason": "",
     "source_en": "Atonement.",
     "review_note": "",
-    "new_translation_vi": "Chuộc Tội.",
+    "new_translation_vi": "Sự chuộc tội.",
     "translator_note": ""
   },
   {
@@ -796,7 +796,7 @@
     "ai_reason": "",
     "source_en": "Till the denouement.",
     "review_note": "",
-    "new_translation_vi": "Cho Đến Khi Kết Thúc Mọi Chuyện",
+    "new_translation_vi": "Cho đến hồi kết.",
     "translator_note": ""
   },
   {
@@ -821,7 +821,7 @@
     "ai_reason": "",
     "source_en": "Ruin is imminent.",
     "review_note": "",
-    "new_translation_vi": "Tàn Tích đang đến gần.",
+    "new_translation_vi": "Sự sụp đổ đã cận kề.",
     "translator_note": ""
   },
   {
@@ -846,7 +846,7 @@
     "ai_reason": "",
     "source_en": "Face your destruction!",
     "review_note": "",
-    "new_translation_vi": "Hãy đối mặt với sự diệt vong của ngươi đi!",
+    "new_translation_vi": "Đối mặt với sự hủy diệt của ngươi đi!",
     "translator_note": ""
   },
   {
@@ -871,7 +871,7 @@
     "ai_reason": "",
     "source_en": "Quietus.",
     "review_note": "",
-    "new_translation_vi": "Sự Yên Nghỉ.",
+    "new_translation_vi": "Kết thúc.",
     "translator_note": ""
   },
   {
@@ -896,7 +896,7 @@
     "ai_reason": "",
     "source_en": "Finality.",
     "review_note": "",
-    "new_translation_vi": "Sự Kết Thúc.",
+    "new_translation_vi": "Chung cuộc.",
     "translator_note": ""
   },
   {
@@ -946,7 +946,7 @@
     "ai_reason": "",
     "source_en": "Betide!",
     "review_note": "",
-    "new_translation_vi": "Đồ xui xẻo!",
+    "new_translation_vi": "Đến lúc rồi!",
     "translator_note": ""
   },
   {
@@ -971,7 +971,7 @@
     "ai_reason": "",
     "source_en": "Into the depths.",
     "review_note": "",
-    "new_translation_vi": "Đi sâu vào lòng vực thẳm.",
+    "new_translation_vi": "Vào sâu trong đó.",
     "translator_note": ""
   },
   {
@@ -996,7 +996,7 @@
     "ai_reason": "",
     "source_en": "Engulfing currents.",
     "review_note": "",
-    "new_translation_vi": "Dòng chảy cuốn trôi.",
+    "new_translation_vi": "Dòng chảy nhấn chìm.",
     "translator_note": ""
   },
   {
@@ -1021,7 +1021,7 @@
     "ai_reason": "",
     "source_en": "Cleave!",
     "review_note": "",
-    "new_translation_vi": "Chém!",
+    "new_translation_vi": "Chẻ đôi!",
     "translator_note": ""
   },
   {
@@ -1046,7 +1046,7 @@
     "ai_reason": "",
     "source_en": "Fall!",
     "review_note": "",
-    "new_translation_vi": "Rơi đi!",
+    "new_translation_vi": "Ngã xuống!",
     "translator_note": ""
   },
   {
@@ -1121,7 +1121,7 @@
     "ai_reason": "",
     "source_en": "Begone, wicked souls!",
     "review_note": "",
-    "new_translation_vi": "Biến đi, lũ hồn ma quỷ quái!",
+    "new_translation_vi": "Cút đi, những linh hồn tội lỗi!",
     "translator_note": ""
   },
   {
@@ -1171,7 +1171,7 @@
     "ai_reason": "",
     "source_en": "Gales, purify!",
     "review_note": "",
-    "new_translation_vi": "Gió hãy thanh tẩy!",
+    "new_translation_vi": "Gió lốc, hãy thanh tẩy!",
     "translator_note": ""
   },
   {
@@ -1196,7 +1196,7 @@
     "ai_reason": "",
     "source_en": "Sentence, befall!",
     "review_note": "",
-    "new_translation_vi": "Câu lệnh, thi hành!",
+    "new_translation_vi": "Phán quyết, hãy giáng xuống!",
     "translator_note": ""
   },
   {
@@ -1221,7 +1221,7 @@
     "ai_reason": "",
     "source_en": "Torrents, rage on!",
     "review_note": "",
-    "new_translation_vi": "Dòng nước cuộn, hãy nổi cơn thịnh nộ!",
+    "new_translation_vi": "Dòng lũ, hãy cuộn trào!",
     "translator_note": ""
   },
   {
@@ -1246,7 +1246,7 @@
     "ai_reason": "",
     "source_en": "Sounding the death knell.",
     "review_note": "",
-    "new_translation_vi": "Ngân vang hồi chuông tử thần.",
+    "new_translation_vi": "Tiếng chuông báo tử vang lên.",
     "translator_note": ""
   },
   {
@@ -1271,7 +1271,7 @@
     "ai_reason": "",
     "source_en": "Tides, rise and crash.",
     "review_note": "",
-    "new_translation_vi": "Triều lên, triều vỡ.",
+    "new_translation_vi": "Thủy triều, hãy dâng cao và đập tan.",
     "translator_note": ""
   },
   {
@@ -1296,7 +1296,7 @@
     "ai_reason": "",
     "source_en": "Impale, Hognis!",
     "review_note": "",
-    "new_translation_vi": "Xiên thẳng vào, Hognis!",
+    "new_translation_vi": "Đâm xuyên, Hognis!",
     "translator_note": ""
   },
   {
@@ -1321,7 +1321,7 @@
     "ai_reason": "",
     "source_en": "Oceans, bow before me.",
     "review_note": "",
-    "new_translation_vi": "Hỡi đại dương, hãy cúi mình trước ta.",
+    "new_translation_vi": "Đại dương, hãy cúi đầu trước ta.",
     "translator_note": ""
   },
   {
@@ -1346,7 +1346,7 @@
     "ai_reason": "",
     "source_en": "True form, revealed at last.",
     "review_note": "",
-    "new_translation_vi": "Dạng thật, cuối cùng cũng lộ diện.",
+    "new_translation_vi": "Chân thân, cuối cùng đã lộ diện.",
     "translator_note": ""
   },
   {
@@ -1371,7 +1371,7 @@
     "ai_reason": "",
     "source_en": "Repent, for silence beckons.",
     "review_note": "",
-    "new_translation_vi": "Hãy hối cải, bởi sự im lặng đang vẫy gọi.",
+    "new_translation_vi": "Hãy sám hối, vì silence đang vẫy gọi.",
     "translator_note": ""
   },
   {
@@ -1396,7 +1396,7 @@
     "ai_reason": "",
     "source_en": "Windstorm, sweep all away!",
     "review_note": "",
-    "new_translation_vi": "Bão tố, cuốn phăng tất cả đi!",
+    "new_translation_vi": "Bão tố, hãy cuốn phăng tất cả!",
     "translator_note": ""
   },
   {
@@ -1421,7 +1421,7 @@
     "ai_reason": "",
     "source_en": "My blade, purge all evil!",
     "review_note": "",
-    "new_translation_vi": "Kiếm này, hãy thanh tẩy mọi tội ác!",
+    "new_translation_vi": "Lưỡi kiếm của ta, hãy thanh tẩy mọi cái ác!",
     "translator_note": ""
   },
   {
@@ -1446,7 +1446,7 @@
     "ai_reason": "",
     "source_en": "Furious tides, split the heavens!",
     "review_note": "",
-    "new_translation_vi": "Sóng cuồng nộ, xé toang bầu trời!",
+    "new_translation_vi": "Thủy triều cuồng nộ, hãy xẻ đôi bầu trời!",
     "translator_note": ""
   },
   {
@@ -1471,7 +1471,7 @@
     "ai_reason": "",
     "source_en": "The fallen, embrace your end.",
     "review_note": "",
-    "new_translation_vi": "Hãy đón nhận cái chết đi, những người đã ngã xuống.",
+    "new_translation_vi": "Kẻ bại trận, hãy đón nhận kết cục của mình.",
     "translator_note": ""
   },
   {
@@ -1496,7 +1496,7 @@
     "ai_reason": "",
     "source_en": "Heretic, face your reckoning.",
     "review_note": "",
-    "new_translation_vi": "Tên dị giáo kia, hãy đối mặt với sự trừng phạt của ngươi.",
+    "new_translation_vi": "Kẻ dị giáo, hãy đối mặt với sự trừng phạt.",
     "translator_note": ""
   },
   {
@@ -1521,7 +1521,7 @@
     "ai_reason": "",
     "source_en": "Transgressor, laud your demise.",
     "review_note": "",
-    "new_translation_vi": "Kẻ Phản Nghịch, hãy ca tụng cái chết của ngươi đi.",
+    "new_translation_vi": "Kẻ phản bội, hãy ca tụng sự diệt vong của ngươi.",
     "translator_note": ""
   },
   {
@@ -1546,7 +1546,7 @@
     "ai_reason": "",
     "source_en": "Crumble!",
     "review_note": "",
-    "new_translation_vi": "Sụp đổ!",
+    "new_translation_vi": "Vụn vỡ!",
     "translator_note": ""
   },
   {
@@ -1571,7 +1571,7 @@
     "ai_reason": "",
     "source_en": "Collapse!",
     "review_note": "",
-    "new_translation_vi": "Sụp đổ đi!",
+    "new_translation_vi": "Sụp đổ!",
     "translator_note": ""
   },
   {
@@ -1596,7 +1596,7 @@
     "ai_reason": "",
     "source_en": "Perish!",
     "review_note": "",
-    "new_translation_vi": "Chết đi!",
+    "new_translation_vi": "Diệt vong!",
     "translator_note": ""
   },
   {
@@ -1621,7 +1621,7 @@
     "ai_reason": "",
     "source_en": "Flood!",
     "review_note": "",
-    "new_translation_vi": "Lũ lụt!",
+    "new_translation_vi": "Nhấn chìm!",
     "translator_note": ""
   },
   {
@@ -1646,7 +1646,7 @@
     "ai_reason": "",
     "source_en": "Disperse!",
     "review_note": "",
-    "new_translation_vi": "Phân tán mau!",
+    "new_translation_vi": "Tan biến!",
     "translator_note": ""
   },
   {
@@ -1671,7 +1671,7 @@
     "ai_reason": "",
     "source_en": "Vanish!",
     "review_note": "",
-    "new_translation_vi": "Biến mất đi!",
+    "new_translation_vi": "Biến mất!",
     "translator_note": ""
   },
   {
@@ -1696,7 +1696,7 @@
     "ai_reason": "",
     "source_en": "Too reckless!",
     "review_note": "",
-    "new_translation_vi": "Liều lĩnh quá!",
+    "new_translation_vi": "Quá liều lĩnh!",
     "translator_note": ""
   },
   {
@@ -1721,7 +1721,7 @@
     "ai_reason": "",
     "source_en": "If it's a duel you want...",
     "review_note": "",
-    "new_translation_vi": "Nếu ngươi muốn đấu tay đôi...",
+    "new_translation_vi": "Nếu cậu muốn một trận đấu tay đôi...",
     "translator_note": ""
   },
   {
@@ -1771,7 +1771,7 @@
     "ai_reason": "",
     "source_en": "Impudent!",
     "review_note": "",
-    "new_translation_vi": "Hỗn xược!",
+    "new_translation_vi": "Xấc xược!",
     "translator_note": ""
   },
   {
@@ -1796,7 +1796,7 @@
     "ai_reason": "",
     "source_en": "The trial isn't over yet.",
     "review_note": "",
-    "new_translation_vi": "Phép thử vẫn chưa kết thúc đâu.",
+    "new_translation_vi": "Thử thách vẫn chưa kết thúc đâu.",
     "translator_note": ""
   },
   {
@@ -1821,7 +1821,7 @@
     "ai_reason": "",
     "source_en": "I won't back down.",
     "review_note": "",
-    "new_translation_vi": "Tôi sẽ không lùi bước đâu.",
+    "new_translation_vi": "Tôi sẽ không lùi bước.",
     "translator_note": ""
   },
   {
@@ -1846,7 +1846,7 @@
     "ai_reason": "",
     "source_en": "This sword... shall not be shattered!",
     "review_note": "",
-    "new_translation_vi": "Thanh kiếm này... sẽ không gãy vỡ!",
+    "new_translation_vi": "Thanh kiếm này... sẽ không bị phá hủy!",
     "translator_note": ""
   },
   {
@@ -1871,7 +1871,7 @@
     "ai_reason": "",
     "source_en": "A mere scratch upon my blade.",
     "review_note": "",
-    "new_translation_vi": "Chỉ là vết xước trên lưỡi kiếm của ta thôi.",
+    "new_translation_vi": "Chỉ là một vết xước nhỏ trên lưỡi kiếm của tôi.",
     "translator_note": ""
   },
   {
@@ -1896,7 +1896,7 @@
     "ai_reason": "",
     "source_en": "Vexing malice.",
     "review_note": "",
-    "new_translation_vi": "Oán hận ngập tràn.",
+    "new_translation_vi": "Sự ác độc đáng ghét.",
     "translator_note": ""
   },
   {
@@ -1921,7 +1921,7 @@
     "ai_reason": "",
     "source_en": "My quest... ends here...",
     "review_note": "",
-    "new_translation_vi": "Hành trình của ta... kết thúc tại đây...",
+    "new_translation_vi": "Hành trình của tôi... kết thúc tại đây...",
     "translator_note": ""
   },
   {
@@ -1946,7 +1946,7 @@
     "ai_reason": "",
     "source_en": "Yet another long, dark dream.",
     "review_note": "",
-    "new_translation_vi": "Lại một giấc mơ dài và tối tăm nữa.",
+    "new_translation_vi": "Lại thêm một giấc mơ dài, tăm tối.",
     "translator_note": ""
   },
   {
@@ -2021,7 +2021,7 @@
     "ai_reason": "",
     "source_en": "Charge forth with me.",
     "review_note": "",
-    "new_translation_vi": "Hãy cùng ta xông lên nào.",
+    "new_translation_vi": "Hãy cùng tôi xông lên.",
     "translator_note": ""
   },
   {
@@ -2046,7 +2046,7 @@
     "ai_reason": "",
     "source_en": "A \"divine envoy\" then?",
     "review_note": "",
-    "new_translation_vi": "Vậy là \"sứ giả thần linh\" à?",
+    "new_translation_vi": "Vậy ra là một \"sứ giả thần thánh\" sao?",
     "translator_note": ""
   },
   {
@@ -2071,7 +2071,7 @@
     "ai_reason": "",
     "source_en": "What form do you look for?",
     "review_note": "",
-    "new_translation_vi": "Ngươi tìm kiếm hình hài nào?",
+    "new_translation_vi": "Cậu đang tìm kiếm hình dạng nào?",
     "translator_note": ""
   },
   {
@@ -2096,7 +2096,7 @@
     "ai_reason": "",
     "source_en": "The knight's challenge has arrived!",
     "review_note": "",
-    "new_translation_vi": "Thử thách của Hiệp sĩ đã đến!",
+    "new_translation_vi": "Lời thách đấu của hiệp sĩ đã đến!",
     "translator_note": ""
   },
   {
@@ -2121,7 +2121,7 @@
     "ai_reason": "",
     "source_en": "Shadows must be purged.",
     "review_note": "",
-    "new_translation_vi": "Bóng tối phải bị thanh tẩy.",
+    "new_translation_vi": "Bóng tối cần phải bị thanh tẩy.",
     "translator_note": ""
   },
   {
@@ -2146,7 +2146,7 @@
     "ai_reason": "",
     "source_en": "I can fly too.",
     "review_note": "",
-    "new_translation_vi": "Tớ cũng bay được đấy.",
+    "new_translation_vi": "Tôi cũng biết bay đấy.",
     "translator_note": ""
   },
   {
@@ -2171,7 +2171,7 @@
     "ai_reason": "",
     "source_en": "My knightly instinct says... this way!",
     "review_note": "",
-    "new_translation_vi": "Trực giác hiệp sĩ của ta mách bảo... hướng này!",
+    "new_translation_vi": "Bản năng hiệp sĩ của tôi mách bảo... là hướng này!",
     "translator_note": ""
   },
   {
@@ -2196,7 +2196,7 @@
     "ai_reason": "",
     "source_en": "Just like the treasure chests from the stories!",
     "review_note": "",
-    "new_translation_vi": "Giống như những chiếc rương kho báu trong truyện cổ tích!",
+    "new_translation_vi": "Giống hệt những rương kho báu trong truyện kể!",
     "translator_note": ""
   },
   {
@@ -2221,7 +2221,7 @@
     "ai_reason": "",
     "source_en": "This should afford us more provisions.",
     "review_note": "",
-    "new_translation_vi": "Điều này sẽ giúp chúng ta có thêm nguồn cung cấp.",
+    "new_translation_vi": "Thứ này chắc sẽ giúp chúng ta có thêm nhu yếu phẩm.",
     "translator_note": ""
   },
   {
@@ -2246,7 +2246,7 @@
     "ai_reason": "",
     "source_en": "Let's call it... A Knight's Great Harvest.",
     "review_note": "",
-    "new_translation_vi": "Gọi nó là... Đại Thu Hoạch của Hiệp Sĩ đi.",
+    "new_translation_vi": "Hãy gọi nó là... Chiến lợi phẩm vĩ đại của Hiệp sĩ.",
     "translator_note": ""
   },
   {
@@ -2271,7 +2271,7 @@
     "ai_reason": "",
     "source_en": "What is it you wish for?",
     "review_note": "",
-    "new_translation_vi": "Ngươi mong muốn điều gì?",
+    "new_translation_vi": "Cậu mong ước điều gì?",
     "translator_note": ""
   },
   {
@@ -2296,7 +2296,7 @@
     "ai_reason": "",
     "source_en": "Fortune is on your side.",
     "review_note": "",
-    "new_translation_vi": "Vận may đang đứng về phía cậu đấy.",
+    "new_translation_vi": "Vận may đang đứng về phía cậu.",
     "translator_note": ""
   },
   {
@@ -2321,7 +2321,7 @@
     "ai_reason": "",
     "source_en": "Your wish for wealth is granted.",
     "review_note": "",
-    "new_translation_vi": "Ước nguyện giàu sang của ngươi đã được đáp ứng.",
+    "new_translation_vi": "Mong ước về sự giàu sang của cậu đã được đáp ứng.",
     "translator_note": ""
   },
   {
@@ -2346,7 +2346,7 @@
     "ai_reason": "",
     "source_en": "Come, Haultir!",
     "review_note": "",
-    "new_translation_vi": "Lại đây, Haultir!",
+    "new_translation_vi": "Đến đây, Haultir!",
     "translator_note": ""
   },
   {
@@ -2371,7 +2371,7 @@
     "ai_reason": "",
     "source_en": "You won't escape!",
     "review_note": "",
-    "new_translation_vi": "Cậu không thoát được đâu!",
+    "new_translation_vi": "Ngươi không thoát được đâu!",
     "translator_note": ""
   },
   {
@@ -2396,7 +2396,7 @@
     "ai_reason": "",
     "source_en": "Nice teamwork!",
     "review_note": "",
-    "new_translation_vi": "Phối hợp ăn ý quá!",
+    "new_translation_vi": "Phối hợp tốt lắm!",
     "translator_note": ""
   },
   {
@@ -2421,7 +2421,7 @@
     "ai_reason": "",
     "source_en": "Timely support!",
     "review_note": "",
-    "new_translation_vi": "Hỗ trợ kịp thời!",
+    "new_translation_vi": "Hỗ trợ kịp thời đấy!",
     "translator_note": ""
   },
   {
@@ -2446,7 +2446,7 @@
     "ai_reason": "",
     "source_en": "Attack as one!",
     "review_note": "",
-    "new_translation_vi": "Tấn Công đồng loạt!",
+    "new_translation_vi": "Cùng tấn công nào!",
     "translator_note": ""
   },
   {
@@ -2471,7 +2471,7 @@
     "ai_reason": "",
     "source_en": "I love going to the Septimont baths after a training session. The warm water does wonders for easing weariness. You should give it a try.",
     "review_note": "",
-    "new_translation_vi": "Ta thích đến suối nước nóng Septimont sau mỗi buổi luyện tập. Nước ấm thật sự xua tan mọi mệt mỏi. Cậu nên thử một lần đi.",
+    "new_translation_vi": "Tôi thích đến nhà tắm Septimont sau mỗi buổi tập luyện. Nước ấm giúp xua tan mệt mỏi rất hiệu quả. Cậu nên thử xem sao.",
     "translator_note": ""
   },
   {
@@ -2496,7 +2496,7 @@
     "ai_reason": "",
     "source_en": "Every winter, my tail becomes a hive of static... Very annoying when I'm grooming...",
     "review_note": "",
-    "new_translation_vi": "Mùa đông nào đuôi tôi cũng đầy tĩnh điện… Khổ sở vô cùng khi chải chuốt…",
+    "new_translation_vi": "Mỗi mùa đông, cái đuôi của tôi lại tích đầy tĩnh điện... Rất khó chịu mỗi khi tôi chải chuốt...",
     "translator_note": ""
   },
   {
@@ -2521,7 +2521,7 @@
     "ai_reason": "",
     "source_en": "Oh? You're here!",
     "review_note": "",
-    "new_translation_vi": "Ủa? Cậu đến rồi à!",
+    "new_translation_vi": "Ồ? Cậu đến rồi à!",
     "translator_note": ""
   },
   {
@@ -2546,7 +2546,7 @@
     "ai_reason": "",
     "source_en": "Lupa, Gladiator of Septimont. Just ignore the attention, Warrior. This victory is ours to savor!",
     "review_note": "",
-    "new_translation_vi": "Lupa, Đấu sĩ của Septimont đây. Đừng để ý mấy kẻ đang nhìn này, Chiến Binh à. Chiến thắng này là của chúng ta, hãy tận hưởng đi!",
+    "new_translation_vi": "Lupa, Đấu sĩ của Septimont. Đừng bận tâm đến sự chú ý đó, Chiến binh. Chiến thắng này là để chúng ta tận hưởng!",
     "translator_note": ""
   },
   {
@@ -2571,7 +2571,7 @@
     "ai_reason": "",
     "source_en": "Oh, is a new match calling?",
     "review_note": "",
-    "new_translation_vi": "Ồ, có trận đấu mới gọi à?",
+    "new_translation_vi": "Ồ, có trận đấu mới đang chờ sao?",
     "translator_note": ""
   },
   {
@@ -2596,7 +2596,7 @@
     "ai_reason": "",
     "source_en": "You called, Warrior?",
     "review_note": "",
-    "new_translation_vi": "Ngươi gọi ta à, Chiến binh?",
+    "new_translation_vi": "Cậu gọi tôi à, Chiến binh?",
     "translator_note": ""
   },
   {
@@ -2621,7 +2621,7 @@
     "ai_reason": "",
     "source_en": "Time to hunt!",
     "review_note": "",
-    "new_translation_vi": "Giờ đi săn thôi!",
+    "new_translation_vi": "Đến lúc săn mồi rồi!",
     "translator_note": ""
   },
   {
@@ -2646,7 +2646,7 @@
     "ai_reason": "",
     "source_en": "I'm joining your battle.",
     "review_note": "",
-    "new_translation_vi": "Tớ sẽ tham gia trận chiến của cậu.",
+    "new_translation_vi": "Tôi sẽ tham gia trận chiến của cậu.",
     "translator_note": ""
   },
   {
@@ -2671,7 +2671,7 @@
     "ai_reason": "",
     "source_en": "Our teamwork is getting better.",
     "review_note": "",
-    "new_translation_vi": "Tinh thần đồng đội của chúng ta đang ngày càng tốt lên.",
+    "new_translation_vi": "Sự phối hợp của chúng ta đang tốt dần lên đấy.",
     "translator_note": ""
   },
   {
@@ -2696,7 +2696,7 @@
     "ai_reason": "",
     "source_en": "Awesome! I'll record our training and savor every detail of it.",
     "review_note": "",
-    "new_translation_vi": "Tuyệt thật! Mình sẽ ghi lại buổi tập luyện và thưởng thức từng chi tiết.",
+    "new_translation_vi": "Tuyệt quá! Tớ sẽ ghi lại buổi tập luyện và tận hưởng từng chi tiết một.",
     "translator_note": ""
   },
   {
@@ -2721,7 +2721,7 @@
     "ai_reason": "",
     "source_en": "Do I look overexcited? Because in truth, I am. All I want is to keep sparring with you.",
     "review_note": "",
-    "new_translation_vi": "Ta có trông háo hức quá không? Thật ra ta đang phấn khích lắm. Ta chỉ muốn tiếp tục đấu tập với ngươi thôi.",
+    "new_translation_vi": "Trông tớ có vẻ phấn khích quá phải không? Vì thực sự là vậy đấy. Tớ chỉ muốn tiếp tục đấu tập với cậu thôi.",
     "translator_note": ""
   },
   {
@@ -2746,7 +2746,7 @@
     "ai_reason": "",
     "source_en": "More... Get me more... One more round, Warrior! I want a rematch!",
     "review_note": "",
-    "new_translation_vi": "Thêm... Cho ta thêm đi... Một hiệp nữa, Chiến binh ơi! Ta muốn tái đấu!",
+    "new_translation_vi": "Nữa... Cho tôi thêm nữa đi... Thêm một hiệp nữa, Chiến binh! Tôi muốn tái đấu!",
     "translator_note": ""
   },
   {
@@ -2771,7 +2771,7 @@
     "ai_reason": "",
     "source_en": "Time to fight!",
     "review_note": "",
-    "new_translation_vi": "Đến lúc chiến đấu!",
+    "new_translation_vi": "Đến lúc chiến đấu rồi!",
     "translator_note": ""
   },
   {
@@ -2796,7 +2796,7 @@
     "ai_reason": "",
     "source_en": "All or nothing!",
     "review_note": "",
-    "new_translation_vi": "Tất cả hoặc không gì cả!",
+    "new_translation_vi": "Được ăn cả, ngã về không!",
     "translator_note": ""
   },
   {
@@ -2846,7 +2846,7 @@
     "ai_reason": "",
     "source_en": "Tear 'em to shreds!",
     "review_note": "",
-    "new_translation_vi": "Xé nát chúng ra!",
+    "new_translation_vi": "Xé xác chúng ra!",
     "translator_note": ""
   },
   {
@@ -2871,7 +2871,7 @@
     "ai_reason": "",
     "source_en": "Burn it down!",
     "review_note": "",
-    "new_translation_vi": "Thiêu rụi hết đi!",
+    "new_translation_vi": "Burn nhỏ tiếng thôi!",
     "translator_note": ""
   },
   {
@@ -2896,7 +2896,7 @@
     "ai_reason": "",
     "source_en": "Drink to glory!",
     "review_note": "",
-    "new_translation_vi": "Nâng ly chúc vinh quang!",
+    "new_translation_vi": "Cạn ly vì vinh quang!",
     "translator_note": ""
   },
   {
@@ -2921,7 +2921,7 @@
     "ai_reason": "",
     "source_en": "Caught you now!",
     "review_note": "",
-    "new_translation_vi": "Bắt được rồi!",
+    "new_translation_vi": "Bắt được ngươi rồi!",
     "translator_note": ""
   },
   {
@@ -2996,7 +2996,7 @@
     "ai_reason": "",
     "source_en": "Lackluster.",
     "review_note": "",
-    "new_translation_vi": "Nhạt nhẽo.",
+    "new_translation_vi": "Nhạt nhẽo quá.",
     "translator_note": ""
   },
   {
@@ -3046,7 +3046,7 @@
     "ai_reason": "",
     "source_en": "Is that all?",
     "review_note": "",
-    "new_translation_vi": "Chỉ có vậy thôi à?",
+    "new_translation_vi": "Chỉ có vậy thôi sao?",
     "translator_note": ""
   },
   {
@@ -3071,7 +3071,7 @@
     "ai_reason": "",
     "source_en": "Break! Darkness.",
     "review_note": "",
-    "new_translation_vi": "Phá vỡ! Bóng tối.",
+    "new_translation_vi": "Tan vỡ! Bóng tối.",
     "translator_note": ""
   },
   {
@@ -3096,7 +3096,7 @@
     "ai_reason": "",
     "source_en": "Die! Evil.",
     "review_note": "",
-    "new_translation_vi": "Chết đi! Quỷ dữ!",
+    "new_translation_vi": "Chết đi! Ác quỷ.",
     "translator_note": ""
   },
   {
@@ -3121,7 +3121,7 @@
     "ai_reason": "",
     "source_en": "Flee! Filth.",
     "review_note": "",
-    "new_translation_vi": "Tránh xa! Đồ dơ bẩn.",
+    "new_translation_vi": "Chạy đi! Đồ bẩn thỉu.",
     "translator_note": ""
   },
   {
@@ -3146,7 +3146,7 @@
     "ai_reason": "",
     "source_en": "Into the spotlight.",
     "review_note": "",
-    "new_translation_vi": "Bước vào ánh đèn sân khấu.",
+    "new_translation_vi": "Bước ra ánh sáng.",
     "translator_note": ""
   },
   {
@@ -3171,7 +3171,7 @@
     "ai_reason": "",
     "source_en": "Glory is upon us.",
     "review_note": "",
-    "new_translation_vi": "Vinh Quang đang đến với chúng ta.",
+    "new_translation_vi": "Vinh quang đang chờ đón.",
     "translator_note": ""
   },
   {
@@ -3196,7 +3196,7 @@
     "ai_reason": "",
     "source_en": "Together, we howl.",
     "review_note": "",
-    "new_translation_vi": "Cùng nhau, ta tru lên.",
+    "new_translation_vi": "Cùng nhau, chúng ta gầm vang.",
     "translator_note": ""
   },
   {
@@ -3221,7 +3221,7 @@
     "ai_reason": "",
     "source_en": "Triumph at the speartip!",
     "review_note": "",
-    "new_translation_vi": "Chiến thắng ở mũi giáo!",
+    "new_translation_vi": "Khải hoàn trên mũi giáo!",
     "translator_note": ""
   },
   {
@@ -3271,7 +3271,7 @@
     "ai_reason": "",
     "source_en": "With me, to victory!",
     "review_note": "",
-    "new_translation_vi": "Cùng ta, tiến đến chiến thắng!",
+    "new_translation_vi": "Theo ta, tiến tới chiến thắng!",
     "translator_note": ""
   },
   {
@@ -3296,7 +3296,7 @@
     "ai_reason": "",
     "source_en": "Cheer for me!",
     "review_note": "",
-    "new_translation_vi": "Hãy cổ vũ cho ta!",
+    "new_translation_vi": "Cổ vũ cho ta đi!",
     "translator_note": ""
   },
   {
@@ -3321,7 +3321,7 @@
     "ai_reason": "",
     "source_en": "Applaud for me!",
     "review_note": "",
-    "new_translation_vi": "Vỗ tay cho ta đi!",
+    "new_translation_vi": "Hãy tán thưởng ta đi!",
     "translator_note": ""
   },
   {
@@ -3346,7 +3346,7 @@
     "ai_reason": "",
     "source_en": "Try that again!",
     "review_note": "",
-    "new_translation_vi": "Thử lại lần nữa đi!",
+    "new_translation_vi": "Thử lại lần nữa xem!",
     "translator_note": ""
   },
   {
@@ -3371,7 +3371,7 @@
     "ai_reason": "",
     "source_en": "Meaningless move.",
     "review_note": "",
-    "new_translation_vi": "Động tác vô nghĩa.",
+    "new_translation_vi": "Chiêu thức vô nghĩa.",
     "translator_note": ""
   },
   {
@@ -3396,7 +3396,7 @@
     "ai_reason": "",
     "source_en": "Hah, that's some attack.",
     "review_note": "",
-    "new_translation_vi": "Haha, đòn tấn công đó khá đấy.",
+    "new_translation_vi": "Hah, đòn tấn công khá đấy.",
     "translator_note": ""
   },
   {
@@ -3421,7 +3421,7 @@
     "ai_reason": "",
     "source_en": "Now's the second half!",
     "review_note": "",
-    "new_translation_vi": "Giờ là hiệp hai rồi!",
+    "new_translation_vi": "Giờ là hiệp hai đây!",
     "translator_note": ""
   },
   {
@@ -3496,7 +3496,7 @@
     "ai_reason": "",
     "source_en": "The scent of... Bloodleaf Viburnum...",
     "review_note": "",
-    "new_translation_vi": "Mùi... Kim Ngân Hoa Đẫm Máu...",
+    "new_translation_vi": "Mùi hương của... Bloodleaf Viburnum...",
     "translator_note": ""
   },
   {
@@ -3521,7 +3521,7 @@
     "ai_reason": "",
     "source_en": "Does the Vale of Glory await me?",
     "review_note": "",
-    "new_translation_vi": "Thung Lũng Vinh Quang đang chờ ta sao?",
+    "new_translation_vi": "Liệu Vale of Glory có đang chờ đợi ta?",
     "translator_note": ""
   },
   {
@@ -3596,7 +3596,7 @@
     "ai_reason": "",
     "source_en": "I hear cowering prey.",
     "review_note": "",
-    "new_translation_vi": "Ta nghe thấy con mồi đang run sợ.",
+    "new_translation_vi": "Ta nghe thấy tiếng con mồi đang run rẩy.",
     "translator_note": ""
   },
   {
@@ -3621,7 +3621,7 @@
     "ai_reason": "",
     "source_en": "Winds of the wild!",
     "review_note": "",
-    "new_translation_vi": "Gió Hoang Dã!",
+    "new_translation_vi": "Những cơn gió hoang dã!",
     "translator_note": ""
   },
   {
@@ -3671,7 +3671,7 @@
     "ai_reason": "",
     "source_en": "Prey secured!",
     "review_note": "",
-    "new_translation_vi": "Mục tiêu đã bị khóa chặt!",
+    "new_translation_vi": "Đã tóm được con mồi!",
     "translator_note": ""
   },
   {
@@ -3696,7 +3696,7 @@
     "ai_reason": "",
     "source_en": "Heh, pretty good haul.",
     "review_note": "",
-    "new_translation_vi": "Hừ, lượm được kha khá đấy.",
+    "new_translation_vi": "Heh, thu hoạch khá đấy.",
     "translator_note": ""
   },
   {
@@ -3721,7 +3721,7 @@
     "ai_reason": "",
     "source_en": "You get first dibs!",
     "review_note": "",
-    "new_translation_vi": "Ngươi được quyền chọn trước!",
+    "new_translation_vi": "Cậu chọn trước đi!",
     "translator_note": ""
   },
   {
@@ -3771,7 +3771,7 @@
     "ai_reason": "",
     "source_en": "Delete current deck?",
     "review_note": "",
-    "new_translation_vi": "Xóa bộ trang bị hiện tại?",
+    "new_translation_vi": "Xóa bộ bài hiện tại?",
     "translator_note": ""
   },
   {
@@ -3796,7 +3796,7 @@
     "ai_reason": "",
     "source_en": "This Echo is locked. Cannot be added.",
     "review_note": "",
-    "new_translation_vi": "Hồi Âm này đã bị khóa. Không thể thêm vào.",
+    "new_translation_vi": "Echo này đã bị khóa. Không thể thêm vào.",
     "translator_note": ""
   },
   {
@@ -3821,7 +3821,7 @@
     "ai_reason": "",
     "source_en": "Core Echo already selected. Unable to add more Core Echoes.",
     "review_note": "",
-    "new_translation_vi": "Đã chọn Tâm Ảnh Cốt Lõi. Không thể thêm nữa.",
+    "new_translation_vi": "Core Echo đã được chọn. Không thể thêm Core Echoes nữa.",
     "translator_note": ""
   },
   {
@@ -3846,7 +3846,7 @@
     "ai_reason": "",
     "source_en": "Normal Echo cap reached. Unable to add more.",
     "review_note": "",
-    "new_translation_vi": "Đã đạt giới hạn Tiếng Vọng Thường. Không thể thêm nữa.",
+    "new_translation_vi": "Đã đạt giới hạn Normal Echo. Không thể thêm nữa.",
     "translator_note": ""
   },
   {
@@ -3871,7 +3871,7 @@
     "ai_reason": "",
     "source_en": "Default deck is employed in this duel, no need to build your own deck.",
     "review_note": "",
-    "new_translation_vi": "Bộ bài mặc định đã được sử dụng trong trận đấu này, không cần xây dựng bộ bài riêng.",
+    "new_translation_vi": "Bộ bài mặc định được sử dụng trong trận đấu này, không cần phải tự xây dựng bộ bài.",
     "translator_note": ""
   },
   {
@@ -3888,15 +3888,15 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "<color=#e2524c>{0}</color>/{1}",
     "review_note": "",
-    "new_translation_vi": "{0}/{1}",
+    "new_translation_vi": "<color=#e2524c>{0}</color>/{1}",
     "translator_note": ""
   },
   {
@@ -3921,7 +3921,7 @@
     "ai_reason": "",
     "source_en": "Mya is haunted by maddening voices that whisper constantly.",
     "review_note": "",
-    "new_translation_vi": "Mya bị ám ảnh bởi những tiếng nói điên loạn không ngừng thì thầm.",
+    "new_translation_vi": "Mya bị ám ảnh bởi những giọng nói điên cuồng không ngừng thì thầm.",
     "translator_note": ""
   },
   {
@@ -3946,7 +3946,7 @@
     "ai_reason": "",
     "source_en": "A small Septimontian hands Mya a bouquet of Bloodleaf Viburnum.",
     "review_note": "",
-    "new_translation_vi": "Một đứa trẻ Septimontian nhỏ trao cho Mya một bó hoa Guelder Đỏ Máu.",
+    "new_translation_vi": "Một người Septimontian nhỏ bé đưa cho Mya một bó hoa Bloodleaf Viburnum.",
     "translator_note": ""
   },
   {
@@ -3971,7 +3971,7 @@
     "ai_reason": "",
     "source_en": "Mya sacrifices her life and plunges into the sea.",
     "review_note": "",
-    "new_translation_vi": "Mya hy sinh mạng sống, lao mình xuống biển.",
+    "new_translation_vi": "Mya hy sinh mạng sống và lao mình xuống biển.",
     "translator_note": ""
   },
   {
@@ -3996,7 +3996,7 @@
     "ai_reason": "",
     "source_en": "Lupa is swallowed by the tide's relentless churn.",
     "review_note": "",
-    "new_translation_vi": "Lupa bị cuốn vào dòng xoáy không ngừng của thủy triều.",
+    "new_translation_vi": "Lupa bị nhấn chìm bởi những con sóng dữ dội của tide.",
     "translator_note": ""
   },
   {
@@ -4021,7 +4021,7 @@
     "ai_reason": "",
     "source_en": "Cartethyia slices through the blue incubator in the darkness, her sword aimed at the girl curled within.",
     "review_note": "",
-    "new_translation_vi": "Trong bóng tối, Cartethyia vung kiếm chém xuyên qua bình ấp màu xanh, lưỡi kiếm nhắm thẳng vào cô gái đang co ro bên trong.",
+    "new_translation_vi": "Cartethyia chém xuyên qua lồng ấp màu xanh trong bóng tối, thanh kiếm nhắm thẳng vào cô bé đang cuộn mình bên trong.",
     "translator_note": ""
   },
   {
@@ -4046,7 +4046,7 @@
     "ai_reason": "",
     "source_en": "Cartethyia defeats the Guardian Arsinosa's fallen form.",
     "review_note": "",
-    "new_translation_vi": "Cartethyia đánh bại hình hài sa ngã của Người Bảo Vệ Arsinosa.",
+    "new_translation_vi": "Cartethyia đánh bại hình hài đã gục ngã của Guardian Arsinosa.",
     "translator_note": ""
   },
   {
@@ -4071,7 +4071,7 @@
     "ai_reason": "",
     "source_en": "Cartethyia travels with the Nameless One in the desolate city, searching for the abomination created by the Threnodian.",
     "review_note": "",
-    "new_translation_vi": "Cartethyia cùng với Kẻ Vô Danh lang thang trong thành phố hoang tàn, truy tìm quái vật do Threnodian tạo ra.",
+    "new_translation_vi": "Cartethyia đồng hành cùng Nameless One trong thành phố hoang tàn, tìm kiếm thực thể gớm ghiếc do Threnodian tạo ra.",
     "translator_note": ""
   },
   {
@@ -4096,7 +4096,7 @@
     "ai_reason": "",
     "source_en": "As the story nears its close, Cartethyia sets off to hunt down the Playwright who's behind all of it.",
     "review_note": "",
-    "new_translation_vi": "Khi câu chuyện sắp đến hồi kết, Cartethyia lên đường truy lùng Playwright – kẻ đứng sau mọi chuyện.",
+    "new_translation_vi": "Khi câu chuyện dần đi đến hồi kết, Cartethyia lên đường săn lùng Playwright, kẻ đứng sau tất cả mọi chuyện.",
     "translator_note": ""
   },
   {
@@ -4121,7 +4121,7 @@
     "ai_reason": "",
     "source_en": "You cross paths with Gladiator Lupa in Septimont.",
     "review_note": "",
-    "new_translation_vi": "Ngươi gặp lại Chiến Binh Lupa ở Septimont.",
+    "new_translation_vi": "Cậu tình cờ gặp Gladiator Lupa tại Septimont.",
     "translator_note": ""
   },
   {
@@ -4146,7 +4146,7 @@
     "ai_reason": "",
     "source_en": "You and Cartethyia fight side by side in a battle no one sees.",
     "review_note": "",
-    "new_translation_vi": "Cậu và Cartethyia chiến đấu bên nhau trong một trận chiến không ai chứng kiến.",
+    "new_translation_vi": "Cậu và Cartethyia sát cánh chiến đấu trong một trận chiến không ai hay biết.",
     "translator_note": ""
   },
   {
@@ -4171,7 +4171,7 @@
     "ai_reason": "",
     "source_en": "In the final moments, you decide to leave Lupa with the seed of hope.",
     "review_note": "",
-    "new_translation_vi": "Trong khoảnh khắc cuối cùng, cậu quyết định để Lupa ở lại cùng hạt mầm hy vọng.",
+    "new_translation_vi": "Trong những khoảnh khắc cuối cùng, cậu quyết định leave Lupa bằng hạt giống hy vọng.",
     "translator_note": ""
   },
   {
@@ -4196,7 +4196,7 @@
     "ai_reason": "",
     "source_en": "Lupa regains her lost memories and moves forward, guided by the trust you placed in her.",
     "review_note": "",
-    "new_translation_vi": "Lupa lấy lại những ký ức đã mất và bước tiếp về phía trước, được dẫn dắt bởi niềm tin mà cậu đã đặt vào nàng.",
+    "new_translation_vi": "Lupa lấy lại những ký ức đã mất và tiến về phía trước, được dẫn lối bởi niềm tin mà cậu đặt vào cô ấy.",
     "translator_note": ""
   },
   {
@@ -4221,7 +4221,7 @@
     "ai_reason": "",
     "source_en": "Lupa defeats the Lady of the Sea. After a relentless battle, Mya's Reverberation is finally freed from its curse.",
     "review_note": "",
-    "new_translation_vi": "Lupa đánh bại Nữ Chúa Biển. Sau trận chiến không khoan nhượng, Reverberation của Mya cuối cùng cũng được giải thoát khỏi lời nguyền.",
+    "new_translation_vi": "Lupa đánh bại Lady of the Sea. Sau một trận chiến không khoan nhượng, Reverberation của Mya cuối cùng cũng được giải thoát khỏi lời nguyền.",
     "translator_note": ""
   },
   {
@@ -4246,7 +4246,7 @@
     "ai_reason": "",
     "source_en": "The three of you reunite. Together, you are the true playwrights of the story.",
     "review_note": "",
-    "new_translation_vi": "Ba người các cậu đã đoàn tụ. Cùng nhau, các cậu mới là những người viết nên câu chuyện thực sự.",
+    "new_translation_vi": "Cả ba người đoàn tụ. Cùng nhau, các bạn chính là những người viết kịch bản thực thụ của câu chuyện này.",
     "translator_note": ""
   },
   {
@@ -4271,7 +4271,7 @@
     "ai_reason": "",
     "source_en": "Before the scripts burn and fade into oblivion, Phrolova takes the gem from Mya's helmet.",
     "review_note": "",
-    "new_translation_vi": "Trước khi những trang bản thảo cháy rụi và biến mất vào hư vô, Phrolova lấy viên ngọc từ mũ bảo hiểm của Mya.",
+    "new_translation_vi": "Trước khi các kịch bản burn và tan biến vào hư vô, Phrolova lấy viên ngọc từ mũ giáp của Mya.",
     "translator_note": ""
   },
   {
@@ -4296,7 +4296,7 @@
     "ai_reason": "",
     "source_en": "Tada! A grand overture.",
     "review_note": "",
-    "new_translation_vi": "Tada! Khúc dạo đầu hùng tráng.",
+    "new_translation_vi": "Tada! Một overture hoành tráng.",
     "translator_note": ""
   },
   {
@@ -4321,7 +4321,7 @@
     "ai_reason": "",
     "source_en": "Solo time.",
     "review_note": "",
-    "new_translation_vi": "Thời khắc cô độc.",
+    "new_translation_vi": "Đến lúc độc diễn rồi.",
     "translator_note": ""
   },
   {
@@ -4346,7 +4346,7 @@
     "ai_reason": "",
     "source_en": "Perfect wrap-up.",
     "review_note": "",
-    "new_translation_vi": "Hoàn hảo!",
+    "new_translation_vi": "Kết thúc hoàn hảo.",
     "translator_note": ""
   },
   {
@@ -4371,7 +4371,7 @@
     "ai_reason": "",
     "source_en": "Insufficient Echoes to Quick Build your deck. Please build it manually.",
     "review_note": "",
-    "new_translation_vi": "Echo không đủ để Xây Dựng Nhanh bộ bài. Vui lòng xây dựng thủ công.",
+    "new_translation_vi": "Không đủ Echoes để xây dựng nhanh bộ bài. Vui lòng tự xây dựng thủ công.",
     "translator_note": ""
   },
   {
@@ -4396,7 +4396,7 @@
     "ai_reason": "",
     "source_en": "A deck will be created from the selected preset, and will <color=#e2524c>overwrite</color> your current deck. Proceed?",
     "review_note": "",
-    "new_translation_vi": "Bộ bài sẽ được tạo từ thiết lập có sẵn đã chọn và sẽ <color=#e2524c>ghi đè</color> lên bộ bài hiện tại của bạn. Tiếp tục chứ?",
+    "new_translation_vi": "Một bộ bài sẽ được tạo từ thiết lập đã chọn và sẽ <color=#e2524c>ghi đè</color> lên bộ bài hiện tại của cậu. Tiếp tục chứ?",
     "translator_note": ""
   },
   {
@@ -4446,7 +4446,7 @@
     "ai_reason": "",
     "source_en": "Round: <color=#ffffff>{0}</color>/<color=#98a1a0>{1}</color>",
     "review_note": "",
-    "new_translation_vi": "Vòng: <color=#ffffff>{0}</color>/<color=#98a1a0>{1}</color>",
+    "new_translation_vi": "Hiệp: <color=#ffffff>{0}</color>/<color=#98a1a0>{1}</color>",
     "translator_note": ""
   },
   {
@@ -4471,7 +4471,7 @@
     "ai_reason": "",
     "source_en": "Meet the following requirements to unlock.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành các yêu cầu sau để mở khóa.",
+    "new_translation_vi": "Đáp ứng các yêu cầu sau để mở khóa.",
     "translator_note": ""
   },
   {
@@ -4521,7 +4521,7 @@
     "ai_reason": "",
     "source_en": "Meet the following conditions to gain early access.",
     "review_note": "",
-    "new_translation_vi": "Đáp ứng các điều kiện sau để được tham gia sớm.",
+    "new_translation_vi": "Đáp ứng các điều kiện sau để nhận quyền truy cập sớm.",
     "translator_note": ""
   },
   {
@@ -4546,7 +4546,7 @@
     "ai_reason": "",
     "source_en": "Meet one of the following conditions to gain early access.",
     "review_note": "",
-    "new_translation_vi": "Đáp ứng một trong các điều kiện sau để được tham gia sớm.",
+    "new_translation_vi": "Đáp ứng một trong các điều kiện sau để nhận quyền truy cập sớm.",
     "translator_note": ""
   },
   {
@@ -4571,7 +4571,7 @@
     "ai_reason": "",
     "source_en": "Flames ignite the cheers of the arena, as the wolf tears out the throats of every shadow. She is the brightest star on the field.",
     "review_note": "",
-    "new_translation_vi": "Lửa thắp sáng tiếng reo hò của đấu trường, khi con sói xé nát cổ họng từng bóng tối. Nàng là ngôi sao sáng nhất trên chiến địa.",
+    "new_translation_vi": "Ngọn lửa bùng cháy theo tiếng reo hò của đấu trường, khi con sói xé toạc cổ họng của mọi bóng ma. Cô ấy là ngôi sao sáng nhất trên sân đấu.",
     "translator_note": ""
   },
   {
@@ -4596,7 +4596,7 @@
     "ai_reason": "",
     "source_en": "New scenes arise from the pages.",
     "review_note": "",
-    "new_translation_vi": "Những cảnh mới hiện lên từ trang sách.",
+    "new_translation_vi": "Những cảnh tượng mới xuất hiện từ các trang sách.",
     "translator_note": ""
   },
   {
@@ -4621,7 +4621,7 @@
     "ai_reason": "",
     "source_en": "Complete Tactical Hologram: Phantom Pain - Kelpie I.",
     "review_note": "",
-    "new_translation_vi": "Bản Chiến Thuật Toàn Ảnh Hoàn Chỉnh: Phantom Pain - Kelpie I.",
+    "new_translation_vi": "Hoàn thành Tactical Hologram: Phantom Pain - Kelpie I.",
     "translator_note": ""
   },
   {
@@ -4646,7 +4646,7 @@
     "ai_reason": "",
     "source_en": "Complete Tactical Hologram: Phantom Pain - Kelpie VI.",
     "review_note": "",
-    "new_translation_vi": "Bản Chiến Thuật Toàn Ảnh Hoàn Chỉnh: Phantom Pain - Kelpie VI.",
+    "new_translation_vi": "Hoàn thành Tactical Hologram: Phantom Pain - Kelpie VI.",
     "translator_note": ""
   },
   {
@@ -4671,7 +4671,7 @@
     "ai_reason": "",
     "source_en": "Obtain all rewards in Respawning Waters of Whimpering Wastes.",
     "review_note": "",
-    "new_translation_vi": "Nhận tất cả phần thưởng trong \"Dòng Nước Tái Sinh của Vùng Đất Than Thở.\"",
+    "new_translation_vi": "Nhận tất cả phần thưởng trong Respawning Waters of Whimpering Wastes.",
     "translator_note": ""
   },
   {
@@ -4696,7 +4696,7 @@
     "ai_reason": "",
     "source_en": "Current Festivity Point(s): <color=#ffd12f>{0}</color>",
     "review_note": "",
-    "new_translation_vi": "Điểm Hoạt Động Hiện Tại: <color=#ffd12f>{0}</color>",
+    "new_translation_vi": "Điểm Lễ Hội hiện tại: <color=#ffd12f>{0}</color>",
     "translator_note": ""
   },
   {
@@ -4746,7 +4746,7 @@
     "ai_reason": "",
     "source_en": "Deck Attribute limit reached. Unable to add Echoes of a new Attribute.",
     "review_note": "",
-    "new_translation_vi": "Đã đạt giới hạn Thuộc tính Bộ bài. Không thể thêm Echo thuộc Thuộc tính mới.",
+    "new_translation_vi": "Đã đạt giới hạn Thuộc tính Bộ bài. Không thể thêm Echo của Thuộc tính mới.",
     "translator_note": ""
   },
   {
@@ -4763,15 +4763,15 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "<color=#f09f4e>{0}</color>/{1}",
     "review_note": "",
-    "new_translation_vi": "{0}/{1}",
+    "new_translation_vi": "<color=#f09f4e>{0}</color>/{1}",
     "translator_note": ""
   },
   {
@@ -4788,15 +4788,15 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "<color=#f09f4e>{0}</color>/{1}",
     "review_note": "",
-    "new_translation_vi": "{0}/{1}",
+    "new_translation_vi": "<color=#f09f4e>{0}</color>/{1}",
     "translator_note": ""
   },
   {
@@ -4813,15 +4813,15 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "<color=#c7fe96>{0}</color>",
     "review_note": "",
-    "new_translation_vi": "{0}",
+    "new_translation_vi": "<color=#c7fe96>{0}</color>",
     "translator_note": ""
   },
   {
@@ -4838,15 +4838,15 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "<color=#ff758d>{0}</color>",
     "review_note": "",
-    "new_translation_vi": "{0}",
+    "new_translation_vi": "<color=#ff758d>{0}</color>",
     "translator_note": ""
   },
   {
@@ -4888,15 +4888,15 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "missing_token:<te href=851000>|missing_token:</te>",
-    "rule_decision": "RETRY",
-    "rule_score": 6,
-    "rule_issues": "missing_token:<te href=851000>,missing_token:</te>",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "<te href=851000><color=#c79f49>Dream of Gradation</color></te> Echoes are more likely to appear.",
     "review_note": "",
-    "new_translation_vi": "<color=#c79f49>Giấc Mơ Phân Tầng</color> có khả năng xuất hiện Echo cao hơn.",
+    "new_translation_vi": "Tăng khả năng xuất hiện Echo <te href=851000><color=#c79f49>Dream of Gradation</color></te>.",
     "translator_note": ""
   },
   {
@@ -4913,15 +4913,15 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "missing_token:<te href=851001>|missing_token:</te>",
-    "rule_decision": "RETRY",
-    "rule_score": 6,
-    "rule_issues": "missing_token:<te href=851001>,missing_token:</te>",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "<te href=851001><color=#c79f49>Dream of Devouring</color></te> Echoes are more likely to appear.",
     "review_note": "",
-    "new_translation_vi": "<color=#c79f49>Giấc Mơ Nuốt Chửng</color> có khả năng xuất hiện Echo cao hơn.",
+    "new_translation_vi": "Tăng khả năng xuất hiện Echo <te href=851001><color=#c79f49>Dream of Devouring</color></te>.",
     "translator_note": ""
   },
   {
@@ -4938,15 +4938,15 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "missing_token:<te href=851002>|missing_token:</te>",
-    "rule_decision": "RETRY",
-    "rule_score": 6,
-    "rule_issues": "missing_token:<te href=851002>,missing_token:</te>",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "<te href=851002><color=#c79f49>Dream of Exchange</color></te> Echoes are more likely to appear.",
     "review_note": "",
-    "new_translation_vi": "<color=#c79f49>Giấc Mơ Trao Đổi</color> có khả năng xuất hiện Echo cao hơn.",
+    "new_translation_vi": "Tăng khả năng xuất hiện Echo <te href=851002><color=#c79f49>Dream of Exchange</color></te>.",
     "translator_note": ""
   },
   {
@@ -4963,15 +4963,15 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "missing_token:<te href=851003>|missing_token:</te>",
-    "rule_decision": "RETRY",
-    "rule_score": 6,
-    "rule_issues": "missing_token:<te href=851003>,missing_token:</te>",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "<te href=851003><color=#c79f49>Dream of Integration</color></te> Echoes are more likely to appear.",
     "review_note": "",
-    "new_translation_vi": "<color=#c79f49>Giấc Mơ Hòa Nhập</color> có khả năng xuất hiện Echo cao hơn.",
+    "new_translation_vi": "Tăng khả năng xuất hiện Echo <te href=851003><color=#c79f49>Dream of Integration</color></te>.",
     "translator_note": ""
   },
   {
@@ -4996,7 +4996,7 @@
     "ai_reason": "",
     "source_en": "Phase Goals are harder to reach.\nThe Infinite Mode is available after clearing the Stage Goal.",
     "review_note": "",
-    "new_translation_vi": "Mục tiêu Giai đoạn khó đạt hơn rồi.\nChế độ Vô Tận sẽ mở khóa sau khi hoàn thành Mục tiêu Giai đoạn.",
+    "new_translation_vi": "Mục tiêu Giai đoạn khó đạt được hơn.\\nChế độ Vô tận sẽ khả dụng sau khi hoàn thành Mục tiêu Màn chơi.",
     "translator_note": ""
   },
   {
@@ -5021,7 +5021,7 @@
     "ai_reason": "",
     "source_en": "The Dream Attributes for this stage are fixed.",
     "review_note": "",
-    "new_translation_vi": "Thuộc tính Giấc Mơ của giai đoạn này đã được cố định.",
+    "new_translation_vi": "Các Thuộc tính Giấc mơ cho màn chơi này đã được cố định.",
     "translator_note": ""
   },
   {
@@ -5046,7 +5046,7 @@
     "ai_reason": "",
     "source_en": "Endless Challenge - Normal locked. Level up to proceed.",
     "review_note": "",
-    "new_translation_vi": "Thử Thách Vô Tận - Bình Thường chưa mở khóa. Hãy tăng cấp để tiếp tục.",
+    "new_translation_vi": "Thử thách Vô tận - Thường đã bị khóa. Hãy tăng cấp để tiếp tục.",
     "translator_note": ""
   },
   {
@@ -5071,7 +5071,7 @@
     "ai_reason": "",
     "source_en": "Endless Challenge - Difficult locked. Level up to proceed.",
     "review_note": "",
-    "new_translation_vi": "Thử Thách Vô Tận - Độ Khó Khó chưa mở khóa. Hãy tăng cấp để tiếp tục.",
+    "new_translation_vi": "Thử thách Vô tận - Khó đã bị khóa. Hãy tăng cấp để tiếp tục.",
     "translator_note": ""
   },
   {
@@ -5096,7 +5096,7 @@
     "ai_reason": "",
     "source_en": "There are still actions available this turn. Are you sure you want to start the Battle Stage now?",
     "review_note": "",
-    "new_translation_vi": "Vẫn còn hành động khả dụng trong lượt này. Cậu chắc chắn muốn bắt đầu Giai Đoạn Chiến Đấu ngay bây giờ chứ?",
+    "new_translation_vi": "Vẫn còn lượt hành động trong vòng này. Bạn có chắc chắn muốn bắt đầu Màn Chiến đấu ngay bây giờ không?",
     "translator_note": ""
   },
   {
@@ -5121,7 +5121,7 @@
     "ai_reason": "",
     "source_en": "The current filter settings haven't been applied. Are you sure you want to leave?",
     "review_note": "",
-    "new_translation_vi": "Cài đặt bộ lọc hiện tại chưa được áp dụng. Bạn có chắc muốn rời đi không?",
+    "new_translation_vi": "Cài đặt bộ lọc hiện tại chưa được áp dụng. Bạn có chắc chắn muốn leave không?",
     "translator_note": ""
   },
   {
@@ -5146,7 +5146,7 @@
     "ai_reason": "",
     "source_en": "Trial: Have 3 Activated \"Flank Force\" in the Deployment Zone, or reach Round 5.",
     "review_note": "",
-    "new_translation_vi": "Thử thách: Kích hoạt 3 \"Lực Flank\" trong Vùng Triệu Hồi, hoặc đến lượt 5.",
+    "new_translation_vi": "Thử thách: Có 3 \"Flank Force\" đã kích hoạt trong Khu vực Triển khai, hoặc đạt đến Vòng 5.",
     "translator_note": ""
   },
   {
@@ -5171,7 +5171,7 @@
     "ai_reason": "",
     "source_en": "Trial: Modulate 8 times, or reach Round 5.",
     "review_note": "",
-    "new_translation_vi": "Thử thách: Điều biến 8 lần, hoặc đến lượt 5.",
+    "new_translation_vi": "Thử thách: Điều biến 8 lần, hoặc đạt đến Vòng 5.",
     "translator_note": ""
   },
   {
@@ -5196,7 +5196,7 @@
     "ai_reason": "",
     "source_en": "Trial: Lose 3 Battle Stages in total, or reach Round 5.",
     "review_note": "",
-    "new_translation_vi": "Thử thách: Mất tổng cộng 3 Sân Chiến, hoặc đến lượt 5.",
+    "new_translation_vi": "Thử thách: Thua tổng cộng 3 Màn Chiến đấu, hoặc đạt đến Vòng 5.",
     "translator_note": ""
   },
   {
@@ -5221,7 +5221,7 @@
     "ai_reason": "",
     "source_en": "Trial: Use Transform 5 times, or reach Round 5.",
     "review_note": "",
-    "new_translation_vi": "Thử thách: Sử dụng Biến hình 5 lần, hoặc đạt Vòng 5.",
+    "new_translation_vi": "Thử thách: Sử dụng Biến đổi 5 lần, hoặc đạt đến Vòng 5.",
     "translator_note": ""
   },
   {
@@ -5246,7 +5246,7 @@
     "ai_reason": "",
     "source_en": "Trial: Have 6 of your Echoes downed in total, or reach Round 5.",
     "review_note": "",
-    "new_translation_vi": "Thử thách: Tổng cộng 6 Echo của bạn bị hạ gục, hoặc đến lượt 5.",
+    "new_translation_vi": "Thử thách: Có tổng cộng 6 Echo bị hạ gục, hoặc đạt đến Vòng 5.",
     "translator_note": ""
   },
   {
@@ -5271,7 +5271,7 @@
     "ai_reason": "",
     "source_en": "Trial: Have 3 Activated \"Flank Force\" in the Deployment Zone (Current: {0}), or reach Round 5.",
     "review_note": "",
-    "new_translation_vi": "Thử thách: Kích hoạt 3 \"Lực Flank\" trong Vùng Triệu Hồi (Hiện tại: {0}), hoặc đến lượt 5.",
+    "new_translation_vi": "Thử thách: Có 3 \"Flank Force\" đã kích hoạt trong Khu vực Triển khai (Hiện tại: {0}), hoặc đạt đến Vòng 5.",
     "translator_note": ""
   },
   {
@@ -5296,7 +5296,7 @@
     "ai_reason": "",
     "source_en": "Trial: Modulate 8 times (Current: {0}), or reach Round 5.",
     "review_note": "",
-    "new_translation_vi": "Thử thách: Điều biến 8 lần (Hiện tại: {0}), hoặc đến lượt 5.",
+    "new_translation_vi": "Thử thách: Điều biến 8 lần (Hiện tại: {0}), hoặc đạt đến Vòng 5.",
     "translator_note": ""
   },
   {
@@ -5321,7 +5321,7 @@
     "ai_reason": "",
     "source_en": "Trial: Lose 3 Battle Stages in total (Current: {0}), or reach Round 5.",
     "review_note": "",
-    "new_translation_vi": "Thử thách: Mất tổng cộng 3 Sân Chiến (Hiện tại: {0}), hoặc đến lượt 5.",
+    "new_translation_vi": "Thử thách: Thua tổng cộng 3 Màn Chiến đấu (Hiện tại: {0}), hoặc đạt đến Vòng 5.",
     "translator_note": ""
   },
   {
@@ -5346,7 +5346,7 @@
     "ai_reason": "",
     "source_en": "Trial: Use Transform 5 times (Current: {0}), or reach Round 5.",
     "review_note": "",
-    "new_translation_vi": "Thử thách: Sử dụng Biến hình 5 lần (Hiện tại: {0}), hoặc đạt Vòng 5.",
+    "new_translation_vi": "Thử thách: Sử dụng Biến đổi 5 lần (Hiện tại: {0}), hoặc đạt đến Vòng 5.",
     "translator_note": ""
   },
   {
@@ -5371,7 +5371,7 @@
     "ai_reason": "",
     "source_en": "Trial: Have 6 of your Echoes downed in total (Current: {0}), or reach Round 5.",
     "review_note": "",
-    "new_translation_vi": "Thử thách: Tổng cộng 6 Echo của bạn bị hạ gục (Hiện tại: {0}), hoặc đến lượt 5.",
+    "new_translation_vi": "Thử thách: Có tổng cộng 6 Echo bị hạ gục (Hiện tại: {0}), hoặc đạt đến Vòng 5.",
     "translator_note": ""
   },
   {
@@ -5396,7 +5396,7 @@
     "ai_reason": "",
     "source_en": "All Out! Towards the Peaks of Prestige",
     "review_note": "",
-    "new_translation_vi": "Tất Cả Vào Cuộc! Vươn Tới Đỉnh Danh Vọng",
+    "new_translation_vi": "Tất cả cùng tiến! Hướng tới những đỉnh cao của Prestige",
     "translator_note": ""
   },
   {
@@ -5413,15 +5413,15 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "<color=#ffc802>{0}</color>/{1}",
     "review_note": "",
-    "new_translation_vi": "{0}/{1}",
+    "new_translation_vi": "<color=#ffc802>{0}</color>/{1}",
     "translator_note": ""
   },
   {
@@ -5446,7 +5446,7 @@
     "ai_reason": "",
     "source_en": "Collected Medals of Prestige: {0}/{1}",
     "review_note": "",
-    "new_translation_vi": "Huy Chương Uy Tín đã thu thập: {0}/{1}",
+    "new_translation_vi": "Huy chương Prestige đã thu thập: {0}/{1}",
     "translator_note": ""
   },
   {
@@ -5496,7 +5496,7 @@
     "ai_reason": "",
     "source_en": "Agrippa the Ironheart's Medal of Prestige. It was forged by Agrippa himself while Putini studied his every move.",
     "review_note": "",
-    "new_translation_vi": "Huy chương Uy Tín của Agrippa Trái Tim Sắt. Chính Agrippa đã rèn nó trong khi Putini quan sát từng động tác của ông.",
+    "new_translation_vi": "Huy chương Prestige của Agrippa Ironheart. Nó được chính Agrippa rèn nên trong khi Putini quan sát từng cử động của ông ấy.",
     "translator_note": ""
   },
   {
@@ -5521,7 +5521,7 @@
     "ai_reason": "",
     "source_en": "Liliania the Splendent's Medal of Prestige. Liliania treasures every glance from her fans, and she works hard to never let them down.",
     "review_note": "",
-    "new_translation_vi": "Huy Chương Uy Tín của Liliana Rực Rỡ. Liliana trân trọng từng ánh nhìn từ người hâm mộ và luôn nỗ lực để không bao giờ phụ lòng họ.",
+    "new_translation_vi": "Huy chương Prestige của Liliania the Splendent. Liliania trân trọng từng ánh nhìn từ người hâm mộ, và cô luôn nỗ lực để không bao giờ làm họ thất vọng.",
     "translator_note": ""
   },
   {
@@ -5546,7 +5546,7 @@
     "ai_reason": "",
     "source_en": "Marcia the Lifespring's Medal of Prestige. Gladiators often complain about her bitter potions, yet they still call her the \"Lifespring\" with admiration.",
     "review_note": "",
-    "new_translation_vi": "Huy chương Uy Tín của Marcia Suối Nguồn Sống. Các đấu sĩ thường than phiền về những liều thuốc đắng nghét của cô, nhưng vẫn gọi cô là \"Suối Nguồn Sống\" với lòng ngưỡng mộ.",
+    "new_translation_vi": "Huy chương Prestige của Marcia the Lifespring. Các đấu sĩ thường phàn nàn về những loại thuốc đắng của cô, nhưng họ vẫn ngưỡng mộ gọi cô là \"Lifespring\".",
     "translator_note": ""
   },
   {
@@ -5571,7 +5571,7 @@
     "ai_reason": "",
     "source_en": "Raul the Dustbound's Medal of Prestige. Raul once stood in the arena, fighting with all his heart for glory.",
     "review_note": "",
-    "new_translation_vi": "Huy Chương Uy Tín của Raul Bụi Đời. Raul từng đứng trên đấu trường, chiến đấu hết mình vì vinh quang.",
+    "new_translation_vi": "Huy chương Prestige của Raul the Dustbound. Raul từng đứng trên đấu trường, chiến đấu hết mình vì vinh quang.",
     "translator_note": ""
   },
   {
@@ -5596,7 +5596,7 @@
     "ai_reason": "",
     "source_en": "Gallus the Nightmare's Medal of Prestige. But enough of that, care for a round of Peaks of Prestige?",
     "review_note": "",
-    "new_translation_vi": "Huy chương Danh Vọng của Gallus Ác Mộng. Nhưng thôi, chơi một ván *Đỉnh Cao Danh Vọng* không?",
+    "new_translation_vi": "Huy chương Prestige của Gallus the Nightmare. Nhưng thôi, làm một ván Peaks of Prestige không?",
     "translator_note": ""
   },
   {
@@ -5621,7 +5621,7 @@
     "ai_reason": "",
     "source_en": "Furius the Firebrand's Medal of Prestige. Peaks of Prestige brought him risk, fatigue, and burden, but in the end, passion won out.",
     "review_note": "",
-    "new_translation_vi": "Huy chương Danh Vọng của Furius Ngọn Lửa Bất Khuất. Những đỉnh cao danh vọng mang đến cho hắn hiểm nguy, mệt mỏi và gánh nặng, nhưng cuối cùng, đam mê đã chiến thắng tất cả.",
+    "new_translation_vi": "Huy chương Prestige của Furius Firebrand. Peaks of Prestige mang đến cho anh rủi ro, sự mệt mỏi và gánh nặng, nhưng cuối cùng, đam mê đã chiến thắng.",
     "translator_note": ""
   },
   {
@@ -5646,7 +5646,7 @@
     "ai_reason": "",
     "source_en": "A Medal of Prestige for novices. Every duelist starts here, even the most gifted.",
     "review_note": "",
-    "new_translation_vi": "Huy chương Vinh Dự dành cho tân binh. Mọi đấu sĩ đều khởi đầu từ đây, kể cả những kẻ tài năng nhất.",
+    "new_translation_vi": "Huy chương Prestige dành cho người mới. Mọi đấu sĩ đều bắt đầu từ đây, kể cả những người tài năng nhất.",
     "translator_note": ""
   },
   {
@@ -5671,7 +5671,7 @@
     "ai_reason": "",
     "source_en": "A Medal of Prestige for trainees. Practice is always part of the path to victory.",
     "review_note": "",
-    "new_translation_vi": "Huy chương Vinh Dự dành cho tập sự. Luyện tập luôn là một phần trên con đường chinh phục chiến thắng.",
+    "new_translation_vi": "Huy chương Prestige dành cho thực tập sinh. Luyện tập luôn là một phần trên con đường dẫn đến chiến thắng.",
     "translator_note": ""
   },
   {
@@ -5696,7 +5696,7 @@
     "ai_reason": "",
     "source_en": "A Medal of Prestige for adepts. It marks a player who is now recognized as a professional duelist.",
     "review_note": "",
-    "new_translation_vi": "Huy Chương Uy Tín dành cho các cao thủ. Nó đánh dấu một đấu thủ giờ đây đã được công nhận là chuyên nghiệp.",
+    "new_translation_vi": "Huy chương Prestige dành cho người thành thạo. Nó đánh dấu một người chơi hiện đã được công nhận là đấu sĩ chuyên nghiệp.",
     "translator_note": ""
   },
   {
@@ -5721,7 +5721,7 @@
     "ai_reason": "",
     "source_en": "A Medal of Prestige for veterans. Duelists hone their tactics and minds through countless battles, like sharpening a spear on stone.",
     "review_note": "",
-    "new_translation_vi": "Huy chương Vinh Dự dành cho kỳ cựu. Đấu sĩ tôi luyện chiến thuật và tâm trí qua vô số trận chiến, như mài giáo trên đá.",
+    "new_translation_vi": "Huy chương Prestige dành cho cựu binh. Các đấu sĩ rèn giũa chiến thuật và trí tuệ qua vô số trận chiến, giống như mài giáo trên đá.",
     "translator_note": ""
   },
   {
@@ -5746,7 +5746,7 @@
     "ai_reason": "",
     "source_en": "A Medal of Prestige for victors. Few are blessed with victory again and again, and you are one of them.",
     "review_note": "",
-    "new_translation_vi": "Huy chương Vinh Dự dành cho kẻ chiến thắng. Ít người được ban phước liên tiếp như ngươi, và ngươi chính là một trong số đó.",
+    "new_translation_vi": "Huy chương Prestige dành cho người chiến thắng. Rất ít người được ban phước với chiến thắng lặp đi lặp lại, và bạn là một trong số đó.",
     "translator_note": ""
   },
   {
@@ -5771,7 +5771,7 @@
     "ai_reason": "",
     "source_en": "A Medal of Prestige for conquerors. You've bested the strongest, and now no one can wrest glory from your grasp.",
     "review_note": "",
-    "new_translation_vi": "Huy chương Vinh Dự dành cho kẻ chinh phục. Ngươi đã đánh bại những đối thủ mạnh nhất, giờ đây chẳng ai có thể cướp đi vinh quang trong tay ngươi.",
+    "new_translation_vi": "Huy chương Prestige dành cho kẻ chinh phục. Bạn đã đánh bại những đối thủ mạnh nhất, và giờ không ai có thể cướp lấy vinh quang từ tay bạn.",
     "translator_note": ""
   },
   {
@@ -5796,7 +5796,7 @@
     "ai_reason": "",
     "source_en": "Brant's Medal of Prestige. To him, Peaks of Prestige is just another uncharted sea. No big deal.",
     "review_note": "",
-    "new_translation_vi": "Huy chương Danh vọng của Brant. Với cậu, Đỉnh Danh vọng chỉ là một vùng biển chưa được khám phá. Chẳng có gì to tát cả.",
+    "new_translation_vi": "Huy chương Prestige của Brant. Với anh, Peaks of Prestige chỉ là một vùng biển chưa được khám phá khác. Không có gì to tát cả.",
     "translator_note": ""
   },
   {
@@ -5821,7 +5821,7 @@
     "ai_reason": "",
     "source_en": "Lupa's Medal of Prestige. It may not be the arena, and no one's dying today, but she'll still give it her all.",
     "review_note": "",
-    "new_translation_vi": "Huy chương Danh Vọng của Lupa. Dù không phải đấu trường, và hôm nay không ai phải chết, nhưng cô vẫn sẽ dốc hết sức mình.",
+    "new_translation_vi": "Huy chương Prestige của Lupa. Đây có thể không phải là đấu trường và không ai phải chết hôm nay, nhưng cô ấy vẫn sẽ cống hiến hết mình.",
     "translator_note": ""
   },
   {
@@ -5846,7 +5846,7 @@
     "ai_reason": "",
     "source_en": "Ciaccona's Medal of Prestige. A true epic is never without glory and legend. Now, she's a part of that very legend.",
     "review_note": "",
-    "new_translation_vi": "Huy chương Danh Dự của Ciaccona. Một thiên sử thi chân chính không thể thiếu vinh quang và truyền thuyết. Giờ đây, cô chính là một phần của truyền thuyết đó.",
+    "new_translation_vi": "Huy chương Prestige của Ciaccona. Một thiên anh hùng ca thực sự không bao giờ thiếu vinh quang và huyền thoại. Giờ đây, cô ấy là một phần của chính huyền thoại đó.",
     "translator_note": ""
   },
   {
@@ -5871,7 +5871,7 @@
     "ai_reason": "",
     "source_en": "Calcharo's Medal of Prestige. The fate of the Hounds is nothing but destruction and fear, but he is still searching for a way to break free.",
     "review_note": "",
-    "new_translation_vi": "Huy chương Danh vọng của Calcharo. Số phận của Ghost Hounds chẳng là gì ngoài sự hủy diệt và nỗi sợ hãi, nhưng hắn vẫn đang tìm cách thoát khỏi vòng xoáy đó.",
+    "new_translation_vi": "Huy chương Prestige của Calcharo. Số phận của Hounds không gì khác ngoài sự hủy diệt và sợ hãi, nhưng anh ấy vẫn đang tìm cách để thoát ra.",
     "translator_note": ""
   },
   {
@@ -5896,7 +5896,7 @@
     "ai_reason": "",
     "source_en": "An unknown Medal of Prestige. It looks like... a Chop Chop? But what's that behind it?",
     "review_note": "",
-    "new_translation_vi": "Một Huy Chương Uy Danh chưa rõ danh tính. Trông giống… một con Chop Chop? Nhưng cái gì ở phía sau nó thế này?",
+    "new_translation_vi": "Một huy chương Prestige không xác định. Nó trông giống như... một Chop Chop? Nhưng cái gì đằng sau nó vậy?",
     "translator_note": ""
   },
   {
@@ -5921,7 +5921,7 @@
     "ai_reason": "",
     "source_en": "An unknown Medal of Prestige. Let's say the name out loud—",
     "review_note": "",
-    "new_translation_vi": "Một Huy Chương Uy Danh chưa rõ danh tính. Hãy thử đọc to tên của nó lên—",
+    "new_translation_vi": "Một huy chương Prestige không xác định. Hãy thử gọi tên nó xem nào—",
     "translator_note": ""
   },
   {
@@ -5946,7 +5946,7 @@
     "ai_reason": "",
     "source_en": "A symbol of the glory earned in a Peaks of Prestige duel.",
     "review_note": "",
-    "new_translation_vi": "Biểu tượng vinh quang giành được trong trận đấu tại Đỉnh Vinh Quang.",
+    "new_translation_vi": "Biểu tượng của vinh quang đạt được trong một trận đấu Peaks of Prestige.",
     "translator_note": ""
   },
   {
@@ -5971,7 +5971,7 @@
     "ai_reason": "",
     "source_en": "A symbol of the glory earned in a Peaks of Prestige duel.",
     "review_note": "",
-    "new_translation_vi": "Biểu tượng vinh quang giành được trong trận đấu tại Đỉnh Vinh Quang.",
+    "new_translation_vi": "Biểu tượng của vinh quang đạt được trong một trận đấu Peaks of Prestige.",
     "translator_note": ""
   },
   {
@@ -5996,7 +5996,7 @@
     "ai_reason": "",
     "source_en": "A symbol of the glory earned in a Peaks of Prestige duel.",
     "review_note": "",
-    "new_translation_vi": "Biểu tượng vinh quang giành được trong trận đấu tại Đỉnh Vinh Quang.",
+    "new_translation_vi": "Biểu tượng của vinh quang đạt được trong một trận đấu Peaks of Prestige.",
     "translator_note": ""
   },
   {
@@ -6021,7 +6021,7 @@
     "ai_reason": "",
     "source_en": "A symbol of the glory earned in a Peaks of Prestige duel.",
     "review_note": "",
-    "new_translation_vi": "Biểu tượng vinh quang giành được trong trận đấu tại Đỉnh Vinh Quang.",
+    "new_translation_vi": "Biểu tượng của vinh quang đạt được trong một trận đấu Peaks of Prestige.",
     "translator_note": ""
   },
   {
@@ -6046,7 +6046,7 @@
     "ai_reason": "",
     "source_en": "A symbol of the glory earned in a Peaks of Prestige duel.",
     "review_note": "",
-    "new_translation_vi": "Biểu tượng vinh quang giành được trong trận đấu tại Đỉnh Vinh Quang.",
+    "new_translation_vi": "Biểu tượng của vinh quang đạt được trong một trận đấu Peaks of Prestige.",
     "translator_note": ""
   },
   {
@@ -6071,7 +6071,7 @@
     "ai_reason": "",
     "source_en": "A symbol of the glory earned in a Peaks of Prestige duel.",
     "review_note": "",
-    "new_translation_vi": "Biểu tượng vinh quang giành được trong trận đấu tại Đỉnh Vinh Quang.",
+    "new_translation_vi": "Biểu tượng của vinh quang đạt được trong một trận đấu Peaks of Prestige.",
     "translator_note": ""
   },
   {
@@ -6096,7 +6096,7 @@
     "ai_reason": "",
     "source_en": "A symbol of the glory earned in a Peaks of Prestige duel.",
     "review_note": "",
-    "new_translation_vi": "Biểu tượng vinh quang giành được trong trận đấu tại Đỉnh Vinh Quang.",
+    "new_translation_vi": "Biểu tượng của vinh quang đạt được trong một trận đấu Peaks of Prestige.",
     "translator_note": ""
   },
   {
@@ -6121,7 +6121,7 @@
     "ai_reason": "",
     "source_en": "A symbol of the glory earned in a Peaks of Prestige duel.",
     "review_note": "",
-    "new_translation_vi": "Biểu tượng vinh quang giành được trong trận đấu tại Đỉnh Vinh Quang.",
+    "new_translation_vi": "Biểu tượng của vinh quang đạt được trong một trận đấu Peaks of Prestige.",
     "translator_note": ""
   },
   {
@@ -6146,7 +6146,7 @@
     "ai_reason": "",
     "source_en": "A symbol of the glory earned in a Peaks of Prestige duel.",
     "review_note": "",
-    "new_translation_vi": "Biểu tượng vinh quang giành được trong trận đấu tại Đỉnh Vinh Quang.",
+    "new_translation_vi": "Biểu tượng của vinh quang đạt được trong một trận đấu Peaks of Prestige.",
     "translator_note": ""
   },
   {
@@ -6171,7 +6171,7 @@
     "ai_reason": "",
     "source_en": "A symbol of the glory earned in a Peaks of Prestige duel.",
     "review_note": "",
-    "new_translation_vi": "Biểu tượng vinh quang giành được trong trận đấu tại Đỉnh Vinh Quang.",
+    "new_translation_vi": "Biểu tượng của vinh quang đạt được trong một trận đấu Peaks of Prestige.",
     "translator_note": ""
   },
   {
@@ -6196,7 +6196,7 @@
     "ai_reason": "",
     "source_en": "A symbol of the glory earned in a Peaks of Prestige duel.",
     "review_note": "",
-    "new_translation_vi": "Biểu tượng vinh quang giành được trong trận đấu tại Đỉnh Vinh Quang.",
+    "new_translation_vi": "Biểu tượng của vinh quang đạt được trong một trận đấu Peaks of Prestige.",
     "translator_note": ""
   },
   {
@@ -6221,7 +6221,7 @@
     "ai_reason": "",
     "source_en": "A symbol of the glory earned in a Peaks of Prestige duel.",
     "review_note": "",
-    "new_translation_vi": "Biểu tượng vinh quang giành được trong trận đấu tại Đỉnh Vinh Quang.",
+    "new_translation_vi": "Biểu tượng của vinh quang đạt được trong một trận đấu Peaks of Prestige.",
     "translator_note": ""
   },
   {
@@ -6246,7 +6246,7 @@
     "ai_reason": "",
     "source_en": "A symbol of the glory earned in a Peaks of Prestige duel.",
     "review_note": "",
-    "new_translation_vi": "Biểu tượng vinh quang giành được trong trận đấu tại Đỉnh Vinh Quang.",
+    "new_translation_vi": "Biểu tượng của vinh quang đạt được trong một trận đấu Peaks of Prestige.",
     "translator_note": ""
   },
   {
@@ -6271,7 +6271,7 @@
     "ai_reason": "",
     "source_en": "A symbol of the glory earned in a Peaks of Prestige duel.",
     "review_note": "",
-    "new_translation_vi": "Biểu tượng vinh quang giành được trong trận đấu tại Đỉnh Vinh Quang.",
+    "new_translation_vi": "Biểu tượng của vinh quang đạt được trong một trận đấu Peaks of Prestige.",
     "translator_note": ""
   },
   {
@@ -6296,7 +6296,7 @@
     "ai_reason": "",
     "source_en": "A symbol of the glory earned in a Peaks of Prestige duel.",
     "review_note": "",
-    "new_translation_vi": "Biểu tượng vinh quang giành được trong trận đấu tại Đỉnh Vinh Quang.",
+    "new_translation_vi": "Biểu tượng của vinh quang đạt được trong một trận đấu Peaks of Prestige.",
     "translator_note": ""
   },
   {
@@ -6321,7 +6321,7 @@
     "ai_reason": "",
     "source_en": "A symbol of the glory earned in a Peaks of Prestige duel.",
     "review_note": "",
-    "new_translation_vi": "Biểu tượng vinh quang giành được trong trận đấu tại Đỉnh Vinh Quang.",
+    "new_translation_vi": "Biểu tượng của vinh quang đạt được trong một trận đấu Peaks of Prestige.",
     "translator_note": ""
   },
   {
@@ -6346,7 +6346,7 @@
     "ai_reason": "",
     "source_en": "A symbol of the glory earned in a Peaks of Prestige duel.",
     "review_note": "",
-    "new_translation_vi": "Biểu tượng vinh quang giành được trong trận đấu tại Đỉnh Vinh Quang.",
+    "new_translation_vi": "Biểu tượng của vinh quang đạt được trong một trận đấu Peaks of Prestige.",
     "translator_note": ""
   },
   {
@@ -6371,7 +6371,7 @@
     "ai_reason": "",
     "source_en": "A symbol of the glory earned in a Peaks of Prestige duel.",
     "review_note": "",
-    "new_translation_vi": "Biểu tượng vinh quang giành được trong trận đấu tại Đỉnh Vinh Quang.",
+    "new_translation_vi": "Biểu tượng của vinh quang đạt được trong một trận đấu Peaks of Prestige.",
     "translator_note": ""
   },
   {
@@ -6396,7 +6396,7 @@
     "ai_reason": "",
     "source_en": "Agrippa the Ironheart's Medal of Prestige. It was forged by Agrippa himself while Putini studied his every move.",
     "review_note": "",
-    "new_translation_vi": "Huy chương Uy Tín của Agrippa Trái Tim Sắt. Chính Agrippa đã rèn nó trong khi Putini quan sát từng động tác của ông.",
+    "new_translation_vi": "Huy chương Prestige của Agrippa Ironheart. Nó được chính Agrippa rèn nên trong khi Putini quan sát từng cử động của ông ấy.",
     "translator_note": ""
   },
   {
@@ -6421,7 +6421,7 @@
     "ai_reason": "",
     "source_en": "Liliania the Splendent's Medal of Prestige. Liliania treasures every glance from her fans, and she works hard to never let them down.",
     "review_note": "",
-    "new_translation_vi": "Huy Chương Uy Tín của Liliana Rực Rỡ. Liliana trân trọng từng ánh nhìn từ người hâm mộ và luôn nỗ lực để không bao giờ phụ lòng họ.",
+    "new_translation_vi": "Huy chương Prestige của Liliania the Splendent. Liliania trân trọng từng ánh nhìn từ người hâm mộ, và cô luôn nỗ lực để không bao giờ làm họ thất vọng.",
     "translator_note": ""
   },
   {
@@ -6446,7 +6446,7 @@
     "ai_reason": "",
     "source_en": "Marcia the Lifespring's Medal of Prestige. Gladiators often complain about her bitter potions, yet they still call her the \"Lifespring\" with admiration.",
     "review_note": "",
-    "new_translation_vi": "Huy chương Uy Tín của Marcia Suối Nguồn Sống. Các đấu sĩ thường than phiền về những liều thuốc đắng nghét của cô, nhưng vẫn gọi cô là \"Suối Nguồn Sống\" với lòng ngưỡng mộ.",
+    "new_translation_vi": "Huy chương Prestige của Marcia the Lifespring. Các đấu sĩ thường phàn nàn về những loại thuốc đắng của cô, nhưng họ vẫn ngưỡng mộ gọi cô là \"Lifespring\".",
     "translator_note": ""
   },
   {
@@ -6471,7 +6471,7 @@
     "ai_reason": "",
     "source_en": "Raul the Dustbound's Medal of Prestige. Raul once stood in the arena, fighting with all his heart for glory.",
     "review_note": "",
-    "new_translation_vi": "Huy Chương Uy Tín của Raul Bụi Đời. Raul từng đứng trên đấu trường, chiến đấu hết mình vì vinh quang.",
+    "new_translation_vi": "Huy chương Prestige của Raul the Dustbound. Raul từng đứng trên đấu trường, chiến đấu hết mình vì vinh quang.",
     "translator_note": ""
   },
   {
@@ -6496,7 +6496,7 @@
     "ai_reason": "",
     "source_en": "Gallus the Nightmare's Medal of Prestige. But enough of that, care for a round of Peaks of Prestige?",
     "review_note": "",
-    "new_translation_vi": "Huy chương Danh Vọng của Gallus Ác Mộng. Nhưng thôi, chơi một ván *Đỉnh Cao Danh Vọng* không?",
+    "new_translation_vi": "Huy chương Prestige của Gallus the Nightmare. Nhưng thôi, làm một ván Peaks of Prestige không?",
     "translator_note": ""
   },
   {
@@ -6521,7 +6521,7 @@
     "ai_reason": "",
     "source_en": "Furius the Firebrand's Medal of Prestige. Peaks of Prestige brought him risk, fatigue, and burden, but in the end, passion won out.",
     "review_note": "",
-    "new_translation_vi": "Huy chương Danh Vọng của Furius Ngọn Lửa Bất Khuất. Những đỉnh cao danh vọng mang đến cho hắn hiểm nguy, mệt mỏi và gánh nặng, nhưng cuối cùng, đam mê đã chiến thắng tất cả.",
+    "new_translation_vi": "Huy chương Prestige của Furius Firebrand. Peaks of Prestige mang đến cho anh rủi ro, sự mệt mỏi và gánh nặng, nhưng cuối cùng, đam mê đã chiến thắng.",
     "translator_note": ""
   },
   {
@@ -6546,7 +6546,7 @@
     "ai_reason": "",
     "source_en": "A Medal of Prestige for novices. Every duelist starts here, even the most gifted.",
     "review_note": "",
-    "new_translation_vi": "Huy chương Vinh Dự dành cho tân binh. Mọi đấu sĩ đều khởi đầu từ đây, kể cả những kẻ tài năng nhất.",
+    "new_translation_vi": "Huy chương Prestige dành cho người mới. Mọi đấu sĩ đều bắt đầu từ đây, kể cả những người tài năng nhất.",
     "translator_note": ""
   },
   {
@@ -6571,7 +6571,7 @@
     "ai_reason": "",
     "source_en": "A Medal of Prestige for trainees. Practice is always part of the path to victory.",
     "review_note": "",
-    "new_translation_vi": "Huy chương Vinh Dự dành cho tập sự. Luyện tập luôn là một phần trên con đường chinh phục chiến thắng.",
+    "new_translation_vi": "Huy chương Prestige dành cho thực tập sinh. Luyện tập luôn là một phần trên con đường dẫn đến chiến thắng.",
     "translator_note": ""
   },
   {
@@ -6596,7 +6596,7 @@
     "ai_reason": "",
     "source_en": "A Medal of Prestige for adepts. It marks a player who is now recognized as a professional duelist.",
     "review_note": "",
-    "new_translation_vi": "Huy Chương Uy Tín dành cho các cao thủ. Nó đánh dấu một đấu thủ giờ đây đã được công nhận là chuyên nghiệp.",
+    "new_translation_vi": "Huy chương Prestige dành cho người thành thạo. Nó đánh dấu một người chơi hiện đã được công nhận là đấu sĩ chuyên nghiệp.",
     "translator_note": ""
   },
   {
@@ -6621,7 +6621,7 @@
     "ai_reason": "",
     "source_en": "A Medal of Prestige for veterans. Duelists hone their tactics and minds through countless battles, like sharpening a spear on stone.",
     "review_note": "",
-    "new_translation_vi": "Huy chương Vinh Dự dành cho kỳ cựu. Đấu sĩ tôi luyện chiến thuật và tâm trí qua vô số trận chiến, như mài giáo trên đá.",
+    "new_translation_vi": "Huy chương Prestige dành cho các cựu binh. Những đấu sĩ tôi luyện chiến thuật và trí tuệ qua vô số trận chiến, tựa như mài một ngọn giáo trên đá.",
     "translator_note": ""
   },
   {
@@ -6646,7 +6646,7 @@
     "ai_reason": "",
     "source_en": "A Medal of Prestige for victors. Few are blessed with victory again and again, and you are one of them.",
     "review_note": "",
-    "new_translation_vi": "Huy chương Vinh Dự dành cho kẻ chiến thắng. Ít người được ban phước liên tiếp như ngươi, và ngươi chính là một trong số đó.",
+    "new_translation_vi": "Huy chương Prestige dành cho những người chiến thắng. Hiếm ai được ban phước để chiến thắng hết lần này đến lần khác, và bạn là một trong số đó.",
     "translator_note": ""
   },
   {
@@ -6671,7 +6671,7 @@
     "ai_reason": "",
     "source_en": "A Medal of Prestige for conquerors. You've bested the strongest, and now no one can wrest glory from your grasp.",
     "review_note": "",
-    "new_translation_vi": "Huy chương Vinh Dự dành cho kẻ chinh phục. Ngươi đã đánh bại những đối thủ mạnh nhất, giờ đây chẳng ai có thể cướp đi vinh quang trong tay ngươi.",
+    "new_translation_vi": "Huy chương Prestige dành cho những kẻ chinh phục. Bạn đã đánh bại những đối thủ mạnh nhất, và giờ đây không ai có thể cướp lấy vinh quang từ tay bạn.",
     "translator_note": ""
   },
   {
@@ -6696,7 +6696,7 @@
     "ai_reason": "",
     "source_en": "Brant's Medal of Prestige. To him, Peaks of Prestige is just another uncharted sea. No big deal.",
     "review_note": "",
-    "new_translation_vi": "Huy chương Danh vọng của Brant. Với cậu, Đỉnh Danh vọng chỉ là một vùng biển chưa được khám phá. Chẳng có gì to tát cả.",
+    "new_translation_vi": "Huy chương Prestige của Brant. Với anh ấy, Peaks of Prestige cũng chỉ là một vùng biển chưa được khám phá khác mà thôi. Chẳng có gì to tát cả.",
     "translator_note": ""
   },
   {
@@ -6721,7 +6721,7 @@
     "ai_reason": "",
     "source_en": "Lupa's Medal of Prestige. It may not be the arena, and no one's dying today, but she'll still give it her all.",
     "review_note": "",
-    "new_translation_vi": "Huy chương Danh Vọng của Lupa. Dù không phải đấu trường, và hôm nay không ai phải chết, nhưng cô vẫn sẽ dốc hết sức mình.",
+    "new_translation_vi": "Huy chương Prestige của Lupa. Đây có thể không phải là đấu trường và chẳng có ai phải hy sinh hôm nay, nhưng cô ấy vẫn sẽ dốc toàn lực.",
     "translator_note": ""
   },
   {
@@ -6746,7 +6746,7 @@
     "ai_reason": "",
     "source_en": "Ciaccona's Medal of Prestige. A true epic is never without glory and legend. Now, she's a part of that very legend.",
     "review_note": "",
-    "new_translation_vi": "Huy chương Danh Dự của Ciaccona. Một thiên sử thi chân chính không thể thiếu vinh quang và truyền thuyết. Giờ đây, cô chính là một phần của truyền thuyết đó.",
+    "new_translation_vi": "Huy chương Prestige của Ciaccona. Một thiên anh hùng ca thực thụ không bao giờ thiếu vinh quang và huyền thoại. Giờ đây, cô ấy đã trở thành một phần của chính huyền thoại đó.",
     "translator_note": ""
   },
   {
@@ -6771,7 +6771,7 @@
     "ai_reason": "",
     "source_en": "Calcharo's Medal of Prestige. The fate of the Hounds is nothing but destruction and fear, but he is still searching for a way to break free.",
     "review_note": "",
-    "new_translation_vi": "Huy chương Danh vọng của Calcharo. Số phận của Ghost Hounds chẳng là gì ngoài sự hủy diệt và nỗi sợ hãi, nhưng hắn vẫn đang tìm cách thoát khỏi vòng xoáy đó.",
+    "new_translation_vi": "Huy chương Prestige của Calcharo. Số phận của Hounds chẳng là gì ngoài sự hủy diệt và nỗi sợ hãi, nhưng anh ấy vẫn đang tìm cách để thoát khỏi xiềng xích đó.",
     "translator_note": ""
   },
   {
@@ -6796,7 +6796,7 @@
     "ai_reason": "",
     "source_en": "An unknown Medal of Prestige. It looks like... a Chop Chop? But what's that behind it?",
     "review_note": "",
-    "new_translation_vi": "Một Huy Chương Uy Danh chưa rõ danh tính. Trông giống… một con Chop Chop? Nhưng cái gì ở phía sau nó thế này?",
+    "new_translation_vi": "Một huy chương Prestige không rõ nguồn gốc. Trông nó giống như... một Chop Chop? Nhưng thứ đằng sau nó là gì vậy?",
     "translator_note": ""
   },
   {
@@ -6821,7 +6821,7 @@
     "ai_reason": "",
     "source_en": "An unknown Medal of Prestige. Let's say the name out loud—",
     "review_note": "",
-    "new_translation_vi": "Một Huy Chương Uy Danh chưa rõ danh tính. Hãy thử đọc to tên của nó lên—",
+    "new_translation_vi": "Một huy chương Prestige không rõ nguồn gốc. Hãy thử gọi tên nó xem nào—",
     "translator_note": ""
   },
   {
@@ -6846,7 +6846,7 @@
     "ai_reason": "",
     "source_en": "Complete Main Quest \"Utterance of Marvels.\"",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Nhiệm Vụ Chính \"Lời Thì Thầm Kỳ Diệu.\"",
+    "new_translation_vi": "Hoàn thành nhiệm vụ chính tuyến \"Utterance of Marvels.\"",
     "translator_note": ""
   },
   {
@@ -6871,7 +6871,7 @@
     "ai_reason": "",
     "source_en": "Reach Union Level 30.",
     "review_note": "",
-    "new_translation_vi": "Đạt Cấp Độ Liên Minh 30.",
+    "new_translation_vi": "Đạt cấp Union Level 30.",
     "translator_note": ""
   },
   {
@@ -6896,7 +6896,7 @@
     "ai_reason": "",
     "source_en": "Reach Data Bank Level 15.",
     "review_note": "",
-    "new_translation_vi": "Đạt Cấp Ngân Hàng Dữ Liệu 15.",
+    "new_translation_vi": "Đạt cấp Data Bank Level 15.",
     "translator_note": ""
   },
   {
@@ -6921,7 +6921,7 @@
     "ai_reason": "",
     "source_en": "Unlock 20 Rsonance Beacons in total.",
     "review_note": "",
-    "new_translation_vi": "Mở khóa tổng cộng 20 Đèn Tần Số Cộng Hưởng",
+    "new_translation_vi": "Mở tổng cộng 20 Resonance Beacon.",
     "translator_note": ""
   },
   {
@@ -6946,7 +6946,7 @@
     "ai_reason": "",
     "source_en": "Complete any 3 Exploration Quests.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành 3 Nhiệm Vụ Thám Hiểm bất kỳ.",
+    "new_translation_vi": "Hoàn thành bất kỳ 3 nhiệm vụ khám phá (Exploration Quest).",
     "translator_note": ""
   },
   {
@@ -6971,7 +6971,7 @@
     "ai_reason": "",
     "source_en": "Open 10 Supply Chests of any rank in total.",
     "review_note": "",
-    "new_translation_vi": "Mở tổng cộng 10 Rương Cung Cấp bất kỳ cấp độ.",
+    "new_translation_vi": "Mở tổng cộng 10 rương tiếp tế (Supply Chest) bất kỳ.",
     "translator_note": ""
   },
   {
@@ -6996,7 +6996,7 @@
     "ai_reason": "",
     "source_en": "Open 20 Supply Chests of any rank in total.",
     "review_note": "",
-    "new_translation_vi": "Mở tổng cộng 20 Rương Cung Ứng bất kỳ.",
+    "new_translation_vi": "Mở tổng cộng 20 rương tiếp tế (Supply Chest) bất kỳ.",
     "translator_note": ""
   },
   {
@@ -7021,7 +7021,7 @@
     "ai_reason": "",
     "source_en": "Reach Exploration Progress 25% in any 3 areas.",
     "review_note": "",
-    "new_translation_vi": "Đạt Tiến Độ Thám Hiểm 25% ở bất kỳ 3 khu vực nào.",
+    "new_translation_vi": "Đạt 25% tiến độ khám phá tại bất kỳ 3 khu vực nào.",
     "translator_note": ""
   },
   {
@@ -7046,7 +7046,7 @@
     "ai_reason": "",
     "source_en": "Reach Exploration Progress 50% in any 3 areas.",
     "review_note": "",
-    "new_translation_vi": "Đạt Tiến Độ Thám Hiểm 50% ở bất kỳ 3 khu vực nào.",
+    "new_translation_vi": "Đạt 50% tiến độ khám phá tại bất kỳ 3 khu vực nào.",
     "translator_note": ""
   },
   {
@@ -7071,7 +7071,7 @@
     "ai_reason": "",
     "source_en": "Upgrade any 3 Resonators to Level 30.",
     "review_note": "",
-    "new_translation_vi": "Nâng cấp 3 Resonator bất kỳ lên cấp 30.",
+    "new_translation_vi": "Nâng cấp bất kỳ 3 Resonator lên cấp 30.",
     "translator_note": ""
   },
   {
@@ -7096,7 +7096,7 @@
     "ai_reason": "",
     "source_en": "Upgrade 1 Weapon to Level 30.",
     "review_note": "",
-    "new_translation_vi": "Nâng cấp 1 Vũ khí lên Cấp 30.",
+    "new_translation_vi": "Nâng cấp 1 vũ khí lên cấp 30.",
     "translator_note": ""
   },
   {
@@ -7121,7 +7121,7 @@
     "ai_reason": "",
     "source_en": "Upgrade 1 Resonator to Level 60.",
     "review_note": "",
-    "new_translation_vi": "Nâng cấp 1 Resonator lên Cấp 60.",
+    "new_translation_vi": "Nâng cấp 1 Resonator lên cấp 60.",
     "translator_note": ""
   },
   {
@@ -7146,7 +7146,7 @@
     "ai_reason": "",
     "source_en": "Upgrade 1 Weapon to Level 60.",
     "review_note": "",
-    "new_translation_vi": "Nâng cấp 1 Vũ khí lên Cấp 60.",
+    "new_translation_vi": "Nâng cấp 1 vũ khí lên cấp 60.",
     "translator_note": ""
   },
   {
@@ -7171,7 +7171,7 @@
     "ai_reason": "",
     "source_en": "Absorb 10 Echoes of 3-star rarity or above.",
     "review_note": "",
-    "new_translation_vi": "Hấp thu 10 Dư Âm từ 3 Sao trở lên.",
+    "new_translation_vi": "Hấp thụ 10 Echo từ độ hiếm 3 sao trở lên.",
     "translator_note": ""
   },
   {
@@ -7196,7 +7196,7 @@
     "ai_reason": "",
     "source_en": "Perform Echo Tuning 10 times in total.",
     "review_note": "",
-    "new_translation_vi": "Thực hiện Điều Chỉnh Echo tổng cộng 10 lần.",
+    "new_translation_vi": "Thực hiện Echo Tuning tổng cộng 10 lần.",
     "translator_note": ""
   },
   {
@@ -7221,7 +7221,7 @@
     "ai_reason": "",
     "source_en": "Upgrade any 5 Echoes of 5-star rarity to Level 25.",
     "review_note": "",
-    "new_translation_vi": "Nâng cấp 5 Echo 5 sao bất kỳ lên cấp 25.",
+    "new_translation_vi": "Nâng cấp bất kỳ 5 Echo độ hiếm 5 sao lên cấp 25.",
     "translator_note": ""
   },
   {
@@ -7246,7 +7246,7 @@
     "ai_reason": "",
     "source_en": "Complete 3 Tactical Hologram: Calamity/Phantom Pain/Synchronization challenges.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành 3 Thử Thách Hologram Chiến Thuật: Calamity/Phantom Pain/Synchronization",
+    "new_translation_vi": "Hoàn thành 3 thử thách Tactical Hologram: Calamity/Phantom Pain/Synchronization.",
     "translator_note": ""
   },
   {
@@ -7271,7 +7271,7 @@
     "ai_reason": "",
     "source_en": "Obtain 3 Crests in the Resonant Tower in Tower of Adversity: Stable Zone.",
     "review_note": "",
-    "new_translation_vi": "Nhận được 3 Huy Hiệu trong Tháp Cộng Hưởng ở Tháp Thử Thách: Vùng Ổn Định.",
+    "new_translation_vi": "Nhận 3 Crest trong Resonant Tower tại Tower of Adversity: Stable Zone.",
     "translator_note": ""
   },
   {
@@ -7296,7 +7296,7 @@
     "ai_reason": "",
     "source_en": "Clear second floor in the Forbidden Waters in Whimpering Wastes.",
     "review_note": "",
-    "new_translation_vi": "Dọn sạch tầng hai ở Vùng Nước Cấm trong Whimpering Wastes.",
+    "new_translation_vi": "Vượt tầng hai của Forbidden Waters tại Whimpering Wastes.",
     "translator_note": ""
   },
   {
@@ -7321,7 +7321,7 @@
     "ai_reason": "",
     "source_en": "Obtain a total of 2000 points in one cycle in Fantasies of the Thousand Gateways.",
     "review_note": "",
-    "new_translation_vi": "Đạt tổng 2.000 điểm trong một chu kỳ tại Fantasies of the Thousand Gateways",
+    "new_translation_vi": "Đạt tổng cộng 2000 điểm trong một chu kỳ tại Fantasies of the Thousand Gateways.",
     "translator_note": ""
   },
   {
@@ -7346,7 +7346,7 @@
     "ai_reason": "",
     "source_en": "Obtain 2 Festivity Points.",
     "review_note": "",
-    "new_translation_vi": "Thu thập 2 Điểm Hội Hè.",
+    "new_translation_vi": "Nhận 2 Festivity Point.",
     "translator_note": ""
   },
   {
@@ -7371,7 +7371,7 @@
     "ai_reason": "",
     "source_en": "Obtain 6 Festivity Points.",
     "review_note": "",
-    "new_translation_vi": "Thu thập 6 Điểm Hội Hè.",
+    "new_translation_vi": "Nhận 6 Festivity Point.",
     "translator_note": ""
   },
   {
@@ -7396,7 +7396,7 @@
     "ai_reason": "",
     "source_en": "Obtain 12 Festivity Points.",
     "review_note": "",
-    "new_translation_vi": "Thu thập 12 Điểm Hoạt Động Lễ Hội",
+    "new_translation_vi": "Nhận 12 Festivity Point.",
     "translator_note": ""
   },
   {
@@ -7421,7 +7421,7 @@
     "ai_reason": "",
     "source_en": "Obtain 18 Festivity Points.",
     "review_note": "",
-    "new_translation_vi": "Thu thập 18 Điểm Hội Hè.",
+    "new_translation_vi": "Nhận 18 Festivity Point.",
     "translator_note": ""
   },
   {
@@ -7446,7 +7446,7 @@
     "ai_reason": "",
     "source_en": "Obtain 24 Festivity Points.",
     "review_note": "",
-    "new_translation_vi": "Nhận được 24 Điểm Hoạt Động.",
+    "new_translation_vi": "Nhận 24 Festivity Point.",
     "translator_note": ""
   },
   {
@@ -7471,7 +7471,7 @@
     "ai_reason": "",
     "source_en": "Draw!",
     "review_note": "",
-    "new_translation_vi": "Rút bài!",
+    "new_translation_vi": "Hòa!",
     "translator_note": ""
   },
   {
@@ -7496,7 +7496,7 @@
     "ai_reason": "",
     "source_en": "An optimal deck should contain at least eight Cost 1 Echoes. Your current deck doesn't meet this requirement. Are you sure you want to save?",
     "review_note": "",
-    "new_translation_vi": "Một bộ bài tối ưu cần có ít nhất tám Echo Tốn 1 Điểm. Bộ bài hiện tại của cậu chưa đáp ứng yêu cầu này. Cậu chắc chắn muốn lưu chứ?",
+    "new_translation_vi": "Một bộ bài tối ưu nên chứa ít nhất tám Echo chi phí 1. Bộ bài hiện tại của bạn không đáp ứng yêu cầu này. Bạn có chắc chắn muốn lưu không?",
     "translator_note": ""
   },
   {
@@ -7521,7 +7521,7 @@
     "ai_reason": "",
     "source_en": "Claim {0} when Festivity Points reach 24.",
     "review_note": "",
-    "new_translation_vi": "Nhận {0} khi Điểm Hoạt Náo đạt 24.",
+    "new_translation_vi": "Nhận {0} khi Festivity Point đạt 24.",
     "translator_note": ""
   },
   {
@@ -7546,7 +7546,7 @@
     "ai_reason": "",
     "source_en": "Use Cartethyia to clear Resonant Tower & Echoing Tower Floor 4 in \"Tower of Adversity: Hazard Zone.\"",
     "review_note": "",
-    "new_translation_vi": "Dùng Cartethyia để vượt Tháp Cộng Hưởng và tầng 4 của Tháp Vọng Âm trong \"Tower of Adversity: Hazard Zone.\"",
+    "new_translation_vi": "Sử dụng Cartethyia để vượt Resonant Tower & Echoing Tower tầng 4 trong \"Tower of Adversity: Hazard Zone.\"",
     "translator_note": ""
   },
   {
@@ -7571,7 +7571,7 @@
     "ai_reason": "",
     "source_en": "Use Cartethyia to clear Hazard Tower Floor 1 & Floor 2 in \"Tower of Adversity: Hazard Zone.\"",
     "review_note": "",
-    "new_translation_vi": "Dùng Cartethyia để vượt tầng 1 và 2 của Tháp Nguy Hiểm trong \"Tower of Adversity: Hazard Zone.\"",
+    "new_translation_vi": "Sử dụng Cartethyia để vượt Hazard Tower tầng 1 & tầng 2 trong \"Tower of Adversity: Hazard Zone.\"",
     "translator_note": ""
   },
   {
@@ -7596,7 +7596,7 @@
     "ai_reason": "",
     "source_en": "Use Lupa to clear Resonant Tower & Echoing Tower Floor 4 in \"Tower of Adversity: Hazard Zone.\"",
     "review_note": "",
-    "new_translation_vi": "Dùng Lupa để vượt qua Tầng 4 Tháp Cộng Hưởng & Tháp Vọng Âm trong \"Tháp Nghịch Cảnh: Vùng Nguy Hiểm.\"",
+    "new_translation_vi": "Sử dụng Lupa để vượt Resonant Tower & Echoing Tower tầng 4 trong \"Tower of Adversity: Hazard Zone.\"",
     "translator_note": ""
   },
   {
@@ -7621,7 +7621,7 @@
     "ai_reason": "",
     "source_en": "Use Lupa to clear Hazard Tower Floor 1 & Floor 2 in \"Tower of Adversity: Hazard Zone.\"",
     "review_note": "",
-    "new_translation_vi": "Dùng Lupa để vượt qua Tầng 1 & Tầng 2 Tháp Nguy Hiểm trong \"Tháp Nghịch Cảnh: Vùng Nguy Hiểm.\"",
+    "new_translation_vi": "Sử dụng Lupa để vượt Hazard Tower tầng 1 & tầng 2 trong \"Tower of Adversity: Hazard Zone.\"",
     "translator_note": ""
   },
   {
@@ -7646,7 +7646,7 @@
     "ai_reason": "",
     "source_en": "Complete \"Respawning Waters: Chasm\" and \"Respawning Waters: Torrents\" in Whimpering Wastes.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành \"Nước Tái Sinh: Vực Sâu\" và \"Nước Tái Sinh: Dòng Chảy\" tại Whimpering Wastes.",
+    "new_translation_vi": "Hoàn thành \"Respawning Waters: Chasm\" và \"Respawning Waters: Torrents\" tại Whimpering Wastes.",
     "translator_note": ""
   },
   {
@@ -7671,7 +7671,7 @@
     "ai_reason": "",
     "source_en": "Defeat Kelpie at Lv. 4 difficulty in \"Tactical Hologram: Phantom Pain\" 1 time.",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Kelpie ở độ khó Cấp 4 trong \"Tactical Hologram: Phantom Pain\" 1 lần.",
+    "new_translation_vi": "Đánh bại Kelpie ở độ khó Lv. 4 trong \"Tactical Hologram: Phantom Pain\" 1 lần.",
     "translator_note": ""
   },
   {
@@ -7696,7 +7696,7 @@
     "ai_reason": "",
     "source_en": "Defeat Kelpie at Lv. 6 difficulty in \"Tactical Hologram: Phantom Pain\" 1 time.",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Kelpie ở độ khó Cấp 6 trong \"Tactical Hologram: Phantom Pain\" 1 lần.",
+    "new_translation_vi": "Đánh bại Kelpie ở độ khó Lv. 6 trong \"Tactical Hologram: Phantom Pain\" 1 lần.",
     "translator_note": ""
   },
   {
@@ -7721,7 +7721,7 @@
     "ai_reason": "",
     "source_en": "Reach Duelist Level 10 in \"All Out! Towards the Peaks of Prestige.\"",
     "review_note": "",
-    "new_translation_vi": "Đạt Cấp Đấu Thủ 10 trong \"Tất Cả Vào Cuộc! Vươn Tới Đỉnh Danh Vọng\"",
+    "new_translation_vi": "Đạt cấp Duelist Level 10 trong \"All Out! Towards the Peaks of Prestige.\"",
     "translator_note": ""
   },
   {
@@ -7746,7 +7746,7 @@
     "ai_reason": "",
     "source_en": "Reach Total Stress Level 48 in the Disaster Trial of Virtual Crisis: Frontier Trials.",
     "review_note": "",
-    "new_translation_vi": "Đạt Cấp Độ Căng Thẳng Tổng 48 trong Thử Thách Thiên Tai của Thử Thách Ảo: Biên Giới Thử Nghiệm.",
+    "new_translation_vi": "Đạt tổng mức Stress Level 48 trong Disaster Trial của Virtual Crisis: Frontier Trials.",
     "translator_note": ""
   },
   {
@@ -7771,7 +7771,7 @@
     "ai_reason": "",
     "source_en": "Reach Total Stress Level 136 in the Disaster Trial of Virtual Crisis: Frontier Trials.",
     "review_note": "",
-    "new_translation_vi": "Đạt Tổng Mức Căng Thẳng 136 trong Thử Thách Tai Họa của Khủng Hoảng Ảo: Thử Thách Biên Giới.",
+    "new_translation_vi": "Đạt tổng mức Stress Level 136 trong Disaster Trial của Virtual Crisis: Frontier Trials.",
     "translator_note": ""
   },
   {
@@ -7796,7 +7796,7 @@
     "ai_reason": "",
     "source_en": "Obtain 6,000 Illusive Points in \"Fantasies of the Thousand Gateways.\"",
     "review_note": "",
-    "new_translation_vi": "Thu thập 6.000 Điểm Ảo Ảnh trong \"Ảo Ảnh Ngàn Cánh Cửa.\"",
+    "new_translation_vi": "Nhận 6,000 Illusive Point trong \"Fantasies of the Thousand Gateways.\"",
     "translator_note": ""
   },
   {
@@ -7821,7 +7821,7 @@
     "ai_reason": "",
     "source_en": "At least for this moment, it's a shared performance.",
     "review_note": "",
-    "new_translation_vi": "Ít nhất trong khoảnh khắc này, đây là một màn trình diễn chung.",
+    "new_translation_vi": "Ít nhất là vào khoảnh khắc này, đây là một màn trình diễn chung.",
     "translator_note": ""
   },
   {
@@ -7846,7 +7846,7 @@
     "ai_reason": "",
     "source_en": "Can this improvisation bring about a new chapter in the song of life?",
     "review_note": "",
-    "new_translation_vi": "Liệu sự ứng biến này có thể mở ra một chương mới trong bản nhạc cuộc đời?",
+    "new_translation_vi": "Liệu sự ngẫu hứng này có thể mở ra một chương mới trong bản nhạc cuộc đời?",
     "translator_note": ""
   },
   {
@@ -7871,7 +7871,7 @@
     "ai_reason": "",
     "source_en": "The rift between worlds shall reveal itself within dreams.",
     "review_note": "",
-    "new_translation_vi": "Vết nứt giữa các thế giới sẽ hiện ra trong giấc mơ.",
+    "new_translation_vi": "Sự rạn nứt giữa các thế giới sẽ tự hé lộ trong những giấc mơ.",
     "translator_note": ""
   },
   {
@@ -7896,7 +7896,7 @@
     "ai_reason": "",
     "source_en": "The prelude has sounded. What kind of finale will this paradise reach this time?",
     "review_note": "",
-    "new_translation_vi": "Khúc dạo đầu đã vang lên. Lần này, thiên đường này sẽ kết thúc ra sao?",
+    "new_translation_vi": "Khúc dạo đầu đã vang lên. Thiên đường này sẽ đạt đến hồi kết như thế nào lần này đây?",
     "translator_note": ""
   },
   {
@@ -7921,7 +7921,7 @@
     "ai_reason": "",
     "source_en": "A great performance needs not two conductors. I will yield for now and allow you to command.",
     "review_note": "",
-    "new_translation_vi": "Một buổi trình diễn tuyệt vời không cần đến hai nhạc trưởng. Ta sẽ tạm lui bước và để ngươi chỉ huy.",
+    "new_translation_vi": "Một màn trình diễn tuyệt vời không cần đến hai nhạc trưởng. Ta sẽ nhường bước lúc này và để bạn chỉ huy.",
     "translator_note": ""
   },
   {
@@ -7946,7 +7946,7 @@
     "ai_reason": "",
     "source_en": "\"Fate grants us sweet slumber. To where shall the traveler of this prolonged dream wander?\"",
     "review_note": "",
-    "new_translation_vi": "\"Số phận ban cho ta giấc ngủ ngọt ngào. Lữ khách của cơn mộng dài này sẽ đi về đâu?\"",
+    "new_translation_vi": "\"Số phận ban cho chúng ta giấc ngủ ngọt ngào. Lữ khách của giấc mơ kéo dài này sẽ phiêu du về đâu?\"",
     "translator_note": ""
   },
   {
@@ -7971,7 +7971,7 @@
     "ai_reason": "",
     "source_en": "Perhaps I should rejoice how a chaotic dream such as this can still be woven into harmony.",
     "review_note": "",
-    "new_translation_vi": "Có lẽ ta nên vui mừng vì một giấc mơ hỗn loạn như thế này vẫn có thể kết thành sự hòa điệu.",
+    "new_translation_vi": "Có lẽ ta nên vui mừng vì một giấc mơ hỗn loạn như thế này vẫn có thể được dệt thành sự hòa hợp.",
     "translator_note": ""
   },
   {
@@ -7996,7 +7996,7 @@
     "ai_reason": "",
     "source_en": "This is the future you chose, the fate upon which \"they\" in paradise depend.",
     "review_note": "",
-    "new_translation_vi": "Đây là tương lai mà cậu đã chọn, là số phận mà \"họ\" nơi thiên đường đang trông chờ.",
+    "new_translation_vi": "Đây là tương lai mà bạn đã chọn, số phận mà \"họ\" trong thiên đường đang dựa vào.",
     "translator_note": ""
   },
   {
@@ -8021,7 +8021,7 @@
     "ai_reason": "",
     "source_en": "The illusion of paradise will fade... But these miracles, these revelations will echo forever.",
     "review_note": "",
-    "new_translation_vi": "Ảo ảnh thiên đường rồi sẽ tan biến... Nhưng những phép màu này, những khải thị này sẽ vang vọng mãi mãi.",
+    "new_translation_vi": "Ảo ảnh về thiên đường sẽ phai nhạt... Nhưng những phép màu này, những sự mặc khải này sẽ echo mãi mãi.",
     "translator_note": ""
   },
   {
@@ -8046,7 +8046,7 @@
     "ai_reason": "",
     "source_en": "So... this is where paradise meets its end. Shall we surrender, or begin anew?",
     "review_note": "",
-    "new_translation_vi": "Vậy... đây là nơi thiên đường đi đến hồi kết. Ta nên đầu hàng, hay bắt đầu lại từ đầu?",
+    "new_translation_vi": "Vậy... đây là nơi thiên đường đi đến hồi kết. Chúng ta nên đầu hàng, hay bắt đầu lại từ đầu?",
     "translator_note": ""
   },
   {
@@ -8071,7 +8071,7 @@
     "ai_reason": "",
     "source_en": "Unexpected noise mingles with the melody. How shall we address it?",
     "review_note": "",
-    "new_translation_vi": "Âm thanh lạ xen vào giai điệu. Ta nên xử lý thế nào đây?",
+    "new_translation_vi": "Tiếng ồn bất ngờ hòa lẫn vào giai điệu. Chúng ta nên xử lý nó thế nào đây?",
     "translator_note": ""
   },
   {
@@ -8096,7 +8096,7 @@
     "ai_reason": "",
     "source_en": "Current Phase {0}/{1}",
     "review_note": "",
-    "new_translation_vi": "Giai Đoạn Hiện Tại {0}/{1}",
+    "new_translation_vi": "Giai đoạn hiện tại {0}/{1}",
     "translator_note": ""
   },
   {
@@ -8121,7 +8121,7 @@
     "ai_reason": "",
     "source_en": "Phase {0} Result",
     "review_note": "",
-    "new_translation_vi": "Kết quả Pha {0}",
+    "new_translation_vi": "Kết quả giai đoạn {0}",
     "translator_note": ""
   },
   {
@@ -8146,7 +8146,7 @@
     "ai_reason": "",
     "source_en": "<color=#e4c69b>Flash</color> <color=#fb6464>(Unactivated)</color> - At the start of the Battle Stage, teleport this Echo to the opponent's Backline area.",
     "review_note": "",
-    "new_translation_vi": "<color=#e4c69b>Thần Tốc</color> <color=#fb6464>(Chưa kích hoạt)</color> - Khi Giai Đoạn Chiến Đấu bắt đầu, dịch chuyển Tổ Tacet này đến Khu Hậu Cảnh của đối phương.",
+    "new_translation_vi": "<color=#e4c69b>Flash</color> <color=#fb6464>(Chưa kích hoạt)</color> - Khi bắt đầu Battle Stage, dịch chuyển Echo này đến khu vực Backline của đối thủ.",
     "translator_note": ""
   },
   {
@@ -8171,7 +8171,7 @@
     "ai_reason": "",
     "source_en": "<color=#e4c69b>Cycle</color> <color=#fb6464>(Unactivated)</color> - Reconstructing this Echo grants {0} more points of Energy.",
     "review_note": "",
-    "new_translation_vi": "<color=#e4c69b>Cycle</color> <color=#fb6464>(Chưa kích hoạt)</color> - Tái cấu trúc Tacet Discord này sẽ cung cấp thêm {0} điểm Năng Lượng.",
+    "new_translation_vi": "<color=#e4c69b>Cycle</color> <color=#fb6464>(Chưa kích hoạt)</color> - Tái cấu trúc Echo này sẽ nhận thêm {0} điểm Năng lượng.",
     "translator_note": ""
   },
   {
@@ -8196,7 +8196,7 @@
     "ai_reason": "",
     "source_en": "Reach Septimont.",
     "review_note": "",
-    "new_translation_vi": "Đến Septimont.",
+    "new_translation_vi": "Đạt Septimont.",
     "translator_note": ""
   },
   {
@@ -8221,7 +8221,7 @@
     "ai_reason": "",
     "source_en": "Use Hero's Slash once.",
     "review_note": "",
-    "new_translation_vi": "Dùng Hero's Slash một lần.",
+    "new_translation_vi": "Sử dụng Hero's Slash một lần.",
     "translator_note": ""
   },
   {
@@ -8246,7 +8246,7 @@
     "ai_reason": "",
     "source_en": "Team up with Lupa and win a match.",
     "review_note": "",
-    "new_translation_vi": "Hợp tác với Lupa và giành chiến thắng trong trận đấu.",
+    "new_translation_vi": "Lập đội với Lupa và giành chiến thắng trong một trận đấu.",
     "translator_note": ""
   },
   {
@@ -8271,7 +8271,7 @@
     "ai_reason": "",
     "source_en": "Complete Treasure Spot Challenge III.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Thử Thách Điểm Kho Báu III.",
+    "new_translation_vi": "Hoàn thành Treasure Spot Challenge III.",
     "translator_note": ""
   },
   {
@@ -8296,7 +8296,7 @@
     "ai_reason": "",
     "source_en": "Reach the top of Capitoline Hill.",
     "review_note": "",
-    "new_translation_vi": "Lên đỉnh Capitoline Hill.",
+    "new_translation_vi": "Đạt đến đỉnh của Capitoline Hill.",
     "translator_note": ""
   },
   {
@@ -8321,7 +8321,7 @@
     "ai_reason": "",
     "source_en": "Try the Thermes Baths once.",
     "review_note": "",
-    "new_translation_vi": "Thử tắm suối nước nóng Thermes một lần đi.",
+    "new_translation_vi": "Thử trải nghiệm Thermes Baths một lần.",
     "translator_note": ""
   },
   {
@@ -8346,7 +8346,7 @@
     "ai_reason": "",
     "source_en": "Become the Champion in Main Quest: Shadow of Glory.",
     "review_note": "",
-    "new_translation_vi": "Trở thành Nhà Vô Địch trong Nhiệm Vụ Chính: Bóng Tối Vinh Quang.",
+    "new_translation_vi": "Trở thành Nhà vô địch trong nhiệm vụ chính tuyến: Shadow of Glory.",
     "translator_note": ""
   },
   {
@@ -8371,7 +8371,7 @@
     "ai_reason": "",
     "source_en": "Complete Exploration Quest \"Where Sky is Clear and Glory Shines: Guardian Tower.\"",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Nhiệm Vụ Thám Hiểm \"Nơi Trời Quang Mây Tạnh, Vinh Quang Rạng Ngời: Tháp Canh Giám Hộ\".",
+    "new_translation_vi": "Hoàn thành nhiệm vụ khám phá \"Where Sky is Clear and Glory Shines: Guardian Tower.\"",
     "translator_note": ""
   },
   {
@@ -8396,7 +8396,7 @@
     "ai_reason": "",
     "source_en": "Complete Exploration Quest \"Flames in the Deep.\"",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Nhiệm Vụ Thám Hiểm \"Lửa Trong Sâu Thẳm.\"",
+    "new_translation_vi": "Hoàn thành nhiệm vụ khám phá \"Flames in the Deep.\"",
     "translator_note": ""
   },
   {
@@ -8471,7 +8471,7 @@
     "ai_reason": "",
     "source_en": "How to obtain: After completing all trials, challenge and defeat Danvers, Fulvia, and Furius",
     "review_note": "",
-    "new_translation_vi": "Cách nhận: Hoàn thành tất cả thử thách, sau đó đánh bại Danvers, Fulvia và Furius",
+    "new_translation_vi": "Cách nhận: Sau khi hoàn thành tất cả các thử thách, hãy khiêu chiến và đánh bại Danvers, Fulvia, và Furius",
     "translator_note": ""
   },
   {
@@ -8486,11 +8486,11 @@
     "primary_key": "Text_Weekly_Rogue_Score",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
@@ -8521,7 +8521,7 @@
     "ai_reason": "",
     "source_en": "Invite Resonators to the Thermes Baths for the first time.",
     "review_note": "",
-    "new_translation_vi": "Mời Resonator đến suối nước nóng Thermes lần đầu",
+    "new_translation_vi": "Mời Resonator đến Thermes Baths lần đầu tiên.",
     "translator_note": ""
   },
   {
@@ -8546,7 +8546,7 @@
     "ai_reason": "",
     "source_en": "Obtain all Echoes in \"All Out! Towards the Peaks of Prestige.\"",
     "review_note": "",
-    "new_translation_vi": "Thu thập tất cả Echo trong \"Tất Sả! Vươn Tới Đỉnh Vinh Quang\".",
+    "new_translation_vi": "Thu thập tất cả Echo trong \"All Out! Towards the Peaks of Prestige.\"",
     "translator_note": ""
   },
   {
@@ -8571,7 +8571,7 @@
     "ai_reason": "",
     "source_en": "Upgrade the appearance of all Echoes in \"All Out! Towards the Peaks of Prestige.\"",
     "review_note": "",
-    "new_translation_vi": "Nâng cấp ngoại hình của tất cả Echo trong sự kiện \"Tất Cả Vào Cuộc! Vươn Tới Đỉnh Danh Vọng.\"",
+    "new_translation_vi": "Nâng cấp ngoại hình của tất cả Echo trong \"All Out! Towards the Peaks of Prestige.\"",
     "translator_note": ""
   },
   {
@@ -8596,7 +8596,7 @@
     "ai_reason": "",
     "source_en": "Obtain all Resonator Tactics in \"All Out! Towards the Peaks of Prestige.\"",
     "review_note": "",
-    "new_translation_vi": "Thu thập tất cả Chiến Thuật Resonator trong \"Tất Cả Vào Cuộc! Vươn Tới Đỉnh Danh Vọng.\"",
+    "new_translation_vi": "Thu thập tất cả chiến thuật Resonator trong \"All Out! Towards the Peaks of Prestige.\"",
     "translator_note": ""
   },
   {
@@ -8621,7 +8621,7 @@
     "ai_reason": "",
     "source_en": "Reach a record high of 1,000 Fame Flags in \"All Out! Towards the Peaks of Prestige.\"",
     "review_note": "",
-    "new_translation_vi": "Lập kỷ lục mới với 1.000 Cờ Danh Vọng trong \"Tất Cả Vào Cuộc! Vươn Tới Đỉnh Danh Vọng\"",
+    "new_translation_vi": "Đạt kỷ lục cao nhất là 1,000 Fame Flag trong \"All Out! Towards the Peaks of Prestige.\"",
     "translator_note": ""
   },
   {
@@ -8646,7 +8646,7 @@
     "ai_reason": "",
     "source_en": "Obtain all Medals of Prestige in \"All Out! Towards the Peaks of Prestige.\"",
     "review_note": "",
-    "new_translation_vi": "Thu thập tất cả Huy Chương Vinh Quang trong \"Tất Sả! Vươn Tới Đỉnh Vinh Quang\".",
+    "new_translation_vi": "Nhận tất cả Huy chương của Prestige trong \"All Out! Towards the Peaks of Prestige.\"",
     "translator_note": ""
   },
   {
@@ -8671,7 +8671,7 @@
     "ai_reason": "",
     "source_en": "Complete Endless Challenge - Difficult in \"All Out! Towards the Peaks of Prestige.\"",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Thử thách Vô tận - Khó tại \"Tất cả vì danh vọng! Vươn tới đỉnh cao.\"",
+    "new_translation_vi": "Hoàn thành Thử thách Vô tận - Khó trong \"All Out! Towards the Peaks of Prestige.\"",
     "translator_note": ""
   },
   {
@@ -8696,7 +8696,7 @@
     "ai_reason": "",
     "source_en": "Become Apex Duelist in \"All Out! Towards the Peaks of Prestige.\"",
     "review_note": "",
-    "new_translation_vi": "Trở thành Đấu Thủ Tinh Anh trong \"Tất Cả Vào Cuộc! Vươn Tới Đỉnh Danh Vọng.\"",
+    "new_translation_vi": "Trở thành Đấu sĩ Đỉnh cao trong \"All Out! Towards the Peaks of Prestige.\"",
     "translator_note": ""
   },
   {
@@ -8721,7 +8721,7 @@
     "ai_reason": "",
     "source_en": "Claim your first victory in \"All Out! Towards the Peaks of Prestige.\"",
     "review_note": "",
-    "new_translation_vi": "Ghi dấu chiến thắng đầu tiên trong \"Tất Cả Vào Cuộc! Vươn Tới Đỉnh Danh Vọng.\"",
+    "new_translation_vi": "Giành chiến thắng đầu tiên trong \"All Out! Towards the Peaks of Prestige.\"",
     "translator_note": ""
   },
   {
@@ -8771,7 +8771,7 @@
     "ai_reason": "",
     "source_en": "Unlocks In {0}",
     "review_note": "",
-    "new_translation_vi": "Mở khóa Trong {0}",
+    "new_translation_vi": "Mở khóa sau {0}",
     "translator_note": ""
   },
   {
@@ -8796,7 +8796,7 @@
     "ai_reason": "",
     "source_en": "Crystallized fragments of frozen frequencies. These artifacts of the dream possess wonderful powers.",
     "review_note": "",
-    "new_translation_vi": "Mảnh vỡ tần số bị đóng băng. Những di vật của giấc mơ này chứa đựng sức mạnh kỳ diệu.",
+    "new_translation_vi": "Những mảnh vỡ kết tinh của tần số frozen. Những tạo vật của giấc mơ này sở hữu sức mạnh kỳ diệu.",
     "translator_note": ""
   },
   {
@@ -8821,7 +8821,7 @@
     "ai_reason": "",
     "source_en": "A coupon with a Ferris wheel pattern on it, symbolizing the long-gone glory of the Dreamland. These are the coupons Echoes collected each day.",
     "review_note": "",
-    "new_translation_vi": "Một tấm phiếu có họa tiết vòng đu quay, tượng trưng cho vinh quang đã mất của Dreamland. Đây là những tấm phiếu các Echo thu thập mỗi ngày.",
+    "new_translation_vi": "Một phiếu giảm giá có hình vòng quay Ferris, tượng trưng cho vinh quang đã mất của Dreamland. Đây là những phiếu giảm giá mà Echoes thu thập được mỗi ngày.",
     "translator_note": ""
   },
   {
@@ -8846,7 +8846,7 @@
     "ai_reason": "",
     "source_en": "{0} Days",
     "review_note": "",
-    "new_translation_vi": "{0} ngày",
+    "new_translation_vi": "{0} Ngày",
     "translator_note": ""
   },
   {
@@ -8871,7 +8871,7 @@
     "ai_reason": "",
     "source_en": "Unlocked in {0}",
     "review_note": "",
-    "new_translation_vi": "Mở khóa trong {0}",
+    "new_translation_vi": "Mở khóa sau {0}",
     "translator_note": ""
   },
   {
@@ -8888,15 +8888,15 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "missing_token:<SapTag=0>|missing_token:</SapTag>",
-    "rule_decision": "RETRY",
-    "rule_score": 6,
-    "rule_issues": "missing_token:<SapTag=0>,missing_token:</SapTag>",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Complete the goals of <SapTag=0>{0}</SapTag> {Cus:Sap,S=Phase P=Phases SapTag=0}.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành mục tiêu của {0} {Cus:Sap,S=Giai Đoạn P=Các Giai Đoạn SapTag=0}",
+    "new_translation_vi": "Hoàn thành các mục tiêu của <SapTag=0>{0}</SapTag> {Cus:Sap,S=Phase P=Phases SapTag=0}.",
     "translator_note": ""
   },
   {
@@ -8946,7 +8946,7 @@
     "ai_reason": "",
     "source_en": "<size=16>Lv.</size>{0}",
     "review_note": "",
-    "new_translation_vi": "<size=16>Cấp </size>{0}",
+    "new_translation_vi": "<size=16>Cấp</size>{0}",
     "translator_note": ""
   },
   {
@@ -8971,7 +8971,7 @@
     "ai_reason": "",
     "source_en": "Whenever <te href=851005><color=#c79f49>Gradation</color></te> happens on the field, gain {0} <te href=851010><color=#c79f49>Dreamland Coupons</color></te>.",
     "review_note": "",
-    "new_translation_vi": "Mỗi khi <te href=851005><color=#c79f49>Gradation</color></te> xuất hiện trên chiến trường, nhận được {0} <te href=851010><color=#c79f49>Dreamland Coupons</color></te>.",
+    "new_translation_vi": "Bất cứ khi nào <te href=851005><color=#c79f49>Gradation</color></te> xảy ra trên sân, nhận {0} <te href=851010><color=#c79f49>Dreamland Coupons</color></te>.",
     "translator_note": ""
   },
   {
@@ -9021,7 +9021,7 @@
     "ai_reason": "",
     "source_en": "There won't be enough Echoes in this run. Please choose the Member Dream Attributes to proceed.",
     "review_note": "",
-    "new_translation_vi": "Lần này sẽ không đủ Tiếng Vọng. Hãy chọn Thuộc Tính Giấc Mơ Thành Viên để tiếp tục.",
+    "new_translation_vi": "Sẽ không đủ Echoes trong lượt này. Vui lòng chọn Thuộc tính Giấc mơ của Thành viên để tiếp tục.",
     "translator_note": ""
   },
   {
@@ -9046,7 +9046,7 @@
     "ai_reason": "",
     "source_en": "Please choose your Blessing to proceed.",
     "review_note": "",
-    "new_translation_vi": "Hãy chọn Phước Lành của cậu để tiếp tục.",
+    "new_translation_vi": "Vui lòng chọn Phước lành của bạn để tiếp tục.",
     "translator_note": ""
   },
   {
@@ -9071,7 +9071,7 @@
     "ai_reason": "",
     "source_en": "Generate 1 Clang Bang on a blank block every {0} days.",
     "review_note": "",
-    "new_translation_vi": "Tạo ra 1 Clang Bang trên khối trống sau mỗi {0} ngày.",
+    "new_translation_vi": "Tạo 1 Clang Bang trên một ô trống sau mỗi {0} ngày.",
     "translator_note": ""
   },
   {
@@ -9096,7 +9096,7 @@
     "ai_reason": "",
     "source_en": "Current selection contains locked Echo. Continue with the Batch Discard?",
     "review_note": "",
-    "new_translation_vi": "Lựa chọn hiện tại có Echo bị khóa. Tiếp tục loại bỏ hàng loạt?",
+    "new_translation_vi": "Lựa chọn hiện tại chứa Echo đã khóa. Tiếp tục với việc Hủy hàng loạt?",
     "translator_note": ""
   },
   {
@@ -9171,7 +9171,7 @@
     "ai_reason": "",
     "source_en": "Clear all selected entries? (Activated plan will be disabled)",
     "review_note": "",
-    "new_translation_vi": "Xóa tất cả mục đã chọn? (Kế hoạch đã kích hoạt sẽ bị vô hiệu)",
+    "new_translation_vi": "Xóa tất cả các mục đã chọn? (Kế hoạch đã kích hoạt sẽ bị vô hiệu hóa)",
     "translator_note": ""
   },
   {
@@ -9246,7 +9246,7 @@
     "ai_reason": "",
     "source_en": "When enabled, all currently owned and newly acquired non-5-Star Echoes will be automatically marked as \"Discard.\" Enable this feature?",
     "review_note": "",
-    "new_translation_vi": "Khi bật, tất cả Cộng Hưởng (không phải 5 sao) hiện có và mới nhận sẽ tự động đánh dấu là \"Loại bỏ\". Bật tính năng này?",
+    "new_translation_vi": "Khi được bật, tất cả Echoes không phải 5 sao hiện đang sở hữu và mới thu thập được sẽ tự động được đánh dấu là \"Hủy\". Bật tính năng này?",
     "translator_note": ""
   },
   {
@@ -9271,7 +9271,7 @@
     "ai_reason": "",
     "source_en": "No changes will be made to any Echo Management settings. All plans will simply be disabled.",
     "review_note": "",
-    "new_translation_vi": "Sẽ không có bất kỳ thay đổi nào trong cài đặt Quản lý Echo. Tất cả kế hoạch sẽ chỉ bị vô hiệu hóa.",
+    "new_translation_vi": "Sẽ không có thay đổi nào được thực hiện đối với bất kỳ cài đặt Quản lý Echo nào. Tất cả các kế hoạch sẽ chỉ đơn giản là bị vô hiệu hóa.",
     "translator_note": ""
   },
   {
@@ -9296,7 +9296,7 @@
     "ai_reason": "",
     "source_en": "All Echo Management Plans will be reset to empty plans and disabled.",
     "review_note": "",
-    "new_translation_vi": "Tất cả Kế Hoạch Quản Lý Echo sẽ được đặt lại về kế hoạch trống và vô hiệu hóa.",
+    "new_translation_vi": "Tất cả các Kế hoạch Quản lý Echo sẽ được đặt lại thành kế hoạch trống và bị vô hiệu hóa.",
     "translator_note": ""
   },
   {
@@ -9321,7 +9321,7 @@
     "ai_reason": "",
     "source_en": "Changes detected in this management plan. Save before exiting?",
     "review_note": "",
-    "new_translation_vi": "Phát hiện thay đổi trong kế hoạch quản lý này. Lưu trước khi thoát chứ?",
+    "new_translation_vi": "Đã phát hiện thay đổi trong kế hoạch quản lý này. Lưu trước khi thoát?",
     "translator_note": ""
   },
   {
@@ -9346,7 +9346,7 @@
     "ai_reason": "",
     "source_en": "This will overwrite all your Echo Management Plans with the configuration from Rover <color=#ac8839>{0}</color>, and set all plans to Enabled. Continue?",
     "review_note": "",
-    "new_translation_vi": "Thao tác này sẽ ghi đè tất cả Kế hoạch Quản lý Echo của cậu bằng cấu hình từ Rover <color=#ac8839>{0}</color>, và kích hoạt tất cả kế hoạch. Tiếp tục chứ?",
+    "new_translation_vi": "Thao tác này sẽ ghi đè tất cả các Kế hoạch Quản lý Echo của bạn bằng cấu hình từ Rover <color=#ac8839>{0}</color> và đặt tất cả các kế hoạch thành Đã bật. Tiếp tục?",
     "translator_note": ""
   },
   {
@@ -9371,7 +9371,7 @@
     "ai_reason": "",
     "source_en": "Reset this Echo Management Plan to an empty plan?",
     "review_note": "",
-    "new_translation_vi": "Đặt lại Kế hoạch Quản lý Echo này về trạng thái trống?",
+    "new_translation_vi": "Đặt lại Kế hoạch Quản lý Echo này thành kế hoạch trống?",
     "translator_note": ""
   },
   {
@@ -9396,7 +9396,7 @@
     "ai_reason": "",
     "source_en": "{0} Management Plan",
     "review_note": "",
-    "new_translation_vi": "Kế Hoạch Quản Lý của {0}",
+    "new_translation_vi": "Kế hoạch Quản lý {0}",
     "translator_note": ""
   },
   {
@@ -9421,7 +9421,7 @@
     "ai_reason": "",
     "source_en": "Discarded ({0})",
     "review_note": "",
-    "new_translation_vi": "Đã hủy bỏ ({0})",
+    "new_translation_vi": "Đã hủy ({0})",
     "translator_note": ""
   },
   {
@@ -9471,7 +9471,7 @@
     "ai_reason": "",
     "source_en": "The following <color=#ac8839>{0}</color> Echo(es) will be discarded",
     "review_note": "",
-    "new_translation_vi": "<color=#ac8839>{0}</color> Echo sau sẽ bị loại bỏ",
+    "new_translation_vi": "Các Echo <color=#ac8839>{0}</color> sau đây sẽ bị hủy",
     "translator_note": ""
   },
   {
@@ -9496,7 +9496,7 @@
     "ai_reason": "",
     "source_en": "The following <color=#ac8839>{0}</color> Echo(es) will be locked",
     "review_note": "",
-    "new_translation_vi": "<color=#ac8839>{0}</color> Echo sau sẽ bị khóa",
+    "new_translation_vi": "Các Echo <color=#ac8839>{0}</color> sau đây sẽ bị khóa",
     "translator_note": ""
   },
   {
@@ -9521,7 +9521,7 @@
     "ai_reason": "",
     "source_en": "This Plan Code is outdated. Update before sharing?",
     "review_note": "",
-    "new_translation_vi": "Mã Kế Hoạch này đã lỗi thời. Cập nhật trước khi chia sẻ chứ?",
+    "new_translation_vi": "Mã Kế hoạch này đã lỗi thời. Cập nhật trước khi chia sẻ?",
     "translator_note": ""
   },
   {
@@ -9546,7 +9546,7 @@
     "ai_reason": "",
     "source_en": "Echo Management Plan from Rover {0}: {1}",
     "review_note": "",
-    "new_translation_vi": "Kế Hoạch Quản Lý Tiếng Vọng từ Vận Mệnh Giả {0}: {1}",
+    "new_translation_vi": "Kế hoạch Quản lý Echo từ Rover {0}: {1}",
     "translator_note": ""
   },
   {
@@ -9571,7 +9571,7 @@
     "ai_reason": "",
     "source_en": "Reading attempt too frequent. Please try again later.",
     "review_note": "",
-    "new_translation_vi": "Thử đọc quá nhiều lần. Vui lòng thử lại sau.",
+    "new_translation_vi": "Đọc quá thường xuyên. Vui lòng thử lại sau.",
     "translator_note": ""
   },
   {
@@ -9596,7 +9596,7 @@
     "ai_reason": "",
     "source_en": "There have been changes to your management plans. Please update the Plan Code.",
     "review_note": "",
-    "new_translation_vi": "Đã có thay đổi trong kế hoạch quản lý của cậu. Hãy cập nhật Mã Kế Hoạch.",
+    "new_translation_vi": "Đã có thay đổi đối với các kế hoạch quản lý của bạn. Vui lòng cập nhật Mã Kế hoạch.",
     "translator_note": ""
   },
   {
@@ -9621,7 +9621,7 @@
     "ai_reason": "",
     "source_en": "This will clear all current Sonata Effect plan configurations, import the suggested plans, and enable all plans. Continue?",
     "review_note": "",
-    "new_translation_vi": "Thao tác này sẽ xóa tất cả cấu hình kế hoạch Hiệu ứng Sonata hiện tại, nhập các kế hoạch đề xuất và kích hoạt tất cả. Tiếp tục?",
+    "new_translation_vi": "Thao tác này sẽ xóa tất cả các cấu hình kế hoạch Hiệu ứng Sonata hiện tại, nhập các kế hoạch được đề xuất và bật tất cả các kế hoạch. Tiếp tục?",
     "translator_note": ""
   },
   {
@@ -9671,7 +9671,7 @@
     "ai_reason": "",
     "source_en": "There are no Management Plans linked to this Plan Code. Please update your Plan Code before proceeding.",
     "review_note": "",
-    "new_translation_vi": "Không có Kế Hoạch Quản Lý nào liên kết với Mã Kế Hoạch này. Vui lòng cập nhật Mã Kế Hoạch trước khi tiếp tục.",
+    "new_translation_vi": "Không có Kế hoạch Quản lý nào được liên kết với Mã Kế hoạch này. Vui lòng cập nhật Mã Kế hoạch của bạn trước khi tiếp tục.",
     "translator_note": ""
   },
   {
@@ -9696,7 +9696,7 @@
     "ai_reason": "",
     "source_en": "Insufficient Tuners, this upgrade cannot activate Substats.",
     "review_note": "",
-    "new_translation_vi": "Không đủ Bộ Điều Chỉnh, nâng cấp này không thể kích hoạt Thuộc Tính Phụ.",
+    "new_translation_vi": "Không đủ Tuners, nâng cấp này không thể kích hoạt Substats.",
     "translator_note": ""
   },
   {
@@ -9721,7 +9721,7 @@
     "ai_reason": "",
     "source_en": "Insufficient Tuners, this upgrade can only activate <SapTag=0>{0}</SapTag> {Cus:Sap,S=Substat P=Substats SapTag=0}.",
     "review_note": "",
-    "new_translation_vi": "Không đủ Bộ Điều Chỉnh, nâng cấp này chỉ có thể kích hoạt <SapTag=0>{0}</SapTag> {Cus:Sap,S=Thuộc Tính Phụ P=Thuộc Tính Phụ SapTag=0}.",
+    "new_translation_vi": "Không đủ Tuners, nâng cấp này chỉ có thể kích hoạt <SapTag=0>{0}</SapTag> {Cus:Sap,S=Substat P=Substats SapTag=0}.",
     "translator_note": ""
   },
   {
@@ -9746,7 +9746,7 @@
     "ai_reason": "",
     "source_en": "Upgrade to +{0} and activate Substat(s)",
     "review_note": "",
-    "new_translation_vi": "Nâng cấp lên +{0} để kích hoạt Chỉ số Phụ",
+    "new_translation_vi": "Nâng cấp lên +{0} và kích hoạt Substat",
     "translator_note": ""
   },
   {
@@ -9771,7 +9771,7 @@
     "ai_reason": "",
     "source_en": "After {0} days, <te href=851041><color=#c79f49>Remove</color></te> itself and gain {1} <te href=851010><color=#c79f49>Dreamland Coupons</color></te>.",
     "review_note": "",
-    "new_translation_vi": "Sau {0} ngày, <te href=851041><color=#c79f49>Xóa bỏ</color></te> và nhận {1} <te href=851010><color=#c79f49>Phiếu Dreamland</color></te>.",
+    "new_translation_vi": "Sau {0} ngày, <te href=851041><color=#c79f49>Loại bỏ</color></te> chính nó và nhận {1} <te href=851010><color=#c79f49>Dreamland Coupons</color></te>.",
     "translator_note": ""
   },
   {
@@ -9821,7 +9821,7 @@
     "ai_reason": "",
     "source_en": "Can be considered as an Echo of any rarity when undergoing <te href=851008><color=#c79f49>Integration</color></te>.",
     "review_note": "",
-    "new_translation_vi": "Có thể coi như một Echo thuộc bất kỳ độ hiếm nào khi thực hiện <te href=851008><color=#c79f49>Hợp Nhất</color></te>.",
+    "new_translation_vi": "Có thể được coi là Echo của bất kỳ độ hiếm nào khi thực hiện <te href=851008><color=#c79f49>Tích hợp</color></te>.",
     "translator_note": ""
   },
   {
@@ -9846,7 +9846,7 @@
     "ai_reason": "",
     "source_en": "At the start of each day, there is a {0}% chance to generate 1 <te href=851046><color=#c79f49>Fission Junrock</color></te> on a blank block.",
     "review_note": "",
-    "new_translation_vi": "Vào đầu mỗi ngày, có {0}% cơ hội tạo ra 1 <te href=851046><color=#c79f49>Đá Phân Rã Junrock</color></te> trên ô trống.",
+    "new_translation_vi": "Vào đầu mỗi ngày, có {0}% cơ hội tạo ra 1 <te href=851046><color=#c79f49>Fission Junrock</color></te> trên một ô trống.",
     "translator_note": ""
   },
   {
@@ -9871,7 +9871,7 @@
     "ai_reason": "",
     "source_en": "Draw your sword as a Hero, and complete the Quick Slash Challenge to obtain rewards.",
     "review_note": "",
-    "new_translation_vi": "Rút kiếm như một Anh Hùng và hoàn thành Thử Thách Vung Kiếm Nhanh để nhận thưởng.",
+    "new_translation_vi": "Rút kiếm như một Anh hùng và hoàn thành Thử thách Chém nhanh để nhận phần thưởng.",
     "translator_note": ""
   },
   {
@@ -9896,7 +9896,7 @@
     "ai_reason": "",
     "source_en": "You must select at least one Echo's attribute to confirm!",
     "review_note": "",
-    "new_translation_vi": "Bạn phải chọn thuộc tính của ít nhất một Echo để xác nhận!",
+    "new_translation_vi": "Bạn phải chọn ít nhất một thuộc tính của Echo để xác nhận!",
     "translator_note": ""
   },
   {
@@ -9921,7 +9921,7 @@
     "ai_reason": "",
     "source_en": "Your Core Echo cannot be Modulated.",
     "review_note": "",
-    "new_translation_vi": "Tâm Âm Hạch của ngươi không thể Điều Tần.",
+    "new_translation_vi": "Echo Cốt lõi của bạn không thể được Điều biến.",
     "translator_note": ""
   },
   {
@@ -9946,7 +9946,7 @@
     "ai_reason": "",
     "source_en": "Your Core Echo cannot be Modulated.",
     "review_note": "",
-    "new_translation_vi": "Tâm Âm Hạch của ngươi không thể Điều Tần.",
+    "new_translation_vi": "Echo Cốt lõi của bạn không thể được Điều biến.",
     "translator_note": ""
   },
   {
@@ -9971,7 +9971,7 @@
     "ai_reason": "",
     "source_en": "A Cost 3 Echo can only be Modulated when stacked on top of a Modulated Cost 1 Echo.",
     "review_note": "",
-    "new_translation_vi": "Echo có Cost 3 chỉ có thể được Điều Chỉnh khi xếp chồng lên một Echo Cost 1 đã Điều Chỉnh.",
+    "new_translation_vi": "Echo Chi phí 3 chỉ có thể được Điều biến khi xếp chồng lên trên Echo Chi phí 1 đã Điều biến.",
     "translator_note": ""
   },
   {
@@ -9996,7 +9996,7 @@
     "ai_reason": "",
     "source_en": "Cost 3 Echoes cannot be Modulated.",
     "review_note": "",
-    "new_translation_vi": "Chi phí 3 Echo không thể Điều Tần.",
+    "new_translation_vi": "Echoes Chi phí 3 không thể được Điều biến.",
     "translator_note": ""
   },
   {
@@ -10021,7 +10021,7 @@
     "ai_reason": "",
     "source_en": "A Cost 1 Echo can only be Modulated when stacked on top of a non-Modulated Cost 1 Echo.",
     "review_note": "",
-    "new_translation_vi": "Echo có Cost 1 chỉ có thể được Điều Chỉnh khi xếp chồng lên một Echo Cost 1 chưa Điều Chỉnh.",
+    "new_translation_vi": "Echo Chi phí 1 chỉ có thể được Điều biến khi xếp chồng lên trên Echo Chi phí 1 chưa Điều biến.",
     "translator_note": ""
   },
   {
@@ -10046,7 +10046,7 @@
     "ai_reason": "",
     "source_en": "Phase: {0}/∞",
     "review_note": "",
-    "new_translation_vi": "Pha: {0}/∞",
+    "new_translation_vi": "Giai đoạn: {0}/∞",
     "translator_note": ""
   },
   {
@@ -10071,7 +10071,7 @@
     "ai_reason": "",
     "source_en": "Phase: {0}/{1}",
     "review_note": "",
-    "new_translation_vi": "Pha: {0}/{1}",
+    "new_translation_vi": "Giai đoạn: {0}/{1}",
     "translator_note": ""
   },
   {
@@ -10096,7 +10096,7 @@
     "ai_reason": "",
     "source_en": "Sigil effect triggered via {0}!",
     "review_note": "",
-    "new_translation_vi": "Hiệu ứng Ấn Tín kích hoạt từ {0}!",
+    "new_translation_vi": "Hiệu ứng Sigil được kích hoạt thông qua {0}!",
     "translator_note": ""
   },
   {
@@ -10171,7 +10171,7 @@
     "ai_reason": "",
     "source_en": "<te href=851014><color=#c79f49>Rooted</color></te>",
     "review_note": "",
-    "new_translation_vi": "<te href=851014><color=#c79f49>Bám Rễ</color></te>",
+    "new_translation_vi": "<te href=851014><color=#c79f49>Đã cắm rễ</color></te>",
     "translator_note": ""
   },
   {
@@ -10196,7 +10196,7 @@
     "ai_reason": "",
     "source_en": "<te href=851051><color=#c79f49>Adjacent</color></te>",
     "review_note": "",
-    "new_translation_vi": "<te href=851051><color=#c79f49>Liền Kề</color></te>",
+    "new_translation_vi": "<te href=851051><color=#c79f49>Liền kề</color></te>",
     "translator_note": ""
   },
   {
@@ -10221,7 +10221,7 @@
     "ai_reason": "",
     "source_en": "<te href=851013><color=#c79f49>Item of Exchange</color></te>",
     "review_note": "",
-    "new_translation_vi": "<te href=851013><color=#c79f49>Vật Phẩm Trao Đổi</color></te>",
+    "new_translation_vi": "<te href=851013><color=#c79f49>Vật phẩm trao đổi</color></te>",
     "translator_note": ""
   },
   {
@@ -10246,7 +10246,7 @@
     "ai_reason": "",
     "source_en": "<te href=851052><color=#c79f49>Same Row</color></te>",
     "review_note": "",
-    "new_translation_vi": "<te href=851052><color=#c79f49>Cùng Hàng</color></te>",
+    "new_translation_vi": "<te href=851052><color=#c79f49>Cùng hàng</color></te>",
     "translator_note": ""
   },
   {
@@ -10271,7 +10271,7 @@
     "ai_reason": "",
     "source_en": "<te href=851053><color=#c79f49>Any Rarity</color></te>",
     "review_note": "",
-    "new_translation_vi": "<te href=851053><color=#c79f49>Bất Kỳ Độ Hiếm Nào</color></te>",
+    "new_translation_vi": "<te href=851053><color=#c79f49>Bất kỳ độ hiếm nào</color></te>",
     "translator_note": ""
   },
   {
@@ -10296,7 +10296,7 @@
     "ai_reason": "",
     "source_en": "Yield cap reached. Infinite challenge successful.",
     "review_note": "",
-    "new_translation_vi": "Đã đạt giới hạn thu hoạch. Thử thách Vô Hạn hoàn thành.",
+    "new_translation_vi": "Đã đạt giới hạn sản lượng. Thử thách vô tận thành công.",
     "translator_note": ""
   },
   {
@@ -10321,7 +10321,7 @@
     "ai_reason": "",
     "source_en": "The living dwell upon the dark beyond, stubbornly denying the insurmountable divide between life and death.",
     "review_note": "",
-    "new_translation_vi": "Kẻ sống vẫn cứ đắm chìm trong bóng tối vô tận, ngoan cố phủ nhận ranh giới bất khả xâm phạm giữa sự sống và cái chết.",
+    "new_translation_vi": "Người sống trú ngụ nơi bóng tối xa xăm, ngoan cố phủ nhận sự chia cắt không thể vượt qua giữa sự sống và cái chết.",
     "translator_note": ""
   },
   {
@@ -10336,11 +10336,11 @@
     "primary_key": "WeRougeFormationMonsterLevel",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
@@ -10396,7 +10396,7 @@
     "ai_reason": "",
     "source_en": "Find Lupa in the Colosseum and talk to her.",
     "review_note": "",
-    "new_translation_vi": "Tìm Lupa ở đấu trường Colosseum và nói chuyện với cô ấy.",
+    "new_translation_vi": "Tìm Lupa trong Đấu trường và nói chuyện với cô ấy.",
     "translator_note": ""
   },
   {
@@ -10421,7 +10421,7 @@
     "ai_reason": "",
     "source_en": "Complete Main Quest \"Flames of Heart\" and Exploration Quest \"When the Sky Watches Us Meet.\"",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Nhiệm Vụ Chính \"Flames of Heart\" và Nhiệm Vụ Khám Phá \"When the Sky Watches Us Meet.\"",
+    "new_translation_vi": "Hoàn thành Nhiệm vụ Chính \"Flames of Heart\" và Nhiệm vụ Khám phá \"When the Sky Watches Us Meet.\"",
     "translator_note": ""
   },
   {
@@ -10446,7 +10446,7 @@
     "ai_reason": "",
     "source_en": "After enough failures, the sting fades, and with it, the burden of worry.",
     "review_note": "",
-    "new_translation_vi": "Sau đủ lần thất bại, nỗi đau cũng phai mờ, và gánh nặng lo âu cũng theo đó mà tan biến.",
+    "new_translation_vi": "Sau đủ những thất bại, nỗi đau nhạt dần, và cùng với đó là gánh nặng lo âu.",
     "translator_note": ""
   },
   {
@@ -10471,7 +10471,7 @@
     "ai_reason": "",
     "source_en": "After meat is smoked or roasted, its taste is similar to... Never mind.",
     "review_note": "",
-    "new_translation_vi": "Sau khi hun khói hay nướng chín, thịt có vị giống như... Thôi, bỏ qua đi.",
+    "new_translation_vi": "Sau khi thịt được hun khói hoặc nướng, hương vị của nó giống như... Thôi bỏ đi.",
     "translator_note": ""
   },
   {
@@ -10496,7 +10496,7 @@
     "ai_reason": "",
     "source_en": "I wish to comprehend the cycle of life by experiencing it over and over again.",
     "review_note": "",
-    "new_translation_vi": "Ta muốn thấu hiểu vòng luân hồi của sinh mệnh bằng cách trải nghiệm nó hết lần này đến lần khác.",
+    "new_translation_vi": "Tôi muốn thấu hiểu vòng tuần hoàn của sự sống bằng cách trải nghiệm nó lặp đi lặp lại.",
     "translator_note": ""
   },
   {
@@ -10521,7 +10521,7 @@
     "ai_reason": "",
     "source_en": "Come, let us finish this performance we've all been waiting for. Together.",
     "review_note": "",
-    "new_translation_vi": "Lại đây, hãy cùng ta hoàn thành màn trình diễn mà tất cả chúng ta hằng mong đợi. Cùng nhau.",
+    "new_translation_vi": "Nào, hãy cùng nhau hoàn thành màn trình diễn mà tất cả chúng ta đều mong đợi.",
     "translator_note": ""
   },
   {
@@ -10546,7 +10546,7 @@
     "ai_reason": "",
     "source_en": "An invitation… for me?",
     "review_note": "",
-    "new_translation_vi": "Lời mời… dành cho ta sao?",
+    "new_translation_vi": "Một lời mời... dành cho tôi sao?",
     "translator_note": ""
   },
   {
@@ -10571,7 +10571,7 @@
     "ai_reason": "",
     "source_en": "See? I haven't lost my touch.",
     "review_note": "",
-    "new_translation_vi": "Thấy chưa? Tớ vẫn chưa đánh mất phong độ đâu.",
+    "new_translation_vi": "Thấy chưa? Tôi vẫn chưa mất đi phong độ đâu.",
     "translator_note": ""
   },
   {
@@ -10596,7 +10596,7 @@
     "ai_reason": "",
     "source_en": "An ensemble? With me?",
     "review_note": "",
-    "new_translation_vi": "Một ban nhạc á? Với ta á?",
+    "new_translation_vi": "Một buổi hòa nhạc? Với tôi ư?",
     "translator_note": ""
   },
   {
@@ -10621,7 +10621,7 @@
     "ai_reason": "",
     "source_en": "The warm yet bittersweet first movement is hidden in the dark night, alone and forlorn. Now, those haunting, ghostly cries have begun to fade away.",
     "review_note": "",
-    "new_translation_vi": "Khúc dạo đầu ấm áp mà đượm buồn ấy giờ chỉ còn lại trong đêm tối, cô đơn và lạc lõng. Giờ đây, những tiếng kêu ma quái, ám ảnh ấy cũng dần phai nhòa.",
+    "new_translation_vi": "Chương đầu tiên ấm áp nhưng đượm buồn ẩn mình trong đêm tối, cô đơn và hiu quạnh. Giờ đây, những tiếng khóc ma quái ám ảnh đó đã bắt đầu tan biến.",
     "translator_note": ""
   },
   {
@@ -10646,7 +10646,7 @@
     "ai_reason": "",
     "source_en": "The decisive and powerful fourth movement brings forth a rousing battle hymn. Carried by the rapids, it surges across an endless land, sweeping all before it.",
     "review_note": "",
-    "new_translation_vi": "Chương thứ tư quyết liệt và hùng tráng cất lên khúc ca chiến trận sôi nổi. Theo dòng nước lũ, nó tràn khắp vùng đất vô tận, cuốn phăng mọi thứ trên đường đi.",
+    "new_translation_vi": "Chương thứ tư quyết đoán và mạnh mẽ mang đến một bài ca chiến trận hào hùng. Được chở che bởi những dòng thác, nó dâng trào khắp vùng đất vô tận, quét sạch mọi thứ trên đường đi.",
     "translator_note": ""
   },
   {
@@ -10696,7 +10696,7 @@
     "ai_reason": "",
     "source_en": "Life or death. No alternative!",
     "review_note": "",
-    "new_translation_vi": "Sống hay chết. Không có lựa chọn nào khác!",
+    "new_translation_vi": "Sống hay chết. Không còn lựa chọn nào khác!",
     "translator_note": ""
   },
   {
@@ -10721,7 +10721,7 @@
     "ai_reason": "",
     "source_en": "Wails, rejoicing!",
     "review_note": "",
-    "new_translation_vi": "Hãy reo hò, những tiếng than khóc!",
+    "new_translation_vi": "Tiếng khóc than, niềm hoan lạc!",
     "translator_note": ""
   },
   {
@@ -10771,7 +10771,7 @@
     "ai_reason": "",
     "source_en": "Be erased.",
     "review_note": "",
-    "new_translation_vi": "Hãy biến mất đi.",
+    "new_translation_vi": "Bị xóa sổ.",
     "translator_note": ""
   },
   {
@@ -10796,7 +10796,7 @@
     "ai_reason": "",
     "source_en": "You're in my way.",
     "review_note": "",
-    "new_translation_vi": "Cậu đang cản đường tôi.",
+    "new_translation_vi": "Ngươi đang cản đường ta.",
     "translator_note": ""
   },
   {
@@ -10821,7 +10821,7 @@
     "ai_reason": "",
     "source_en": "Preparatory beat. Begin.",
     "review_note": "",
-    "new_translation_vi": "Nhịp chuẩn bị. Bắt đầu.",
+    "new_translation_vi": "Nhịp điệu chuẩn bị. Bắt đầu.",
     "translator_note": ""
   },
   {
@@ -10871,7 +10871,7 @@
     "ai_reason": "",
     "source_en": "Cadence. Halt.",
     "review_note": "",
-    "new_translation_vi": "Nhịp điệu... Dừng lại.",
+    "new_translation_vi": "Cadence. Dừng lại.",
     "translator_note": ""
   },
   {
@@ -10896,7 +10896,7 @@
     "ai_reason": "",
     "source_en": "Chant, songs of old.",
     "review_note": "",
-    "new_translation_vi": "Hãy hát lên, khúc ca xưa cũ.",
+    "new_translation_vi": "Tụng ca, những bài hát từ thuở xưa.",
     "translator_note": ""
   },
   {
@@ -10921,7 +10921,7 @@
     "ai_reason": "",
     "source_en": "Witness, blossoms in wilt.",
     "review_note": "",
-    "new_translation_vi": "Chứng kiến, những đóa hoa héo tàn.",
+    "new_translation_vi": "Chứng kiến, những đóa hoa tàn úa.",
     "translator_note": ""
   },
   {
@@ -10946,7 +10946,7 @@
     "ai_reason": "",
     "source_en": "The soul, never entombed.",
     "review_note": "",
-    "new_translation_vi": "Linh hồn, không bao giờ bị chôn vùi.",
+    "new_translation_vi": "Linh hồn, chẳng bao giờ bị chôn vùi.",
     "translator_note": ""
   },
   {
@@ -11021,7 +11021,7 @@
     "ai_reason": "",
     "source_en": "Oblivion.",
     "review_note": "",
-    "new_translation_vi": "Hư Vô.",
+    "new_translation_vi": "Lãng quên.",
     "translator_note": ""
   },
   {
@@ -11046,7 +11046,7 @@
     "ai_reason": "",
     "source_en": "Join me in accompaniment.",
     "review_note": "",
-    "new_translation_vi": "Hãy cùng ta đồng hành.",
+    "new_translation_vi": "Hãy cùng ta hòa nhịp.",
     "translator_note": ""
   },
   {
@@ -11071,7 +11071,7 @@
     "ai_reason": "",
     "source_en": "Do keep up.",
     "review_note": "",
-    "new_translation_vi": "Đừng để tụt lại đấy.",
+    "new_translation_vi": "Theo kịp ta đi.",
     "translator_note": ""
   },
   {
@@ -11096,7 +11096,7 @@
     "ai_reason": "",
     "source_en": "Missed a beat.",
     "review_note": "",
-    "new_translation_vi": "Chậm một nhịp.",
+    "new_translation_vi": "Lỡ nhịp rồi.",
     "translator_note": ""
   },
   {
@@ -11121,7 +11121,7 @@
     "ai_reason": "",
     "source_en": "I feel nothing.",
     "review_note": "",
-    "new_translation_vi": "Tớ chẳng cảm thấy gì cả.",
+    "new_translation_vi": "Ta chẳng cảm thấy gì cả.",
     "translator_note": ""
   },
   {
@@ -11146,7 +11146,7 @@
     "ai_reason": "",
     "source_en": "This changes nothing.",
     "review_note": "",
-    "new_translation_vi": "Chẳng thay đổi được gì cả.",
+    "new_translation_vi": "Điều này chẳng thay đổi được gì.",
     "translator_note": ""
   },
   {
@@ -11196,7 +11196,7 @@
     "ai_reason": "",
     "source_en": "Symphony of life.",
     "review_note": "",
-    "new_translation_vi": "Giao Hưởng Sinh Mệnh",
+    "new_translation_vi": "Bản giao hưởng của sự sống.",
     "translator_note": ""
   },
   {
@@ -11221,7 +11221,7 @@
     "ai_reason": "",
     "source_en": "Will the approaching sounds be... beautiful enough?",
     "review_note": "",
-    "new_translation_vi": "Những âm thanh đang tới… liệu có đủ đẹp không nhỉ?",
+    "new_translation_vi": "Liệu những âm thanh đang đến gần có... đủ đẹp đẽ không?",
     "translator_note": ""
   },
   {
@@ -11246,7 +11246,7 @@
     "ai_reason": "",
     "source_en": "Prelude to arrival.",
     "review_note": "",
-    "new_translation_vi": "Khúc dạo đầu của sự xuất hiện.",
+    "new_translation_vi": "Khúc dạo đầu cho sự xuất hiện.",
     "translator_note": ""
   },
   {
@@ -11271,7 +11271,7 @@
     "ai_reason": "",
     "source_en": "Won't you have a look?",
     "review_note": "",
-    "new_translation_vi": "Em xem thử đi chứ?",
+    "new_translation_vi": "Ngươi không muốn xem thử sao?",
     "translator_note": ""
   },
   {
@@ -11296,7 +11296,7 @@
     "ai_reason": "",
     "source_en": "Music to my ears.",
     "review_note": "",
-    "new_translation_vi": "Âm nhạc ngân vang bên tai ta.",
+    "new_translation_vi": "Âm nhạc lọt vào tai ta.",
     "translator_note": ""
   },
   {
@@ -11346,7 +11346,7 @@
     "ai_reason": "",
     "source_en": "What significance will you grant them?",
     "review_note": "",
-    "new_translation_vi": "Ngươi sẽ ban cho chúng ý nghĩa gì?",
+    "new_translation_vi": "Ngươi sẽ ban cho chúng ý nghĩa gì đây?",
     "translator_note": ""
   },
   {
@@ -11396,7 +11396,7 @@
     "ai_reason": "",
     "source_en": "Complete Main Quest \"Flames of Heart.\"",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Nhiệm vụ Chính \"Ngọn Lửa Trong Tim.\"",
+    "new_translation_vi": "Hoàn thành Nhiệm vụ Chính \"Flames of Heart.\"",
     "translator_note": ""
   },
   {
@@ -11421,7 +11421,7 @@
     "ai_reason": "",
     "source_en": "At the start of each day, gain {0} <te href=851010><color=#c79f49>Dreamland Coupons</color></te>.",
     "review_note": "",
-    "new_translation_vi": "Vào đầu mỗi ngày, nhận được {0} <te href=851010><color=#c79f49>Phiếu Mộng Cảnh</color></te>.",
+    "new_translation_vi": "Vào đầu mỗi ngày, nhận {0} <te href=851010><color=#c79f49>Dreamland Coupons</color></te>.",
     "translator_note": ""
   },
   {
@@ -11446,7 +11446,7 @@
     "ai_reason": "",
     "source_en": "At the start of each day, the <te href=851009><color=#c79f49>Daily Coupon</color></te> yield of a random Echo increases by {0}.",
     "review_note": "",
-    "new_translation_vi": "Vào đầu mỗi ngày, sản lượng <te href=851009><color=#c79f49>Phiếu Hằng Ngày</color></te> của một Echo ngẫu nhiên sẽ tăng thêm {0}.",
+    "new_translation_vi": "Vào đầu mỗi ngày, sản lượng <te href=851009><color=#c79f49>Daily Coupon</color></te> của một Echo ngẫu nhiên tăng thêm {0}.",
     "translator_note": ""
   },
   {
@@ -11471,7 +11471,7 @@
     "ai_reason": "",
     "source_en": "The shop offers <SapTag=0>{0}</SapTag> random Dream {Cus:Sap,S=Box P=Boxes SapTag=0} for free starting from the next phase.",
     "review_note": "",
-    "new_translation_vi": "<SapTag=0>{0}</SapTag> Hộp Giấc Mơ ngẫu nhiên sẽ được tặng miễn phí tại cửa hàng bắt đầu từ giai đoạn tiếp theo.",
+    "new_translation_vi": "Cửa hàng cung cấp <SapTag=0>{0}</SapTag> {Cus:Sap,S=Box P=Boxes SapTag=0} Dream ngẫu nhiên miễn phí bắt đầu từ giai đoạn tiếp theo.",
     "translator_note": ""
   },
   {
@@ -11496,7 +11496,7 @@
     "ai_reason": "",
     "source_en": "The shop offers <SapTag=0>{0}</SapTag> random {Cus:Sap,S=Prop P=Props SapTag=0} for free starting from the next Phase.",
     "review_note": "",
-    "new_translation_vi": "<SapTag=0>{0}</SapTag> Vật phẩm ngẫu nhiên sẽ được tặng miễn phí tại cửa hàng bắt đầu từ giai đoạn tiếp theo.",
+    "new_translation_vi": "Cửa hàng cung cấp <SapTag=0>{0}</SapTag> {Cus:Sap,S=Prop P=Props SapTag=0} ngẫu nhiên miễn phí bắt đầu từ Giai đoạn tiếp theo.",
     "translator_note": ""
   },
   {
@@ -11521,7 +11521,7 @@
     "ai_reason": "",
     "source_en": "The shop offers <SapTag=0>{0}</SapTag> random {Cus:Sap,S=Echo P=Echoes SapTag=0} for free starting from the next Phase.",
     "review_note": "",
-    "new_translation_vi": "<SapTag=0>{0}</SapTag> Echo ngẫu nhiên sẽ được tặng miễn phí tại cửa hàng bắt đầu từ giai đoạn tiếp theo.",
+    "new_translation_vi": "Cửa hàng cung cấp <SapTag=0>{0}</SapTag> {Cus:Sap,S=Echo P=Echoes SapTag=0} ngẫu nhiên miễn phí bắt đầu từ Giai đoạn tiếp theo.",
     "translator_note": ""
   },
   {
@@ -11546,7 +11546,7 @@
     "ai_reason": "",
     "source_en": "After 1 day, gain {0} <te href=851011><color=#c79f49>Frequency Crystals</color></te>. This effect can only be triggered once.",
     "review_note": "",
-    "new_translation_vi": "Sau 1 ngày, nhận được {0} <te href=851011><color=#c79f49>Tinh Thể Tần Số</color></te>. Hiệu ứng này chỉ kích hoạt một lần duy nhất.",
+    "new_translation_vi": "Sau 1 ngày, nhận {0} <te href=851011><color=#c79f49>Frequency Crystals</color></te>. Hiệu ứng này chỉ có thể kích hoạt một lần.",
     "translator_note": ""
   },
   {
@@ -11571,7 +11571,7 @@
     "ai_reason": "",
     "source_en": "Gain {1} <te href=851011><color=#c79f49>Frequency Crystals</color></te> every {0} days.",
     "review_note": "",
-    "new_translation_vi": "Nhận {1} <te href=851011><color=#c79f49>Tinh Thể Tần Số</color></te> sau mỗi {0} ngày.",
+    "new_translation_vi": "Nhận {1} <te href=851011><color=#c79f49>Frequency Crystals</color></te> mỗi {0} ngày.",
     "translator_note": ""
   },
   {
@@ -11596,7 +11596,7 @@
     "ai_reason": "",
     "source_en": "After 1 day, generate <SapTag=0>{0}</SapTag> Hoochief {Cus:Sap,S=Cyclone P=Cyclones SapTag=0} on a blank block. This effect can only be triggered once.",
     "review_note": "",
-    "new_translation_vi": "Sau 1 ngày, tạo ra <SapTag=0>{0}</SapTag> Hoochief {Cus:Sap,S=Cyclone P=Cyclones SapTag=0} trên ô trống. Hiệu ứng này chỉ kích hoạt một lần duy nhất.",
+    "new_translation_vi": "Sau 1 ngày, tạo ra <SapTag=0>{0}</SapTag> Hoochief {Cus:Sap,S=Cyclone P=Cyclones SapTag=0} trên một ô trống. Hiệu ứng này chỉ có thể kích hoạt một lần.",
     "translator_note": ""
   },
   {
@@ -11621,7 +11621,7 @@
     "ai_reason": "",
     "source_en": "After 1 day, generate <SapTag=0>{0}</SapTag> Vanguard {Cus:Sap,S=Junrock P=Junrocks SapTag=0} on a blank block. This effect can only be triggered once.",
     "review_note": "",
-    "new_translation_vi": "Sau 1 ngày, tạo ra <SapTag=0>{0}</SapTag> Vanguard {Cus:Sap,S=Junrock P=Junrocks SapTag=0} trên ô trống. Hiệu ứng này chỉ kích hoạt một lần duy nhất.",
+    "new_translation_vi": "Sau 1 ngày, tạo ra <SapTag=0>{0}</SapTag> Vanguard {Cus:Sap,S=Junrock P=Junrocks SapTag=0} trên một ô trống. Hiệu ứng này chỉ có thể kích hoạt một lần.",
     "translator_note": ""
   },
   {
@@ -11646,7 +11646,7 @@
     "ai_reason": "",
     "source_en": "Dismissing an Echo gains additional {0} <te href=851010><color=#c79f49>Dreamland Coupons</color></te>.",
     "review_note": "",
-    "new_translation_vi": "Thu hồi một Echo sẽ nhận thêm {0} <te href=851010><color=#c79f49>Phiếu Dreamland</color></te>.",
+    "new_translation_vi": "Loại bỏ một Echo sẽ nhận thêm {0} <te href=851010><color=#c79f49>Dreamland Coupons</color></te>.",
     "translator_note": ""
   },
   {
@@ -11671,7 +11671,7 @@
     "ai_reason": "",
     "source_en": "Dismissing an Echo gains additional {0} <te href=851011><color=#c79f49>Frequency Crystals</color></te>.",
     "review_note": "",
-    "new_translation_vi": "Hủy bỏ Echo sẽ nhận thêm {0} <te href=851011><color=#c79f49>Tinh thể Tần số</color></te>.",
+    "new_translation_vi": "Loại bỏ một Echo sẽ nhận thêm {0} <te href=851011><color=#c79f49>Frequency Crystals</color></te>.",
     "translator_note": ""
   },
   {
@@ -11696,7 +11696,7 @@
     "ai_reason": "",
     "source_en": "After 1 day, randomly obtain <SapTag=0>{0}</SapTag> {Cus:Sap,S=Prop P=Props SapTag=0}. This effect can only be triggered once.",
     "review_note": "",
-    "new_translation_vi": "Sau 1 ngày, nhận ngẫu nhiên <SapTag=0>{0}</SapTag> {Cus:Sap,S=Vật Phẩm P=Vật Phẩm SapTag=0}. Hiệu ứng chỉ có thể kích hoạt một lần.",
+    "new_translation_vi": "Sau 1 ngày, nhận ngẫu nhiên <SapTag=0>{0}</SapTag> {Cus:Sap,S=Prop P=Props SapTag=0}. Hiệu ứng này chỉ có thể kích hoạt một lần.",
     "translator_note": ""
   },
   {
@@ -11721,7 +11721,7 @@
     "ai_reason": "",
     "source_en": "After 1 day, randomly obtain <SapTag=0>{0}</SapTag> {Cus:Sap,S=Prop P=Props SapTag=0}. This effect can only be triggered once.",
     "review_note": "",
-    "new_translation_vi": "Sau 1 ngày, nhận ngẫu nhiên <SapTag=0>{0}</SapTag> {Cus:Sap,S=Vật Phẩm P=Vật Phẩm SapTag=0}. Hiệu ứng chỉ có thể kích hoạt một lần.",
+    "new_translation_vi": "Sau 1 ngày, nhận ngẫu nhiên <SapTag=0>{0}</SapTag> {Cus:Sap,S=Prop P=Props SapTag=0}. Hiệu ứng này chỉ có thể kích hoạt một lần.",
     "translator_note": ""
   },
   {
@@ -11746,7 +11746,7 @@
     "ai_reason": "",
     "source_en": "Every time <te href=851006><color=#c79f49>Devour</color></te> happens, gain {0} <te href=851010><color=#c79f49>Dreamland Coupons</color></te>.",
     "review_note": "",
-    "new_translation_vi": "Mỗi khi <te href=851006><color=#c79f49>Nuốt Chửng</color></te> xảy ra, nhận được {0} <te href=851010><color=#c79f49>Phiếu Mộng Ảo</color></te>.",
+    "new_translation_vi": "Mỗi khi <te href=851006><color=#c79f49>Devour</color></te> xảy ra, nhận {0} <te href=851010><color=#c79f49>Dreamland Coupons</color></te>.",
     "translator_note": ""
   },
   {
@@ -11771,7 +11771,7 @@
     "ai_reason": "",
     "source_en": "All Echoes on Dream Blocks: Watermirror are considered <te href=851055><color=#c79f49>adjacent</color></te> to each other.",
     "review_note": "",
-    "new_translation_vi": "Tất cả Echo trên Khối Mộng Ảo: Gương Nước được coi là <te href=851055><color=#c79f49>kề nhau</color></te>.",
+    "new_translation_vi": "Tất cả Echo trên Dream Blocks: Watermirror được coi là <te href=851055><color=#c79f49>liền kề</color></te> với nhau.",
     "translator_note": ""
   },
   {
@@ -11796,7 +11796,7 @@
     "ai_reason": "",
     "source_en": "All Echoes on Dream Blocks: Ice Shards are considered to be in the same row.",
     "review_note": "",
-    "new_translation_vi": "Tất cả Echo trên Khối Mộng Ảo: Mảnh Băng được coi là cùng một hàng.",
+    "new_translation_vi": "Tất cả Echo trên Dream Blocks: Ice Shards được coi là nằm trên cùng một hàng.",
     "translator_note": ""
   },
   {
@@ -11846,7 +11846,7 @@
     "ai_reason": "",
     "source_en": "Show all Echoes ({0})",
     "review_note": "",
-    "new_translation_vi": "Hiển thị tất cả Echoes ({0})",
+    "new_translation_vi": "Hiển thị tất cả Echo ({0})",
     "translator_note": ""
   },
   {
@@ -11896,7 +11896,7 @@
     "ai_reason": "",
     "source_en": "Core Metaphors ({0}/{1})",
     "review_note": "",
-    "new_translation_vi": "Ẩn Dụ Cốt Lõi ({0}/{1})",
+    "new_translation_vi": "Core Metaphors ({0}/{1})",
     "translator_note": ""
   },
   {
@@ -11936,11 +11936,11 @@
     "primary_key": "WeRogueMapScoreText",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
@@ -11971,7 +11971,7 @@
     "ai_reason": "",
     "source_en": "Current Phase {0}/∞",
     "review_note": "",
-    "new_translation_vi": "Giai Đoạn Hiện Tại {0}/∞",
+    "new_translation_vi": "Giai đoạn hiện tại {0}/∞",
     "translator_note": ""
   },
   {
@@ -11996,7 +11996,7 @@
     "ai_reason": "",
     "source_en": "Has a decent <te href=851009><color=#c79f49>Daily Coupon</color></te> yield.",
     "review_note": "",
-    "new_translation_vi": "Cho ra lượng <te href=851009><color=#c79f49>Phiếu Hằng Ngày</color></te> khá ổn định.",
+    "new_translation_vi": "Có sản lượng <te href=851009><color=#c79f49>Daily Coupon</color></te> khá ổn.",
     "translator_note": ""
   },
   {
@@ -12021,7 +12021,7 @@
     "ai_reason": "",
     "source_en": "Upon first action, gain {0} <te href=851010><color=#c79f49>Dreamland Coupons</color></te>. This effect can only be triggered once.",
     "review_note": "",
-    "new_translation_vi": "Khi thực hiện hành động đầu tiên, nhận được {0} <te href=851010><color=#c79f49>Phiếu Mộng Ảo</color></te>. Hiệu ứng này chỉ kích hoạt một lần duy nhất.",
+    "new_translation_vi": "Khi thực hiện hành động đầu tiên, nhận {0} <te href=851010><color=#c79f49>Dreamland Coupons</color></te>. Hiệu ứng này chỉ có thể kích hoạt một lần.",
     "translator_note": ""
   },
   {
@@ -12046,7 +12046,7 @@
     "ai_reason": "",
     "source_en": "Has a high <te href=851009><color=#c79f49>Daily Coupon</color></te> yield.",
     "review_note": "",
-    "new_translation_vi": "Cho sản lượng <te href=851009><color=#c79f49>Phiếu Hằng Ngày</color></te> cực cao.",
+    "new_translation_vi": "Có sản lượng <te href=851009><color=#c79f49>Daily Coupon</color></te> cao.",
     "translator_note": ""
   },
   {
@@ -12071,7 +12071,7 @@
     "ai_reason": "",
     "source_en": "Gain {1} <te href=851011><color=#c79f49>Frequency Crystal</color></te> every <SapTag=0>{0}</SapTag> {Cus:Sap,S=day P=days SapTag=0}.",
     "review_note": "",
-    "new_translation_vi": "Nhận {1} <te href=851011><color=#c79f49>Tinh Thể Tần Số</color></te> sau mỗi <SapTag=0>{0}</SapTag> {Cus:Sap,S=ngày P=ngày SapTag=0}.",
+    "new_translation_vi": "Nhận {1} <te href=851011><color=#c79f49>Frequency Crystal</color></te> mỗi <SapTag=0>{0}</SapTag> {Cus:Sap,S=day P=days SapTag=0}.",
     "translator_note": ""
   },
   {
@@ -12096,7 +12096,7 @@
     "ai_reason": "",
     "source_en": "After 1 day, randomly transform into another Echo in the same row. This effect can only be triggered once.",
     "review_note": "",
-    "new_translation_vi": "Sau 1 ngày, ngẫu nhiên biến thành một Echo khác cùng hàng. Hiệu ứng chỉ có thể kích hoạt một lần.",
+    "new_translation_vi": "Sau 1 ngày, biến đổi ngẫu nhiên thành một Echo khác trong cùng hàng. Hiệu ứng này chỉ có thể kích hoạt một lần.",
     "translator_note": ""
   },
   {
@@ -12121,7 +12121,7 @@
     "ai_reason": "",
     "source_en": "Prop limit reached. Unable to purchase.",
     "review_note": "",
-    "new_translation_vi": "Đã đạt giới hạn vật phẩm. Không thể mua thêm.",
+    "new_translation_vi": "Đã đạt giới hạn đạo cụ. Không thể mua.",
     "translator_note": ""
   },
   {
@@ -12146,7 +12146,7 @@
     "ai_reason": "",
     "source_en": "An unexpected blossom grows, from a withering bud inadvertently saved by the rain.",
     "review_note": "",
-    "new_translation_vi": "Một đóa hoa bất ngờ nở rộ, từ nụ hoa héo úa vô tình được cơn mưa cứu vớt.",
+    "new_translation_vi": "Một đóa hoa bất ngờ nở rộ, từ nụ hoa héo tàn vô tình được cứu bởi cơn mưa.",
     "translator_note": ""
   },
   {
@@ -12171,7 +12171,7 @@
     "ai_reason": "",
     "source_en": "He had never felt his soul this light and complete.",
     "review_note": "",
-    "new_translation_vi": "Hắn chưa bao giờ cảm thấy tâm hồn mình nhẹ nhõm và trọn vẹn đến thế.",
+    "new_translation_vi": "Người đó chưa bao giờ cảm thấy linh hồn mình nhẹ nhàng và trọn vẹn đến thế.",
     "translator_note": ""
   },
   {
@@ -12196,7 +12196,7 @@
     "ai_reason": "",
     "source_en": "True or false, real or fake, an unspeakable tragedy that sleeps eternally at the bottom of the sea.",
     "review_note": "",
-    "new_translation_vi": "Dù thật hay giả, thực hay hư, đó vẫn là một bi kịch không thể nói thành lời, vĩnh viễn chìm sâu dưới đáy biển.",
+    "new_translation_vi": "Thật hay giả, hư hay thực, một bi kịch không thể nói thành lời đang ngủ yên dưới đáy biển sâu.",
     "translator_note": ""
   },
   {
@@ -12221,7 +12221,7 @@
     "ai_reason": "",
     "source_en": "Bear witness, for the sun and the moon will witness this extraordinary power, and witness the epic of her sacrifice for Septimont.",
     "review_note": "",
-    "new_translation_vi": "Hãy chứng kiến đi, vì mặt trời và mặt trăng sẽ làm chứng cho sức mạnh phi thường này, và chứng kiến thiên sử thi hy sinh của nàng vì Septimont.",
+    "new_translation_vi": "Hãy chứng kiến, vì mặt trời và mặt trăng sẽ chứng kiến sức mạnh phi thường này, và chứng kiến thiên sử thi về sự hy sinh của cô ấy vì Septimont.",
     "translator_note": ""
   },
   {
@@ -12246,7 +12246,7 @@
     "ai_reason": "",
     "source_en": "Call forth the fire in your heart, warriors. Ride the wind with fearless gryphons across the cliffs, towards the grounds reddened by blood.",
     "review_note": "",
-    "new_translation_vi": "Hãy khơi dậy ngọn lửa trong tim, hỡi các chiến binh. Cưỡi những con грифон dũng mãnh vượt qua vách núi, tiến về vùng đất nhuốm máu.",
+    "new_translation_vi": "Hãy gọi ngọn lửa trong tim các ngươi, những chiến binh. Cưỡi gió cùng những chú điểu sư dũng mãnh băng qua vách đá, hướng về vùng đất nhuốm đỏ bởi máu.",
     "translator_note": ""
   },
   {
@@ -12271,7 +12271,7 @@
     "ai_reason": "",
     "source_en": "She was no child of prophecy, no heir to glory, no ruler by right. Yet in the sun's moment of weakness, she brought her blade to fate's throat.",
     "review_note": "",
-    "new_translation_vi": "Nàng không phải đứa trẻ của lời tiên tri, không phải người thừa kế vinh quang, cũng chẳng phải kẻ thống trị chính danh. Ấy vậy mà khi mặt trời yếu thế, nàng đã vung lưỡi kiếm vào cổ số phận.",
+    "new_translation_vi": "Cô ấy không phải là đứa trẻ của lời tiên tri, không phải người thừa kế vinh quang, cũng chẳng phải kẻ cai trị theo lẽ thường. Nhưng trong khoảnh khắc mặt trời yếu thế, cô ấy đã kề lưỡi kiếm vào cổ họng của định mệnh.",
     "translator_note": ""
   },
   {
@@ -12296,7 +12296,7 @@
     "ai_reason": "",
     "source_en": "In the light of sun and moon, all that is shrouded in darkness shall be exposed.",
     "review_note": "",
-    "new_translation_vi": "Dưới ánh sáng của mặt trời và mặt trăng, tất cả những gì bị bóng tối che khuất sẽ phải phơi bày.",
+    "new_translation_vi": "Dưới ánh sáng của mặt trời và mặt trăng, tất cả những gì bị bóng tối che phủ sẽ bị phơi bày.",
     "translator_note": ""
   },
   {
@@ -12321,7 +12321,7 @@
     "ai_reason": "",
     "source_en": "\"People follow the sun, for it never fails to light their way.\"",
     "review_note": "",
-    "new_translation_vi": "\"Con người đi theo mặt trời, vì nó không bao giờ ngừng chiếu sáng con đường của họ.\"",
+    "new_translation_vi": "\"Người ta đi theo mặt trời, vì nó không bao giờ ngừng soi sáng con đường của họ.\"",
     "translator_note": ""
   },
   {
@@ -12346,7 +12346,7 @@
     "ai_reason": "",
     "source_en": "Join me in battle, heroes of Septimont! The eternal sun will sing of our triumph!",
     "review_note": "",
-    "new_translation_vi": "Hãy sát cánh cùng ta, những anh hùng của Septimont! Mặt trời vĩnh cửu sẽ ca ngợi chiến thắng của chúng ta!",
+    "new_translation_vi": "Hãy cùng ta chiến đấu, những anh hùng của Septimont! Mặt trời vĩnh cửu sẽ hát vang khúc ca khải hoàn của chúng ta!",
     "translator_note": ""
   },
   {
@@ -12371,7 +12371,7 @@
     "ai_reason": "",
     "source_en": "Glory to you and me, to every unyielding soul on this land.",
     "review_note": "",
-    "new_translation_vi": "Vinh quang cho ta và ngươi, cho mọi tâm hồn bất khuất trên mảnh đất này.",
+    "new_translation_vi": "Vinh quang cho ngươi và ta, cho mọi linh hồn bất khuất trên mảnh đất này.",
     "translator_note": ""
   },
   {
@@ -12396,7 +12396,7 @@
     "ai_reason": "\"unforetold\" should be \"unforeseen\" or \"unpredicted\" in EN; VI matches but may need adjustment if EN is corrected.",
     "source_en": "\"A death that shouldn't have happened, traded for an unforetold victory. A fair deal.\"",
     "review_note": "",
-    "new_translation_vi": "\"Một cái chết không đáng có, đổi lấy chiến thắng ngoài dự đoán. Một sự trao đổi công bằng.\"",
+    "new_translation_vi": "\"Một cái chết lẽ ra không nên xảy ra, đổi lấy một chiến thắng không được báo trước. Một cuộc giao dịch công bằng.\"",
     "translator_note": ""
   },
   {
@@ -12421,7 +12421,7 @@
     "ai_reason": "",
     "source_en": "That is a future glimpsed a thousand times, one which is absolutely correct, yet completely meaningless.",
     "review_note": "",
-    "new_translation_vi": "Đó là một tương lai đã được nhìn thấy hàng ngàn lần, hoàn toàn chính xác nhưng lại chẳng có ý nghĩa gì.",
+    "new_translation_vi": "Đó là một tương lai đã được thoáng thấy hàng ngàn lần, một tương lai hoàn toàn chính xác, nhưng lại hoàn toàn vô nghĩa.",
     "translator_note": ""
   },
   {
@@ -12446,7 +12446,7 @@
     "ai_reason": "",
     "source_en": "The moon will fall no more, for she knows every arrow she lets loose will find its mark.",
     "review_note": "",
-    "new_translation_vi": "Mặt trăng sẽ không còn rơi nữa, vì nàng biết từng mũi tên bắn ra đều sẽ trúng đích.",
+    "new_translation_vi": "Mặt trăng sẽ không còn lặn nữa, vì cô ấy biết mọi mũi tên mình bắn ra đều sẽ trúng đích.",
     "translator_note": ""
   },
   {
@@ -12463,15 +12463,15 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "",
-    "rule_decision": "RETRY",
-    "rule_score": 4,
-    "rule_issues": "same_as_source,low_vietnamese_signal",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "<color=#fee7a1ff>{0}</color>/{1}",
     "review_note": "",
-    "new_translation_vi": "{0}/{1}",
+    "new_translation_vi": "<color=#fee7a1ff>{0}</color>/{1}",
     "translator_note": ""
   },
   {
@@ -12496,7 +12496,7 @@
     "ai_reason": "",
     "source_en": "<size=36><color=#e4e4e4ff>Level</color></size> <color=#fde7a1ff>{0}</color>",
     "review_note": "",
-    "new_translation_vi": "<size=36><color=#e4e4e4ff>Cấp độ</color></size> <color=#fde7a1ff>{0}</color>",
+    "new_translation_vi": "<size=36><color=#e4e4e4ff>Cấp</color></size> <color=#fde7a1ff>{0}</color>",
     "translator_note": ""
   }
 ]

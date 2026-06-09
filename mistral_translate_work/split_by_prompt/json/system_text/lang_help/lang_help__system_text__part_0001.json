@@ -11,7 +11,6 @@
     "primary_key": "73",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -21,8 +20,9 @@
     "ai_reason": "",
     "source_en": "Progressing Base",
     "review_note": "",
-    "new_translation_vi": "Căn Cứ Đang Phát Triển",
-    "translator_note": ""
+    "new_translation_vi": "Progressing Base",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "SYSTEM_TEXT_0000137",
@@ -36,7 +36,6 @@
     "primary_key": "75",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -46,7 +45,8 @@
     "ai_reason": "",
     "source_en": "Zero Point Research Station",
     "review_note": "",
-    "new_translation_vi": "Trạm Nghiên cứu Điểm Không",
-    "translator_note": ""
+    "new_translation_vi": "Zero Point Research Station",
+    "translator_note": "",
+    "status": "keep_english"
   }
 ]

@@ -11,7 +11,6 @@
     "primary_key": "4",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -22,7 +21,8 @@
     "source_en": "Weapon",
     "review_note": "",
     "new_translation_vi": "Vũ khí",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0013685",
@@ -36,7 +36,6 @@
     "primary_key": "5",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -47,7 +46,8 @@
     "source_en": "Echo",
     "review_note": "",
     "new_translation_vi": "Echo",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0013686",
@@ -61,7 +61,6 @@
     "primary_key": "14",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -72,7 +71,8 @@
     "source_en": "Weapon",
     "review_note": "",
     "new_translation_vi": "Vũ khí",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0013687",
@@ -86,7 +86,6 @@
     "primary_key": "15",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -97,7 +96,8 @@
     "source_en": "Echo",
     "review_note": "",
     "new_translation_vi": "Echo",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0013688",
@@ -111,7 +111,6 @@
     "primary_key": "20",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -122,6 +121,7 @@
     "source_en": "Details",
     "review_note": "",
     "new_translation_vi": "Chi tiết",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   }
 ]

@@ -1,50 +1,49 @@
-# Prompt: Quest / Objective Translation
+# Prompt: Quest / Objective Translation (Wuthering Waves Vietnamese)
 
-Bạn là biên dịch viên game chuyên nghiệp, phụ trách dịch tên nhiệm vụ, mục tiêu nhiệm vụ, chỉ dẫn nhiệm vụ và mô tả quest trong Wuthering Waves sang tiếng Việt.
+Bạn đang phụ trách dịch tên nhiệm vụ, mục tiêu nhiệm vụ, chỉ dẫn nhiệm vụ và mô tả quest trong Wuthering Waves sang tiếng Việt. Văn phong cần phải ngắn gọn, súc tích, dễ hiểu, sử dụng tiếng Việt hiện đại và tự nhiên.
 
 ---
 
-## THUẬT NGỮ BẮT BUỘC
+## 1. THUẬT NGỮ BẮT BUỘC
 
 * Luôn tuân thủ [shared_glossary.md](shared_glossary.md).
-* Giữ nguyên tiếng Anh các thuật ngữ hệ thống, combat, debuff/status, tên nhân vật, địa danh, tổ chức và tên riêng.
+* Giữ nguyên tiếng Anh các thuật ngữ hệ thống, combat, debuff/status, tên nhân vật, địa danh, tổ chức và tên riêng (ví dụ: *Rover, Yangyang, Chixia, Jiyan, Jinzhou, Huanglong, Tacet Discord, Waveplate...*).
 * Với `Rover`, `{PlayerName}` hoặc người chơi, giữ trung tính giới tính. Không dùng `anh`, `chị`, `hắn`, `nàng`, `chàng`, `thằng`, `con` để gọi hoặc nói về Rover.
 
 ---
 
-## ĐỊNH DẠNG ĐẦU RA
+## 2. QUY TẮC DỊCH QUEST & MỤC TIÊU (VĂN PHONG BÌNH THƯỜNG, TRÁNH HÁN-VIỆT CỔ)
 
-* Input: `ID:::English text`
-* Output: `ID:::Bản dịch tiếng Việt`
+### A. Tên nhiệm vụ (Quest Names)
+* Dịch tự nhiên, gọn gàng, mang sắc thái phiêu lưu.
+* Không dịch tên riêng trong tên nhiệm vụ.
+
+### B. Mục tiêu nhiệm vụ (Quest Objectives)
+* Dịch dưới dạng câu mệnh lệnh ngắn gọn, trực tiếp, dễ hiểu.
+* **Sử dụng động từ tiếng Việt hiện đại, phổ thông**. Tuyệt đối **tránh dùng các từ Hán-Việt cổ trang/kiếm hiệp** cho các hành động thông thường của nhiệm vụ:
+  * Tránh dùng `Tiến nhập` $\rightarrow$ hãy dùng **Đến / Đi đến / Vào** (ví dụ: *Go to Jinzhou* -> *Đến Jinzhou*).
+  * Tránh dùng `Thảo phạt` hoặc `Đả bại` $\rightarrow$ hãy dùng **Đánh bại / Tiêu diệt** (ví dụ: *Defeat the Tacet Discords* -> *Tiêu diệt các Tacet Discord*).
+  * Tránh dùng `Đàm thoại` hoặc `Hội thoại` $\rightarrow$ hãy dùng **Nói chuyện với / Trò chuyện với** (ví dụ: *Speak with Jiyan* -> *Trò chuyện với Jiyan*).
+  * Tránh dùng `Thu hoạch` hoặc `Gặt hái` (khi nhặt đồ) $\rightarrow$ hãy dùng **Nhặt / Thu thập / Lấy** (ví dụ: *Collect the herbs* -> *Thu thập thảo dược*).
+
+### C. Mô tả nhiệm vụ (Quest Descriptions)
+* Dịch trung thực, giữ nguyên thông tin cốt lõi, không tự ý thêm thắt tình tiết.
+* Sử dụng văn phong hiện đại, tự nhiên.
+
+---
+
+## 3. ĐỊNH DẠNG ĐẦU RA BẮT BUỘC
+
+* Format output bắt buộc mỗi dòng: `ID:::Bản dịch tiếng Việt`
 * Không đổi ID, không thêm ghi chú, không bỏ dòng.
-* Giữ nguyên placeholder, tag, số, dấu câu đặc biệt và `\n`.
+* Giữ nguyên placeholder `{0}`, `{PlayerName}`, tag `<color=#...>`, số, dấu câu đặc biệt và `\n`.
 
 ---
 
-## QUY TẮC DỊCH QUEST
+## 4. BẢNG ĐỐI CHIẾU VÍ DỤ
 
-1. **Tên nhiệm vụ**
-   - Dịch tự nhiên, gọn, có sắc thái phiêu lưu/lore nếu source có.
-   - Không dịch tên riêng trong tên nhiệm vụ.
-
-2. **Mục tiêu nhiệm vụ**
-   - Dịch mệnh lệnh rõ ràng, ngắn, dễ hiểu.
-   - Ưu tiên động từ hành động: `Tìm`, `Đến`, `Nói chuyện với`, `Điều tra`, `Thu thập`, `Đánh bại`.
-
-3. **Mô tả nhiệm vụ**
-   - Dịch trung thành, giữ thông tin nhiệm vụ chính xác.
-   - Không thêm manh mối, không tự diễn giải.
-
-4. **Hội thoại trong quest**
-   - Nếu là thoại nhân vật, áp dụng thêm [story_dialogue_prompt.md](story_dialogue_prompt.md) và [character_voice_map.md](character_voice_map.md).
-
----
-
-## VÍ DỤ
-
-```text
-Q0001:::Go to Jinzhou and speak with Yangyang.
-Q0001:::Đến Jinzhou và nói chuyện với Yangyang.
-Q0002:::Investigate the strange signal near the Tacet Field.
-Q0002:::Điều tra tín hiệu lạ gần Tacet Field.
-```
+| Bản gốc (Source) | Dịch sai (Quá Hán-Việt/Thô) | Dịch chuẩn (Hiện đại, tự nhiên) |
+| :--- | :--- | :--- |
+| `Go to Jinzhou and speak with Yangyang.` | Tiến nhập Jinzhou và đàm thoại cùng Yangyang. | Đến Jinzhou và trò chuyện với Yangyang. |
+| `Defeat the Crownless near the Gorge of Spirits.` | Thảo phạt Crownless gần Gorge of Spirits. | Đánh bại Crownless gần Gorge of Spirits. |
+| `Investigate the strange signal at Norfall Barrens.` | Khảo sát tín hiệu dị thường tại Norfall Barrens. | Điều tra tín hiệu lạ tại Norfall Barrens. |

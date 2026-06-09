@@ -46,7 +46,7 @@
     "ai_reason": "",
     "source_en": "Escape the Academy's Dark Side",
     "review_note": "",
-    "new_translation_vi": "Thoát khỏi Mặt Tối của Học Viện",
+    "new_translation_vi": "Thoát khỏi Dark Side của Học viện",
     "translator_note": ""
   },
   {
@@ -96,7 +96,7 @@
     "ai_reason": "",
     "source_en": "Investigate the anomaly on the desk",
     "review_note": "",
-    "new_translation_vi": "Điều tra điểm dị thường trên bàn",
+    "new_translation_vi": "Điều tra điểm bất thường trên bàn",
     "translator_note": ""
   },
   {
@@ -121,7 +121,7 @@
     "ai_reason": "",
     "source_en": "Investigate the anomaly in the room",
     "review_note": "",
-    "new_translation_vi": "Điều tra điểm dị thường trong phòng",
+    "new_translation_vi": "Điều tra điểm bất thường trong phòng",
     "translator_note": ""
   },
   {
@@ -146,7 +146,7 @@
     "ai_reason": "",
     "source_en": "Investigate the anomaly in the room",
     "review_note": "",
-    "new_translation_vi": "Điều tra điểm dị thường trong phòng",
+    "new_translation_vi": "Điều tra điểm bất thường trong phòng",
     "translator_note": ""
   },
   {
@@ -171,7 +171,7 @@
     "ai_reason": "",
     "source_en": "Leave the room",
     "review_note": "",
-    "new_translation_vi": "Rời khỏi phòng",
+    "new_translation_vi": "Leave căn phòng",
     "translator_note": ""
   },
   {
@@ -186,7 +186,6 @@
     "primary_key": "LevelPlay_122000359_ChildQuestTip_122_5",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -196,8 +195,9 @@
     "ai_reason": "",
     "source_en": "Talk to Sigrika",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Sigrika",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Sigrika",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003009",
@@ -246,7 +246,7 @@
     "ai_reason": "",
     "source_en": "Leave the room through the Switchgate",
     "review_note": "",
-    "new_translation_vi": "Rời khỏi phòng qua Cổng Chuyển Tiếp.",
+    "new_translation_vi": "Leave căn phòng thông qua Switchgate",
     "translator_note": ""
   },
   {
@@ -261,7 +261,6 @@
     "primary_key": "LevelPlay_122000359_ChildQuestTip_198_19",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -272,7 +271,8 @@
     "source_en": "Follow Sigrika",
     "review_note": "",
     "new_translation_vi": "Đi theo Sigrika",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003012",
@@ -321,7 +321,7 @@
     "ai_reason": "",
     "source_en": "Explore the classroom",
     "review_note": "",
-    "new_translation_vi": "Khám phá phòng học",
+    "new_translation_vi": "Khám phá lớp học",
     "translator_note": ""
   },
   {
@@ -346,7 +346,7 @@
     "ai_reason": "",
     "source_en": "Continue forward",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục tiến lên",
+    "new_translation_vi": "Tiếp tục đi tới",
     "translator_note": ""
   },
   {
@@ -386,7 +386,6 @@
     "primary_key": "LevelPlay_122000359_ChildQuestTip_198_43",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -397,7 +396,8 @@
     "source_en": "Follow Sigrika",
     "review_note": "",
     "new_translation_vi": "Đi theo Sigrika",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003017",
@@ -461,7 +461,6 @@
     "primary_key": "LevelPlay_122000359_ChildQuestTip_198_60",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -471,8 +470,9 @@
     "ai_reason": "",
     "source_en": "Wait for Sigrika to decipher the Runes",
     "review_note": "",
-    "new_translation_vi": "Khoan Sigrika giải mã những Ký tự Rune",
-    "translator_note": ""
+    "new_translation_vi": "Đợi Sigrika giải mã các Rune",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003020",
@@ -496,7 +496,7 @@
     "ai_reason": "",
     "source_en": "Use Plunging Attacks to remove the disruptive Runes",
     "review_note": "",
-    "new_translation_vi": "Dùng Tấn Công Lao Xuống để loại bỏ các Rune gây nhiễu.",
+    "new_translation_vi": "Sử dụng Plunging Attack để loại bỏ các Rune gây nhiễu",
     "translator_note": ""
   },
   {
@@ -521,7 +521,7 @@
     "ai_reason": "",
     "source_en": "Use the Gravity Grapple Rune to alter gravity",
     "review_note": "",
-    "new_translation_vi": "Dùng Rune Grapple Trọng Lực để thay đổi trọng lực",
+    "new_translation_vi": "Sử dụng Gravity Grapple Rune để thay đổi trọng lực",
     "translator_note": ""
   },
   {
@@ -546,7 +546,7 @@
     "ai_reason": "",
     "source_en": "Head to the last riddle",
     "review_note": "",
-    "new_translation_vi": "Đến câu đố cuối cùng",
+    "new_translation_vi": "Đi đến câu đố cuối cùng",
     "translator_note": ""
   },
   {
@@ -561,7 +561,6 @@
     "primary_key": "LevelPlay_122000359_ChildQuestTip_198_81",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -571,8 +570,9 @@
     "ai_reason": "",
     "source_en": "Wait for Sigrika to decipher the Runes",
     "review_note": "",
-    "new_translation_vi": "Khoan Sigrika giải mã những Ký tự Rune",
-    "translator_note": ""
+    "new_translation_vi": "Đợi Sigrika giải mã các Rune",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003024",
@@ -661,7 +661,6 @@
     "primary_key": "LevelPlay_122000359_ChildQuestTip_232_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -672,7 +671,8 @@
     "source_en": "Follow Sigrika",
     "review_note": "",
     "new_translation_vi": "Đi theo Sigrika",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003028",
@@ -711,7 +711,6 @@
     "primary_key": "LevelPlay_122000359_ChildQuestTip_232_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -722,7 +721,8 @@
     "source_en": "Follow Sigrika",
     "review_note": "",
     "new_translation_vi": "Đi theo Sigrika",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003030",
@@ -736,7 +736,6 @@
     "primary_key": "LevelPlay_122000359_ChildQuestTip_232_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -747,7 +746,8 @@
     "source_en": "Follow Sigrika",
     "review_note": "",
     "new_translation_vi": "Đi theo Sigrika",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003031",
@@ -761,7 +761,6 @@
     "primary_key": "LevelPlay_122000359_ChildQuestTip_232_5",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -772,7 +771,8 @@
     "source_en": "Follow Sigrika",
     "review_note": "",
     "new_translation_vi": "Đi theo Sigrika",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003032",
@@ -786,7 +786,6 @@
     "primary_key": "LevelPlay_122000359_ChildQuestTip_232_6",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -797,7 +796,8 @@
     "source_en": "Follow Sigrika",
     "review_note": "",
     "new_translation_vi": "Đi theo Sigrika",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003033",
@@ -836,7 +836,6 @@
     "primary_key": "LevelPlay_122000359_ChildQuestTip_238_8",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -846,8 +845,9 @@
     "ai_reason": "",
     "source_en": "Wait for Sigrika to decipher the Runes",
     "review_note": "",
-    "new_translation_vi": "Khoan Sigrika giải mã những Ký tự Rune",
-    "translator_note": ""
+    "new_translation_vi": "Đợi Sigrika giải mã các Rune",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003035",
@@ -871,7 +871,7 @@
     "ai_reason": "",
     "source_en": "Head to the next room",
     "review_note": "",
-    "new_translation_vi": "Đến phòng tiếp theo",
+    "new_translation_vi": "Đi đến căn phòng tiếp theo",
     "translator_note": ""
   },
   {
@@ -886,7 +886,6 @@
     "primary_key": "LevelPlay_122000359_ChildQuestTip_29_6",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -897,7 +896,8 @@
     "source_en": "Follow Sigrika",
     "review_note": "",
     "new_translation_vi": "Đi theo Sigrika",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003037",
@@ -921,7 +921,7 @@
     "ai_reason": "",
     "source_en": "See the joy of those gifted with talent",
     "review_note": "",
-    "new_translation_vi": "Nhìn niềm vui của những kẻ được trời phú tài năng",
+    "new_translation_vi": "Chứng kiến niềm vui của những người có tài năng",
     "translator_note": ""
   },
   {
@@ -946,7 +946,7 @@
     "ai_reason": "",
     "source_en": "See the struggle of those who run without escape",
     "review_note": "",
-    "new_translation_vi": "Nhìn sự vùng vẫy của những kẻ chạy trốn không lối thoát",
+    "new_translation_vi": "Chứng kiến sự đấu tranh của những người chạy trốn không lối thoát",
     "translator_note": ""
   },
   {
@@ -1071,7 +1071,7 @@
     "ai_reason": "",
     "source_en": "Defeat the enemies",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt kẻ địch",
+    "new_translation_vi": "Đánh bại kẻ địch",
     "translator_note": ""
   },
   {
@@ -1171,7 +1171,7 @@
     "ai_reason": "",
     "source_en": "Defeat the enemies",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt kẻ địch",
+    "new_translation_vi": "Đánh bại kẻ địch",
     "translator_note": ""
   },
   {
@@ -1221,7 +1221,7 @@
     "ai_reason": "",
     "source_en": "Talk to the students",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với các học sinh",
+    "new_translation_vi": "Trò chuyện với các học sinh",
     "translator_note": ""
   },
   {
@@ -1246,7 +1246,7 @@
     "ai_reason": "",
     "source_en": "Defeat the enemies",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt kẻ địch",
+    "new_translation_vi": "Đánh bại kẻ địch",
     "translator_note": ""
   },
   {
@@ -1261,7 +1261,6 @@
     "primary_key": "LevelPlay_122000360_ChildQuestTip_122_46",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1271,8 +1270,9 @@
     "ai_reason": "",
     "source_en": "Talk to Isla",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Isla",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Isla",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003052",
@@ -1296,7 +1296,7 @@
     "ai_reason": "",
     "source_en": "Defeat the enemies",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt kẻ địch",
+    "new_translation_vi": "Đánh bại kẻ địch",
     "translator_note": ""
   },
   {
@@ -1311,7 +1311,6 @@
     "primary_key": "LevelPlay_122000360_ChildQuestTip_122_48",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1322,7 +1321,8 @@
     "source_en": "Find Isla",
     "review_note": "",
     "new_translation_vi": "Tìm Isla",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003054",
@@ -1346,7 +1346,7 @@
     "ai_reason": "",
     "source_en": "Catch up with the rabbit",
     "review_note": "",
-    "new_translation_vi": "Bắt kịp chú thỏ",
+    "new_translation_vi": "Đuổi theo chú thỏ",
     "translator_note": ""
   },
   {
@@ -1371,7 +1371,7 @@
     "ai_reason": "",
     "source_en": "Catch up with the rabbit",
     "review_note": "",
-    "new_translation_vi": "Bắt kịp chú thỏ",
+    "new_translation_vi": "Đuổi theo chú thỏ",
     "translator_note": ""
   },
   {
@@ -1396,7 +1396,7 @@
     "ai_reason": "",
     "source_en": "Catch up with the rabbit",
     "review_note": "",
-    "new_translation_vi": "Bắt kịp chú thỏ",
+    "new_translation_vi": "Đuổi theo chú thỏ",
     "translator_note": ""
   },
   {
@@ -1421,7 +1421,7 @@
     "ai_reason": "",
     "source_en": "Catch up with the rabbit",
     "review_note": "",
-    "new_translation_vi": "Bắt kịp chú thỏ",
+    "new_translation_vi": "Đuổi theo chú thỏ",
     "translator_note": ""
   },
   {
@@ -1436,7 +1436,6 @@
     "primary_key": "LevelPlay_122000360_ChildQuestTip_122_59",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1447,7 +1446,8 @@
     "source_en": "Find Isla",
     "review_note": "",
     "new_translation_vi": "Tìm Isla",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003059",
@@ -1496,7 +1496,7 @@
     "ai_reason": "",
     "source_en": "See the confusion of one burdened by expectation",
     "review_note": "",
-    "new_translation_vi": "Nhìn sự hoang mang của kẻ mang gánh nặng kỳ vọng",
+    "new_translation_vi": "Chứng kiến sự bối rối của người bị kỳ vọng đè nặng",
     "translator_note": ""
   },
   {
@@ -1521,7 +1521,7 @@
     "ai_reason": "",
     "source_en": "See the pain of those who chase their studies",
     "review_note": "",
-    "new_translation_vi": "Nhìn nỗi đau của những kẻ theo đuổi tri thức",
+    "new_translation_vi": "Chứng kiến nỗi đau của những người theo đuổi việc học",
     "translator_note": ""
   },
   {
@@ -1546,7 +1546,7 @@
     "ai_reason": "",
     "source_en": "See the ending where one falls off the tightrope",
     "review_note": "",
-    "new_translation_vi": "Nhìn cái kết khi ai đó rơi khỏi dây căng",
+    "new_translation_vi": "Chứng kiến kết cục của người rơi khỏi dây thăng bằng",
     "translator_note": ""
   },
   {
@@ -1561,7 +1561,6 @@
     "primary_key": "LevelPlay_122000360_ChildQuestTip_198_9",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1572,7 +1571,8 @@
     "source_en": "Find Isla",
     "review_note": "",
     "new_translation_vi": "Tìm Isla",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003064",
@@ -1586,7 +1586,6 @@
     "primary_key": "LevelPlay_122000360_ChildQuestTip_198_10",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1597,7 +1596,8 @@
     "source_en": "Find Isla",
     "review_note": "",
     "new_translation_vi": "Tìm Isla",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003065",
@@ -1621,7 +1621,7 @@
     "ai_reason": "",
     "source_en": "Catch up with the rabbit",
     "review_note": "",
-    "new_translation_vi": "Bắt kịp chú thỏ",
+    "new_translation_vi": "Đuổi theo chú thỏ",
     "translator_note": ""
   },
   {
@@ -1671,7 +1671,7 @@
     "ai_reason": "",
     "source_en": "Catch up with the rabbit",
     "review_note": "",
-    "new_translation_vi": "Bắt kịp chú thỏ",
+    "new_translation_vi": "Đuổi theo chú thỏ",
     "translator_note": ""
   },
   {
@@ -1696,7 +1696,7 @@
     "ai_reason": "",
     "source_en": "Catch up with the rabbit",
     "review_note": "",
-    "new_translation_vi": "Bắt kịp chú thỏ",
+    "new_translation_vi": "Đuổi theo chú thỏ",
     "translator_note": ""
   },
   {
@@ -1721,7 +1721,7 @@
     "ai_reason": "",
     "source_en": "Defeat the enemies",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt kẻ địch",
+    "new_translation_vi": "Đánh bại kẻ địch",
     "translator_note": ""
   },
   {
@@ -1746,7 +1746,7 @@
     "ai_reason": "",
     "source_en": "Defeat the enemies",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt kẻ địch",
+    "new_translation_vi": "Đánh bại kẻ địch",
     "translator_note": ""
   },
   {
@@ -1771,7 +1771,7 @@
     "ai_reason": "",
     "source_en": "Defeat the enemies",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt kẻ địch",
+    "new_translation_vi": "Đánh bại kẻ địch",
     "translator_note": ""
   },
   {
@@ -1796,7 +1796,7 @@
     "ai_reason": "",
     "source_en": "Split up and catch up with the rabbit",
     "review_note": "",
-    "new_translation_vi": "Chia nhau ra và đuổi theo con thỏ kia!",
+    "new_translation_vi": "Tách ra và đuổi theo chú thỏ",
     "translator_note": ""
   },
   {
@@ -1821,7 +1821,7 @@
     "ai_reason": "",
     "source_en": "Catch up with the rabbit",
     "review_note": "",
-    "new_translation_vi": "Bắt kịp chú thỏ",
+    "new_translation_vi": "Đuổi theo chú thỏ",
     "translator_note": ""
   },
   {
@@ -1846,7 +1846,7 @@
     "ai_reason": "",
     "source_en": "Catch up with the rabbit",
     "review_note": "",
-    "new_translation_vi": "Bắt kịp chú thỏ",
+    "new_translation_vi": "Đuổi theo chú thỏ",
     "translator_note": ""
   },
   {
@@ -1896,7 +1896,7 @@
     "ai_reason": "",
     "source_en": "Investigate the diary",
     "review_note": "",
-    "new_translation_vi": "Đọc nhật ký",
+    "new_translation_vi": "Điều tra cuốn nhật ký",
     "translator_note": ""
   },
   {
@@ -1936,7 +1936,6 @@
     "primary_key": "LevelPlay_122000361_ChildQuestTip_122_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1946,8 +1945,9 @@
     "ai_reason": "",
     "source_en": "Talk to Sigrika",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Sigrika",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Sigrika",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003079",
@@ -1971,7 +1971,7 @@
     "ai_reason": "",
     "source_en": "Catch up with the rabbit",
     "review_note": "",
-    "new_translation_vi": "Bắt kịp chú thỏ",
+    "new_translation_vi": "Đuổi theo chú thỏ",
     "translator_note": ""
   },
   {
@@ -1996,7 +1996,7 @@
     "ai_reason": "",
     "source_en": "Catch up with the rabbit",
     "review_note": "",
-    "new_translation_vi": "Bắt kịp chú thỏ",
+    "new_translation_vi": "Đuổi theo chú thỏ",
     "translator_note": ""
   },
   {
@@ -2021,7 +2021,7 @@
     "ai_reason": "",
     "source_en": "Catch up with the rabbit",
     "review_note": "",
-    "new_translation_vi": "Bắt kịp chú thỏ",
+    "new_translation_vi": "Đuổi theo chú thỏ",
     "translator_note": ""
   },
   {
@@ -2046,7 +2046,7 @@
     "ai_reason": "",
     "source_en": "Catch up with the rabbit",
     "review_note": "",
-    "new_translation_vi": "Bắt kịp chú thỏ",
+    "new_translation_vi": "Đuổi theo chú thỏ",
     "translator_note": ""
   },
   {
@@ -2071,7 +2071,7 @@
     "ai_reason": "",
     "source_en": "Catch up with the rabbit",
     "review_note": "",
-    "new_translation_vi": "Bắt kịp chú thỏ",
+    "new_translation_vi": "Đuổi theo chú thỏ",
     "translator_note": ""
   },
   {
@@ -2096,7 +2096,7 @@
     "ai_reason": "",
     "source_en": "Catch up with the rabbit",
     "review_note": "",
-    "new_translation_vi": "Bắt kịp chú thỏ",
+    "new_translation_vi": "Đuổi theo chú thỏ",
     "translator_note": ""
   },
   {
@@ -2121,7 +2121,7 @@
     "ai_reason": "",
     "source_en": "Catch up with the rabbit",
     "review_note": "",
-    "new_translation_vi": "Bắt kịp chú thỏ",
+    "new_translation_vi": "Đuổi theo chú thỏ",
     "translator_note": ""
   },
   {
@@ -2146,7 +2146,7 @@
     "ai_reason": "",
     "source_en": "Catch up with the rabbit",
     "review_note": "",
-    "new_translation_vi": "Bắt kịp chú thỏ",
+    "new_translation_vi": "Đuổi theo chú thỏ",
     "translator_note": ""
   },
   {
@@ -2171,7 +2171,7 @@
     "ai_reason": "",
     "source_en": "Catch up with the rabbit",
     "review_note": "",
-    "new_translation_vi": "Bắt kịp chú thỏ",
+    "new_translation_vi": "Đuổi theo chú thỏ",
     "translator_note": ""
   },
   {
@@ -2196,7 +2196,7 @@
     "ai_reason": "",
     "source_en": "Catch up with the rabbit",
     "review_note": "",
-    "new_translation_vi": "Bắt kịp chú thỏ",
+    "new_translation_vi": "Đuổi theo chú thỏ",
     "translator_note": ""
   },
   {
@@ -2221,7 +2221,7 @@
     "ai_reason": "",
     "source_en": "Catch up with the rabbit",
     "review_note": "",
-    "new_translation_vi": "Bắt kịp chú thỏ",
+    "new_translation_vi": "Đuổi theo chú thỏ",
     "translator_note": ""
   },
   {
@@ -2246,7 +2246,7 @@
     "ai_reason": "",
     "source_en": "Catch up with the rabbit",
     "review_note": "",
-    "new_translation_vi": "Bắt kịp chú thỏ",
+    "new_translation_vi": "Đuổi theo chú thỏ",
     "translator_note": ""
   },
   {
@@ -2271,7 +2271,7 @@
     "ai_reason": "",
     "source_en": "Catch up with the rabbit",
     "review_note": "",
-    "new_translation_vi": "Bắt kịp chú thỏ",
+    "new_translation_vi": "Đuổi theo chú thỏ",
     "translator_note": ""
   },
   {
@@ -2296,7 +2296,7 @@
     "ai_reason": "",
     "source_en": "Head to the depths of the vortex",
     "review_note": "",
-    "new_translation_vi": "Đi sâu vào lòng cơn lốc xoáy",
+    "new_translation_vi": "Đi đến nơi sâu nhất của vòng xoáy",
     "translator_note": ""
   },
   {
@@ -2321,7 +2321,7 @@
     "ai_reason": "",
     "source_en": "The voices that grieve because of you",
     "review_note": "",
-    "new_translation_vi": "Những tiếng than khóc vì ngươi",
+    "new_translation_vi": "Những tiếng than khóc vì bạn",
     "translator_note": ""
   },
   {
@@ -2336,7 +2336,6 @@
     "primary_key": "LevelPlay_122000361_ChildQuestTip_122_19",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2346,8 +2345,9 @@
     "ai_reason": "",
     "source_en": "(Optional) Talk to Lynae",
     "review_note": "",
-    "new_translation_vi": "(Tùy chọn) Talk với Lynae",
-    "translator_note": ""
+    "new_translation_vi": "(Tùy chọn) Trò chuyện với Lynae",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003095",
@@ -2371,7 +2371,7 @@
     "ai_reason": "",
     "source_en": "The tears shed in pain because of you",
     "review_note": "",
-    "new_translation_vi": "Những giọt nước mắt đau đớn vì ngươi",
+    "new_translation_vi": "Những giọt nước mắt đau đớn vì bạn",
     "translator_note": ""
   },
   {
@@ -2396,7 +2396,7 @@
     "ai_reason": "",
     "source_en": "(Optional) Talk to the student",
     "review_note": "",
-    "new_translation_vi": "(Tùy chọn) Talk với học sinh kia",
+    "new_translation_vi": "(Tùy chọn) Trò chuyện với học sinh",
     "translator_note": ""
   },
   {
@@ -2411,7 +2411,6 @@
     "primary_key": "LevelPlay_122000361_ChildQuestTip_122_24",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2421,8 +2420,9 @@
     "ai_reason": "",
     "source_en": "Talk to Denia",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Denia",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Denia",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003098",
@@ -2496,7 +2496,7 @@
     "ai_reason": "",
     "source_en": "The anger that rose because of you",
     "review_note": "",
-    "new_translation_vi": "Cơn giận này... đều vì ngươi mà ra",
+    "new_translation_vi": "Sự giận dữ trỗi dậy vì bạn",
     "translator_note": ""
   },
   {
@@ -2521,7 +2521,7 @@
     "ai_reason": "",
     "source_en": "Catch up with the rabbit",
     "review_note": "",
-    "new_translation_vi": "Bắt kịp chú thỏ",
+    "new_translation_vi": "Đuổi theo chú thỏ",
     "translator_note": ""
   },
   {
@@ -2546,7 +2546,7 @@
     "ai_reason": "",
     "source_en": "Catch up with the rabbit",
     "review_note": "",
-    "new_translation_vi": "Bắt kịp chú thỏ",
+    "new_translation_vi": "Đuổi theo chú thỏ",
     "translator_note": ""
   },
   {
@@ -2571,7 +2571,7 @@
     "ai_reason": "",
     "source_en": "Catch up with the rabbit",
     "review_note": "",
-    "new_translation_vi": "Bắt kịp chú thỏ",
+    "new_translation_vi": "Đuổi theo chú thỏ",
     "translator_note": ""
   },
   {
@@ -2596,7 +2596,7 @@
     "ai_reason": "",
     "source_en": "Catch up with the rabbit",
     "review_note": "",
-    "new_translation_vi": "Bắt kịp chú thỏ",
+    "new_translation_vi": "Đuổi theo chú thỏ",
     "translator_note": ""
   },
   {
@@ -2611,7 +2611,6 @@
     "primary_key": "LevelPlay_122000361_ChildQuestTip_238_20",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2622,7 +2621,8 @@
     "source_en": "Investigate Sigrika's room",
     "review_note": "",
     "new_translation_vi": "Điều tra phòng của Sigrika",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003106",
@@ -2646,7 +2646,7 @@
     "ai_reason": "",
     "source_en": "Give an election victory speech",
     "review_note": "",
-    "new_translation_vi": "Phát biểu chiến thắng bầu cử",
+    "new_translation_vi": "Đọc diễn văn chiến thắng bầu cử",
     "translator_note": ""
   },
   {
@@ -2661,7 +2661,6 @@
     "primary_key": "LevelPlay_165000004_ChildQuestTip_165_11",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2671,8 +2670,9 @@
     "ai_reason": "",
     "source_en": "Follow Lucilla to explore ahead",
     "review_note": "",
-    "new_translation_vi": "Đi theo Lucilla để khám phá phía trước",
-    "translator_note": ""
+    "new_translation_vi": "Theo chân Lucilla để khám phá phía trước",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003108",
@@ -2746,7 +2746,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Tacet Discords",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Tacet Discords",
+    "new_translation_vi": "Tiêu diệt các Tacet Discord",
     "translator_note": ""
   },
   {
@@ -2771,7 +2771,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Tacet Discords",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Tacet Discords",
+    "new_translation_vi": "Tiêu diệt các Tacet Discord",
     "translator_note": ""
   },
   {
@@ -2796,7 +2796,7 @@
     "ai_reason": "",
     "source_en": "Enter the depths of the Dark Side",
     "review_note": "",
-    "new_translation_vi": "Đến vực sâu của Dark Side",
+    "new_translation_vi": "Vào sâu trong Dark Side",
     "translator_note": ""
   },
   {
@@ -2821,7 +2821,7 @@
     "ai_reason": "",
     "source_en": "Return to the room on the other side of the window",
     "review_note": "",
-    "new_translation_vi": "Return căn phòng bên kia cửa sổ",
+    "new_translation_vi": "Quay lại căn phòng phía bên kia cửa sổ",
     "translator_note": ""
   },
   {
@@ -2836,7 +2836,6 @@
     "primary_key": "LevelPlay_165000004_ChildQuestTip_165_104",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2846,8 +2845,9 @@
     "ai_reason": "",
     "source_en": "Talk to Lucilla",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Lucilla",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Lucilla",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003115",
@@ -2896,7 +2896,7 @@
     "ai_reason": "",
     "source_en": "Leave the meeting room",
     "review_note": "",
-    "new_translation_vi": "Rời khỏi phòng họp",
+    "new_translation_vi": "Leave phòng họp",
     "translator_note": ""
   },
   {
@@ -2921,7 +2921,7 @@
     "ai_reason": "",
     "source_en": "Approach \"her\"",
     "review_note": "",
-    "new_translation_vi": "Tiến đến gần \"cô ấy\"",
+    "new_translation_vi": "Tiếp cận \"cô ấy\"",
     "translator_note": ""
   },
   {
@@ -2946,7 +2946,7 @@
     "ai_reason": "",
     "source_en": "Return to the meeting room",
     "review_note": "",
-    "new_translation_vi": "Return phòng họp",
+    "new_translation_vi": "Quay lại phòng họp",
     "translator_note": ""
   },
   {
@@ -2986,7 +2986,6 @@
     "primary_key": "LevelPlay_165000005_ChildQuestTip_165_16",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2997,7 +2996,8 @@
     "source_en": "Look for Professor Sevi's projection",
     "review_note": "",
     "new_translation_vi": "Tìm hình chiếu của Giáo sư Sevi",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003121",
@@ -3011,7 +3011,6 @@
     "primary_key": "LevelPlay_165000005_ChildQuestTip_165_17",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3022,7 +3021,8 @@
     "source_en": "Investigate Professor Sevi's projection",
     "review_note": "",
     "new_translation_vi": "Điều tra hình chiếu của Giáo sư Sevi",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003122",
@@ -3036,7 +3036,6 @@
     "primary_key": "LevelPlay_165000005_ChildQuestTip_165_18",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -3047,7 +3046,8 @@
     "source_en": "Follow Professor Sevi's projection",
     "review_note": "",
     "new_translation_vi": "Đi theo hình chiếu của Giáo sư Sevi",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003123",
@@ -3071,7 +3071,7 @@
     "ai_reason": "",
     "source_en": "Start Challenge",
     "review_note": "",
-    "new_translation_vi": "Bắt đầu Thử thách",
+    "new_translation_vi": "Bắt đầu thử thách",
     "translator_note": ""
   },
   {
@@ -3096,7 +3096,7 @@
     "ai_reason": "",
     "source_en": "Defeat the emerging TDs: {q_count}/{q_countMax}",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt các TD mới xuất hiện: {q_count}/{q_countMax}",
+    "new_translation_vi": "Tiêu diệt các TD xuất hiện: {q_count}/{q_countMax}",
     "translator_note": ""
   },
   {
@@ -3121,7 +3121,7 @@
     "ai_reason": "",
     "source_en": "Leave Simulation Training",
     "review_note": "",
-    "new_translation_vi": "Thoát khỏi Simulation Training",
+    "new_translation_vi": "Huấn luyện mô phỏng Leave",
     "translator_note": ""
   },
   {
@@ -3146,7 +3146,7 @@
     "ai_reason": "",
     "source_en": "Start Challenge",
     "review_note": "",
-    "new_translation_vi": "Bắt đầu Thử thách",
+    "new_translation_vi": "Bắt đầu thử thách",
     "translator_note": ""
   },
   {
@@ -3171,7 +3171,7 @@
     "ai_reason": "",
     "source_en": "Defeat the emerging TDs: {q_count}/{q_countMax}",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt các TD mới xuất hiện: {q_count}/{q_countMax}",
+    "new_translation_vi": "Tiêu diệt các TD xuất hiện: {q_count}/{q_countMax}",
     "translator_note": ""
   },
   {
@@ -3196,7 +3196,7 @@
     "ai_reason": "",
     "source_en": "Leave Simulation Training",
     "review_note": "",
-    "new_translation_vi": "Thoát khỏi Simulation Training",
+    "new_translation_vi": "Huấn luyện mô phỏng Leave",
     "translator_note": ""
   },
   {
@@ -3221,7 +3221,7 @@
     "ai_reason": "",
     "source_en": "Start Challenge",
     "review_note": "",
-    "new_translation_vi": "Bắt đầu Thử thách",
+    "new_translation_vi": "Bắt đầu thử thách",
     "translator_note": ""
   },
   {
@@ -3246,7 +3246,7 @@
     "ai_reason": "",
     "source_en": "Defeat the emerging TDs: {q_count}/{q_countMax}",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt các TD mới xuất hiện: {q_count}/{q_countMax}",
+    "new_translation_vi": "Tiêu diệt các TD xuất hiện: {q_count}/{q_countMax}",
     "translator_note": ""
   },
   {
@@ -3271,7 +3271,7 @@
     "ai_reason": "",
     "source_en": "Leave Simulation Training",
     "review_note": "",
-    "new_translation_vi": "Thoát khỏi Simulation Training",
+    "new_translation_vi": "Huấn luyện mô phỏng Leave",
     "translator_note": ""
   },
   {
@@ -3296,7 +3296,7 @@
     "ai_reason": "",
     "source_en": "Interact with the Remnant Key to start",
     "review_note": "",
-    "new_translation_vi": "Tương tác với Chìa Khóa Tàn Dư để bắt đầu",
+    "new_translation_vi": "Tương tác với Remnant Key để bắt đầu",
     "translator_note": ""
   },
   {
@@ -3321,7 +3321,7 @@
     "ai_reason": "",
     "source_en": "You may keep practicing or leave",
     "review_note": "",
-    "new_translation_vi": "Cậu có thể tiếp tục luyện tập hoặc rời đi.",
+    "new_translation_vi": "Bạn có thể tiếp tục luyện tập hoặc leave",
     "translator_note": ""
   },
   {
@@ -3346,7 +3346,7 @@
     "ai_reason": "",
     "source_en": "Interact with the Remnant Key to start",
     "review_note": "",
-    "new_translation_vi": "Tương tác với Chìa Khóa Tàn Dư để bắt đầu",
+    "new_translation_vi": "Tương tác với Remnant Key để bắt đầu",
     "translator_note": ""
   },
   {
@@ -3371,7 +3371,7 @@
     "ai_reason": "",
     "source_en": "You may keep practicing or leave",
     "review_note": "",
-    "new_translation_vi": "Cậu có thể tiếp tục luyện tập hoặc rời đi.",
+    "new_translation_vi": "Bạn có thể tiếp tục luyện tập hoặc leave",
     "translator_note": ""
   },
   {
@@ -3396,7 +3396,7 @@
     "ai_reason": "",
     "source_en": "Reach the Research Institute",
     "review_note": "",
-    "new_translation_vi": "Đến Viện Nghiên Cứu",
+    "new_translation_vi": "Đến Viện Nghiên cứu",
     "translator_note": ""
   },
   {
@@ -3421,7 +3421,7 @@
     "ai_reason": "",
     "source_en": "Start the synchronization test",
     "review_note": "",
-    "new_translation_vi": "Bắt đầu bài test đồng bộ",
+    "new_translation_vi": "Bắt đầu kiểm tra đồng bộ",
     "translator_note": ""
   },
   {
@@ -3446,7 +3446,7 @@
     "ai_reason": "",
     "source_en": "Defeat the enemy to complete the synchronization test",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt kẻ địch để hoàn thành bài test đồng bộ",
+    "new_translation_vi": "Đánh bại kẻ địch để hoàn thành kiểm tra đồng bộ",
     "translator_note": ""
   },
   {
@@ -3471,7 +3471,7 @@
     "ai_reason": "",
     "source_en": "Purge the Left Behind",
     "review_note": "",
-    "new_translation_vi": "Thanh tẩy những kẻ Bị Bỏ Rơi",
+    "new_translation_vi": "Thanh tẩy Left Behind",
     "translator_note": ""
   },
   {
@@ -3496,7 +3496,7 @@
     "ai_reason": "",
     "source_en": "Purge the Left Behind",
     "review_note": "",
-    "new_translation_vi": "Thanh tẩy những kẻ Bị Bỏ Rơi",
+    "new_translation_vi": "Thanh tẩy Left Behind",
     "translator_note": ""
   },
   {
@@ -3521,7 +3521,7 @@
     "ai_reason": "",
     "source_en": "Purge the Left Behind",
     "review_note": "",
-    "new_translation_vi": "Thanh tẩy những kẻ Bị Bỏ Rơi",
+    "new_translation_vi": "Thanh tẩy Left Behind",
     "translator_note": ""
   },
   {
@@ -3546,7 +3546,7 @@
     "ai_reason": "",
     "source_en": "Purge the Left Behind",
     "review_note": "",
-    "new_translation_vi": "Thanh tẩy những kẻ Bị Bỏ Rơi",
+    "new_translation_vi": "Thanh tẩy Left Behind",
     "translator_note": ""
   },
   {
@@ -3571,7 +3571,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi tới",
     "translator_note": ""
   },
   {
@@ -3596,7 +3596,7 @@
     "ai_reason": "",
     "source_en": "See who that familiar silhouette belongs to...",
     "review_note": "",
-    "new_translation_vi": "Nhìn xem bóng dáng quen thuộc kia là của ai...",
+    "new_translation_vi": "Xem bóng hình quen thuộc đó là ai...",
     "translator_note": ""
   },
   {
@@ -3621,7 +3621,7 @@
     "ai_reason": "",
     "source_en": "Enter the snack shop",
     "review_note": "",
-    "new_translation_vi": "Enter quầy đồ ăn vặt",
+    "new_translation_vi": "Vào cửa hàng đồ ăn nhẹ",
     "translator_note": ""
   },
   {
@@ -3646,7 +3646,7 @@
     "ai_reason": "",
     "source_en": "Purge the Left Behind",
     "review_note": "",
-    "new_translation_vi": "Thanh tẩy những kẻ Bị Bỏ Rơi",
+    "new_translation_vi": "Thanh tẩy Left Behind",
     "translator_note": ""
   },
   {
@@ -3671,7 +3671,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi tới",
     "translator_note": ""
   },
   {
@@ -3696,7 +3696,7 @@
     "ai_reason": "",
     "source_en": "Observe what the Grand Architect recorded",
     "review_note": "",
-    "new_translation_vi": "Xem lại những gì Grand Architect đã ghi lại",
+    "new_translation_vi": "Quan sát những gì Grand Architect đã ghi lại",
     "translator_note": ""
   },
   {
@@ -3721,7 +3721,7 @@
     "ai_reason": "",
     "source_en": "See what the Grand Architect is up to",
     "review_note": "",
-    "new_translation_vi": "Xem Đại Kiến Trúc Sư đang làm gì",
+    "new_translation_vi": "Xem Grand Architect đang làm gì",
     "translator_note": ""
   },
   {
@@ -3746,7 +3746,7 @@
     "ai_reason": "",
     "source_en": "See what the Grand Architect is up to",
     "review_note": "",
-    "new_translation_vi": "Xem Đại Kiến Trúc Sư đang làm gì",
+    "new_translation_vi": "Xem Grand Architect đang làm gì",
     "translator_note": ""
   },
   {
@@ -3796,7 +3796,7 @@
     "ai_reason": "",
     "source_en": "See what the Grand Architect is up to",
     "review_note": "",
-    "new_translation_vi": "Xem Đại Kiến Trúc Sư đang làm gì",
+    "new_translation_vi": "Xem Grand Architect đang làm gì",
     "translator_note": ""
   },
   {
@@ -3821,7 +3821,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi tới",
     "translator_note": ""
   },
   {
@@ -3846,7 +3846,7 @@
     "ai_reason": "",
     "source_en": "See what the Grand Architect is up to",
     "review_note": "",
-    "new_translation_vi": "Xem Đại Kiến Trúc Sư đang làm gì",
+    "new_translation_vi": "Xem Grand Architect đang làm gì",
     "translator_note": ""
   },
   {
@@ -3871,7 +3871,7 @@
     "ai_reason": "",
     "source_en": "See what the Grand Architect is up to",
     "review_note": "",
-    "new_translation_vi": "Xem Đại Kiến Trúc Sư đang làm gì",
+    "new_translation_vi": "Xem Grand Architect đang làm gì",
     "translator_note": ""
   },
   {
@@ -3896,7 +3896,7 @@
     "ai_reason": "",
     "source_en": "See what the Grand Architect is up to",
     "review_note": "",
-    "new_translation_vi": "Xem Đại Kiến Trúc Sư đang làm gì",
+    "new_translation_vi": "Xem Grand Architect đang làm gì",
     "translator_note": ""
   },
   {
@@ -3921,7 +3921,7 @@
     "ai_reason": "",
     "source_en": "Listen to what the Grand Architect has to say",
     "review_note": "",
-    "new_translation_vi": "Hãy lắng nghe lời của Grand Architect",
+    "new_translation_vi": "Lắng nghe những gì Grand Architect nói",
     "translator_note": ""
   },
   {
@@ -3946,7 +3946,7 @@
     "ai_reason": "",
     "source_en": "See what the Grand Architect is up to",
     "review_note": "",
-    "new_translation_vi": "Xem Đại Kiến Trúc Sư đang làm gì",
+    "new_translation_vi": "Xem Grand Architect đang làm gì",
     "translator_note": ""
   },
   {
@@ -3971,7 +3971,7 @@
     "ai_reason": "",
     "source_en": "See what the Grand Architect is up to",
     "review_note": "",
-    "new_translation_vi": "Xem Đại Kiến Trúc Sư đang làm gì",
+    "new_translation_vi": "Xem Grand Architect đang làm gì",
     "translator_note": ""
   },
   {
@@ -3996,7 +3996,7 @@
     "ai_reason": "",
     "source_en": "Head to the next act",
     "review_note": "",
-    "new_translation_vi": "Đến phần tiếp theo",
+    "new_translation_vi": "Đi đến màn tiếp theo",
     "translator_note": ""
   },
   {
@@ -4046,7 +4046,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi tới",
     "translator_note": ""
   },
   {
@@ -4071,7 +4071,7 @@
     "ai_reason": "",
     "source_en": "Observe what the Grand Architect recorded",
     "review_note": "",
-    "new_translation_vi": "Xem lại những gì Grand Architect đã ghi lại",
+    "new_translation_vi": "Quan sát những gì Grand Architect đã ghi lại",
     "translator_note": ""
   },
   {
@@ -4096,7 +4096,7 @@
     "ai_reason": "",
     "source_en": "See what the Grand Architect is up to",
     "review_note": "",
-    "new_translation_vi": "Xem Đại Kiến Trúc Sư đang làm gì",
+    "new_translation_vi": "Xem Grand Architect đang làm gì",
     "translator_note": ""
   },
   {
@@ -4121,7 +4121,7 @@
     "ai_reason": "",
     "source_en": "Sweep the obstacles in your way",
     "review_note": "",
-    "new_translation_vi": "Quét sạch mọi chướng ngại trên đường",
+    "new_translation_vi": "Dọn dẹp các chướng ngại vật trên đường đi",
     "translator_note": ""
   },
   {
@@ -4171,7 +4171,7 @@
     "ai_reason": "",
     "source_en": "Sweep the obstacles in your way",
     "review_note": "",
-    "new_translation_vi": "Quét sạch mọi chướng ngại trên đường",
+    "new_translation_vi": "Dọn dẹp các chướng ngại vật trên đường đi",
     "translator_note": ""
   },
   {
@@ -4196,7 +4196,7 @@
     "ai_reason": "",
     "source_en": "Head to the next act",
     "review_note": "",
-    "new_translation_vi": "Đến phần tiếp theo",
+    "new_translation_vi": "Đi đến màn tiếp theo",
     "translator_note": ""
   },
   {
@@ -4221,7 +4221,7 @@
     "ai_reason": "",
     "source_en": "Head to the next act",
     "review_note": "",
-    "new_translation_vi": "Đến phần tiếp theo",
+    "new_translation_vi": "Đi đến màn tiếp theo",
     "translator_note": ""
   },
   {
@@ -4271,7 +4271,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi tới",
     "translator_note": ""
   },
   {
@@ -4296,7 +4296,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi tới",
     "translator_note": ""
   },
   {
@@ -4321,7 +4321,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi tới",
     "translator_note": ""
   },
   {
@@ -4346,7 +4346,7 @@
     "ai_reason": "",
     "source_en": "Continue onward in the gondola",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục đi trên gondola",
+    "new_translation_vi": "Tiếp tục đi tới bằng cáp treo",
     "translator_note": ""
   },
   {
@@ -4371,7 +4371,7 @@
     "ai_reason": "",
     "source_en": "Use the echo painting to head to the next act",
     "review_note": "",
-    "new_translation_vi": "Dùng bức họa tiếng vọng để tiến vào màn tiếp theo",
+    "new_translation_vi": "Sử dụng bức tranh echo để đi đến màn tiếp theo",
     "translator_note": ""
   },
   {
@@ -4396,7 +4396,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi tới",
     "translator_note": ""
   },
   {
@@ -4421,7 +4421,7 @@
     "ai_reason": "",
     "source_en": "Sweep the obstacles in your way",
     "review_note": "",
-    "new_translation_vi": "Quét sạch mọi chướng ngại trên đường",
+    "new_translation_vi": "Dọn dẹp các chướng ngại vật trên đường đi",
     "translator_note": ""
   },
   {
@@ -4446,7 +4446,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi tới",
     "translator_note": ""
   },
   {
@@ -4471,7 +4471,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi tới",
     "translator_note": ""
   },
   {
@@ -4496,7 +4496,7 @@
     "ai_reason": "",
     "source_en": "Continue onward in the gondola",
     "review_note": "",
-    "new_translation_vi": "Tiếp tục đi trên gondola",
+    "new_translation_vi": "Tiếp tục đi tới bằng cáp treo",
     "translator_note": ""
   },
   {
@@ -4546,7 +4546,7 @@
     "ai_reason": "",
     "source_en": "Complete the final Purge",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Purge cuối cùng",
+    "new_translation_vi": "Hoàn thành đợt thanh tẩy cuối cùng",
     "translator_note": ""
   },
   {
@@ -4571,7 +4571,7 @@
     "ai_reason": "",
     "source_en": "Complete the final Purge",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Purge cuối cùng",
+    "new_translation_vi": "Hoàn thành đợt thanh tẩy cuối cùng",
     "translator_note": ""
   },
   {
@@ -4586,7 +4586,6 @@
     "primary_key": "LevelPlay_161000011_ChildQuestTip_121_5",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -4597,7 +4596,8 @@
     "source_en": "Rescue Denia from Aleph-1's corruption",
     "review_note": "",
     "new_translation_vi": "Giải cứu Denia khỏi sự tha hóa của Aleph-1",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003185",
@@ -4646,7 +4646,7 @@
     "ai_reason": "",
     "source_en": "Go forth to the depth of the void",
     "review_note": "",
-    "new_translation_vi": "Hãy tiến vào sâu thẳm của hư vô",
+    "new_translation_vi": "Tiến vào sâu trong hư không",
     "translator_note": ""
   },
   {
@@ -4671,7 +4671,7 @@
     "ai_reason": "",
     "source_en": "Go forth to the depth of the void",
     "review_note": "",
-    "new_translation_vi": "Hãy tiến vào sâu thẳm của hư vô",
+    "new_translation_vi": "Tiến vào sâu trong hư không",
     "translator_note": ""
   },
   {
@@ -4696,7 +4696,7 @@
     "ai_reason": "",
     "source_en": "Go forth to the depth of the void",
     "review_note": "",
-    "new_translation_vi": "Hãy tiến vào sâu thẳm của hư vô",
+    "new_translation_vi": "Tiến vào sâu trong hư không",
     "translator_note": ""
   },
   {
@@ -4721,7 +4721,7 @@
     "ai_reason": "",
     "source_en": "Go forth to the depth of the void",
     "review_note": "",
-    "new_translation_vi": "Hãy tiến vào sâu thẳm của hư vô",
+    "new_translation_vi": "Tiến vào sâu trong hư không",
     "translator_note": ""
   },
   {
@@ -4746,7 +4746,7 @@
     "ai_reason": "",
     "source_en": "Go forth to the depth of the void",
     "review_note": "",
-    "new_translation_vi": "Hãy tiến vào sâu thẳm của hư vô",
+    "new_translation_vi": "Tiến vào sâu trong hư không",
     "translator_note": ""
   },
   {
@@ -4771,7 +4771,7 @@
     "ai_reason": "",
     "source_en": "Go forth to the depth of the void",
     "review_note": "",
-    "new_translation_vi": "Hãy tiến vào sâu thẳm của hư vô",
+    "new_translation_vi": "Tiến vào sâu trong hư không",
     "translator_note": ""
   },
   {
@@ -4796,7 +4796,7 @@
     "ai_reason": "",
     "source_en": "Go forth to the depth of the void",
     "review_note": "",
-    "new_translation_vi": "Hãy tiến vào sâu thẳm của hư vô",
+    "new_translation_vi": "Tiến vào sâu trong hư không",
     "translator_note": ""
   },
   {
@@ -4821,7 +4821,7 @@
     "ai_reason": "",
     "source_en": "Chase Aemeath's frequency",
     "review_note": "",
-    "new_translation_vi": "Theo dấu tần số của Aemeath",
+    "new_translation_vi": "Đuổi theo tần số của Aemeath",
     "translator_note": ""
   },
   {
@@ -4896,7 +4896,7 @@
     "ai_reason": "",
     "source_en": "Test Text",
     "review_note": "",
-    "new_translation_vi": "Văn bản thử nghiệm",
+    "new_translation_vi": "Văn bản kiểm tra",
     "translator_note": ""
   },
   {
@@ -4921,7 +4921,7 @@
     "ai_reason": "",
     "source_en": "Test Text",
     "review_note": "",
-    "new_translation_vi": "Văn bản thử nghiệm",
+    "new_translation_vi": "Văn bản kiểm tra",
     "translator_note": ""
   },
   {
@@ -4946,7 +4946,7 @@
     "ai_reason": "",
     "source_en": "Defeat the TDs in the Tacet Field: {q_count}/{q_countMax}",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt lũ Tacet Discord trong Tacet Field: {q_count}/{q_countMax}",
+    "new_translation_vi": "Tiêu diệt các TD trong Tacet Field: {q_count}/{q_countMax}",
     "translator_note": ""
   },
   {
@@ -4971,7 +4971,7 @@
     "ai_reason": "",
     "source_en": "Defeat the TDs in the Tacet Field: {q_count}/{q_countMax}",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt lũ Tacet Discord trong Tacet Field: {q_count}/{q_countMax}",
+    "new_translation_vi": "Tiêu diệt các TD trong Tacet Field: {q_count}/{q_countMax}",
     "translator_note": ""
   },
   {
@@ -4996,7 +4996,7 @@
     "ai_reason": "",
     "source_en": "Defeat the TDs in the Tacet Field: {q_count}/{q_countMax}",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt lũ Tacet Discord trong Tacet Field: {q_count}/{q_countMax}",
+    "new_translation_vi": "Tiêu diệt các TD trong Tacet Field: {q_count}/{q_countMax}",
     "translator_note": ""
   },
   {
@@ -5021,7 +5021,7 @@
     "ai_reason": "",
     "source_en": "Proceed to the Final Test",
     "review_note": "",
-    "new_translation_vi": "Bước vào Final Test",
+    "new_translation_vi": "Tiến hành bài kiểm tra cuối cùng",
     "translator_note": ""
   },
   {
@@ -5046,7 +5046,7 @@
     "ai_reason": "",
     "source_en": "Proceed to the Final Test",
     "review_note": "",
-    "new_translation_vi": "Bước vào Final Test",
+    "new_translation_vi": "Tiến đến Bài Kiểm Tra Cuối Cùng",
     "translator_note": ""
   },
   {
@@ -5071,7 +5071,7 @@
     "ai_reason": "",
     "source_en": "Proceed to the Final Test",
     "review_note": "",
-    "new_translation_vi": "Bước vào Final Test",
+    "new_translation_vi": "Tiến đến Bài Kiểm Tra Cuối Cùng",
     "translator_note": ""
   },
   {
@@ -5096,7 +5096,7 @@
     "ai_reason": "",
     "source_en": "Proceed to the Final Test",
     "review_note": "",
-    "new_translation_vi": "Bước vào Final Test",
+    "new_translation_vi": "Tiến đến Bài Kiểm Tra Cuối Cùng",
     "translator_note": ""
   },
   {
@@ -5121,7 +5121,7 @@
     "ai_reason": "",
     "source_en": "Proceed to the Final Test",
     "review_note": "",
-    "new_translation_vi": "Bước vào Final Test",
+    "new_translation_vi": "Tiến đến Bài Kiểm Tra Cuối Cùng",
     "translator_note": ""
   },
   {
@@ -5146,7 +5146,7 @@
     "ai_reason": "",
     "source_en": "Proceed to the Final Test",
     "review_note": "",
-    "new_translation_vi": "Bước vào Final Test",
+    "new_translation_vi": "Tiến đến Bài Kiểm Tra Cuối Cùng",
     "translator_note": ""
   },
   {
@@ -5171,7 +5171,7 @@
     "ai_reason": "",
     "source_en": "Proceed to the Final Test",
     "review_note": "",
-    "new_translation_vi": "Bước vào Final Test",
+    "new_translation_vi": "Tiến đến Bài Kiểm Tra Cuối Cùng",
     "translator_note": ""
   },
   {
@@ -5196,7 +5196,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi tới",
     "translator_note": ""
   },
   {
@@ -5221,7 +5221,7 @@
     "ai_reason": "",
     "source_en": "Head to the next location",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm tiếp theo",
+    "new_translation_vi": "Đi đến địa điểm tiếp theo",
     "translator_note": ""
   },
   {
@@ -5236,7 +5236,6 @@
     "primary_key": "Quest_237850001_ChildQuestTip_237_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5246,8 +5245,9 @@
     "ai_reason": "",
     "source_en": "Talk to Grahame",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Grahame",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Grahame",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003211",
@@ -5286,7 +5286,6 @@
     "primary_key": "Quest_237850001_ChildQuestTip_237_6",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5296,8 +5295,9 @@
     "ai_reason": "",
     "source_en": "Talk to Grahame",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Grahame",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Grahame",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003213",
@@ -5311,7 +5311,6 @@
     "primary_key": "Quest_237850001_ChildQuestTip_237_7",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5322,7 +5321,8 @@
     "source_en": "Meet up with Grahame in the Dimmr Plains",
     "review_note": "",
     "new_translation_vi": "Gặp Grahame tại Dimmr Plains",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003214",
@@ -5386,7 +5386,6 @@
     "primary_key": "Quest_237850001_ChildQuestTip_237_10",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5396,8 +5395,9 @@
     "ai_reason": "",
     "source_en": "Take a photo of the Solvein Heartwood",
     "review_note": "",
-    "new_translation_vi": "Chụp lại Lõi Solvein Heartwood nào",
-    "translator_note": ""
+    "new_translation_vi": "Chụp ảnh Solvein Heartwood",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003217",
@@ -5421,7 +5421,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi tới",
     "translator_note": ""
   },
   {
@@ -5446,7 +5446,7 @@
     "ai_reason": "",
     "source_en": "Take a photo of the Voidmatter contaminated area and the structures around it",
     "review_note": "",
-    "new_translation_vi": "Chụp khu vực nhiễm Voidmatter cùng những công trình xung quanh đi",
+    "new_translation_vi": "Chụp ảnh khu vực bị nhiễm Voidmatter và các cấu trúc xung quanh",
     "translator_note": ""
   },
   {
@@ -5471,7 +5471,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi tới",
     "translator_note": ""
   },
   {
@@ -5496,7 +5496,7 @@
     "ai_reason": "",
     "source_en": "Use Sensor to investigate the frequency",
     "review_note": "",
-    "new_translation_vi": "Dùng Sensor để kiểm tra Tần số",
+    "new_translation_vi": "Sử dụng Sensor để điều tra tần số",
     "translator_note": ""
   },
   {
@@ -5521,7 +5521,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi tới",
     "translator_note": ""
   },
   {
@@ -5546,7 +5546,7 @@
     "ai_reason": "",
     "source_en": "Take a photo of frozen lake and trees in the Sealed Fissure",
     "review_note": "",
-    "new_translation_vi": "Chụp hồ băng và cây cối trong Sealed Fissure nào",
+    "new_translation_vi": "Chụp ảnh hồ frozen và cây cối trong Sealed Fissure",
     "translator_note": ""
   },
   {
@@ -5561,7 +5561,6 @@
     "primary_key": "Quest_237850001_ChildQuestTip_237_24",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5571,8 +5570,9 @@
     "ai_reason": "",
     "source_en": "Talk to Grahame",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Grahame",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Grahame",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003224",
@@ -5596,7 +5596,7 @@
     "ai_reason": "",
     "source_en": "Take a photo of the suspended structure",
     "review_note": "",
-    "new_translation_vi": "Chụp lại công trình treo lơ lửng",
+    "new_translation_vi": "Chụp ảnh cấu trúc treo",
     "translator_note": ""
   },
   {
@@ -5611,7 +5611,6 @@
     "primary_key": "Quest_237850001_ChildQuestTip_237_27",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5621,8 +5620,9 @@
     "ai_reason": "",
     "source_en": "Talk to Grahame",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Grahame",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Grahame",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003226",
@@ -5646,7 +5646,7 @@
     "ai_reason": "",
     "source_en": "Take a photo of Tomorrow's Horizon",
     "review_note": "",
-    "new_translation_vi": "Chụp ảnh Tomorrow's Horizon thôi",
+    "new_translation_vi": "Chụp ảnh Tomorrow's Horizon",
     "translator_note": ""
   },
   {
@@ -5661,7 +5661,6 @@
     "primary_key": "Quest_237850001_ChildQuestTip_237_30",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5671,8 +5670,9 @@
     "ai_reason": "",
     "source_en": "Talk to Grahame",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Grahame",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Grahame",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003228",
@@ -5696,7 +5696,7 @@
     "ai_reason": "",
     "source_en": "Continue onward",
     "review_note": "",
-    "new_translation_vi": "Tiến lên phía trước",
+    "new_translation_vi": "Tiếp tục đi tới",
     "translator_note": ""
   },
   {
@@ -5721,7 +5721,7 @@
     "ai_reason": "",
     "source_en": "Take a photo of the Keystone",
     "review_note": "",
-    "new_translation_vi": "Chụp lại Keystone nào.",
+    "new_translation_vi": "Chụp ảnh Keystone",
     "translator_note": ""
   },
   {
@@ -5736,7 +5736,6 @@
     "primary_key": "Quest_237850001_ChildQuestTip_237_33",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5746,8 +5745,9 @@
     "ai_reason": "",
     "source_en": "Talk to Grahame",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Grahame",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Grahame",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003231",
@@ -5761,7 +5761,6 @@
     "primary_key": "Quest_237850001_QuestDesc_237_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5771,8 +5770,9 @@
     "ai_reason": "",
     "source_en": "President Lucilla introduces you to a student named Grahame. She tasks you with joining him on a \"graduation trip\" to the Dimmr Plains...",
     "review_note": "",
-    "new_translation_vi": "Chủ tịch Lucilla giới thiệu cậu với một học viên tên Grahame. Bà giao nhiệm vụ cho cậu cùng anh ấy thực hiện \"chuyến đi tốt nghiệp\" đến Dimmr Plains...",
-    "translator_note": ""
+    "new_translation_vi": "Chủ tịch Lucilla giới thiệu bạn với một sinh viên tên Grahame. Người đó giao cho bạn nhiệm vụ cùng tham gia \"chuyến đi tốt nghiệp\" đến Dimmr Plains...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003232",
@@ -5796,7 +5796,7 @@
     "ai_reason": "",
     "source_en": "Graduation Trip",
     "review_note": "",
-    "new_translation_vi": "Chuyến đi tốt nghiệp",
+    "new_translation_vi": "Chuyến Đi Tốt Nghiệp",
     "translator_note": ""
   },
   {
@@ -5821,7 +5821,7 @@
     "ai_reason": "",
     "source_en": "Take a photo of the Voidmatter contaminated area and the structures around it",
     "review_note": "",
-    "new_translation_vi": "Chụp khu vực nhiễm Voidmatter cùng những công trình xung quanh đi",
+    "new_translation_vi": "Chụp ảnh khu vực bị nhiễm Voidmatter và các cấu trúc xung quanh",
     "translator_note": ""
   },
   {
@@ -5846,7 +5846,7 @@
     "ai_reason": "",
     "source_en": "Take a photo of the frozen lake and trees in the Sealed Fissure",
     "review_note": "",
-    "new_translation_vi": "Chụp ảnh hồ băng và những hàng cây trong Sealed Fissure",
+    "new_translation_vi": "Chụp ảnh hồ frozen và cây cối trong Sealed Fissure",
     "translator_note": ""
   },
   {
@@ -5871,7 +5871,7 @@
     "ai_reason": "",
     "source_en": "Move within position for the shot",
     "review_note": "",
-    "new_translation_vi": "Đứng vào vị trí để bắn",
+    "new_translation_vi": "Di chuyển vào vị trí để chụp ảnh",
     "translator_note": ""
   },
   {
@@ -5896,7 +5896,7 @@
     "ai_reason": "",
     "source_en": "Move into position for the shot",
     "review_note": "",
-    "new_translation_vi": "Vào vị trí để chụp ảnh.",
+    "new_translation_vi": "Di chuyển vào vị trí để chụp ảnh",
     "translator_note": ""
   },
   {
@@ -5921,7 +5921,7 @@
     "ai_reason": "",
     "source_en": "Move into position for the shot",
     "review_note": "",
-    "new_translation_vi": "Vào vị trí để chụp ảnh.",
+    "new_translation_vi": "Di chuyển vào vị trí để chụp ảnh",
     "translator_note": ""
   },
   {
@@ -5946,7 +5946,7 @@
     "ai_reason": "",
     "source_en": "Move into position for the shot",
     "review_note": "",
-    "new_translation_vi": "Vào vị trí để chụp ảnh.",
+    "new_translation_vi": "Di chuyển vào vị trí để chụp ảnh",
     "translator_note": ""
   },
   {
@@ -5961,7 +5961,6 @@
     "primary_key": "Quest_237850001_TakePhotoTargetsDescription_181_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -5971,8 +5970,9 @@
     "ai_reason": "",
     "source_en": "Take a photo of the Solvein Heartwood",
     "review_note": "",
-    "new_translation_vi": "Chụp lại Lõi Solvein Heartwood nào",
-    "translator_note": ""
+    "new_translation_vi": "Chụp ảnh Solvein Heartwood",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003240",
@@ -5996,7 +5996,7 @@
     "ai_reason": "",
     "source_en": "Take a photo of the suspended structures",
     "review_note": "",
-    "new_translation_vi": "Chụp lại những công trình treo lơ lửng",
+    "new_translation_vi": "Chụp ảnh các cấu trúc treo",
     "translator_note": ""
   },
   {
@@ -6021,7 +6021,7 @@
     "ai_reason": "",
     "source_en": "Take a photo of the Keystone",
     "review_note": "",
-    "new_translation_vi": "Chụp lại Keystone nào.",
+    "new_translation_vi": "Chụp ảnh Keystone",
     "translator_note": ""
   },
   {
@@ -6046,7 +6046,7 @@
     "ai_reason": "",
     "source_en": "Take a photo of the rift",
     "review_note": "",
-    "new_translation_vi": "Chụp lại vết nứt không gian",
+    "new_translation_vi": "Chụp ảnh vết nứt",
     "translator_note": ""
   },
   {
@@ -6086,7 +6086,6 @@
     "primary_key": "LevelPlay_693850007_ChildQuestTip_693_5",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6096,8 +6095,9 @@
     "ai_reason": "",
     "source_en": "Prompt other Soliskin",
     "review_note": "",
-    "new_translation_vi": "Thúc giục các Soliskin khác",
-    "translator_note": ""
+    "new_translation_vi": "Nhắc nhở Soliskin khác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003245",
@@ -6111,7 +6111,6 @@
     "primary_key": "LevelPlay_693850007_ChildQuestTip_693_7",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6121,8 +6120,9 @@
     "ai_reason": "",
     "source_en": "Prompt other Soliskin",
     "review_note": "",
-    "new_translation_vi": "Thúc giục các Soliskin khác",
-    "translator_note": ""
+    "new_translation_vi": "Nhắc nhở Soliskin khác",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003246",
@@ -6196,7 +6196,7 @@
     "ai_reason": "",
     "source_en": "Sit on the bench",
     "review_note": "",
-    "new_translation_vi": "Ngồi lên ghế dài",
+    "new_translation_vi": "Ngồi xuống ghế",
     "translator_note": ""
   },
   {
@@ -6211,7 +6211,6 @@
     "primary_key": "LevelPlay_693850005_ChildQuestTip_693_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6221,8 +6220,9 @@
     "ai_reason": "",
     "source_en": "See what the Soliskin are doing",
     "review_note": "",
-    "new_translation_vi": "Xem bọn Soliskin đang làm gì",
-    "translator_note": ""
+    "new_translation_vi": "Xem Soliskin đang làm gì",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003250",
@@ -6236,7 +6236,6 @@
     "primary_key": "LevelPlay_693850005_ChildQuestTip_693_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6246,8 +6245,9 @@
     "ai_reason": "",
     "source_en": "Use Projector: Voidwing Moth to push the metal balls off the cliff",
     "review_note": "",
-    "new_translation_vi": "Dùng Máy Chiếu: Voidwing Moth đẩy các quả cầu kim loại xuống vực",
-    "translator_note": ""
+    "new_translation_vi": "Sử dụng Projector: Voidwing Moth để đẩy các quả cầu kim loại xuống vách đá",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003251",
@@ -6261,7 +6261,6 @@
     "primary_key": "LevelPlay_693850005_ChildQuestTip_693_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6271,8 +6270,9 @@
     "ai_reason": "",
     "source_en": "Talk to the Soliskin",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Soliskin",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003252",
@@ -6286,7 +6286,6 @@
     "primary_key": "LevelPlay_693850000_ChildQuestTip_693_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6297,7 +6296,8 @@
     "source_en": "Rescue the Soliskin",
     "review_note": "",
     "new_translation_vi": "Giải cứu Soliskin",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003253",
@@ -6311,7 +6311,6 @@
     "primary_key": "LevelPlay_693850000_ChildQuestTip_693_6",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6321,8 +6320,9 @@
     "ai_reason": "",
     "source_en": "Talk to the Soliskin",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Soliskin",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003254",
@@ -6336,7 +6336,6 @@
     "primary_key": "LevelPlay_693850001_ChildQuestTip_693_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6347,7 +6346,8 @@
     "source_en": "Rescue the Soliskin's buddy",
     "review_note": "",
     "new_translation_vi": "Giải cứu bạn của Soliskin",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003255",
@@ -6361,7 +6361,6 @@
     "primary_key": "LevelPlay_693850001_ChildQuestTip_693_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6371,8 +6370,9 @@
     "ai_reason": "",
     "source_en": "Talk to the Soliskin",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Soliskin",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003256",
@@ -6386,7 +6386,6 @@
     "primary_key": "LevelPlay_693850002_ChildQuestTip_693_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6396,8 +6395,9 @@
     "ai_reason": "",
     "source_en": "Rescue the frozen Soliskin",
     "review_note": "",
-    "new_translation_vi": "Giải cứu Soliskin bị đóng băng",
-    "translator_note": ""
+    "new_translation_vi": "Giải cứu frozen Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003257",
@@ -6421,7 +6421,7 @@
     "ai_reason": "",
     "source_en": "Check what happenend",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra chuyện gì đã xảy ra",
+    "new_translation_vi": "Kiểm tra xem chuyện gì đã xảy ra",
     "translator_note": ""
   },
   {
@@ -6436,7 +6436,6 @@
     "primary_key": "LevelPlay_693850003_ChildQuestTip_693_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6447,7 +6446,8 @@
     "source_en": "Defeat the enemies and rescue the Soliskin",
     "review_note": "",
     "new_translation_vi": "Tiêu diệt kẻ địch và giải cứu Soliskin",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003259",
@@ -6461,7 +6461,6 @@
     "primary_key": "LevelPlay_693850003_ChildQuestTip_693_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6471,8 +6470,9 @@
     "ai_reason": "",
     "source_en": "Talk to the Soliskin",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Soliskin",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003260",
@@ -6511,7 +6511,6 @@
     "primary_key": "LevelPlay_693850004_ChildQuestTip_693_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6521,8 +6520,9 @@
     "ai_reason": "",
     "source_en": "Go see the Soliksin",
     "review_note": "",
-    "new_translation_vi": "Đến gặp Soliksin",
-    "translator_note": ""
+    "new_translation_vi": "Đi gặp Soliksin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003262",
@@ -6536,7 +6536,6 @@
     "primary_key": "LevelPlay_693850004_ChildQuestTip_693_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6546,8 +6545,9 @@
     "ai_reason": "",
     "source_en": "Talk to the Soliskin",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Soliskin",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003263",
@@ -6561,7 +6561,6 @@
     "primary_key": "LevelPlay_693850004_ChildQuestTip_693_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6572,7 +6571,8 @@
     "source_en": "Find the Soliskin",
     "review_note": "",
     "new_translation_vi": "Tìm Soliskin",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003264",
@@ -6596,7 +6596,7 @@
     "ai_reason": "",
     "source_en": "Check",
     "review_note": "",
-    "new_translation_vi": "Check",
+    "new_translation_vi": "Kiểm tra",
     "translator_note": ""
   },
   {
@@ -6611,7 +6611,6 @@
     "primary_key": "LevelPlay_219850004_ChildQuestTip_217_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6621,8 +6620,9 @@
     "ai_reason": "",
     "source_en": "Use Projector - Voidwing Moth to fan the flames",
     "review_note": "",
-    "new_translation_vi": "Sử dụng Projector - Voidwing Moth để quạt lửa",
-    "translator_note": ""
+    "new_translation_vi": "Sử dụng Projector - Voidwing Moth để thổi bùng ngọn lửa",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003266",
@@ -6636,7 +6636,6 @@
     "primary_key": "LevelPlay_219850004_ChildQuestTip_219_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6647,7 +6646,8 @@
     "source_en": "Check on the Soliskin",
     "review_note": "",
     "new_translation_vi": "Kiểm tra Soliskin",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003267",
@@ -6686,7 +6686,6 @@
     "primary_key": "LevelPlay_219850004_ChildQuestTip_219_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6696,8 +6695,9 @@
     "ai_reason": "",
     "source_en": "Talk to the Soliskin",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Soliskin",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003269",
@@ -6736,7 +6736,6 @@
     "primary_key": "Quest_692850000_ChildQuestTip_692_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6746,8 +6745,9 @@
     "ai_reason": "",
     "source_en": "Talk to the Soliskin",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Soliskin",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003271",
@@ -6761,7 +6761,6 @@
     "primary_key": "Quest_692850000_ChildQuestTip_692_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6771,8 +6770,9 @@
     "ai_reason": "",
     "source_en": "Find the next statue that the Soliskin mentioned",
     "review_note": "",
-    "new_translation_vi": "Tìm bức tượng tiếp theo mà mảnh Soliskin đã nhắc đến",
-    "translator_note": ""
+    "new_translation_vi": "Tìm bức tượng tiếp theo mà Soliskin đã nhắc đến",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003272",
@@ -6786,7 +6786,6 @@
     "primary_key": "Quest_692850000_ChildQuestTip_692_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6796,8 +6795,9 @@
     "ai_reason": "",
     "source_en": "Talk to the Soliskin",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Soliskin",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003273",
@@ -6821,7 +6821,7 @@
     "ai_reason": "",
     "source_en": "Examine the image carved into the stone",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra hình khắc trên đá",
+    "new_translation_vi": "Kiểm tra hình ảnh được khắc trên đá",
     "translator_note": ""
   },
   {
@@ -6846,7 +6846,7 @@
     "ai_reason": "",
     "source_en": "Examine the statue with a flower",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra bức tượng cầm bông hoa",
+    "new_translation_vi": "Kiểm tra bức tượng có bông hoa",
     "translator_note": ""
   },
   {
@@ -6871,7 +6871,7 @@
     "ai_reason": "",
     "source_en": "Turn the statue until it is facing a suitable direction",
     "review_note": "",
-    "new_translation_vi": "Xoay bức tượng cho đến khi nó hướng về phía thích hợp",
+    "new_translation_vi": "Xoay bức tượng cho đến khi nó hướng về phía phù hợp",
     "translator_note": ""
   },
   {
@@ -6896,7 +6896,7 @@
     "ai_reason": "",
     "source_en": "Examine the statue with headphones",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra bức tượng bằng tai nghe",
+    "new_translation_vi": "Kiểm tra bức tượng có tai nghe",
     "translator_note": ""
   },
   {
@@ -6921,7 +6921,7 @@
     "ai_reason": "",
     "source_en": "Turn the statue until it is facing a suitable direction",
     "review_note": "",
-    "new_translation_vi": "Xoay bức tượng cho đến khi nó hướng về phía thích hợp",
+    "new_translation_vi": "Xoay bức tượng cho đến khi nó hướng về phía phù hợp",
     "translator_note": ""
   },
   {
@@ -6946,7 +6946,7 @@
     "ai_reason": "",
     "source_en": "Examine the statue with a bowl on its head",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra bức tượng đội bát trên đầu",
+    "new_translation_vi": "Kiểm tra bức tượng có cái bát trên đầu",
     "translator_note": ""
   },
   {
@@ -6971,7 +6971,7 @@
     "ai_reason": "",
     "source_en": "Turn the statue until it is facing a suitable direction",
     "review_note": "",
-    "new_translation_vi": "Xoay bức tượng cho đến khi nó hướng về phía thích hợp",
+    "new_translation_vi": "Xoay bức tượng cho đến khi nó hướng về phía phù hợp",
     "translator_note": ""
   },
   {
@@ -6986,7 +6986,6 @@
     "primary_key": "Quest_692850000_ChildQuestTip_692_16",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -6996,8 +6995,9 @@
     "ai_reason": "",
     "source_en": "Talk to the Soliskin again",
     "review_note": "",
-    "new_translation_vi": "Talk lại với Soliskin",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện lại với Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003281",
@@ -7011,7 +7011,6 @@
     "primary_key": "Quest_692850000_ChildQuestTip_692_17",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7021,8 +7020,9 @@
     "ai_reason": "",
     "source_en": "Find the next statue that the Soliskin mentioned",
     "review_note": "",
-    "new_translation_vi": "Tìm bức tượng tiếp theo mà mảnh Soliskin đã nhắc đến",
-    "translator_note": ""
+    "new_translation_vi": "Tìm bức tượng tiếp theo mà Soliskin đã nhắc đến",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003282",
@@ -7036,7 +7036,6 @@
     "primary_key": "Quest_692850000_ChildQuestTip_692_18",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7046,8 +7045,9 @@
     "ai_reason": "",
     "source_en": "Talk to the Soliskin",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Soliskin",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003283",
@@ -7071,7 +7071,7 @@
     "ai_reason": "",
     "source_en": "Examine the carvings on the statue",
     "review_note": "",
-    "new_translation_vi": "Xem xét những hoa văn trên bức tượng",
+    "new_translation_vi": "Kiểm tra các hình khắc trên tượng",
     "translator_note": ""
   },
   {
@@ -7096,7 +7096,7 @@
     "ai_reason": "",
     "source_en": "Examine the carvings on the statue",
     "review_note": "",
-    "new_translation_vi": "Xem xét những hoa văn trên bức tượng",
+    "new_translation_vi": "Kiểm tra các hình khắc trên tượng",
     "translator_note": ""
   },
   {
@@ -7121,7 +7121,7 @@
     "ai_reason": "",
     "source_en": "Examine the carvings on the statue",
     "review_note": "",
-    "new_translation_vi": "Xem xét những hoa văn trên bức tượng",
+    "new_translation_vi": "Kiểm tra các hình khắc trên tượng",
     "translator_note": ""
   },
   {
@@ -7136,7 +7136,6 @@
     "primary_key": "Quest_692850000_ChildQuestTip_692_28",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7146,8 +7145,9 @@
     "ai_reason": "",
     "source_en": "Talk to the Soliskin again",
     "review_note": "",
-    "new_translation_vi": "Talk lại với Soliskin",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện lại với Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003287",
@@ -7161,7 +7161,6 @@
     "primary_key": "Quest_692850000_ChildQuestTip_692_29",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7171,8 +7170,9 @@
     "ai_reason": "",
     "source_en": "Go back to the statues and talk to the Soliskin",
     "review_note": "",
-    "new_translation_vi": "Quay lại chỗ các bức tượng và nói chuyện với Soliskin",
-    "translator_note": ""
+    "new_translation_vi": "Quay lại chỗ các bức tượng và trò chuyện với Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003288",
@@ -7186,7 +7186,6 @@
     "primary_key": "Quest_692850000_ChildQuestTip_692_30",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7196,8 +7195,9 @@
     "ai_reason": "",
     "source_en": "Talk to the Soliskin again",
     "review_note": "",
-    "new_translation_vi": "Talk lại với Soliskin",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện lại với Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003289",
@@ -7221,7 +7221,7 @@
     "ai_reason": "",
     "source_en": "A plant related to the stars and sky",
     "review_note": "",
-    "new_translation_vi": "Một loài thực vật gắn liền với những vì sao và bầu trời",
+    "new_translation_vi": "Một loài cây liên quan đến các vì sao và bầu trời",
     "translator_note": ""
   },
   {
@@ -7246,7 +7246,7 @@
     "ai_reason": "",
     "source_en": "A red plant related to a foreign nation",
     "review_note": "",
-    "new_translation_vi": "Một loài thực vật đỏ liên quan đến một quốc gia xa lạ",
+    "new_translation_vi": "Một loài cây màu đỏ liên quan đến quốc gia ngoại bang",
     "translator_note": ""
   },
   {
@@ -7271,7 +7271,7 @@
     "ai_reason": "",
     "source_en": "A strange entity in the form of a plant, symbolizing memory",
     "review_note": "",
-    "new_translation_vi": "Một thực thể kỳ lạ hình dáng như thực vật, tượng trưng cho ký ức.",
+    "new_translation_vi": "Một thực thể lạ dưới hình dạng cái cây, tượng trưng cho ký ức",
     "translator_note": ""
   },
   {
@@ -7286,7 +7286,6 @@
     "primary_key": "Quest_692850000_InteractContent_692_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7297,7 +7296,8 @@
     "source_en": "Stern Soliskin",
     "review_note": "",
     "new_translation_vi": "Soliskin nghiêm nghị",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003293",
@@ -7396,7 +7396,7 @@
     "ai_reason": "",
     "source_en": "Examine the stone carving",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra bức chạm khắc trên đá",
+    "new_translation_vi": "Kiểm tra hình khắc trên đá",
     "translator_note": ""
   },
   {
@@ -7436,7 +7436,6 @@
     "primary_key": "Quest_692850000_InteractContent_692_8",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7447,7 +7446,8 @@
     "source_en": "Anxious Soliskin",
     "review_note": "",
     "new_translation_vi": "Soliskin lo lắng",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003299",
@@ -7461,7 +7461,6 @@
     "primary_key": "Quest_692850000_InteractContent_692_9",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7472,7 +7471,8 @@
     "source_en": "Stern Soliskin",
     "review_note": "",
     "new_translation_vi": "Soliskin nghiêm nghị",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003300",
@@ -7486,7 +7486,6 @@
     "primary_key": "Quest_692850000_InteractContent_692_10",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7496,8 +7495,9 @@
     "ai_reason": "",
     "source_en": "Brooding Soliskin",
     "review_note": "",
-    "new_translation_vi": "Soliskin trầm ngâm",
-    "translator_note": ""
+    "new_translation_vi": "Soliskin trầm tư",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003301",
@@ -7511,7 +7511,6 @@
     "primary_key": "Quest_692850000_InteractContent_692_11",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7522,7 +7521,8 @@
     "source_en": "Strange Soliskin",
     "review_note": "",
     "new_translation_vi": "Soliskin kỳ lạ",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003302",
@@ -7536,7 +7536,6 @@
     "primary_key": "Quest_692850000_InteractContent_692_12",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -7547,7 +7546,8 @@
     "source_en": "Strange Soliskin",
     "review_note": "",
     "new_translation_vi": "Soliskin kỳ lạ",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003303",
@@ -7571,7 +7571,7 @@
     "ai_reason": "",
     "source_en": "You've found some peculiar statues in the Dimmr Plains. They seem to be guarding a hidden secret...",
     "review_note": "",
-    "new_translation_vi": "Ngươi đã phát hiện ra những bức tượng kỳ lạ ở Dimmr Plains. Chúng dường như đang canh giữ một bí mật nào đó...",
+    "new_translation_vi": "Bạn đã tìm thấy vài bức tượng kỳ lạ ở Dimmr Plains. Chúng dường như đang canh giữ một bí mật ẩn giấu...",
     "translator_note": ""
   },
   {
@@ -7621,7 +7621,7 @@
     "ai_reason": "",
     "source_en": "Turn the statue until it is facing a suitable direction",
     "review_note": "",
-    "new_translation_vi": "Xoay bức tượng cho đến khi nó hướng về phía thích hợp",
+    "new_translation_vi": "Xoay tượng cho đến khi hướng về phía phù hợp",
     "translator_note": ""
   },
   {
@@ -7646,7 +7646,7 @@
     "ai_reason": "",
     "source_en": "Place the item that answers the riddle in front of the statue",
     "review_note": "",
-    "new_translation_vi": "Đặt vật phẩm trả lời câu đố trước bức tượng",
+    "new_translation_vi": "Đặt vật phẩm giải đố trước bức tượng",
     "translator_note": ""
   },
   {
@@ -7671,7 +7671,7 @@
     "ai_reason": "",
     "source_en": "Examine the statue with ears",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra bức tượng có tai",
+    "new_translation_vi": "Kiểm tra bức tượng có đôi tai",
     "translator_note": ""
   },
   {
@@ -7696,7 +7696,7 @@
     "ai_reason": "",
     "source_en": "Turn the statue until it is facing a suitable direction",
     "review_note": "",
-    "new_translation_vi": "Xoay bức tượng cho đến khi nó hướng về phía thích hợp",
+    "new_translation_vi": "Xoay tượng cho đến khi hướng về phía phù hợp",
     "translator_note": ""
   },
   {
@@ -7721,7 +7721,7 @@
     "ai_reason": "",
     "source_en": "Examine the statue with headphones",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra bức tượng bằng tai nghe",
+    "new_translation_vi": "Kiểm tra bức tượng đeo tai nghe",
     "translator_note": ""
   },
   {
@@ -7746,7 +7746,7 @@
     "ai_reason": "",
     "source_en": "Turn the statue until it is facing a suitable direction",
     "review_note": "",
-    "new_translation_vi": "Xoay bức tượng cho đến khi nó hướng về phía thích hợp",
+    "new_translation_vi": "Xoay tượng cho đến khi hướng về phía phù hợp",
     "translator_note": ""
   },
   {
@@ -7771,7 +7771,7 @@
     "ai_reason": "",
     "source_en": "Examine the statue with a bowl on its head",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra bức tượng đội bát trên đầu",
+    "new_translation_vi": "Kiểm tra bức tượng có cái bát trên đầu",
     "translator_note": ""
   },
   {
@@ -7796,7 +7796,7 @@
     "ai_reason": "",
     "source_en": "Turn the statue until it is facing a suitable direction",
     "review_note": "",
-    "new_translation_vi": "Xoay bức tượng cho đến khi nó hướng về phía thích hợp",
+    "new_translation_vi": "Xoay tượng cho đến khi hướng về phía phù hợp",
     "translator_note": ""
   },
   {
@@ -7821,7 +7821,7 @@
     "ai_reason": "",
     "source_en": "Deliver the item referred to in the carving on the left statue",
     "review_note": "",
-    "new_translation_vi": "Giao món đồ được nhắc đến trong bức điêu khắc trên tượng bên trái",
+    "new_translation_vi": "Giao vật phẩm được nhắc đến trong hình khắc trên bức tượng bên trái",
     "translator_note": ""
   },
   {
@@ -7846,7 +7846,7 @@
     "ai_reason": "",
     "source_en": "Deliver the item referred to in the carving on the center statue",
     "review_note": "",
-    "new_translation_vi": "Giao món đồ được nhắc đến trong bức điêu khắc trên tượng ở giữa",
+    "new_translation_vi": "Giao vật phẩm được nhắc đến trong hình khắc trên bức tượng ở giữa",
     "translator_note": ""
   },
   {
@@ -7871,7 +7871,7 @@
     "ai_reason": "",
     "source_en": "Deliver the item referred to in the carving on the right statue",
     "review_note": "",
-    "new_translation_vi": "Giao món đồ được nhắc đến trong bức điêu khắc trên tượng bên phải",
+    "new_translation_vi": "Giao vật phẩm được nhắc đến trong hình khắc trên bức tượng bên phải",
     "translator_note": ""
   },
   {
@@ -7921,7 +7921,7 @@
     "ai_reason": "",
     "source_en": "Defeat the enemies",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt kẻ địch",
+    "new_translation_vi": "Đánh bại kẻ địch",
     "translator_note": ""
   },
   {
@@ -7946,7 +7946,7 @@
     "ai_reason": "",
     "source_en": "Talk to the student",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với học sinh",
+    "new_translation_vi": "Trò chuyện với học sinh",
     "translator_note": ""
   },
   {
@@ -7971,7 +7971,7 @@
     "ai_reason": "",
     "source_en": "Head to the seismograph's deployment site",
     "review_note": "",
-    "new_translation_vi": "Đến điểm triển khai địa chấn ký",
+    "new_translation_vi": "Đi đến địa điểm đặt máy đo địa chấn",
     "translator_note": ""
   },
   {
@@ -7996,7 +7996,7 @@
     "ai_reason": "",
     "source_en": "Defeat the enemies",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt kẻ địch",
+    "new_translation_vi": "Đánh bại kẻ địch",
     "translator_note": ""
   },
   {
@@ -8021,7 +8021,7 @@
     "ai_reason": "",
     "source_en": "Talk to Ham",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Ham",
+    "new_translation_vi": "Trò chuyện với Ham",
     "translator_note": ""
   },
   {
@@ -8046,7 +8046,7 @@
     "ai_reason": "",
     "source_en": "Install the seismograph",
     "review_note": "",
-    "new_translation_vi": "Install máy đo địa chấn",
+    "new_translation_vi": "Lắp đặt máy đo địa chấn",
     "translator_note": ""
   },
   {
@@ -8071,7 +8071,7 @@
     "ai_reason": "",
     "source_en": "Clear this site of Voidmatter contamination",
     "review_note": "",
-    "new_translation_vi": "Thanh tẩy khu vực này khỏi ô nhiễm Voidmatter",
+    "new_translation_vi": "Dọn sạch sự ô nhiễm Voidmatter tại khu vực này",
     "translator_note": ""
   },
   {
@@ -8096,7 +8096,7 @@
     "ai_reason": "",
     "source_en": "Install the seismograph",
     "review_note": "",
-    "new_translation_vi": "Install máy đo địa chấn",
+    "new_translation_vi": "Lắp đặt máy đo địa chấn",
     "translator_note": ""
   },
   {
@@ -8121,7 +8121,7 @@
     "ai_reason": "",
     "source_en": "Head to the seismograph's deployment site",
     "review_note": "",
-    "new_translation_vi": "Đến điểm triển khai địa chấn ký",
+    "new_translation_vi": "Đi đến địa điểm đặt máy đo địa chấn",
     "translator_note": ""
   },
   {
@@ -8146,7 +8146,7 @@
     "ai_reason": "",
     "source_en": "Install the seismograph",
     "review_note": "",
-    "new_translation_vi": "Install máy đo địa chấn",
+    "new_translation_vi": "Lắp đặt máy đo địa chấn",
     "translator_note": ""
   },
   {
@@ -8171,7 +8171,7 @@
     "ai_reason": "",
     "source_en": "Finish installing all the seismographs",
     "review_note": "",
-    "new_translation_vi": "Finish lắp đặt tất cả máy đo địa chấn",
+    "new_translation_vi": "Hoàn tất lắp đặt tất cả máy đo địa chấn",
     "translator_note": ""
   },
   {
@@ -8186,7 +8186,6 @@
     "primary_key": "Quest_211850006_ChildQuestTip_211_37",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8196,8 +8195,9 @@
     "ai_reason": "",
     "source_en": "Talk to Zenus",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Zenus",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Zenus",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003329",
@@ -8221,7 +8221,7 @@
     "ai_reason": "",
     "source_en": "Head to the seismograph's deployment site",
     "review_note": "",
-    "new_translation_vi": "Đến điểm triển khai địa chấn ký",
+    "new_translation_vi": "Đi đến địa điểm đặt máy đo địa chấn",
     "translator_note": ""
   },
   {
@@ -8236,7 +8236,6 @@
     "primary_key": "Quest_211850006_QuestDesc_211_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8246,8 +8245,9 @@
     "ai_reason": "",
     "source_en": "To complete a special school project, Zenus entered the Dimmr Plains alone...",
     "review_note": "",
-    "new_translation_vi": "Để hoàn thành dự án đặc biệt của trường, Zenus đã một mình tiến vào Dimmr Plains...",
-    "translator_note": ""
+    "new_translation_vi": "Để hoàn thành một dự án học tập đặc biệt, Zenus đã một mình tiến vào Dimmr Plains...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003331",
@@ -8261,7 +8261,6 @@
     "primary_key": "Quest_211850006_QuestName_211_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8271,8 +8270,9 @@
     "ai_reason": "",
     "source_en": "Dimmr Sightlines",
     "review_note": "",
-    "new_translation_vi": "Tầm nhìn Dimmr",
-    "translator_note": ""
+    "new_translation_vi": "Sightlines tại Dimmr",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003332",
@@ -8286,7 +8286,6 @@
     "primary_key": "LevelPlay_219850006_ChildQuestTip_219_6",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8296,8 +8295,9 @@
     "ai_reason": "",
     "source_en": "Take a photo of the Soliskin",
     "review_note": "",
-    "new_translation_vi": "Chụp lại Soliskin thôi",
-    "translator_note": ""
+    "new_translation_vi": "Chụp ảnh Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003333",
@@ -8311,7 +8311,6 @@
     "primary_key": "LevelPlay_219850006_ChildQuestTip_219_8",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8322,7 +8321,8 @@
     "source_en": "Pick up the Soliskin",
     "review_note": "",
     "new_translation_vi": "Nhặt Soliskin",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003334",
@@ -8336,7 +8336,6 @@
     "primary_key": "LevelPlay_219850007_ChildQuestTip_219_5",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8347,7 +8346,8 @@
     "source_en": "Pick up the Soliskin",
     "review_note": "",
     "new_translation_vi": "Nhặt Soliskin",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003335",
@@ -8386,7 +8386,6 @@
     "primary_key": "LevelPlay_219850008_ChildQuestTip_219_10",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8396,8 +8395,9 @@
     "ai_reason": "",
     "source_en": "Take a photo of the Soliskin",
     "review_note": "",
-    "new_translation_vi": "Chụp lại Soliskin thôi",
-    "translator_note": ""
+    "new_translation_vi": "Chụp ảnh Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003337",
@@ -8411,7 +8411,6 @@
     "primary_key": "LevelPlay_219850008_ChildQuestTip_219_11",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8422,7 +8421,8 @@
     "source_en": "Pick up the Soliskin",
     "review_note": "",
     "new_translation_vi": "Nhặt Soliskin",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003338",
@@ -8436,7 +8436,6 @@
     "primary_key": "LevelPlay_219850009_ChildQuestTip_219_6",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8446,8 +8445,9 @@
     "ai_reason": "",
     "source_en": "Go to the center of the Soliskin circle",
     "review_note": "",
-    "new_translation_vi": "Đến trung tâm vòng tròn Soliskin",
-    "translator_note": ""
+    "new_translation_vi": "Đi đến trung tâm vòng tròn Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003339",
@@ -8461,7 +8461,6 @@
     "primary_key": "LevelPlay_219850009_ChildQuestTip_219_8",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8472,7 +8471,8 @@
     "source_en": "Pick up the Soliskin",
     "review_note": "",
     "new_translation_vi": "Nhặt Soliskin",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003340",
@@ -8496,7 +8496,7 @@
     "ai_reason": "",
     "source_en": "Get rid of the Tick Tack",
     "review_note": "",
-    "new_translation_vi": "Tiêu diệt con Tick Tack ấy đi",
+    "new_translation_vi": "Loại bỏ Tick Tack",
     "translator_note": ""
   },
   {
@@ -8521,7 +8521,7 @@
     "ai_reason": "",
     "source_en": "Break the ice block",
     "review_note": "",
-    "new_translation_vi": "Phá khối băng",
+    "new_translation_vi": "Phá vỡ khối băng",
     "translator_note": ""
   },
   {
@@ -8536,7 +8536,6 @@
     "primary_key": "LevelPlay_219850015_ChildQuestTip_219_7",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8547,7 +8546,8 @@
     "source_en": "Pick up the Soliskin",
     "review_note": "",
     "new_translation_vi": "Nhặt Soliskin",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003343",
@@ -8571,7 +8571,7 @@
     "ai_reason": "",
     "source_en": "Use Projector",
     "review_note": "",
-    "new_translation_vi": "Sử dụng Projector",
+    "new_translation_vi": "Sử dụng máy chiếu",
     "translator_note": ""
   },
   {
@@ -8586,7 +8586,6 @@
     "primary_key": "LevelPlay_219850018_ChildQuestTip_219_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8597,7 +8596,8 @@
     "source_en": "Pick up the Soliskin",
     "review_note": "",
     "new_translation_vi": "Nhặt Soliskin",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003345",
@@ -8611,7 +8611,6 @@
     "primary_key": "LevelPlay_219850020_ChildQuestTip_219_9",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8622,7 +8621,8 @@
     "source_en": "Pick up the Soliskin",
     "review_note": "",
     "new_translation_vi": "Nhặt Soliskin",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003346",
@@ -8636,7 +8636,6 @@
     "primary_key": "LevelPlay_249850000_ChildQuestTip_249_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8646,8 +8645,9 @@
     "ai_reason": "",
     "source_en": "Instruct the Soliskin to open the mechanism",
     "review_note": "",
-    "new_translation_vi": "Ra lệnh cho Soliskin mở cơ chế",
-    "translator_note": ""
+    "new_translation_vi": "Hướng dẫn Soliskin mở cơ chế",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003347",
@@ -8661,7 +8661,6 @@
     "primary_key": "LevelPlay_249850001_ChildQuestTip_249_8",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8671,8 +8670,9 @@
     "ai_reason": "",
     "source_en": "Instruct the Soliskin to open the mechanism",
     "review_note": "",
-    "new_translation_vi": "Ra lệnh cho Soliskin mở cơ chế",
-    "translator_note": ""
+    "new_translation_vi": "Hướng dẫn Soliskin mở cơ chế",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003348",
@@ -8686,7 +8686,6 @@
     "primary_key": "LevelPlay_249850002_ChildQuestTip_249_4",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -8696,8 +8695,9 @@
     "ai_reason": "",
     "source_en": "Instruct the Soliskin to open the mechanism",
     "review_note": "",
-    "new_translation_vi": "Ra lệnh cho Soliskin mở cơ chế",
-    "translator_note": ""
+    "new_translation_vi": "Hướng dẫn Soliskin mở cơ chế",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003349",
@@ -8746,7 +8746,7 @@
     "ai_reason": "",
     "source_en": "Meet up with Hiyuki",
     "review_note": "",
-    "new_translation_vi": "Gặp Hiyuki",
+    "new_translation_vi": "Gặp gỡ Hiyuki",
     "translator_note": ""
   },
   {
@@ -8771,7 +8771,7 @@
     "ai_reason": "",
     "source_en": "Current Wave (1/2)",
     "review_note": "",
-    "new_translation_vi": "Làn sóng hiện tại (1/2)",
+    "new_translation_vi": "Đợt sóng hiện tại (1/2)",
     "translator_note": ""
   },
   {
@@ -8796,7 +8796,7 @@
     "ai_reason": "",
     "source_en": "Current Wave (2/2)",
     "review_note": "",
-    "new_translation_vi": "Làn sóng hiện tại (2/2)",
+    "new_translation_vi": "Đợt sóng hiện tại (2/2)",
     "translator_note": ""
   },
   {
@@ -8821,7 +8821,7 @@
     "ai_reason": "",
     "source_en": "Current Wave (1/2)",
     "review_note": "",
-    "new_translation_vi": "Làn sóng hiện tại (1/2)",
+    "new_translation_vi": "Đợt sóng hiện tại (1/2)",
     "translator_note": ""
   },
   {
@@ -8846,7 +8846,7 @@
     "ai_reason": "",
     "source_en": "Current Wave (2/2)",
     "review_note": "",
-    "new_translation_vi": "Làn sóng hiện tại (2/2)",
+    "new_translation_vi": "Đợt sóng hiện tại (2/2)",
     "translator_note": ""
   },
   {
@@ -8871,7 +8871,7 @@
     "ai_reason": "",
     "source_en": "Current Wave (1/2)",
     "review_note": "",
-    "new_translation_vi": "Làn sóng hiện tại (1/2)",
+    "new_translation_vi": "Đợt sóng hiện tại (1/2)",
     "translator_note": ""
   },
   {
@@ -8896,7 +8896,7 @@
     "ai_reason": "",
     "source_en": "Current Wave (2/2)",
     "review_note": "",
-    "new_translation_vi": "Làn sóng hiện tại (2/2)",
+    "new_translation_vi": "Đợt sóng hiện tại (2/2)",
     "translator_note": ""
   },
   {
@@ -8921,7 +8921,7 @@
     "ai_reason": "",
     "source_en": "Current Wave (1/2)",
     "review_note": "",
-    "new_translation_vi": "Làn sóng hiện tại (1/2)",
+    "new_translation_vi": "Đợt sóng hiện tại (1/2)",
     "translator_note": ""
   },
   {
@@ -8946,7 +8946,7 @@
     "ai_reason": "",
     "source_en": "Current Wave (2/2)",
     "review_note": "",
-    "new_translation_vi": "Làn sóng hiện tại (2/2)",
+    "new_translation_vi": "Đợt sóng hiện tại (2/2)",
     "translator_note": ""
   },
   {
@@ -8971,7 +8971,7 @@
     "ai_reason": "",
     "source_en": "Current Wave (1/2)",
     "review_note": "",
-    "new_translation_vi": "Làn sóng hiện tại (1/2)",
+    "new_translation_vi": "Đợt sóng hiện tại (1/2)",
     "translator_note": ""
   },
   {
@@ -8996,7 +8996,7 @@
     "ai_reason": "",
     "source_en": "Current Wave (2/2)",
     "review_note": "",
-    "new_translation_vi": "Làn sóng hiện tại (2/2)",
+    "new_translation_vi": "Đợt sóng hiện tại (2/2)",
     "translator_note": ""
   },
   {
@@ -9021,7 +9021,7 @@
     "ai_reason": "",
     "source_en": "Current Wave (1/2)",
     "review_note": "",
-    "new_translation_vi": "Làn sóng hiện tại (1/2)",
+    "new_translation_vi": "Đợt sóng hiện tại (1/2)",
     "translator_note": ""
   },
   {
@@ -9046,7 +9046,7 @@
     "ai_reason": "",
     "source_en": "Current Wave (2/2)",
     "review_note": "",
-    "new_translation_vi": "Làn sóng hiện tại (2/2)",
+    "new_translation_vi": "Sóng hiện tại (2/2)",
     "translator_note": ""
   },
   {
@@ -9071,7 +9071,7 @@
     "ai_reason": "",
     "source_en": "Current Wave (1/2)",
     "review_note": "",
-    "new_translation_vi": "Làn sóng hiện tại (1/2)",
+    "new_translation_vi": "Sóng hiện tại (1/2)",
     "translator_note": ""
   },
   {
@@ -9096,7 +9096,7 @@
     "ai_reason": "",
     "source_en": "Current Wave (2/2)",
     "review_note": "",
-    "new_translation_vi": "Làn sóng hiện tại (2/2)",
+    "new_translation_vi": "Sóng hiện tại (2/2)",
     "translator_note": ""
   },
   {
@@ -9121,7 +9121,7 @@
     "ai_reason": "",
     "source_en": "Current Wave (1/2)",
     "review_note": "",
-    "new_translation_vi": "Làn sóng hiện tại (1/2)",
+    "new_translation_vi": "Sóng hiện tại (1/2)",
     "translator_note": ""
   },
   {
@@ -9146,7 +9146,7 @@
     "ai_reason": "",
     "source_en": "Current Wave (2/2)",
     "review_note": "",
-    "new_translation_vi": "Làn sóng hiện tại (2/2)",
+    "new_translation_vi": "Sóng hiện tại (2/2)",
     "translator_note": ""
   },
   {
@@ -9171,7 +9171,7 @@
     "ai_reason": "",
     "source_en": "Talk to the student",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với học sinh",
+    "new_translation_vi": "Trò chuyện với sinh viên",
     "translator_note": ""
   },
   {
@@ -9186,7 +9186,6 @@
     "primary_key": "Quest_211850005_QuestDesc_211_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9196,8 +9195,9 @@
     "ai_reason": "",
     "source_en": "As the Lumen Initiative progresses, the Voidbane Eldertrees have returned to normal, and the Soliskin seem to have taken an interest in them as well...",
     "review_note": "",
-    "new_translation_vi": "Khi Sáng Kiến Lumen tiến triển, các Cây Già Voidbane đã trở lại bình thường, và dường như Soliskin cũng bắt đầu để ý đến chúng...",
-    "translator_note": ""
+    "new_translation_vi": "Khi Lumen Initiative tiến triển, các Voidbane Eldertrees đã trở lại bình thường, và Soliskin dường như cũng bắt đầu quan tâm đến chúng...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003369",
@@ -9211,18 +9211,18 @@
     "primary_key": "Quest_211850005_QuestName_211_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Sol et Arbor",
     "review_note": "",
     "new_translation_vi": "Sol et Arbor",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003370",
@@ -9246,7 +9246,7 @@
     "ai_reason": "",
     "source_en": "Deliver the photos to Nabby",
     "review_note": "",
-    "new_translation_vi": "Giao những bức ảnh cho Nabby",
+    "new_translation_vi": "Giao ảnh cho Nabby",
     "translator_note": ""
   },
   {
@@ -9261,7 +9261,6 @@
     "primary_key": "Quest_211850008_QuestDesc_211_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9271,8 +9270,9 @@
     "ai_reason": "",
     "source_en": "All the Soliskin have been photographed. Deliver the photos to Nabby.",
     "review_note": "",
-    "new_translation_vi": "Tất cả Soliskin đã được chụp lại. Đưa những bức ảnh này cho Nabby đi.",
-    "translator_note": ""
+    "new_translation_vi": "Tất cả Soliskin đã được chụp ảnh. Hãy giao ảnh cho Nabby.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003372",
@@ -9286,7 +9286,6 @@
     "primary_key": "Quest_211850008_QuestName_211_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9296,8 +9295,9 @@
     "ai_reason": "",
     "source_en": "Soliskin's Memento Photos",
     "review_note": "",
-    "new_translation_vi": "Những bức ảnh kỷ niệm của Soliskin",
-    "translator_note": ""
+    "new_translation_vi": "Ảnh kỷ niệm của Soliskin",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003373",
@@ -9346,7 +9346,7 @@
     "ai_reason": "",
     "source_en": "Reach the photo spot Nabby mentioned",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm chụp ảnh mà Nabby đề cập",
+    "new_translation_vi": "Đến điểm chụp ảnh mà Nabby đã nhắc tới",
     "translator_note": ""
   },
   {
@@ -9371,7 +9371,7 @@
     "ai_reason": "",
     "source_en": "Take a photo of the correct subject",
     "review_note": "",
-    "new_translation_vi": "Chụp ảnh đối tượng chính xác",
+    "new_translation_vi": "Chụp ảnh đúng đối tượng",
     "translator_note": ""
   },
   {
@@ -9386,7 +9386,6 @@
     "primary_key": "Quest_211850009_QuestDesc_211_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9396,8 +9395,9 @@
     "ai_reason": "",
     "source_en": "Word is there's a Soliskin who dances with an Essehalo. Go take a photo of it!",
     "review_note": "",
-    "new_translation_vi": "Nghe đồn có một Soliskin đang nhảy múa cùng Essehalo. Đi chụp ảnh nó đi!",
-    "translator_note": ""
+    "new_translation_vi": "Nghe nói có một Soliskin thường nhảy múa cùng Essehalo. Hãy đi chụp ảnh nó!",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003377",
@@ -9411,7 +9411,6 @@
     "primary_key": "Quest_211850009_QuestName_211_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9421,8 +9420,9 @@
     "ai_reason": "",
     "source_en": "Dancing Soliskin",
     "review_note": "",
-    "new_translation_vi": "Soliskin nhảy múa",
-    "translator_note": ""
+    "new_translation_vi": "Soliskin đang nhảy múa",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003378",
@@ -9436,7 +9436,6 @@
     "primary_key": "Quest_211850009_TakePhoto2ConditionDescription_44_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9446,8 +9445,9 @@
     "ai_reason": "",
     "source_en": "Take a photo of the dancing Soliskin holding the Essehalo",
     "review_note": "",
-    "new_translation_vi": "Chụp ảnh Soliskin đang nhảy múa với Essehalo trên tay",
-    "translator_note": ""
+    "new_translation_vi": "Chụp ảnh Soliskin đang nhảy múa cùng Essehalo",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003379",
@@ -9496,7 +9496,7 @@
     "ai_reason": "",
     "source_en": "Get close",
     "review_note": "",
-    "new_translation_vi": "Lại gần",
+    "new_translation_vi": "Đến gần",
     "translator_note": ""
   },
   {
@@ -9521,7 +9521,7 @@
     "ai_reason": "",
     "source_en": "Take a photo of the correct subject",
     "review_note": "",
-    "new_translation_vi": "Chụp ảnh đối tượng chính xác",
+    "new_translation_vi": "Chụp ảnh đúng đối tượng",
     "translator_note": ""
   },
   {
@@ -9536,7 +9536,6 @@
     "primary_key": "Quest_211850010_QuestDesc_211_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9546,8 +9545,9 @@
     "ai_reason": "",
     "source_en": "Word is that three Soliskin friends are playing by the trees. Go take a picture of them!",
     "review_note": "",
-    "new_translation_vi": "Nghe nói có ba đứa Soliskin đang chơi đùa gần những gốc cây kia. Đi chụp ảnh chúng đi!",
-    "translator_note": ""
+    "new_translation_vi": "Nghe nói có ba người bạn Soliskin đang chơi đùa bên những cái cây. Hãy đi chụp ảnh chúng!",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003383",
@@ -9561,7 +9561,6 @@
     "primary_key": "Quest_211850010_QuestName_211_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9572,7 +9571,8 @@
     "source_en": "Three Soliskin",
     "review_note": "",
     "new_translation_vi": "Ba Soliskin",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003384",
@@ -9586,7 +9586,6 @@
     "primary_key": "Quest_211850010_TakePhoto2ConditionDescription_44_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9596,8 +9595,9 @@
     "ai_reason": "",
     "source_en": "Take a photo of the three playful Soliskin",
     "review_note": "",
-    "new_translation_vi": "Chụp ảnh ba chú Soliskin đang nô đùa",
-    "translator_note": ""
+    "new_translation_vi": "Chụp ảnh ba Soliskin đang chơi đùa",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003385",
@@ -9646,7 +9646,7 @@
     "ai_reason": "",
     "source_en": "Reach the photo spot",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm chụp ảnh",
+    "new_translation_vi": "Đến điểm chụp ảnh",
     "translator_note": ""
   },
   {
@@ -9671,7 +9671,7 @@
     "ai_reason": "",
     "source_en": "Take a photo of the correct subject",
     "review_note": "",
-    "new_translation_vi": "Chụp ảnh đối tượng chính xác",
+    "new_translation_vi": "Chụp ảnh đúng đối tượng",
     "translator_note": ""
   },
   {
@@ -9686,7 +9686,6 @@
     "primary_key": "Quest_211850011_QuestDesc_211_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9696,8 +9695,9 @@
     "ai_reason": "",
     "source_en": "Word is a lonely Soliskin can be found near the tree at midnight... Go take a picture of it!",
     "review_note": "",
-    "new_translation_vi": "Nghe nói có một Soliskin cô độc thường xuất hiện gần gốc cây lúc nửa đêm... Đi chụp ảnh nó đi!",
-    "translator_note": ""
+    "new_translation_vi": "Nghe nói có một Soliskin cô đơn xuất hiện gần cái cây vào lúc nửa đêm... Hãy đi chụp ảnh nó!",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003389",
@@ -9711,7 +9711,6 @@
     "primary_key": "Quest_211850011_QuestName_211_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9722,7 +9721,8 @@
     "source_en": "Lonely Soliskin",
     "review_note": "",
     "new_translation_vi": "Soliskin cô đơn",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003390",
@@ -9736,7 +9736,6 @@
     "primary_key": "Quest_211850011_TakePhoto2ConditionDescription_211_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9746,8 +9745,9 @@
     "ai_reason": "",
     "source_en": "Take a picture of the Soliskin who comes out at midnight",
     "review_note": "",
-    "new_translation_vi": "Chụp lại Soliskin xuất hiện vào nửa đêm ấy.",
-    "translator_note": ""
+    "new_translation_vi": "Chụp ảnh Soliskin xuất hiện vào lúc nửa đêm",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003391",
@@ -9796,7 +9796,7 @@
     "ai_reason": "",
     "source_en": "Reach the photo spot",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm chụp ảnh",
+    "new_translation_vi": "Đến điểm chụp ảnh",
     "translator_note": ""
   },
   {
@@ -9821,7 +9821,7 @@
     "ai_reason": "",
     "source_en": "Take a photo of the correct subject",
     "review_note": "",
-    "new_translation_vi": "Chụp ảnh đối tượng chính xác",
+    "new_translation_vi": "Chụp ảnh đúng đối tượng",
     "translator_note": ""
   },
   {
@@ -9836,7 +9836,6 @@
     "primary_key": "Quest_211850012_QuestDesc_211_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9846,8 +9845,9 @@
     "ai_reason": "",
     "source_en": "Two Soliskin, one who appears by day and the other by night... is there a way to capture them both in a single photo? (Adjust the time to 6:00-8:00 or 18:00-19:00)",
     "review_note": "",
-    "new_translation_vi": "Hai Soliskin, một xuất hiện ban ngày, một xuất hiện ban đêm... Liệu có cách nào chụp được cả hai trong cùng một bức ảnh không? (Điều chỉnh thời gian thành 6:00-8:00 hoặc 18:00-19:00)",
-    "translator_note": ""
+    "new_translation_vi": "Hai Soliskin, một xuất hiện vào ban ngày và một vào ban đêm... liệu có cách nào chụp cả hai trong cùng một bức ảnh không? (Điều chỉnh thời gian đến 6:00-8:00 hoặc 18:00-19:00)",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003395",
@@ -9861,18 +9861,18 @@
     "primary_key": "Quest_211850012_QuestName_211_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Soliskin & \"Noxkin\"",
     "review_note": "",
     "new_translation_vi": "Soliskin & \"Noxkin\"",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003396",
@@ -9886,7 +9886,6 @@
     "primary_key": "Quest_211850012_TakePhoto2ConditionDescription_211_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9896,8 +9895,9 @@
     "ai_reason": "",
     "source_en": "Take a photo with both Soliskin in frame (Adjust the time to 6:00-8:00 or 18:00-19:00)",
     "review_note": "",
-    "new_translation_vi": "Chụp ảnh cùng cả hai Soliskin trong khung hình (Điều chỉnh thời gian từ 6:00-8:00 hoặc 18:00-19:00)",
-    "translator_note": ""
+    "new_translation_vi": "Chụp ảnh có cả hai Soliskin trong khung hình (Điều chỉnh thời gian đến 6:00-8:00 hoặc 18:00-19:00)",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003397",
@@ -9946,7 +9946,7 @@
     "ai_reason": "",
     "source_en": "A man named Ham has invited you to participate in the Spacetrek Incubation Program...",
     "review_note": "",
-    "new_translation_vi": "Một người tên Ham đã mời cậu tham gia Chương trình Ươm tạo Spacetrek...",
+    "new_translation_vi": "Một người đàn ông tên Ham đã mời bạn tham gia Chương trình Ươm mầm Spacetrek...",
     "translator_note": ""
   },
   {
@@ -9971,7 +9971,7 @@
     "ai_reason": "",
     "source_en": "Spacetrek Incubation Program",
     "review_note": "",
-    "new_translation_vi": "Chương trình ấp trứng Spacetrek",
+    "new_translation_vi": "Chương trình Ươm mầm Spacetrek",
     "translator_note": ""
   },
   {
@@ -9986,7 +9986,6 @@
     "primary_key": "Quest_211850014_ChildQuestTip_211_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -9996,8 +9995,9 @@
     "ai_reason": "",
     "source_en": "Talk to Gardner",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Gardner",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Gardner",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003401",
@@ -10021,7 +10021,7 @@
     "ai_reason": "",
     "source_en": "Examine the area that is rich in plant life",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra khu vực tràn đầy sức sống thực vật",
+    "new_translation_vi": "Kiểm tra khu vực có nhiều thực vật",
     "translator_note": ""
   },
   {
@@ -10046,7 +10046,7 @@
     "ai_reason": "",
     "source_en": "Examine the other area that is rich in plant life",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra khu vực tràn đầy cây cối kia",
+    "new_translation_vi": "Kiểm tra khu vực khác có nhiều thực vật",
     "translator_note": ""
   },
   {
@@ -10071,7 +10071,7 @@
     "ai_reason": "",
     "source_en": "Use Projector - Geospider S4",
     "review_note": "",
-    "new_translation_vi": "Sử dụng Projector - Geospider S4",
+    "new_translation_vi": "Sử dụng Máy chiếu - Geospider S4",
     "translator_note": ""
   },
   {
@@ -10086,7 +10086,6 @@
     "primary_key": "Quest_211850014_ChildQuestTip_211_9",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10096,8 +10095,9 @@
     "ai_reason": "",
     "source_en": "Talk to Gardner",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Gardner",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Gardner",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003405",
@@ -10111,7 +10111,6 @@
     "primary_key": "Quest_211850014_QuestDesc_211_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10121,8 +10120,9 @@
     "ai_reason": "",
     "source_en": "Gardner's research findings seem to have unexpectedly gone missing...",
     "review_note": "",
-    "new_translation_vi": "Những phát hiện nghiên cứu của Gardner dường như đột nhiên biến mất một cách khó hiểu...",
-    "translator_note": ""
+    "new_translation_vi": "Kết quả nghiên cứu của Gardner dường như đã vô tình bị mất...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003406",
@@ -10146,7 +10146,7 @@
     "ai_reason": "",
     "source_en": "Follow up on the Division of Light Array Engineering's Research",
     "review_note": "",
-    "new_translation_vi": "Theo sát nghiên cứu của Cục Kỹ Thuật Mảng Light",
+    "new_translation_vi": "Theo dõi nghiên cứu của Bộ phận Kỹ thuật Mảng Ánh sáng",
     "translator_note": ""
   },
   {
@@ -10161,7 +10161,6 @@
     "primary_key": "Quest_211850015_ChildQuestTip_211_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10171,8 +10170,9 @@
     "ai_reason": "",
     "source_en": "Talk to Merwina",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Merwina",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Merwina",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003408",
@@ -10196,7 +10196,7 @@
     "ai_reason": "",
     "source_en": "Talk to the researcher studying the Dimmr Plains",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với nhà nghiên cứu đang khảo sát Dimmr Plains",
+    "new_translation_vi": "Trò chuyện với nhà nghiên cứu đang nghiên cứu Dimmr Plains",
     "translator_note": ""
   },
   {
@@ -10211,7 +10211,6 @@
     "primary_key": "Quest_211850015_ChildQuestTip_211_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10221,8 +10220,9 @@
     "ai_reason": "",
     "source_en": "Deliver the wild plant to Merwina",
     "review_note": "",
-    "new_translation_vi": "Đưa cây dại này cho Merwina đi.",
-    "translator_note": ""
+    "new_translation_vi": "Giao thực vật hoang dã cho Merwina",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003410",
@@ -10236,7 +10236,6 @@
     "primary_key": "Quest_211850015_QuestDesc_211_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10246,8 +10245,9 @@
     "ai_reason": "",
     "source_en": "Merwina appears to be running into quite a few setbacks while tending to the plants in the test plot...",
     "review_note": "",
-    "new_translation_vi": "Merwina dường như gặp khá nhiều trở ngại khi chăm sóc cây trồng ở khu thử nghiệm...",
-    "translator_note": ""
+    "new_translation_vi": "Merwina dường như đang gặp khá nhiều trở ngại khi chăm sóc cây cối trong khu vực thử nghiệm...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003411",
@@ -10271,7 +10271,7 @@
     "ai_reason": "",
     "source_en": "Follow up on the Division of Ecology Conservation's Research",
     "review_note": "",
-    "new_translation_vi": "Theo sát nghiên cứu của Cục Bảo Tồn Sinh Thái",
+    "new_translation_vi": "Theo dõi nghiên cứu của Bộ phận Bảo tồn Sinh thái",
     "translator_note": ""
   },
   {
@@ -10296,7 +10296,7 @@
     "ai_reason": "",
     "source_en": "Talk to the student",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với học sinh",
+    "new_translation_vi": "Trò chuyện với sinh viên",
     "translator_note": ""
   },
   {
@@ -10311,7 +10311,6 @@
     "primary_key": "Quest_211850016_QuestDesc_211_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10321,8 +10320,9 @@
     "ai_reason": "",
     "source_en": "A student from the Department of Voidmatters appears to have made a new discovery...",
     "review_note": "",
-    "new_translation_vi": "Một sinh viên Khoa Vật Chất Hư Không dường như vừa có phát hiện mới...",
-    "translator_note": ""
+    "new_translation_vi": "Một sinh viên từ Khoa Voidmatters dường như vừa có một khám phá mới...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003414",
@@ -10336,7 +10336,6 @@
     "primary_key": "Quest_211850016_QuestName_211_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10346,8 +10345,9 @@
     "ai_reason": "",
     "source_en": "Follow up on the Department of Voidmatters' Research",
     "review_note": "",
-    "new_translation_vi": "Theo sát nghiên cứu của Department Vật Chất Hư Không",
-    "translator_note": ""
+    "new_translation_vi": "Theo dõi nghiên cứu của Khoa Voidmatters",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003415",
@@ -10361,7 +10361,6 @@
     "primary_key": "Quest_211850017_ChildQuestTip_211_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10371,8 +10370,9 @@
     "ai_reason": "",
     "source_en": "Talk to the Roya student",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với học sinh Roya",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với sinh viên Roya",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003416",
@@ -10396,7 +10396,7 @@
     "ai_reason": "",
     "source_en": "Check the Spacetrek Explorer's condition",
     "review_note": "",
-    "new_translation_vi": "Kiểm tra tình trạng Spacetrek Explorer",
+    "new_translation_vi": "Kiểm tra tình trạng của Spacetrek Explorer",
     "translator_note": ""
   },
   {
@@ -10421,7 +10421,7 @@
     "ai_reason": "",
     "source_en": "Use Projector - Zip Zap to restore the Spacetrek Explorer",
     "review_note": "",
-    "new_translation_vi": "Sử dụng Projector - Zip Zap để khôi phục Spacetrek Explorer",
+    "new_translation_vi": "Sử dụng Máy chiếu - Zip Zap để khôi phục Spacetrek Explorer",
     "translator_note": ""
   },
   {
@@ -10436,7 +10436,6 @@
     "primary_key": "Quest_211850017_QuestDesc_211_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10446,8 +10445,9 @@
     "ai_reason": "",
     "source_en": "A Roya student seems to be having a hard time transporting her research equipment...",
     "review_note": "",
-    "new_translation_vi": "Một học sinh Roya dường như đang gặp khó khăn khi vận chuyển thiết bị nghiên cứu...",
-    "translator_note": ""
+    "new_translation_vi": "Một sinh viên Roya dường như đang gặp khó khăn trong việc vận chuyển thiết bị nghiên cứu...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003419",
@@ -10461,7 +10461,6 @@
     "primary_key": "Quest_211850017_QuestName_211_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -10471,8 +10470,9 @@
     "ai_reason": "",
     "source_en": "Follow up on the Roya Student's Research",
     "review_note": "",
-    "new_translation_vi": "Theo sát nghiên cứu của học sinh Roya",
-    "translator_note": ""
+    "new_translation_vi": "Theo dõi nghiên cứu của sinh viên Roya",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003420",
@@ -10496,7 +10496,7 @@
     "ai_reason": "",
     "source_en": "Talk to Ham",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Ham",
+    "new_translation_vi": "Trò chuyện với Ham",
     "translator_note": ""
   },
   {
@@ -10521,7 +10521,7 @@
     "ai_reason": "",
     "source_en": "Talk to Ham",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Ham",
+    "new_translation_vi": "Trò chuyện với Ham",
     "translator_note": ""
   },
   {
@@ -10546,7 +10546,7 @@
     "ai_reason": "",
     "source_en": "After helping the students complete their research, Ham wishes to express his gratitude to you.",
     "review_note": "",
-    "new_translation_vi": "Sau khi giúp các học viên hoàn thành nghiên cứu, Ham muốn bày tỏ lòng biết ơn đến cậu.",
+    "new_translation_vi": "Sau khi giúp các sinh viên hoàn thành nghiên cứu, Ham muốn bày tỏ lòng biết ơn với bạn.",
     "translator_note": ""
   },
   {
@@ -10571,7 +10571,7 @@
     "ai_reason": "",
     "source_en": "Spacetrek Incubation Aide",
     "review_note": "",
-    "new_translation_vi": "Trợ lý Ấp Trứng Spacetrek",
+    "new_translation_vi": "Trợ lý Chương trình Ươm mầm Spacetrek",
     "translator_note": ""
   },
   {
@@ -10596,7 +10596,7 @@
     "ai_reason": "",
     "source_en": "Talk to the man busy with the device",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với người đàn ông đang bận với thiết bị",
+    "new_translation_vi": "Trò chuyện với người đàn ông đang bận rộn với thiết bị",
     "translator_note": ""
   },
   {
@@ -10621,7 +10621,7 @@
     "ai_reason": "",
     "source_en": "Head to the first location",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm đầu tiên",
+    "new_translation_vi": "Đi đến địa điểm đầu tiên",
     "translator_note": ""
   },
   {
@@ -10646,7 +10646,7 @@
     "ai_reason": "",
     "source_en": "Clear the second location of Voidmatter contamination",
     "review_note": "",
-    "new_translation_vi": "Dọn sạch khu vực thứ hai nhiễm Vật Chất Hư Không",
+    "new_translation_vi": "Loại bỏ ô nhiễm Voidmatter tại địa điểm thứ hai",
     "translator_note": ""
   },
   {
@@ -10671,7 +10671,7 @@
     "ai_reason": "",
     "source_en": "Clear the first location of Voidmatter contamination",
     "review_note": "",
-    "new_translation_vi": "Dọn sạch Khu Vực Đầu Tiên khỏi ô nhiễm Vật Chất Hư Không",
+    "new_translation_vi": "Loại bỏ ô nhiễm Voidmatter tại địa điểm đầu tiên",
     "translator_note": ""
   },
   {
@@ -10696,7 +10696,7 @@
     "ai_reason": "",
     "source_en": "Head to the second location",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm thứ hai",
+    "new_translation_vi": "Đi đến địa điểm thứ hai",
     "translator_note": ""
   },
   {
@@ -10721,7 +10721,7 @@
     "ai_reason": "",
     "source_en": "Head to the third location",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm thứ ba",
+    "new_translation_vi": "Đi đến địa điểm thứ ba",
     "translator_note": ""
   },
   {
@@ -10746,7 +10746,7 @@
     "ai_reason": "",
     "source_en": "Clear the third location of Voidmatter contamination",
     "review_note": "",
-    "new_translation_vi": "Dọn sạch khu vực thứ ba bị nhiễm Voidmatter",
+    "new_translation_vi": "Loại bỏ ô nhiễm Voidmatter tại địa điểm thứ ba",
     "translator_note": ""
   },
   {
@@ -10771,7 +10771,7 @@
     "ai_reason": "",
     "source_en": "Talk to Pierce",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Pierce",
+    "new_translation_vi": "Trò chuyện với Pierce",
     "translator_note": ""
   },
   {
@@ -10821,7 +10821,7 @@
     "ai_reason": "",
     "source_en": "Defeat the emerging Tacet Discords",
     "review_note": "",
-    "new_translation_vi": "Đánh bại các Tacet Discord mới xuất hiện",
+    "new_translation_vi": "Đánh bại các Tacet Discord đang xuất hiện",
     "translator_note": ""
   },
   {
@@ -10846,7 +10846,7 @@
     "ai_reason": "",
     "source_en": "Head to the Dimmr Plains Resonance Beacon and look around for the one who sent the WavesLine message",
     "review_note": "",
-    "new_translation_vi": "Đến Điểm Cộng hưởng Dimmr Plains và tìm kiếm người đã gửi tin nhắn WavesLine",
+    "new_translation_vi": "Đi đến Resonance Beacon tại Dimmr Plains và tìm người đã gửi tin nhắn WavesLine",
     "translator_note": ""
   },
   {
@@ -10896,7 +10896,7 @@
     "ai_reason": "",
     "source_en": "Two days ago, Pierce heard the voice of his late friend coming from his FCR... Pierce wants to know, once and for all, whether the voice was merely his hallucination...",
     "review_note": "",
-    "new_translation_vi": "Hai ngày trước, Pierce nghe thấy giọng nói của người bạn quá cố từ FCR của mình... Cậu ấy muốn biết, một lần cho xong, liệu đó chỉ là ảo giác của mình hay không...",
+    "new_translation_vi": "Hai ngày trước, Pierce nghe thấy giọng nói của người bạn quá cố phát ra từ FCR của mình... Pierce muốn biết rõ liệu giọng nói đó chỉ là ảo giác hay không...",
     "translator_note": ""
   },
   {
@@ -10921,7 +10921,7 @@
     "ai_reason": "",
     "source_en": "Sound of Voidmatter",
     "review_note": "",
-    "new_translation_vi": "Âm Thanh Vật Chất Hư Không",
+    "new_translation_vi": "Âm thanh của Voidmatter",
     "translator_note": ""
   },
   {
@@ -10971,7 +10971,7 @@
     "ai_reason": "",
     "source_en": "Reynard has sent a message to let you know what happened after that \"scavenger\" incident...",
     "review_note": "",
-    "new_translation_vi": "Reynard gửi tin nhắn cho cậu để kể chuyện xảy ra sau vụ \"kẻ nhặt rác\" đó...",
+    "new_translation_vi": "Reynard đã gửi tin nhắn để cho bạn biết chuyện gì đã xảy ra sau vụ \"kẻ nhặt rác\" đó...",
     "translator_note": ""
   },
   {
@@ -10996,7 +10996,7 @@
     "ai_reason": "",
     "source_en": "Message Stranded in Shimmer: Epilogue",
     "review_note": "",
-    "new_translation_vi": "Tin Nhắn Mắc Kẹt Trong Shimmer: Hồi Kết",
+    "new_translation_vi": "Tin nhắn bị mắc kẹt ở Shimmer: Hồi kết",
     "translator_note": ""
   },
   {
@@ -11021,7 +11021,7 @@
     "ai_reason": "",
     "source_en": "Visit the first victim",
     "review_note": "",
-    "new_translation_vi": "Thăm nạn nhân đầu tiên",
+    "new_translation_vi": "Ghé thăm nạn nhân đầu tiên",
     "translator_note": ""
   },
   {
@@ -11046,7 +11046,7 @@
     "ai_reason": "",
     "source_en": "(Optional) Talk to Reynard",
     "review_note": "",
-    "new_translation_vi": "(Tùy chọn) Talk với Reynard",
+    "new_translation_vi": "(Tùy chọn) Trò chuyện với Reynard",
     "translator_note": ""
   },
   {
@@ -11096,7 +11096,7 @@
     "ai_reason": "",
     "source_en": "Head to the place specified in WavesLine",
     "review_note": "",
-    "new_translation_vi": "Đến địa điểm được ghi trong WavesLine đi",
+    "new_translation_vi": "Đến địa điểm được chỉ định trong WavesLine",
     "translator_note": ""
   },
   {
@@ -11111,7 +11111,6 @@
     "primary_key": "Quest_211850007_ChildQuestTip_194_10",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -11122,7 +11121,8 @@
     "source_en": "Find Papani",
     "review_note": "",
     "new_translation_vi": "Tìm Papani",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003446",
@@ -11146,7 +11146,7 @@
     "ai_reason": "",
     "source_en": "Use Projector to break the ice block",
     "review_note": "",
-    "new_translation_vi": "Sử dụng Máy chiếu để phá khối băng",
+    "new_translation_vi": "Sử dụng Projector để phá vỡ khối băng",
     "translator_note": ""
   },
   {
@@ -11161,7 +11161,6 @@
     "primary_key": "Quest_211850007_ChildQuestTip_194_12",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -11171,8 +11170,9 @@
     "ai_reason": "",
     "source_en": "Talk to Papani",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Papani",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Papani",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003448",
@@ -11196,7 +11196,7 @@
     "ai_reason": "",
     "source_en": "Visit the second victim",
     "review_note": "",
-    "new_translation_vi": "Thăm nạn nhân thứ hai",
+    "new_translation_vi": "Ghé thăm nạn nhân thứ hai",
     "translator_note": ""
   },
   {
@@ -11246,7 +11246,7 @@
     "ai_reason": "",
     "source_en": "Talk to the support staff",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với nhân viên hỗ trợ",
+    "new_translation_vi": "Trò chuyện với nhân viên hỗ trợ",
     "translator_note": ""
   },
   {
@@ -11296,7 +11296,7 @@
     "ai_reason": "",
     "source_en": "Defeat the rampaging Exoswarm",
     "review_note": "",
-    "new_translation_vi": "Đánh bại Exoswarm đang hoành hành",
+    "new_translation_vi": "Tiêu diệt Exoswarm đang nổi điên",
     "translator_note": ""
   },
   {
@@ -11346,7 +11346,7 @@
     "ai_reason": "",
     "source_en": "Talk to Reynard about Joss",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Reynard về Joss",
+    "new_translation_vi": "Trò chuyện với Reynard về Joss",
     "translator_note": ""
   },
   {
@@ -11371,7 +11371,7 @@
     "ai_reason": "",
     "source_en": "Wait for the contact at the arranged place and right time",
     "review_note": "",
-    "new_translation_vi": "Chờ người liên lạc tại địa điểm và giờ đã hẹn",
+    "new_translation_vi": "Đợi người liên lạc tại địa điểm và thời gian đã hẹn",
     "translator_note": ""
   },
   {
@@ -11396,7 +11396,7 @@
     "ai_reason": "",
     "source_en": "Catch up to the Outcasts",
     "review_note": "",
-    "new_translation_vi": "Bắt kịp nhóm Outcasts",
+    "new_translation_vi": "Đuổi theo Outcasts",
     "translator_note": ""
   },
   {
@@ -11421,7 +11421,7 @@
     "ai_reason": "",
     "source_en": "Send an entrapment text message.",
     "review_note": "",
-    "new_translation_vi": "Gửi tin nhắn nhử mồi.",
+    "new_translation_vi": "Gửi tin nhắn dụ dỗ",
     "translator_note": ""
   },
   {
@@ -11446,7 +11446,7 @@
     "ai_reason": "",
     "source_en": "Wait until the meeting time tomorrow",
     "review_note": "",
-    "new_translation_vi": "Khoan đến giờ họp ngày mai",
+    "new_translation_vi": "Đợi đến giờ hẹn vào ngày mai",
     "translator_note": ""
   },
   {
@@ -11471,7 +11471,7 @@
     "ai_reason": "",
     "source_en": "Follow the Outcasts to their lair",
     "review_note": "",
-    "new_translation_vi": "Đi theo bọn Kẻ Bị Ruồng Bỏ về hang ổ của chúng",
+    "new_translation_vi": "Theo chân Outcasts đến hang ổ của chúng",
     "translator_note": ""
   },
   {
@@ -11496,7 +11496,7 @@
     "ai_reason": "",
     "source_en": "Defeat the Outcasts",
     "review_note": "",
-    "new_translation_vi": "Đánh bại những kẻ bị ruồng bỏ",
+    "new_translation_vi": "Tiêu diệt Outcasts",
     "translator_note": ""
   },
   {
@@ -11536,7 +11536,6 @@
     "primary_key": "Quest_211850007_ChildQuestTip_194_28",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -11546,8 +11545,9 @@
     "ai_reason": "",
     "source_en": "Head to the meeting place with Mojel",
     "review_note": "",
-    "new_translation_vi": "Đến điểm hẹn với Mojel",
-    "translator_note": ""
+    "new_translation_vi": "Đến địa điểm gặp mặt với Mojel",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003463",
@@ -11561,7 +11561,6 @@
     "primary_key": "Quest_211850007_ChildQuestTip_194_29",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -11571,8 +11570,9 @@
     "ai_reason": "",
     "source_en": "Head to the meeting place with Mojel",
     "review_note": "",
-    "new_translation_vi": "Đến điểm hẹn với Mojel",
-    "translator_note": ""
+    "new_translation_vi": "Đến địa điểm gặp mặt với Mojel",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003464",
@@ -11596,7 +11596,7 @@
     "ai_reason": "",
     "source_en": "Use Sensor to find the hidden Terminal",
     "review_note": "",
-    "new_translation_vi": "Dùng Sensor để tìm Terminal ẩn",
+    "new_translation_vi": "Sử dụng Sensor để tìm Terminal ẩn",
     "translator_note": ""
   },
   {
@@ -11621,7 +11621,7 @@
     "ai_reason": "",
     "source_en": "Use Sensor to find traces of the Outcasts",
     "review_note": "",
-    "new_translation_vi": "Dùng Sensor để tìm dấu vết của nhóm Outcasts",
+    "new_translation_vi": "Sử dụng Sensor để tìm dấu vết của Outcasts",
     "translator_note": ""
   },
   {
@@ -11646,7 +11646,7 @@
     "ai_reason": "",
     "source_en": "(Optional) Talk to Reynard",
     "review_note": "",
-    "new_translation_vi": "(Tùy chọn) Talk với Reynard",
+    "new_translation_vi": "(Tùy chọn) Trò chuyện với Reynard",
     "translator_note": ""
   },
   {
@@ -11696,7 +11696,7 @@
     "ai_reason": "",
     "source_en": "Talk to the Shepherd",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Shepherd",
+    "new_translation_vi": "Trò chuyện với Shepherd",
     "translator_note": ""
   },
   {
@@ -11721,7 +11721,7 @@
     "ai_reason": "",
     "source_en": "Talk to Reynard",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Reynard",
+    "new_translation_vi": "Trò chuyện với Reynard",
     "translator_note": ""
   },
   {
@@ -11746,7 +11746,7 @@
     "ai_reason": "",
     "source_en": "Talk to the support staff",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với nhân viên hỗ trợ",
+    "new_translation_vi": "Trò chuyện với nhân viên hỗ trợ",
     "translator_note": ""
   },
   {
@@ -11786,7 +11786,6 @@
     "primary_key": "Quest_211850007_InteractContent_194_5",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -11796,8 +11795,9 @@
     "ai_reason": "",
     "source_en": "Talk to Mojel",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Mojel",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Mojel",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003473",
@@ -11811,7 +11811,6 @@
     "primary_key": "Quest_211850007_InteractContent_194_6",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -11821,8 +11820,9 @@
     "ai_reason": "",
     "source_en": "Talk to Mojel",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Mojel",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Mojel",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003474",
@@ -11836,7 +11836,6 @@
     "primary_key": "Quest_211850007_QuestDesc_211_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -11846,8 +11845,9 @@
     "ai_reason": "",
     "source_en": "Reynard, a student of the Department of Voidmatters, is stranded in a tree atop a cliff and is desperately awaiting rescue...",
     "review_note": "",
-    "new_translation_vi": "Reynard, một sinh viên Khoa Vật Chất Hư Không, bị mắc kẹt trên cây ở vách đá và đang chờ cứu hộ trong tuyệt vọng...",
-    "translator_note": ""
+    "new_translation_vi": "Reynard, sinh viên Khoa Voidmatters, đang bị mắc kẹt trên cây trên đỉnh vách đá và đang tuyệt vọng chờ được giải cứu...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003475",
@@ -11871,7 +11871,7 @@
     "ai_reason": "",
     "source_en": "Message Stranded in Shimmer",
     "review_note": "",
-    "new_translation_vi": "Tin Nhắn Mắc Kẹt Trong Shimmer",
+    "new_translation_vi": "Tin nhắn mắc kẹt tại Shimmer",
     "translator_note": ""
   },
   {
@@ -11921,7 +11921,7 @@
     "ai_reason": "",
     "source_en": "Arrive at the Dimmr Plains Shaft",
     "review_note": "",
-    "new_translation_vi": "Đến Hầm Dimmr Plains",
+    "new_translation_vi": "Đến Dimmr Plains Shaft",
     "translator_note": ""
   },
   {
@@ -11936,7 +11936,6 @@
     "primary_key": "Quest_211850000_ChildQuestTip_211_3",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -11946,8 +11945,9 @@
     "ai_reason": "",
     "source_en": "Talk to Zahira",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Zahira",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Zahira",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003479",
@@ -11971,7 +11971,7 @@
     "ai_reason": "",
     "source_en": "Take Babu back to its Shepherdess",
     "review_note": "",
-    "new_translation_vi": "Đưa Babu về với Người Chăn Cừu của nó",
+    "new_translation_vi": "Đưa Babu trở về với Shepherdess của nó",
     "translator_note": ""
   },
   {
@@ -11986,7 +11986,6 @@
     "primary_key": "Quest_211850000_ChildQuestTip_211_7",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -11997,7 +11996,8 @@
     "source_en": "Chat with Zahira (Optional)",
     "review_note": "",
     "new_translation_vi": "Trò chuyện với Zahira (Tùy chọn)",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003481",
@@ -12021,7 +12021,7 @@
     "ai_reason": "",
     "source_en": "Talk to I.R.I.S.",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với I.R.I.S.",
+    "new_translation_vi": "Trò chuyện với I.R.I.S.",
     "translator_note": ""
   },
   {
@@ -12046,7 +12046,7 @@
     "ai_reason": "",
     "source_en": "Go to the Base Camp",
     "review_note": "",
-    "new_translation_vi": "Đến Trại Cơ bản",
+    "new_translation_vi": "Đến Base Camp",
     "translator_note": ""
   },
   {
@@ -12071,7 +12071,7 @@
     "ai_reason": "",
     "source_en": "Go to the Base Camp",
     "review_note": "",
-    "new_translation_vi": "Đến Trại Cơ bản",
+    "new_translation_vi": "Đến Base Camp",
     "translator_note": ""
   },
   {
@@ -12086,7 +12086,6 @@
     "primary_key": "Quest_211850000_QuestDesc_211_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -12096,8 +12095,9 @@
     "ai_reason": "",
     "source_en": "Startorch Academy and the Roya Tribe have joined forces to establish a foothold on the Dimmr Plains, launching a joint scientific expedition into this long-isolated realm. A message from I.R.I.S. invites you to join the inaugural expedition...",
     "review_note": "",
-    "new_translation_vi": "Startorch Academy và Bộ tộc Roya đã hợp tác thiết lập căn cứ tại Dimmr Plains, khởi động chuyến thám hiểm khoa học chung vào vùng đất cô lập từ lâu này. Một thông điệp từ I.R.I.S. mời cậu tham gia chuyến thám hiểm đầu tiên...",
-    "translator_note": ""
+    "new_translation_vi": "Học viện Startorch và Bộ tộc Roya đã hợp tác để thiết lập một cứ điểm tại Dimmr Plains, khởi động chuyến thám hiểm khoa học chung vào vùng đất bị cô lập từ lâu này. Một tin nhắn từ I.R.I.S. mời bạn tham gia chuyến thám hiểm đầu tiên...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003485",
@@ -12121,7 +12121,7 @@
     "ai_reason": "",
     "source_en": "Into the Land of Paradox!",
     "review_note": "",
-    "new_translation_vi": "Vào Land Paradox!",
+    "new_translation_vi": "Tiến vào Vùng đất Nghịch lý!",
     "translator_note": ""
   },
   {
@@ -12136,7 +12136,6 @@
     "primary_key": "Quest_211850001_ChildQuestTip_211_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -12147,7 +12146,8 @@
     "source_en": "Read Linnea's WavesLine message",
     "review_note": "",
     "new_translation_vi": "Đọc tin nhắn WavesLine của Linnea",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003487",
@@ -12161,7 +12161,6 @@
     "primary_key": "Quest_211850001_ChildQuestTip_211_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -12171,8 +12170,9 @@
     "ai_reason": "",
     "source_en": "Talk to Linnea",
     "review_note": "",
-    "new_translation_vi": "Nói chuyện với Linnea",
-    "translator_note": ""
+    "new_translation_vi": "Trò chuyện với Linnea",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003488",
@@ -12236,7 +12236,6 @@
     "primary_key": "Quest_211850001_ChildQuestTip_211_5",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -12247,7 +12246,8 @@
     "source_en": "Interview Budee and Professor Maeve",
     "review_note": "",
     "new_translation_vi": "Phỏng vấn Budee và Giáo sư Maeve",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003491",
@@ -12286,7 +12286,6 @@
     "primary_key": "Quest_211850001_ChildQuestTip_211_9",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -12297,7 +12296,8 @@
     "source_en": "Help Linnea take a photo",
     "review_note": "",
     "new_translation_vi": "Giúp Linnea chụp ảnh",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003493",
@@ -12321,7 +12321,7 @@
     "ai_reason": "",
     "source_en": "Say goodbye",
     "review_note": "",
-    "new_translation_vi": "Chào tạm biệt",
+    "new_translation_vi": "Nói lời tạm biệt",
     "translator_note": ""
   },
   {
@@ -12336,7 +12336,6 @@
     "primary_key": "Quest_211850001_QuestDesc_211_1",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -12346,8 +12345,9 @@
     "ai_reason": "",
     "source_en": "Linnea the Shepherdess has drafted her plans for the future and wishes to seek advice from someone of great wisdom. She has invited you to...",
     "review_note": "",
-    "new_translation_vi": "Linnea Người Chăn Cừu đã phác thảo kế hoạch tương lai và muốn tìm lời khuyên từ một người uyên bác. Cô ấy mời ngươi đến...",
-    "translator_note": ""
+    "new_translation_vi": "Linnea Shepherdess đã soạn thảo kế hoạch cho tương lai và muốn tìm kiếm lời khuyên từ một người thông thái. Cô ấy đã mời bạn đến...",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003495",
@@ -12371,7 +12371,7 @@
     "ai_reason": "",
     "source_en": "Tomorrow Is As Far As the Shimmer",
     "review_note": "",
-    "new_translation_vi": "Ngày Mai Chỉ Là Ánh Sáng Mơ Hồ",
+    "new_translation_vi": "Ngày mai xa như Shimmer",
     "translator_note": ""
   },
   {
@@ -12386,7 +12386,6 @@
     "primary_key": "Quest_211850001_TakePhoto2ConditionDescription_44_2",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -12396,8 +12395,9 @@
     "ai_reason": "",
     "source_en": "Take a photo of Linnea, Banana, and the Geospider",
     "review_note": "",
-    "new_translation_vi": "Chụp ảnh Linnea, Banana và Geospider nào",
-    "translator_note": ""
+    "new_translation_vi": "Chụp ảnh Linnea, Banana và Geospider",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "QUEST_0003497",
@@ -12446,7 +12446,7 @@
     "ai_reason": "",
     "source_en": "Reach the finish line within the 30-second time limit",
     "review_note": "",
-    "new_translation_vi": "Đến đích trong giới hạn thời gian 30 giây",
+    "new_translation_vi": "Đến đích trong giới hạn 30 giây",
     "translator_note": ""
   },
   {
@@ -12471,7 +12471,7 @@
     "ai_reason": "",
     "source_en": "Defeat the enemies within the time limit",
     "review_note": "",
-    "new_translation_vi": "Hãy đánh bại kẻ địch trước khi hết thời gian",
+    "new_translation_vi": "Tiêu diệt kẻ địch trong thời gian giới hạn",
     "translator_note": ""
   },
   {
@@ -12496,7 +12496,7 @@
     "ai_reason": "",
     "source_en": "Defeat the enemies within the time limit",
     "review_note": "",
-    "new_translation_vi": "Hãy đánh bại kẻ địch trước khi hết thời gian",
+    "new_translation_vi": "Tiêu diệt kẻ địch trong thời gian giới hạn",
     "translator_note": ""
   }
 ]

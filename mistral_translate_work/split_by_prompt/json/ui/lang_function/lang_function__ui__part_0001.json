@@ -11,7 +11,6 @@
     "primary_key": "1",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -21,8 +20,9 @@
     "ai_reason": "",
     "source_en": "Resonators",
     "review_note": "",
-    "new_translation_vi": "Resonator",
-    "translator_note": ""
+    "new_translation_vi": "Resonators",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000314",
@@ -36,7 +36,6 @@
     "primary_key": "2",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -46,8 +45,9 @@
     "ai_reason": "",
     "source_en": "Backpack",
     "review_note": "",
-    "new_translation_vi": "Hành trang",
-    "translator_note": ""
+    "new_translation_vi": "Ba lô",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000315",
@@ -61,7 +61,6 @@
     "primary_key": "3",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -71,8 +70,9 @@
     "ai_reason": "",
     "source_en": "Resonance Terminal",
     "review_note": "",
-    "new_translation_vi": "Thiết Bị Đầu Cuối Cộng Hưởng",
-    "translator_note": ""
+    "new_translation_vi": "Resonance Terminal",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000316",
@@ -86,7 +86,6 @@
     "primary_key": "4",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -97,7 +96,8 @@
     "source_en": "Missions",
     "review_note": "",
     "new_translation_vi": "Nhiệm vụ",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000317",
@@ -111,7 +111,6 @@
     "primary_key": "7",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -121,8 +120,9 @@
     "ai_reason": "",
     "source_en": "Team",
     "review_note": "",
-    "new_translation_vi": "Đội",
-    "translator_note": ""
+    "new_translation_vi": "Đội hình",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000318",
@@ -136,7 +136,6 @@
     "primary_key": "9",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -147,7 +146,8 @@
     "source_en": "Modulation",
     "review_note": "",
     "new_translation_vi": "Modulation",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000319",
@@ -161,7 +161,6 @@
     "primary_key": "10",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -171,8 +170,9 @@
     "ai_reason": "",
     "source_en": "Joint Exchange",
     "review_note": "",
-    "new_translation_vi": "Đổi chung",
-    "translator_note": ""
+    "new_translation_vi": "Trao đổi Chung (or Trao đổi Liên kết). In game context, \"Joint Trao đổi\" usually refers to a specific system. Let's use \"Trao đổi Chung\".",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000320",
@@ -186,7 +186,6 @@
     "primary_key": "11",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -196,8 +195,9 @@
     "ai_reason": "",
     "source_en": "Friends",
     "review_note": "",
-    "new_translation_vi": "Bạn bè",
-    "translator_note": ""
+    "new_translation_vi": "Bạn bè.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000321",
@@ -211,7 +211,6 @@
     "primary_key": "13",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -221,8 +220,9 @@
     "ai_reason": "",
     "source_en": "Achievements",
     "review_note": "",
-    "new_translation_vi": "Thành tựu",
-    "translator_note": ""
+    "new_translation_vi": "Thành tựu.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000322",
@@ -236,7 +236,6 @@
     "primary_key": "14",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -246,8 +245,9 @@
     "ai_reason": "",
     "source_en": "Gallery",
     "review_note": "",
-    "new_translation_vi": "Bộ Sưu Tập",
-    "translator_note": ""
+    "new_translation_vi": "Thư viện (or Bộ sưu tập). \"Gallery\" in games is often \"Thư viện\" or \"Bộ sưu tập\". Let's use \"Thư viện\".",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000323",
@@ -261,7 +261,6 @@
     "primary_key": "15",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -271,8 +270,9 @@
     "ai_reason": "",
     "source_en": "Map",
     "review_note": "",
-    "new_translation_vi": "Bản Đồ",
-    "translator_note": ""
+    "new_translation_vi": "Bản đồ.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000324",
@@ -286,7 +286,6 @@
     "primary_key": "17",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -296,8 +295,9 @@
     "ai_reason": "",
     "source_en": "Resonance Record",
     "review_note": "",
-    "new_translation_vi": "Biên Bản Cộng Hưởng",
-    "translator_note": ""
+    "new_translation_vi": "Bản ghi Cộng hưởng.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000325",
@@ -311,7 +311,6 @@
     "primary_key": "18",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -321,8 +320,9 @@
     "ai_reason": "",
     "source_en": "Exploration Tools",
     "review_note": "",
-    "new_translation_vi": "Dụng Cụ Thám Hiểm",
-    "translator_note": ""
+    "new_translation_vi": "Exploration Tools",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000326",
@@ -336,7 +336,6 @@
     "primary_key": "19",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -346,8 +345,9 @@
     "ai_reason": "",
     "source_en": "Feedback",
     "review_note": "",
-    "new_translation_vi": "Phản hồi",
-    "translator_note": ""
+    "new_translation_vi": "Phản hồi.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000327",
@@ -361,7 +361,6 @@
     "primary_key": "20",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -371,8 +370,9 @@
     "ai_reason": "",
     "source_en": "Forces",
     "review_note": "",
-    "new_translation_vi": "Lực lượng",
-    "translator_note": ""
+    "new_translation_vi": "Lực lượng.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000328",
@@ -386,7 +386,6 @@
     "primary_key": "21",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -396,8 +395,9 @@
     "ai_reason": "",
     "source_en": "Star Align",
     "review_note": "",
-    "new_translation_vi": "Sao Đồng Tâm",
-    "translator_note": ""
+    "new_translation_vi": "Tinh Căn (or Sắp xếp Sao). \"Star Align\" sounds like a constellation/alignment system. \"Tinh Căn\" is a common translation for this type of fantasy term.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000329",
@@ -411,7 +411,6 @@
     "primary_key": "22",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -421,8 +420,9 @@
     "ai_reason": "",
     "source_en": "Database",
     "review_note": "",
-    "new_translation_vi": "Cơ sở dữ liệu",
-    "translator_note": ""
+    "new_translation_vi": "Cơ sở dữ liệu.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000330",
@@ -436,7 +436,6 @@
     "primary_key": "23",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -446,8 +445,9 @@
     "ai_reason": "",
     "source_en": "Gallery",
     "review_note": "",
-    "new_translation_vi": "Bộ Sưu Tập",
-    "translator_note": ""
+    "new_translation_vi": "Thư viện.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000331",
@@ -461,7 +461,6 @@
     "primary_key": "3",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -472,7 +471,8 @@
     "source_en": "Modulation",
     "review_note": "",
     "new_translation_vi": "Modulation",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000332",
@@ -486,7 +486,6 @@
     "primary_key": "4",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -496,8 +495,9 @@
     "ai_reason": "",
     "source_en": "Modulation will allow you to resonate with different Resonators and Weapons. It's an efficient way for collecting powerful weapons and meeting with reliable allies.",
     "review_note": "",
-    "new_translation_vi": "Điều chế giúp bạn cộng hưởng với nhiều Resonator và Vũ khí khác nhau. Đây là cách hiệu quả để thu thập vũ khí mạnh và gặp gỡ đồng minh đáng tin cậy.",
-    "translator_note": ""
+    "new_translation_vi": "Điều chỉnh sẽ cho phép bạn cộng hưởng với các Resonator và Vũ khí khác nhau. Đây là một cách hiệu quả để thu thập các vũ khí mạnh mẽ và gặp gỡ những đồng minh đáng tin cậy.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000333",
@@ -511,7 +511,6 @@
     "primary_key": "5",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -521,8 +520,9 @@
     "ai_reason": "",
     "source_en": "Co-op",
     "review_note": "",
-    "new_translation_vi": "Hợp tác",
-    "translator_note": ""
+    "new_translation_vi": "Co-op (Keep as is or \"Chơi cùng bạn bè\", but usually Co-op is kept in gaming UI). Let's use \"Co-op\".",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000334",
@@ -536,7 +536,6 @@
     "primary_key": "6",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -546,8 +545,9 @@
     "ai_reason": "",
     "source_en": "Co-op mode will allow you meet with other Rovers. Kindness may lead you to precious friendship.",
     "review_note": "",
-    "new_translation_vi": "Chế độ Hợp tác cho phép bạn gặp gỡ các Vận Mệnh Giả khác. Sự tử tế có thể mang đến những tình bạn quý giá.",
-    "translator_note": ""
+    "new_translation_vi": "Chế độ Co-op sẽ cho phép bạn gặp gỡ các Rover khác. Sự tử tế có thể dẫn lối bạn đến những tình bạn quý giá.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000335",
@@ -561,7 +561,6 @@
     "primary_key": "7",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -571,8 +570,9 @@
     "ai_reason": "",
     "source_en": "Resonance Record",
     "review_note": "",
-    "new_translation_vi": "Biên Bản Cộng Hưởng",
-    "translator_note": ""
+    "new_translation_vi": "Bản ghi Cộng hưởng.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000336",
@@ -586,7 +586,6 @@
     "primary_key": "8",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -596,8 +595,9 @@
     "ai_reason": "",
     "source_en": "Resonance Terminal was installed with module of Tacet Discords, Mutant Organism and Tacet Fields. Using them will allow you to locate them quickly in the wilds.",
     "review_note": "",
-    "new_translation_vi": "Thiết Bị Đầu Cuối Cộng Hưởng được lắp đặt mô-đun của Tacet Discord, Sinh Vật Đột Biến và Tổ Tacet. Sử dụng chúng sẽ giúp bạn nhanh chóng xác định vị trí của chúng ngoài hoang dã.",
-    "translator_note": ""
+    "new_translation_vi": "Thiết bị Cộng hưởng đã được cài đặt các mô-đun về Tacet Discord, Sinh vật Đột biến và Tacet Field. Sử dụng chúng sẽ cho phép bạn định vị chúng nhanh chóng trong thế giới hoang dã.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000337",
@@ -611,7 +611,6 @@
     "primary_key": "9",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -621,8 +620,9 @@
     "ai_reason": "",
     "source_en": "Solo Record",
     "review_note": "",
-    "new_translation_vi": "Kỷ Lục Solo",
-    "translator_note": ""
+    "new_translation_vi": "Bản ghi Đơn độc.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000338",
@@ -636,7 +636,6 @@
     "primary_key": "10",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -646,8 +645,9 @@
     "ai_reason": "",
     "source_en": "You can experience special story of Resonators in Solo Record.",
     "review_note": "",
-    "new_translation_vi": "Trải nghiệm câu chuyện đặc biệt của Resonator trong Bản Ghi Đơn.",
-    "translator_note": ""
+    "new_translation_vi": "Bạn có thể trải nghiệm câu chuyện đặc biệt của các Resonator trong Bản ghi Đơn độc.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000339",
@@ -661,7 +661,6 @@
     "primary_key": "11",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -671,8 +670,9 @@
     "ai_reason": "",
     "source_en": "Exploration Tools",
     "review_note": "",
-    "new_translation_vi": "Dụng Cụ Thám Hiểm",
-    "translator_note": ""
+    "new_translation_vi": "Exploration Tools",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000340",
@@ -686,7 +686,6 @@
     "primary_key": "12",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -696,8 +695,9 @@
     "ai_reason": "",
     "source_en": "Exploration tools installed in Resonance Terminal. They're flexible for dealing with various situation.",
     "review_note": "",
-    "new_translation_vi": "Công cụ thám hiểm tích hợp trong Thiết bị đầu cuối Cộng Hưởng. Linh hoạt xử lý nhiều tình huống.",
-    "translator_note": ""
+    "new_translation_vi": "Các công cụ thám hiểm được cài đặt trong Thiết bị Cộng hưởng. Chúng linh hoạt trong việc xử lý nhiều tình huống khác nhau.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000341",
@@ -711,7 +711,6 @@
     "primary_key": "13",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -721,8 +720,9 @@
     "ai_reason": "",
     "source_en": "Progressing Base",
     "review_note": "",
-    "new_translation_vi": "Căn Cứ Đang Phát Triển",
-    "translator_note": ""
+    "new_translation_vi": "Progressing Base",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000342",
@@ -736,7 +736,6 @@
     "primary_key": "14",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -746,8 +745,9 @@
     "ai_reason": "",
     "source_en": "Pioneer Association created this Ambience imitated from the well of Zero Point Research Station. It was used to train and test the Resonators before they enter the Zero Point Research Station.",
     "review_note": "",
-    "new_translation_vi": "Hiệp Hội Tiên Phong tạo ra Bầu Không Khí này dựa trên giếng của Trạm Nghiên Cứu Điểm Không. Nó được dùng để huấn luyện và thử nghiệm Resonator trước khi họ tiến vào Trạm Nghiên Cứu Điểm Không.",
-    "translator_note": ""
+    "new_translation_vi": "Hiệp hội Tiên phong đã tạo ra Môi trường này mô phỏng theo giếng của Trạm Nghiên cứu Zero Point. Nó được sử dụng để huấn luyện và kiểm tra các Resonator trước khi họ tiến vào Trạm Nghiên cứu Zero Point.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000343",
@@ -761,7 +761,6 @@
     "primary_key": "15",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -771,8 +770,9 @@
     "ai_reason": "",
     "source_en": "Zero Point Research Station",
     "review_note": "",
-    "new_translation_vi": "Trạm Nghiên cứu Điểm Không",
-    "translator_note": ""
+    "new_translation_vi": "Zero Point Research Station",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000344",
@@ -786,7 +786,6 @@
     "primary_key": "16",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -796,8 +795,9 @@
     "ai_reason": "",
     "source_en": "Large-scale underground experiment center built before the Lament. The well below it attain the depth reaching the mohoroviic discontinuity. Secrets and unknown knowledge await you there.",
     "review_note": "",
-    "new_translation_vi": "Trung tâm thí nghiệm ngầm quy mô lớn được xây dựng trước Đại Than Vãn. Giếng bên dưới đạt độ sâu tới ranh giới Moho. Những bí mật và tri thức chưa biết đang chờ bạn ở đó.",
-    "translator_note": ""
+    "new_translation_vi": "Trung tâm thí nghiệm ngầm quy mô lớn được xây dựng trước thời kỳ Lament. Giếng bên dưới nó đạt đến độ sâu chạm tới ranh giới Mohorovičić. Những bí mật và kiến thức chưa biết đang chờ đón bạn tại đó.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000345",
@@ -811,7 +811,6 @@
     "primary_key": "17",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -822,7 +821,8 @@
     "source_en": "Tacet Field",
     "review_note": "",
     "new_translation_vi": "Tacet Field",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000346",
@@ -836,7 +836,6 @@
     "primary_key": "18",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -846,8 +845,9 @@
     "ai_reason": "",
     "source_en": "Completing the challenge of Tacet Field and Overlord Class enemies will allow you to acquire resources. First-time challenge will reward you sample for exchanging rare materials with Interference Exchange.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành thử thách Tổ Tacet và kẻ địch Hạng Overlord sẽ giúp bạn thu thập tài nguyên. Lần đầu vượt qua sẽ nhận mẫu vật để đổi nguyên liệu hiếm tại Trao Đổi Nhiễu Loạn.",
-    "translator_note": ""
+    "new_translation_vi": "Hoàn thành thử thách Tacet Field và kẻ thù cấp Overlord sẽ cho phép bạn nhận được tài nguyên. Thử thách lần đầu sẽ thưởng cho bạn mẫu vật để trao đổi vật liệu hiếm tại Trao đổi Nhiễu loạn.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000347",
@@ -861,7 +861,6 @@
     "primary_key": "21",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -871,8 +870,9 @@
     "ai_reason": "",
     "source_en": "Concerto Effect",
     "review_note": "",
-    "new_translation_vi": "Hiệu ứng Concerto",
-    "translator_note": ""
+    "new_translation_vi": "Hiệu ứng Concerto.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000348",
@@ -886,7 +886,6 @@
     "primary_key": "22",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -896,8 +895,9 @@
     "ai_reason": "",
     "source_en": "Powerful skill performed by 2 Resonators. While the Concerto Vibrancy is fully charged, switching Resonators will consume all of it, and trigger Concerto Effect base on the switched Character's attack attribute.",
     "review_note": "",
-    "new_translation_vi": "Kỹ năng mạnh được thực hiện bởi 2 Resonator. Khi Năng Lượng Giao Hưởng được nạp đầy, chuyển đổi Resonator sẽ tiêu hao toàn bộ và kích hoạt Hiệu Ứng Giao Hưởng dựa trên thuộc tính tấn công của nhân vật được chuyển đến.",
-    "translator_note": ""
+    "new_translation_vi": "Kỹ năng mạnh mẽ được thực hiện bởi 2 Resonator. Khi Concerto Vibrancy được sạc đầy, việc chuyển đổi Resonator sẽ tiêu hao toàn bộ năng lượng này và kích hoạt Hiệu ứng Concerto dựa trên thuộc tính tấn công của Nhân vật được chuyển sang.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000349",
@@ -911,7 +911,6 @@
     "primary_key": "23",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -921,8 +920,9 @@
     "ai_reason": "",
     "source_en": "Star Align",
     "review_note": "",
-    "new_translation_vi": "Sao Đồng Tâm",
-    "translator_note": ""
+    "new_translation_vi": "Tinh Căn.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000350",
@@ -936,7 +936,6 @@
     "primary_key": "24",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -946,8 +945,9 @@
     "ai_reason": "",
     "source_en": "Completing the Star Up Mission for Rover will get Mission EXP to exchange for rewards.",
     "review_note": "",
-    "new_translation_vi": "Hoàn thành Nhiệm Vụ Nâng Sao cho Rover sẽ nhận Điểm Kinh Nghiệm Nhiệm Vụ để đổi phần thưởng.",
-    "translator_note": ""
+    "new_translation_vi": "Hoàn thành Nhiệm vụ Tăng Sao cho Rover sẽ nhận được EXP Nhiệm vụ để đổi lấy phần thưởng.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000351",
@@ -961,7 +961,6 @@
     "primary_key": "25",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -971,8 +970,9 @@
     "ai_reason": "",
     "source_en": "Ambience - Weapon",
     "review_note": "",
-    "new_translation_vi": "Bối cảnh - Vũ khí",
-    "translator_note": ""
+    "new_translation_vi": "Âm hưởng - Vũ khí",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000352",
@@ -986,7 +986,6 @@
     "primary_key": "26",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -996,8 +995,9 @@
     "ai_reason": "",
     "source_en": "Ambience of the Resonators well-versed in weapon. The melodies in their broken blade can be used to enhance weapon.",
     "review_note": "",
-    "new_translation_vi": "Bối cảnh của Resonator tinh thông vũ khí. Giai điệu trong lưỡi kiếm gãy của họ có thể tăng cường vũ khí.",
-    "translator_note": ""
+    "new_translation_vi": "Âm hưởng của các Resonator tinh thông vũ khí. Những giai điệu trong lưỡi kiếm gãy của họ có thể được dùng để cường hóa vũ khí.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000353",
@@ -1011,7 +1011,6 @@
     "primary_key": "27",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1021,8 +1020,9 @@
     "ai_reason": "",
     "source_en": "Ambience - Skill",
     "review_note": "",
-    "new_translation_vi": "Bối cảnh - Kỹ năng",
-    "translator_note": ""
+    "new_translation_vi": "Âm hưởng - Kỹ năng",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000354",
@@ -1036,7 +1036,6 @@
     "primary_key": "28",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1046,8 +1045,9 @@
     "ai_reason": "",
     "source_en": "Ambience of Resonators well-versed in battle technique. The melodies in their broken memories can be used to enhance battle skill.",
     "review_note": "",
-    "new_translation_vi": "Bối cảnh của Resonator tinh thông kỹ thuật chiến đấu. Giai điệu trong ký ức tan vỡ của họ có thể tăng cường kỹ năng chiến đấu.",
-    "translator_note": ""
+    "new_translation_vi": "Âm hưởng của các Resonator tinh thông kỹ thuật chiến đấu. Những giai điệu trong ký ức vụn vỡ của họ có thể được dùng để cường hóa kỹ năng chiến đấu.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000355",
@@ -1061,7 +1061,6 @@
     "primary_key": "30",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1071,8 +1070,9 @@
     "ai_reason": "",
     "source_en": "Co-op mode will allow you meet with other Rovers. Kindness may lead you to precious friendship.",
     "review_note": "",
-    "new_translation_vi": "Chế độ Hợp tác cho phép bạn gặp gỡ các Vận Mệnh Giả khác. Sự tử tế có thể mang đến những tình bạn quý giá.",
-    "translator_note": ""
+    "new_translation_vi": "Chế độ Co-op sẽ cho phép cậu gặp gỡ các Rover khác. Sự tử tế có thể dẫn lối cậu đến những tình bạn quý giá.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000356",
@@ -1086,7 +1086,6 @@
     "primary_key": "31",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1096,8 +1095,9 @@
     "ai_reason": "",
     "source_en": "Resonance Record",
     "review_note": "",
-    "new_translation_vi": "Biên Bản Cộng Hưởng",
-    "translator_note": ""
+    "new_translation_vi": "Bản ghi Resonance",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000357",
@@ -1111,7 +1111,6 @@
     "primary_key": "32",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1121,8 +1120,9 @@
     "ai_reason": "",
     "source_en": "Resonance Terminal was installed with module of Tacet Discords, Mutant Organism and Tacet Fields. Using them will allow you to locate them quickly in the wilds.",
     "review_note": "",
-    "new_translation_vi": "Thiết Bị Đầu Cuối Cộng Hưởng được lắp đặt mô-đun của Tacet Discord, Sinh Vật Đột Biến và Tổ Tacet. Sử dụng chúng sẽ giúp bạn nhanh chóng xác định vị trí của chúng ngoài hoang dã.",
-    "translator_note": ""
+    "new_translation_vi": "Thiết bị Resonance đã được cài đặt các mô-đun về Tacet Discords, Sinh vật đột biến và Tacet Fields. Sử dụng chúng sẽ cho phép cậu định vị chúng nhanh chóng ở vùng hoang dã.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000358",
@@ -1136,7 +1136,6 @@
     "primary_key": "33",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1146,8 +1145,9 @@
     "ai_reason": "",
     "source_en": "Resonance Record",
     "review_note": "",
-    "new_translation_vi": "Biên Bản Cộng Hưởng",
-    "translator_note": ""
+    "new_translation_vi": "Bản ghi Resonance",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000359",
@@ -1161,7 +1161,6 @@
     "primary_key": "34",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1171,8 +1170,9 @@
     "ai_reason": "",
     "source_en": "Resonance Terminal was installed with module of Tacet Discords, Mutant Organism and Tacet Fields. Using them will allow you to locate them quickly in the wilds.",
     "review_note": "",
-    "new_translation_vi": "Thiết Bị Đầu Cuối Cộng Hưởng được lắp đặt mô-đun của Tacet Discord, Sinh Vật Đột Biến và Tổ Tacet. Sử dụng chúng sẽ giúp bạn nhanh chóng xác định vị trí của chúng ngoài hoang dã.",
-    "translator_note": ""
+    "new_translation_vi": "Thiết bị Resonance đã được cài đặt các mô-đun về Tacet Discords, Sinh vật đột biến và Tacet Fields. Sử dụng chúng sẽ cho phép cậu định vị chúng nhanh chóng ở vùng hoang dã.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000360",
@@ -1186,7 +1186,6 @@
     "primary_key": "35",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1196,8 +1195,9 @@
     "ai_reason": "",
     "source_en": "Resonance Record",
     "review_note": "",
-    "new_translation_vi": "Biên Bản Cộng Hưởng",
-    "translator_note": ""
+    "new_translation_vi": "Bản ghi Resonance",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000361",
@@ -1211,7 +1211,6 @@
     "primary_key": "36",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1221,8 +1220,9 @@
     "ai_reason": "",
     "source_en": "Resonance Terminal was installed with module of Tacet Discords, Mutant Organism and Tacet Fields. Using them will allow you to locate them quickly in the wilds.",
     "review_note": "",
-    "new_translation_vi": "Thiết Bị Đầu Cuối Cộng Hưởng được lắp đặt mô-đun của Tacet Discord, Sinh Vật Đột Biến và Tổ Tacet. Sử dụng chúng sẽ giúp bạn nhanh chóng xác định vị trí của chúng ngoài hoang dã.",
-    "translator_note": ""
+    "new_translation_vi": "Thiết bị Resonance đã được cài đặt các mô-đun về Tacet Discords, Sinh vật đột biến và Tacet Fields. Sử dụng chúng sẽ cho phép cậu định vị chúng nhanh chóng ở vùng hoang dã.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000362",
@@ -1236,7 +1236,6 @@
     "primary_key": "37",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1246,8 +1245,9 @@
     "ai_reason": "",
     "source_en": "Resonance Record",
     "review_note": "",
-    "new_translation_vi": "Biên Bản Cộng Hưởng",
-    "translator_note": ""
+    "new_translation_vi": "Bản ghi Resonance",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000363",
@@ -1261,7 +1261,6 @@
     "primary_key": "38",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1271,8 +1270,9 @@
     "ai_reason": "",
     "source_en": "Resonance Terminal was installed with module of Tacet Discords, Mutant Organism and Tacet Fields. Using them will allow you to locate them quickly in the wilds.",
     "review_note": "",
-    "new_translation_vi": "Thiết Bị Đầu Cuối Cộng Hưởng được lắp đặt mô-đun của Tacet Discord, Sinh Vật Đột Biến và Tổ Tacet. Sử dụng chúng sẽ giúp bạn nhanh chóng xác định vị trí của chúng ngoài hoang dã.",
-    "translator_note": ""
+    "new_translation_vi": "Thiết bị Resonance đã được cài đặt các mô-đun về Tacet Discords, Sinh vật đột biến và Tacet Fields. Sử dụng chúng sẽ cho phép cậu định vị chúng nhanh chóng ở vùng hoang dã.",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000364",
@@ -1286,7 +1286,6 @@
     "primary_key": "39",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1296,8 +1295,9 @@
     "ai_reason": "",
     "source_en": "Resonance Record",
     "review_note": "",
-    "new_translation_vi": "Biên Bản Cộng Hưởng",
-    "translator_note": ""
+    "new_translation_vi": "Bản ghi Resonance",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000365",
@@ -1311,7 +1311,6 @@
     "primary_key": "40",
     "column": "Content",
     "category": "ui",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1321,7 +1320,8 @@
     "ai_reason": "",
     "source_en": "Resonance Terminal was installed with module of Tacet Discords, Mutant Organism and Tacet Fields. Using them will allow you to locate them quickly in the wilds.",
     "review_note": "",
-    "new_translation_vi": "Thiết Bị Đầu Cuối Cộng Hưởng được lắp đặt mô-đun của Tacet Discord, Sinh Vật Đột Biến và Tổ Tacet. Sử dụng chúng sẽ giúp bạn nhanh chóng xác định vị trí của chúng ngoài hoang dã.",
-    "translator_note": ""
+    "new_translation_vi": "Thiết bị Resonance đã được cài đặt các mô-đun về Tacet Discords, Sinh vật đột biến và Tacet Fields. Sử dụng chúng sẽ cho phép cậu định vị chúng nhanh chóng ở vùng hoang dã.",
+    "translator_note": "",
+    "status": "translated"
   }
 ]

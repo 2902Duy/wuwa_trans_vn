@@ -34,8 +34,10 @@ Tài liệu này định nghĩa các nhóm dòng văn bản không cần gửi �
 > - `Bloodpact's Pledge`
 > - `Bonds of Comrade`
 > - `Boson Astrolabe`
+> - `Bowen`
 > - `Break the chill wind`
 > - `Break the skies`
+> - `Broadblade`
 > - `Broadblade improved: regularization II`
 > - `Broadblade of Voyager`
 > - `Broadblade of night`
@@ -181,6 +183,7 @@ Tài liệu này định nghĩa các nhóm dòng văn bản không cần gửi �
 > - `Verdant Summit`
 > - `Verity's Handle`
 > - `Waning Redshift`
+> - `Warblade`
 > - `Wildfire Mark`
 > - `Will to battle`
 > - `Wipe their men`
@@ -239,6 +242,8 @@ Tài liệu này định nghĩa các nhóm dòng văn bản không cần gửi �
 > - `Diamondclaw`
 > - `Diggy Duggy`
 > - `Diurnus Knight`
+> - `Dreadmane`
+> - `Dreadmanes`
 > - `Dreamless`
 > - `Dwarf Cassowary`
 > - `Electro Drake`
@@ -342,10 +347,12 @@ Tài liệu này định nghĩa các nhóm dòng văn bản không cần gửi �
 > - `Rupture Warrior`
 > - `Sabercat Prowler`
 > - `Sabercat Reaver`
+> - `Sabyr`
 > - `Sabyr Boar`
 > - `Sacerdos`
 > - `Sagittario`
 > - `Scar`
+> - `Scourgewings`
 > - `Seatrail Narwhal`
 > - `Sentinel`
 > - `Sentinel Jué`
@@ -360,6 +367,8 @@ Tài liệu này định nghĩa các nhóm dòng văn bản không cần gửi �
 > - `Spectro Drake`
 > - `Spectro Prism`
 > - `Stonewall Bracer`
+> - `Tacetreite`
+> - `Tacetrite`
 > - `Tambourine Instrumentalist`
 > - `Tambourinist`
 > - `Tempest Mephis`
@@ -382,6 +391,10 @@ Tài liệu này định nghĩa các nhóm dòng văn bản không cần gửi �
 > - `Whiff Whaff`
 > - `Whiff Whoosh`
 > - `Windlash Coleoid`
+> - `Wolfaith`
+> - `Wolflame`
+> - `Wutheron`
+> - `Wutherons`
 > - `Zig Zag`
 > - `Zip Zap`
 
@@ -402,7 +415,7 @@ Tài liệu này định nghĩa các nhóm dòng văn bản không cần gửi �
 
 > [!TIP]
 > **Ví dụ giữ nguyên:**
-> > - Nhân vật: `Aalto`, `Abby`, `Aemeath`, `An'ke`, `Augusta`, `Bailian`, `Baizhi`, `Brant`, `Buling`, `Calcharo`, `Camellya`, `Cantarella`, `Carlotta`, `Cartethyia`, `Changli`, `Chisa`, `Chixia`, `Ciaccona`, `Danjin`, `Denia`, `Encore`, `Galbrena`, `Geshu Lin`, `Hiyuki`, `Iuno`, `Jianxin`, `Jinhsi`, `Jiyan`, `Lingyang`, `Lucilla`, `Lucy`, `Lumi`, `Lupa`, `Luuk Herssen`, `Lynae`, `Mornye`, `Mortefi`, `Phoebe`, `Phrolova`, `Qiuyuan`, `Rebecca`, `Roccia`, `Rover: Aero`, `Rover: Havoc`, `Rover: Spectro`, `San'hua`, `Sanhua`, `Shorekeeper`, `Sigrika`, `Taoqi`, `The Shorekeeper`, `Verina`, `Xiangli Yao`, `Yangyang`, `Yinlin`, `Youhu`, `Yuanwu`, `Zani`, `Zhezhi`...
+> > - Nhân vật: `Aalto`, `Abby`, `Acanthacorydalis`, `Adele`, `Aemeath`, `Agrippa`, `Agrotta`, `Airelas`, `Airsailing`, `Aldric`, `Aleus`, `Alkain`, `Amaro`, `An'ke`, `Ancelo`, `Ang`, `Aniko`, `AnomSci`, `Anslem`, `Aoi`, `Arcbend`, `Argentflare`, `Arin`, `Arman`, `Arno`, `Arsenio`, `Artemus`, `Ashened`, `Ashild`, `Ashinohara`, `Asphodel Barrens`, `Astra`, `Astrites`, `Athos`, `Augusta`, `Averardo`, `Avinoleum`, `Awu`, `Babyrousa`, `Backline`, `Bada`, `Bailian`, `Baizhi`, `Bardolino`, `Bei`, `Beigu`, `Benett`, `Beohr Waters`, `Bertolt`, `BigWorld`, `Biomatic`, `Biomech`, `Bjarki`, `Bjartr Woods`, `Black Alley`, `Black Shores Archipelago`, `Blazar`, `Blobflys`, `Botim`, `Bottomwear`, `Brant`, `Brax`, `Breen`, `Budee`, `Buling`, `Bumberchute`, `Calcharo`, `Caldheim`, `Caligula`, `Calith`, `Camellya`, `Cantarella`, `Capitoline Hill`, `Carlotta`, `Carlow`, `Carnevale`, `Cartethyia`, `Catchow`, `Celo`, `Centimillion`, `Central Plains`, `Chainsaw`, `Chamber of Discipline`, `Changli`, `Chengxi`, `Chenpi`, `Chessa`, `Chisa`, `Chixia`, `Chonglin`, `Chrono`, `Chronorift Metropolis`, `Chrysocyon`, `Chuji`, `Chuluu`, `Chunkie`, `Chuu`, `Chuyi`, `Ciaccona`, `Ciaconna`, `Cindernite`, `Codename`, `Comand`, `Commision`, `Copo`, `Corrosive Ruins`, `Cosimo`, `Cristoforo`, `Cubie`, `Cunren`, `Cutscene`, `Daigo`, `Dangos`, `Danjin`, `Dashbon`, `Davide`, `Deliverypon`, `Denia`, `Desorock Highland`, `Deutsch`, `Devorsonidum`, `Dewvetch`, `Dianran`, `Dianxiao`, `Diggy`, `Dim Forest`, `Dongyun`, `Doomstrand`, `Dovana`, `Dreamcatchers`, `Dreamscapes`, `Dreamwalker`, `Droid`, `Echoid`, `Edelschnee`, `Egla`, `Eldertree`, `Eldertrees`, `Elga`, `Elma`, `Elowyn`, `Encore`, `Eri`, `Ero`, `Erthgold`, `Español`, `Euginn`, `Everglorious`, `Excaratte`, `Expeditioner`, `Fabius`, `Fabricatorium of the Deep`, `Feilian`, `Feng`, `Fengshan`, `Feyver`, `Fibermorn`, `Finella`, `Firi`, `Fisalia`, `Fisalias`, `Fixit`, `Flaer`, `Fluffball`, `Foebreaker`, `Forcefield`, `Foreclaimed`, `Francine`, `Frantz`, `Français`, `Fratellino`, `Fratello`, `Frejon`, `Frogidae`, `Frontline`, `Fuling`, `Fullscreen`, `Furius`, `Fuyan`, `Galba`, `Galbrena`, `Ganxue`, `Gardner`, `Garris`, `Geohide`, `Geshu Lin`, `Gianluca`, `Gilberto`, `Ginga`, `Gjallar`, `Glacio`, `Godo`, `Golesia`, `Gongming`, `Gorges of Spirits`, `Gori`, `Grahame`, `Gren`, `Griffrex`, `Grisoni`, `Guardia`, `Guhong`, `Hadrian`, `Hai`, `Haley`, `Hanakage`, `Hanolt`, `Hanxiang`, `Heliodic`, `Heliogyre`, `Helltide`, `Herssen`, `Hilings`, `Hitman`, `Hiyuki`, `Honami`, `Hongjing`, `Hongzhen`, `Honya`, `Hoohoo`, `Hornett`, `Huabiao`, `Huaipu`, `Huang`, `Huaxi`, `Huaxu`, `Huayu`, `Hukou`, `Iceblast`, `Ina`, `Inara`, `Incineranur`, `Inpermanence`, `Irideglow`, `Iroh`, `Isla`, `Itzel`, `Iuno`, `Jellyrose`, `Jianxin`, `Jiaping`, `Jingzhu`, `Jinhsi`, `Jinse`, `Jinxi`, `Jiu`, `Jiuyue`, `Jiyan`, `Jocaresa`, `Jue`, `Junrock`, `Junrocks`, `Kaidan`, `Kamil`, `Keni`, `Kerasaurs`, `Kinova`, `Kirine`, `Kitche`, `Kronapuff`, `Kuro`, `LINGHAN`, `Lacrimosa`, `Landry`, `Langsheng`, `Lanqing`, `Lanyan`, `Laramia`, `Lario`, `Lavito`, `Leftless`, `Lenie`, `Lenore`, `Leonidas`, `Leviator`, `Levito`, `Lianfeng`, `Lianna`, `Liel`, `Lifethread`, `Lightbeam`, `Lightbox`, `Lightseeker`, `Lihwa`, `Lillibet`, `Lingdi`, `Linghan`, `Lingyang`, `Linnea`, `Linren`, `Linsu`, `Liondance`, `Lirong`, `Lisandro`, `Lizhu`, `Lollo`, `Loong`, `Luca`, `Luceanite`, `Lucerna`, `Lucilla`, `Lucy`, `Lumi`, `Lunarum`, `Lunites`, `Lupa`, `Luuk`, `Luuk Herssen`, `Lycoris`, `Lycorises`, `Lycrosis`, `Lynae`, `Lyosroth`, `Macknay`, `Maeve`, `Mahe`, `Mainstat`, `Maji`, `Malma`, `Manliu`, `Maocai`, `Maqi`, `Marche`, `Margherita`, `Marino`, `Maroonwood`, `Matchpoint`, `Maxed`, `Mechanite`, `Mechasout`, `Mechscouts`, `Meishin`, `Memes`, `Memetic`, `Mephis`, `Mercurio`, `Merwina`, `Miko`, `Minghu`, `Mingting`, `Mingyan`, `Minna`, `Misha`, `Mithril`, `Mizhi`, `Modding`, `Modee`, `Mojel`, `Monkvyrid`, `Montelli`, `Montellis`, `Moonring`, `Moontree`, `Mornguard`, `Mornguards`, `Mornye`, `Morri`, `Morricow`, `Mortefi`, `Mulan`, `Musen`, `Myospalax`, `Namipon`, `Napoli`, `Nastasha`, `Nevana`, `Neverending`, `Nicus`, `Nishan`, `Nivora`, `Niya`, `Noctemints`, `Noxkin`, `Oakheart`, `Odette`, `Outro`, `Ovathrax`, `Overclocking`, `Panhua`, `Papani`, `Patricius`, `Pedway`, `Peeker`, `Pequod`, `Pero`, `Petrahane`, `Phillips`, `Phoebe`, `Phoenixidae`, `Photonvault`, `Photonvaults`, `Photosythesis`, `Phrolova`, `Pinwen`, `Planck`, `Plantamber`, `Platya`, `PlayerName`, `Plushie`, `Plushies`, `Plínio`, `Podcast`, `Polmes`, `Português`, `Postumia`, `Qianshan`, `Qianyue`, `Qiaomu`, `Qichi`, `Qingloong`, `Qingru`, `Qingshu`, `Qingxi`, `Qiongxue`, `Qiuyuan`, `Queequeg`, `Questless`, `Quxiu`, `Rabelle`, `Ragunna`, `Raisa`, `Rakosan`, `Reargards`, `Rebecca`, `Recommandation`, `Resinacrustidum`, `Reyes`, `Rinascita`, `Rinascitan`, `Rinascitans`, `Riseway`, `Riteglow`, `Robbie`, `Robby`, `Roccia`, `Rocia`, `Rocksteady`, `Rokan`, `Rolla`, `Ronan`, `Roseshrooms`, `Rover: Aero`, `Rover: Havoc`, `Rover: Spectro`, `Roya`, `Royan`, `Sakura`, `Salcera`, `Samousas`, `San'hua`, `Sanguis`, `Sanhua`, `Seadragon`, `Seatrail`, `Senmin`, `Septimont`, `Severedge`, `Sevi`, `Shaohua`, `Shellhorn`, `Shifan`, `Shifang`, `Shilang`, `Shinong`, `Shion`, `Shixia`, `Shiyu`, `Shiyuan`, `Shorekeeper`, `Shortlist`, `Shouta`, `Showmatch`, `Shroom`, `Shui`, `Shuyun`, `Sightlines`, `Sigrika`, `Silan`, `Siran`, `Sixi`, `Slicesoriginated`, `Smartprinter`, `Sobetto`, `Solaris`, `Soliksin`, `Solis`, `Soliskin`, `Soliskni`, `Solistrees`, `Solsworn`, `Solvein`, `Solvik`, `Somnoire`, `Sonam`, `Songdis`, `Soundstep`, `Spectro`, `Spiriton`, `Stardock`, `Starfall`, `Stargate`, `Starleap`, `Starpath`, `Starpaths`, `Stieler`, `Strepoplasmidum`, `Stridergate`, `Stylios`, `Substat`, `Substats`, `Sulpicia`, `Symphodai`, `Synchronists`, `Synth`, `Séance`, `Tac`, `Tacecrux`, `Talos`, `Tangtang`, `Tannhäuser`, `Taoqi`, `Taoyuan`, `Tertoise`, `Tetoris`, `The Shorekeeper`, `Thermobaric`, `Tiancheng`, `Tidebreakder`, `Tidebreaker`, `Timoteo`, `Tommaso`, `Tongchuan`, `Topwear`, `Toretto`, `Triss`, `Tulia`, `Unequippable`, `Uninstall`, `Unmute`, `Upphaf`, `Valentina`, `Vanderkolk`, `Veinoptera`, `Verina`, `Vida`, `Viridblaze`, `Voidmatters`, `Voidwing`, `Voss`, `Wangcai`, `Warstorm`, `Watchlist`, `Waveplates`, `Waveworn`, `Wayfinder`, `Weiqi`, `Wenshu`, `Windchimer`, `Wingray`, `Woona`, `Wuddle`, `Wuheng`, `Wul`, `Wuli`, `Wuming`, `Wutheride`, `Xianchen`, `Xiangli Yao`, `Xiangsu`, `Xiaofang`, `Xiaoju`, `Xiaosheng`, `Xiaoyu`, `Xie`, `Xiehua`, `Xieyang`, `Xinyang`, `Xinyi`, `Xisha`, `Xpertise`, `Xuanji`, `Xunjing`, `Yakuza`, `Yangyang`, `Yanning`, `Yhan`, `Yihu`, `Ying`, `Yingying`, `Yinlin`, `Yngvar`, `Yongli`, `Yongxin`, `Yoren`, `Youhu`, `Yu`, `Yuanwu`, `Yumyum`, `Yunzhi`, `Zahira`, `Zani`, `Zargon`, `Zenus`, `Zeon`, `Zeyuan`, `Zhezhi`, `Zhi`, `Zhihuai`, `Zhiyuan`, `Zhizhi`, `Zi`...
 > - Địa danh: `Ashinohara`, `Asphodel Barrens`, `Avinoleum`, `Beohr Waters`, `Bjartr Woods`, `Black Alley`, `Black Shores Archipelago`, `Capitoline Hill`, `Central Plains`, `Chamber of Discipline`, `Chronorift Metropolis`, `Corrosive Ruins`, `Desorock Highland`, `Dim Forest`, `Fabricatorium of the Deep`, `Fisalia`, `Gorges of Spirits`, `Septimont`...
 
 ---

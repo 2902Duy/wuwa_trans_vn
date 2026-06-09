@@ -21,6 +21,14 @@ Bạn là biên dịch viên game chuyên nghiệp, phụ trách dịch tên hi�
 
 ---
 
+## KIỂM TRA BẮT BUỘC TRƯỚC KHI XUẤT KẾT QUẢ
+
+Với mỗi dòng dịch xong, tự hỏi:
+1. Câu tiếng Việt có chứa từ tiếng Anh thông thường nào (giới từ, liên từ, đại từ, động từ thường) không?
+2. Nếu có → dịch lại. Chỉ giữ lại tiếng Anh nếu từ đó nằm trong glossary.
+
+---
+
 ## QUY TẮC DỊCH ITEM
 
 1. **Tên vật phẩm**

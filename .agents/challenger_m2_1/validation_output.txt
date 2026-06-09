@@ -1,0 +1,20 @@
+=== TRANSLATION VALIDATION START ===
+Total split JSON files read: 54
+Total records in JSON: 13711
+Total unique records in JSON: 13711
+No duplicate split_ids found in JSON files.
+Excel loaded successfully.
+Total records in Excel: 13711
+Columns in Excel: ['split_id', 'prompt_domain', 'prompt_file', 'source_file', 'original_index', 'database', 'table', 'primary_key_column', 'primary_key', 'column', 'category', 'source_en', 'new_translation_vi', 'translator_note']
+All expected columns exist in Excel.
+Column order in Excel is exactly correct.
+No duplicate split_ids found in Excel.
+Keys in JSON but missing in Excel: 0
+Keys in Excel but missing in JSON: 0
+Common keys to compare: 13711
+Total cell mismatches found: 0
+SUCCESS: All column values match exactly between JSON and Excel files (100% 1:1 match)!
+Total empty translations in Excel: 0
+
+Verifying row sorting order in Excel...
+SUCCESS: Excel rows are sorted correctly by source_file and original_index.

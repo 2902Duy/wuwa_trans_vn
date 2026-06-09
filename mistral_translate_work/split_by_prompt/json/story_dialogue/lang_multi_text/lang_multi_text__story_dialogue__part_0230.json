@@ -21,7 +21,7 @@
     "ai_reason": "",
     "source_en": "{0}m",
     "review_note": "",
-    "new_translation_vi": "{0}m",
+    "new_translation_vi": "{0} phút",
     "translator_note": ""
   },
   {
@@ -46,7 +46,7 @@
     "ai_reason": "",
     "source_en": "{0} months",
     "review_note": "",
-    "new_translation_vi": "đã {0} tháng",
+    "new_translation_vi": "{0} tháng",
     "translator_note": ""
   },
   {
@@ -121,7 +121,7 @@
     "ai_reason": "",
     "source_en": "{0}s",
     "review_note": "",
-    "new_translation_vi": "{0}giây",
+    "new_translation_vi": "{0} giây",
     "translator_note": ""
   },
   {
@@ -146,7 +146,7 @@
     "ai_reason": "",
     "source_en": "{0}d {1}h",
     "review_note": "",
-    "new_translation_vi": "còn {0} ngày {1} giờ",
+    "new_translation_vi": "{0} ngày {1} giờ",
     "translator_note": ""
   },
   {
@@ -171,7 +171,7 @@
     "ai_reason": "",
     "source_en": "{0}h {1}m",
     "review_note": "",
-    "new_translation_vi": "{0}giờ {1}phút",
+    "new_translation_vi": "{0} giờ {1} phút",
     "translator_note": ""
   },
   {
@@ -196,7 +196,7 @@
     "ai_reason": "",
     "source_en": "{0}m",
     "review_note": "",
-    "new_translation_vi": "{0}m",
+    "new_translation_vi": "{0} phút",
     "translator_note": ""
   },
   {
@@ -221,7 +221,7 @@
     "ai_reason": "",
     "source_en": "{0}s",
     "review_note": "",
-    "new_translation_vi": "{0}giây",
+    "new_translation_vi": "{0} giây",
     "translator_note": ""
   },
   {
@@ -271,7 +271,7 @@
     "ai_reason": "",
     "source_en": "{0} Week",
     "review_note": "",
-    "new_translation_vi": "Tuần {0}",
+    "new_translation_vi": "{0} Tuần",
     "translator_note": ""
   },
   {
@@ -288,9 +288,9 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
@@ -321,7 +321,7 @@
     "ai_reason": "",
     "source_en": "Press the button to match according to the frequency.",
     "review_note": "",
-    "new_translation_vi": "Nhấn nút theo nhịp tần số.",
+    "new_translation_vi": "Nhấn nút để khớp theo tần số.",
     "translator_note": ""
   },
   {
@@ -346,7 +346,7 @@
     "ai_reason": "",
     "source_en": "Failed to match all information. Feel the rhythm and try again!",
     "review_note": "",
-    "new_translation_vi": "Không khớp toàn bộ thông tin. Cảm nhận nhịp điệu và thử lại nhé!",
+    "new_translation_vi": "Không khớp được tất cả thông tin. Hãy cảm nhận nhịp điệu và thử lại!",
     "translator_note": ""
   },
   {
@@ -371,7 +371,7 @@
     "ai_reason": "",
     "source_en": "Current floor {0}/{1}",
     "review_note": "",
-    "new_translation_vi": "Tầng hiện tại: {0}/{1}",
+    "new_translation_vi": "Tầng hiện tại {0}/{1}",
     "translator_note": ""
   },
   {
@@ -396,7 +396,7 @@
     "ai_reason": "",
     "source_en": "Currently in Co-op Mode, unable to perform this quest.",
     "review_note": "",
-    "new_translation_vi": "Đang ở Chế Độ Hợp Tác, không thể thực hiện nhiệm vụ này.",
+    "new_translation_vi": "Đang ở chế độ Co-op, không thể thực hiện nhiệm vụ này.",
     "translator_note": ""
   },
   {
@@ -421,7 +421,7 @@
     "ai_reason": "",
     "source_en": "[Friend] Me to [{0}]:",
     "review_note": "",
-    "new_translation_vi": "[\"Bạn\"] Ta gửi tới {0}:",
+    "new_translation_vi": "[Bạn bè] Tôi gửi [{0}]:",
     "translator_note": ""
   },
   {
@@ -446,7 +446,7 @@
     "ai_reason": "",
     "source_en": "[Friend] Me to [{0}]:{1}",
     "review_note": "",
-    "new_translation_vi": "[\"Bạn\"] Ta gửi tới {0}:{1}",
+    "new_translation_vi": "[Bạn bè] Tôi gửi [{0}]:{1}",
     "translator_note": ""
   },
   {
@@ -471,7 +471,7 @@
     "ai_reason": "",
     "source_en": "[Friend] Me to [{0}]:[{1}]",
     "review_note": "",
-    "new_translation_vi": "[\"Bạn\"] Ta gửi tới {0}:[{1}]",
+    "new_translation_vi": "[Bạn bè] Tôi gửi [{0}]:[{1}]",
     "translator_note": ""
   },
   {
@@ -496,7 +496,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Chăm sóc khách hàng",
     "translator_note": ""
   },
   {
@@ -521,7 +521,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Chăm sóc khách hàng",
     "translator_note": ""
   },
   {
@@ -546,7 +546,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Chăm sóc khách hàng",
     "translator_note": ""
   },
   {
@@ -571,7 +571,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Chăm sóc khách hàng",
     "translator_note": ""
   },
   {
@@ -596,7 +596,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Chăm sóc khách hàng",
     "translator_note": ""
   },
   {
@@ -621,7 +621,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Chăm sóc khách hàng",
     "translator_note": ""
   },
   {
@@ -646,7 +646,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Chăm sóc khách hàng",
     "translator_note": ""
   },
   {
@@ -671,7 +671,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Chăm sóc khách hàng",
     "translator_note": ""
   },
   {
@@ -696,7 +696,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Chăm sóc khách hàng",
     "translator_note": ""
   },
   {
@@ -721,7 +721,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Chăm sóc khách hàng",
     "translator_note": ""
   },
   {
@@ -746,7 +746,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Chăm sóc khách hàng",
     "translator_note": ""
   },
   {
@@ -771,7 +771,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Chăm sóc khách hàng",
     "translator_note": ""
   },
   {
@@ -796,7 +796,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Chăm sóc khách hàng",
     "translator_note": ""
   },
   {
@@ -821,7 +821,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Chăm sóc khách hàng",
     "translator_note": ""
   },
   {
@@ -846,7 +846,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Chăm sóc khách hàng",
     "translator_note": ""
   },
   {
@@ -871,7 +871,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Chăm sóc khách hàng",
     "translator_note": ""
   },
   {
@@ -896,7 +896,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Chăm sóc khách hàng",
     "translator_note": ""
   },
   {
@@ -921,7 +921,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Chăm sóc khách hàng",
     "translator_note": ""
   },
   {
@@ -946,7 +946,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Chăm sóc khách hàng",
     "translator_note": ""
   },
   {
@@ -971,7 +971,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Chăm sóc khách hàng",
     "translator_note": ""
   },
   {
@@ -996,7 +996,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Chăm sóc khách hàng",
     "translator_note": ""
   },
   {
@@ -1021,7 +1021,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Chăm sóc khách hàng",
     "translator_note": ""
   },
   {
@@ -1046,7 +1046,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Chăm sóc khách hàng",
     "translator_note": ""
   },
   {
@@ -1071,7 +1071,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1096,7 +1096,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1121,7 +1121,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1146,7 +1146,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1171,7 +1171,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1196,7 +1196,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1221,7 +1221,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1246,7 +1246,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1271,7 +1271,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1296,7 +1296,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1321,7 +1321,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1346,7 +1346,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1371,7 +1371,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1396,7 +1396,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1421,7 +1421,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1446,7 +1446,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1471,7 +1471,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1496,7 +1496,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1521,7 +1521,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1546,7 +1546,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1571,7 +1571,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1596,7 +1596,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1621,7 +1621,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1646,7 +1646,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1671,7 +1671,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1696,7 +1696,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1721,7 +1721,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1746,7 +1746,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1771,7 +1771,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1796,7 +1796,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1821,7 +1821,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1846,7 +1846,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1871,7 +1871,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1896,7 +1896,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -1921,7 +1921,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận Chăm sóc khách hàng.",
     "translator_note": ""
   },
   {
@@ -1946,7 +1946,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận Chăm sóc khách hàng.",
     "translator_note": ""
   },
   {
@@ -1971,7 +1971,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận Chăm sóc khách hàng.",
     "translator_note": ""
   },
   {
@@ -1996,7 +1996,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận Chăm sóc khách hàng.",
     "translator_note": ""
   },
   {
@@ -2021,7 +2021,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận Chăm sóc khách hàng.",
     "translator_note": ""
   },
   {
@@ -2046,7 +2046,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận Chăm sóc khách hàng.",
     "translator_note": ""
   },
   {
@@ -2071,7 +2071,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận Chăm sóc khách hàng.",
     "translator_note": ""
   },
   {
@@ -2096,7 +2096,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận Chăm sóc khách hàng.",
     "translator_note": ""
   },
   {
@@ -2121,7 +2121,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận Chăm sóc khách hàng.",
     "translator_note": ""
   },
   {
@@ -2146,7 +2146,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận Chăm sóc khách hàng.",
     "translator_note": ""
   },
   {
@@ -2171,7 +2171,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận Chăm sóc khách hàng.",
     "translator_note": ""
   },
   {
@@ -2196,7 +2196,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận Chăm sóc khách hàng.",
     "translator_note": ""
   },
   {
@@ -2221,7 +2221,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận Chăm sóc khách hàng.",
     "translator_note": ""
   },
   {
@@ -2246,7 +2246,7 @@
     "ai_reason": "",
     "source_en": "An error happened. Please contact Customer Service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ Bộ phận Chăm sóc Khách hàng.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận Chăm sóc khách hàng.",
     "translator_note": ""
   },
   {
@@ -2296,7 +2296,7 @@
     "ai_reason": "",
     "source_en": "[Team] [{0}]:",
     "review_note": "",
-    "new_translation_vi": "Đội [{0}]:",
+    "new_translation_vi": "[Đội] [{0}]:",
     "translator_note": ""
   },
   {
@@ -2321,7 +2321,7 @@
     "ai_reason": "",
     "source_en": "[Team] [{0}]:{1}",
     "review_note": "",
-    "new_translation_vi": "Đội [{0}]:{1}",
+    "new_translation_vi": "[Đội] [{0}]:{1}",
     "translator_note": ""
   },
   {
@@ -2346,7 +2346,7 @@
     "ai_reason": "",
     "source_en": "[Team] [{0}]:[{1}]",
     "review_note": "",
-    "new_translation_vi": "Đội [{0}]:[{1}]",
+    "new_translation_vi": "[Đội] [{0}]:[{1}]",
     "translator_note": ""
   },
   {
@@ -2421,7 +2421,7 @@
     "ai_reason": "",
     "source_en": "Battle failed, you are disconnected from the Tower.",
     "review_note": "",
-    "new_translation_vi": "Trận đấu thất bại, bạn đã bị ngắt kết nối khỏi Tháp.",
+    "new_translation_vi": "Thất bại trong trận chiến, bạn đã bị ngắt kết nối khỏi Tháp.",
     "translator_note": ""
   },
   {
@@ -2496,7 +2496,7 @@
     "ai_reason": "",
     "source_en": "Insufficient materials. Unable to add more.",
     "review_note": "",
-    "new_translation_vi": "Nguyên liệu không đủ. Không thể thêm nữa.",
+    "new_translation_vi": "Không đủ nguyên liệu. Không thể thêm nữa.",
     "translator_note": ""
   },
   {
@@ -2521,7 +2521,7 @@
     "ai_reason": "",
     "source_en": "There is an anomaly, if you have any questions, please contact the official customer service.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi bất thường, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -2546,7 +2546,7 @@
     "ai_reason": "",
     "source_en": "An error occurred. For inquiries please contact customer support.",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được giải đáp.",
+    "new_translation_vi": "Đã xảy ra lỗi. Vui lòng liên hệ bộ phận hỗ trợ khách hàng nếu bạn có thắc mắc.",
     "translator_note": ""
   },
   {
@@ -2561,7 +2561,7 @@
     "primary_key": "Text_Unknown_Text",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -2571,7 +2571,7 @@
     "ai_reason": "",
     "source_en": "???",
     "review_note": "",
-    "new_translation_vi": "Cái gì cơ???",
+    "new_translation_vi": "???",
     "translator_note": ""
   },
   {
@@ -2621,7 +2621,7 @@
     "ai_reason": "",
     "source_en": "Use on {0}",
     "review_note": "",
-    "new_translation_vi": "Sử dụng vào {0}",
+    "new_translation_vi": "Sử dụng trên {0}",
     "translator_note": ""
   },
   {
@@ -2671,7 +2671,7 @@
     "ai_reason": "",
     "source_en": "Anomalies exist, please contact official customer service if you have any questions.",
     "review_note": "",
-    "new_translation_vi": "Có hiện tượng bất thường, hãy liên hệ bộ phận hỗ trợ chính thức nếu có thắc mắc.",
+    "new_translation_vi": "Đã xảy ra bất thường, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức nếu bạn có bất kỳ câu hỏi nào.",
     "translator_note": ""
   },
   {
@@ -2721,7 +2721,7 @@
     "ai_reason": "",
     "source_en": "Updating results of Hazard Zone: {0} - Floor {1}. Do you confirm?",
     "review_note": "",
-    "new_translation_vi": "Đang cập nhật kết quả Khu Vực Nguy Hiểm: {0} - Tầng {1}. Xác nhận?",
+    "new_translation_vi": "Đang cập nhật kết quả của Hazard Zone: {0} - Tầng {1}. Bạn có xác nhận không?",
     "translator_note": ""
   },
   {
@@ -2746,7 +2746,7 @@
     "ai_reason": "",
     "source_en": "Hazard Zone: {0}",
     "review_note": "",
-    "new_translation_vi": "Khu vực Nguy hiểm: {0}",
+    "new_translation_vi": "Hazard Zone: {0}",
     "translator_note": ""
   },
   {
@@ -2771,7 +2771,7 @@
     "ai_reason": "",
     "source_en": "Updating results of Overdrive Zone: {0} - Floor {1}. Do you confirm?",
     "review_note": "",
-    "new_translation_vi": "Đang cập nhật kết quả Khu Vực Quá Tải: {0} - Tầng {1}. Xác nhận?",
+    "new_translation_vi": "Đang cập nhật kết quả của Overdrive Zone: {0} - Tầng {1}. Bạn có xác nhận không?",
     "translator_note": ""
   },
   {
@@ -2796,7 +2796,7 @@
     "ai_reason": "",
     "source_en": "Overdrive Zone: {0}",
     "review_note": "",
-    "new_translation_vi": "Vùng Tăng Tốc: {0}",
+    "new_translation_vi": "Overdrive Zone: {0}",
     "translator_note": ""
   },
   {
@@ -2811,11 +2811,11 @@
     "primary_key": "Text_VoiceProgress_Text",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
@@ -2861,11 +2861,11 @@
     "primary_key": "Text_WeaponLevelUpAddText_Text",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
@@ -2896,7 +2896,7 @@
     "ai_reason": "",
     "source_en": "Upgraded weapon will be consumed. Are you sure to proceed?",
     "review_note": "",
-    "new_translation_vi": "Vũ khí đã nâng cấp sẽ bị tiêu hao. Bạn có chắc chắn tiếp tục?",
+    "new_translation_vi": "Vũ khí đã nâng cấp sẽ bị tiêu hao. Bạn có chắc chắn muốn tiếp tục không?",
     "translator_note": ""
   },
   {
@@ -2921,7 +2921,7 @@
     "ai_reason": "",
     "source_en": "Upgraded Rare weapon will be consumed. Are you sure to proceed?",
     "review_note": "",
-    "new_translation_vi": "Vũ khí hiếm đã nâng cấp sẽ bị tiêu hao. Bạn có chắc chắn tiếp tục?",
+    "new_translation_vi": "Vũ khí hiếm đã nâng cấp sẽ bị tiêu hao. Bạn có chắc chắn muốn tiếp tục không?",
     "translator_note": ""
   },
   {
@@ -2946,7 +2946,7 @@
     "ai_reason": "",
     "source_en": "Rare weapon will be consumed. Are you sure to proceed?",
     "review_note": "",
-    "new_translation_vi": "Vũ khí hiếm sẽ bị tiêu hao. Bạn có chắc chắn muốn tiếp tục?",
+    "new_translation_vi": "Vũ khí hiếm sẽ bị tiêu hao. Bạn có chắc chắn muốn tiếp tục không?",
     "translator_note": ""
   },
   {
@@ -2971,7 +2971,7 @@
     "ai_reason": "",
     "source_en": "{0} weapon will be consumed. Are you sure to proceed?",
     "review_note": "",
-    "new_translation_vi": "Vũ khí {0} sẽ bị tiêu hao. Ngươi có chắc chắn muốn tiếp tục?",
+    "new_translation_vi": "Vũ khí {0} sẽ bị tiêu hao. Bạn có chắc chắn muốn tiếp tục không?",
     "translator_note": ""
   },
   {
@@ -2996,7 +2996,7 @@
     "ai_reason": "",
     "source_en": "{0}, {1} {2} weapon will be consumed. Are you sure to proceed?",
     "review_note": "",
-    "new_translation_vi": "{0}, {1} {2} vũ khí sẽ bị tiêu hao. Cậu chắc chắn muốn tiếp tục chứ?",
+    "new_translation_vi": "Vũ khí {0}, {1} {2} sẽ bị tiêu hao. Bạn có chắc chắn muốn tiếp tục không?",
     "translator_note": ""
   },
   {
@@ -3021,7 +3021,7 @@
     "ai_reason": "",
     "source_en": "{0} {1} weapon will be consumed. Are you sure to proceed?",
     "review_note": "",
-    "new_translation_vi": "Vũ khí {0} {1} sẽ bị tiêu hao. Ngươi có chắc chắn muốn tiếp tục?",
+    "new_translation_vi": "Vũ khí {0} {1} sẽ bị tiêu hao. Bạn có chắc chắn muốn tiếp tục không?",
     "translator_note": ""
   },
   {
@@ -3071,7 +3071,7 @@
     "ai_reason": "",
     "source_en": "Syntonization unavailable for this weapon.",
     "review_note": "",
-    "new_translation_vi": "Không thể điều tần cho vũ khí này.",
+    "new_translation_vi": "Không thể đồng bộ hóa cho vũ khí này.",
     "translator_note": ""
   },
   {
@@ -3096,7 +3096,7 @@
     "ai_reason": "",
     "source_en": "Item locked. Unlock to continue",
     "review_note": "",
-    "new_translation_vi": "Vật phẩm bị khóa. Hãy mở khóa để tiếp tục",
+    "new_translation_vi": "Vật phẩm đã bị khóa. Hãy mở khóa để tiếp tục",
     "translator_note": ""
   },
   {
@@ -3121,7 +3121,7 @@
     "ai_reason": "",
     "source_en": "Upgrade Consumption ({0}/{1})",
     "review_note": "",
-    "new_translation_vi": "Nâng cấp Tiêu hao ({0}/{1})",
+    "new_translation_vi": "Tiêu hao nâng cấp ({0}/{1})",
     "translator_note": ""
   },
   {
@@ -3136,11 +3136,11 @@
     "primary_key": "Text_WeaponMaxLevelText_Text",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
@@ -3171,7 +3171,7 @@
     "ai_reason": "",
     "source_en": "Insufficient Shell Credit for enhancement.",
     "review_note": "",
-    "new_translation_vi": "Tín dụng Vỏ sò không đủ để nâng cấp",
+    "new_translation_vi": "Không đủ Shell Credit để tăng cường.",
     "translator_note": ""
   },
   {
@@ -3196,7 +3196,7 @@
     "ai_reason": "",
     "source_en": "{0} is equipped by {1}. Do you want to replace it?",
     "review_note": "",
-    "new_translation_vi": "{1} đã trang bị {0}. Bạn có muốn thay thế không?",
+    "new_translation_vi": "{0} đang được trang bị bởi {1}. Bạn có muốn thay thế không?",
     "translator_note": ""
   },
   {
@@ -3211,11 +3211,11 @@
     "primary_key": "Text_WeaponResonanceCurrentEffectText_Text",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
@@ -3246,7 +3246,7 @@
     "ai_reason": "",
     "source_en": "Rank {0}",
     "review_note": "",
-    "new_translation_vi": "Cấp Bậc {0}",
+    "new_translation_vi": "Hạng {0}",
     "translator_note": ""
   },
   {
@@ -3271,7 +3271,7 @@
     "ai_reason": "",
     "source_en": "Rank {0}",
     "review_note": "",
-    "new_translation_vi": "Cấp Bậc {0}",
+    "new_translation_vi": "Cấp {0}",
     "translator_note": ""
   },
   {
@@ -3286,11 +3286,11 @@
     "primary_key": "Text_WeaponResonanceNextEffectText_Text",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
@@ -3321,7 +3321,7 @@
     "ai_reason": "",
     "source_en": "{0} Equipped",
     "review_note": "",
-    "new_translation_vi": "{0} Đã trang bị",
+    "new_translation_vi": "Đã trang bị {0}",
     "translator_note": ""
   },
   {
@@ -3346,7 +3346,7 @@
     "ai_reason": "",
     "source_en": "SOL3 Phase adjusted to Rank {0}.",
     "review_note": "",
-    "new_translation_vi": "Pha SOL3 đã điều chỉnh lên Hạng {0}.",
+    "new_translation_vi": "SOL3 Phase đã điều chỉnh về Cấp {0}.",
     "translator_note": ""
   },
   {
@@ -3371,7 +3371,7 @@
     "ai_reason": "",
     "source_en": "This function is unavailable in combat.",
     "review_note": "",
-    "new_translation_vi": "Tính năng này không khả dụng trong chiến đấu.",
+    "new_translation_vi": "Chức năng này không khả dụng trong khi chiến đấu.",
     "translator_note": ""
   },
   {
@@ -3396,7 +3396,7 @@
     "ai_reason": "",
     "source_en": "Rank {0}",
     "review_note": "",
-    "new_translation_vi": "Cấp Bậc {0}",
+    "new_translation_vi": "Cấp {0}",
     "translator_note": ""
   },
   {
@@ -3421,7 +3421,7 @@
     "ai_reason": "",
     "source_en": "SOL3 Phase raised to Rank {0}.",
     "review_note": "",
-    "new_translation_vi": "Giai đoạn SOL3 đã nâng lên Hạng {0}.",
+    "new_translation_vi": "SOL3 Phase đã tăng lên Cấp {0}.",
     "translator_note": ""
   },
   {
@@ -3446,7 +3446,7 @@
     "ai_reason": "",
     "source_en": "Custom marker is full, unable to add.",
     "review_note": "",
-    "new_translation_vi": "Biểu tượng tùy chỉnh đã đầy, không thể thêm.",
+    "new_translation_vi": "Đã đầy đánh dấu tùy chỉnh, không thể thêm mới.",
     "translator_note": ""
   },
   {
@@ -3461,11 +3461,11 @@
     "primary_key": "Text_YearText_Text",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
@@ -3521,7 +3521,7 @@
     "ai_reason": "",
     "source_en": "Echoes Selected ({0}/{1})",
     "review_note": "",
-    "new_translation_vi": "Đã Chọn Echo ({0}/{1})",
+    "new_translation_vi": "Đã chọn Echo ({0}/{1})",
     "translator_note": ""
   },
   {
@@ -3546,7 +3546,7 @@
     "ai_reason": "",
     "source_en": "Data Merge Count: {0}",
     "review_note": "",
-    "new_translation_vi": "Số lần Hợp Nhất Dữ Liệu: {0}",
+    "new_translation_vi": "Số lần Data Merge: {0}",
     "translator_note": ""
   },
   {
@@ -3571,7 +3571,7 @@
     "ai_reason": "",
     "source_en": "{0} component does not exist, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Thành phần {0} không tồn tại, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức",
+    "new_translation_vi": "Thành phần {0} không tồn tại, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -3596,7 +3596,7 @@
     "ai_reason": "",
     "source_en": "The server is currently full, please be patient.",
     "review_note": "",
-    "new_translation_vi": "Máy chủ hiện đang đầy, xin hãy kiên nhẫn chờ đợi.",
+    "new_translation_vi": "Máy chủ hiện đang đầy, vui lòng kiên nhẫn chờ đợi.",
     "translator_note": ""
   },
   {
@@ -3621,7 +3621,7 @@
     "ai_reason": "",
     "source_en": "The server is currently full, please be patient.",
     "review_note": "",
-    "new_translation_vi": "Máy chủ hiện đang đầy, xin hãy kiên nhẫn chờ đợi.",
+    "new_translation_vi": "Máy chủ hiện đang đầy, vui lòng kiên nhẫn chờ đợi.",
     "translator_note": ""
   },
   {
@@ -4021,7 +4021,7 @@
     "ai_reason": "",
     "source_en": "Disconnected from the server. Please try again later.",
     "review_note": "",
-    "new_translation_vi": "Mất kết nối với máy chủ. Vui lòng thử lại sau.",
+    "new_translation_vi": "Đã ngắt kết nối khỏi máy chủ. Vui lòng thử lại sau.",
     "translator_note": ""
   },
   {
@@ -4071,7 +4071,7 @@
     "ai_reason": "",
     "source_en": "Logging out and saving data, please try again later.",
     "review_note": "",
-    "new_translation_vi": "Đang lưu và đăng xuất dữ liệu, vui lòng thử lại sau.",
+    "new_translation_vi": "Đang đăng xuất và lưu dữ liệu, vui lòng thử lại sau.",
     "translator_note": ""
   },
   {
@@ -4096,7 +4096,7 @@
     "ai_reason": "",
     "source_en": "Exceeded the maximum usage, please try again later.",
     "review_note": "",
-    "new_translation_vi": "Đã vượt quá số lần sử dụng tối đa, hãy thử lại sau.",
+    "new_translation_vi": "Đã vượt quá số lần sử dụng tối đa, vui lòng thử lại sau.",
     "translator_note": ""
   },
   {
@@ -4121,7 +4121,7 @@
     "ai_reason": "",
     "source_en": "This item cannot be destroyed.",
     "review_note": "",
-    "new_translation_vi": "Vật phẩm này không thể bị phá hủy.",
+    "new_translation_vi": "Vật phẩm này không thể bị hủy.",
     "translator_note": ""
   },
   {
@@ -4146,7 +4146,7 @@
     "ai_reason": "",
     "source_en": "Insufficient available COST, cannot be equipped.",
     "review_note": "",
-    "new_translation_vi": "Không đủ COST khả dụng, không thể trang bị",
+    "new_translation_vi": "Không đủ COST khả dụng, không thể trang bị.",
     "translator_note": ""
   },
   {
@@ -4171,7 +4171,7 @@
     "ai_reason": "",
     "source_en": "Insufficient available COST, cannot be equipped.",
     "review_note": "",
-    "new_translation_vi": "Không đủ COST khả dụng, không thể trang bị",
+    "new_translation_vi": "Không đủ COST khả dụng, không thể trang bị.",
     "translator_note": ""
   },
   {
@@ -4196,7 +4196,7 @@
     "ai_reason": "",
     "source_en": "Echo equipped repeatedly, please try again.",
     "review_note": "",
-    "new_translation_vi": "Đã trang bị Echo trùng lặp, vui lòng thử lại.",
+    "new_translation_vi": "Echo được trang bị trùng lặp, vui lòng thử lại.",
     "translator_note": ""
   },
   {
@@ -4246,7 +4246,7 @@
     "ai_reason": "",
     "source_en": "The number of items consumed is incorrect, please try again.",
     "review_note": "",
-    "new_translation_vi": "Số lượng vật phẩm tiêu hao không chính xác, hãy thử lại.",
+    "new_translation_vi": "Số lượng vật phẩm tiêu hao không chính xác, vui lòng thử lại.",
     "translator_note": ""
   },
   {
@@ -4271,7 +4271,7 @@
     "ai_reason": "",
     "source_en": "Advice data is abnormal, if you have any questions, please contact official customer service",
     "review_note": "",
-    "new_translation_vi": "Dữ liệu tư vấn bất thường, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Dữ liệu gợi ý bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -4296,7 +4296,7 @@
     "ai_reason": "",
     "source_en": "Tower of Adversity configuration error, if you have any questions, please contact official customer service",
     "review_note": "",
-    "new_translation_vi": "Lỗi cấu hình Tháp Thử Thách, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức",
+    "new_translation_vi": "Lỗi cấu hình Tower of Adversity, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -4321,7 +4321,7 @@
     "ai_reason": "",
     "source_en": "The number of Resonators in the Tower of Adversity challenge team lineup exceeds the limit. Please try again",
     "review_note": "",
-    "new_translation_vi": "Số lượng Resonator trong đội hình thử thách Tháp Nghịch Cảnh đã vượt quá giới hạn. Hãy thử lại",
+    "new_translation_vi": "Số lượng Resonator trong đội hình thử thách Tower of Adversity vượt quá giới hạn. Vui lòng thử lại.",
     "translator_note": ""
   },
   {
@@ -4346,7 +4346,7 @@
     "ai_reason": "",
     "source_en": "Cannot have duplicated Resonators in the Tower of Adversity challenge team lineup. Please try again",
     "review_note": "",
-    "new_translation_vi": "Không thể có Resonator trùng lặp trong đội hình thử thách Tháp Nghịch Cảnh. Hãy thử lại.",
+    "new_translation_vi": "Không được phép có Resonator trùng lặp trong đội hình thử thách Tower of Adversity. Vui lòng thử lại.",
     "translator_note": ""
   },
   {
@@ -4371,7 +4371,7 @@
     "ai_reason": "",
     "source_en": "Reward data is abnormal, if you have any questions, please contact official customer service",
     "review_note": "",
-    "new_translation_vi": "Dữ liệu phần thưởng bất thường, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức",
+    "new_translation_vi": "Dữ liệu phần thưởng bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -4396,7 +4396,7 @@
     "ai_reason": "",
     "source_en": "Reward data is abnormal, if you have any questions, please contact official customer service",
     "review_note": "",
-    "new_translation_vi": "Dữ liệu phần thưởng bất thường, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức",
+    "new_translation_vi": "Dữ liệu phần thưởng bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -4421,7 +4421,7 @@
     "ai_reason": "",
     "source_en": "Holographic challenge: Calamity configuration index failed, if you have any questions, please contact official customer service",
     "review_note": "",
-    "new_translation_vi": "Thử thách Hologram: Chỉ số cấu hình Tận Thế thất bại, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức",
+    "new_translation_vi": "Lỗi chỉ mục cấu hình Holographic challenge: Calamity, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -4446,7 +4446,7 @@
     "ai_reason": "",
     "source_en": "There is an abnormality, if you have any questions, please contact official customer service",
     "review_note": "",
-    "new_translation_vi": "Có sự cố bất thường, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức",
+    "new_translation_vi": "Đã xảy ra bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -4471,7 +4471,7 @@
     "ai_reason": "",
     "source_en": "The type of gift package is abnormal, if you have any questions, please contact official customer service",
     "review_note": "",
-    "new_translation_vi": "Loại gói quà này bất thường, nếu có thắc mắc, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
+    "new_translation_vi": "Loại gói quà bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -4496,7 +4496,7 @@
     "ai_reason": "",
     "source_en": "The gift package item is abnormal, if you have any questions, please contact official customer service",
     "review_note": "",
-    "new_translation_vi": "Gói quà có dấu hiệu bất thường, nếu có thắc mắc, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
+    "new_translation_vi": "Vật phẩm trong gói quà bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -4521,7 +4521,7 @@
     "ai_reason": "",
     "source_en": "Reconnection failed, list verification failed, if you have any questions, please contact official customer service",
     "review_note": "",
-    "new_translation_vi": "Kết nối lại thất bại, xác minh danh sách không thành công, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Kết nối lại thất bại, xác minh danh sách thất bại, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -4546,7 +4546,7 @@
     "ai_reason": "",
     "source_en": "Reconnection failed, list verification failed, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Kết nối lại thất bại, xác minh danh sách không thành công, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Kết nối lại thất bại, xác minh danh sách thất bại, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -4571,7 +4571,7 @@
     "ai_reason": "",
     "source_en": "Reconnection failed, list verification failed, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Kết nối lại thất bại, xác minh danh sách không thành công, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Kết nối lại thất bại, xác minh danh sách thất bại, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -4596,7 +4596,7 @@
     "ai_reason": "",
     "source_en": "There is an exception, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra ngoại lệ, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra ngoại lệ, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -4621,7 +4621,7 @@
     "ai_reason": "",
     "source_en": "There is an exception, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra ngoại lệ, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra ngoại lệ, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -4646,7 +4646,7 @@
     "ai_reason": "",
     "source_en": "The world owner is loading scenes. Currently unable to access the world.",
     "review_note": "",
-    "new_translation_vi": "Chủ thế giới đang tải cảnh. Hiện không thể truy cập thế giới này.",
+    "new_translation_vi": "Chủ thế giới đang tải cảnh. Hiện không thể truy cập thế giới.",
     "translator_note": ""
   },
   {
@@ -4671,7 +4671,7 @@
     "ai_reason": "",
     "source_en": "The world owner is loading scenes. Currently unable to request access to the world.",
     "review_note": "",
-    "new_translation_vi": "Chủ thế giới đang tải cảnh. Hiện không thể gửi yêu cầu truy cập thế giới này.",
+    "new_translation_vi": "Chủ thế giới đang tải cảnh. Hiện không thể yêu cầu truy cập thế giới.",
     "translator_note": ""
   },
   {
@@ -4696,7 +4696,7 @@
     "ai_reason": "",
     "source_en": "Loading scenes. Unable to approve Co-op requests.",
     "review_note": "",
-    "new_translation_vi": "Đang tải cảnh. Không thể chấp nhận yêu cầu Chơi cùng.",
+    "new_translation_vi": "Đang tải cảnh. Không thể phê duyệt yêu cầu Co-op.",
     "translator_note": ""
   },
   {
@@ -4721,7 +4721,7 @@
     "ai_reason": "",
     "source_en": "There is an exception, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra ngoại lệ, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra ngoại lệ, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -4746,7 +4746,7 @@
     "ai_reason": "",
     "source_en": "Re-challenge is not supported, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Không hỗ trợ tái thử thách, nếu có thắc mắc, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức",
+    "new_translation_vi": "Không hỗ trợ thử thách lại, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -4771,7 +4771,7 @@
     "ai_reason": "",
     "source_en": "Unable to obtain the configuration correctly, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Không thể lấy đúng cấu hình, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức",
+    "new_translation_vi": "Không thể lấy cấu hình chính xác, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -4796,7 +4796,7 @@
     "ai_reason": "",
     "source_en": "An unknown anomaly exists in the Tactical Hologram: Overdashing Challenge, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có một bất thường chưa xác định trong Hologram Chiến Thuật: Thử Thách Vượt Tốc, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Tồn tại bất thường không xác định trong Tactical Hologram: Overdashing Challenge, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -4821,7 +4821,7 @@
     "ai_reason": "",
     "source_en": "An unknown anomaly exists in the Tactical Hologram: Overdashing Challenge, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có một bất thường chưa xác định trong Hologram Chiến Thuật: Thử Thách Vượt Tốc, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Tồn tại bất thường không xác định trong Tactical Hologram: Overdashing Challenge, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -4846,7 +4846,7 @@
     "ai_reason": "",
     "source_en": "An unknown anomaly exists in the Tactical Hologram: Overdashing Challenge, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có một bất thường chưa xác định trong Hologram Chiến Thuật: Thử Thách Vượt Tốc, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Tồn tại bất thường không xác định trong Tactical Hologram: Overdashing Challenge, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -4871,7 +4871,7 @@
     "ai_reason": "",
     "source_en": "An unknown anomaly exists in the Tactical Hologram: Overdashing Challenge, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có một bất thường chưa xác định trong Hologram Chiến Thuật: Thử Thách Vượt Tốc, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Tồn tại bất thường không xác định trong Tactical Hologram: Overdashing Challenge, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -4896,7 +4896,7 @@
     "ai_reason": "",
     "source_en": "An unknown anomaly exists in the Tactical Hologram: Overdashing Challenge, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có một bất thường chưa xác định trong Hologram Chiến Thuật: Thử Thách Vượt Tốc, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Tồn tại bất thường không xác định trong Tactical Hologram: Overdashing Challenge, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -4921,7 +4921,7 @@
     "ai_reason": "",
     "source_en": "An unknown anomaly exists in the Tactical Hologram: Overdashing Challenge, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có một bất thường chưa xác định trong Hologram Chiến Thuật: Thử Thách Vượt Tốc, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Tồn tại bất thường không xác định trong Tactical Hologram: Overdashing Challenge, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -4946,7 +4946,7 @@
     "ai_reason": "",
     "source_en": "An unknown anomaly exists in the Tactical Hologram: Overdashing Challenge, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có một bất thường chưa xác định trong Hologram Chiến Thuật: Thử Thách Vượt Tốc, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Tồn tại bất thường không xác định trong Tactical Hologram: Overdashing Challenge, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -4971,7 +4971,7 @@
     "ai_reason": "",
     "source_en": "An unknown anomaly exists in the Tactical Hologram: Overdashing Challenge, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có một bất thường chưa xác định trong Hologram Chiến Thuật: Thử Thách Vượt Tốc, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Tồn tại bất thường không xác định trong Tactical Hologram: Overdashing Challenge, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -4996,7 +4996,7 @@
     "ai_reason": "",
     "source_en": "An anomaly exists in the display of the purchase quantity, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có lỗi hiển thị số lượng mua hàng, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Tồn tại bất thường trong hiển thị số lượng mua, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5021,7 +5021,7 @@
     "ai_reason": "",
     "source_en": "Currently in a closed questline. Cannot enable Focus Mode for another quest.",
     "review_note": "",
-    "new_translation_vi": "Đang trong nhiệm vụ tuyến đóng. Không thể kích hoạt Chế Độ Tập Trung cho nhiệm vụ khác.",
+    "new_translation_vi": "Hiện đang trong chuỗi nhiệm vụ đóng. Không thể bật Chế độ Tập trung cho nhiệm vụ khác.",
     "translator_note": ""
   },
   {
@@ -5046,7 +5046,7 @@
     "ai_reason": "",
     "source_en": "The function does not exist in the Utility, if you have any questions, please contact the official customer service.",
     "review_note": "",
-    "new_translation_vi": "Chức năng này không tồn tại trong Utility, nếu có thắc mắc, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
+    "new_translation_vi": "Chức năng không tồn tại trong Utility, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5071,7 +5071,7 @@
     "ai_reason": "",
     "source_en": "Achievement entry not activated, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Mục thành tựu chưa được kích hoạt, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức",
+    "new_translation_vi": "Mục thành tựu chưa được kích hoạt, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5096,7 +5096,7 @@
     "ai_reason": "",
     "source_en": "Achievement entry not completed, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Mục thành tựu chưa hoàn thành, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức",
+    "new_translation_vi": "Mục thành tựu chưa hoàn thành, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5121,7 +5121,7 @@
     "ai_reason": "",
     "source_en": "Achievement entry has been claimed, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã nhận thưởng thành tựu, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức",
+    "new_translation_vi": "Mục thành tựu đã được nhận, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5146,7 +5146,7 @@
     "ai_reason": "",
     "source_en": "Achievement entry does not exist, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Mục thành tựu không tồn tại, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức",
+    "new_translation_vi": "Mục thành tựu không tồn tại, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5171,7 +5171,7 @@
     "ai_reason": "",
     "source_en": "Achievement entry not open, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Mục thành tựu chưa mở khóa, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức",
+    "new_translation_vi": "Mục thành tựu chưa mở, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5196,7 +5196,7 @@
     "ai_reason": "",
     "source_en": "Achievement group entry not activated, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Mục thành tựu nhóm chưa được kích hoạt, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ chính thức",
+    "new_translation_vi": "Mục nhóm thành tựu chưa được kích hoạt, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5221,7 +5221,7 @@
     "ai_reason": "",
     "source_en": "Achievement group entry not completed, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Mục thành tựu nhóm chưa hoàn thành, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ chính thức",
+    "new_translation_vi": "Mục nhóm thành tựu chưa hoàn thành, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5246,7 +5246,7 @@
     "ai_reason": "",
     "source_en": "Achievement group entry has been claimed, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Mục thành tựu nhóm đã được nhận, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ chính thức",
+    "new_translation_vi": "Mục nhóm thành tựu đã được nhận, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5271,7 +5271,7 @@
     "ai_reason": "",
     "source_en": "Achievement group entry does not exist, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Mục thành tựu nhóm không tồn tại, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ chính thức",
+    "new_translation_vi": "Mục nhóm thành tựu không tồn tại, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5296,7 +5296,7 @@
     "ai_reason": "",
     "source_en": "Achievement group entry not open, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Mục thành tựu nhóm chưa mở, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ chính thức",
+    "new_translation_vi": "Mục nhóm thành tựu chưa mở, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5321,7 +5321,7 @@
     "ai_reason": "",
     "source_en": "Tacet Field configuration is abnormal, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Cấu hình Tổ Tacet bất thường, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức",
+    "new_translation_vi": "Cấu hình Tacet Field bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5346,7 +5346,7 @@
     "ai_reason": "",
     "source_en": "Tacet Field not unlocked, unable to claim the first pass reward, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Tổ Tacet chưa mở khóa, không thể nhận phần thưởng vượt ải lần đầu, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức",
+    "new_translation_vi": "Tacet Field chưa được mở khóa, không thể nhận phần thưởng lần đầu, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5371,7 +5371,7 @@
     "ai_reason": "",
     "source_en": "Related Tacet Field not completed, unable to claim the first pass reward, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Chưa hoàn thành Tổ Tacet liên quan, không thể nhận phần thưởng lượt đầu, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức",
+    "new_translation_vi": "Chưa hoàn thành Tacet Field liên quan, không thể nhận phần thưởng lần đầu, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5396,7 +5396,7 @@
     "ai_reason": "",
     "source_en": "First pass reward has been claimed, unable to claim again, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Phần thưởng lượt đầu đã nhận, không thể nhận lại. Nếu có thắc mắc, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
+    "new_translation_vi": "Phần thưởng lần đầu đã được nhận, không thể nhận lại, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5421,7 +5421,7 @@
     "ai_reason": "",
     "source_en": "The display list of the Resonator Showcase is abnormal, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Danh sách trưng bày của Resonator Showcase có lỗi bất thường, nếu có thắc mắc, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức",
+    "new_translation_vi": "Danh sách hiển thị của Resonator Showcase bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5446,7 +5446,7 @@
     "ai_reason": "",
     "source_en": "The display list of theResonator Showcase is abnormal, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Danh sách trưng bày của Resonator Showcase có lỗi bất thường, nếu có thắc mắc, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức",
+    "new_translation_vi": "Danh sách hiển thị của Resonator Showcase bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5471,7 +5471,7 @@
     "ai_reason": "",
     "source_en": "The display list of the Sigil is abnormal, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Danh sách trưng bày của Sigil có lỗi bất thường, nếu có thắc mắc, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức",
+    "new_translation_vi": "Danh sách hiển thị của Sigil bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5496,7 +5496,7 @@
     "ai_reason": "",
     "source_en": "The display list of the Sigil is abnormal, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Danh sách trưng bày của Sigil có lỗi bất thường, nếu có thắc mắc, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức",
+    "new_translation_vi": "Danh sách hiển thị của Sigil bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5521,7 +5521,7 @@
     "ai_reason": "",
     "source_en": "The display list of the Sigil is abnormal, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Danh sách trưng bày của Sigil có lỗi bất thường, nếu có thắc mắc, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức",
+    "new_translation_vi": "Danh sách hiển thị của Sigil bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5546,7 +5546,7 @@
     "ai_reason": "",
     "source_en": "The display list of the Sigil is abnormal, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Danh sách trưng bày của Sigil có lỗi bất thường, nếu có thắc mắc, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức",
+    "new_translation_vi": "Danh sách hiển thị của Sigil bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5571,7 +5571,7 @@
     "ai_reason": "",
     "source_en": "The display list of the Sigil is abnormal, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Danh sách trưng bày của Sigil có lỗi bất thường, nếu có thắc mắc, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức",
+    "new_translation_vi": "Danh sách hiển thị của Sigil bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5596,7 +5596,7 @@
     "ai_reason": "",
     "source_en": "The display list of the Sigil is abnormal, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Danh sách trưng bày của Sigil có lỗi bất thường, nếu có thắc mắc, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức",
+    "new_translation_vi": "Danh sách hiển thị của Sigil bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5621,7 +5621,7 @@
     "ai_reason": "",
     "source_en": "There is an abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có sự cố bất thường, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5646,7 +5646,7 @@
     "ai_reason": "",
     "source_en": "The configuration of the Somnoire route table is abnormal, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Bảng lộ trình Somnoire có cấu hình bất thường, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Cấu hình bảng lộ trình Somnoire bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5671,7 +5671,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5696,7 +5696,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5721,7 +5721,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5746,7 +5746,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5771,7 +5771,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5796,7 +5796,7 @@
     "ai_reason": "",
     "source_en": "You have completed the Theater. Cannot perform movement input futher.",
     "review_note": "",
-    "new_translation_vi": "Ngươi đã hoàn thành Nhà hát. Không thể thực hiện thao tác di chuyển thêm",
+    "new_translation_vi": "Bạn đã hoàn thành Theater. Không thể thực hiện thêm thao tác di chuyển.",
     "translator_note": ""
   },
   {
@@ -5821,7 +5821,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5846,7 +5846,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5871,7 +5871,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5896,7 +5896,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5921,7 +5921,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5946,7 +5946,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5971,7 +5971,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -5996,7 +5996,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6021,7 +6021,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6046,7 +6046,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6071,7 +6071,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6096,7 +6096,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6121,7 +6121,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6146,7 +6146,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6171,7 +6171,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6196,7 +6196,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6221,7 +6221,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6246,7 +6246,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6271,7 +6271,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6296,7 +6296,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6321,7 +6321,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6346,7 +6346,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6371,7 +6371,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6396,7 +6396,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6421,7 +6421,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6446,7 +6446,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6471,7 +6471,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6496,7 +6496,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6521,7 +6521,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6546,7 +6546,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6571,7 +6571,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6596,7 +6596,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6621,7 +6621,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6646,7 +6646,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6671,7 +6671,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6696,7 +6696,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6721,7 +6721,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6746,7 +6746,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6771,7 +6771,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6796,7 +6796,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6821,7 +6821,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6846,7 +6846,7 @@
     "ai_reason": "",
     "source_en": "Data recovery anomaly, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Phát hiện bất thường trong khôi phục dữ liệu, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Lỗi bất thường trong quá trình khôi phục dữ liệu, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6871,7 +6871,7 @@
     "ai_reason": "",
     "source_en": "Data recovery anomaly, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Phát hiện bất thường trong khôi phục dữ liệu, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Lỗi bất thường trong quá trình khôi phục dữ liệu, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6921,7 +6921,7 @@
     "ai_reason": "",
     "source_en": "Activity data anomaly, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Dữ liệu Hoạt Động bất thường, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức",
+    "new_translation_vi": "Lỗi bất thường dữ liệu hoạt động, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6946,7 +6946,7 @@
     "ai_reason": "",
     "source_en": "Activity data anomaly, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Dữ liệu Hoạt Động bất thường, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức",
+    "new_translation_vi": "Lỗi bất thường dữ liệu hoạt động, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6971,7 +6971,7 @@
     "ai_reason": "",
     "source_en": "Activity data anomaly, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Dữ liệu Hoạt Động bất thường, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức",
+    "new_translation_vi": "Lỗi bất thường dữ liệu hoạt động, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -6996,7 +6996,7 @@
     "ai_reason": "",
     "source_en": "Activity data anomaly, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Dữ liệu Hoạt Động bất thường, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức",
+    "new_translation_vi": "Lỗi bất thường dữ liệu hoạt động, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7021,7 +7021,7 @@
     "ai_reason": "",
     "source_en": "Activity data anomaly, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Dữ liệu Hoạt Động bất thường, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức",
+    "new_translation_vi": "Lỗi bất thường dữ liệu hoạt động, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7046,7 +7046,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7071,7 +7071,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7096,7 +7096,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7121,7 +7121,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7146,7 +7146,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7171,7 +7171,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7196,7 +7196,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7221,7 +7221,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7246,7 +7246,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7271,7 +7271,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7296,7 +7296,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi bất thường không xác định trong Somnoire, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7321,7 +7321,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Somnoire đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7346,7 +7346,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Somnoire đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7371,7 +7371,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Somnoire đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7396,7 +7396,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Somnoire đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7421,7 +7421,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Somnoire đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7446,7 +7446,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Somnoire đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7471,7 +7471,7 @@
     "ai_reason": "",
     "source_en": "There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã phát hiện bất thường không xác định tại Somnoire, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Somnoire đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7496,7 +7496,7 @@
     "ai_reason": "",
     "source_en": "The event has not yet started, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Sự kiện vẫn chưa bắt đầu, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức nhé.",
+    "new_translation_vi": "Sự kiện vẫn chưa bắt đầu, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7521,7 +7521,7 @@
     "ai_reason": "",
     "source_en": "There is an exception, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra ngoại lệ, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi ngoại lệ, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7546,7 +7546,7 @@
     "ai_reason": "",
     "source_en": "There is an exception, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra ngoại lệ, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi ngoại lệ, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7571,7 +7571,7 @@
     "ai_reason": "",
     "source_en": "There is an exception, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra ngoại lệ, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi ngoại lệ, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7596,7 +7596,7 @@
     "ai_reason": "",
     "source_en": "There is an exception, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra ngoại lệ, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi ngoại lệ, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7621,7 +7621,7 @@
     "ai_reason": "",
     "source_en": "There is an exception, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra ngoại lệ, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi ngoại lệ, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7646,7 +7646,7 @@
     "ai_reason": "",
     "source_en": "There is an exception, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra ngoại lệ, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi ngoại lệ, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7671,7 +7671,7 @@
     "ai_reason": "",
     "source_en": "Pioneer Podcast not available yet. Please come back later",
     "review_note": "",
-    "new_translation_vi": "Bản Tin Tiên Phong chưa mở. Hãy quay lại sau nhé",
+    "new_translation_vi": "Pioneer Podcast hiện chưa khả dụng. Vui lòng quay lại sau.",
     "translator_note": ""
   },
   {
@@ -7696,7 +7696,7 @@
     "ai_reason": "",
     "source_en": "There is an exception, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra ngoại lệ, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi ngoại lệ, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7721,7 +7721,7 @@
     "ai_reason": "",
     "source_en": "There is an exception, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra ngoại lệ, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi ngoại lệ, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7746,7 +7746,7 @@
     "ai_reason": "",
     "source_en": "There is an exception, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra ngoại lệ, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi ngoại lệ, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7771,7 +7771,7 @@
     "ai_reason": "",
     "source_en": "There is an exception, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Đã xảy ra ngoại lệ, nếu có thắc mắc gì, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Đã xảy ra lỗi ngoại lệ, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7796,7 +7796,7 @@
     "ai_reason": "",
     "source_en": "The Energy Matrix has an unknown anomaly, if you have any questions, please contact the official customer service.",
     "review_note": "",
-    "new_translation_vi": "Ma Trận Năng Lượng xuất hiện bất thường chưa xác định, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Energy Matrix đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7821,7 +7821,7 @@
     "ai_reason": "",
     "source_en": "The Energy Matrix has an unknown anomaly, if you have any questions, please contact the official customer service.",
     "review_note": "",
-    "new_translation_vi": "Ma Trận Năng Lượng xuất hiện bất thường chưa xác định, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Energy Matrix đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7846,7 +7846,7 @@
     "ai_reason": "",
     "source_en": "The Energy Matrix has an unknown anomaly, if you have any questions, please contact the official customer service.",
     "review_note": "",
-    "new_translation_vi": "Ma Trận Năng Lượng xuất hiện bất thường chưa xác định, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Energy Matrix đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7871,7 +7871,7 @@
     "ai_reason": "",
     "source_en": "The Energy Matrix has an unknown anomaly, if you have any questions, please contact the official customer service.",
     "review_note": "",
-    "new_translation_vi": "Ma Trận Năng Lượng xuất hiện bất thường chưa xác định, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Energy Matrix đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7896,7 +7896,7 @@
     "ai_reason": "",
     "source_en": "The Energy Matrix has an unknown anomaly, if you have any questions, please contact the official customer service.",
     "review_note": "",
-    "new_translation_vi": "Ma Trận Năng Lượng xuất hiện bất thường chưa xác định, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Energy Matrix đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7921,7 +7921,7 @@
     "ai_reason": "",
     "source_en": "The Energy Matrix has an unknown anomaly, if you have any questions, please contact the official customer service.",
     "review_note": "",
-    "new_translation_vi": "Ma Trận Năng Lượng xuất hiện bất thường chưa xác định, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Energy Matrix đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7946,7 +7946,7 @@
     "ai_reason": "",
     "source_en": "The Energy Matrix has an unknown anomaly, if you have any questions, please contact the official customer service.",
     "review_note": "",
-    "new_translation_vi": "Ma Trận Năng Lượng xuất hiện bất thường chưa xác định, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Energy Matrix đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7971,7 +7971,7 @@
     "ai_reason": "",
     "source_en": "The Energy Matrix has an unknown anomaly, if you have any questions, please contact the official customer service.",
     "review_note": "",
-    "new_translation_vi": "Ma Trận Năng Lượng xuất hiện bất thường chưa xác định, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Energy Matrix đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -7996,7 +7996,7 @@
     "ai_reason": "",
     "source_en": "The Energy Matrix has an unknown anomaly, if you have any questions, please contact the official customer service.",
     "review_note": "",
-    "new_translation_vi": "Ma Trận Năng Lượng xuất hiện bất thường chưa xác định, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Energy Matrix đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8021,7 +8021,7 @@
     "ai_reason": "",
     "source_en": "The Energy Matrix has an unknown anomaly, if you have any questions, please contact the official customer service.",
     "review_note": "",
-    "new_translation_vi": "Ma Trận Năng Lượng xuất hiện bất thường chưa xác định, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Energy Matrix đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8046,7 +8046,7 @@
     "ai_reason": "",
     "source_en": "The Energy Matrix has an unknown anomaly, if you have any questions, please contact the official customer service.",
     "review_note": "",
-    "new_translation_vi": "Ma Trận Năng Lượng xuất hiện bất thường chưa xác định, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Energy Matrix đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8071,7 +8071,7 @@
     "ai_reason": "",
     "source_en": "The Energy Matrix has an unknown anomaly, if you have any questions, please contact the official customer service.",
     "review_note": "",
-    "new_translation_vi": "Ma Trận Năng Lượng xuất hiện bất thường chưa xác định, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Energy Matrix đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8096,7 +8096,7 @@
     "ai_reason": "",
     "source_en": "The Energy Matrix has an unknown anomaly, if you have any questions, please contact the official customer service.",
     "review_note": "",
-    "new_translation_vi": "Ma Trận Năng Lượng xuất hiện bất thường chưa xác định, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Energy Matrix đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8121,7 +8121,7 @@
     "ai_reason": "",
     "source_en": "The Energy Matrix has an unknown anomaly, if you have any questions, please contact the official customer service.",
     "review_note": "",
-    "new_translation_vi": "Ma Trận Năng Lượng xuất hiện bất thường chưa xác định, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Energy Matrix đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8146,7 +8146,7 @@
     "ai_reason": "",
     "source_en": "The Energy Matrix has an unknown anomaly, if you have any questions, please contact the official customer service.",
     "review_note": "",
-    "new_translation_vi": "Ma Trận Năng Lượng xuất hiện bất thường chưa xác định, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Energy Matrix đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8171,7 +8171,7 @@
     "ai_reason": "",
     "source_en": "The Energy Matrix has an unknown anomaly, if you have any questions, please contact the official customer service.",
     "review_note": "",
-    "new_translation_vi": "Ma Trận Năng Lượng xuất hiện bất thường chưa xác định, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Energy Matrix đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8196,7 +8196,7 @@
     "ai_reason": "",
     "source_en": "The Energy Matrix has an unknown anomaly, if you have any questions, please contact the official customer service.",
     "review_note": "",
-    "new_translation_vi": "Ma Trận Năng Lượng xuất hiện bất thường chưa xác định, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Energy Matrix đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8221,7 +8221,7 @@
     "ai_reason": "",
     "source_en": "The Energy Matrix has an unknown anomaly, if you have any questions, please contact the official customer service.",
     "review_note": "",
-    "new_translation_vi": "Ma Trận Năng Lượng xuất hiện bất thường chưa xác định, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Energy Matrix đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8246,7 +8246,7 @@
     "ai_reason": "",
     "source_en": "The Energy Matrix has an unknown anomaly, if you have any questions, please contact the official customer service.",
     "review_note": "",
-    "new_translation_vi": "Ma Trận Năng Lượng xuất hiện bất thường chưa xác định, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Energy Matrix đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8271,7 +8271,7 @@
     "ai_reason": "",
     "source_en": "The Energy Matrix has an unknown anomaly, if you have any questions, please contact the official customer service.",
     "review_note": "",
-    "new_translation_vi": "Ma Trận Năng Lượng xuất hiện bất thường chưa xác định, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Energy Matrix đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8296,7 +8296,7 @@
     "ai_reason": "",
     "source_en": "The Energy Matrix has an unknown anomaly, if you have any questions, please contact the official customer service.",
     "review_note": "",
-    "new_translation_vi": "Ma Trận Năng Lượng xuất hiện bất thường chưa xác định, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Energy Matrix đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8321,7 +8321,7 @@
     "ai_reason": "",
     "source_en": "The Energy Matrix has an unknown anomaly, if you have any questions, please contact the official customer service.",
     "review_note": "",
-    "new_translation_vi": "Ma Trận Năng Lượng xuất hiện bất thường chưa xác định, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Energy Matrix đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8346,7 +8346,7 @@
     "ai_reason": "",
     "source_en": "The Energy Matrix has an unknown anomaly, if you have any questions, please contact the official customer service.",
     "review_note": "",
-    "new_translation_vi": "Ma Trận Năng Lượng xuất hiện bất thường chưa xác định, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Energy Matrix đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8371,7 +8371,7 @@
     "ai_reason": "",
     "source_en": "The Lootmapper has an unknown anomaly, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Lootmapper phát hiện bất thường không xác định. Nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Lootmapper đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8396,7 +8396,7 @@
     "ai_reason": "",
     "source_en": "The Lootmapper has an unknown anomaly, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Lootmapper phát hiện bất thường không xác định. Nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Lootmapper đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8421,7 +8421,7 @@
     "ai_reason": "",
     "source_en": "The Energy Matrix has an unknown anomaly, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Ma Trận Năng Lượng xuất hiện bất thường chưa xác định, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Energy Matrix đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8446,7 +8446,7 @@
     "ai_reason": "",
     "source_en": "The Energy Matrix has an unknown anomaly, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Ma Trận Năng Lượng xuất hiện bất thường chưa xác định, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Energy Matrix đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8471,7 +8471,7 @@
     "ai_reason": "",
     "source_en": "The Energy Matrix has an unknown anomaly, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Ma Trận Năng Lượng xuất hiện bất thường chưa xác định, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Energy Matrix đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8496,7 +8496,7 @@
     "ai_reason": "",
     "source_en": "The host status is abnormal, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Trạng thái của chủ nhân bất thường, nếu có thắc mắc, hãy liên hệ bộ phận chăm sóc khách hàng chính thức",
+    "new_translation_vi": "Trạng thái máy chủ đang bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8521,7 +8521,7 @@
     "ai_reason": "",
     "source_en": "The matching status is abnormal, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Trạng thái ghép trận bất thường, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Trạng thái ghép đội đang bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8546,7 +8546,7 @@
     "ai_reason": "",
     "source_en": "The player has no matching node, please contact the official customer service for consultation",
     "review_note": "",
-    "new_translation_vi": "Người chơi không có nút phù hợp, vui lòng liên hệ dịch vụ khách hàng chính thức để được hỗ trợ",
+    "new_translation_vi": "Người chơi không có nút ghép đội, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức để được hỗ trợ.",
     "translator_note": ""
   },
   {
@@ -8571,7 +8571,7 @@
     "ai_reason": "",
     "source_en": "The player's matching status is abnormal, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Trạng thái ghép trận của người chơi bất thường, nếu có thắc mắc, vui lòng liên hệ hỗ trợ chính thức",
+    "new_translation_vi": "Trạng thái ghép đội của người chơi đang bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8596,7 +8596,7 @@
     "ai_reason": "",
     "source_en": "The player's matching status is set repeatedly, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Trạng thái ghép trận của người chơi bị thiết lập lặp lại, nếu có thắc mắc, vui lòng liên hệ hỗ trợ chính thức",
+    "new_translation_vi": "Trạng thái ghép đội của người chơi bị thiết lập lặp lại, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8621,7 +8621,7 @@
     "ai_reason": "",
     "source_en": "The world owner is matchmaking. Unable to join Co-op.",
     "review_note": "",
-    "new_translation_vi": "Chủ thế giới đang tìm trận. Không thể tham gia Hợp Tác.",
+    "new_translation_vi": "Chủ thế giới đang trong quá trình ghép đội. Không thể tham gia Co-op.",
     "translator_note": ""
   },
   {
@@ -8646,7 +8646,7 @@
     "ai_reason": "",
     "source_en": "The other party's client version is too low to operate, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Phiên bản ứng dụng của đối phương quá thấp để thực hiện thao tác, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức",
+    "new_translation_vi": "Phiên bản client của đối phương quá cũ để thực hiện thao tác, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8671,7 +8671,7 @@
     "ai_reason": "",
     "source_en": "The current client version is too low, please update and try again, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Phiên bản ứng dụng hiện tại quá cũ, vui lòng cập nhật và thử lại. Nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Phiên bản client hiện tại quá cũ, vui lòng cập nhật và thử lại, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8696,7 +8696,7 @@
     "ai_reason": "",
     "source_en": "The current online mode cannot be downgraded, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Chế độ trực tuyến hiện tại không thể hạ cấp, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức",
+    "new_translation_vi": "Chế độ trực tuyến hiện tại không thể hạ cấp, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8721,7 +8721,7 @@
     "ai_reason": "",
     "source_en": "The current online mode cannot be restored, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Chế độ trực tuyến hiện tại không thể khôi phục, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức",
+    "new_translation_vi": "Chế độ trực tuyến hiện tại không thể khôi phục, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8746,7 +8746,7 @@
     "ai_reason": "",
     "source_en": "There is an abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có sự cố bất thường, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức",
+    "new_translation_vi": "Đã xảy ra sự cố, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8771,7 +8771,7 @@
     "ai_reason": "",
     "source_en": "There is an abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có sự cố bất thường, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức",
+    "new_translation_vi": "Đã xảy ra sự cố, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8796,7 +8796,7 @@
     "ai_reason": "",
     "source_en": "There is an abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có sự cố bất thường, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức",
+    "new_translation_vi": "Đã xảy ra sự cố, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8821,7 +8821,7 @@
     "ai_reason": "",
     "source_en": "The Data Bank level is not unlocked, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Cấp độ Cơ sở dữ liệu chưa được mở khóa. Nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Cấp độ Data Bank chưa được mở khóa, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8846,7 +8846,7 @@
     "ai_reason": "",
     "source_en": "The Data Bank has an abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Cơ sở dữ liệu gặp sự cố bất thường. Nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Data Bank đang gặp sự cố, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8871,7 +8871,7 @@
     "ai_reason": "",
     "source_en": "There is an abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có sự cố bất thường, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức",
+    "new_translation_vi": "Đã xảy ra sự cố, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8896,7 +8896,7 @@
     "ai_reason": "",
     "source_en": "The Utility has an unknown abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Tiện Ích gặp phải lỗi bất thường chưa xác định. Nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức.",
+    "new_translation_vi": "Utility đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8921,7 +8921,7 @@
     "ai_reason": "",
     "source_en": "The Utility has an unknown abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Tiện Ích gặp phải lỗi bất thường chưa xác định. Nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức.",
+    "new_translation_vi": "Utility đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8946,7 +8946,7 @@
     "ai_reason": "",
     "source_en": "The Utility has an unknown abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Tiện Ích gặp phải lỗi bất thường chưa xác định. Nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức.",
+    "new_translation_vi": "Utility đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -8971,7 +8971,7 @@
     "ai_reason": "",
     "source_en": "No special collectibles are detected in the authorized area.",
     "review_note": "",
-    "new_translation_vi": "Không phát hiện vật phẩm đặc biệt nào trong khu vực được ủy quyền.",
+    "new_translation_vi": "Không phát hiện vật phẩm sưu tầm đặc biệt nào trong khu vực được ủy quyền.",
     "translator_note": ""
   },
   {
@@ -8996,7 +8996,7 @@
     "ai_reason": "",
     "source_en": "The Utility has an unknown abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Tiện Ích gặp phải lỗi bất thường chưa xác định. Nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức.",
+    "new_translation_vi": "Utility đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9021,7 +9021,7 @@
     "ai_reason": "",
     "source_en": "The Utility has an unknown abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Tiện Ích gặp phải lỗi bất thường chưa xác định. Nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức.",
+    "new_translation_vi": "Utility đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9046,7 +9046,7 @@
     "ai_reason": "",
     "source_en": "The Utility has an unknown abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Tiện Ích gặp phải lỗi bất thường chưa xác định. Nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức.",
+    "new_translation_vi": "Utility đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9071,7 +9071,7 @@
     "ai_reason": "",
     "source_en": "The Utility has an unknown abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Tiện Ích gặp phải lỗi bất thường chưa xác định. Nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức.",
+    "new_translation_vi": "Utility đang gặp sự cố không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9096,7 +9096,7 @@
     "ai_reason": "",
     "source_en": "There is an abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có sự cố bất thường, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức",
+    "new_translation_vi": "Đã xảy ra sự cố, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9121,7 +9121,7 @@
     "ai_reason": "",
     "source_en": "There is an abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có sự cố bất thường, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức",
+    "new_translation_vi": "Đã xảy ra sự cố, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9146,7 +9146,7 @@
     "ai_reason": "",
     "source_en": "There is an abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có sự cố bất thường, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức",
+    "new_translation_vi": "Đã xảy ra sự cố, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9171,7 +9171,7 @@
     "ai_reason": "",
     "source_en": "There is an abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có sự cố bất thường, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức",
+    "new_translation_vi": "Đã xảy ra sự cố, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9196,7 +9196,7 @@
     "ai_reason": "",
     "source_en": "There is an abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có sự cố bất thường, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức",
+    "new_translation_vi": "Đã xảy ra sự cố, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9221,7 +9221,7 @@
     "ai_reason": "",
     "source_en": "Utility has an unknown error, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Tiện ích gặp lỗi không xác định, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức",
+    "new_translation_vi": "Utility gặp lỗi không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9246,7 +9246,7 @@
     "ai_reason": "",
     "source_en": "Utility has an unknown error, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Tiện ích gặp lỗi không xác định, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức",
+    "new_translation_vi": "Utility gặp lỗi không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9271,7 +9271,7 @@
     "ai_reason": "",
     "source_en": "Utility has an unknown error, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Tiện ích gặp lỗi không xác định, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức",
+    "new_translation_vi": "Utility gặp lỗi không xác định, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9296,7 +9296,7 @@
     "ai_reason": "",
     "source_en": "There is an abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có sự cố bất thường, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức",
+    "new_translation_vi": "Đã xảy ra sự cố, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9321,7 +9321,7 @@
     "ai_reason": "",
     "source_en": "There is an abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có sự cố bất thường, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức",
+    "new_translation_vi": "Đã xảy ra bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9346,7 +9346,7 @@
     "ai_reason": "",
     "source_en": "There is an abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có sự cố bất thường, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức",
+    "new_translation_vi": "Đã xảy ra bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9371,7 +9371,7 @@
     "ai_reason": "",
     "source_en": "There is an abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có sự cố bất thường, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức",
+    "new_translation_vi": "Đã xảy ra bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9396,7 +9396,7 @@
     "ai_reason": "",
     "source_en": "There is an abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có sự cố bất thường, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức",
+    "new_translation_vi": "Đã xảy ra bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9421,7 +9421,7 @@
     "ai_reason": "",
     "source_en": "You cannot claim the same reward twice. If there are any questions, please contact the official customer service.",
     "review_note": "",
-    "new_translation_vi": "Bạn không thể nhận phần thưởng này lần thứ hai. Nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Bạn không thể nhận cùng một phần thưởng hai lần. Nếu có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9446,7 +9446,7 @@
     "ai_reason": "",
     "source_en": "Anomaly detected, if you have any questions, please contact the official customer service.",
     "review_note": "",
-    "new_translation_vi": "Phát hiện dị thường, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Phát hiện bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9471,7 +9471,7 @@
     "ai_reason": "",
     "source_en": "Anomaly detected, if you have any questions, please contact the official customer service.",
     "review_note": "",
-    "new_translation_vi": "Phát hiện dị thường, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Phát hiện bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9496,7 +9496,7 @@
     "ai_reason": "",
     "source_en": "Anomaly detected, if you have any questions, please contact the official customer service.",
     "review_note": "",
-    "new_translation_vi": "Phát hiện dị thường, nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức.",
+    "new_translation_vi": "Phát hiện bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9521,7 +9521,7 @@
     "ai_reason": "",
     "source_en": "Repeatedly claiming rewards, if you have any questions, please contact the official customer service.",
     "review_note": "",
-    "new_translation_vi": "Nhận thưởng liên tục, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ chính thức",
+    "new_translation_vi": "Nhận phần thưởng lặp lại, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9546,7 +9546,7 @@
     "ai_reason": "",
     "source_en": "Level not achieved, please try again later.",
     "review_note": "",
-    "new_translation_vi": "Chưa đạt cấp độ yêu cầu, hãy thử lại sau.",
+    "new_translation_vi": "Chưa đạt cấp độ yêu cầu, vui lòng thử lại sau.",
     "translator_note": ""
   },
   {
@@ -9596,7 +9596,7 @@
     "ai_reason": "",
     "source_en": "There is an abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có sự cố bất thường, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức",
+    "new_translation_vi": "Đã xảy ra bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9621,7 +9621,7 @@
     "ai_reason": "",
     "source_en": "There is an abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có sự cố bất thường, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức",
+    "new_translation_vi": "Đã xảy ra bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9646,7 +9646,7 @@
     "ai_reason": "",
     "source_en": "There is an abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có sự cố bất thường, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức",
+    "new_translation_vi": "Đã xảy ra bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9671,7 +9671,7 @@
     "ai_reason": "",
     "source_en": "There is an abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có sự cố bất thường, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức",
+    "new_translation_vi": "Đã xảy ra bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9696,7 +9696,7 @@
     "ai_reason": "",
     "source_en": "There is an abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có sự cố bất thường, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức",
+    "new_translation_vi": "Đã xảy ra bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9721,7 +9721,7 @@
     "ai_reason": "",
     "source_en": "There is an abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có sự cố bất thường, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức",
+    "new_translation_vi": "Đã xảy ra bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9746,7 +9746,7 @@
     "ai_reason": "",
     "source_en": "There is an abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có sự cố bất thường, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức",
+    "new_translation_vi": "Đã xảy ra bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9771,7 +9771,7 @@
     "ai_reason": "",
     "source_en": "The player has already died when teleporting to the respawn point.",
     "review_note": "",
-    "new_translation_vi": "Người chơi đã tử trận khi dịch chuyển đến điểm hồi sinh.",
+    "new_translation_vi": "Người chơi đã tử vong khi đang dịch chuyển đến điểm hồi sinh.",
     "translator_note": ""
   },
   {
@@ -9796,7 +9796,7 @@
     "ai_reason": "",
     "source_en": "There is an abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có sự cố bất thường, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức",
+    "new_translation_vi": "Đã xảy ra bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9821,7 +9821,7 @@
     "ai_reason": "",
     "source_en": "There is an abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có sự cố bất thường, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức",
+    "new_translation_vi": "Đã xảy ra bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9846,7 +9846,7 @@
     "ai_reason": "",
     "source_en": "There is an abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có sự cố bất thường, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức",
+    "new_translation_vi": "Đã xảy ra bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9871,7 +9871,7 @@
     "ai_reason": "",
     "source_en": "There is an abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có sự cố bất thường, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức",
+    "new_translation_vi": "Đã xảy ra bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9896,7 +9896,7 @@
     "ai_reason": "",
     "source_en": "There is an abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có sự cố bất thường, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức",
+    "new_translation_vi": "Đã xảy ra bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9921,7 +9921,7 @@
     "ai_reason": "",
     "source_en": "There is an abnormality, if you have any questions, please contact the official customer service",
     "review_note": "",
-    "new_translation_vi": "Có sự cố bất thường, nếu có thắc mắc, hãy liên hệ bộ phận hỗ trợ khách hàng chính thức",
+    "new_translation_vi": "Đã xảy ra bất thường, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức.",
     "translator_note": ""
   },
   {
@@ -9946,7 +9946,7 @@
     "ai_reason": "",
     "source_en": "<color=#8c7e51>{0}</color> section is full. Please remove items first.",
     "review_note": "",
-    "new_translation_vi": "Kho <color=#8c7e51>{0}</color> đã đầy. Vui lòng bỏ bớt vật phẩm trước.",
+    "new_translation_vi": "Mục <color=#8c7e51>{0}</color> đã đầy. Vui lòng xóa bớt vật phẩm trước.",
     "translator_note": ""
   },
   {
@@ -9996,7 +9996,7 @@
     "ai_reason": "",
     "source_en": "Selected item cannot be removed.",
     "review_note": "",
-    "new_translation_vi": "Vật phẩm đã chọn không thể bị loại bỏ.",
+    "new_translation_vi": "Vật phẩm đã chọn không thể xóa.",
     "translator_note": ""
   },
   {
@@ -10011,11 +10011,11 @@
     "primary_key": "Text_ItemRecycleChosen_text",
     "column": "Content",
     "category": "dialogue",
-    "status": "translated",
+    "status": "keep_english",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
@@ -10096,7 +10096,7 @@
     "ai_reason": "",
     "source_en": "Recovering data... Please try again later",
     "review_note": "",
-    "new_translation_vi": "Đang khôi phục dữ liệu... Vui lòng thử lại sau",
+    "new_translation_vi": "Đang khôi phục dữ liệu... Vui lòng thử lại sau.",
     "translator_note": ""
   },
   {
@@ -10121,7 +10121,7 @@
     "ai_reason": "",
     "source_en": "Current Setup Load: <color=#a4e058>Smooth</color>",
     "review_note": "",
-    "new_translation_vi": "Tải Thiết Lập Hiện Tại: <color=#a4e058>Mượt</color>",
+    "new_translation_vi": "Tải thiết lập hiện tại: <color=#a4e058>Mượt mà</color>",
     "translator_note": ""
   },
   {
@@ -10146,7 +10146,7 @@
     "ai_reason": "",
     "source_en": "Current Setup Load: <color=#f6b065>Laggy</color>",
     "review_note": "",
-    "new_translation_vi": "Tải Thiết Lập Hiện Tại: <color=#f6b065>Giật Lag</color>",
+    "new_translation_vi": "Tải thiết lập hiện tại: <color=#f6b065>Giật lag</color>",
     "translator_note": ""
   },
   {
@@ -10171,7 +10171,7 @@
     "ai_reason": "",
     "source_en": "Current Setup Load: <color=#f66d6d>Overloaded</color>",
     "review_note": "",
-    "new_translation_vi": "Tải Thiết Lập Hiện Tại: <color=#f66d6d>Quá Tải</color>",
+    "new_translation_vi": "Tải thiết lập hiện tại: <color=#f66d6d>Quá tải</color>",
     "translator_note": ""
   },
   {
@@ -10221,7 +10221,7 @@
     "ai_reason": "",
     "source_en": "Lv.{0}",
     "review_note": "",
-    "new_translation_vi": "Cấp {0}",
+    "new_translation_vi": "Lv.{0}",
     "translator_note": ""
   },
   {
@@ -10246,7 +10246,7 @@
     "ai_reason": "",
     "source_en": "Available in {0}",
     "review_note": "",
-    "new_translation_vi": "Có sẵn trong {0}",
+    "new_translation_vi": "Có sẵn sau {0}",
     "translator_note": ""
   },
   {
@@ -10271,7 +10271,7 @@
     "ai_reason": "",
     "source_en": "Exploration Progress: {0}",
     "review_note": "",
-    "new_translation_vi": "Tiến Độ Thám Hiểm: {0}",
+    "new_translation_vi": "Tiến độ khám phá: {0}",
     "translator_note": ""
   },
   {
@@ -10296,7 +10296,7 @@
     "ai_reason": "",
     "source_en": "The parameters of the event are incorrect, if you have any questions, please contact customer service to deal with them.",
     "review_note": "",
-    "new_translation_vi": "Thông số sự kiện không chính xác, nếu có thắc mắc, vui lòng liên hệ bộ phận chăm sóc khách hàng để xử lý.",
+    "new_translation_vi": "Tham số sự kiện không chính xác, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng để được hỗ trợ.",
     "translator_note": ""
   },
   {
@@ -10321,7 +10321,7 @@
     "ai_reason": "",
     "source_en": "The parameters of the event are incorrect, if you have any questions, please contact customer service to deal with them.",
     "review_note": "",
-    "new_translation_vi": "Thông số sự kiện không chính xác, nếu có thắc mắc, vui lòng liên hệ bộ phận chăm sóc khách hàng để xử lý.",
+    "new_translation_vi": "Tham số sự kiện không chính xác, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng để được hỗ trợ.",
     "translator_note": ""
   },
   {
@@ -10346,7 +10346,7 @@
     "ai_reason": "",
     "source_en": "The parameters of the event are incorrect, if you have any questions, please contact customer service to deal with them.",
     "review_note": "",
-    "new_translation_vi": "Thông số sự kiện không chính xác, nếu có thắc mắc, vui lòng liên hệ bộ phận chăm sóc khách hàng để xử lý.",
+    "new_translation_vi": "Tham số sự kiện không chính xác, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng để được hỗ trợ.",
     "translator_note": ""
   },
   {
@@ -10371,7 +10371,7 @@
     "ai_reason": "",
     "source_en": "The event is over. You cannot earn more points.",
     "review_note": "",
-    "new_translation_vi": "Sự kiện đã kết thúc. Bạn không thể kiếm thêm điểm nữa.",
+    "new_translation_vi": "Sự kiện đã kết thúc. Bạn không thể kiếm thêm điểm.",
     "translator_note": ""
   },
   {
@@ -10396,7 +10396,7 @@
     "ai_reason": "",
     "source_en": "The parameters of the event are incorrect, if you have any questions, please contact customer service to deal with them.",
     "review_note": "",
-    "new_translation_vi": "Thông số sự kiện không chính xác, nếu có thắc mắc, vui lòng liên hệ bộ phận chăm sóc khách hàng để xử lý.",
+    "new_translation_vi": "Tham số sự kiện không chính xác, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng để được hỗ trợ.",
     "translator_note": ""
   },
   {
@@ -10421,7 +10421,7 @@
     "ai_reason": "",
     "source_en": "The parameters of the event are incorrect, if you have any questions, please contact customer service to deal with them.",
     "review_note": "",
-    "new_translation_vi": "Thông số sự kiện không chính xác, nếu có thắc mắc, vui lòng liên hệ bộ phận chăm sóc khách hàng để xử lý.",
+    "new_translation_vi": "Tham số sự kiện không chính xác, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ bộ phận chăm sóc khách hàng để được hỗ trợ.",
     "translator_note": ""
   },
   {
@@ -10446,7 +10446,7 @@
     "ai_reason": "",
     "source_en": "Leaving the quest area will end your progress and save it. You can resume from the last archive point when you return.",
     "review_note": "",
-    "new_translation_vi": "Rời khỏi khu vực nhiệm vụ sẽ kết thúc tiến trình và lưu lại. Bạn có thể tiếp tục từ điểm lưu cuối khi quay lại.",
+    "new_translation_vi": "Rời khỏi khu vực nhiệm vụ sẽ kết thúc và lưu tiến độ của bạn. Bạn có thể tiếp tục từ điểm lưu gần nhất khi quay lại.",
     "translator_note": ""
   },
   {
@@ -10471,7 +10471,7 @@
     "ai_reason": "",
     "source_en": "You have left the quest area. Your current quest progress has been ended and archived. Resume this quest from the last archive point?",
     "review_note": "",
-    "new_translation_vi": "Bạn đã rời khỏi khu vực nhiệm vụ. Tiến trình nhiệm vụ hiện tại đã bị kết thúc và lưu trữ. Tiếp tục nhiệm vụ từ điểm lưu cuối cùng?",
+    "new_translation_vi": "Bạn đã rời khỏi khu vực nhiệm vụ. Tiến độ nhiệm vụ hiện tại đã được kết thúc và lưu lại. Bạn có muốn tiếp tục nhiệm vụ từ điểm lưu gần nhất không?",
     "translator_note": ""
   },
   {
@@ -10521,7 +10521,7 @@
     "ai_reason": "",
     "source_en": "Zone selection failed, please try again.",
     "review_note": "",
-    "new_translation_vi": "Chọn khu thất bại, hãy thử lại.",
+    "new_translation_vi": "Chọn khu vực thất bại, vui lòng thử lại.",
     "translator_note": ""
   },
   {
@@ -10546,7 +10546,7 @@
     "ai_reason": "",
     "source_en": "Zone selection failed, please try again.",
     "review_note": "",
-    "new_translation_vi": "Chọn khu thất bại, hãy thử lại.",
+    "new_translation_vi": "Chọn khu vực thất bại, vui lòng thử lại.",
     "translator_note": ""
   },
   {
@@ -10571,7 +10571,7 @@
     "ai_reason": "",
     "source_en": "There is no corresponding user information, please try again.",
     "review_note": "",
-    "new_translation_vi": "Không có thông tin người dùng tương ứng, vui lòng thử lại.",
+    "new_translation_vi": "Không tìm thấy thông tin người dùng tương ứng, vui lòng thử lại.",
     "translator_note": ""
   },
   {
@@ -10596,7 +10596,7 @@
     "ai_reason": "",
     "source_en": "User information query failed, please try again.",
     "review_note": "",
-    "new_translation_vi": "Truy vấn thông tin người dùng thất bại, hãy thử lại.",
+    "new_translation_vi": "Truy vấn thông tin người dùng thất bại, vui lòng thử lại.",
     "translator_note": ""
   },
   {
@@ -10621,7 +10621,7 @@
     "ai_reason": "",
     "source_en": "Zone selection failed, please try another zone.",
     "review_note": "",
-    "new_translation_vi": "Chọn khu thất bại, hãy thử khu khác.",
+    "new_translation_vi": "Chọn khu vực thất bại, vui lòng chọn khu vực khác.",
     "translator_note": ""
   },
   {
@@ -10838,15 +10838,15 @@
     "category": "dialogue",
     "status": "translated",
     "issues": "added_curly_brace",
-    "rule_decision": "REVIEW",
+    "rule_decision": "PASS",
     "rule_score": 10,
-    "rule_issues": "added_curly_brace",
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "Character is not in the corresponding scene.",
     "review_note": "",
-    "new_translation_vi": "{CharacterName} không có mặt trong cảnh này.",
+    "new_translation_vi": "Nhân vật không ở trong cảnh tương ứng.",
     "translator_note": ""
   },
   {
@@ -10921,7 +10921,7 @@
     "ai_reason": "",
     "source_en": "The corresponding function is not yet enabled.",
     "review_note": "",
-    "new_translation_vi": "Tính năng này hiện chưa được kích hoạt.",
+    "new_translation_vi": "Chức năng tương ứng chưa được kích hoạt.",
     "translator_note": ""
   },
   {
@@ -10946,7 +10946,7 @@
     "ai_reason": "",
     "source_en": "The quality of consumed props is too high, please replace them with other props.",
     "review_note": "",
-    "new_translation_vi": "Chất lượng đạo cụ tiêu thụ quá cao, vui lòng thay thế bằng đạo cụ khác.",
+    "new_translation_vi": "Chất lượng đạo cụ tiêu hao quá cao, vui lòng thay thế bằng đạo cụ khác.",
     "translator_note": ""
   },
   {
@@ -10996,7 +10996,7 @@
     "ai_reason": "",
     "source_en": "The Echo skin has not been unlocked yet.",
     "review_note": "",
-    "new_translation_vi": "Giao diện Vọng Âm vẫn chưa được mở khóa.",
+    "new_translation_vi": "Trang phục Echo chưa được mở khóa.",
     "translator_note": ""
   },
   {
@@ -11021,7 +11021,7 @@
     "ai_reason": "",
     "source_en": "Echo skin mismatch.",
     "review_note": "",
-    "new_translation_vi": "Trang phục Echo không khớp",
+    "new_translation_vi": "Trang phục Echo không khớp.",
     "translator_note": ""
   },
   {
@@ -11071,7 +11071,7 @@
     "ai_reason": "",
     "source_en": "You cannot Cook more.",
     "review_note": "",
-    "new_translation_vi": "Không thể nấu thêm được nữa.",
+    "new_translation_vi": "Bạn không thể Nấu thêm nữa.",
     "translator_note": ""
   },
   {
@@ -11096,7 +11096,7 @@
     "ai_reason": "",
     "source_en": "Not within the time limit.",
     "review_note": "",
-    "new_translation_vi": "Ngoài giới hạn thời gian",
+    "new_translation_vi": "Không nằm trong giới hạn thời gian.",
     "translator_note": ""
   },
   {
@@ -11146,7 +11146,7 @@
     "ai_reason": "",
     "source_en": "Not within the time limit.",
     "review_note": "",
-    "new_translation_vi": "Ngoài giới hạn thời gian",
+    "new_translation_vi": "Không nằm trong giới hạn thời gian.",
     "translator_note": ""
   },
   {
@@ -11171,7 +11171,7 @@
     "ai_reason": "",
     "source_en": "You cannot Synthesize more.",
     "review_note": "",
-    "new_translation_vi": "Bạn không thể Tổng Hợp thêm nữa.",
+    "new_translation_vi": "Bạn không thể Tổng hợp thêm nữa.",
     "translator_note": ""
   },
   {
@@ -11196,7 +11196,7 @@
     "ai_reason": "",
     "source_en": "Not within the time limit.",
     "review_note": "",
-    "new_translation_vi": "Ngoài giới hạn thời gian",
+    "new_translation_vi": "Không nằm trong giới hạn thời gian.",
     "translator_note": ""
   },
   {
@@ -11221,7 +11221,7 @@
     "ai_reason": "",
     "source_en": "Error when logging into the server, please contact official customer service if you have any questions.",
     "review_note": "",
-    "new_translation_vi": "Lỗi khi đăng nhập máy chủ, vui lòng liên hệ bộ phận hỗ trợ chính thức nếu có thắc mắc.",
+    "new_translation_vi": "Lỗi khi đăng nhập vào máy chủ, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức nếu bạn có bất kỳ câu hỏi nào.",
     "translator_note": ""
   },
   {
@@ -11246,7 +11246,7 @@
     "ai_reason": "",
     "source_en": "The current login device is blocked due to {0}.",
     "review_note": "",
-    "new_translation_vi": "Thiết bị đăng nhập hiện tại bị chặn do {0}.",
+    "new_translation_vi": "Thiết bị đăng nhập hiện tại đã bị chặn do {0}.",
     "translator_note": ""
   },
   {
@@ -11271,7 +11271,7 @@
     "ai_reason": "",
     "source_en": "Character name length does not match, please try again.",
     "review_note": "",
-    "new_translation_vi": "Độ dài tên không hợp lệ, hãy thử lại.",
+    "new_translation_vi": "Độ dài tên nhân vật không khớp, vui lòng thử lại.",
     "translator_note": ""
   },
   {
@@ -11296,7 +11296,7 @@
     "ai_reason": "",
     "source_en": "The text length does not match, please try again.",
     "review_note": "",
-    "new_translation_vi": "Độ dài văn bản không khớp, hãy thử lại.",
+    "new_translation_vi": "Độ dài văn bản không khớp, vui lòng thử lại.",
     "translator_note": ""
   },
   {
@@ -11321,7 +11321,7 @@
     "ai_reason": "",
     "source_en": "Wrong number of props.",
     "review_note": "",
-    "new_translation_vi": "Số lượng đạo cụ sai",
+    "new_translation_vi": "Số lượng đạo cụ không chính xác.",
     "translator_note": ""
   },
   {
@@ -11346,7 +11346,7 @@
     "ai_reason": "",
     "source_en": "Data Merge configurations do not exist.",
     "review_note": "",
-    "new_translation_vi": "Không tìm thấy cấu hình Hợp Nhất Dữ Liệu.",
+    "new_translation_vi": "Cấu hình Hợp nhất Dữ liệu không tồn tại.",
     "translator_note": ""
   },
   {
@@ -11371,7 +11371,7 @@
     "ai_reason": "",
     "source_en": "Data Merge configurations do not exist.",
     "review_note": "",
-    "new_translation_vi": "Không tìm thấy cấu hình Hợp Nhất Dữ Liệu.",
+    "new_translation_vi": "Cấu hình Hợp nhất Dữ liệu không tồn tại.",
     "translator_note": ""
   },
   {
@@ -11396,7 +11396,7 @@
     "ai_reason": "",
     "source_en": "You cannot claim more drops. Maximum attempts reached.",
     "review_note": "",
-    "new_translation_vi": "Bạn không thể nhận thêm vật phẩm rơi. Đã đạt số lần tối đa.",
+    "new_translation_vi": "Bạn không thể nhận thêm vật phẩm rơi ra. Đã đạt đến giới hạn số lần thử.",
     "translator_note": ""
   },
   {
@@ -11421,7 +11421,7 @@
     "ai_reason": "",
     "source_en": "Anomalies exist, please contact official customer service if you have any questions.",
     "review_note": "",
-    "new_translation_vi": "Có hiện tượng bất thường, hãy liên hệ bộ phận hỗ trợ chính thức nếu có thắc mắc.",
+    "new_translation_vi": "Phát hiện bất thường, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức nếu bạn có bất kỳ câu hỏi nào.",
     "translator_note": ""
   },
   {
@@ -11446,7 +11446,7 @@
     "ai_reason": "",
     "source_en": "Anomalies exist, please contact official customer service if you have any questions.",
     "review_note": "",
-    "new_translation_vi": "Có hiện tượng bất thường, hãy liên hệ bộ phận hỗ trợ chính thức nếu có thắc mắc.",
+    "new_translation_vi": "Phát hiện bất thường, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức nếu bạn có bất kỳ câu hỏi nào.",
     "translator_note": ""
   },
   {
@@ -11471,7 +11471,7 @@
     "ai_reason": "",
     "source_en": "Anomalies exist, please contact official customer service if you have any questions.",
     "review_note": "",
-    "new_translation_vi": "Có hiện tượng bất thường, hãy liên hệ bộ phận hỗ trợ chính thức nếu có thắc mắc.",
+    "new_translation_vi": "Phát hiện bất thường, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức nếu bạn có bất kỳ câu hỏi nào.",
     "translator_note": ""
   },
   {
@@ -11496,7 +11496,7 @@
     "ai_reason": "",
     "source_en": "Anomalies exist, please contact official customer service if you have any questions.",
     "review_note": "",
-    "new_translation_vi": "Có hiện tượng bất thường, hãy liên hệ bộ phận hỗ trợ chính thức nếu có thắc mắc.",
+    "new_translation_vi": "Phát hiện bất thường, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức nếu bạn có bất kỳ câu hỏi nào.",
     "translator_note": ""
   },
   {
@@ -11521,7 +11521,7 @@
     "ai_reason": "",
     "source_en": "Anomalies exist, please contact official customer service if you have any questions.",
     "review_note": "",
-    "new_translation_vi": "Có hiện tượng bất thường, hãy liên hệ bộ phận hỗ trợ chính thức nếu có thắc mắc.",
+    "new_translation_vi": "Phát hiện bất thường, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức nếu bạn có bất kỳ câu hỏi nào.",
     "translator_note": ""
   },
   {
@@ -11571,7 +11571,7 @@
     "ai_reason": "",
     "source_en": "Anomalies exist, please contact official customer service if you have any questions.",
     "review_note": "",
-    "new_translation_vi": "Có hiện tượng bất thường, hãy liên hệ bộ phận hỗ trợ chính thức nếu có thắc mắc.",
+    "new_translation_vi": "Phát hiện bất thường, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức nếu bạn có bất kỳ câu hỏi nào.",
     "translator_note": ""
   },
   {
@@ -11596,7 +11596,7 @@
     "ai_reason": "",
     "source_en": "Anomalies exist, please contact official customer service if you have any questions.",
     "review_note": "",
-    "new_translation_vi": "Có hiện tượng bất thường, hãy liên hệ bộ phận hỗ trợ chính thức nếu có thắc mắc.",
+    "new_translation_vi": "Phát hiện bất thường, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức nếu bạn có bất kỳ câu hỏi nào.",
     "translator_note": ""
   },
   {
@@ -11621,7 +11621,7 @@
     "ai_reason": "",
     "source_en": "Your account is now locked due to overdue recharges.",
     "review_note": "",
-    "new_translation_vi": "Tài khoản của cậu đã bị khóa do nạp thẻ quá hạn.",
+    "new_translation_vi": "Tài khoản của bạn hiện đã bị khóa do nạp tiền quá hạn.",
     "translator_note": ""
   },
   {
@@ -11721,7 +11721,7 @@
     "ai_reason": "",
     "source_en": "Error when logging into the server, please contact official customer service if you have any questions.",
     "review_note": "",
-    "new_translation_vi": "Lỗi khi đăng nhập máy chủ, vui lòng liên hệ bộ phận hỗ trợ chính thức nếu có thắc mắc.",
+    "new_translation_vi": "Lỗi khi đăng nhập vào máy chủ, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức nếu bạn có bất kỳ câu hỏi nào.",
     "translator_note": ""
   },
   {
@@ -11746,7 +11746,7 @@
     "ai_reason": "",
     "source_en": "Error when logging into the server, please contact official customer service if you have any questions.",
     "review_note": "",
-    "new_translation_vi": "Lỗi khi đăng nhập máy chủ, vui lòng liên hệ bộ phận hỗ trợ chính thức nếu có thắc mắc.",
+    "new_translation_vi": "Lỗi khi đăng nhập vào máy chủ, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức nếu bạn có bất kỳ câu hỏi nào.",
     "translator_note": ""
   },
   {
@@ -11771,7 +11771,7 @@
     "ai_reason": "",
     "source_en": "Failed to connect to the server, please try again later.",
     "review_note": "",
-    "new_translation_vi": "Không thể kết nối với máy chủ, hãy thử lại sau.",
+    "new_translation_vi": "Không thể kết nối với máy chủ, vui lòng thử lại sau.",
     "translator_note": ""
   },
   {
@@ -11796,7 +11796,7 @@
     "ai_reason": "",
     "source_en": "Failed to connect to the server, please try again later.",
     "review_note": "",
-    "new_translation_vi": "Không thể kết nối với máy chủ, hãy thử lại sau.",
+    "new_translation_vi": "Không thể kết nối với máy chủ, vui lòng thử lại sau.",
     "translator_note": ""
   },
   {
@@ -11821,7 +11821,7 @@
     "ai_reason": "",
     "source_en": "Failed to connect to the server, please try again later.",
     "review_note": "",
-    "new_translation_vi": "Không thể kết nối với máy chủ, hãy thử lại sau.",
+    "new_translation_vi": "Không thể kết nối với máy chủ, vui lòng thử lại sau.",
     "translator_note": ""
   },
   {
@@ -11846,7 +11846,7 @@
     "ai_reason": "",
     "source_en": "Anomalies exist, please contact official customer service if you have any questions.",
     "review_note": "",
-    "new_translation_vi": "Có hiện tượng bất thường, hãy liên hệ bộ phận hỗ trợ chính thức nếu có thắc mắc.",
+    "new_translation_vi": "Phát hiện bất thường, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức nếu bạn có bất kỳ câu hỏi nào.",
     "translator_note": ""
   },
   {
@@ -11871,7 +11871,7 @@
     "ai_reason": "",
     "source_en": "Anomalies exist, please contact official customer service if you have any questions.",
     "review_note": "",
-    "new_translation_vi": "Có hiện tượng bất thường, hãy liên hệ bộ phận hỗ trợ chính thức nếu có thắc mắc.",
+    "new_translation_vi": "Phát hiện bất thường, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức nếu bạn có bất kỳ câu hỏi nào.",
     "translator_note": ""
   },
   {
@@ -11921,7 +11921,7 @@
     "ai_reason": "",
     "source_en": "Failed to add Memo, please try again.",
     "review_note": "",
-    "new_translation_vi": "Không thể thêm Ghi Chú, hãy thử lại.",
+    "new_translation_vi": "Thêm Ghi chú thất bại, vui lòng thử lại.",
     "translator_note": ""
   },
   {
@@ -11946,7 +11946,7 @@
     "ai_reason": "",
     "source_en": "Failed to update Memo, please try again.",
     "review_note": "",
-    "new_translation_vi": "Cập nhật Ghi chú thất bại, hãy thử lại",
+    "new_translation_vi": "Cập nhật Ghi chú thất bại, vui lòng thử lại.",
     "translator_note": ""
   },
   {
@@ -11971,7 +11971,7 @@
     "ai_reason": "",
     "source_en": "Failed to remove Memo, please try again.",
     "review_note": "",
-    "new_translation_vi": "Xóa Ghi Chú thất bại, hãy thử lại.",
+    "new_translation_vi": "Xóa Ghi chú thất bại, vui lòng thử lại.",
     "translator_note": ""
   },
   {
@@ -11996,7 +11996,7 @@
     "ai_reason": "",
     "source_en": "Anomalies exist, please contact official customer service if you have any questions.",
     "review_note": "",
-    "new_translation_vi": "Có hiện tượng bất thường, hãy liên hệ bộ phận hỗ trợ chính thức nếu có thắc mắc.",
+    "new_translation_vi": "Phát hiện bất thường, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức nếu bạn có bất kỳ câu hỏi nào.",
     "translator_note": ""
   },
   {
@@ -12021,7 +12021,7 @@
     "ai_reason": "",
     "source_en": "Anomalies exist, please contact official customer service if you have any questions.",
     "review_note": "",
-    "new_translation_vi": "Có hiện tượng bất thường, hãy liên hệ bộ phận hỗ trợ chính thức nếu có thắc mắc.",
+    "new_translation_vi": "Phát hiện bất thường, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức nếu bạn có bất kỳ câu hỏi nào.",
     "translator_note": ""
   },
   {
@@ -12046,7 +12046,7 @@
     "ai_reason": "",
     "source_en": "Anomalies exist, please contact official customer service if you have any questions.",
     "review_note": "",
-    "new_translation_vi": "Có hiện tượng bất thường, hãy liên hệ bộ phận hỗ trợ chính thức nếu có thắc mắc.",
+    "new_translation_vi": "Phát hiện bất thường, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức nếu bạn có bất kỳ câu hỏi nào.",
     "translator_note": ""
   },
   {
@@ -12071,7 +12071,7 @@
     "ai_reason": "",
     "source_en": "Props configuration type mismatch.",
     "review_note": "",
-    "new_translation_vi": "Cấu hình đạo cụ không khớp.",
+    "new_translation_vi": "Loại cấu hình đạo cụ không khớp.",
     "translator_note": ""
   },
   {
@@ -12096,7 +12096,7 @@
     "ai_reason": "",
     "source_en": "Anomalies exist, please contact official customer service if you have any questions.",
     "review_note": "",
-    "new_translation_vi": "Có hiện tượng bất thường, hãy liên hệ bộ phận hỗ trợ chính thức nếu có thắc mắc.",
+    "new_translation_vi": "Phát hiện bất thường, vui lòng liên hệ bộ phận chăm sóc khách hàng chính thức nếu bạn có bất kỳ câu hỏi nào.",
     "translator_note": ""
   },
   {
@@ -12121,7 +12121,7 @@
     "ai_reason": "",
     "source_en": "The prop cannot be removed.",
     "review_note": "",
-    "new_translation_vi": "Không thể gỡ bỏ đạo cụ này.",
+    "new_translation_vi": "Không thể xóa đạo cụ này.",
     "translator_note": ""
   },
   {
@@ -12146,7 +12146,7 @@
     "ai_reason": "",
     "source_en": "This prop cannot be added.",
     "review_note": "",
-    "new_translation_vi": "Không thể thêm đạo cụ này được.",
+    "new_translation_vi": "Không thể thêm đạo cụ này.",
     "translator_note": ""
   },
   {
@@ -12171,7 +12171,7 @@
     "ai_reason": "",
     "source_en": "Failed to add item.",
     "review_note": "",
-    "new_translation_vi": "Không thể thêm vật phẩm.",
+    "new_translation_vi": "Thêm vật phẩm thất bại.",
     "translator_note": ""
   },
   {
@@ -12196,7 +12196,7 @@
     "ai_reason": "",
     "source_en": "Modifying Note failed, please try again.",
     "review_note": "",
-    "new_translation_vi": "Điều chỉnh Note thất bại, vui lòng thử lại.",
+    "new_translation_vi": "Sửa đổi Ghi chú thất bại, vui lòng thử lại.",
     "translator_note": ""
   },
   {
@@ -12271,7 +12271,7 @@
     "ai_reason": "",
     "source_en": "The team does not exist.",
     "review_note": "",
-    "new_translation_vi": "Đội đó không tồn tại.",
+    "new_translation_vi": "Đội hình không tồn tại.",
     "translator_note": ""
   },
   {
@@ -12296,7 +12296,7 @@
     "ai_reason": "",
     "source_en": "Incorrect number of Character, please try again.",
     "review_note": "",
-    "new_translation_vi": "Số lượng Cộng Hưởng Giả không đúng, hãy thử lại.",
+    "new_translation_vi": "Số lượng Nhân vật không chính xác, vui lòng thử lại.",
     "translator_note": ""
   },
   {
@@ -12321,7 +12321,7 @@
     "ai_reason": "",
     "source_en": "Failed to add Data Bank experience.",
     "review_note": "",
-    "new_translation_vi": "Không thể thêm kinh nghiệm cho Ngân Hàng Dữ Liệu.",
+    "new_translation_vi": "Thêm kinh nghiệm Data Bank thất bại.",
     "translator_note": ""
   },
   {
@@ -12421,7 +12421,7 @@
     "ai_reason": "",
     "source_en": "Point rewards have been claimed.",
     "review_note": "",
-    "new_translation_vi": "Điểm thưởng đã được nhận.",
+    "new_translation_vi": "Phần thưởng điểm đã được nhận.",
     "translator_note": ""
   },
   {

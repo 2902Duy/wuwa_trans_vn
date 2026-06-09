@@ -11,7 +11,6 @@
     "primary_key": "2",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -22,7 +21,8 @@
     "source_en": "Resonance Liberation",
     "review_note": "",
     "new_translation_vi": "Resonance Liberation",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000049",
@@ -36,7 +36,6 @@
     "primary_key": "3",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -46,8 +45,9 @@
     "ai_reason": "",
     "source_en": "Resonance energy",
     "review_note": "",
-    "new_translation_vi": "Năng lượng Cộng Hưởng",
-    "translator_note": ""
+    "new_translation_vi": "Năng lượng Cộng hưởng",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000050",
@@ -61,7 +61,6 @@
     "primary_key": "9",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -71,8 +70,9 @@
     "ai_reason": "",
     "source_en": "Scanner",
     "review_note": "",
-    "new_translation_vi": "Máy Quét",
-    "translator_note": ""
+    "new_translation_vi": "Máy quét",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000051",
@@ -86,7 +86,6 @@
     "primary_key": "10",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -96,8 +95,9 @@
     "ai_reason": "",
     "source_en": "Grapple Point",
     "review_note": "",
-    "new_translation_vi": "Điểm Neo Bám",
-    "translator_note": ""
+    "new_translation_vi": "Điểm móc kéo",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000052",
@@ -111,7 +111,6 @@
     "primary_key": "11",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -122,7 +121,8 @@
     "source_en": "Concerto Effect",
     "review_note": "",
     "new_translation_vi": "Hiệu ứng Concerto",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000053",
@@ -136,7 +136,6 @@
     "primary_key": "14",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -146,8 +145,9 @@
     "ai_reason": "",
     "source_en": "Counter-Attack",
     "review_note": "",
-    "new_translation_vi": "Phản Công",
-    "translator_note": ""
+    "new_translation_vi": "Phản công",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000054",
@@ -161,7 +161,6 @@
     "primary_key": "18",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -171,8 +170,9 @@
     "ai_reason": "",
     "source_en": "Material",
     "review_note": "",
-    "new_translation_vi": "Vật liệu",
-    "translator_note": ""
+    "new_translation_vi": "Nguyên liệu",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000055",
@@ -186,7 +186,6 @@
     "primary_key": "21",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -196,8 +195,9 @@
     "ai_reason": "",
     "source_en": "Gravity Stream",
     "review_note": "",
-    "new_translation_vi": "Dòng Trọng Lực",
-    "translator_note": ""
+    "new_translation_vi": "Dòng Chảy Trọng Lực",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000056",
@@ -211,7 +211,6 @@
     "primary_key": "23",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -221,8 +220,9 @@
     "ai_reason": "",
     "source_en": "Choral Beacon",
     "review_note": "",
-    "new_translation_vi": "Choral Beacon",
-    "translator_note": ""
+    "new_translation_vi": "Ngọn Hải Đăng Đồng Ca",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000057",
@@ -236,7 +236,6 @@
     "primary_key": "31",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -247,7 +246,8 @@
     "source_en": "Exile Commoner",
     "review_note": "",
     "new_translation_vi": "Exile Commoner",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000058",
@@ -261,7 +261,6 @@
     "primary_key": "33",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -272,7 +271,8 @@
     "source_en": "Tacet Field",
     "review_note": "",
     "new_translation_vi": "Tacet Field",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000059",
@@ -286,7 +286,6 @@
     "primary_key": "34",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -296,8 +295,9 @@
     "ai_reason": "",
     "source_en": "Calamity Class",
     "review_note": "",
-    "new_translation_vi": "Hạng Thảm Họa",
-    "translator_note": ""
+    "new_translation_vi": "Cấp Thảm Họa",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000060",
@@ -311,7 +311,6 @@
     "primary_key": "35",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -322,7 +321,8 @@
     "source_en": "Overlord Class",
     "review_note": "",
     "new_translation_vi": "Hạng Overlord",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000061",
@@ -336,7 +336,6 @@
     "primary_key": "36",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -346,8 +345,9 @@
     "ai_reason": "",
     "source_en": "Elite Class",
     "review_note": "",
-    "new_translation_vi": "Hạng Cao Cấp",
-    "translator_note": ""
+    "new_translation_vi": "Hạng Elite",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000062",
@@ -361,7 +361,6 @@
     "primary_key": "37",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -371,8 +370,9 @@
     "ai_reason": "",
     "source_en": "Standard Class",
     "review_note": "",
-    "new_translation_vi": "Hạng Chuẩn",
-    "translator_note": ""
+    "new_translation_vi": "Hạng Tiêu chuẩn",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000063",
@@ -386,7 +386,6 @@
     "primary_key": "55",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -397,7 +396,8 @@
     "source_en": "Jump",
     "review_note": "",
     "new_translation_vi": "Nhảy",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000064",
@@ -411,7 +411,6 @@
     "primary_key": "61",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -421,8 +420,9 @@
     "ai_reason": "",
     "source_en": "Hand Glider",
     "review_note": "",
-    "new_translation_vi": "Dù Lượn Tay",
-    "translator_note": ""
+    "new_translation_vi": "Diều lượn",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000065",
@@ -436,7 +436,6 @@
     "primary_key": "64",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -446,8 +445,9 @@
     "ai_reason": "",
     "source_en": "Cooking",
     "review_note": "",
-    "new_translation_vi": "Nấu ăn",
-    "translator_note": ""
+    "new_translation_vi": "Cooking",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000066",
@@ -461,7 +461,6 @@
     "primary_key": "66",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -471,8 +470,9 @@
     "ai_reason": "",
     "source_en": "Pioneer Association",
     "review_note": "",
-    "new_translation_vi": "Pioneer Association",
-    "translator_note": ""
+    "new_translation_vi": "Hiệp hội Tiên phong",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000067",
@@ -486,7 +486,6 @@
     "primary_key": "67",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -496,7 +495,8 @@
     "ai_reason": "",
     "source_en": "Squeak Express",
     "review_note": "",
-    "new_translation_vi": "Tàu Squeak Tốc Hành",
-    "translator_note": ""
+    "new_translation_vi": "Squeak Express",
+    "translator_note": "",
+    "status": "translated"
   }
 ]

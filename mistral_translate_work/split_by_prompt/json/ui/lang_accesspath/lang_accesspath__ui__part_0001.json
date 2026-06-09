@@ -11,7 +11,6 @@
     "primary_key": "1",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -21,8 +20,9 @@
     "ai_reason": "",
     "source_en": "Obtained via tasks",
     "review_note": "",
-    "new_translation_vi": "Nhận được từ nhiệm vụ",
-    "translator_note": ""
+    "new_translation_vi": "Nhận được thông qua nhiệm vụ",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000002",
@@ -36,7 +36,6 @@
     "primary_key": "2",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -46,8 +45,9 @@
     "ai_reason": "",
     "source_en": "Obtained via Dangerous Sampling initial clear",
     "review_note": "",
-    "new_translation_vi": "Nhận được từ lần đầu vượt ải Dangerous Sampling",
-    "translator_note": ""
+    "new_translation_vi": "Nhận được thông qua lần vượt ải đầu tiên của Dangerous Sampling",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000003",
@@ -61,7 +61,6 @@
     "primary_key": "3",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -71,8 +70,9 @@
     "ai_reason": "",
     "source_en": "Obtained via Tacet Field-Medium challenge",
     "review_note": "",
-    "new_translation_vi": "Nhận được từ thử thách Tổ Tacet - Cấp Trung",
-    "translator_note": ""
+    "new_translation_vi": "Nhận được thông qua thử thách Tacet Field-Trung bình",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000004",
@@ -86,7 +86,6 @@
     "primary_key": "4",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -96,8 +95,9 @@
     "ai_reason": "",
     "source_en": "Obtained via Crownless - Replica challenge",
     "review_note": "",
-    "new_translation_vi": "Nhận được từ thử thách Crownless - Replica",
-    "translator_note": ""
+    "new_translation_vi": "Nhận được thông qua thử thách Crownless - Replica",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000005",
@@ -111,7 +111,6 @@
     "primary_key": "5",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -121,8 +120,9 @@
     "ai_reason": "",
     "source_en": "Obtained via Thunder Squama challenge",
     "review_note": "",
-    "new_translation_vi": "Nhận được từ thử thách Thunder Squama",
-    "translator_note": ""
+    "new_translation_vi": "Nhận được thông qua thử thách Thunder Squama",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000006",
@@ -136,7 +136,6 @@
     "primary_key": "6",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -146,8 +145,9 @@
     "ai_reason": "",
     "source_en": "Obtained via Mourning Aix challenge",
     "review_note": "",
-    "new_translation_vi": "Nhận được từ thử thách Mourning Aix",
-    "translator_note": ""
+    "new_translation_vi": "Nhận được thông qua thử thách Mourning Aix",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000007",
@@ -161,7 +161,6 @@
     "primary_key": "7",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -171,8 +170,9 @@
     "ai_reason": "",
     "source_en": "Obtained via Inferno Rider challenge",
     "review_note": "",
-    "new_translation_vi": "Nhận được từ thử thách Inferno Rider",
-    "translator_note": ""
+    "new_translation_vi": "Nhận được thông qua thử thách Inferno Rider",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000008",
@@ -186,7 +186,6 @@
     "primary_key": "8",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -196,8 +195,9 @@
     "ai_reason": "",
     "source_en": "Obtained via Feilian Beringal challenge",
     "review_note": "",
-    "new_translation_vi": "Nhận được từ thử thách Feilian Beringal",
-    "translator_note": ""
+    "new_translation_vi": "Nhận được thông qua thử thách Feilian Beringal",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000009",
@@ -211,7 +211,6 @@
     "primary_key": "9",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -221,8 +220,9 @@
     "ai_reason": "",
     "source_en": "Obtained via Impermanence Heron challenge",
     "review_note": "",
-    "new_translation_vi": "Nhận được từ thử thách Impermanence Heron",
-    "translator_note": ""
+    "new_translation_vi": "Nhận được thông qua thử thách Impermanence Heron",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000010",
@@ -236,7 +236,6 @@
     "primary_key": "10",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -246,8 +245,9 @@
     "ai_reason": "",
     "source_en": "Obtained via Gleamtender challenge",
     "review_note": "",
-    "new_translation_vi": "Nhận được từ thử thách Gleamtender",
-    "translator_note": ""
+    "new_translation_vi": "Nhận được thông qua thử thách Gleamtender",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000011",
@@ -261,7 +261,6 @@
     "primary_key": "11",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -271,8 +270,9 @@
     "ai_reason": "",
     "source_en": "Obtained via Thousand Sins - The Obscured challenge",
     "review_note": "",
-    "new_translation_vi": "Nhận được từ thử thách Thousand Sins - The Obscured",
-    "translator_note": ""
+    "new_translation_vi": "Nhận được thông qua thử thách Thousand Sins - The Obscured",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000012",
@@ -286,7 +286,6 @@
     "primary_key": "12",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -296,8 +295,9 @@
     "ai_reason": "",
     "source_en": "Obtained via Bell-Borne Geochelone challenge",
     "review_note": "",
-    "new_translation_vi": "Nhận được từ thử thách Bell-Borne Geochelone",
-    "translator_note": ""
+    "new_translation_vi": "Nhận được thông qua thử thách Bell-Borne Geochelone",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000013",
@@ -311,7 +311,6 @@
     "primary_key": "13",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -321,8 +320,9 @@
     "ai_reason": "",
     "source_en": "Obtained via Seatrail Narwhal challenge",
     "review_note": "",
-    "new_translation_vi": "Nhận được từ thử thách Seatrail Narwhal",
-    "translator_note": ""
+    "new_translation_vi": "Nhận được thông qua thử thách Seatrail Narwhal",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000014",
@@ -336,7 +336,6 @@
     "primary_key": "14",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -346,8 +345,9 @@
     "ai_reason": "",
     "source_en": "Obtained via Scar challenge",
     "review_note": "",
-    "new_translation_vi": "Nhận được từ thử thách Scar",
-    "translator_note": ""
+    "new_translation_vi": "Nhận được thông qua thử thách Scar",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000015",
@@ -361,7 +361,6 @@
     "primary_key": "15",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -371,8 +370,9 @@
     "ai_reason": "",
     "source_en": "Obtained via Crownless - Prime challenge",
     "review_note": "",
-    "new_translation_vi": "Nhận được từ thử thách Crownless - Prime",
-    "translator_note": ""
+    "new_translation_vi": "Nhận được thông qua thử thách Crownless - Prime",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000016",
@@ -386,7 +386,6 @@
     "primary_key": "16",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -396,8 +395,9 @@
     "ai_reason": "",
     "source_en": "Obtained via Huanglong exploration",
     "review_note": "",
-    "new_translation_vi": "Nhận được từ khám phá Huanglong",
-    "translator_note": ""
+    "new_translation_vi": "Nhận được thông qua khám phá Huanglong",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000017",
@@ -411,7 +411,6 @@
     "primary_key": "17",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -422,7 +421,8 @@
     "source_en": "Found in the wild",
     "review_note": "",
     "new_translation_vi": "Tìm thấy trong tự nhiên",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000018",
@@ -436,7 +436,6 @@
     "primary_key": "18",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -446,8 +445,9 @@
     "ai_reason": "",
     "source_en": "Dropped by wild animals",
     "review_note": "",
-    "new_translation_vi": "Rơi từ quái thú hoang dã",
-    "translator_note": ""
+    "new_translation_vi": "Rơi ra từ động vật hoang dã",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000019",
@@ -461,7 +461,6 @@
     "primary_key": "19",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -471,8 +470,9 @@
     "ai_reason": "",
     "source_en": "Obtained via fish catching",
     "review_note": "",
-    "new_translation_vi": "Nhận được từ câu cá",
-    "translator_note": ""
+    "new_translation_vi": "Nhận được thông qua câu cá",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000020",
@@ -486,7 +486,6 @@
     "primary_key": "20",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -496,8 +495,9 @@
     "ai_reason": "",
     "source_en": "Obtained via insect catching",
     "review_note": "",
-    "new_translation_vi": "Nhận được từ bắt côn trùng",
-    "translator_note": ""
+    "new_translation_vi": "Nhận được thông qua bắt côn trùng",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000021",
@@ -511,7 +511,6 @@
     "primary_key": "21",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -521,8 +520,9 @@
     "ai_reason": "",
     "source_en": "Mostly found in: Gorges of Spirit",
     "review_note": "",
-    "new_translation_vi": "Thường thấy ở: Gorges of Spirit",
-    "translator_note": ""
+    "new_translation_vi": "Chủ yếu tìm thấy tại: Gorges of Spirit",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000022",
@@ -536,7 +536,6 @@
     "primary_key": "22",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -546,8 +545,9 @@
     "ai_reason": "",
     "source_en": "Mostly found in: Central Plains",
     "review_note": "",
-    "new_translation_vi": "Thường xuất hiện tại: Central Plains",
-    "translator_note": ""
+    "new_translation_vi": "Chủ yếu tìm thấy tại: Central Plains",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000023",
@@ -561,7 +561,6 @@
     "primary_key": "23",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -571,8 +570,9 @@
     "ai_reason": "",
     "source_en": "Mostly found in: Tiancheng",
     "review_note": "",
-    "new_translation_vi": "Thường thấy ở: Tiancheng",
-    "translator_note": ""
+    "new_translation_vi": "Chủ yếu tìm thấy tại: Tiancheng",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000024",
@@ -586,7 +586,6 @@
     "primary_key": "24",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -596,8 +595,9 @@
     "ai_reason": "",
     "source_en": "Mostly found in: Desorock Highlands",
     "review_note": "",
-    "new_translation_vi": "Thường thấy ở: Desorock Highlands",
-    "translator_note": ""
+    "new_translation_vi": "Chủ yếu tìm thấy tại: Desorock Highlands",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000025",
@@ -611,7 +611,6 @@
     "primary_key": "25",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -621,8 +620,9 @@
     "ai_reason": "",
     "source_en": "Mostly found in: Norfall Barrens",
     "review_note": "",
-    "new_translation_vi": "Thường thấy ở: Norfall Barrens",
-    "translator_note": ""
+    "new_translation_vi": "Chủ yếu tìm thấy tại: Norfall Barrens",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000026",
@@ -636,7 +636,6 @@
     "primary_key": "26",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -646,8 +645,9 @@
     "ai_reason": "",
     "source_en": "Mostly found in: Wasted Metropolis",
     "review_note": "",
-    "new_translation_vi": "Thường thấy ở: Wasted Metropolis",
-    "translator_note": ""
+    "new_translation_vi": "Thường tìm thấy tại: Wasted Metropolis",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000027",
@@ -661,7 +661,6 @@
     "primary_key": "27",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -671,8 +670,9 @@
     "ai_reason": "",
     "source_en": "Mostly found in: Hukou, the Tiger's Maw",
     "review_note": "",
-    "new_translation_vi": "Thường thấy ở: Hukou, the Tiger's Maw",
-    "translator_note": ""
+    "new_translation_vi": "Thường tìm thấy tại: Hukou, Tiger's Maw",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000028",
@@ -686,7 +686,6 @@
     "primary_key": "28",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -696,8 +695,9 @@
     "ai_reason": "",
     "source_en": "Mostly found in: Forsaken Abundance",
     "review_note": "",
-    "new_translation_vi": "Thường thấy ở: Forsaken Abundance",
-    "translator_note": ""
+    "new_translation_vi": "Thường tìm thấy tại: Forsaken Abundance",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000029",
@@ -711,7 +711,6 @@
     "primary_key": "29",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -721,8 +720,9 @@
     "ai_reason": "",
     "source_en": "Mostly found in: Dim Forest",
     "review_note": "",
-    "new_translation_vi": "Thường thấy ở: Dim Forest",
-    "translator_note": ""
+    "new_translation_vi": "Thường tìm thấy tại: Dim Forest",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000030",
@@ -736,7 +736,6 @@
     "primary_key": "30",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -746,8 +745,9 @@
     "ai_reason": "",
     "source_en": "Mostly found in: Whining Aix's Mire",
     "review_note": "",
-    "new_translation_vi": "Thường thấy ở: Whining Aix's Mire",
-    "translator_note": ""
+    "new_translation_vi": "Thường tìm thấy tại: Whining Aix's Mire",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000031",
@@ -761,7 +761,6 @@
     "primary_key": "31",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -771,8 +770,9 @@
     "ai_reason": "",
     "source_en": "Mostly found in: Black Shores",
     "review_note": "",
-    "new_translation_vi": "Thường xuất hiện tại: Black Shores",
-    "translator_note": ""
+    "new_translation_vi": "Thường tìm thấy tại: Black Shores",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000032",
@@ -786,7 +786,6 @@
     "primary_key": "32",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -796,8 +795,9 @@
     "ai_reason": "",
     "source_en": "Cooking",
     "review_note": "",
-    "new_translation_vi": "Nấu ăn",
-    "translator_note": ""
+    "new_translation_vi": "Cooking",
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000033",
@@ -811,7 +811,6 @@
     "primary_key": "33",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -821,8 +820,9 @@
     "ai_reason": "",
     "source_en": "Standard Class Tacet Discord drop",
     "review_note": "",
-    "new_translation_vi": "Vật phẩm rơi từ Tacet Discord Hạng Chuẩn",
-    "translator_note": ""
+    "new_translation_vi": "Vật phẩm rơi từ Tacet Discord cấp Thường",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000034",
@@ -836,7 +836,6 @@
     "primary_key": "34",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -846,8 +845,9 @@
     "ai_reason": "",
     "source_en": "Elite Class Tacet Discord drop",
     "review_note": "",
-    "new_translation_vi": "Rơi từ Tacet Discord hạng Cao Cấp",
-    "translator_note": ""
+    "new_translation_vi": "Vật phẩm rơi từ Tacet Discord cấp Tinh Anh",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000035",
@@ -861,7 +861,6 @@
     "primary_key": "35",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -871,8 +870,9 @@
     "ai_reason": "",
     "source_en": "Standard Class Mutant Organism drop",
     "review_note": "",
-    "new_translation_vi": "Vật phẩm rơi từ Sinh Vật Đột Biến Hạng Chuẩn",
-    "translator_note": ""
+    "new_translation_vi": "Vật phẩm rơi từ Sinh Vật Đột Biến cấp Thường",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000036",
@@ -886,7 +886,6 @@
     "primary_key": "36",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -896,8 +895,9 @@
     "ai_reason": "",
     "source_en": "Elite Class Mutant Organism drop",
     "review_note": "",
-    "new_translation_vi": "Rơi từ sinh vật đột biến Hạng Cao Cấp",
-    "translator_note": ""
+    "new_translation_vi": "Vật phẩm rơi từ Sinh Vật Đột Biến cấp Tinh Anh",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000037",
@@ -911,7 +911,6 @@
     "primary_key": "37",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -921,8 +920,9 @@
     "ai_reason": "",
     "source_en": "Standard Class Human drop",
     "review_note": "",
-    "new_translation_vi": "Vật phẩm rơi từ Người Hạng Chuẩn",
-    "translator_note": ""
+    "new_translation_vi": "Vật phẩm rơi từ Con Người cấp Thường",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000038",
@@ -936,7 +936,6 @@
     "primary_key": "38",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -946,8 +945,9 @@
     "ai_reason": "",
     "source_en": "Elite Class Human drop",
     "review_note": "",
-    "new_translation_vi": "Rơi từ người Hạng Cao Cấp",
-    "translator_note": ""
+    "new_translation_vi": "Vật phẩm rơi từ Con Người cấp Tinh Anh",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000039",
@@ -961,7 +961,6 @@
     "primary_key": "39",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -972,7 +971,8 @@
     "source_en": "Modulation",
     "review_note": "",
     "new_translation_vi": "Modulation",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000040",
@@ -986,7 +986,6 @@
     "primary_key": "40",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -996,8 +995,9 @@
     "ai_reason": "",
     "source_en": "Exchanged via the Joint Exchange",
     "review_note": "",
-    "new_translation_vi": "Đổi từ Sàn Giao Dịch Liên Kết",
-    "translator_note": ""
+    "new_translation_vi": "Đổi thông qua Joint Trao đổi",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000041",
@@ -1011,7 +1011,6 @@
     "primary_key": "41",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1021,8 +1020,9 @@
     "ai_reason": "",
     "source_en": "Exchanged via the Interference Exchange",
     "review_note": "",
-    "new_translation_vi": "Đổi từ Sàn Giao Dịch Nhiễu Loạn",
-    "translator_note": ""
+    "new_translation_vi": "Đổi thông qua Trao Đổi Interference",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000042",
@@ -1036,7 +1036,6 @@
     "primary_key": "42",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1046,8 +1045,9 @@
     "ai_reason": "",
     "source_en": "Exchanged via the Souvenirs Shop",
     "review_note": "",
-    "new_translation_vi": "Đổi từ Cửa Hàng Lưu Niệm",
-    "translator_note": ""
+    "new_translation_vi": "Đổi thông qua Cửa hàng Quà lưu niệm",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000043",
@@ -1061,7 +1061,6 @@
     "primary_key": "43",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
     "rule_decision": "PASS",
     "rule_score": 10,
@@ -1071,8 +1070,9 @@
     "ai_reason": "",
     "source_en": "Exchanged via the Antique Merchant - Tiancheng",
     "review_note": "",
-    "new_translation_vi": "Đổi từ Thương Nhân Cổ Vật - Tiancheng",
-    "translator_note": ""
+    "new_translation_vi": "Đổi thông qua Thương nhân Đồ cổ - Tiancheng",
+    "translator_note": "",
+    "status": "translated"
   },
   {
     "split_id": "UI_0000044",
@@ -1086,18 +1086,18 @@
     "primary_key": "44",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "51",
     "review_note": "",
     "new_translation_vi": "51",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000045",
@@ -1111,18 +1111,18 @@
     "primary_key": "45",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "52",
     "review_note": "",
     "new_translation_vi": "52",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000046",
@@ -1136,18 +1136,18 @@
     "primary_key": "50",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "53",
     "review_note": "",
     "new_translation_vi": "53",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   },
   {
     "split_id": "UI_0000047",
@@ -1161,17 +1161,17 @@
     "primary_key": "51",
     "column": "Content",
     "category": "general",
-    "status": "translated",
     "issues": "",
-    "rule_decision": "REVIEW",
-    "rule_score": 6,
-    "rule_issues": "same_as_source",
+    "rule_decision": "PASS",
+    "rule_score": 10,
+    "rule_issues": "",
     "ai_decision": "",
     "ai_score": "",
     "ai_reason": "",
     "source_en": "54",
     "review_note": "",
     "new_translation_vi": "54",
-    "translator_note": ""
+    "translator_note": "",
+    "status": "keep_english"
   }
 ]
