@@ -29,7 +29,8 @@ public:
             hConsole_ = GetStdHandle(STD_OUTPUT_HANDLE);
             if (hConsole_ == nullptr || hConsole_ == INVALID_HANDLE_VALUE) {
                 if (!AllocConsole()) {
-                    throw std::runtime_error("Failed to allocate console.");
+                    hConsole_ = nullptr;
+                    return;
                 }
                 // Gán stream stdout vào console debug
                 /*FILE* fp;

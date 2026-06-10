@@ -19,14 +19,21 @@
 #pragma comment(linker, "/export:VerQueryValueA=version_orig.VerQueryValueA,@16")
 #pragma comment(linker, "/export:VerQueryValueW=version_orig.VerQueryValueW,@17")
 
+DWORD WINAPI LoadPayloadThread(LPVOID lpParam)
+{
+    // Sleep a tiny bit to let the loader lock release
+    Sleep(100);
+    LoadLibraryW(L"wuwaVietHoa.dll");
+    return 0;
+}
+
 BOOL APIENTRY DllMain(HMODULE hModule, DWORD ul_reason_for_call, LPVOID lpReserved)
 {
     switch (ul_reason_for_call)
     {
     case DLL_PROCESS_ATTACH:
         DisableThreadLibraryCalls(hModule);
-        // Load the translation injector payload DLL
-        LoadLibraryW(L"wuwaVietHoa.dll");
+        CreateThread(NULL, 0, LoadPayloadThread, NULL, 0, NULL);
         break;
     case DLL_THREAD_ATTACH:
     case DLL_THREAD_DETACH:
